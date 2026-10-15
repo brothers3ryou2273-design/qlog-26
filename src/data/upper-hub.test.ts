@@ -1,3 +1,4 @@
+import upperConnections from "../../docs/upper-hub-connections.json";
 import { describe, expect, it } from "vitest";
 import audit from "../../docs/upper-hub-audit.json";
 import baseline from "../../docs/progress-baseline-474.json";
@@ -42,7 +43,19 @@ describe("upper hub primary rosters and released progress", () => {
         b.rank,
         b.recipeUrl,
       ]);
-      expect(q.unlocks).toEqual(expect.arrayContaining(b.unlocks));
+      expect(q.unlocks).toEqual(
+        expect.arrayContaining(
+          b.unlocks.map(
+            (u) =>
+              upperConnections.unlockNoteChanges.find(
+                (c) =>
+                  c.questId === b.id &&
+                  c.kind === u.kind &&
+                  c.label === u.label,
+              )?.after ?? u,
+          ),
+        ),
+      );
     }
   });
   it("keeps version-1 backups, HR and unknown IDs while adding new upper progress", () => {
@@ -193,3 +206,180 @@ for (const rank of audit.ranks.filter((r) => r.rank === "6")) {
     }
   });
 }
+
+it("only changes audited legacy prerequisites and preserves their residual gates", async () => {
+  const flatten = (
+    r: import("../lib/types").Rule,
+  ): import("../lib/types").Rule[] =>
+    r.kind === "all" || r.kind === "any" ? r.rules.flatMap(flatten) : [r];
+  for (const b of baseline) {
+    const q = quests.find((q) => q.id === b.id)!;
+    const c = upperConnections.changes.find((c) => c.questId === b.id);
+    if (c) {
+      expect(q.condition).toEqual(c.after);
+      const inherited = (c.resolvedInheritedPrerequisites ??
+        []) as import("../lib/types").Rule[];
+      for (const node of flatten(c.before as import("../lib/types").Rule)) {
+        if (node.kind === "external_flag" && /集★[4-7]/.test(node.label))
+          continue;
+        if (inherited.some((x) => JSON.stringify(x) === JSON.stringify(node)))
+          continue;
+        expect(flatten(q.condition)).toContainEqual(node);
+      }
+    } else {
+      const canonical = JSON.stringify(q.condition, [
+        "kind",
+        "label",
+        "note",
+        "questId",
+        "rules",
+        "value",
+      ]);
+      const digest = await crypto.subtle.digest(
+        "SHA-256",
+        new TextEncoder().encode(canonical),
+      );
+      expect(
+        Array.from(new Uint8Array(digest), (b) =>
+          b.toString(16).padStart(2, "0"),
+        ).join(""),
+      ).toBe(b.conditionSha256);
+    }
+  }
+});
+
+it("rank-7 urgents distinguish five lower keys, six upper keys, HR and the G-rank transition", () => {
+  const named = (name: string) =>
+    quests.find(
+      (q) => q.category === "hub" && q.rank === "7" && q.name === name,
+    )!;
+  const lower = quests.filter(
+    (q) => q.category === "hub" && q.rank === "6" && q.tags.includes("key"),
+  );
+  const upper = quests.filter(
+    (q) => q.category === "hub" && q.rank === "7" && q.tags.includes("key"),
+  );
+  expect(lower).toHaveLength(5);
+  expect(upper).toHaveLength(6);
+  expect(references(named("千刃竜セルレギオス").condition)).toEqual(
+    lower.map((q) => q.id),
+  );
+  const final = named("奈落の妖星");
+  expect(references(final.condition)).toEqual(upper.map((q) => q.id));
+  for (let mask = 0; mask < 64; mask++)
+    expect(
+      evaluate(final.condition, {
+        schemaVersion: 1,
+        completedQuestIds: upper
+          .filter((_, i) => mask & (1 << i))
+          .map((q) => q.id),
+        hr: 7,
+      }),
+    ).toBe(mask === 63 ? "met" : "unmet");
+  expect(
+    evaluate(final.condition, {
+      schemaVersion: 1,
+      completedQuestIds: upper.map((q) => q.id),
+      hr: 6,
+    }),
+  ).toBe("unmet");
+  const letter = named("遺跡平原からの伝書");
+  expect(references(letter.condition)).toContain(final.id);
+  const g = named("その腕前、噂通りかしら…？");
+  expect(references(g.condition)).toEqual([
+    ...upper.map((q) => q.id),
+    letter.id,
+  ]);
+  const all = quests.map((q) => q.id);
+  expect(
+    evaluate(g.condition, { schemaVersion: 1, completedQuestIds: all, hr: 7 }),
+  ).toBe("unmet");
+  expect(
+    evaluate(g.condition, { schemaVersion: 1, completedQuestIds: all, hr: 8 }),
+  ).toBe("met");
+  expect(
+    evaluate(g.condition, {
+      schemaVersion: 1,
+      completedQuestIds: all.filter((id) => id !== letter.id),
+      hr: 8,
+    }),
+  ).toBe("unmet");
+});
+
+it("known completion resolves an inherited request without claiming its unknown eligibility is known", () => {
+  const parent = quests.find(
+    (q) => q.category === "village" && q.name === "熱地に現る、ウラガンキン！",
+  )!;
+  const request = quests.find(
+    (q) => q.category === "hub" && q.name === "心を燃やせ、燃石炭！",
+  )!;
+  const all = quests.map((q) => q.id);
+  expect(
+    evaluate(request.condition, {
+      schemaVersion: 1,
+      completedQuestIds: all,
+      hr: 999,
+    }),
+  ).toBe("unknown");
+  expect(
+    evaluate(parent.condition, {
+      schemaVersion: 1,
+      completedQuestIds: all,
+      hr: 999,
+    }),
+  ).toBe("met");
+  expect(
+    evaluate(parent.condition, {
+      schemaVersion: 1,
+      completedQuestIds: all.filter((id) => id !== request.id),
+      hr: 999,
+    }),
+  ).toBe("unmet");
+});
+
+it("retains G2, material delivery, total hunt counts, random spawns and HR-cap state", () => {
+  const all = quests.map((q) => q.id);
+  for (const name of [
+    "轟竜の狩猟をさせてやるぜ！",
+    "高難度：喧嘩の仲裁は村を救う",
+    "高難度：炎王の帰還",
+  ]) {
+    const q = quests.find((q) => q.category === "village" && q.name === name)!;
+    expect(
+      evaluate(q.condition, {
+        schemaVersion: 1,
+        completedQuestIds: all,
+        hr: 999,
+      }),
+    ).toBe("unknown");
+  }
+  const ship = quests.find(
+    (q) => q.category === "hub" && q.name === "蒼く渦巻く登竜門",
+  )!;
+  expect(JSON.stringify(ship.condition)).toContain(
+    "ユクモの木 x5泡立つ滑液 x2海綿質の上皮 x1",
+  );
+  const silver = quests.find(
+    (q) => q.category === "hub" && q.name === "白銀の火輪",
+  )!;
+  expect(JSON.stringify(silver.condition)).toContain("200体以上");
+  expect(
+    evaluate(silver.condition, {
+      schemaVersion: 1,
+      completedQuestIds: all,
+      hr: 999,
+    }),
+  ).toBe("unknown");
+  const random = quests.find(
+    (q) =>
+      q.category === "hub" && q.rank === "7" && q.name === "氷点下の支配者",
+  )!;
+  expect(JSON.stringify(random.condition)).toContain("ランダム");
+  expect(
+    evaluate(random.condition, {
+      schemaVersion: 1,
+      completedQuestIds: all,
+      hr: 999,
+    }),
+  ).toBe("unknown");
+});

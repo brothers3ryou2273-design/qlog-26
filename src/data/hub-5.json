@@ -1495,12 +1495,25 @@
         }
       ]
     },
-    "npcNotes": ["受注・参加のHR条件：HR4以上（出現前提とは別）。"],
+    "npcNotes": [
+      "受注・参加のHR条件：HR4以上（出現前提とは別）。",
+      "ギルドマネージャーと話して緊急クエストを出現させる。"
+    ],
     "unlocks": [
       {
         "kind": "hunter_art",
         "label": "ブレイドワイヤー LV2",
         "note": "同じ狩技の村側の解放経路：村★6「青と緑の波状包囲網」。集会所と村のクリアを両方要求する条件ではありません（OR）。"
+      },
+      {
+        "kind": "other",
+        "label": "HR5への進行",
+        "note": "この緊急の達成後に進行。実際の昇格・反映はゲーム内で確認してください。"
+      },
+      {
+        "kind": "facility",
+        "label": "オトモの初期雇用レベル10〜12の解放経路",
+        "note": "この緊急によるHR5到達、または村★6「牙と毒の沼地」のクリア（OR）。育成上限とは別。解放済みのより高い初期雇用レベルを下げる意味ではありません。"
       },
       {
         "kind": "food",
@@ -1528,6 +1541,18 @@
         "checkedAt": "2026-10-16"
       },
       {
+        "site": "MHXXニャンターwiki（オトモ）",
+        "url": "https://w.atwiki.jp/mhxxnyanter/pages/20.html",
+        "kind": "list",
+        "checkedAt": "2026-10-16"
+      },
+      {
+        "site": "MHXXニャンターwiki（ニャンタークエスト）",
+        "url": "https://w.atwiki.jp/mhxxnyanter/pages/24.html",
+        "kind": "list",
+        "checkedAt": "2026-10-16"
+      },
+      {
         "site": "MHXX攻略Wiki（食材）",
         "url": "https://mhx-wiki.com/?%E9%A3%9F%E6%9D%90%E3%82%AF%E3%82%A8%E3%82%B9%E3%83%88%E4%B8%80%E8%A6%A7",
         "kind": "list",
@@ -1542,7 +1567,7 @@
     ],
     "verification": "partial",
     "verificationNote": "攻略レシピの一覧・個別ページを照合。条件と解放要素の完全確認を意味しません。記録上の前提達成とゲーム内での受注・受領状態を区別します。",
-    "warnings": ["施設の印に対応する具体的な内容・追加条件は未確認です。"]
+    "warnings": []
   },
   {
     "id": "hub-5-recipe-238237",

@@ -72,7 +72,19 @@ describe("observed hub rosters and cross-category dependencies", () => {
     for (const b of baseline) {
       const q = quests.find((q) => q.id === b.id)!;
       expect([q.name, q.rank]).toEqual([b.name, b.rank]);
-      expect(q.unlocks).toEqual(expect.arrayContaining(b.unlocks));
+      expect(q.unlocks).toEqual(
+        expect.arrayContaining(
+          b.unlocks.map(
+            (u) =>
+              upperConnections.unlockNoteChanges.find(
+                (c) =>
+                  c.questId === b.id &&
+                  c.kind === u.kind &&
+                  c.label === u.label,
+              )?.after ?? u,
+          ),
+        ),
+      );
       if (
         ![...connections.changes, ...upperConnections.changes].some(
           (c) => c.questId === b.id,
