@@ -1,0 +1,1397 @@
+{
+  "checkedAt": "2026-10-16",
+  "primaryLists": [
+    {
+      "rank": "7",
+      "url": "http://wiki.mhxg.org/data/2017.html"
+    },
+    {
+      "rank": "8",
+      "url": "http://wiki.mhxg.org/data/2018.html"
+    },
+    {
+      "rank": "9",
+      "url": "http://wiki.mhxg.org/data/2019.html"
+    },
+    {
+      "rank": "10",
+      "url": "http://wiki.mhxg.org/data/2020.html"
+    }
+  ],
+  "rosterComparisons": [
+    {
+      "rank": "7",
+      "primaryCount": 37,
+      "game8Count": 37,
+      "primaryOnlyNames": [],
+      "game8OnlyNames": [],
+      "game8ListUrl": "https://game8.jp/mh-xx/824265",
+      "checkedAt": "2026-10-16"
+    },
+    {
+      "rank": "8",
+      "primaryCount": 42,
+      "game8Count": 42,
+      "primaryOnlyNames": [
+        "ぷくぅーっ！ザボアザギル！",
+        "狩人のための舞台～氷海～"
+      ],
+      "game8OnlyNames": [
+        "ぶくぅーっ！ザボアザギル！",
+        "狩人のための舞台〜氷海〜"
+      ],
+      "game8ListUrl": "https://game8.jp/mh-xx/824265",
+      "checkedAt": "2026-10-16"
+    },
+    {
+      "rank": "9",
+      "primaryCount": 44,
+      "game8Count": 44,
+      "primaryOnlyNames": [
+        "狩人のための舞台～密林～",
+        "領主の命令～泡狐竜篇～"
+      ],
+      "game8OnlyNames": ["狩人のための舞台〜密林〜", "領主の命令〜泡狐竜篇〜"],
+      "game8ListUrl": "https://game8.jp/mh-xx/824265",
+      "checkedAt": "2026-10-16"
+    },
+    {
+      "rank": "10",
+      "primaryCount": 50,
+      "game8Count": 33,
+      "primaryOnlyNames": [
+        "狩人のための舞台～森丘～",
+        "領主の依頼～大連続篇～",
+        "高難度：ギルドからの試練",
+        "高難度：ダブルクロス",
+        "高難度：モンスターハンター",
+        "高難度：古代林に現る２頭の影",
+        "高難度：喧嘩の仲裁は村を救う",
+        "高難度：宵闇に消ゆ",
+        "高難度：彼女は輝く金火竜",
+        "高難度：月夜を仰ぐ雷狼竜",
+        "高難度：森丘にて火竜は旋廻す",
+        "高難度：禍は鋼鉄よりも硬し",
+        "高難度：覇者の証明",
+        "高難度：遺群嶺の試練",
+        "高難度：銀陽は沈まない",
+        "高難度：陽炎の帝国",
+        "高難度：雪山に佇む轟竜",
+        "高難度：龍歴院からの挑戦状",
+        "黒き光を放つ神"
+      ],
+      "game8OnlyNames": ["狩人のための舞台〜森丘〜", "領主の依頼〜大連続篇〜"],
+      "game8ListUrl": "https://game8.jp/mh-xx/824265",
+      "checkedAt": "2026-10-16"
+    }
+  ],
+  "supplementalPrerequisites": [
+    {
+      "name": "遺群嶺の採集ツアー",
+      "rank": "7",
+      "url": "https://game8.jp/mh-xx/823029",
+      "checkedAt": "2026-10-16",
+      "observedAppearanceCondition": {
+        "text": "調査隊初陣！ 遺群嶺の桃毛獣 （村★7緊急クエスト）をクリア後、調査隊の隊長と話す",
+        "links": [
+          {
+            "label": "調査隊初陣！ 遺群嶺の桃毛獣",
+            "url": "https://game8.jp/mh-xx/823041"
+          }
+        ]
+      }
+    },
+    {
+      "name": "遺跡平原の採集ツアー",
+      "rank": "7",
+      "url": "https://game8.jp/mh-xx/823031",
+      "checkedAt": "2026-10-16",
+      "observedAppearanceCondition": {
+        "text": "調査隊初陣！ 遺群嶺の桃毛獣 （村★7緊急クエスト）をクリア後、調査隊の隊長と話す",
+        "links": [
+          {
+            "label": "調査隊初陣！ 遺群嶺の桃毛獣",
+            "url": "https://game8.jp/mh-xx/823041"
+          }
+        ]
+      }
+    },
+    {
+      "name": "雪山の採集ツアー",
+      "rank": "7",
+      "url": "https://game8.jp/mh-xx/823036",
+      "checkedAt": "2026-10-16",
+      "observedAppearanceCondition": {
+        "text": "調査隊初陣！ 遺群嶺の桃毛獣 （村★7緊急クエスト）をクリア後、調査隊の隊長と話す",
+        "links": [
+          {
+            "label": "調査隊初陣！ 遺群嶺の桃毛獣",
+            "url": "https://game8.jp/mh-xx/823041"
+          }
+        ]
+      }
+    },
+    {
+      "name": "挑発上手の跳狗竜",
+      "rank": "7",
+      "url": "https://game8.jp/mh-xx/823038",
+      "checkedAt": "2026-10-16",
+      "observedAppearanceCondition": {
+        "text": "調査隊初陣！ 遺群嶺の桃毛獣 （村★7緊急クエスト）をクリア後、調査隊の隊長と話す",
+        "links": [
+          {
+            "label": "調査隊初陣！ 遺群嶺の桃毛獣",
+            "url": "https://game8.jp/mh-xx/823041"
+          }
+        ]
+      }
+    },
+    {
+      "name": "青熊獣、出没中につき",
+      "rank": "7",
+      "url": "https://game8.jp/mh-xx/823039",
+      "checkedAt": "2026-10-16",
+      "observedAppearanceCondition": {
+        "text": "調査隊初陣！ 遺群嶺の桃毛獣 （村★7緊急クエスト）をクリア後、調査隊の隊長と話す",
+        "links": [
+          {
+            "label": "調査隊初陣！ 遺群嶺の桃毛獣",
+            "url": "https://game8.jp/mh-xx/823041"
+          }
+        ]
+      }
+    },
+    {
+      "name": "怪鳥の憂鬱",
+      "rank": "7",
+      "url": "https://game8.jp/mh-xx/823040",
+      "checkedAt": "2026-10-16",
+      "observedAppearanceCondition": {
+        "text": "調査隊初陣！ 遺群嶺の桃毛獣 （村★7緊急クエスト）をクリア後、調査隊の隊長と話す",
+        "links": [
+          {
+            "label": "調査隊初陣！ 遺群嶺の桃毛獣",
+            "url": "https://game8.jp/mh-xx/823041"
+          }
+        ]
+      }
+    },
+    {
+      "name": "不潔ものの大集会",
+      "rank": "7",
+      "url": "https://game8.jp/mh-xx/823042",
+      "checkedAt": "2026-10-16",
+      "observedAppearanceCondition": {
+        "text": "調査隊初陣！ 遺群嶺の桃毛獣 （村★7緊急クエスト）をクリア後、調査隊の隊長と話す",
+        "links": [
+          {
+            "label": "調査隊初陣！ 遺群嶺の桃毛獣",
+            "url": "https://game8.jp/mh-xx/823041"
+          }
+        ]
+      }
+    },
+    {
+      "name": "竜の卵の納品・モーニング",
+      "rank": "7",
+      "url": "https://game8.jp/mh-xx/823045",
+      "checkedAt": "2026-10-16",
+      "observedAppearanceCondition": {
+        "text": "調査隊初陣！ 遺群嶺の桃毛獣 （村★7緊急クエスト）をクリア後、調査隊の隊長と話す",
+        "links": [
+          {
+            "label": "調査隊初陣！ 遺群嶺の桃毛獣",
+            "url": "https://game8.jp/mh-xx/823041"
+          }
+        ]
+      }
+    },
+    {
+      "name": "珍味アルセルタスをもう一度",
+      "rank": "7",
+      "url": "https://game8.jp/mh-xx/823051",
+      "checkedAt": "2026-10-16",
+      "observedAppearanceCondition": {
+        "text": "調査隊初陣！ 遺群嶺の桃毛獣 （村★7緊急クエスト）をクリア後、調査隊の隊長と話す",
+        "links": [
+          {
+            "label": "調査隊初陣！ 遺群嶺の桃毛獣",
+            "url": "https://game8.jp/mh-xx/823041"
+          }
+        ]
+      }
+    },
+    {
+      "name": "イタズラ猿に制裁を",
+      "rank": "7",
+      "url": "https://game8.jp/mh-xx/823115",
+      "checkedAt": "2026-10-16",
+      "observedAppearanceCondition": {
+        "text": "調査隊初陣！ 遺群嶺の桃毛獣 （村★7緊急クエスト）をクリア後、調査隊の隊長と話す",
+        "links": [
+          {
+            "label": "調査隊初陣！ 遺群嶺の桃毛獣",
+            "url": "https://game8.jp/mh-xx/823041"
+          }
+        ]
+      }
+    },
+    {
+      "name": "商売ガタキのドスギアノス",
+      "rank": "7",
+      "url": "https://game8.jp/mh-xx/823122",
+      "checkedAt": "2026-10-16",
+      "observedAppearanceCondition": {
+        "text": "調査隊初陣！ 遺群嶺の桃毛獣 （村★7緊急クエスト）をクリア後、調査隊の隊長と話す",
+        "links": [
+          {
+            "label": "調査隊初陣！ 遺群嶺の桃毛獣",
+            "url": "https://game8.jp/mh-xx/823041"
+          }
+        ]
+      }
+    },
+    {
+      "name": "氷雪に舞う白うさぎ",
+      "rank": "7",
+      "url": "https://game8.jp/mh-xx/823123",
+      "checkedAt": "2026-10-16",
+      "observedAppearanceCondition": {
+        "text": "調査隊初陣！ 遺群嶺の桃毛獣 （村★7緊急クエスト）をクリア後、調査隊の隊長と話す",
+        "links": [
+          {
+            "label": "調査隊初陣！ 遺群嶺の桃毛獣",
+            "url": "https://game8.jp/mh-xx/823041"
+          }
+        ]
+      }
+    },
+    {
+      "name": "ニャンター、お使い再び",
+      "rank": "7",
+      "url": "https://game8.jp/mh-xx/823126",
+      "checkedAt": "2026-10-16",
+      "observedAppearanceCondition": {
+        "text": "調査隊初陣！ 遺群嶺の桃毛獣 （村★7緊急クエスト）をクリア後、調査隊の隊長と話す",
+        "links": [
+          {
+            "label": "調査隊初陣！ 遺群嶺の桃毛獣",
+            "url": "https://game8.jp/mh-xx/823041"
+          }
+        ]
+      }
+    },
+    {
+      "name": "芳香せしコンガ",
+      "rank": "7",
+      "url": "https://game8.jp/mh-xx/823127",
+      "checkedAt": "2026-10-16",
+      "observedAppearanceCondition": {
+        "text": "ニャンター、お使い再び をクリア",
+        "links": [
+          {
+            "label": "ニャンター、お使い再び",
+            "url": "https://game8.jp/mh-xx/823126"
+          }
+        ]
+      }
+    },
+    {
+      "name": "疾走するドスランポス",
+      "rank": "7",
+      "url": "https://game8.jp/mh-xx/823128",
+      "checkedAt": "2026-10-16",
+      "observedAppearanceCondition": {
+        "text": "芳香せしコンガ をクリア",
+        "links": [
+          {
+            "label": "芳香せしコンガ",
+            "url": "https://game8.jp/mh-xx/823127"
+          }
+        ]
+      }
+    },
+    {
+      "name": "密林の採集ツアー",
+      "rank": "8",
+      "url": "https://game8.jp/mh-xx/823129",
+      "checkedAt": "2026-10-16",
+      "observedAppearanceCondition": {
+        "text": "原生林に巣食う蜘蛛 （村★8緊急クエスト）をクリア後、調査隊の隊長と話す",
+        "links": [
+          {
+            "label": "原生林に巣食う蜘蛛",
+            "url": "https://game8.jp/mh-xx/823148"
+          }
+        ]
+      }
+    },
+    {
+      "name": "孤島の採集ツアー",
+      "rank": "8",
+      "url": "https://game8.jp/mh-xx/823132",
+      "checkedAt": "2026-10-16",
+      "observedAppearanceCondition": {
+        "text": "原生林に巣食う蜘蛛 （村★8緊急クエスト）をクリア後、調査隊の隊長と話す",
+        "links": [
+          {
+            "label": "原生林に巣食う蜘蛛",
+            "url": "https://game8.jp/mh-xx/823148"
+          }
+        ]
+      }
+    },
+    {
+      "name": "沼地の採集ツアー",
+      "rank": "8",
+      "url": "https://game8.jp/mh-xx/823133",
+      "checkedAt": "2026-10-16",
+      "observedAppearanceCondition": {
+        "text": "原生林に巣食う蜘蛛 （村★8緊急クエスト）をクリア後、調査隊の隊長と話す",
+        "links": [
+          {
+            "label": "原生林に巣食う蜘蛛",
+            "url": "https://game8.jp/mh-xx/823148"
+          }
+        ]
+      }
+    },
+    {
+      "name": "道化師は斯く嘲る",
+      "rank": "8",
+      "url": "https://game8.jp/mh-xx/823135",
+      "checkedAt": "2026-10-16",
+      "observedAppearanceCondition": {
+        "text": "原生林に巣食う蜘蛛 （村★8緊急クエスト）をクリア後、調査隊の隊長と話す",
+        "links": [
+          {
+            "label": "原生林に巣食う蜘蛛",
+            "url": "https://game8.jp/mh-xx/823148"
+          }
+        ]
+      }
+    },
+    {
+      "name": "山嶺を舞うリオレイア",
+      "rank": "8",
+      "url": "https://game8.jp/mh-xx/823136",
+      "checkedAt": "2026-10-16",
+      "observedAppearanceCondition": {
+        "text": "原生林に巣食う蜘蛛 （村★8緊急クエスト）をクリア後、調査隊の隊長と話す",
+        "links": [
+          {
+            "label": "原生林に巣食う蜘蛛",
+            "url": "https://game8.jp/mh-xx/823148"
+          }
+        ]
+      }
+    },
+    {
+      "name": "切り裂かれた誇り",
+      "rank": "8",
+      "url": "https://game8.jp/mh-xx/823138",
+      "checkedAt": "2026-10-16",
+      "observedAppearanceCondition": {
+        "text": "原生林に巣食う蜘蛛 （村★8緊急クエスト）をクリア後、調査隊の隊長と話す",
+        "links": [
+          {
+            "label": "原生林に巣食う蜘蛛",
+            "url": "https://game8.jp/mh-xx/823148"
+          }
+        ]
+      }
+    },
+    {
+      "name": "おやつは高層エリンギ",
+      "rank": "8",
+      "url": "https://game8.jp/mh-xx/823139",
+      "checkedAt": "2026-10-16",
+      "observedAppearanceCondition": {
+        "text": "原生林に巣食う蜘蛛 （村★8緊急クエスト）をクリア後、調査隊の隊長と話す",
+        "links": [
+          {
+            "label": "原生林に巣食う蜘蛛",
+            "url": "https://game8.jp/mh-xx/823148"
+          }
+        ]
+      }
+    },
+    {
+      "name": "転がれ！ 転がせ！ 赤い牙獣",
+      "rank": "8",
+      "url": "https://game8.jp/mh-xx/823140",
+      "checkedAt": "2026-10-16",
+      "observedAppearanceCondition": {
+        "text": "原生林に巣食う蜘蛛 （村★8緊急クエスト）をクリア後、調査隊の隊長と話す",
+        "links": [
+          {
+            "label": "原生林に巣食う蜘蛛",
+            "url": "https://game8.jp/mh-xx/823148"
+          }
+        ]
+      }
+    },
+    {
+      "name": "喰われる前にヤレ！",
+      "rank": "8",
+      "url": "https://game8.jp/mh-xx/823141",
+      "checkedAt": "2026-10-16",
+      "observedAppearanceCondition": {
+        "text": "原生林に巣食う蜘蛛 （村★8緊急クエスト）をクリア後、調査隊の隊長と話す",
+        "links": [
+          {
+            "label": "原生林に巣食う蜘蛛",
+            "url": "https://game8.jp/mh-xx/823148"
+          }
+        ]
+      }
+    },
+    {
+      "name": "なんと、黒狼鳥でした！",
+      "rank": "8",
+      "url": "https://game8.jp/mh-xx/823143",
+      "checkedAt": "2026-10-16",
+      "observedAppearanceCondition": {
+        "text": "原生林に巣食う蜘蛛 （村★8緊急クエスト）をクリア後、調査隊の隊長と話す",
+        "links": [
+          {
+            "label": "原生林に巣食う蜘蛛",
+            "url": "https://game8.jp/mh-xx/823148"
+          }
+        ]
+      }
+    },
+    {
+      "name": "雷光の先の面影",
+      "rank": "8",
+      "url": "https://game8.jp/mh-xx/823144",
+      "checkedAt": "2026-10-16",
+      "observedAppearanceCondition": {
+        "text": "原生林に巣食う蜘蛛 （村★8緊急クエスト）をクリア後、調査隊の隊長と話す",
+        "links": [
+          {
+            "label": "原生林に巣食う蜘蛛",
+            "url": "https://game8.jp/mh-xx/823148"
+          }
+        ]
+      }
+    },
+    {
+      "name": "はじける貝殻マネー",
+      "rank": "8",
+      "url": "https://game8.jp/mh-xx/823145",
+      "checkedAt": "2026-10-16",
+      "observedAppearanceCondition": {
+        "text": "原生林に巣食う蜘蛛 （村★8緊急クエスト）をクリア後、調査隊の隊長と話す",
+        "links": [
+          {
+            "label": "原生林に巣食う蜘蛛",
+            "url": "https://game8.jp/mh-xx/823148"
+          }
+        ]
+      }
+    },
+    {
+      "name": "竜の卵の納品・ランチ",
+      "rank": "8",
+      "url": "https://game8.jp/mh-xx/823146",
+      "checkedAt": "2026-10-16",
+      "observedAppearanceCondition": {
+        "text": "原生林に巣食う蜘蛛 （村★8緊急クエスト）をクリア後、調査隊の隊長と話す",
+        "links": [
+          {
+            "label": "原生林に巣食う蜘蛛",
+            "url": "https://game8.jp/mh-xx/823148"
+          }
+        ]
+      }
+    },
+    {
+      "name": "原生林に巣食う蜘蛛",
+      "rank": "8",
+      "url": "https://game8.jp/mh-xx/823148",
+      "checkedAt": "2026-10-16",
+      "observedAppearanceCondition": {
+        "text": "遺群嶺の不思議な石 、 これが本当のダイミョウ行列？ をクリア後、調査隊の隊長と話す",
+        "links": [
+          {
+            "label": "遺群嶺の不思議な石",
+            "url": "https://game8.jp/mh-xx/823043"
+          },
+          {
+            "label": "これが本当のダイミョウ行列？",
+            "url": "https://game8.jp/mh-xx/823046"
+          }
+        ]
+      }
+    },
+    {
+      "name": "嗚呼素晴らしき也、絞蛇竜",
+      "rank": "8",
+      "url": "https://game8.jp/mh-xx/823149",
+      "checkedAt": "2026-10-16",
+      "observedAppearanceCondition": {
+        "text": "原生林に巣食う蜘蛛 （村★8緊急クエスト）をクリア後、調査隊の隊長と話す",
+        "links": [
+          {
+            "label": "原生林に巣食う蜘蛛",
+            "url": "https://game8.jp/mh-xx/823148"
+          }
+        ]
+      }
+    },
+    {
+      "name": "フルフルのまごころ診療所",
+      "rank": "8",
+      "url": "https://game8.jp/mh-xx/823156",
+      "checkedAt": "2026-10-16",
+      "observedAppearanceCondition": {
+        "text": "原生林に巣食う蜘蛛 （村★8緊急クエスト）をクリア後、調査隊の隊長と話す",
+        "links": [
+          {
+            "label": "原生林に巣食う蜘蛛",
+            "url": "https://game8.jp/mh-xx/823148"
+          }
+        ]
+      }
+    },
+    {
+      "name": "ホワイトアウト",
+      "rank": "8",
+      "url": "https://game8.jp/mh-xx/823157",
+      "checkedAt": "2026-10-16",
+      "observedAppearanceCondition": {
+        "text": "原生林に巣食う蜘蛛 （村★8緊急クエスト）をクリア後、調査隊の隊長と話す",
+        "links": [
+          {
+            "label": "原生林に巣食う蜘蛛",
+            "url": "https://game8.jp/mh-xx/823148"
+          }
+        ]
+      }
+    },
+    {
+      "name": "たまには釣りでもいかが？",
+      "rank": "8",
+      "url": "https://game8.jp/mh-xx/823158",
+      "checkedAt": "2026-10-16",
+      "observedAppearanceCondition": {
+        "text": "原生林に巣食う蜘蛛 （村★8緊急クエスト）をクリア後、調査隊の隊長と話す",
+        "links": [
+          {
+            "label": "原生林に巣食う蜘蛛",
+            "url": "https://game8.jp/mh-xx/823148"
+          }
+        ]
+      }
+    },
+    {
+      "name": "陸の女王、捕獲作戦！",
+      "rank": "8",
+      "url": "https://game8.jp/mh-xx/823159",
+      "checkedAt": "2026-10-16",
+      "observedAppearanceCondition": {
+        "text": "原生林に巣食う蜘蛛 （村★8緊急クエスト）をクリア後、調査隊の隊長と話す",
+        "links": [
+          {
+            "label": "原生林に巣食う蜘蛛",
+            "url": "https://game8.jp/mh-xx/823148"
+          }
+        ]
+      }
+    },
+    {
+      "name": "でっかい岩だと思ったら…？",
+      "rank": "8",
+      "url": "https://game8.jp/mh-xx/823162",
+      "checkedAt": "2026-10-16",
+      "observedAppearanceCondition": {
+        "text": "原生林に巣食う蜘蛛 （村★8緊急クエスト）をクリア後、調査隊の隊長と話す",
+        "links": [
+          {
+            "label": "原生林に巣食う蜘蛛",
+            "url": "https://game8.jp/mh-xx/823148"
+          }
+        ]
+      }
+    },
+    {
+      "name": "遺群嶺の火竜",
+      "rank": "9",
+      "url": "https://game8.jp/mh-xx/823171",
+      "checkedAt": "2026-10-16",
+      "observedAppearanceCondition": {
+        "text": "彗星の前にあらわる鎧竜 （村★9緊急クエスト）をクリア後、調査隊の隊長と話す",
+        "links": [
+          {
+            "label": "彗星の前にあらわる鎧竜",
+            "url": "https://game8.jp/mh-xx/823202"
+          }
+        ]
+      }
+    },
+    {
+      "name": "嗚呼素晴らしき也、雷狼竜",
+      "rank": "9",
+      "url": "https://game8.jp/mh-xx/823172",
+      "checkedAt": "2026-10-16",
+      "observedAppearanceCondition": {
+        "text": "彗星の前にあらわる鎧竜 （村★9緊急クエスト）をクリア後、調査隊の隊長と話す",
+        "links": [
+          {
+            "label": "彗星の前にあらわる鎧竜",
+            "url": "https://game8.jp/mh-xx/823202"
+          }
+        ]
+      }
+    },
+    {
+      "name": "鎧竜は、とってもグルメ？",
+      "rank": "9",
+      "url": "https://game8.jp/mh-xx/823173",
+      "checkedAt": "2026-10-16",
+      "observedAppearanceCondition": {
+        "text": "彗星の前にあらわる鎧竜 （村★9緊急クエスト）をクリア後、調査隊の隊長と話す",
+        "links": [
+          {
+            "label": "彗星の前にあらわる鎧竜",
+            "url": "https://game8.jp/mh-xx/823202"
+          }
+        ]
+      }
+    },
+    {
+      "name": "突撃取材！ 巨大甲虫を追え！",
+      "rank": "9",
+      "url": "https://game8.jp/mh-xx/823177",
+      "checkedAt": "2026-10-16",
+      "observedAppearanceCondition": {
+        "text": "彗星の前にあらわる鎧竜 （村★9緊急クエスト）をクリア後、調査隊の隊長と話す",
+        "links": [
+          {
+            "label": "彗星の前にあらわる鎧竜",
+            "url": "https://game8.jp/mh-xx/823202"
+          }
+        ]
+      }
+    },
+    {
+      "name": "海竜、沈降開始",
+      "rank": "9",
+      "url": "https://game8.jp/mh-xx/823178",
+      "checkedAt": "2026-10-16",
+      "observedAppearanceCondition": {
+        "text": "彗星の前にあらわる鎧竜 （村★9緊急クエスト）をクリア後、調査隊の隊長と話す",
+        "links": [
+          {
+            "label": "彗星の前にあらわる鎧竜",
+            "url": "https://game8.jp/mh-xx/823202"
+          }
+        ]
+      }
+    },
+    {
+      "name": "犯人はキミだ、雷狼竜",
+      "rank": "9",
+      "url": "https://game8.jp/mh-xx/823179",
+      "checkedAt": "2026-10-16",
+      "observedAppearanceCondition": {
+        "text": "彗星の前にあらわる鎧竜 （村★9緊急クエスト）をクリア後、調査隊の隊長と話す",
+        "links": [
+          {
+            "label": "彗星の前にあらわる鎧竜",
+            "url": "https://game8.jp/mh-xx/823202"
+          }
+        ]
+      }
+    },
+    {
+      "name": "尾槌竜、登頂してこそ山男",
+      "rank": "9",
+      "url": "https://game8.jp/mh-xx/823181",
+      "checkedAt": "2026-10-16",
+      "observedAppearanceCondition": {
+        "text": "彗星の前にあらわる鎧竜 （村★9緊急クエスト）をクリア後、調査隊の隊長と話す",
+        "links": [
+          {
+            "label": "彗星の前にあらわる鎧竜",
+            "url": "https://game8.jp/mh-xx/823202"
+          }
+        ]
+      }
+    },
+    {
+      "name": "闇に沈んだ暗殺者たち",
+      "rank": "9",
+      "url": "https://game8.jp/mh-xx/823186",
+      "checkedAt": "2026-10-16",
+      "observedAppearanceCondition": {
+        "text": "彗星の前にあらわる鎧竜 （村★9緊急クエスト）をクリア後、調査隊の隊長と話す",
+        "links": [
+          {
+            "label": "彗星の前にあらわる鎧竜",
+            "url": "https://game8.jp/mh-xx/823202"
+          }
+        ]
+      }
+    },
+    {
+      "name": "氷海に君臨する者",
+      "rank": "9",
+      "url": "https://game8.jp/mh-xx/823189",
+      "checkedAt": "2026-10-16",
+      "observedAppearanceCondition": {
+        "text": "彗星の前にあらわる鎧竜 （村★9緊急クエスト）をクリア後、調査隊の隊長と話す",
+        "links": [
+          {
+            "label": "彗星の前にあらわる鎧竜",
+            "url": "https://game8.jp/mh-xx/823202"
+          }
+        ]
+      }
+    },
+    {
+      "name": "氷槍のザボアザギルたち",
+      "rank": "9",
+      "url": "https://game8.jp/mh-xx/823190",
+      "checkedAt": "2026-10-16",
+      "observedAppearanceCondition": {
+        "text": "彗星の前にあらわる鎧竜 （村★9緊急クエスト）をクリア後、調査隊の隊長と話す",
+        "links": [
+          {
+            "label": "彗星の前にあらわる鎧竜",
+            "url": "https://game8.jp/mh-xx/823202"
+          }
+        ]
+      }
+    },
+    {
+      "name": "火竜の山でつかまえて",
+      "rank": "9",
+      "url": "https://game8.jp/mh-xx/823191",
+      "checkedAt": "2026-10-16",
+      "observedAppearanceCondition": {
+        "text": "彗星の前にあらわる鎧竜 （村★9緊急クエスト）をクリア後、調査隊の隊長と話す",
+        "links": [
+          {
+            "label": "彗星の前にあらわる鎧竜",
+            "url": "https://game8.jp/mh-xx/823202"
+          }
+        ]
+      }
+    },
+    {
+      "name": "アグナコトルの捕獲",
+      "rank": "9",
+      "url": "https://game8.jp/mh-xx/823192",
+      "checkedAt": "2026-10-16",
+      "observedAppearanceCondition": {
+        "text": "彗星の前にあらわる鎧竜 （村★9緊急クエスト）をクリア後、調査隊の隊長と話す",
+        "links": [
+          {
+            "label": "彗星の前にあらわる鎧竜",
+            "url": "https://game8.jp/mh-xx/823202"
+          }
+        ]
+      }
+    },
+    {
+      "name": "彗星の前にあらわる鎧竜",
+      "rank": "9",
+      "url": "https://game8.jp/mh-xx/823202",
+      "checkedAt": "2026-10-16",
+      "observedAppearanceCondition": {
+        "text": "ぶくぅーっ！ ザボアザギル！ 、 ものぐさには爆鎚竜で喝！ をクリア後、調査隊の隊長、ココット村の村長と話す",
+        "links": [
+          {
+            "label": "ぶくぅーっ！ ザボアザギル！",
+            "url": "https://game8.jp/mh-xx/823150"
+          },
+          {
+            "label": "ものぐさには爆鎚竜で喝！",
+            "url": "https://game8.jp/mh-xx/823152"
+          }
+        ]
+      }
+    },
+    {
+      "name": "災厄は空からいづる",
+      "rank": "10",
+      "url": "https://game8.jp/mh-xx/823216",
+      "checkedAt": "2026-10-16",
+      "observedAppearanceCondition": {
+        "text": "恐れ見よ、赤き災厄の彗星を （村★10緊急クエスト）をクリア後、調査隊の隊長と話す（ランダムで出現）※",
+        "links": [
+          {
+            "label": "恐れ見よ、赤き災厄の彗星を",
+            "url": "https://game8.jp/mh-xx/823215"
+          }
+        ]
+      }
+    },
+    {
+      "name": "凶星からの贈りもの",
+      "rank": "10",
+      "url": "https://game8.jp/mh-xx/823217",
+      "checkedAt": "2026-10-16",
+      "observedAppearanceCondition": {
+        "text": "恐れ見よ、赤き災厄の彗星を （村★10緊急クエスト）をクリア後、調査隊の隊長と話す（ランダムで出現）※",
+        "links": [
+          {
+            "label": "恐れ見よ、赤き災厄の彗星を",
+            "url": "https://game8.jp/mh-xx/823215"
+          }
+        ]
+      }
+    },
+    {
+      "name": "災厄をもたらす彗星",
+      "rank": "10",
+      "url": "https://game8.jp/mh-xx/823218",
+      "checkedAt": "2026-10-16",
+      "observedAppearanceCondition": {
+        "text": "恐れ見よ、赤き災厄の彗星を （村★10緊急クエスト）をクリア後、調査隊の隊長と話す（ランダムで出現）※",
+        "links": [
+          {
+            "label": "恐れ見よ、赤き災厄の彗星を",
+            "url": "https://game8.jp/mh-xx/823215"
+          }
+        ]
+      }
+    },
+    {
+      "name": "千刃狂騒",
+      "rank": "10",
+      "url": "https://game8.jp/mh-xx/823220",
+      "checkedAt": "2026-10-16",
+      "observedAppearanceCondition": {
+        "text": "恐れ見よ、赤き災厄の彗星を （村★10緊急クエスト）をクリア後、調査隊の隊長と話す",
+        "links": [
+          {
+            "label": "恐れ見よ、赤き災厄の彗星を",
+            "url": "https://game8.jp/mh-xx/823215"
+          }
+        ]
+      }
+    },
+    {
+      "name": "死闘！ 角竜ディアブロス",
+      "rank": "10",
+      "url": "https://game8.jp/mh-xx/823221",
+      "checkedAt": "2026-10-16",
+      "observedAppearanceCondition": {
+        "text": "恐れ見よ、赤き災厄の彗星を （村★10緊急クエスト）をクリア後、調査隊の隊長と話す",
+        "links": [
+          {
+            "label": "恐れ見よ、赤き災厄の彗星を",
+            "url": "https://game8.jp/mh-xx/823215"
+          }
+        ]
+      }
+    },
+    {
+      "name": "金獅子、砂上に咆哮す",
+      "rank": "10",
+      "url": "https://game8.jp/mh-xx/823222",
+      "checkedAt": "2026-10-16",
+      "observedAppearanceCondition": {
+        "text": "恐れ見よ、赤き災厄の彗星を （村★10緊急クエスト）をクリア後、調査隊の隊長と話す",
+        "links": [
+          {
+            "label": "恐れ見よ、赤き災厄の彗星を",
+            "url": "https://game8.jp/mh-xx/823215"
+          }
+        ]
+      }
+    },
+    {
+      "name": "竜の卵の納品・ディナー",
+      "rank": "10",
+      "url": "https://game8.jp/mh-xx/823223",
+      "checkedAt": "2026-10-16",
+      "observedAppearanceCondition": {
+        "text": "恐れ見よ、赤き災厄の彗星を （村★10緊急クエスト）をクリア後、調査隊の隊長と話す",
+        "links": [
+          {
+            "label": "恐れ見よ、赤き災厄の彗星を",
+            "url": "https://game8.jp/mh-xx/823215"
+          }
+        ]
+      }
+    },
+    {
+      "name": "赤竜と緑竜",
+      "rank": "10",
+      "url": "https://game8.jp/mh-xx/823224",
+      "checkedAt": "2026-10-16",
+      "observedAppearanceCondition": {
+        "text": "恐れ見よ、赤き災厄の彗星を （村★10緊急クエスト）をクリア後、調査隊の隊長と話す",
+        "links": [
+          {
+            "label": "恐れ見よ、赤き災厄の彗星を",
+            "url": "https://game8.jp/mh-xx/823215"
+          }
+        ]
+      }
+    },
+    {
+      "name": "原生林からの救援要請",
+      "rank": "10",
+      "url": "https://game8.jp/mh-xx/823225",
+      "checkedAt": "2026-10-16",
+      "observedAppearanceCondition": {
+        "text": "恐れ見よ、赤き災厄の彗星を （村★10緊急クエスト）をクリア後、調査隊の隊長と話す",
+        "links": [
+          {
+            "label": "恐れ見よ、赤き災厄の彗星を",
+            "url": "https://game8.jp/mh-xx/823215"
+          }
+        ]
+      }
+    },
+    {
+      "name": "怠け心には千刃竜で喝！",
+      "rank": "10",
+      "url": "https://game8.jp/mh-xx/823226",
+      "checkedAt": "2026-10-16",
+      "observedAppearanceCondition": {
+        "text": "恐れ見よ、赤き災厄の彗星を （村★10緊急クエスト）をクリア後、調査隊の隊長と話す",
+        "links": [
+          {
+            "label": "恐れ見よ、赤き災厄の彗星を",
+            "url": "https://game8.jp/mh-xx/823215"
+          }
+        ]
+      }
+    },
+    {
+      "name": "俺のソウルはブロウアップ",
+      "rank": "10",
+      "url": "https://game8.jp/mh-xx/823227",
+      "checkedAt": "2026-10-16",
+      "observedAppearanceCondition": {
+        "text": "恐れ見よ、赤き災厄の彗星を （村★10緊急クエスト）をクリア後、調査隊の隊長と話す",
+        "links": [
+          {
+            "label": "恐れ見よ、赤き災厄の彗星を",
+            "url": "https://game8.jp/mh-xx/823215"
+          }
+        ]
+      }
+    },
+    {
+      "name": "甲冑、弐領",
+      "rank": "10",
+      "url": "https://game8.jp/mh-xx/823228",
+      "checkedAt": "2026-10-16",
+      "observedAppearanceCondition": {
+        "text": "恐れ見よ、赤き災厄の彗星を （村★10緊急クエスト）をクリア後、調査隊の隊長と話す",
+        "links": [
+          {
+            "label": "恐れ見よ、赤き災厄の彗星を",
+            "url": "https://game8.jp/mh-xx/823215"
+          }
+        ]
+      }
+    },
+    {
+      "name": "角竜を捕獲せよ！",
+      "rank": "10",
+      "url": "https://game8.jp/mh-xx/823229",
+      "checkedAt": "2026-10-16",
+      "observedAppearanceCondition": {
+        "text": "恐れ見よ、赤き災厄の彗星を （村★10緊急クエスト）をクリア後、調査隊の隊長と話す",
+        "links": [
+          {
+            "label": "恐れ見よ、赤き災厄の彗星を",
+            "url": "https://game8.jp/mh-xx/823215"
+          }
+        ]
+      }
+    },
+    {
+      "name": "すべてを喰らうもの",
+      "rank": "10",
+      "url": "https://game8.jp/mh-xx/823230",
+      "checkedAt": "2026-10-16",
+      "observedAppearanceCondition": {
+        "text": "恐れ見よ、赤き災厄の彗星を （村★10緊急クエスト）をクリア後、調査隊の隊長と話す",
+        "links": [
+          {
+            "label": "恐れ見よ、赤き災厄の彗星を",
+            "url": "https://game8.jp/mh-xx/823215"
+          }
+        ]
+      }
+    },
+    {
+      "name": "雪山に舞う白き風！",
+      "rank": "10",
+      "url": "https://game8.jp/mh-xx/823231",
+      "checkedAt": "2026-10-16",
+      "observedAppearanceCondition": {
+        "text": "恐れ見よ、赤き災厄の彗星を （村★10緊急クエスト）をクリア後、調査隊の隊長と話す",
+        "links": [
+          {
+            "label": "恐れ見よ、赤き災厄の彗星を",
+            "url": "https://game8.jp/mh-xx/823215"
+          }
+        ]
+      }
+    },
+    {
+      "name": "粉骨砕竜、捕獲用意！",
+      "rank": "10",
+      "url": "https://game8.jp/mh-xx/823232",
+      "checkedAt": "2026-10-16",
+      "observedAppearanceCondition": {
+        "text": "恐れ見よ、赤き災厄の彗星を （村★10緊急クエスト）をクリア後、調査隊の隊長と話す",
+        "links": [
+          {
+            "label": "恐れ見よ、赤き災厄の彗星を",
+            "url": "https://game8.jp/mh-xx/823215"
+          }
+        ]
+      }
+    },
+    {
+      "name": "時を廻りて戻り来よ",
+      "rank": "10",
+      "url": "https://game8.jp/mh-xx/823233",
+      "checkedAt": "2026-10-16",
+      "observedAppearanceCondition": {
+        "text": "恐れ見よ、赤き災厄の彗星を （村★10緊急クエスト）をクリア後、調査隊の隊長と話す",
+        "links": [
+          {
+            "label": "恐れ見よ、赤き災厄の彗星を",
+            "url": "https://game8.jp/mh-xx/823215"
+          }
+        ]
+      }
+    },
+    {
+      "name": "渓流からの伝書",
+      "rank": "10",
+      "url": "https://game8.jp/mh-xx/823236",
+      "checkedAt": "2026-10-16",
+      "observedAppearanceCondition": {
+        "text": "恐れ見よ、赤き災厄の彗星を （村★10緊急クエスト）をクリア後、調査隊の隊長と話す",
+        "links": [
+          {
+            "label": "恐れ見よ、赤き災厄の彗星を",
+            "url": "https://game8.jp/mh-xx/823215"
+          }
+        ]
+      }
+    },
+    {
+      "name": "孤島の恐怖体験",
+      "rank": "10",
+      "url": "https://game8.jp/mh-xx/823237",
+      "checkedAt": "2026-10-16",
+      "observedAppearanceCondition": {
+        "text": "恐れ見よ、赤き災厄の彗星を （村★10緊急クエスト）をクリア後、調査隊の隊長と話す",
+        "links": [
+          {
+            "label": "恐れ見よ、赤き災厄の彗星を",
+            "url": "https://game8.jp/mh-xx/823215"
+          }
+        ]
+      }
+    },
+    {
+      "name": "逃れられない沼地の窮地",
+      "rank": "10",
+      "url": "https://game8.jp/mh-xx/823238",
+      "checkedAt": "2026-10-16",
+      "observedAppearanceCondition": {
+        "text": "恐れ見よ、赤き災厄の彗星を （村★10緊急クエスト）をクリア後、調査隊の隊長と話す",
+        "links": [
+          {
+            "label": "恐れ見よ、赤き災厄の彗星を",
+            "url": "https://game8.jp/mh-xx/823215"
+          }
+        ]
+      }
+    }
+  ],
+  "requestDependencies": [
+    {
+      "name": "食材屋の女将の依頼1",
+      "url": "http://wiki.mhxg.org/ida/243481.html",
+      "fields": {
+        "出現条件": {
+          "text": "依頼★ユクモ村の村長の依頼2 クリア後集★2解放後村★3解放後",
+          "links": [
+            {
+              "label": "依頼★ユクモ村の村長の依頼2",
+              "url": "http://wiki.mhxg.org/ida/243455.html"
+            }
+          ]
+        },
+        "達成条件": {
+          "text": "集★2食材の価値は鮮度なり",
+          "links": [
+            {
+              "label": "集★2食材の価値は鮮度なり",
+              "url": "http://wiki.mhxg.org/ida/220253.html"
+            }
+          ]
+        }
+      },
+      "checkedAt": "2026-10-16"
+    },
+    {
+      "name": "キャラバンの娘の依頼2",
+      "url": "http://wiki.mhxg.org/ida/243490.html",
+      "fields": {
+        "出現条件": {
+          "text": "依頼★キャラバンの娘の依頼1 クリア後特定の獰猛化クエスト2つ以上クリア後",
+          "links": [
+            {
+              "label": "依頼★キャラバンの娘の依頼1",
+              "url": "http://wiki.mhxg.org/ida/243428.html"
+            }
+          ]
+        },
+        "達成条件": {
+          "text": "集★6心を燃やせ、燃石炭！",
+          "links": [
+            {
+              "label": "集★6心を燃やせ、燃石炭！",
+              "url": "http://wiki.mhxg.org/ida/243492.html"
+            }
+          ]
+        }
+      },
+      "checkedAt": "2026-10-16"
+    },
+    {
+      "name": "ヘルブラザーズ・赤鬼の依頼(2)",
+      "url": "http://wiki.mhxg.org/ida/265176.html",
+      "fields": {
+        "出現条件": {
+          "text": "依頼★ヘルブラザーズ・赤鬼の依頼(1) クリア後",
+          "links": [
+            {
+              "label": "依頼★ヘルブラザーズ・赤鬼の依頼(1)",
+              "url": "http://wiki.mhxg.org/ida/261127.html"
+            }
+          ]
+        },
+        "達成条件": {
+          "text": "集★7空の飛竜と陸の飛竜",
+          "links": [
+            {
+              "label": "集★7空の飛竜と陸の飛竜",
+              "url": "http://wiki.mhxg.org/ida/244704.html"
+            }
+          ]
+        }
+      },
+      "checkedAt": "2026-10-16"
+    },
+    {
+      "name": "ミナガルデの看板娘の依頼1",
+      "url": "http://wiki.mhxg.org/ida/261125.html",
+      "fields": {
+        "出現条件": {
+          "text": "集★7解放後特定の獰猛化クエスト2つ以上クリア後",
+          "links": []
+        },
+        "達成条件": {
+          "text": "集★7獰にして猛だが火でもある",
+          "links": [
+            {
+              "label": "集★7獰にして猛だが火でもある",
+              "url": "http://wiki.mhxg.org/ida/244700.html"
+            }
+          ]
+        }
+      },
+      "checkedAt": "2026-10-16"
+    },
+    {
+      "name": "キャラバンの料理長の依頼1",
+      "url": "http://wiki.mhxg.org/ida/243427.html",
+      "fields": {
+        "出現条件": {
+          "text": "依頼★ココット村の村長の依頼2 クリア後",
+          "links": [
+            {
+              "label": "依頼★ココット村の村長の依頼2",
+              "url": "http://wiki.mhxg.org/ida/243417.html"
+            }
+          ]
+        },
+        "達成条件": {
+          "text": "集★1新たな食材ハンターの誕生！？",
+          "links": [
+            {
+              "label": "集★1新たな食材ハンターの誕生！？",
+              "url": "http://wiki.mhxg.org/ida/220241.html"
+            }
+          ]
+        }
+      },
+      "checkedAt": "2026-10-16"
+    },
+    {
+      "name": "キャラバンの竜人商人の依頼3",
+      "url": "http://wiki.mhxg.org/ida/243431.html",
+      "fields": {
+        "出現条件": {
+          "text": "依頼★キャラバンの竜人商人の依頼2 クリア後集★5解放後",
+          "links": [
+            {
+              "label": "依頼★キャラバンの竜人商人の依頼2",
+              "url": "http://wiki.mhxg.org/ida/243430.html"
+            }
+          ]
+        },
+        "達成条件": {
+          "text": "集★5雪山の主、ドドブランゴ",
+          "links": [
+            {
+              "label": "集★5雪山の主、ドドブランゴ",
+              "url": "http://wiki.mhxg.org/ida/238236.html"
+            }
+          ]
+        }
+      },
+      "checkedAt": "2026-10-16"
+    },
+    {
+      "name": "ポッケ村の受付嬢の依頼1",
+      "url": "http://wiki.mhxg.org/ida/243442.html",
+      "fields": {
+        "出現条件": {
+          "text": "村★5解放後",
+          "links": []
+        },
+        "達成条件": {
+          "text": "納品 ユクモの木 x4ガウシカの角 x2巨獣の鼻棘 x1",
+          "links": [
+            {
+              "label": "ユクモの木",
+              "url": "http://wiki.mhxg.org/ida/219270.html"
+            },
+            {
+              "label": "ガウシカの角",
+              "url": "http://wiki.mhxg.org/ida/220935.html"
+            },
+            {
+              "label": "巨獣の鼻棘",
+              "url": "http://wiki.mhxg.org/ida/220415.html"
+            }
+          ]
+        }
+      },
+      "checkedAt": "2026-10-16"
+    },
+    {
+      "name": "キャラバンの娘の依頼1",
+      "url": "http://wiki.mhxg.org/ida/243428.html",
+      "fields": {
+        "出現条件": {
+          "text": "村★3解放後集★4解放後",
+          "links": []
+        },
+        "達成条件": {
+          "text": "ナグリ村の村長と会話",
+          "links": []
+        }
+      },
+      "checkedAt": "2026-10-16"
+    },
+    {
+      "name": "キャラバンの竜人商人の依頼2",
+      "url": "http://wiki.mhxg.org/ida/243430.html",
+      "fields": {
+        "出現条件": {
+          "text": "依頼★キャラバンの竜人商人の依頼1 クリア後集★3解放後",
+          "links": [
+            {
+              "label": "依頼★キャラバンの竜人商人の依頼1",
+              "url": "http://wiki.mhxg.org/ida/243429.html"
+            }
+          ]
+        },
+        "達成条件": {
+          "text": "集★3化石に眠る太古の記憶",
+          "links": [
+            {
+              "label": "集★3化石に眠る太古の記憶",
+              "url": "http://wiki.mhxg.org/ida/220272.html"
+            }
+          ]
+        }
+      },
+      "checkedAt": "2026-10-16"
+    }
+  ],
+  "differences": [
+    {
+      "subject": "疾走するドスランポス",
+      "higherPriorityUrl": "https://w.atwiki.jp/mhxxnyanter/pages/24.html",
+      "higherPriorityFinding": "ニャンター、お使い再びのクリアで下記2種のクエストを解放",
+      "lowerPriorityUrl": "https://game8.jp/mh-xx/823128",
+      "lowerPriorityFinding": "芳香せしコンガをクリア",
+      "adopted": "専門Wikiの明記に従い、前提はニャンター、お使い再び。"
+    },
+    {
+      "subject": "ぷくぅーっ！ザボアザギル！",
+      "primaryUrl": "http://wiki.mhxg.org/ida/286195.html",
+      "otherUrl": "https://game8.jp/mh-xx/823150",
+      "finding": "Game8は「ぶくぅーっ！ ザボアザギル！」。両個別ページでランク・モンスター・前提の船強化3件・後続鎧竜を確認して対応付け。正式名は攻略レシピ。"
+    },
+    {
+      "subject": "怒濤のドスラッシュ！",
+      "primaryUrl": "http://wiki.mhxg.org/ida/299005.html",
+      "primaryFinding": "3候補のいずれか1つクリア後",
+      "otherUrl": "https://w.atwiki.jp/mhxxnyanter/pages/24.html",
+      "otherFinding": "怒涛表記。HR9以上もしくは集★7モンスターニャンタークリアに加えて候補1つの記載。",
+      "adopted": "攻略レシピの明記を通常の基準として3候補ORを採用。補助資料の追加HRゲートは加えず、相違を監査記録に残す。"
+    },
+    {
+      "subject": "ココット・アルベロ",
+      "primaryUrl": "http://wiki.mhxg.org/ida/298997.html",
+      "otherUrl": "https://mhx-wiki.com/?%E7%BE%BD%E9%A3%BE%E3%82%8A%E3%83%BB%E3%83%94%E3%82%A2%E3%82%B9%E3%81%AE%E5%85%A5%E6%89%8B%E6%96%B9%E6%B3%95",
+      "finding": "専門Wikiに「アルべロ」（ひらがなのべ）の表記。攻略レシピの「アルベロ」を採用。"
+    }
+  ],
+  "specialistPages": [
+    {
+      "url": "https://w.atwiki.jp/mhxxnyanter/pages/20.html",
+      "checkedAt": "2026-10-16",
+      "topics": ["雇用枠", "雇用レベル", "育成レベル上限", "別経路"]
+    },
+    {
+      "url": "https://w.atwiki.jp/mhxxnyanter/pages/24.html",
+      "checkedAt": "2026-10-16",
+      "topics": ["ニャンターの解放順", "施設", "雇用", "育成上限", "交易"]
+    },
+    {
+      "url": "https://mhx-wiki.com/?%E7%A0%94%E7%A9%B6%E5%AE%A4%E3%81%AE%E6%8B%A1%E5%BC%B5",
+      "checkedAt": "2026-10-16",
+      "topics": [
+        "研究室",
+        "アイテムボックス",
+        "お届け隊",
+        "武器開発",
+        "村/GのANDとOR",
+        "研究手続きとポイント・素材"
+      ]
+    },
+    {
+      "url": "https://mhx-wiki.com/?%E9%A3%9F%E6%9D%90%E3%82%AF%E3%82%A8%E3%82%B9%E3%83%88%E4%B8%80%E8%A6%A7",
+      "checkedAt": "2026-10-16",
+      "topics": ["食材。原生林に巣食う蜘蛛の具体名は確認できず"]
+    },
+    {
+      "url": "https://mhx-wiki.com/?%E7%BE%BD%E9%A3%BE%E3%82%8A%E3%83%BB%E3%83%94%E3%82%A2%E3%82%B9%E3%81%AE%E5%85%A5%E6%89%8B%E6%96%B9%E6%B3%95",
+      "checkedAt": "2026-10-16",
+      "topics": ["特別な頭装備", "村★10解放時のピアス"]
+    }
+  ]
+}

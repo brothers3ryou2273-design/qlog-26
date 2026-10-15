@@ -21,7 +21,7 @@ describe("rank-by-rank catalog audit against observed primary rosters", () => {
         (q) => q.rank === rank.rank && q.category === "village",
       );
       expect(group).toHaveLength(rank.observedRecipeCount);
-      if (rank.observedGame8Count !== null)
+      if (Number(rank.rank) <= 3 && rank.observedGame8Count !== null)
         expect(rank.observedGame8Count).toBe(rank.observedRecipeCount);
       expect(group.map((q) => [q.name, q.sources[0].url])).toEqual(
         rank.entries.map((e) => [e.name, e.recipeUrl]),

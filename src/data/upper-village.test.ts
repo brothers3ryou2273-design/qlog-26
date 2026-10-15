@@ -160,3 +160,150 @@ it("village 9 resolves the checked spelling variant and preserves OR versus AND 
     }),
   );
 });
+
+describe("village 10 special conditions", () => {
+  it("limits five all-clear challenges to normal hunter quests in ranks 7–10", () => {
+    const required = quests
+      .filter(
+        (q) =>
+          Number(q.rank) >= 7 &&
+          Number(q.rank) <= 10 &&
+          q.role === "hunter" &&
+          !q.name.startsWith("高難度："),
+      )
+      .map((q) => q.id);
+    expect(required).toHaveLength(141);
+    for (const name of [
+      "高難度：モンスターハンター",
+      "高難度：覇者の証明",
+      "高難度：龍歴院からの挑戦状",
+      "高難度：ギルドからの試練",
+      "高難度：ダブルクロス",
+    ]) {
+      const q = named(name, "10");
+      expect(references(q.condition)).toEqual(required);
+      expect(
+        evaluate(q.condition, {
+          schemaVersion: 1,
+          completedQuestIds: required,
+        }),
+      ).toBe("met");
+      expect(
+        evaluate(q.condition, {
+          schemaVersion: 1,
+          completedQuestIds: required.slice(1),
+        }),
+      ).toBe("unmet");
+    }
+  });
+  it("requires any one of three prowler quests for 怒濤 and keeps the explicit primary prerequisite", () => {
+    const ids = [
+      "ルドロスの野次馬根性",
+      "尾槌竜のコブ破壊に挑戦！",
+      "スノーフェスティバル",
+    ].map((n) => named(n, "10").id);
+    const q = named("怒濤のドスラッシュ！", "10");
+    for (let mask = 0; mask < 8; mask++) {
+      const completedQuestIds = ids.filter((_, i) => mask & (1 << i));
+      expect(
+        evaluate(q.condition, { schemaVersion: 1, completedQuestIds }),
+      ).toBe(mask ? "met" : "unmet");
+    }
+    expect(q.unlocks).toContainEqual(
+      expect.objectContaining({ label: "オトモの初期雇用レベル45〜47" }),
+    );
+  });
+  it("evaluates the four final urgents from all six rank-10 keys and HR9", () => {
+    const completedQuestIds = quests
+      .filter((q) => q.rank === "10" && q.tags.includes("key"))
+      .map((q) => q.id);
+    expect(completedQuestIds).toHaveLength(6);
+    for (const name of [
+      "怨嗟の骸",
+      "獄炎の覇王",
+      "崩せ神の座、威の寝床",
+      "嵐龍天翔",
+    ]) {
+      const q = named(name, "10");
+      expect(
+        evaluate(q.condition, { schemaVersion: 1, completedQuestIds }),
+      ).toBe("unknown");
+      expect(
+        evaluate(q.condition, { schemaVersion: 1, completedQuestIds, hr: 8 }),
+      ).toBe("unmet");
+      expect(
+        evaluate(q.condition, { schemaVersion: 1, completedQuestIds, hr: 9 }),
+      ).toBe("met");
+    }
+    const finalIds = [
+      "怨嗟の骸",
+      "獄炎の覇王",
+      "崩せ神の座、威の寝床",
+      "嵐龍天翔",
+    ].map((n) => named(n, "10").id);
+    expect(references(named("黒き光を放つ神", "10").condition)).toEqual(
+      finalIds,
+    );
+  });
+  it.each([
+    "高難度：禍は鋼鉄よりも硬し",
+    "高難度：宵闇に消ゆ",
+    "高難度：陽炎の帝国",
+  ])(
+    "keeps the explicit random appearance observable only in game: %s",
+    (name) => {
+      const q = named(name, "10");
+      expect(references(q.condition)).toContain(
+        named("黒き光を放つ神", "10").id,
+      );
+      expect(JSON.stringify(q.condition)).toContain("ランダム出現");
+      expect(
+        evaluate(q.condition, {
+          schemaVersion: 1,
+          completedQuestIds: quests.map((q) => q.id),
+          hr: 999,
+        }),
+      ).toBe("unknown");
+    },
+  );
+  it("retains material delivery and HR-cap requirements instead of dropping linked item conditions", () => {
+    const q = named("高難度：喧嘩の仲裁は村を救う", "10");
+    expect(JSON.stringify(q.condition)).toContain(
+      "ユクモの木 x4ガウシカの角 x2巨獣の鼻棘 x1",
+    );
+    expect(JSON.stringify(q.condition)).toContain("HR上限の解放");
+    expect(
+      evaluate(q.condition, {
+        schemaVersion: 1,
+        completedQuestIds: quests.map((q) => q.id),
+        hr: 999,
+      }),
+    ).toBe("unknown");
+  });
+  it("distinguishes the special headgear grants from equipment recipes", () => {
+    expect(named("恐れ見よ、赤き災厄の彗星を", "10").unlocks).toContainEqual(
+      expect.objectContaining({ label: "斬炎のピアス（特別入手）" }),
+    );
+    expect(named("高難度：モンスターハンター", "10").unlocks).toContainEqual(
+      expect.objectContaining({ label: "ポッケ・ネーヴェ（特別入手）" }),
+    );
+    expect(named("恐れ見よ、赤き災厄の彗星を", "10").unlocks).toContainEqual(
+      expect.objectContaining({
+        label: "オトモ雇用枠72匹の解放経路",
+        note: expect.stringContaining("縮小"),
+      }),
+    );
+  });
+});
+
+it("retains the full primary rank-10 roster despite the smaller observed corporate list", async () => {
+  const observed = (await import("../../docs/upper-research-audit.json"))
+    .default;
+  const rank10 = observed.rosterComparisons.find((r) => r.rank === "10")!;
+  expect([rank10.primaryCount, rank10.game8Count]).toEqual([50, 33]);
+  expect(quests.filter((q) => q.rank === "10")).toHaveLength(50);
+  expect(named("黒き光を放つ神", "10")).toBeDefined();
+  expect(
+    quests.filter((q) => q.rank === "10" && q.name.startsWith("高難度：")),
+  ).toHaveLength(16);
+});

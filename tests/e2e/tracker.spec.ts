@@ -25,11 +25,9 @@ test("production shows partial coverage and noindex", async ({ page }) => {
   ).toBeVisible();
   await expect(page.locator(".quest-card")).toHaveCount(45);
   await expect(
-    page.getByText("データ整備中 · 実クエスト197件収録"),
+    page.getByText("データ整備中 · 実クエスト370件収録"),
   ).toBeVisible();
-  await page
-    .getByRole("combobox", { name: "ランク", exact: true })
-    .selectOption("7");
+  await page.getByRole("button", { name: "集会所", exact: true }).click();
   await expect(
     page.getByRole("heading", { name: "このランクは、これから収録します" }),
   ).toBeVisible();
@@ -628,7 +626,7 @@ test("all 89 existing checks and backups survive and NPC notes do not block a ne
   );
 });
 
-test("HR gates auto-evaluate while the uncollected rank-7 prerequisite stays unknown", async ({
+test("HR gates auto-evaluate and the collected rank-7 prerequisite resolves 宿命", async ({
   page,
 }) => {
   await page.goto("./");
@@ -660,10 +658,23 @@ test("HR gates auto-evaluate while the uncollected rank-7 prerequisite stays unk
     .check();
   await page.getByRole("searchbox").fill("宿命の四天王");
   await page.getByRole("button", { name: /宿命の四天王/ }).click();
-  await expect(page.locator(".state")).toHaveText("要確認");
-  await expect(
-    page.getByText(/未収録の前提：村★7調査隊初陣！遺群嶺の桃毛獣/),
-  ).toBeVisible();
+  await expect(page.locator(".state")).toHaveText("未達成");
+  await page
+    .getByRole("button", {
+      name: "村 ★7 / 調査隊初陣！遺群嶺の桃毛獣",
+      exact: true,
+    })
+    .click();
+  await page
+    .getByRole("checkbox", {
+      name: "調査隊初陣！遺群嶺の桃毛獣をクリア",
+      exact: true,
+    })
+    .check();
+  await page
+    .getByRole("button", { name: "村 ★6 / 宿命の四天王", exact: true })
+    .click();
+  await expect(page.locator(".state")).toHaveText("記録上の前提達成");
 });
 
 test("confirmed facility meals replace warnings while unresolved facilities stay visible", async ({
@@ -720,7 +731,7 @@ test("all 197 released checks survive facility changes and remain in version-1 b
   const ids = [
     ...released.map((q) => q.id),
     ...roster.ranks
-      .filter((r) => Number(r.rank) >= 4)
+      .filter((r) => Number(r.rank) >= 4 && Number(r.rank) <= 6)
       .flatMap((r) =>
         r.entries.map(
           (q) =>
