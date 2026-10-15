@@ -236,7 +236,7 @@ it("partly resolves the village-10 chain without erasing hub-5, HR5 or other vil
 });
 
 it("registers exact primary art releases, foods, recipes, and conservative facility findings", () => {
-  const hub = quests.filter((q) => q.category === "hub");
+  const hub = quests.filter((q) => q.category === "hub" && Number(q.rank) <= 3);
   const arts = hub.flatMap((q) =>
     q.unlocks.filter((u) => u.kind === "hunter_art"),
   );
