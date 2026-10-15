@@ -23,9 +23,9 @@ test("production shows partial coverage and noindex", async ({ page }) => {
   await expect(
     page.getByRole("heading", { name: "村 ★3", exact: true }),
   ).toBeVisible();
-  await expect(page.locator(".quest-card")).toHaveCount(4);
+  await expect(page.locator(".quest-card")).toHaveCount(45);
   await expect(
-    page.getByText("データ整備中 · 実クエスト14件・一部確認"),
+    page.getByText("データ整備中 · 実クエスト89件・一部確認"),
   ).toBeVisible();
   await page
     .getByRole("combobox", { name: "ランク", exact: true })
@@ -299,7 +299,7 @@ test("real village data persists, links to confirmed pages, and keeps conversati
   await page
     .getByRole("combobox", { name: "ランク", exact: true })
     .selectOption("1");
-  await expect(page.locator(".quest-card")).toHaveCount(4);
+  await expect(page.locator(".quest-card")).toHaveCount(7);
   await page
     .getByRole("checkbox", {
       name: "古代林の特産ゼンマイをクリア",
@@ -439,5 +439,105 @@ test("pre-update progress and backups keep their IDs after recipe link changes",
       name: "ネコ嬢のジャギィ討伐依頼をクリア",
       exact: true,
     }),
+  ).toBeVisible();
+});
+
+test("audited rank rosters, roles, and newly added progress persist", async ({
+  page,
+}) => {
+  await page.goto("./");
+  const rank = page.getByRole("combobox", { name: "ランク", exact: true });
+  await rank.selectOption("1");
+  await expect(page.locator(".quest-card")).toHaveCount(7);
+  await page
+    .getByRole("checkbox", { name: "悠久が眠る竜琥珀をクリア", exact: true })
+    .check();
+  await page.reload();
+  await expect(
+    page.getByRole("checkbox", {
+      name: "悠久が眠る竜琥珀をクリア",
+      exact: true,
+    }),
+  ).toBeChecked();
+  await rank.selectOption("2");
+  await expect(page.locator(".quest-card")).toHaveCount(37);
+  await expect(page.getByRole("progressbar")).toHaveAttribute("max", "37");
+  await page
+    .getByRole("combobox", { name: "プレイ種別", exact: true })
+    .selectOption("prowler");
+  await expect(page.locator(".quest-card")).toHaveCount(3);
+  await rank.selectOption("3");
+  await expect(page.locator(".quest-card")).toHaveCount(6);
+  await page
+    .getByRole("combobox", { name: "プレイ種別", exact: true })
+    .selectOption("");
+  await expect(page.locator(".quest-card")).toHaveCount(45);
+  await expect(page.getByRole("progressbar")).toHaveAttribute("max", "45");
+  expect(
+    await page.evaluate(
+      () => document.documentElement.scrollWidth <= innerWidth,
+    ),
+  ).toBe(true);
+});
+
+test("new request reverse links expose food and keep receipt conditions unknown", async ({
+  page,
+}) => {
+  await page.goto("./");
+  await page
+    .getByRole("combobox", { name: "ランク", exact: true })
+    .selectOption("2");
+  await page.getByRole("searchbox").fill("青熊獣");
+  await page
+    .getByRole("checkbox", { name: "青熊獣アオアシラをクリア", exact: true })
+    .check();
+  await page.getByRole("button", { name: /依頼.*青熊獣アオアシラ/ }).click();
+  await page
+    .getByRole("button", { name: "村 ★2 / ぽかぽかタケノコ納品", exact: true })
+    .click();
+  await expect(page.locator(".state")).toHaveText("要確認");
+  await expect(page.getByRole("listitem").filter({ hasText: "ツチタケノコ" })).toBeVisible();
+  await expect(
+    page.getByRole("link", { name: /MHXX攻略レシピ（該当クエスト詳細）/ }),
+  ).toHaveAttribute("href", "http://wiki.mhxg.org/ida/218324.html");
+  await expect(
+    page.getByText(/依頼主への報告・会話や実際の追加はゲーム内で確認/),
+  ).toBeVisible();
+});
+
+test("real prowler two-completion threshold and conflicting source remain distinct", async ({
+  page,
+}) => {
+  await page.goto("./");
+  await page
+    .getByRole("combobox", { name: "プレイ種別", exact: true })
+    .selectOption("prowler");
+  await page
+    .getByRole("checkbox", { name: "森丘の悪戯っ子をクリア", exact: true })
+    .check();
+  await page
+    .getByRole("checkbox", { name: "釣りニャンデー創刊をクリア", exact: true })
+    .check();
+  await page.getByRole("button", { name: /沼地に異常事態発生虫？/ }).click();
+  await expect(page.locator(".state")).toHaveText("前提条件達成");
+  await page
+    .getByRole("checkbox", { name: "釣りニャンデー創刊をクリア", exact: true })
+    .uncheck();
+  await expect(page.locator(".state")).toHaveText("未達成");
+  await page
+    .getByRole("combobox", { name: "ランク", exact: true })
+    .selectOption("2");
+  await page
+    .getByRole("checkbox", {
+      name: "ニャンター、はじめてのお使いをクリア",
+      exact: true,
+    })
+    .check();
+  await page.getByRole("button", { name: /古代林のポイント招きネコ/ }).click();
+  await expect(page.locator(".state")).toHaveText("要確認");
+  await expect(
+    page.getByText(
+      /Game8は「古代林のキノコ生態調査」クリア後と記載が異なります/,
+    ),
   ).toBeVisible();
 });
