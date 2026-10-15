@@ -1,0 +1,51 @@
+{
+  "checkedAt": "2026-10-16",
+  "changes": [
+    {
+      "questId": "village-9-recipe-286236",
+      "name": "雪山、雪玉、雪合戦！！",
+      "before": {
+        "kind": "all",
+        "rules": [
+          {
+            "kind": "quest_cleared",
+            "questId": "village-2-recipe-220154"
+          },
+          {
+            "kind": "external_flag",
+            "label": "未収録：集★1新たな食材ハンターの誕生！？のクリア（キャラバンの料理長の依頼1）"
+          },
+          {
+            "kind": "quest_cleared",
+            "questId": "village-9-recipe-286203"
+          }
+        ]
+      },
+      "after": {
+        "kind": "all",
+        "rules": [
+          {
+            "kind": "quest_cleared",
+            "questId": "village-2-recipe-220154"
+          },
+          {
+            "kind": "quest_cleared",
+            "questId": "hub-1-recipe-220241"
+          },
+          {
+            "kind": "quest_cleared",
+            "questId": "village-9-recipe-286203"
+          }
+        ]
+      },
+      "addedNpcNote": "キャラバンの料理長の依頼1を達成後、依頼主へ報告する。",
+      "sources": [
+        "http://wiki.mhxg.org/ida/286236.html",
+        "http://wiki.mhxg.org/data/2019.html",
+        "http://wiki.mhxg.org/ida/243427.html",
+        "http://wiki.mhxg.org/ida/220241.html"
+      ],
+      "reason": "攻略レシピの前提依頼と達成クエストを照合。通常の依頼達成報告はnpcNotesへ。今回対象外の集★5条件・HR・村前提はそのまま保持。"
+    }
+  ]
+}

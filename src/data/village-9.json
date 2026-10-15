@@ -1297,8 +1297,8 @@
           "questId": "village-2-recipe-220154"
         },
         {
-          "kind": "external_flag",
-          "label": "未収録：集★1新たな食材ハンターの誕生！？のクリア（キャラバンの料理長の依頼1）"
+          "kind": "quest_cleared",
+          "questId": "hub-1-recipe-220241"
         },
         {
           "kind": "quest_cleared",
@@ -1307,7 +1307,8 @@
       ]
     },
     "npcNotes": [
-      "ココット村 キャラバンの料理長の依頼2を受注する。"
+      "ココット村 キャラバンの料理長の依頼2を受注する。",
+      "キャラバンの料理長の依頼1を達成後、依頼主へ報告する。"
     ],
     "unlocks": [
       {
@@ -1332,6 +1333,12 @@
       {
         "site": "MHXX攻略レシピ（前提依頼）",
         "url": "http://wiki.mhxg.org/ida/243427.html",
+        "kind": "detail",
+        "checkedAt": "2026-10-16"
+      },
+      {
+        "site": "MHXX攻略レシピ",
+        "url": "http://wiki.mhxg.org/ida/220241.html",
         "kind": "detail",
         "checkedAt": "2026-10-16"
       }

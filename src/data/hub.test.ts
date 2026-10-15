@@ -1,0 +1,115 @@
+import { describe, expect, it } from "vitest";
+import audit from "../../docs/hub-audit.json";
+import baseline from "../../docs/progress-baseline-370.json";
+import connections from "../../docs/hub-village-connections.json";
+import { quests } from "./quests";
+import { dependents, evaluate, references, validateQuests } from "../lib/rules";
+import { parseSave, SAVE_KEY } from "../lib/storage";
+import type { Rule } from "../lib/types";
+const nodes = (r: Rule): Rule[] =>
+  r.kind === "all" || r.kind === "any" ? [r, ...r.rules.flatMap(nodes)] : [r];
+
+describe("observed hub rosters and cross-category dependencies", () => {
+  for (const rank of audit.ranks) {
+    it(`hub ${rank.rank}: matches the entire observed roster, roles, flags and real detail titles`, () => {
+      const group = quests.filter(
+        (q) => q.category === "hub" && q.rank === rank.rank,
+      );
+      expect(group).toHaveLength(rank.observedCount);
+      expect(
+        group.map((q) => [q.name, q.sources[0].url, q.role, q.tags]),
+      ).toEqual(rank.entries.map((e) => [e.name, e.recipeUrl, e.role, e.tags]));
+      group.forEach((q, i) => {
+        expect(q.order).toBe(i);
+        const e = rank.entries[i];
+        expect(e.detailTitle.replaceAll(" ", "")).toContain(
+          `集★${rank.rank}${q.name}`.replaceAll(" ", ""),
+        );
+        expect(q.sources).toContainEqual(
+          expect.objectContaining({
+            url: rank.recipeListUrl,
+            checkedAt: audit.checkedAt,
+          }),
+        );
+        for (const p of e.observations) {
+          if (!["備考", "依頼"].includes(p.title)) continue;
+          for (const link of p.links) {
+            const owner = [...audit.ranks.flatMap((r) => r.entries)].find((e) =>
+              e.observations.some(
+                (p) => p.title === "依頼" && p.links[0]?.url === link.url,
+              ),
+            );
+            const prior = quests.find(
+              (p) =>
+                p.sources[0].url === link.url ||
+                p.sources[0].url === owner?.recipeUrl,
+            );
+            if (prior && prior.id !== q.id)
+              expect(references(q.condition)).toContain(prior.id);
+          }
+        }
+        for (const id of references(q.condition))
+          expect(dependents(id, quests)).toContain(q);
+      });
+      expect(validateQuests(quests)).toEqual([]);
+    });
+  }
+  it("preserves every village ID and unlock, including prior research", () => {
+    expect(baseline).toHaveLength(370);
+    expect(
+      quests.filter((q) => q.category === "village").map((q) => q.id),
+    ).toEqual(baseline.map((q) => q.id));
+    for (const b of baseline) {
+      const q = quests.find((q) => q.id === b.id)!;
+      expect([q.name, q.rank]).toEqual([b.name, b.rank]);
+      expect(q.unlocks).toEqual(expect.arrayContaining(b.unlocks));
+    }
+  });
+  it("connects audited village prerequisites in both directions, preserving every other gate", () => {
+    for (const c of connections.changes) {
+      const q = quests.find((q) => q.id === c.questId)!;
+      expect(q.condition).toEqual(c.after);
+      for (const node of nodes(c.before as Rule).filter(
+        (r) =>
+          r.kind !== "all" &&
+          r.kind !== "any" &&
+          !(r.kind === "external_flag" && /集★[123]/.test(r.label)),
+      ))
+        expect(nodes(q.condition)).toContainEqual(node);
+      const hubIds = references(q.condition).filter((id) =>
+        id.startsWith("hub-"),
+      );
+      expect(hubIds).toHaveLength(1);
+      expect(dependents(hubIds[0], quests)).toContain(q);
+      expect(q.npcNotes).toContain(c.addedNpcNote);
+      const all = quests.map((q) => q.id);
+      expect(
+        evaluate(q.condition, {
+          schemaVersion: 1,
+          completedQuestIds: all.filter((id) => id !== hubIds[0]),
+          hr: 999,
+        }),
+      ).toBe("unmet");
+    }
+  });
+  it("round-trips legacy 370 checks, HR, unknown IDs and new hub checks with schema version 1", () => {
+    expect(SAVE_KEY).toBe("qlog.mhxx.progress.v1");
+    const old = {
+      schemaVersion: 1 as const,
+      completedQuestIds: [
+        ...baseline.map((q) => q.id),
+        "uncollected-future-id",
+      ],
+      hr: 6,
+    };
+    expect(parseSave(JSON.stringify(old))).toEqual(old);
+    const updated = {
+      ...old,
+      completedQuestIds: [
+        ...old.completedQuestIds,
+        ...quests.filter((q) => q.category === "hub").map((q) => q.id),
+      ],
+    };
+    expect(parseSave(JSON.stringify(updated))).toEqual(updated);
+  });
+});

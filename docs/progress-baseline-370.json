@@ -1,0 +1,3465 @@
+[
+  {
+    "id": "village-1-g8-822831",
+    "name": "古代林の特産ゼンマイ",
+    "rank": "1",
+    "unlocks": []
+  },
+  {
+    "id": "village-1-recipe-219134",
+    "name": "悠久が眠る竜琥珀",
+    "rank": "1",
+    "unlocks": []
+  },
+  {
+    "id": "village-1-recipe-219135",
+    "name": "滋養強壮不老の蛾",
+    "rank": "1",
+    "unlocks": []
+  },
+  {
+    "id": "village-1-recipe-219136",
+    "name": "森の中のケルビ",
+    "rank": "1",
+    "unlocks": []
+  },
+  {
+    "id": "village-1-g8-822835",
+    "name": "古代の森でシメジ狩り",
+    "rank": "1",
+    "unlocks": []
+  },
+  {
+    "id": "village-1-g8-822836",
+    "name": "マッカォの群れを討伐せよ！",
+    "rank": "1",
+    "unlocks": []
+  },
+  {
+    "id": "village-1-g8-822837",
+    "name": "ネコ嬢のジャギィ討伐依頼",
+    "rank": "1",
+    "unlocks": []
+  },
+  {
+    "id": "village-2-recipe-219308",
+    "name": "古代林の採集ツアー",
+    "rank": "2",
+    "unlocks": []
+  },
+  {
+    "id": "village-2-recipe-219309",
+    "name": "旧砂漠の採集ツアー",
+    "rank": "2",
+    "unlocks": []
+  },
+  {
+    "id": "village-2-recipe-219310",
+    "name": "森丘の採集ツアー",
+    "rank": "2",
+    "unlocks": []
+  },
+  {
+    "id": "village-2-recipe-219311",
+    "name": "雪山の採集ツアー",
+    "rank": "2",
+    "unlocks": []
+  },
+  {
+    "id": "village-2-recipe-219312",
+    "name": "渓流の採集ツアー",
+    "rank": "2",
+    "unlocks": []
+  },
+  {
+    "id": "village-2-g8-822843",
+    "name": "跳躍のアウトロー",
+    "rank": "2",
+    "unlocks": [
+      {
+        "kind": "hunter_art",
+        "label": "獣宿し【獅子】 LV1"
+      },
+      {
+        "kind": "hunter_art",
+        "label": "鏡花の構え LV1"
+      },
+      {
+        "kind": "hunter_art",
+        "label": "昇竜撃 LV1"
+      },
+      {
+        "kind": "hunter_art",
+        "label": "天翔空破断 LV1"
+      },
+      {
+        "kind": "hunter_art",
+        "label": "大挑発 LV1"
+      },
+      {
+        "kind": "hunter_art",
+        "label": "奏纏 LV1"
+      },
+      {
+        "kind": "hunter_art",
+        "label": "ガードレイジ LV1"
+      },
+      {
+        "kind": "hunter_art",
+        "label": "覇山竜撃砲 LV1"
+      },
+      {
+        "kind": "hunter_art",
+        "label": "剣鬼形態 LV1"
+      },
+      {
+        "kind": "hunter_art",
+        "label": "ヒーリングボトル LV1"
+      },
+      {
+        "kind": "hunter_art",
+        "label": "蟲纏い LV1"
+      },
+      {
+        "kind": "hunter_art",
+        "label": "ラピッドヘブン LV1"
+      },
+      {
+        "kind": "hunter_art",
+        "label": "スーパーノヴァ LV1"
+      },
+      {
+        "kind": "hunter_art",
+        "label": "ブレイドワイヤー LV1"
+      },
+      {
+        "kind": "food",
+        "label": "高玄米",
+        "note": "緊急クエストのクリアで追加（専門Wikiで補完）。"
+      },
+      {
+        "kind": "food",
+        "label": "ベルナッパ",
+        "note": "緊急クエストのクリアで追加（専門Wikiで補完）。"
+      },
+      {
+        "kind": "food",
+        "label": "古代真鯛",
+        "note": "緊急クエストのクリアで追加（専門Wikiで補完）。"
+      },
+      {
+        "kind": "facility",
+        "label": "屋台の情熱まかない飯",
+        "note": "食事施設のメニュー追加。専門Wikiの開放条件欄はこのクエストを指定しています。追加の納品・報告条件の記載はありません。"
+      }
+    ]
+  },
+  {
+    "id": "village-2-g8-822844",
+    "name": "お騒がせのリノプロス",
+    "rank": "2",
+    "unlocks": []
+  },
+  {
+    "id": "village-2-recipe-219314",
+    "name": "古代林の暴れん坊",
+    "rank": "2",
+    "unlocks": []
+  },
+  {
+    "id": "village-2-recipe-219315",
+    "name": "リモセトス採果利用法",
+    "rank": "2",
+    "unlocks": []
+  },
+  {
+    "id": "village-2-recipe-219316",
+    "name": "ゼンマイ肴に古代を感じて",
+    "rank": "2",
+    "unlocks": []
+  },
+  {
+    "id": "village-2-recipe-219317",
+    "name": "古代林の精算アイテム納品",
+    "rank": "2",
+    "unlocks": []
+  },
+  {
+    "id": "village-2-g8-822849",
+    "name": "ドスゲネポスを狩れ！",
+    "rank": "2",
+    "unlocks": []
+  },
+  {
+    "id": "village-2-g8-822850",
+    "name": "大地を泳ぐモンスター",
+    "rank": "2",
+    "unlocks": []
+  },
+  {
+    "id": "village-2-recipe-218319",
+    "name": "ゲネポス討伐作戦！",
+    "rank": "2",
+    "unlocks": []
+  },
+  {
+    "id": "village-2-g8-822852",
+    "name": "迫るヤオザミ包囲網",
+    "rank": "2",
+    "unlocks": []
+  },
+  {
+    "id": "village-2-recipe-218321",
+    "name": "砂漠の恵みの納品依頼",
+    "rank": "2",
+    "unlocks": []
+  },
+  {
+    "id": "village-2-recipe-218322",
+    "name": "幻のキモを追え！",
+    "rank": "2",
+    "unlocks": []
+  },
+  {
+    "id": "village-2-recipe-218323",
+    "name": "旧砂漠の精算アイテム納品",
+    "rank": "2",
+    "unlocks": []
+  },
+  {
+    "id": "village-2-recipe-220154",
+    "name": "ドスランポスを狩猟せよ！",
+    "rank": "2",
+    "unlocks": [
+      {
+        "kind": "other",
+        "label": "ハントシリーズ（製法）",
+        "note": "依頼達成・報告後の製法解放。装備自体の入手を示しません。"
+      },
+      {
+        "kind": "other",
+        "label": "ハントネコナイフ（製法）",
+        "note": "依頼達成・報告後の製法解放。装備自体の入手を示しません。"
+      },
+      {
+        "kind": "other",
+        "label": "ハントネコヘルム（製法）",
+        "note": "依頼達成・報告後の製法解放。装備自体の入手を示しません。"
+      },
+      {
+        "kind": "other",
+        "label": "ハントネコメイル（製法）",
+        "note": "依頼達成・報告後の製法解放。装備自体の入手を示しません。"
+      },
+      {
+        "kind": "other",
+        "label": "後続依頼：シナト村の長老の依頼",
+        "note": "村★1〜6には未収録の後続関係。出現条件の一部として記載されています。他の前提・会話・受注は未確認です。"
+      }
+    ]
+  },
+  {
+    "id": "village-2-recipe-220155",
+    "name": "ランポスたちを討伐せよ！",
+    "rank": "2",
+    "unlocks": []
+  },
+  {
+    "id": "village-2-recipe-220156",
+    "name": "森のファンゴたち",
+    "rank": "2",
+    "unlocks": []
+  },
+  {
+    "id": "village-2-recipe-220157",
+    "name": "森丘のトロサシミウオ",
+    "rank": "2",
+    "unlocks": []
+  },
+  {
+    "id": "village-2-recipe-220158",
+    "name": "森丘の精算アイテム納品",
+    "rank": "2",
+    "unlocks": []
+  },
+  {
+    "id": "village-2-recipe-220159",
+    "name": "雪山の荒くれ者",
+    "rank": "2",
+    "unlocks": [
+      {
+        "kind": "other",
+        "label": "マフモフシリーズ（製法）",
+        "note": "依頼達成・報告後の製法解放。装備自体の入手を示しません。"
+      },
+      {
+        "kind": "other",
+        "label": "マフモフネコフード（製法）",
+        "note": "依頼達成・報告後の製法解放。装備自体の入手を示しません。"
+      },
+      {
+        "kind": "other",
+        "label": "マフモフネコベスト（製法）",
+        "note": "依頼達成・報告後の製法解放。装備自体の入手を示しません。"
+      },
+      {
+        "kind": "other",
+        "label": "後続依頼：ポッケ村の看板娘の依頼",
+        "note": "村★1〜6には未収録の後続関係。出現条件の一部として記載されています。他の前提・会話・受注は未確認です。"
+      }
+    ]
+  },
+  {
+    "id": "village-2-recipe-220160",
+    "name": "ギアノスたちを討伐せよ！",
+    "rank": "2",
+    "unlocks": []
+  },
+  {
+    "id": "village-2-recipe-220161",
+    "name": "ブランゴたちの群れ",
+    "rank": "2",
+    "unlocks": []
+  },
+  {
+    "id": "village-2-recipe-220162",
+    "name": "雪山草摘み",
+    "rank": "2",
+    "unlocks": []
+  },
+  {
+    "id": "village-2-recipe-220163",
+    "name": "雪山の精算アイテム納品",
+    "rank": "2",
+    "unlocks": []
+  },
+  {
+    "id": "village-2-recipe-220164",
+    "name": "青熊獣アオアシラ",
+    "rank": "2",
+    "unlocks": [
+      {
+        "kind": "other",
+        "label": "ユクモノシリーズ（製法）",
+        "note": "依頼達成・報告後の製法解放。装備自体の入手を示しません。"
+      },
+      {
+        "kind": "other",
+        "label": "ユクモノネコ木刀（製法）",
+        "note": "依頼達成・報告後の製法解放。装備自体の入手を示しません。"
+      },
+      {
+        "kind": "other",
+        "label": "ユクモノネコカサ（製法）",
+        "note": "依頼達成・報告後の製法解放。装備自体の入手を示しません。"
+      },
+      {
+        "kind": "other",
+        "label": "ユクモノネコドウギ（製法）",
+        "note": "依頼達成・報告後の製法解放。装備自体の入手を示しません。"
+      },
+      {
+        "kind": "other",
+        "label": "後続依頼：タンジアの港の看板娘の依頼1",
+        "note": "村★1〜6には未収録の後続関係。出現条件の一部として記載されています。他の前提・会話・受注は未確認です。"
+      }
+    ]
+  },
+  {
+    "id": "village-2-recipe-220165",
+    "name": "渓流のジャギィノス退治",
+    "rank": "2",
+    "unlocks": []
+  },
+  {
+    "id": "village-2-recipe-220166",
+    "name": "真夜中のジャギィ達",
+    "rank": "2",
+    "unlocks": []
+  },
+  {
+    "id": "village-2-recipe-220167",
+    "name": "夢のキノコジュース",
+    "rank": "2",
+    "unlocks": []
+  },
+  {
+    "id": "village-2-recipe-218324",
+    "name": "ぽかぽかタケノコ納品",
+    "rank": "2",
+    "unlocks": [
+      {
+        "kind": "food",
+        "label": "ツチタケノコ",
+        "note": "依頼達成後の解放。依頼主への報告・会話や実際の追加はゲーム内で確認してください。"
+      }
+    ]
+  },
+  {
+    "id": "village-2-recipe-218325",
+    "name": "渓流の精算アイテム納品",
+    "rank": "2",
+    "unlocks": []
+  },
+  {
+    "id": "village-2-g8-822872",
+    "name": "ニャンター、はじめてのお使い",
+    "rank": "2",
+    "unlocks": []
+  },
+  {
+    "id": "village-2-recipe-218327",
+    "name": "古代林のキノコ生態調査",
+    "rank": "2",
+    "unlocks": [
+      {
+        "kind": "trade",
+        "label": "ジャンボキノコ山での交易",
+        "note": "このクエストのクリア、または専門Wikiが記す「集会所★3緊急クリア」で利用できる経路。別経路の達成はこのチェックでは判定しません。"
+      }
+    ]
+  },
+  {
+    "id": "village-2-recipe-218328",
+    "name": "古代林のポイント招きネコ",
+    "rank": "2",
+    "unlocks": []
+  },
+  {
+    "id": "village-3-recipe-220168",
+    "name": "孤島の採集ツアー",
+    "rank": "3",
+    "unlocks": []
+  },
+  {
+    "id": "village-3-recipe-220169",
+    "name": "沼地の採集ツアー",
+    "rank": "3",
+    "unlocks": []
+  },
+  {
+    "id": "village-3-g8-822877",
+    "name": "鬼面狩人を威す",
+    "rank": "3",
+    "unlocks": [
+      {
+        "kind": "hunter_art",
+        "label": "ヒールゲイン (共通)"
+      },
+      {
+        "kind": "hunter_art",
+        "label": "震怒竜怨斬 LV1"
+      },
+      {
+        "kind": "hunter_art",
+        "label": "練気解放円月斬り LV1"
+      },
+      {
+        "kind": "hunter_art",
+        "label": "ブレイドダンス LV1"
+      },
+      {
+        "kind": "hunter_art",
+        "label": "獣宿し【餓狼】 LV1"
+      },
+      {
+        "kind": "hunter_art",
+        "label": "タイフーントリガー LV1"
+      },
+      {
+        "kind": "hunter_art",
+        "label": "音撃震 LV1"
+      },
+      {
+        "kind": "hunter_art",
+        "label": "スクリュースラスト LV1"
+      },
+      {
+        "kind": "hunter_art",
+        "label": "竜の息吹 LV1"
+      },
+      {
+        "kind": "hunter_art",
+        "label": "エネルギーチャージ LV1"
+      },
+      {
+        "kind": "hunter_art",
+        "label": "エネルギーブレイド LV1"
+      },
+      {
+        "kind": "hunter_art",
+        "label": "飛翔蟲斬破 LV1"
+      },
+      {
+        "kind": "hunter_art",
+        "label": "バレットゲイザー LV1"
+      },
+      {
+        "kind": "hunter_art",
+        "label": "アクセルシャワー LV1"
+      },
+      {
+        "kind": "hunter_art",
+        "label": "アクセルレイン LV1"
+      },
+      {
+        "kind": "food",
+        "label": "リノプロシュート",
+        "note": "緊急クエストのクリアで追加（専門Wikiで補完）。"
+      },
+      {
+        "kind": "food",
+        "label": "ベルナス",
+        "note": "緊急クエストのクリアで追加（専門Wikiで補完）。"
+      }
+    ]
+  },
+  {
+    "id": "village-3-g8-822878",
+    "name": "古代林の大怪鳥",
+    "rank": "3",
+    "unlocks": []
+  },
+  {
+    "id": "village-3-recipe-220170",
+    "name": "器用な尻尾に魅せられて",
+    "rank": "3",
+    "unlocks": []
+  },
+  {
+    "id": "village-3-recipe-220171",
+    "name": "古代林のトレジャー！蛙の巻",
+    "rank": "3",
+    "unlocks": []
+  },
+  {
+    "id": "village-3-recipe-220172",
+    "name": "飛甲虫の反逆",
+    "rank": "3",
+    "unlocks": []
+  },
+  {
+    "id": "village-3-recipe-220173",
+    "name": "波乱の萌芽",
+    "rank": "3",
+    "unlocks": []
+  },
+  {
+    "id": "village-3-recipe-220174",
+    "name": "ステキなお魚、錦魚",
+    "rank": "3",
+    "unlocks": [
+      {
+        "kind": "other",
+        "label": "しろねこスタンプ（製法）",
+        "note": "依頼達成・報告後の製法解放。装備自体の入手を示しません。"
+      }
+    ]
+  },
+  {
+    "id": "village-3-g8-822884",
+    "name": "砂に潜む巨大蟹！",
+    "rank": "3",
+    "unlocks": []
+  },
+  {
+    "id": "village-3-g8-822885",
+    "name": "砂上のテーブルマナー",
+    "rank": "3",
+    "unlocks": []
+  },
+  {
+    "id": "village-3-recipe-220175",
+    "name": "クンチュウの行動研究",
+    "rank": "3",
+    "unlocks": []
+  },
+  {
+    "id": "village-3-recipe-220176",
+    "name": "旧砂漠の縄張り争いニャ！！",
+    "rank": "3",
+    "unlocks": []
+  },
+  {
+    "id": "village-3-recipe-220177",
+    "name": "流行傾向・薬効のキモ",
+    "rank": "3",
+    "unlocks": []
+  },
+  {
+    "id": "village-3-recipe-220178",
+    "name": "狡猾な襲撃者たち",
+    "rank": "3",
+    "unlocks": []
+  },
+  {
+    "id": "village-3-recipe-220179",
+    "name": "キノコ探しで大もうけ！？",
+    "rank": "3",
+    "unlocks": []
+  },
+  {
+    "id": "village-3-recipe-220180",
+    "name": "大怪鳥イャンクックを倒せ！",
+    "rank": "3",
+    "unlocks": []
+  },
+  {
+    "id": "village-3-recipe-220181",
+    "name": "潜入！飛竜の巣！",
+    "rank": "3",
+    "unlocks": []
+  },
+  {
+    "id": "village-3-recipe-220182",
+    "name": "雪のちウルクスス",
+    "rank": "3",
+    "unlocks": []
+  },
+  {
+    "id": "village-3-recipe-220183",
+    "name": "ガウシカ料理に挑戦ですニャ！",
+    "rank": "3",
+    "unlocks": []
+  },
+  {
+    "id": "village-3-recipe-220184",
+    "name": "雪山に潜む影",
+    "rank": "3",
+    "unlocks": []
+  },
+  {
+    "id": "village-3-recipe-220185",
+    "name": "忍び寄る気配",
+    "rank": "3",
+    "unlocks": []
+  },
+  {
+    "id": "village-3-recipe-220186",
+    "name": "ブルファンゴを狩れ！",
+    "rank": "3",
+    "unlocks": []
+  },
+  {
+    "id": "village-3-recipe-220187",
+    "name": "おいしい卵は誰のため？",
+    "rank": "3",
+    "unlocks": [
+      {
+        "kind": "food",
+        "label": "ロックラッカセイ",
+        "note": "依頼達成後の解放。依頼主への報告・会話や実際の追加はゲーム内で確認してください。"
+      }
+    ]
+  },
+  {
+    "id": "village-3-recipe-220188",
+    "name": "ロアルドロスを狩猟せよ！",
+    "rank": "3",
+    "unlocks": []
+  },
+  {
+    "id": "village-3-recipe-220189",
+    "name": "ざわめく森",
+    "rank": "3",
+    "unlocks": []
+  },
+  {
+    "id": "village-3-recipe-220190",
+    "name": "ロイヤルハニーハント",
+    "rank": "3",
+    "unlocks": []
+  },
+  {
+    "id": "village-3-recipe-219985",
+    "name": "強襲する孤島の水流！",
+    "rank": "3",
+    "unlocks": []
+  },
+  {
+    "id": "village-3-recipe-220191",
+    "name": "盾蟹と貝と狩り",
+    "rank": "3",
+    "unlocks": [
+      {
+        "kind": "food",
+        "label": "モガモ貝",
+        "note": "依頼達成後の解放。依頼主への報告・会話や実際の追加はゲーム内で確認してください。"
+      }
+    ]
+  },
+  {
+    "id": "village-3-recipe-220192",
+    "name": "不安なジャギィとジャギィノス",
+    "rank": "3",
+    "unlocks": []
+  },
+  {
+    "id": "village-3-recipe-220193",
+    "name": "ほいっ！キノコ納品ですよ！",
+    "rank": "3",
+    "unlocks": [
+      {
+        "kind": "facility",
+        "label": "ルームサービス変更可能",
+        "note": "依頼達成後、依頼主への報告・会話と実際の機能追加をゲーム内で確認してください。"
+      }
+    ]
+  },
+  {
+    "id": "village-3-recipe-220194",
+    "name": "ムーファたちのふんわり毛玉",
+    "rank": "3",
+    "unlocks": []
+  },
+  {
+    "id": "village-3-recipe-218329",
+    "name": "孤島の精算アイテム納品",
+    "rank": "3",
+    "unlocks": []
+  },
+  {
+    "id": "village-3-recipe-220195",
+    "name": "ぽかぽかレスキュー隊出動！",
+    "rank": "3",
+    "unlocks": [
+      {
+        "kind": "facility",
+        "label": "ルームサービス変更可能",
+        "note": "依頼達成後、依頼主への報告・会話と実際の機能追加をゲーム内で確認してください。"
+      }
+    ]
+  },
+  {
+    "id": "village-3-recipe-219986",
+    "name": "毒怪鳥ゲリョスを追え！",
+    "rank": "3",
+    "unlocks": []
+  },
+  {
+    "id": "village-3-recipe-218330",
+    "name": "甲虫の悪夢",
+    "rank": "3",
+    "unlocks": []
+  },
+  {
+    "id": "village-3-recipe-218331",
+    "name": "観光客の旅路を守れ！",
+    "rank": "3",
+    "unlocks": [
+      {
+        "kind": "other",
+        "label": "サージュシリーズ（製法）",
+        "note": "依頼達成・報告後の製法解放。装備自体の入手を示しません。"
+      },
+      {
+        "kind": "other",
+        "label": "サージュネコブック（製法）",
+        "note": "依頼達成・報告後の製法解放。装備自体の入手を示しません。"
+      },
+      {
+        "kind": "other",
+        "label": "サージュネコフート（製法）",
+        "note": "依頼達成・報告後の製法解放。装備自体の入手を示しません。"
+      },
+      {
+        "kind": "other",
+        "label": "サージュネコスーツ（製法）",
+        "note": "依頼達成・報告後の製法解放。装備自体の入手を示しません。"
+      }
+    ]
+  },
+  {
+    "id": "village-3-recipe-218332",
+    "name": "野性味溢れるロイヤルカブト",
+    "rank": "3",
+    "unlocks": []
+  },
+  {
+    "id": "village-3-recipe-220196",
+    "name": "沼地の精算アイテム納品",
+    "rank": "3",
+    "unlocks": []
+  },
+  {
+    "id": "village-3-recipe-218333",
+    "name": "森丘の悪戯っ子",
+    "rank": "3",
+    "unlocks": [
+      {
+        "kind": "facility",
+        "label": "オトモ雇用枠の拡張（上限数は未確定）",
+        "note": "このクエストのクリアで拡張。基本情報表は別経路としてHR4以上も記載（OR）。追加の納品・報告条件の記載はありません。上限数の相違は注記を参照してください。"
+      }
+    ]
+  },
+  {
+    "id": "village-3-recipe-218334",
+    "name": "森丘のポイント招きネコ",
+    "rank": "3",
+    "unlocks": []
+  },
+  {
+    "id": "village-3-recipe-218335",
+    "name": "香り立つ渓流の鉱石",
+    "rank": "3",
+    "unlocks": []
+  },
+  {
+    "id": "village-3-recipe-238185",
+    "name": "釣りニャンデー創刊",
+    "rank": "3",
+    "unlocks": []
+  },
+  {
+    "id": "village-3-recipe-218336",
+    "name": "チョキチョキムーファ",
+    "rank": "3",
+    "unlocks": []
+  },
+  {
+    "id": "village-3-recipe-238186",
+    "name": "沼地に異常事態発生虫？",
+    "rank": "3",
+    "unlocks": [
+      {
+        "kind": "trade",
+        "label": "モガ養蜂組合での交易",
+        "note": "このクエストのクリア、または専門Wikiが記す「集会所★3緊急クリア」で利用できる経路。別経路の達成はこのチェックでは判定しません。"
+      }
+    ]
+  },
+  {
+    "id": "village-4-recipe-220197",
+    "name": "火山の採集ツアー",
+    "rank": "4",
+    "unlocks": []
+  },
+  {
+    "id": "village-4-recipe-219987",
+    "name": "幻惑の魔術師",
+    "rank": "4",
+    "unlocks": [
+      {
+        "kind": "hunter_art",
+        "label": "地衝斬 LV2"
+      },
+      {
+        "kind": "hunter_art",
+        "label": "桜花気刃斬 LV2"
+      },
+      {
+        "kind": "hunter_art",
+        "label": "ラウンドフォース LV2"
+      },
+      {
+        "kind": "hunter_art",
+        "label": "血風独楽 LV2"
+      },
+      {
+        "kind": "hunter_art",
+        "label": "スピニングメテオ LV2"
+      },
+      {
+        "kind": "hunter_art",
+        "label": "オルケスタソウル LV2"
+      },
+      {
+        "kind": "hunter_art",
+        "label": "シールドアサルト LV2"
+      },
+      {
+        "kind": "hunter_art",
+        "label": "ブラストダッシュ LV2"
+      },
+      {
+        "kind": "hunter_art",
+        "label": "トランスラッシュ LV2"
+      },
+      {
+        "kind": "hunter_art",
+        "label": "オーバーリミット LV2"
+      },
+      {
+        "kind": "hunter_art",
+        "label": "エキスハンター LV2"
+      },
+      {
+        "kind": "hunter_art",
+        "label": "全弾装填 LV2"
+      },
+      {
+        "kind": "hunter_art",
+        "label": "火薬装填 LV2"
+      },
+      {
+        "kind": "hunter_art",
+        "label": "トリニティレイヴン LV2"
+      },
+      {
+        "kind": "food",
+        "label": "ホロロース",
+        "note": "緊急クエストのクリアで追加（専門Wikiで補完）。"
+      },
+      {
+        "kind": "facility",
+        "label": "屋台の闘魂まかない飯",
+        "note": "食事施設のメニュー追加。専門Wikiの開放条件欄はこのクエストを指定しています。追加の納品・報告条件の記載はありません。"
+      }
+    ]
+  },
+  {
+    "id": "village-4-recipe-220198",
+    "name": "疾風の迅竜",
+    "rank": "4",
+    "unlocks": []
+  },
+  {
+    "id": "village-4-recipe-220199",
+    "name": "古代林のトレジャー！虫の巻",
+    "rank": "4",
+    "unlocks": []
+  },
+  {
+    "id": "village-4-recipe-220200",
+    "name": "化石のロマンは永遠に",
+    "rank": "4",
+    "unlocks": []
+  },
+  {
+    "id": "village-4-recipe-220201",
+    "name": "とびきりのゼンマイティー作り",
+    "rank": "4",
+    "unlocks": [
+      {
+        "kind": "food",
+        "label": "ゼンマイ米",
+        "note": "依頼達成・報告後に追加。実際の追加状態はゲーム内で確認。"
+      }
+    ]
+  },
+  {
+    "id": "village-4-recipe-220202",
+    "name": "厄介者のドスゲネポス",
+    "rank": "4",
+    "unlocks": [
+      {
+        "kind": "other",
+        "label": "ブレイブシリーズ（製法）",
+        "note": "依頼達成・報告後の製法解放。装備そのものの入手ではありません。"
+      },
+      {
+        "kind": "other",
+        "label": "ブレイブネコランス（製法）",
+        "note": "依頼達成・報告後の製法解放。装備そのものの入手ではありません。"
+      },
+      {
+        "kind": "other",
+        "label": "ブレイブネコガレア（製法）",
+        "note": "依頼達成・報告後の製法解放。装備そのものの入手ではありません。"
+      },
+      {
+        "kind": "other",
+        "label": "ブレイブネコロリカ（製法）",
+        "note": "依頼達成・報告後の製法解放。装備そのものの入手ではありません。"
+      },
+      {
+        "kind": "other",
+        "label": "プーギーの服 夢追いアミーゴ",
+        "note": "依頼達成・報告後に利用。"
+      }
+    ]
+  },
+  {
+    "id": "village-4-recipe-220203",
+    "name": "未知なる鉱石採掘依頼",
+    "rank": "4",
+    "unlocks": []
+  },
+  {
+    "id": "village-4-recipe-219988",
+    "name": "激闘！雌火竜リオレイア",
+    "rank": "4",
+    "unlocks": []
+  },
+  {
+    "id": "village-4-recipe-220204",
+    "name": "ガララアジャラの狩猟",
+    "rank": "4",
+    "unlocks": []
+  },
+  {
+    "id": "village-4-recipe-220205",
+    "name": "怪鳥達の運動会",
+    "rank": "4",
+    "unlocks": []
+  },
+  {
+    "id": "village-4-recipe-220206",
+    "name": "森丘の静寂を守るのニャ！！",
+    "rank": "4",
+    "unlocks": []
+  },
+  {
+    "id": "village-4-recipe-220207",
+    "name": "雪山の主、ドドブランゴ",
+    "rank": "4",
+    "unlocks": []
+  },
+  {
+    "id": "village-4-recipe-220208",
+    "name": "月光アイスダンス",
+    "rank": "4",
+    "unlocks": []
+  },
+  {
+    "id": "village-4-recipe-219989",
+    "name": "紅煌流星",
+    "rank": "4",
+    "unlocks": []
+  },
+  {
+    "id": "village-4-recipe-220209",
+    "name": "スプラッシュ・ストリーム",
+    "rank": "4",
+    "unlocks": []
+  },
+  {
+    "id": "village-4-recipe-220210",
+    "name": "ぎょーしょーしゅぎょー",
+    "rank": "4",
+    "unlocks": [
+      {
+        "kind": "food",
+        "label": "完熟シナトマト",
+        "note": "依頼達成・報告後に追加。実際の追加状態はゲーム内で確認。"
+      }
+    ]
+  },
+  {
+    "id": "village-4-recipe-220211",
+    "name": "孤島の鳥",
+    "rank": "4",
+    "unlocks": []
+  },
+  {
+    "id": "village-4-recipe-220212",
+    "name": "鬼達も引っくりかえる晩餐？",
+    "rank": "4",
+    "unlocks": []
+  },
+  {
+    "id": "village-4-recipe-220213",
+    "name": "チコ村のヒーロー伝説",
+    "rank": "4",
+    "unlocks": [
+      {
+        "kind": "other",
+        "label": "アイルーラグドール（製法）",
+        "note": "依頼達成・報告後の製法解放。装備そのものの入手ではありません。"
+      },
+      {
+        "kind": "other",
+        "label": "メラルーラグドール（製法）",
+        "note": "依頼達成・報告後の製法解放。装備そのものの入手ではありません。"
+      }
+    ]
+  },
+  {
+    "id": "village-4-recipe-220214",
+    "name": "湿地帯の鎌蟹",
+    "rank": "4",
+    "unlocks": []
+  },
+  {
+    "id": "village-4-recipe-219990",
+    "name": "絞蛇竜は踊り奏でる",
+    "rank": "4",
+    "unlocks": []
+  },
+  {
+    "id": "village-4-recipe-219991",
+    "name": "恐怖…！沼地の怪談",
+    "rank": "4",
+    "unlocks": []
+  },
+  {
+    "id": "village-4-recipe-220215",
+    "name": "ガミザミの群れを掃討せよ！",
+    "rank": "4",
+    "unlocks": []
+  },
+  {
+    "id": "village-4-recipe-220216",
+    "name": "落石注意！？",
+    "rank": "4",
+    "unlocks": []
+  },
+  {
+    "id": "village-4-recipe-219992",
+    "name": "ショウグンギザミを愛でたくて",
+    "rank": "4",
+    "unlocks": []
+  },
+  {
+    "id": "village-4-recipe-220217",
+    "name": "溶岩獣を討伐せよ",
+    "rank": "4",
+    "unlocks": []
+  },
+  {
+    "id": "village-4-recipe-220218",
+    "name": "大鉱脈、発見さる！",
+    "rank": "4",
+    "unlocks": []
+  },
+  {
+    "id": "village-4-recipe-220219",
+    "name": "火山の精算アイテム納品",
+    "rank": "4",
+    "unlocks": []
+  },
+  {
+    "id": "village-4-recipe-238187",
+    "name": "跳狗竜の頭部破壊に挑戦！",
+    "rank": "4",
+    "unlocks": [
+      {
+        "kind": "facility",
+        "label": "オトモ雇用枠の拡張（上限数は未確定）",
+        "note": "このクエストのクリアで拡張。基本情報表は別経路としてHR4以上も記載（OR）。追加の納品・報告条件の記載はありません。上限数の相違は注記を参照してください。"
+      }
+    ]
+  },
+  {
+    "id": "village-4-recipe-238188",
+    "name": "高速突進の交差点",
+    "rank": "4",
+    "unlocks": []
+  },
+  {
+    "id": "village-4-recipe-238189",
+    "name": "アヤシイお仕事",
+    "rank": "4",
+    "unlocks": []
+  },
+  {
+    "id": "village-4-recipe-238190",
+    "name": "ザザミソは隠し味",
+    "rank": "4",
+    "unlocks": []
+  },
+  {
+    "id": "village-4-recipe-238191",
+    "name": "沼地は釣りの穴場？",
+    "rank": "4",
+    "unlocks": [
+      {
+        "kind": "trade",
+        "label": "タンジア鮮魚市での交易",
+        "note": "このクエストのクリア、または専門Wikiが記す「集会所★3緊急クリア」で利用できる経路。別経路の達成はこのチェックでは判定しません。"
+      }
+    ]
+  },
+  {
+    "id": "village-4-recipe-238192",
+    "name": "雪山のポイント捜索隊！",
+    "rank": "4",
+    "unlocks": [
+      {
+        "kind": "facility",
+        "label": "オトモの初期雇用レベル5〜7",
+        "note": "このクエストのクリア、またはHR4以上（OR）で解放。基本情報表の雇用レベルと専用クエスト表のレベル範囲を併記したものです。育成レベルの上限解放ではありません。追加の納品・報告条件の記載はありません。"
+      }
+    ]
+  },
+  {
+    "id": "village-5-recipe-219993",
+    "name": "黒き禍",
+    "rank": "5",
+    "unlocks": [
+      {
+        "kind": "facility",
+        "label": "屋台の愛情まかない飯",
+        "note": "食事施設のメニュー追加。専門Wikiの開放条件欄はこのクエストを指定しています。追加の納品・報告条件の記載はありません。"
+      }
+    ]
+  },
+  {
+    "id": "village-5-recipe-220220",
+    "name": "砂漠を喰らう",
+    "rank": "5",
+    "unlocks": []
+  },
+  {
+    "id": "village-5-recipe-220221",
+    "name": "一匹狼に捧ぐ挽歌",
+    "rank": "5",
+    "unlocks": []
+  },
+  {
+    "id": "village-5-recipe-219994",
+    "name": "翠玉の閃電",
+    "rank": "5",
+    "unlocks": [
+      {
+        "kind": "hunter_art",
+        "label": "バレットゲイザー LV2"
+      }
+    ]
+  },
+  {
+    "id": "village-5-recipe-220222",
+    "name": "再びキノコ探しで大もうけ！？",
+    "rank": "5",
+    "unlocks": []
+  },
+  {
+    "id": "village-5-recipe-220223",
+    "name": "雪獅子、二重の咆哮",
+    "rank": "5",
+    "unlocks": []
+  },
+  {
+    "id": "village-5-recipe-220224",
+    "name": "ビリビリするらしいです×？？",
+    "rank": "5",
+    "unlocks": [
+      {
+        "kind": "other",
+        "label": "撫子/桔梗シリーズ（製法）",
+        "note": "依頼達成・報告後の製法解放。装備そのものの入手ではありません。"
+      },
+      {
+        "kind": "other",
+        "label": "ユクモノネコ扇子（製法）",
+        "note": "依頼達成・報告後の製法解放。装備そのものの入手ではありません。"
+      },
+      {
+        "kind": "other",
+        "label": "ニャでしこ【布冠】（製法）",
+        "note": "依頼達成・報告後の製法解放。装備そのものの入手ではありません。"
+      },
+      {
+        "kind": "other",
+        "label": "ニャでしこ【花衣】（製法）",
+        "note": "依頼達成・報告後の製法解放。装備そのものの入手ではありません。"
+      },
+      {
+        "kind": "other",
+        "label": "後続：依頼★ユクモ村の看板娘の依頼1",
+        "note": "未収録の後続関係。出現には他の条件もあり得ます。"
+      }
+    ]
+  },
+  {
+    "id": "village-5-recipe-219995",
+    "name": "峨々たる巨獣",
+    "rank": "5",
+    "unlocks": [
+      {
+        "kind": "facility",
+        "label": "洞窟の巨大剣が採掘可能",
+        "note": "依頼達成後、依頼主に報告して利用する。"
+      },
+      {
+        "kind": "hunter_art",
+        "label": "タイフーントリガー LV2"
+      }
+    ]
+  },
+  {
+    "id": "village-5-recipe-220225",
+    "name": "エレクトリカル・バトル",
+    "rank": "5",
+    "unlocks": []
+  },
+  {
+    "id": "village-5-recipe-220226",
+    "name": "淡紅の泡狐がたゆたうか",
+    "rank": "5",
+    "unlocks": [
+      {
+        "kind": "hunter_art",
+        "label": "アクセルシャワー LV2"
+      }
+    ]
+  },
+  {
+    "id": "village-5-recipe-220227",
+    "name": "大海の王・ラギアクルス！",
+    "rank": "5",
+    "unlocks": []
+  },
+  {
+    "id": "village-5-recipe-220228",
+    "name": "赤いおひさまアッチッチ",
+    "rank": "5",
+    "unlocks": [
+      {
+        "kind": "food",
+        "label": "フワッフワッフル",
+        "note": "依頼達成・報告後に追加。実際の追加状態はゲーム内で確認。"
+      },
+      {
+        "kind": "hunter_art",
+        "label": "竜の息吹 LV2"
+      }
+    ]
+  },
+  {
+    "id": "village-5-recipe-220229",
+    "name": "混乱のホロロロホルルル",
+    "rank": "5",
+    "unlocks": [
+      {
+        "kind": "hunter_art",
+        "label": "エネルギーチャージ LV2"
+      }
+    ]
+  },
+  {
+    "id": "village-5-recipe-220230",
+    "name": "ゲリョスな季節",
+    "rank": "5",
+    "unlocks": []
+  },
+  {
+    "id": "village-5-recipe-220231",
+    "name": "白昼のブルファンゴ討伐",
+    "rank": "5",
+    "unlocks": []
+  },
+  {
+    "id": "village-5-recipe-220232",
+    "name": "噴煙まとう王者",
+    "rank": "5",
+    "unlocks": []
+  },
+  {
+    "id": "village-5-recipe-220233",
+    "name": "脅威！火山の鉄槌！",
+    "rank": "5",
+    "unlocks": []
+  },
+  {
+    "id": "village-5-recipe-220234",
+    "name": "魔球！火山のナックルボール",
+    "rank": "5",
+    "unlocks": []
+  },
+  {
+    "id": "village-5-recipe-220235",
+    "name": "ドスイーオスのリーダー争い",
+    "rank": "5",
+    "unlocks": []
+  },
+  {
+    "id": "village-5-recipe-220236",
+    "name": "災厄の使者",
+    "rank": "5",
+    "unlocks": []
+  },
+  {
+    "id": "village-5-recipe-220237",
+    "name": "ドス来い！真夜中の古代林",
+    "rank": "5",
+    "unlocks": []
+  },
+  {
+    "id": "village-5-recipe-220238",
+    "name": "砂漠でサバイバルバトル",
+    "rank": "5",
+    "unlocks": []
+  },
+  {
+    "id": "village-5-recipe-220239",
+    "name": "孤島の研究対象",
+    "rank": "5",
+    "unlocks": []
+  },
+  {
+    "id": "village-5-recipe-238193",
+    "name": "赤く染まる沼地",
+    "rank": "5",
+    "unlocks": []
+  },
+  {
+    "id": "village-5-recipe-238194",
+    "name": "アブナイお仕事",
+    "rank": "5",
+    "unlocks": []
+  },
+  {
+    "id": "village-5-recipe-238195",
+    "name": "ウロコトルと隠れんぼ",
+    "rank": "5",
+    "unlocks": []
+  },
+  {
+    "id": "village-5-recipe-238196",
+    "name": "暗雲立ち込める火山帯",
+    "rank": "5",
+    "unlocks": []
+  },
+  {
+    "id": "village-5-recipe-220428",
+    "name": "怪鳥の頭部破壊に挑戦！",
+    "rank": "5",
+    "unlocks": [
+      {
+        "kind": "hunter_art",
+        "label": "ブレイドダンス LV2"
+      },
+      {
+        "kind": "trade",
+        "label": "交易窓口の荷車2台目",
+        "note": "クエストクリアで解放。専用クエスト表に明記されています。追加の納品・報告条件やHRによる別経路は、今回確認した資料では特定していません。"
+      }
+    ]
+  },
+  {
+    "id": "village-6-recipe-220240",
+    "name": "灼熱の刃",
+    "rank": "6",
+    "unlocks": [
+      {
+        "kind": "hunter_art",
+        "label": "震怒竜怨斬 LV2"
+      },
+      {
+        "kind": "other",
+        "label": "後続：依頼★チャチャの依頼1",
+        "note": "未収録の後続関係。出現には他の条件もあり得ます。"
+      }
+    ]
+  },
+  {
+    "id": "village-6-recipe-228561",
+    "name": "黒き衣を纏う竜",
+    "rank": "6",
+    "unlocks": []
+  },
+  {
+    "id": "village-6-recipe-228562",
+    "name": "縄張りに進入するべからず",
+    "rank": "6",
+    "unlocks": []
+  },
+  {
+    "id": "village-6-recipe-228563",
+    "name": "砂漠の彼方から",
+    "rank": "6",
+    "unlocks": []
+  },
+  {
+    "id": "village-6-recipe-228564",
+    "name": "轟竜ティガレックス",
+    "rank": "6",
+    "unlocks": []
+  },
+  {
+    "id": "village-6-recipe-228565",
+    "name": "千刃、襲来",
+    "rank": "6",
+    "unlocks": []
+  },
+  {
+    "id": "village-6-recipe-238197",
+    "name": "予想外！つがいの妨害！",
+    "rank": "6",
+    "unlocks": []
+  },
+  {
+    "id": "village-6-recipe-238198",
+    "name": "英雄への道",
+    "rank": "6",
+    "unlocks": [
+      {
+        "kind": "other",
+        "label": "英雄の双刃（製法）",
+        "note": "依頼達成・報告後の製法解放。装備そのものの入手ではありません。"
+      }
+    ]
+  },
+  {
+    "id": "village-6-recipe-238199",
+    "name": "雷狼竜はかく吠えり",
+    "rank": "6",
+    "unlocks": [
+      {
+        "kind": "food",
+        "label": "達人ビール",
+        "note": "依頼達成・報告後に追加。実際の追加状態はゲーム内で確認。"
+      }
+    ]
+  },
+  {
+    "id": "village-6-recipe-228566",
+    "name": "剛拳爆砕！ブラキディオス！",
+    "rank": "6",
+    "unlocks": []
+  },
+  {
+    "id": "village-6-recipe-228567",
+    "name": "天下分け目の大合戦",
+    "rank": "6",
+    "unlocks": []
+  },
+  {
+    "id": "village-6-recipe-238200",
+    "name": "粉骨砕竜！",
+    "rank": "6",
+    "unlocks": [
+      {
+        "kind": "hunter_art",
+        "label": "スーパーノヴァ LV2"
+      }
+    ]
+  },
+  {
+    "id": "village-6-recipe-228568",
+    "name": "ハンティングナイト！",
+    "rank": "6",
+    "unlocks": []
+  },
+  {
+    "id": "village-6-recipe-228569",
+    "name": "剛毛フカフカの牙獣達",
+    "rank": "6",
+    "unlocks": []
+  },
+  {
+    "id": "village-6-recipe-238201",
+    "name": "渓流の覇権争いニャ！！",
+    "rank": "6",
+    "unlocks": []
+  },
+  {
+    "id": "village-6-recipe-228570",
+    "name": "毒まみれの沼地",
+    "rank": "6",
+    "unlocks": []
+  },
+  {
+    "id": "village-6-recipe-228571",
+    "name": "恐るべき火山の魔球",
+    "rank": "6",
+    "unlocks": []
+  },
+  {
+    "id": "village-6-recipe-238202",
+    "name": "雷電",
+    "rank": "6",
+    "unlocks": []
+  },
+  {
+    "id": "village-6-recipe-228572",
+    "name": "白き霊獣",
+    "rank": "6",
+    "unlocks": []
+  },
+  {
+    "id": "village-6-recipe-228573",
+    "name": "廻り集いて回帰せん",
+    "rank": "6",
+    "unlocks": []
+  },
+  {
+    "id": "village-6-recipe-228574",
+    "name": "宿命の四天王",
+    "rank": "6",
+    "unlocks": []
+  },
+  {
+    "id": "village-6-recipe-238203",
+    "name": "高難度：食は渓流にあり！",
+    "rank": "6",
+    "unlocks": [
+      {
+        "kind": "facility",
+        "label": "ルームサービス変更可能",
+        "note": "依頼達成後、依頼主に報告して利用する。"
+      }
+    ]
+  },
+  {
+    "id": "village-6-recipe-244680",
+    "name": "高難度：古代林のトレジャー！",
+    "rank": "6",
+    "unlocks": [
+      {
+        "kind": "other",
+        "label": "グレイトフルハム（製法）",
+        "note": "依頼達成・報告後の製法解放。装備そのものの入手ではありません。"
+      }
+    ]
+  },
+  {
+    "id": "village-6-recipe-238204",
+    "name": "高難度：黒狼鳥は舞い降りた",
+    "rank": "6",
+    "unlocks": [
+      {
+        "kind": "other",
+        "label": "ガーディアンシリーズ（製法）",
+        "note": "依頼達成・報告後の製法解放。装備そのものの入手ではありません。"
+      },
+      {
+        "kind": "other",
+        "label": "ガーディアンUシリーズ（製法）",
+        "note": "依頼達成・報告後の製法解放。装備そのものの入手ではありません。"
+      },
+      {
+        "kind": "other",
+        "label": "ガーディアンランス（製法）",
+        "note": "依頼達成・報告後の製法解放。装備そのものの入手ではありません。"
+      }
+    ]
+  },
+  {
+    "id": "village-6-recipe-244681",
+    "name": "高難度：一対の巨影",
+    "rank": "6",
+    "unlocks": []
+  },
+  {
+    "id": "village-6-recipe-244682",
+    "name": "高難度：異常震域",
+    "rank": "6",
+    "unlocks": [
+      {
+        "kind": "other",
+        "label": "EXレックスSシリーズ（製法）",
+        "note": "依頼達成・報告後の製法解放。装備そのものの入手ではありません。"
+      },
+      {
+        "kind": "other",
+        "label": "ネコートさんのコート（製法）",
+        "note": "依頼達成・報告後の製法解放。装備そのものの入手ではありません。"
+      }
+    ]
+  },
+  {
+    "id": "village-6-recipe-238205",
+    "name": "高難度：渾身のドボルベルク",
+    "rank": "6",
+    "unlocks": [
+      {
+        "kind": "other",
+        "label": "ポルトマルク（製法）",
+        "note": "依頼達成・報告後の製法解放。装備そのものの入手ではありません。"
+      }
+    ]
+  },
+  {
+    "id": "village-6-recipe-238206",
+    "name": "高難度：重甲虫と腕試し！",
+    "rank": "6",
+    "unlocks": []
+  },
+  {
+    "id": "village-6-recipe-243399",
+    "name": "高難度：天地征服せし強者",
+    "rank": "6",
+    "unlocks": [
+      {
+        "kind": "other",
+        "label": "龍歴士シリーズ（製法）",
+        "note": "依頼達成・報告後の製法解放。装備そのものの入手ではありません。"
+      }
+    ]
+  },
+  {
+    "id": "village-6-recipe-238207",
+    "name": "高難度：青の連撃！",
+    "rank": "6",
+    "unlocks": [
+      {
+        "kind": "other",
+        "label": "ギルドガード蒼シリーズ（製法）",
+        "note": "依頼達成・報告後の製法解放。装備そのものの入手ではありません。"
+      }
+    ]
+  },
+  {
+    "id": "village-6-recipe-238208",
+    "name": "高難度：赤の猛攻！",
+    "rank": "6",
+    "unlocks": [
+      {
+        "kind": "other",
+        "label": "ギルドガード紅シリーズ（製法）",
+        "note": "依頼達成・報告後の製法解放。装備そのものの入手ではありません。"
+      }
+    ]
+  },
+  {
+    "id": "village-6-recipe-243400",
+    "name": "高難度：廻帰せし災厄の古龍",
+    "rank": "6",
+    "unlocks": [
+      {
+        "kind": "other",
+        "label": "イサナ船ハンマー！（製法）",
+        "note": "依頼達成・報告後の製法解放。装備そのものの入手ではありません。"
+      },
+      {
+        "kind": "other",
+        "label": "ホークシリーズ（製法）",
+        "note": "依頼達成・報告後の製法解放。装備そのものの入手ではありません。"
+      },
+      {
+        "kind": "other",
+        "label": "団長の腕輪（製法）",
+        "note": "依頼達成・報告後の製法解放。装備そのものの入手ではありません。"
+      },
+      {
+        "kind": "other",
+        "label": "団長の腕輪Ｘ（製法）",
+        "note": "依頼達成・報告後の製法解放。装備そのものの入手ではありません。"
+      }
+    ]
+  },
+  {
+    "id": "village-6-recipe-244683",
+    "name": "高難度：吹雪の召還者",
+    "rank": "6",
+    "unlocks": []
+  },
+  {
+    "id": "village-6-recipe-244684",
+    "name": "高難度：対霞龍防衛作戦！",
+    "rank": "6",
+    "unlocks": [
+      {
+        "kind": "other",
+        "label": "龍頭琴（製法）",
+        "note": "依頼達成・報告後の製法解放。装備そのものの入手ではありません。"
+      },
+      {
+        "kind": "other",
+        "label": "悠久の龍頭琴（製法）",
+        "note": "依頼達成・報告後の製法解放。装備そのものの入手ではありません。"
+      },
+      {
+        "kind": "other",
+        "label": "魂を宿す髪飾り（製法）",
+        "note": "依頼達成・報告後の製法解放。装備そのものの入手ではありません。"
+      },
+      {
+        "kind": "other",
+        "label": "まほろばの衣（製法）",
+        "note": "依頼達成・報告後の製法解放。装備そのものの入手ではありません。"
+      }
+    ]
+  },
+  {
+    "id": "village-6-recipe-244685",
+    "name": "高難度：炎王の帰還",
+    "rank": "6",
+    "unlocks": [
+      {
+        "kind": "other",
+        "label": "後続：集★6凍てつく牙は獰猛に",
+        "note": "未収録の後続関係。出現には他の条件もあり得ます。"
+      },
+      {
+        "kind": "other",
+        "label": "後続：集★6孤島の暴君、ダイミョウザザミ",
+        "note": "未収録の後続関係。出現には他の条件もあり得ます。"
+      },
+      {
+        "kind": "other",
+        "label": "後続：集★6攻究せよ、鎌持つショウグン",
+        "note": "未収録の後続関係。出現には他の条件もあり得ます。"
+      }
+    ]
+  },
+  {
+    "id": "village-6-recipe-238209",
+    "name": "高難度：強者たちの祭典！",
+    "rank": "6",
+    "unlocks": []
+  },
+  {
+    "id": "village-6-recipe-238210",
+    "name": "高難度：非情に波状な状態異常",
+    "rank": "6",
+    "unlocks": []
+  },
+  {
+    "id": "village-6-recipe-238211",
+    "name": "高難度：四天王の凱歌",
+    "rank": "6",
+    "unlocks": []
+  },
+  {
+    "id": "village-6-recipe-238212",
+    "name": "高難度：天と地の怒り",
+    "rank": "6",
+    "unlocks": []
+  },
+  {
+    "id": "village-6-recipe-238213",
+    "name": "高難度：最後の招待状",
+    "rank": "6",
+    "unlocks": []
+  },
+  {
+    "id": "village-6-recipe-238214",
+    "name": "高難度：終焉を喰らう者",
+    "rank": "6",
+    "unlocks": []
+  },
+  {
+    "id": "village-6-recipe-238215",
+    "name": "紅葉に散るは、熊か猫か",
+    "rank": "6",
+    "unlocks": []
+  },
+  {
+    "id": "village-6-recipe-238216",
+    "name": "盾蟹のヤド破壊に挑戦！",
+    "rank": "6",
+    "unlocks": [
+      {
+        "kind": "facility",
+        "label": "オトモ雇用枠の拡張（上限数は未確定）",
+        "note": "このクエストのクリアで拡張。基本情報表は別経路としてHR5以上も記載（OR）。追加の納品・報告条件の記載はありません。上限数の相違は注記を参照してください。"
+      }
+    ]
+  },
+  {
+    "id": "village-6-recipe-238217",
+    "name": "青と緑の波状包囲網",
+    "rank": "6",
+    "unlocks": [
+      {
+        "kind": "hunter_art",
+        "label": "ブレイドワイヤー LV2"
+      },
+      {
+        "kind": "trade",
+        "label": "交易窓口の荷車3台目",
+        "note": "クエストクリアで解放。専用クエスト表に明記されています。追加の納品・報告条件やHRによる別経路は、今回確認した資料では特定していません。"
+      }
+    ]
+  },
+  {
+    "id": "village-6-recipe-238218",
+    "name": "牙と毒の沼地",
+    "rank": "6",
+    "unlocks": [
+      {
+        "kind": "facility",
+        "label": "オトモの初期雇用レベル10〜12",
+        "note": "このクエストのクリア、またはHR5以上（OR）で解放。基本情報表の雇用レベルと専用クエスト表のレベル範囲を併記したものです。育成レベルの上限解放ではありません。追加の納品・報告条件の記載はありません。"
+      }
+    ]
+  },
+  {
+    "id": "village-7-recipe-285972",
+    "name": "遺群嶺の採集ツアー",
+    "rank": "7",
+    "unlocks": []
+  },
+  {
+    "id": "village-7-recipe-286152",
+    "name": "砂漠の採集ツアー",
+    "rank": "7",
+    "unlocks": []
+  },
+  {
+    "id": "village-7-recipe-285973",
+    "name": "遺跡平原の採集ツアー",
+    "rank": "7",
+    "unlocks": []
+  },
+  {
+    "id": "village-7-recipe-286153",
+    "name": "原生林の採集ツアー",
+    "rank": "7",
+    "unlocks": []
+  },
+  {
+    "id": "village-7-recipe-286154",
+    "name": "古代林の採集ツアー",
+    "rank": "7",
+    "unlocks": []
+  },
+  {
+    "id": "village-7-recipe-286155",
+    "name": "旧砂漠の採集ツアー",
+    "rank": "7",
+    "unlocks": []
+  },
+  {
+    "id": "village-7-recipe-286156",
+    "name": "森丘の採集ツアー",
+    "rank": "7",
+    "unlocks": []
+  },
+  {
+    "id": "village-7-recipe-285974",
+    "name": "雪山の採集ツアー",
+    "rank": "7",
+    "unlocks": []
+  },
+  {
+    "id": "village-7-recipe-286157",
+    "name": "渓流の採集ツアー",
+    "rank": "7",
+    "unlocks": []
+  },
+  {
+    "id": "village-7-recipe-285975",
+    "name": "挑発上手の跳狗竜",
+    "rank": "7",
+    "unlocks": []
+  },
+  {
+    "id": "village-7-recipe-285976",
+    "name": "青熊獣、出没中につき",
+    "rank": "7",
+    "unlocks": []
+  },
+  {
+    "id": "village-7-recipe-285977",
+    "name": "怪鳥の憂鬱",
+    "rank": "7",
+    "unlocks": []
+  },
+  {
+    "id": "village-7-recipe-285740",
+    "name": "調査隊初陣！遺群嶺の桃毛獣",
+    "rank": "7",
+    "unlocks": [
+      {
+        "kind": "hunter_art",
+        "label": "ムーンブレイク LV1"
+      },
+      {
+        "kind": "hunter_art",
+        "label": "妖刀羅刹 LV1"
+      },
+      {
+        "kind": "hunter_art",
+        "label": "混沌の刃薬 LV1"
+      },
+      {
+        "kind": "hunter_art",
+        "label": "ラセンザン LV1"
+      },
+      {
+        "kind": "hunter_art",
+        "label": "インパクトプルス LV1"
+      },
+      {
+        "kind": "hunter_art",
+        "label": "アニマートハイ LV1"
+      },
+      {
+        "kind": "hunter_art",
+        "label": "治癒の盾 LV1"
+      },
+      {
+        "kind": "hunter_art",
+        "label": "AAフレア LV1"
+      },
+      {
+        "kind": "hunter_art",
+        "label": "テンペストアクス LV1"
+      },
+      {
+        "kind": "hunter_art",
+        "label": "チェインソーサー LV1"
+      },
+      {
+        "kind": "hunter_art",
+        "label": "覚蟲強化 LV1"
+      },
+      {
+        "kind": "hunter_art",
+        "label": "チャージショット LV1"
+      },
+      {
+        "kind": "hunter_art",
+        "label": "射突型裂孔弾 LV1"
+      },
+      {
+        "kind": "hunter_art",
+        "label": "身躱し射法 LV1"
+      }
+    ]
+  },
+  {
+    "id": "village-7-recipe-285978",
+    "name": "不潔ものの大集会",
+    "rank": "7",
+    "unlocks": []
+  },
+  {
+    "id": "village-7-recipe-285979",
+    "name": "遺群嶺の不思議な石",
+    "rank": "7",
+    "unlocks": []
+  },
+  {
+    "id": "village-7-recipe-286158",
+    "name": "彗星のカケラはどこに？",
+    "rank": "7",
+    "unlocks": [
+      {
+        "kind": "facility",
+        "label": "研究室の開放",
+        "note": "このクエストのクリアで研究室が開放。各拡張には龍歴院ポイントや灼けた甲殻等を使う手続きが必要です。"
+      },
+      {
+        "kind": "facility",
+        "label": "アイテムボックス拡張【序】（研究項目）",
+        "note": "このクエストのクリア後に研究室で開放。拡張・研究には龍歴院ポイントや灼けた甲殻等が必要。個別必要量は未収録です。"
+      },
+      {
+        "kind": "facility",
+        "label": "基本セット【採集】（研究項目）",
+        "note": "このクエストのクリア後に研究室で開放。拡張・研究には龍歴院ポイントや灼けた甲殻等が必要。個別必要量は未収録です。"
+      },
+      {
+        "kind": "facility",
+        "label": "基本セット【地図】（研究項目）",
+        "note": "このクエストのクリア後に研究室で開放。拡張・研究には龍歴院ポイントや灼けた甲殻等が必要。個別必要量は未収録です。"
+      },
+      {
+        "kind": "facility",
+        "label": "基本セット【回復】（研究項目）",
+        "note": "このクエストのクリア後に研究室で開放。拡張・研究には龍歴院ポイントや灼けた甲殻等が必要。個別必要量は未収録です。"
+      },
+      {
+        "kind": "facility",
+        "label": "寒冷地セット（研究項目）",
+        "note": "このクエストのクリア後に研究室で開放。拡張・研究には龍歴院ポイントや灼けた甲殻等が必要。個別必要量は未収録です。"
+      },
+      {
+        "kind": "facility",
+        "label": "熱帯地セット（研究項目）",
+        "note": "このクエストのクリア後に研究室で開放。拡張・研究には龍歴院ポイントや灼けた甲殻等が必要。個別必要量は未収録です。"
+      }
+    ]
+  },
+  {
+    "id": "village-7-recipe-285980",
+    "name": "竜の卵の納品・モーニング",
+    "rank": "7",
+    "unlocks": []
+  },
+  {
+    "id": "village-7-recipe-286159",
+    "name": "これが本当のダイミョウ行列？",
+    "rank": "7",
+    "unlocks": []
+  },
+  {
+    "id": "village-7-recipe-285981",
+    "name": "友に迫る土砂竜",
+    "rank": "7",
+    "unlocks": []
+  },
+  {
+    "id": "village-7-recipe-286160",
+    "name": "ゲネポス行進曲",
+    "rank": "7",
+    "unlocks": []
+  },
+  {
+    "id": "village-7-recipe-286161",
+    "name": "砂中から忍び寄る影",
+    "rank": "7",
+    "unlocks": []
+  },
+  {
+    "id": "village-7-recipe-286162",
+    "name": "熱帯イチゴはカネの味？",
+    "rank": "7",
+    "unlocks": []
+  },
+  {
+    "id": "village-7-recipe-285982",
+    "name": "珍味アルセルタスをもう一度",
+    "rank": "7",
+    "unlocks": []
+  },
+  {
+    "id": "village-7-recipe-285983",
+    "name": "イタズラ猿に制裁を",
+    "rank": "7",
+    "unlocks": []
+  },
+  {
+    "id": "village-7-recipe-286163",
+    "name": "毒怪鳥活用計画",
+    "rank": "7",
+    "unlocks": []
+  },
+  {
+    "id": "village-7-recipe-286164",
+    "name": "ぱっくん！テツカブラ",
+    "rank": "7",
+    "unlocks": []
+  },
+  {
+    "id": "village-7-recipe-286165",
+    "name": "ババコンガを狩猟せよ",
+    "rank": "7",
+    "unlocks": []
+  },
+  {
+    "id": "village-7-recipe-286166",
+    "name": "ボルボロスを捕獲せよ！",
+    "rank": "7",
+    "unlocks": []
+  },
+  {
+    "id": "village-7-recipe-286167",
+    "name": "旧砂漠横断のお荷物",
+    "rank": "7",
+    "unlocks": []
+  },
+  {
+    "id": "village-7-recipe-286168",
+    "name": "森丘の怪",
+    "rank": "7",
+    "unlocks": []
+  },
+  {
+    "id": "village-7-recipe-285984",
+    "name": "商売ガタキのドスギアノス",
+    "rank": "7",
+    "unlocks": []
+  },
+  {
+    "id": "village-7-recipe-285985",
+    "name": "氷雪に舞う白うさぎ",
+    "rank": "7",
+    "unlocks": []
+  },
+  {
+    "id": "village-7-recipe-285986",
+    "name": "渓流に棲む水獣",
+    "rank": "7",
+    "unlocks": []
+  },
+  {
+    "id": "village-7-recipe-286169",
+    "name": "旬な食材を採らせておくれ！",
+    "rank": "7",
+    "unlocks": [
+      {
+        "kind": "food",
+        "label": "リュウノテール",
+        "note": "依頼達成後、依頼主に報告して追加。"
+      }
+    ]
+  },
+  {
+    "id": "village-7-recipe-285987",
+    "name": "ニャンター、お使い再び",
+    "rank": "7",
+    "unlocks": [
+      {
+        "kind": "facility",
+        "label": "オトモの育成レベル上限35",
+        "note": "このクエストのクリア、または集★4大師範の試練、集★6妖艶なる舞＋不動の山神、村★10恐れ見よ、赤き災厄の彗星をのクリアによる別経路（OR）。初期雇用レベルとは別です。"
+      }
+    ]
+  },
+  {
+    "id": "village-7-recipe-286170",
+    "name": "芳香せしコンガ",
+    "rank": "7",
+    "unlocks": []
+  },
+  {
+    "id": "village-7-recipe-286171",
+    "name": "疾走するドスランポス",
+    "rank": "7",
+    "unlocks": [
+      {
+        "kind": "facility",
+        "label": "オトモ雇用枠78匹",
+        "note": "このクエストのクリア、またはG★2到達（OR）。基本情報表・専用クエスト表が一致。"
+      }
+    ]
+  },
+  {
+    "id": "village-8-recipe-288200",
+    "name": "密林の採集ツアー",
+    "rank": "8",
+    "unlocks": []
+  },
+  {
+    "id": "village-8-recipe-288201",
+    "name": "氷海の採集ツアー",
+    "rank": "8",
+    "unlocks": []
+  },
+  {
+    "id": "village-8-recipe-288202",
+    "name": "地底火山の採集ツアー",
+    "rank": "8",
+    "unlocks": []
+  },
+  {
+    "id": "village-8-recipe-288203",
+    "name": "孤島の採集ツアー",
+    "rank": "8",
+    "unlocks": []
+  },
+  {
+    "id": "village-8-recipe-288204",
+    "name": "沼地の採集ツアー",
+    "rank": "8",
+    "unlocks": []
+  },
+  {
+    "id": "village-8-recipe-288205",
+    "name": "火山の採集ツアー",
+    "rank": "8",
+    "unlocks": []
+  },
+  {
+    "id": "village-8-recipe-288206",
+    "name": "道化師は斯く嘲る",
+    "rank": "8",
+    "unlocks": []
+  },
+  {
+    "id": "village-8-recipe-286191",
+    "name": "山嶺を舞うリオレイア",
+    "rank": "8",
+    "unlocks": []
+  },
+  {
+    "id": "village-8-recipe-286192",
+    "name": "龍識船強化！【水竜編】",
+    "rank": "8",
+    "unlocks": []
+  },
+  {
+    "id": "village-8-recipe-288207",
+    "name": "切り裂かれた誇り",
+    "rank": "8",
+    "unlocks": []
+  },
+  {
+    "id": "village-8-recipe-288208",
+    "name": "おやつは高層エリンギ",
+    "rank": "8",
+    "unlocks": []
+  },
+  {
+    "id": "village-8-recipe-288209",
+    "name": "転がれ！転がせ！赤い牙獣",
+    "rank": "8",
+    "unlocks": []
+  },
+  {
+    "id": "village-8-recipe-286193",
+    "name": "喰われる前にヤレ！",
+    "rank": "8",
+    "unlocks": []
+  },
+  {
+    "id": "village-8-recipe-286194",
+    "name": "龍識船強化！【迅竜編】",
+    "rank": "8",
+    "unlocks": []
+  },
+  {
+    "id": "village-8-recipe-288210",
+    "name": "なんと、黒狼鳥でした！",
+    "rank": "8",
+    "unlocks": []
+  },
+  {
+    "id": "village-8-recipe-288211",
+    "name": "雷光の先の面影",
+    "rank": "8",
+    "unlocks": []
+  },
+  {
+    "id": "village-8-recipe-288212",
+    "name": "はじける貝殻マネー",
+    "rank": "8",
+    "unlocks": []
+  },
+  {
+    "id": "village-8-recipe-288213",
+    "name": "竜の卵の納品・ランチ",
+    "rank": "8",
+    "unlocks": []
+  },
+  {
+    "id": "village-8-recipe-288214",
+    "name": "飛んで跳ねて無我夢中",
+    "rank": "8",
+    "unlocks": []
+  },
+  {
+    "id": "village-8-recipe-286172",
+    "name": "原生林に巣食う蜘蛛",
+    "rank": "8",
+    "unlocks": [
+      {
+        "kind": "facility",
+        "label": "オトモ武器開発（研究項目）",
+        "note": "村★8解放後、研究室で開放。拡張・研究には龍歴院ポイントや灼けた甲殻等が必要です。"
+      },
+      {
+        "kind": "facility",
+        "label": "オトモ防具開発（研究項目）",
+        "note": "村★8解放後、研究室で開放。拡張・研究には龍歴院ポイントや灼けた甲殻等が必要です。"
+      },
+      {
+        "kind": "facility",
+        "label": "アイテムボックス拡張【匠】（研究項目）",
+        "note": "村★8と集G★1の両方の解放が必要（AND）。クエストクリアだけで利用を保証しません。研究室で龍歴院ポイントや灼けた甲殻等を使って拡張します。"
+      }
+    ]
+  },
+  {
+    "id": "village-8-recipe-288215",
+    "name": "嗚呼素晴らしき也、絞蛇竜",
+    "rank": "8",
+    "unlocks": []
+  },
+  {
+    "id": "village-8-recipe-286195",
+    "name": "ぷくぅーっ！ザボアザギル！",
+    "rank": "8",
+    "unlocks": []
+  },
+  {
+    "id": "village-8-recipe-286196",
+    "name": "狩人のための舞台～氷海～",
+    "rank": "8",
+    "unlocks": []
+  },
+  {
+    "id": "village-8-recipe-286197",
+    "name": "ものぐさには爆鎚竜で喝！",
+    "rank": "8",
+    "unlocks": []
+  },
+  {
+    "id": "village-8-recipe-286198",
+    "name": "珍肥料を手に入れるのニャ！",
+    "rank": "8",
+    "unlocks": [
+      {
+        "kind": "food",
+        "label": "砲丸レタス",
+        "note": "依頼達成後、依頼主に報告して追加。"
+      }
+    ]
+  },
+  {
+    "id": "village-8-recipe-286199",
+    "name": "砂まみれですな",
+    "rank": "8",
+    "unlocks": []
+  },
+  {
+    "id": "village-8-recipe-286200",
+    "name": "宣伝ネコの受難",
+    "rank": "8",
+    "unlocks": [
+      {
+        "kind": "other",
+        "label": "プリティネコリボン（製法）",
+        "note": "依頼達成・報告後の製法解放。装備そのものの入手ではありません。"
+      },
+      {
+        "kind": "other",
+        "label": "プリティネコワンピ（製法）",
+        "note": "依頼達成・報告後の製法解放。装備そのものの入手ではありません。"
+      }
+    ]
+  },
+  {
+    "id": "village-8-recipe-288216",
+    "name": "フルフルのまごころ診療所",
+    "rank": "8",
+    "unlocks": []
+  },
+  {
+    "id": "village-8-recipe-288217",
+    "name": "ホワイトアウト",
+    "rank": "8",
+    "unlocks": []
+  },
+  {
+    "id": "village-8-recipe-288218",
+    "name": "たまには釣りでもいかが？",
+    "rank": "8",
+    "unlocks": []
+  },
+  {
+    "id": "village-8-recipe-288219",
+    "name": "陸の女王、捕獲作戦！",
+    "rank": "8",
+    "unlocks": []
+  },
+  {
+    "id": "village-8-recipe-288220",
+    "name": "ナルガクルガのお手本",
+    "rank": "8",
+    "unlocks": []
+  },
+  {
+    "id": "village-8-recipe-288221",
+    "name": "孤島からの伝書",
+    "rank": "8",
+    "unlocks": []
+  },
+  {
+    "id": "village-8-recipe-286201",
+    "name": "でっかい岩だと思ったら…？",
+    "rank": "8",
+    "unlocks": []
+  },
+  {
+    "id": "village-8-recipe-288222",
+    "name": "沼地の恐怖体験",
+    "rank": "8",
+    "unlocks": []
+  },
+  {
+    "id": "village-8-recipe-286202",
+    "name": "龍識船強化！【溶岩竜編】",
+    "rank": "8",
+    "unlocks": []
+  },
+  {
+    "id": "village-8-recipe-288223",
+    "name": "熱地に現る、ウラガンキン！",
+    "rank": "8",
+    "unlocks": [
+      {
+        "kind": "facility",
+        "label": "ルームサービス変更可能",
+        "note": "依頼達成後、依頼主に報告して利用。"
+      }
+    ]
+  },
+  {
+    "id": "village-8-recipe-288224",
+    "name": "火山の厄介者たち",
+    "rank": "8",
+    "unlocks": []
+  },
+  {
+    "id": "village-8-recipe-288225",
+    "name": "ナイショのお仕事",
+    "rank": "8",
+    "unlocks": []
+  },
+  {
+    "id": "village-8-recipe-288226",
+    "name": "冷血なるドスギアノス！",
+    "rank": "8",
+    "unlocks": []
+  },
+  {
+    "id": "village-8-recipe-288227",
+    "name": "美しき、遺群嶺",
+    "rank": "8",
+    "unlocks": []
+  },
+  {
+    "id": "village-8-recipe-288228",
+    "name": "桃毛獣のトサカ破壊に挑戦！",
+    "rank": "8",
+    "unlocks": [
+      {
+        "kind": "facility",
+        "label": "オトモの初期雇用レベル30〜32",
+        "note": "このクエストのクリア、またはG★2到達（OR）。育成レベル上限とは別です。"
+      }
+    ]
+  },
+  {
+    "id": "village-9-recipe-286216",
+    "name": "遺群嶺の火竜",
+    "rank": "9",
+    "unlocks": []
+  },
+  {
+    "id": "village-9-recipe-286217",
+    "name": "嗚呼素晴らしき也、雷狼竜",
+    "rank": "9",
+    "unlocks": []
+  },
+  {
+    "id": "village-9-recipe-286218",
+    "name": "鎧竜は、とってもグルメ？",
+    "rank": "9",
+    "unlocks": []
+  },
+  {
+    "id": "village-9-recipe-286219",
+    "name": "漆黒に染まる嶺",
+    "rank": "9",
+    "unlocks": []
+  },
+  {
+    "id": "village-9-recipe-286220",
+    "name": "砂漠の死闘と決意",
+    "rank": "9",
+    "unlocks": []
+  },
+  {
+    "id": "village-9-recipe-286221",
+    "name": "轟竜の狩猟をさせてやるぜ！",
+    "rank": "9",
+    "unlocks": [
+      {
+        "kind": "other",
+        "label": "クリスタルロック（製法）",
+        "note": "依頼達成・報告後の製法解放。装備そのものの入手ではありません。"
+      },
+      {
+        "kind": "other",
+        "label": "アルバレッド（製法）",
+        "note": "依頼達成・報告後の製法解放。装備そのものの入手ではありません。"
+      }
+    ]
+  },
+  {
+    "id": "village-9-recipe-286222",
+    "name": "突撃取材！巨大甲虫を追え！",
+    "rank": "9",
+    "unlocks": []
+  },
+  {
+    "id": "village-9-recipe-286223",
+    "name": "海竜、沈降開始",
+    "rank": "9",
+    "unlocks": []
+  },
+  {
+    "id": "village-9-recipe-286224",
+    "name": "犯人はキミだ、雷狼竜",
+    "rank": "9",
+    "unlocks": []
+  },
+  {
+    "id": "village-9-recipe-288229",
+    "name": "領主の命令～泡狐竜篇～",
+    "rank": "9",
+    "unlocks": []
+  },
+  {
+    "id": "village-9-recipe-288230",
+    "name": "尾槌竜、登頂してこそ山男",
+    "rank": "9",
+    "unlocks": []
+  },
+  {
+    "id": "village-9-recipe-288231",
+    "name": "狩人のための舞台～密林～",
+    "rank": "9",
+    "unlocks": []
+  },
+  {
+    "id": "village-9-recipe-286225",
+    "name": "空路を阻む電竜退治！",
+    "rank": "9",
+    "unlocks": [
+      {
+        "kind": "other",
+        "label": "チアフルシリーズ（製法）",
+        "note": "依頼達成・報告後の製法解放。装備そのものの入手ではありません。"
+      },
+      {
+        "kind": "other",
+        "label": "チアフルＸシリーズ（製法）",
+        "note": "依頼達成・報告後の製法解放。装備そのものの入手ではありません。"
+      },
+      {
+        "kind": "other",
+        "label": "チアフルネコフート（製法）",
+        "note": "依頼達成・報告後の製法解放。装備そのものの入手ではありません。"
+      },
+      {
+        "kind": "other",
+        "label": "チアフルネコスーツ（製法）",
+        "note": "依頼達成・報告後の製法解放。装備そのものの入手ではありません。"
+      }
+    ]
+  },
+  {
+    "id": "village-9-recipe-286226",
+    "name": "ジャングル・フェロモン",
+    "rank": "9",
+    "unlocks": [
+      {
+        "kind": "food",
+        "label": "マスターベーグル",
+        "note": "依頼達成後、依頼主に報告して追加。"
+      }
+    ]
+  },
+  {
+    "id": "village-9-recipe-288232",
+    "name": "原生林からの救援要請",
+    "rank": "9",
+    "unlocks": []
+  },
+  {
+    "id": "village-9-recipe-288233",
+    "name": "闇に沈んだ暗殺者たち",
+    "rank": "9",
+    "unlocks": []
+  },
+  {
+    "id": "village-9-recipe-286227",
+    "name": "龍識船強化！【氷牙竜編】",
+    "rank": "9",
+    "unlocks": []
+  },
+  {
+    "id": "village-9-recipe-286228",
+    "name": "ガムートの強さは世界一",
+    "rank": "9",
+    "unlocks": []
+  },
+  {
+    "id": "village-9-recipe-286229",
+    "name": "氷海に君臨する者",
+    "rank": "9",
+    "unlocks": []
+  },
+  {
+    "id": "village-9-recipe-288234",
+    "name": "氷槍のザボアザギルたち",
+    "rank": "9",
+    "unlocks": []
+  },
+  {
+    "id": "village-9-recipe-288235",
+    "name": "火竜の山でつかまえて",
+    "rank": "9",
+    "unlocks": []
+  },
+  {
+    "id": "village-9-recipe-288236",
+    "name": "アグナコトルの捕獲",
+    "rank": "9",
+    "unlocks": []
+  },
+  {
+    "id": "village-9-recipe-286230",
+    "name": "ディノバルド、再び！",
+    "rank": "9",
+    "unlocks": []
+  },
+  {
+    "id": "village-9-recipe-286231",
+    "name": "轟竜と赤甲獣のデュエット",
+    "rank": "9",
+    "unlocks": []
+  },
+  {
+    "id": "village-9-recipe-286232",
+    "name": "ライゼクス、再び！",
+    "rank": "9",
+    "unlocks": []
+  },
+  {
+    "id": "village-9-recipe-286233",
+    "name": "割り込み受注：卵納品",
+    "rank": "9",
+    "unlocks": []
+  },
+  {
+    "id": "village-9-recipe-286234",
+    "name": "ベリオロスを捕獲せよ！",
+    "rank": "9",
+    "unlocks": []
+  },
+  {
+    "id": "village-9-recipe-286235",
+    "name": "ガムート、再び！",
+    "rank": "9",
+    "unlocks": []
+  },
+  {
+    "id": "village-9-recipe-286236",
+    "name": "雪山、雪玉、雪合戦！！",
+    "rank": "9",
+    "unlocks": [
+      {
+        "kind": "food",
+        "label": "大吟醸・龍ころし",
+        "note": "依頼達成後、依頼主に報告して追加。"
+      }
+    ]
+  },
+  {
+    "id": "village-9-recipe-286237",
+    "name": "タマミツネ、再び！",
+    "rank": "9",
+    "unlocks": []
+  },
+  {
+    "id": "village-9-recipe-286238",
+    "name": "空の家族・メシを作るッス",
+    "rank": "9",
+    "unlocks": [
+      {
+        "kind": "food",
+        "label": "珍味・甲冑魚",
+        "note": "依頼達成後、依頼主に報告して追加。"
+      }
+    ]
+  },
+  {
+    "id": "village-9-recipe-286203",
+    "name": "彗星の前にあらわる鎧竜",
+    "rank": "9",
+    "unlocks": [
+      {
+        "kind": "facility",
+        "label": "武器開発：大剣（研究項目）",
+        "note": "村★9解放後に研究室で開放。研究には龍歴院ポイントや灼けた甲殻等を使う手続きが必要です。"
+      },
+      {
+        "kind": "facility",
+        "label": "武器開発：太刀（研究項目）",
+        "note": "村★9解放後に研究室で開放。研究には龍歴院ポイントや灼けた甲殻等を使う手続きが必要です。"
+      },
+      {
+        "kind": "facility",
+        "label": "武器開発：ランス（研究項目）",
+        "note": "村★9解放後に研究室で開放。研究には龍歴院ポイントや灼けた甲殻等を使う手続きが必要です。"
+      },
+      {
+        "kind": "facility",
+        "label": "武器開発：ガンランス（研究項目）",
+        "note": "村★9解放後に研究室で開放。研究には龍歴院ポイントや灼けた甲殻等を使う手続きが必要です。"
+      },
+      {
+        "kind": "facility",
+        "label": "武器開発：片手剣（研究項目）",
+        "note": "村★9解放後に研究室で開放。研究には龍歴院ポイントや灼けた甲殻等を使う手続きが必要です。"
+      },
+      {
+        "kind": "facility",
+        "label": "武器開発：双剣（研究項目）",
+        "note": "村★9解放後に研究室で開放。研究には龍歴院ポイントや灼けた甲殻等を使う手続きが必要です。"
+      },
+      {
+        "kind": "facility",
+        "label": "武器開発：ハンマー（研究項目）",
+        "note": "村★9解放後に研究室で開放。研究には龍歴院ポイントや灼けた甲殻等を使う手続きが必要です。"
+      },
+      {
+        "kind": "facility",
+        "label": "武器開発：狩猟笛（研究項目）",
+        "note": "村★9解放後に研究室で開放。研究には龍歴院ポイントや灼けた甲殻等を使う手続きが必要です。"
+      },
+      {
+        "kind": "facility",
+        "label": "武器開発：スラッシュアックス（研究項目）",
+        "note": "村★9解放後に研究室で開放。研究には龍歴院ポイントや灼けた甲殻等を使う手続きが必要です。"
+      },
+      {
+        "kind": "facility",
+        "label": "武器開発：チャージアックス（研究項目）",
+        "note": "村★9解放後に研究室で開放。研究には龍歴院ポイントや灼けた甲殻等を使う手続きが必要です。"
+      },
+      {
+        "kind": "facility",
+        "label": "武器開発：操虫棍（研究項目）",
+        "note": "村★9解放後に研究室で開放。研究には龍歴院ポイントや灼けた甲殻等を使う手続きが必要です。"
+      },
+      {
+        "kind": "facility",
+        "label": "武器開発：ライトボウガン（研究項目）",
+        "note": "村★9解放後に研究室で開放。研究には龍歴院ポイントや灼けた甲殻等を使う手続きが必要です。"
+      },
+      {
+        "kind": "facility",
+        "label": "武器開発：ヘビィボウガン（研究項目）",
+        "note": "村★9解放後に研究室で開放。研究には龍歴院ポイントや灼けた甲殻等を使う手続きが必要です。"
+      },
+      {
+        "kind": "facility",
+        "label": "武器開発：弓（研究項目）",
+        "note": "村★9解放後に研究室で開放。研究には龍歴院ポイントや灼けた甲殻等を使う手続きが必要です。"
+      },
+      {
+        "kind": "facility",
+        "label": "回復セット【基本】（研究項目）",
+        "note": "村★9、または集G★2の解放（OR）が条件。研究室で龍歴院ポイントや灼けた甲殻等を使う手続きが必要です。"
+      },
+      {
+        "kind": "facility",
+        "label": "回復セット【熟練】（研究項目）",
+        "note": "村★9、または集G★2の解放（OR）が条件。研究室で龍歴院ポイントや灼けた甲殻等を使う手続きが必要です。"
+      },
+      {
+        "kind": "facility",
+        "label": "回復セット【緊急】（研究項目）",
+        "note": "村★9、または集G★2の解放（OR）が条件。研究室で龍歴院ポイントや灼けた甲殻等を使う手続きが必要です。"
+      },
+      {
+        "kind": "facility",
+        "label": "爆弾セット（研究項目）",
+        "note": "村★9、または集G★2の解放（OR）が条件。研究室で龍歴院ポイントや灼けた甲殻等を使う手続きが必要です。"
+      },
+      {
+        "kind": "facility",
+        "label": "閃光玉セット（研究項目）",
+        "note": "村★9、または集G★2の解放（OR）が条件。研究室で龍歴院ポイントや灼けた甲殻等を使う手続きが必要です。"
+      },
+      {
+        "kind": "facility",
+        "label": "粉塵セット（研究項目）",
+        "note": "村★9、または集G★2の解放（OR）が条件。研究室で龍歴院ポイントや灼けた甲殻等を使う手続きが必要です。"
+      },
+      {
+        "kind": "facility",
+        "label": "捕獲セット（研究項目）",
+        "note": "村★9、または集G★2の解放（OR）が条件。研究室で龍歴院ポイントや灼けた甲殻等を使う手続きが必要です。"
+      },
+      {
+        "kind": "facility",
+        "label": "回復セット【対毒】（研究項目）",
+        "note": "村★9、または集G★2の解放（OR）が条件。研究室で龍歴院ポイントや灼けた甲殻等を使う手続きが必要です。"
+      },
+      {
+        "kind": "facility",
+        "label": "こやしセット（研究項目）",
+        "note": "村★9、または集G★2の解放（OR）が条件。研究室で龍歴院ポイントや灼けた甲殻等を使う手続きが必要です。"
+      },
+      {
+        "kind": "facility",
+        "label": "狩猟セット【帰還】（研究項目）",
+        "note": "村★9、または集G★2の解放（OR）が条件。研究室で龍歴院ポイントや灼けた甲殻等を使う手続きが必要です。"
+      },
+      {
+        "kind": "facility",
+        "label": "採掘セット【緊急】（研究項目）",
+        "note": "村★9、または集G★2の解放（OR）が条件。研究室で龍歴院ポイントや灼けた甲殻等を使う手続きが必要です。"
+      },
+      {
+        "kind": "facility",
+        "label": "虫取りセット【緊急】（研究項目）",
+        "note": "村★9、または集G★2の解放（OR）が条件。研究室で龍歴院ポイントや灼けた甲殻等を使う手続きが必要です。"
+      },
+      {
+        "kind": "facility",
+        "label": "アイテムボックス拡張【極】（研究項目）",
+        "note": "村★9と集G★2の両方の解放が必要（AND）。研究室で龍歴院ポイントや灼けた甲殻等を使って拡張します。"
+      }
+    ]
+  },
+  {
+    "id": "village-9-recipe-286239",
+    "name": "……求めるならば力を示して",
+    "rank": "9",
+    "unlocks": [
+      {
+        "kind": "other",
+        "label": "マリネロシリーズ（製法）",
+        "note": "依頼達成・報告後の製法解放。装備そのものの入手ではありません。"
+      },
+      {
+        "kind": "other",
+        "label": "マリネロＸシリーズ（製法）",
+        "note": "依頼達成・報告後の製法解放。装備そのものの入手ではありません。"
+      },
+      {
+        "kind": "other",
+        "label": "マリネロネコフード（製法）",
+        "note": "依頼達成・報告後の製法解放。装備そのものの入手ではありません。"
+      },
+      {
+        "kind": "other",
+        "label": "マリネロネコスーツ（製法）",
+        "note": "依頼達成・報告後の製法解放。装備そのものの入手ではありません。"
+      }
+    ]
+  },
+  {
+    "id": "village-9-recipe-288237",
+    "name": "火山にいる先輩後輩",
+    "rank": "9",
+    "unlocks": []
+  },
+  {
+    "id": "village-9-recipe-288238",
+    "name": "凶運の遺跡平原",
+    "rank": "9",
+    "unlocks": []
+  },
+  {
+    "id": "village-9-recipe-288239",
+    "name": "古代林の大運動会",
+    "rank": "9",
+    "unlocks": []
+  },
+  {
+    "id": "village-9-recipe-288240",
+    "name": "旧砂漠でゆらめく蜃気楼",
+    "rank": "9",
+    "unlocks": []
+  },
+  {
+    "id": "village-9-recipe-288241",
+    "name": "火山の迷惑集団襲来！",
+    "rank": "9",
+    "unlocks": []
+  },
+  {
+    "id": "village-9-recipe-288242",
+    "name": "美しき幻獣",
+    "rank": "9",
+    "unlocks": []
+  },
+  {
+    "id": "village-9-recipe-288243",
+    "name": "騎士と古代林の挑戦",
+    "rank": "9",
+    "unlocks": []
+  },
+  {
+    "id": "village-9-recipe-288244",
+    "name": "狩場の光はすべて虫",
+    "rank": "9",
+    "unlocks": []
+  },
+  {
+    "id": "village-9-recipe-288245",
+    "name": "身の毒は気の毒",
+    "rank": "9",
+    "unlocks": []
+  },
+  {
+    "id": "village-9-recipe-288246",
+    "name": "旧砂漠のポイント招きネコ",
+    "rank": "9",
+    "unlocks": []
+  },
+  {
+    "id": "village-9-recipe-288247",
+    "name": "岩竜の胸部破壊に挑戦！",
+    "rank": "9",
+    "unlocks": [
+      {
+        "kind": "facility",
+        "label": "オトモ雇用枠84匹",
+        "note": "このクエストのクリア、またはG★3到達（OR）。基本情報表・専用クエスト表が一致。"
+      }
+    ]
+  },
+  {
+    "id": "village-10-recipe-286240",
+    "name": "恐れ見よ、赤き災厄の彗星を",
+    "rank": "10",
+    "unlocks": [
+      {
+        "kind": "other",
+        "label": "斬炎のピアス（特別入手）",
+        "note": "依頼欄に記載された特別入手。装備の製法ではありません。"
+      },
+      {
+        "kind": "other",
+        "label": "雷電のピアス（特別入手）",
+        "note": "依頼欄に記載された特別入手。装備の製法ではありません。"
+      },
+      {
+        "kind": "other",
+        "label": "巨氷のピアス（特別入手）",
+        "note": "依頼欄に記載された特別入手。装備の製法ではありません。"
+      },
+      {
+        "kind": "other",
+        "label": "水狐のピアス（特別入手）",
+        "note": "依頼欄に記載された特別入手。装備の製法ではありません。"
+      },
+      {
+        "kind": "other",
+        "label": "龍彗のピアス（特別入手）",
+        "note": "依頼欄に記載された特別入手。装備の製法ではありません。"
+      },
+      {
+        "kind": "facility",
+        "label": "オトモの育成レベル上限35",
+        "note": "このクエストのクリアも解放経路の一つ。他に村★7ニャンター、お使い再び、集★4大師範の試練、集★6妖艶なる舞＋不動の山神のクリア（OR）。"
+      },
+      {
+        "kind": "facility",
+        "label": "オトモの初期雇用レベル20〜22の解放経路",
+        "note": "ニャンターによる拡張を行っていなくても、このクエストのクリアで初期雇用レベル20〜22。既に解放した上位のレベルを下げる意味ではありません。"
+      },
+      {
+        "kind": "facility",
+        "label": "オトモ雇用枠72匹の解放経路",
+        "note": "ニャンターによる拡張を一切行わなかった場合でも、このクエストのクリアで72枠。既に78・84枠が解放されている場合に縮小する意味ではありません。"
+      }
+    ]
+  },
+  {
+    "id": "village-10-recipe-298957",
+    "name": "災厄は空からいづる",
+    "rank": "10",
+    "unlocks": []
+  },
+  {
+    "id": "village-10-recipe-298958",
+    "name": "凶星からの贈りもの",
+    "rank": "10",
+    "unlocks": []
+  },
+  {
+    "id": "village-10-recipe-298959",
+    "name": "災厄をもたらす彗星",
+    "rank": "10",
+    "unlocks": []
+  },
+  {
+    "id": "village-10-recipe-298960",
+    "name": "遺群嶺を塞ぐ恐暴竜",
+    "rank": "10",
+    "unlocks": [
+      {
+        "kind": "other",
+        "label": "エルドラジェズル（製法）",
+        "note": "依頼達成・報告後の製法解放。装備そのものの入手ではありません。"
+      },
+      {
+        "kind": "other",
+        "label": "エルドラカノーネ（製法）",
+        "note": "依頼達成・報告後の製法解放。装備そのものの入手ではありません。"
+      },
+      {
+        "kind": "other",
+        "label": "ジャギィフェイク（製法）",
+        "note": "依頼達成・報告後の製法解放。装備そのものの入手ではありません。"
+      },
+      {
+        "kind": "other",
+        "label": "ジャギィＸフェイク（製法）",
+        "note": "依頼達成・報告後の製法解放。装備そのものの入手ではありません。"
+      }
+    ]
+  },
+  {
+    "id": "village-10-recipe-298961",
+    "name": "千刃狂騒",
+    "rank": "10",
+    "unlocks": []
+  },
+  {
+    "id": "village-10-recipe-298962",
+    "name": "死闘！角竜ディアブロス",
+    "rank": "10",
+    "unlocks": []
+  },
+  {
+    "id": "village-10-recipe-298963",
+    "name": "金獅子、砂上に咆哮す",
+    "rank": "10",
+    "unlocks": []
+  },
+  {
+    "id": "village-10-recipe-298964",
+    "name": "竜の卵の納品・ディナー",
+    "rank": "10",
+    "unlocks": []
+  },
+  {
+    "id": "village-10-recipe-298965",
+    "name": "赤竜と緑竜",
+    "rank": "10",
+    "unlocks": []
+  },
+  {
+    "id": "village-10-recipe-298966",
+    "name": "原生林からの救援要請",
+    "rank": "10",
+    "unlocks": []
+  },
+  {
+    "id": "village-10-recipe-298967",
+    "name": "怠け心には千刃竜で喝！",
+    "rank": "10",
+    "unlocks": []
+  },
+  {
+    "id": "village-10-recipe-298968",
+    "name": "俺のソウルはブロウアップ",
+    "rank": "10",
+    "unlocks": []
+  },
+  {
+    "id": "village-10-recipe-298969",
+    "name": "甲冑、弐領",
+    "rank": "10",
+    "unlocks": []
+  },
+  {
+    "id": "village-10-recipe-298970",
+    "name": "角竜を捕獲せよ！",
+    "rank": "10",
+    "unlocks": []
+  },
+  {
+    "id": "village-10-recipe-298971",
+    "name": "すべてを喰らうもの",
+    "rank": "10",
+    "unlocks": []
+  },
+  {
+    "id": "village-10-recipe-298972",
+    "name": "雪山に舞う白き風！",
+    "rank": "10",
+    "unlocks": []
+  },
+  {
+    "id": "village-10-recipe-298973",
+    "name": "粉骨砕竜、捕獲用意！",
+    "rank": "10",
+    "unlocks": []
+  },
+  {
+    "id": "village-10-recipe-298974",
+    "name": "時を廻りて戻り来よ",
+    "rank": "10",
+    "unlocks": []
+  },
+  {
+    "id": "village-10-recipe-298975",
+    "name": "領主の依頼～大連続篇～",
+    "rank": "10",
+    "unlocks": []
+  },
+  {
+    "id": "village-10-recipe-298976",
+    "name": "狩人のための舞台～森丘～",
+    "rank": "10",
+    "unlocks": []
+  },
+  {
+    "id": "village-10-recipe-298977",
+    "name": "渓流からの伝書",
+    "rank": "10",
+    "unlocks": []
+  },
+  {
+    "id": "village-10-recipe-298978",
+    "name": "孤島の恐怖体験",
+    "rank": "10",
+    "unlocks": []
+  },
+  {
+    "id": "village-10-recipe-298979",
+    "name": "逃れられない沼地の窮地",
+    "rank": "10",
+    "unlocks": []
+  },
+  {
+    "id": "village-10-recipe-298980",
+    "name": "怨嗟の骸",
+    "rank": "10",
+    "unlocks": []
+  },
+  {
+    "id": "village-10-recipe-298981",
+    "name": "獄炎の覇王",
+    "rank": "10",
+    "unlocks": []
+  },
+  {
+    "id": "village-10-recipe-298982",
+    "name": "崩せ神の座、威の寝床",
+    "rank": "10",
+    "unlocks": []
+  },
+  {
+    "id": "village-10-recipe-298983",
+    "name": "嵐龍天翔",
+    "rank": "10",
+    "unlocks": []
+  },
+  {
+    "id": "village-10-recipe-298984",
+    "name": "黒き光を放つ神",
+    "rank": "10",
+    "unlocks": []
+  },
+  {
+    "id": "village-10-recipe-298985",
+    "name": "高難度：森丘にて火竜は旋廻す",
+    "rank": "10",
+    "unlocks": [
+      {
+        "kind": "other",
+        "label": "ココットチケットG（特別入手）",
+        "note": "依頼欄に記載された特別入手。装備の製法ではありません。"
+      },
+      {
+        "kind": "other",
+        "label": "ハントＸネコナイフ（製法）",
+        "note": "依頼達成・報告後の製法解放。装備そのものの入手ではありません。"
+      },
+      {
+        "kind": "other",
+        "label": "ハントＸネコヘルム（製法）",
+        "note": "依頼達成・報告後の製法解放。装備そのものの入手ではありません。"
+      },
+      {
+        "kind": "other",
+        "label": "ハントＸネコメイル（製法）",
+        "note": "依頼達成・報告後の製法解放。装備そのものの入手ではありません。"
+      }
+    ]
+  },
+  {
+    "id": "village-10-recipe-298986",
+    "name": "高難度：雪山に佇む轟竜",
+    "rank": "10",
+    "unlocks": [
+      {
+        "kind": "other",
+        "label": "ポッケチケットG（特別入手）",
+        "note": "依頼欄に記載された特別入手。装備の製法ではありません。"
+      },
+      {
+        "kind": "other",
+        "label": "マフモフＸネコフード（製法）",
+        "note": "依頼達成・報告後の製法解放。装備そのものの入手ではありません。"
+      },
+      {
+        "kind": "other",
+        "label": "マフモフＸネコベスト（製法）",
+        "note": "依頼達成・報告後の製法解放。装備そのものの入手ではありません。"
+      }
+    ]
+  },
+  {
+    "id": "village-10-recipe-298987",
+    "name": "高難度：月夜を仰ぐ雷狼竜",
+    "rank": "10",
+    "unlocks": [
+      {
+        "kind": "other",
+        "label": "ユクモチケットG（特別入手）",
+        "note": "依頼欄に記載された特別入手。装備の製法ではありません。"
+      },
+      {
+        "kind": "other",
+        "label": "ユクモノＸネコ扇子（製法）",
+        "note": "依頼達成・報告後の製法解放。装備そのものの入手ではありません。"
+      },
+      {
+        "kind": "other",
+        "label": "ユクモノＸネコカサ（製法）",
+        "note": "依頼達成・報告後の製法解放。装備そのものの入手ではありません。"
+      },
+      {
+        "kind": "other",
+        "label": "ユクモノＸネコドウギ（製法）",
+        "note": "依頼達成・報告後の製法解放。装備そのものの入手ではありません。"
+      }
+    ]
+  },
+  {
+    "id": "village-10-recipe-298988",
+    "name": "高難度：銀陽は沈まない",
+    "rank": "10",
+    "unlocks": []
+  },
+  {
+    "id": "village-10-recipe-298989",
+    "name": "高難度：彼女は輝く金火竜",
+    "rank": "10",
+    "unlocks": []
+  },
+  {
+    "id": "village-10-recipe-298990",
+    "name": "高難度：遺群嶺の試練",
+    "rank": "10",
+    "unlocks": []
+  },
+  {
+    "id": "village-10-recipe-298991",
+    "name": "高難度：禍は鋼鉄よりも硬し",
+    "rank": "10",
+    "unlocks": []
+  },
+  {
+    "id": "village-10-recipe-298992",
+    "name": "高難度：宵闇に消ゆ",
+    "rank": "10",
+    "unlocks": []
+  },
+  {
+    "id": "village-10-recipe-298993",
+    "name": "高難度：陽炎の帝国",
+    "rank": "10",
+    "unlocks": []
+  },
+  {
+    "id": "village-10-recipe-298994",
+    "name": "高難度：古代林に現る２頭の影",
+    "rank": "10",
+    "unlocks": [
+      {
+        "kind": "other",
+        "label": "龍歴士Ｘシリーズ（製法）",
+        "note": "依頼達成・報告後の製法解放。装備そのものの入手ではありません。"
+      },
+      {
+        "kind": "other",
+        "label": "エーデルＸネコロッド（製法）",
+        "note": "依頼達成・報告後の製法解放。装備そのものの入手ではありません。"
+      },
+      {
+        "kind": "other",
+        "label": "エーデルＸネコツイン（製法）",
+        "note": "依頼達成・報告後の製法解放。装備そのものの入手ではありません。"
+      },
+      {
+        "kind": "other",
+        "label": "エーデルＸネコフリル（製法）",
+        "note": "依頼達成・報告後の製法解放。装備そのものの入手ではありません。"
+      }
+    ]
+  },
+  {
+    "id": "village-10-recipe-298995",
+    "name": "高難度：喧嘩の仲裁は村を救う",
+    "rank": "10",
+    "unlocks": [
+      {
+        "kind": "other",
+        "label": "ヘルパーＸ/ヒーラーＸシリーズ（製法）",
+        "note": "依頼達成・報告後の製法解放。装備そのものの入手ではありません。"
+      },
+      {
+        "kind": "other",
+        "label": "ヘルパーＺ/ヒーラーＺシリーズ（製法）",
+        "note": "依頼達成・報告後の製法解放。装備そのものの入手ではありません。"
+      },
+      {
+        "kind": "other",
+        "label": "ポッケＸネコモップ（製法）",
+        "note": "依頼達成・報告後の製法解放。装備そのものの入手ではありません。"
+      },
+      {
+        "kind": "other",
+        "label": "ヘルパーＸネコフード（製法）",
+        "note": "依頼達成・報告後の製法解放。装備そのものの入手ではありません。"
+      },
+      {
+        "kind": "other",
+        "label": "ヘルパーＸネコメイル（製法）",
+        "note": "依頼達成・報告後の製法解放。装備そのものの入手ではありません。"
+      }
+    ]
+  },
+  {
+    "id": "village-10-recipe-298996",
+    "name": "高難度：モンスターハンター",
+    "rank": "10",
+    "unlocks": [
+      {
+        "kind": "other",
+        "label": "ポッケ・ネーヴェ（特別入手）",
+        "note": "依頼欄に記載された特別入手。装備の製法ではありません。"
+      }
+    ]
+  },
+  {
+    "id": "village-10-recipe-298997",
+    "name": "高難度：覇者の証明",
+    "rank": "10",
+    "unlocks": [
+      {
+        "kind": "other",
+        "label": "ココット・アルベロ（特別入手）",
+        "note": "依頼欄に記載された特別入手。装備の製法ではありません。"
+      }
+    ]
+  },
+  {
+    "id": "village-10-recipe-298998",
+    "name": "高難度：龍歴院からの挑戦状",
+    "rank": "10",
+    "unlocks": [
+      {
+        "kind": "other",
+        "label": "ユクモ・テルメ（特別入手）",
+        "note": "依頼欄に記載された特別入手。装備の製法ではありません。"
+      }
+    ]
+  },
+  {
+    "id": "village-10-recipe-298999",
+    "name": "高難度：ギルドからの試練",
+    "rank": "10",
+    "unlocks": [
+      {
+        "kind": "other",
+        "label": "ベルナ・フィオーレ（特別入手）",
+        "note": "依頼欄に記載された特別入手。装備の製法ではありません。"
+      }
+    ]
+  },
+  {
+    "id": "village-10-recipe-299000",
+    "name": "高難度：ダブルクロス",
+    "rank": "10",
+    "unlocks": []
+  },
+  {
+    "id": "village-10-recipe-299001",
+    "name": "森丘のポイント招きネコ",
+    "rank": "10",
+    "unlocks": []
+  },
+  {
+    "id": "village-10-recipe-299002",
+    "name": "ルドロスの野次馬根性",
+    "rank": "10",
+    "unlocks": []
+  },
+  {
+    "id": "village-10-recipe-299003",
+    "name": "尾槌竜のコブ破壊に挑戦！",
+    "rank": "10",
+    "unlocks": []
+  },
+  {
+    "id": "village-10-recipe-299004",
+    "name": "スノーフェスティバル",
+    "rank": "10",
+    "unlocks": []
+  },
+  {
+    "id": "village-10-recipe-299005",
+    "name": "怒濤のドスラッシュ！",
+    "rank": "10",
+    "unlocks": [
+      {
+        "kind": "facility",
+        "label": "オトモの初期雇用レベル45〜47",
+        "note": "このクエストのクリア、またはG★3到達（OR）。育成レベル上限とは別です。出現前提は攻略レシピの3候補のいずれか1件を採用。"
+      }
+    ]
+  }
+]
