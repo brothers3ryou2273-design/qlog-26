@@ -245,8 +245,8 @@
           "questId": "village-6-recipe-244681"
         },
         {
-          "kind": "external_flag",
-          "label": "未収録：集★7空の飛竜と陸の飛竜のクリア（ヘルブラザーズ・赤鬼の依頼(2)）"
+          "kind": "quest_cleared",
+          "questId": "hub-7-recipe-244704"
         },
         {
           "kind": "external_flag",
@@ -255,7 +255,8 @@
       ]
     },
     "npcNotes": [
-      "ココット村 ヘルブラザーズ・赤鬼の依頼2を受注する。"
+      "ココット村 ヘルブラザーズ・赤鬼の依頼2を受注する。",
+      "前提の依頼達成後、必要な報告を行う。"
     ],
     "unlocks": [
       {
@@ -285,6 +286,12 @@
       {
         "site": "MHXX攻略レシピ（前提依頼）",
         "url": "http://wiki.mhxg.org/ida/265176.html",
+        "kind": "detail",
+        "checkedAt": "2026-10-16"
+      },
+      {
+        "site": "MHXX攻略レシピ",
+        "url": "http://wiki.mhxg.org/ida/244704.html",
         "kind": "detail",
         "checkedAt": "2026-10-16"
       }
@@ -1159,17 +1166,14 @@
           "value": 7
         },
         {
-          "kind": "unknown",
-          "note": "ミナガルデの看板娘の依頼1：特定の獰猛化クエスト2つ以上（対象は出典未記載）"
-        },
-        {
-          "kind": "external_flag",
-          "label": "未収録：集★7獰にして猛だが火でもあるのクリア（ミナガルデの看板娘の依頼1）"
+          "kind": "quest_cleared",
+          "questId": "hub-7-recipe-244700"
         }
       ]
     },
     "npcNotes": [
-      "ココット村 ミナガルデの看板娘の依頼2を受注する。"
+      "ココット村 ミナガルデの看板娘の依頼2を受注する。",
+      "前提の依頼達成後、必要な報告を行う。"
     ],
     "unlocks": [],
     "sources": [
@@ -1188,6 +1192,12 @@
       {
         "site": "MHXX攻略レシピ（前提依頼）",
         "url": "http://wiki.mhxg.org/ida/261125.html",
+        "kind": "detail",
+        "checkedAt": "2026-10-16"
+      },
+      {
+        "site": "MHXX攻略レシピ",
+        "url": "http://wiki.mhxg.org/ida/244700.html",
         "kind": "detail",
         "checkedAt": "2026-10-16"
       }

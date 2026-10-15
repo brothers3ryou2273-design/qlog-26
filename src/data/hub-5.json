@@ -1,0 +1,2538 @@
+[
+  {
+    "id": "hub-5-recipe-228767",
+    "name": "氷海の採集ツアー",
+    "category": "hub",
+    "rank": "5",
+    "order": 0,
+    "role": "hunter",
+    "tags": ["normal"],
+    "condition": {
+      "kind": "hr_at_least",
+      "value": 5
+    },
+    "npcNotes": ["受注・参加のHR条件：HR4以上（出現前提とは別）。"],
+    "unlocks": [],
+    "sources": [
+      {
+        "site": "MHXX攻略レシピ",
+        "url": "http://wiki.mhxg.org/ida/228767.html",
+        "kind": "detail",
+        "checkedAt": "2026-10-16"
+      },
+      {
+        "site": "MHXX攻略レシピ（ランク一覧）",
+        "url": "http://wiki.mhxg.org/data/2025.html",
+        "kind": "list",
+        "checkedAt": "2026-10-16"
+      },
+      {
+        "site": "Game8 MHXX（受注HR・補完）",
+        "url": "https://game8.jp/mh-xx/823467",
+        "kind": "detail",
+        "checkedAt": "2026-10-16"
+      }
+    ],
+    "verification": "partial",
+    "verificationNote": "攻略レシピの一覧・個別ページを照合。条件と解放要素の完全確認を意味しません。記録上の前提達成とゲーム内での受注・受領状態を区別します。",
+    "warnings": []
+  },
+  {
+    "id": "hub-5-recipe-228768",
+    "name": "地底火山の採集ツアー",
+    "category": "hub",
+    "rank": "5",
+    "order": 1,
+    "role": "hunter",
+    "tags": ["normal"],
+    "condition": {
+      "kind": "hr_at_least",
+      "value": 5
+    },
+    "npcNotes": ["受注・参加のHR条件：HR4以上（出現前提とは別）。"],
+    "unlocks": [],
+    "sources": [
+      {
+        "site": "MHXX攻略レシピ",
+        "url": "http://wiki.mhxg.org/ida/228768.html",
+        "kind": "detail",
+        "checkedAt": "2026-10-16"
+      },
+      {
+        "site": "MHXX攻略レシピ（ランク一覧）",
+        "url": "http://wiki.mhxg.org/data/2025.html",
+        "kind": "list",
+        "checkedAt": "2026-10-16"
+      },
+      {
+        "site": "Game8 MHXX（受注HR・補完）",
+        "url": "https://game8.jp/mh-xx/823468",
+        "kind": "detail",
+        "checkedAt": "2026-10-16"
+      }
+    ],
+    "verification": "partial",
+    "verificationNote": "攻略レシピの一覧・個別ページを照合。条件と解放要素の完全確認を意味しません。記録上の前提達成とゲーム内での受注・受領状態を区別します。",
+    "warnings": []
+  },
+  {
+    "id": "hub-5-recipe-228769",
+    "name": "孤島の採集ツアー",
+    "category": "hub",
+    "rank": "5",
+    "order": 2,
+    "role": "hunter",
+    "tags": ["normal"],
+    "condition": {
+      "kind": "hr_at_least",
+      "value": 5
+    },
+    "npcNotes": ["受注・参加のHR条件：HR4以上（出現前提とは別）。"],
+    "unlocks": [],
+    "sources": [
+      {
+        "site": "MHXX攻略レシピ",
+        "url": "http://wiki.mhxg.org/ida/228769.html",
+        "kind": "detail",
+        "checkedAt": "2026-10-16"
+      },
+      {
+        "site": "MHXX攻略レシピ（ランク一覧）",
+        "url": "http://wiki.mhxg.org/data/2025.html",
+        "kind": "list",
+        "checkedAt": "2026-10-16"
+      },
+      {
+        "site": "Game8 MHXX（受注HR・補完）",
+        "url": "https://game8.jp/mh-xx/823469",
+        "kind": "detail",
+        "checkedAt": "2026-10-16"
+      }
+    ],
+    "verification": "partial",
+    "verificationNote": "攻略レシピの一覧・個別ページを照合。条件と解放要素の完全確認を意味しません。記録上の前提達成とゲーム内での受注・受領状態を区別します。",
+    "warnings": []
+  },
+  {
+    "id": "hub-5-recipe-228770",
+    "name": "沼地の採集ツアー",
+    "category": "hub",
+    "rank": "5",
+    "order": 3,
+    "role": "hunter",
+    "tags": ["normal"],
+    "condition": {
+      "kind": "hr_at_least",
+      "value": 5
+    },
+    "npcNotes": ["受注・参加のHR条件：HR4以上（出現前提とは別）。"],
+    "unlocks": [],
+    "sources": [
+      {
+        "site": "MHXX攻略レシピ",
+        "url": "http://wiki.mhxg.org/ida/228770.html",
+        "kind": "detail",
+        "checkedAt": "2026-10-16"
+      },
+      {
+        "site": "MHXX攻略レシピ（ランク一覧）",
+        "url": "http://wiki.mhxg.org/data/2025.html",
+        "kind": "list",
+        "checkedAt": "2026-10-16"
+      },
+      {
+        "site": "Game8 MHXX（受注HR・補完）",
+        "url": "https://game8.jp/mh-xx/823470",
+        "kind": "detail",
+        "checkedAt": "2026-10-16"
+      }
+    ],
+    "verification": "partial",
+    "verificationNote": "攻略レシピの一覧・個別ページを照合。条件と解放要素の完全確認を意味しません。記録上の前提達成とゲーム内での受注・受領状態を区別します。",
+    "warnings": []
+  },
+  {
+    "id": "hub-5-recipe-228771",
+    "name": "火山の採集ツアー",
+    "category": "hub",
+    "rank": "5",
+    "order": 4,
+    "role": "hunter",
+    "tags": ["normal"],
+    "condition": {
+      "kind": "hr_at_least",
+      "value": 5
+    },
+    "npcNotes": ["受注・参加のHR条件：HR4以上（出現前提とは別）。"],
+    "unlocks": [],
+    "sources": [
+      {
+        "site": "MHXX攻略レシピ",
+        "url": "http://wiki.mhxg.org/ida/228771.html",
+        "kind": "detail",
+        "checkedAt": "2026-10-16"
+      },
+      {
+        "site": "MHXX攻略レシピ（ランク一覧）",
+        "url": "http://wiki.mhxg.org/data/2025.html",
+        "kind": "list",
+        "checkedAt": "2026-10-16"
+      },
+      {
+        "site": "Game8 MHXX（受注HR・補完）",
+        "url": "https://game8.jp/mh-xx/823471",
+        "kind": "detail",
+        "checkedAt": "2026-10-16"
+      }
+    ],
+    "verification": "partial",
+    "verificationNote": "攻略レシピの一覧・個別ページを照合。条件と解放要素の完全確認を意味しません。記録上の前提達成とゲーム内での受注・受領状態を区別します。",
+    "warnings": []
+  },
+  {
+    "id": "hub-5-recipe-238230",
+    "name": "超☆メモ帳～奇猿狐狩猟編～",
+    "category": "hub",
+    "rank": "5",
+    "order": 5,
+    "role": "hunter",
+    "tags": ["request"],
+    "condition": {
+      "kind": "all",
+      "rules": [
+        {
+          "kind": "quest_cleared",
+          "questId": "hub-4-recipe-228755"
+        },
+        {
+          "kind": "hr_at_least",
+          "value": 5
+        }
+      ]
+    },
+    "npcNotes": [
+      "キャラバンの看板娘の依頼1を達成し、必要な報告を行う。",
+      "ベルナ村 キャラバンの看板娘の依頼2を受注し、達成後に依頼主へ報告する。",
+      "受注・参加のHR条件：HR4以上（出現前提とは別）。"
+    ],
+    "unlocks": [
+      {
+        "kind": "other",
+        "label": "知略の眼鏡（製法）",
+        "note": "依頼達成・報告後の製法解放。装備そのものの入手ではありません。"
+      },
+      {
+        "kind": "other",
+        "label": "知略の眼鏡Ｘ（製法）",
+        "note": "依頼達成・報告後の製法解放。装備そのものの入手ではありません。"
+      }
+    ],
+    "sources": [
+      {
+        "site": "MHXX攻略レシピ",
+        "url": "http://wiki.mhxg.org/ida/238230.html",
+        "kind": "detail",
+        "checkedAt": "2026-10-16"
+      },
+      {
+        "site": "MHXX攻略レシピ（ランク一覧）",
+        "url": "http://wiki.mhxg.org/data/2025.html",
+        "kind": "list",
+        "checkedAt": "2026-10-16"
+      },
+      {
+        "site": "Game8 MHXX（受注HR・補完）",
+        "url": "https://game8.jp/mh-xx/823472",
+        "kind": "detail",
+        "checkedAt": "2026-10-16"
+      }
+    ],
+    "verification": "partial",
+    "verificationNote": "攻略レシピの一覧・個別ページを照合。条件と解放要素の完全確認を意味しません。記録上の前提達成とゲーム内での受注・受領状態を区別します。",
+    "warnings": []
+  },
+  {
+    "id": "hub-5-recipe-228772",
+    "name": "遺跡平原の精算アイテム納品",
+    "category": "hub",
+    "rank": "5",
+    "order": 6,
+    "role": "hunter",
+    "tags": ["normal"],
+    "condition": {
+      "kind": "hr_at_least",
+      "value": 5
+    },
+    "npcNotes": ["受注・参加のHR条件：HR4以上（出現前提とは別）。"],
+    "unlocks": [],
+    "sources": [
+      {
+        "site": "MHXX攻略レシピ",
+        "url": "http://wiki.mhxg.org/ida/228772.html",
+        "kind": "detail",
+        "checkedAt": "2026-10-16"
+      },
+      {
+        "site": "MHXX攻略レシピ（ランク一覧）",
+        "url": "http://wiki.mhxg.org/data/2025.html",
+        "kind": "list",
+        "checkedAt": "2026-10-16"
+      },
+      {
+        "site": "Game8 MHXX（受注HR・補完）",
+        "url": "https://game8.jp/mh-xx/823473",
+        "kind": "detail",
+        "checkedAt": "2026-10-16"
+      }
+    ],
+    "verification": "partial",
+    "verificationNote": "攻略レシピの一覧・個別ページを照合。条件と解放要素の完全確認を意味しません。記録上の前提達成とゲーム内での受注・受領状態を区別します。",
+    "warnings": []
+  },
+  {
+    "id": "hub-5-recipe-314982",
+    "name": "桃色大将ババコンガ",
+    "category": "hub",
+    "rank": "5",
+    "order": 7,
+    "role": "hunter",
+    "tags": ["normal"],
+    "condition": {
+      "kind": "all",
+      "rules": [
+        {
+          "kind": "hr_at_least",
+          "value": 4
+        },
+        {
+          "kind": "quest_cleared",
+          "questId": "hub-5-recipe-228790"
+        }
+      ]
+    },
+    "npcNotes": [
+      "受注・参加のHR条件：HR4以上（出現前提とは別）。",
+      "ギルドマネージャーと話す。"
+    ],
+    "unlocks": [],
+    "sources": [
+      {
+        "site": "MHXX攻略レシピ",
+        "url": "http://wiki.mhxg.org/ida/314982.html",
+        "kind": "detail",
+        "checkedAt": "2026-10-16"
+      },
+      {
+        "site": "MHXX攻略レシピ（ランク一覧）",
+        "url": "http://wiki.mhxg.org/data/2025.html",
+        "kind": "list",
+        "checkedAt": "2026-10-16"
+      },
+      {
+        "site": "Game8 MHXX（受注HR・補完）",
+        "url": "https://game8.jp/mh-xx/823474",
+        "kind": "detail",
+        "checkedAt": "2026-10-16"
+      }
+    ],
+    "verification": "partial",
+    "verificationNote": "攻略レシピの一覧・個別ページを照合。条件と解放要素の完全確認を意味しません。記録上の前提達成とゲーム内での受注・受領状態を区別します。",
+    "warnings": []
+  },
+  {
+    "id": "hub-5-recipe-228773",
+    "name": "女王・リオレイアの狩猟",
+    "category": "hub",
+    "rank": "5",
+    "order": 8,
+    "role": "hunter",
+    "tags": ["normal"],
+    "condition": {
+      "kind": "hr_at_least",
+      "value": 5
+    },
+    "npcNotes": ["受注・参加のHR条件：HR4以上（出現前提とは別）。"],
+    "unlocks": [],
+    "sources": [
+      {
+        "site": "MHXX攻略レシピ",
+        "url": "http://wiki.mhxg.org/ida/228773.html",
+        "kind": "detail",
+        "checkedAt": "2026-10-16"
+      },
+      {
+        "site": "MHXX攻略レシピ（ランク一覧）",
+        "url": "http://wiki.mhxg.org/data/2025.html",
+        "kind": "list",
+        "checkedAt": "2026-10-16"
+      },
+      {
+        "site": "Game8 MHXX（受注HR・補完）",
+        "url": "https://game8.jp/mh-xx/823475",
+        "kind": "detail",
+        "checkedAt": "2026-10-16"
+      }
+    ],
+    "verification": "partial",
+    "verificationNote": "攻略レシピの一覧・個別ページを照合。条件と解放要素の完全確認を意味しません。記録上の前提達成とゲーム内での受注・受領状態を区別します。",
+    "warnings": []
+  },
+  {
+    "id": "hub-5-recipe-228774",
+    "name": "イーオスたちの親玉",
+    "category": "hub",
+    "rank": "5",
+    "order": 9,
+    "role": "hunter",
+    "tags": ["normal"],
+    "condition": {
+      "kind": "hr_at_least",
+      "value": 5
+    },
+    "npcNotes": ["受注・参加のHR条件：HR4以上（出現前提とは別）。"],
+    "unlocks": [],
+    "sources": [
+      {
+        "site": "MHXX攻略レシピ",
+        "url": "http://wiki.mhxg.org/ida/228774.html",
+        "kind": "detail",
+        "checkedAt": "2026-10-16"
+      },
+      {
+        "site": "MHXX攻略レシピ（ランク一覧）",
+        "url": "http://wiki.mhxg.org/data/2025.html",
+        "kind": "list",
+        "checkedAt": "2026-10-16"
+      },
+      {
+        "site": "Game8 MHXX（受注HR・補完）",
+        "url": "https://game8.jp/mh-xx/823476",
+        "kind": "detail",
+        "checkedAt": "2026-10-16"
+      }
+    ],
+    "verification": "partial",
+    "verificationNote": "攻略レシピの一覧・個別ページを照合。条件と解放要素の完全確認を意味しません。記録上の前提達成とゲーム内での受注・受領状態を区別します。",
+    "warnings": []
+  },
+  {
+    "id": "hub-5-recipe-228775",
+    "name": "知性溢れる？夜鳥狩猟",
+    "category": "hub",
+    "rank": "5",
+    "order": 10,
+    "role": "hunter",
+    "tags": ["key"],
+    "condition": {
+      "kind": "hr_at_least",
+      "value": 5
+    },
+    "npcNotes": ["受注・参加のHR条件：HR4以上（出現前提とは別）。"],
+    "unlocks": [],
+    "sources": [
+      {
+        "site": "MHXX攻略レシピ",
+        "url": "http://wiki.mhxg.org/ida/228775.html",
+        "kind": "detail",
+        "checkedAt": "2026-10-16"
+      },
+      {
+        "site": "MHXX攻略レシピ（ランク一覧）",
+        "url": "http://wiki.mhxg.org/data/2025.html",
+        "kind": "list",
+        "checkedAt": "2026-10-16"
+      },
+      {
+        "site": "Game8 MHXX（受注HR・補完）",
+        "url": "https://game8.jp/mh-xx/823477",
+        "kind": "detail",
+        "checkedAt": "2026-10-16"
+      }
+    ],
+    "verification": "partial",
+    "verificationNote": "攻略レシピの一覧・個別ページを照合。条件と解放要素の完全確認を意味しません。記録上の前提達成とゲーム内での受注・受領状態を区別します。",
+    "warnings": []
+  },
+  {
+    "id": "hub-5-recipe-228776",
+    "name": "絞蛇竜は踊り奏でる",
+    "category": "hub",
+    "rank": "5",
+    "order": 11,
+    "role": "hunter",
+    "tags": ["key"],
+    "condition": {
+      "kind": "hr_at_least",
+      "value": 5
+    },
+    "npcNotes": ["受注・参加のHR条件：HR4以上（出現前提とは別）。"],
+    "unlocks": [
+      {
+        "kind": "hunter_art",
+        "label": "シールドアサルト LV3"
+      },
+      {
+        "kind": "hunter_art",
+        "label": "ブラストダッシュ LV3"
+      }
+    ],
+    "sources": [
+      {
+        "site": "MHXX攻略レシピ",
+        "url": "http://wiki.mhxg.org/ida/228776.html",
+        "kind": "detail",
+        "checkedAt": "2026-10-16"
+      },
+      {
+        "site": "MHXX攻略レシピ（ランク一覧）",
+        "url": "http://wiki.mhxg.org/data/2025.html",
+        "kind": "list",
+        "checkedAt": "2026-10-16"
+      },
+      {
+        "site": "Game8 MHXX（受注HR・補完）",
+        "url": "https://game8.jp/mh-xx/823478",
+        "kind": "detail",
+        "checkedAt": "2026-10-16"
+      },
+      {
+        "site": "MHXX攻略Wiki（狩技）",
+        "url": "https://mhx-wiki.com/?MHXX%E3%81%AE%E7%8B%A9%E6%8A%80%E7%BF%92%E5%BE%97%E3%82%AF%E3%82%A8%E3%82%B9%E3%83%88%E3%81%BE%E3%81%A8%E3%82%81",
+        "kind": "list",
+        "checkedAt": "2026-10-16"
+      }
+    ],
+    "verification": "partial",
+    "verificationNote": "攻略レシピの一覧・個別ページを照合。条件と解放要素の完全確認を意味しません。記録上の前提達成とゲーム内での受注・受領状態を区別します。",
+    "warnings": []
+  },
+  {
+    "id": "hub-5-recipe-238231",
+    "name": "マダラなアイツにご執心",
+    "category": "hub",
+    "rank": "5",
+    "order": 12,
+    "role": "hunter",
+    "tags": ["normal"],
+    "condition": {
+      "kind": "all",
+      "rules": [
+        {
+          "kind": "quest_cleared",
+          "questId": "hub-5-recipe-238235"
+        },
+        {
+          "kind": "hr_at_least",
+          "value": 4
+        }
+      ]
+    },
+    "npcNotes": ["受注・参加のHR条件：HR4以上（出現前提とは別）。"],
+    "unlocks": [],
+    "sources": [
+      {
+        "site": "MHXX攻略レシピ",
+        "url": "http://wiki.mhxg.org/ida/238231.html",
+        "kind": "detail",
+        "checkedAt": "2026-10-16"
+      },
+      {
+        "site": "MHXX攻略レシピ（ランク一覧）",
+        "url": "http://wiki.mhxg.org/data/2025.html",
+        "kind": "list",
+        "checkedAt": "2026-10-16"
+      },
+      {
+        "site": "Game8 MHXX（受注HR・補完）",
+        "url": "https://game8.jp/mh-xx/823479",
+        "kind": "detail",
+        "checkedAt": "2026-10-16"
+      }
+    ],
+    "verification": "partial",
+    "verificationNote": "攻略レシピの一覧・個別ページを照合。条件と解放要素の完全確認を意味しません。記録上の前提達成とゲーム内での受注・受領状態を区別します。",
+    "warnings": []
+  },
+  {
+    "id": "hub-5-recipe-228777",
+    "name": "原生林の精算アイテム納品",
+    "category": "hub",
+    "rank": "5",
+    "order": 13,
+    "role": "hunter",
+    "tags": ["normal"],
+    "condition": {
+      "kind": "hr_at_least",
+      "value": 5
+    },
+    "npcNotes": ["受注・参加のHR条件：HR4以上（出現前提とは別）。"],
+    "unlocks": [],
+    "sources": [
+      {
+        "site": "MHXX攻略レシピ",
+        "url": "http://wiki.mhxg.org/ida/228777.html",
+        "kind": "detail",
+        "checkedAt": "2026-10-16"
+      },
+      {
+        "site": "MHXX攻略レシピ（ランク一覧）",
+        "url": "http://wiki.mhxg.org/data/2025.html",
+        "kind": "list",
+        "checkedAt": "2026-10-16"
+      },
+      {
+        "site": "Game8 MHXX（受注HR・補完）",
+        "url": "https://game8.jp/mh-xx/823480",
+        "kind": "detail",
+        "checkedAt": "2026-10-16"
+      }
+    ],
+    "verification": "partial",
+    "verificationNote": "攻略レシピの一覧・個別ページを照合。条件と解放要素の完全確認を意味しません。記録上の前提達成とゲーム内での受注・受領状態を区別します。",
+    "warnings": []
+  },
+  {
+    "id": "hub-5-recipe-228778",
+    "name": "ザボアザギルの狩猟依頼",
+    "category": "hub",
+    "rank": "5",
+    "order": 14,
+    "role": "hunter",
+    "tags": ["key"],
+    "condition": {
+      "kind": "hr_at_least",
+      "value": 5
+    },
+    "npcNotes": ["受注・参加のHR条件：HR4以上（出現前提とは別）。"],
+    "unlocks": [],
+    "sources": [
+      {
+        "site": "MHXX攻略レシピ",
+        "url": "http://wiki.mhxg.org/ida/228778.html",
+        "kind": "detail",
+        "checkedAt": "2026-10-16"
+      },
+      {
+        "site": "MHXX攻略レシピ（ランク一覧）",
+        "url": "http://wiki.mhxg.org/data/2025.html",
+        "kind": "list",
+        "checkedAt": "2026-10-16"
+      },
+      {
+        "site": "Game8 MHXX（受注HR・補完）",
+        "url": "https://game8.jp/mh-xx/823481",
+        "kind": "detail",
+        "checkedAt": "2026-10-16"
+      }
+    ],
+    "verification": "partial",
+    "verificationNote": "攻略レシピの一覧・個別ページを照合。条件と解放要素の完全確認を意味しません。記録上の前提達成とゲーム内での受注・受領状態を区別します。",
+    "warnings": []
+  },
+  {
+    "id": "hub-5-recipe-228779",
+    "name": "壁に耳あり、天井に目あり？",
+    "category": "hub",
+    "rank": "5",
+    "order": 15,
+    "role": "hunter",
+    "tags": ["normal"],
+    "condition": {
+      "kind": "hr_at_least",
+      "value": 5
+    },
+    "npcNotes": ["受注・参加のHR条件：HR4以上（出現前提とは別）。"],
+    "unlocks": [
+      {
+        "kind": "hunter_art",
+        "label": "剣鬼形態 LV2"
+      }
+    ],
+    "sources": [
+      {
+        "site": "MHXX攻略レシピ",
+        "url": "http://wiki.mhxg.org/ida/228779.html",
+        "kind": "detail",
+        "checkedAt": "2026-10-16"
+      },
+      {
+        "site": "MHXX攻略レシピ（ランク一覧）",
+        "url": "http://wiki.mhxg.org/data/2025.html",
+        "kind": "list",
+        "checkedAt": "2026-10-16"
+      },
+      {
+        "site": "Game8 MHXX（受注HR・補完）",
+        "url": "https://game8.jp/mh-xx/823482",
+        "kind": "detail",
+        "checkedAt": "2026-10-16"
+      },
+      {
+        "site": "MHXX攻略Wiki（狩技）",
+        "url": "https://mhx-wiki.com/?MHXX%E3%81%AE%E7%8B%A9%E6%8A%80%E7%BF%92%E5%BE%97%E3%82%AF%E3%82%A8%E3%82%B9%E3%83%88%E3%81%BE%E3%81%A8%E3%82%81",
+        "kind": "list",
+        "checkedAt": "2026-10-16"
+      }
+    ],
+    "verification": "partial",
+    "verificationNote": "攻略レシピの一覧・個別ページを照合。条件と解放要素の完全確認を意味しません。記録上の前提達成とゲーム内での受注・受領状態を区別します。",
+    "warnings": []
+  },
+  {
+    "id": "hub-5-recipe-228780",
+    "name": "お姉さまは白兎獣がお好き？",
+    "category": "hub",
+    "rank": "5",
+    "order": 16,
+    "role": "hunter",
+    "tags": ["normal"],
+    "condition": {
+      "kind": "hr_at_least",
+      "value": 5
+    },
+    "npcNotes": ["受注・参加のHR条件：HR4以上（出現前提とは別）。"],
+    "unlocks": [],
+    "sources": [
+      {
+        "site": "MHXX攻略レシピ",
+        "url": "http://wiki.mhxg.org/ida/228780.html",
+        "kind": "detail",
+        "checkedAt": "2026-10-16"
+      },
+      {
+        "site": "MHXX攻略レシピ（ランク一覧）",
+        "url": "http://wiki.mhxg.org/data/2025.html",
+        "kind": "list",
+        "checkedAt": "2026-10-16"
+      },
+      {
+        "site": "Game8 MHXX（受注HR・補完）",
+        "url": "https://game8.jp/mh-xx/823483",
+        "kind": "detail",
+        "checkedAt": "2026-10-16"
+      }
+    ],
+    "verification": "partial",
+    "verificationNote": "攻略レシピの一覧・個別ページを照合。条件と解放要素の完全確認を意味しません。記録上の前提達成とゲーム内での受注・受領状態を区別します。",
+    "warnings": []
+  },
+  {
+    "id": "hub-5-recipe-228781",
+    "name": "獰猛なる矢尻たち",
+    "category": "hub",
+    "rank": "5",
+    "order": 17,
+    "role": "hunter",
+    "tags": ["normal"],
+    "condition": {
+      "kind": "hr_at_least",
+      "value": 5
+    },
+    "npcNotes": ["受注・参加のHR条件：HR4以上（出現前提とは別）。"],
+    "unlocks": [],
+    "sources": [
+      {
+        "site": "MHXX攻略レシピ",
+        "url": "http://wiki.mhxg.org/ida/228781.html",
+        "kind": "detail",
+        "checkedAt": "2026-10-16"
+      },
+      {
+        "site": "MHXX攻略レシピ（ランク一覧）",
+        "url": "http://wiki.mhxg.org/data/2025.html",
+        "kind": "list",
+        "checkedAt": "2026-10-16"
+      },
+      {
+        "site": "Game8 MHXX（受注HR・補完）",
+        "url": "https://game8.jp/mh-xx/823484",
+        "kind": "detail",
+        "checkedAt": "2026-10-16"
+      }
+    ],
+    "verification": "partial",
+    "verificationNote": "攻略レシピの一覧・個別ページを照合。条件と解放要素の完全確認を意味しません。記録上の前提達成とゲーム内での受注・受領状態を区別します。",
+    "warnings": []
+  },
+  {
+    "id": "hub-5-recipe-228782",
+    "name": "極寒の地の採掘依頼",
+    "category": "hub",
+    "rank": "5",
+    "order": 18,
+    "role": "hunter",
+    "tags": ["normal"],
+    "condition": {
+      "kind": "hr_at_least",
+      "value": 5
+    },
+    "npcNotes": ["受注・参加のHR条件：HR4以上（出現前提とは別）。"],
+    "unlocks": [],
+    "sources": [
+      {
+        "site": "MHXX攻略レシピ",
+        "url": "http://wiki.mhxg.org/ida/228782.html",
+        "kind": "detail",
+        "checkedAt": "2026-10-16"
+      },
+      {
+        "site": "MHXX攻略レシピ（ランク一覧）",
+        "url": "http://wiki.mhxg.org/data/2025.html",
+        "kind": "list",
+        "checkedAt": "2026-10-16"
+      },
+      {
+        "site": "Game8 MHXX（受注HR・補完）",
+        "url": "https://game8.jp/mh-xx/823485",
+        "kind": "detail",
+        "checkedAt": "2026-10-16"
+      }
+    ],
+    "verification": "partial",
+    "verificationNote": "攻略レシピの一覧・個別ページを照合。条件と解放要素の完全確認を意味しません。記録上の前提達成とゲーム内での受注・受領状態を区別します。",
+    "warnings": []
+  },
+  {
+    "id": "hub-5-recipe-238232",
+    "name": "キモ・キモ・キモ！！！",
+    "category": "hub",
+    "rank": "5",
+    "order": 19,
+    "role": "hunter",
+    "tags": ["request"],
+    "condition": {
+      "kind": "all",
+      "rules": [
+        {
+          "kind": "quest_cleared",
+          "questId": "village-2-recipe-220164"
+        },
+        {
+          "kind": "hr_at_least",
+          "value": 5
+        }
+      ]
+    },
+    "npcNotes": [
+      "ユクモ村 タンジアの港の看板娘の依頼1を受注し、達成後に依頼主へ報告する。",
+      "受注・参加のHR条件：HR4以上（出現前提とは別）。"
+    ],
+    "unlocks": [
+      {
+        "kind": "other",
+        "label": "セイラーシリーズ（製法）",
+        "note": "依頼達成・報告後の製法解放。装備そのものの入手ではありません。"
+      },
+      {
+        "kind": "other",
+        "label": "セイラーネコフード（製法）",
+        "note": "依頼達成・報告後の製法解放。装備そのものの入手ではありません。"
+      },
+      {
+        "kind": "other",
+        "label": "セイラーネコスーツ（製法）",
+        "note": "依頼達成・報告後の製法解放。装備そのものの入手ではありません。"
+      }
+    ],
+    "sources": [
+      {
+        "site": "MHXX攻略レシピ",
+        "url": "http://wiki.mhxg.org/ida/238232.html",
+        "kind": "detail",
+        "checkedAt": "2026-10-16"
+      },
+      {
+        "site": "MHXX攻略レシピ（ランク一覧）",
+        "url": "http://wiki.mhxg.org/data/2025.html",
+        "kind": "list",
+        "checkedAt": "2026-10-16"
+      },
+      {
+        "site": "Game8 MHXX（受注HR・補完）",
+        "url": "https://game8.jp/mh-xx/823486",
+        "kind": "detail",
+        "checkedAt": "2026-10-16"
+      }
+    ],
+    "verification": "partial",
+    "verificationNote": "攻略レシピの一覧・個別ページを照合。条件と解放要素の完全確認を意味しません。記録上の前提達成とゲーム内での受注・受領状態を区別します。",
+    "warnings": []
+  },
+  {
+    "id": "hub-5-recipe-228783",
+    "name": "脅威！火山の鉄槌！",
+    "category": "hub",
+    "rank": "5",
+    "order": 20,
+    "role": "hunter",
+    "tags": ["normal"],
+    "condition": {
+      "kind": "hr_at_least",
+      "value": 5
+    },
+    "npcNotes": ["受注・参加のHR条件：HR4以上（出現前提とは別）。"],
+    "unlocks": [
+      {
+        "kind": "hunter_art",
+        "label": "金剛身 (共通)"
+      },
+      {
+        "kind": "other",
+        "label": "【特殊許可】宝纏狩猟依頼１（出現前提）",
+        "note": "未収録クエストの出現前提の一つ。その他の受注条件・実際の出現はゲーム内で確認してください。"
+      }
+    ],
+    "sources": [
+      {
+        "site": "MHXX攻略レシピ",
+        "url": "http://wiki.mhxg.org/ida/228783.html",
+        "kind": "detail",
+        "checkedAt": "2026-10-16"
+      },
+      {
+        "site": "MHXX攻略レシピ（ランク一覧）",
+        "url": "http://wiki.mhxg.org/data/2025.html",
+        "kind": "list",
+        "checkedAt": "2026-10-16"
+      },
+      {
+        "site": "Game8 MHXX（受注HR・補完）",
+        "url": "https://game8.jp/mh-xx/823487",
+        "kind": "detail",
+        "checkedAt": "2026-10-16"
+      },
+      {
+        "site": "MHXX攻略Wiki（狩技）",
+        "url": "https://mhx-wiki.com/?MHXX%E3%81%AE%E7%8B%A9%E6%8A%80%E7%BF%92%E5%BE%97%E3%82%AF%E3%82%A8%E3%82%B9%E3%83%88%E3%81%BE%E3%81%A8%E3%82%81",
+        "kind": "list",
+        "checkedAt": "2026-10-16"
+      }
+    ],
+    "verification": "partial",
+    "verificationNote": "攻略レシピの一覧・個別ページを照合。条件と解放要素の完全確認を意味しません。記録上の前提達成とゲーム内での受注・受領状態を区別します。",
+    "warnings": []
+  },
+  {
+    "id": "hub-5-recipe-228784",
+    "name": "イャンガルルガの洗礼",
+    "category": "hub",
+    "rank": "5",
+    "order": 21,
+    "role": "hunter",
+    "tags": ["key"],
+    "condition": {
+      "kind": "hr_at_least",
+      "value": 5
+    },
+    "npcNotes": ["受注・参加のHR条件：HR4以上（出現前提とは別）。"],
+    "unlocks": [
+      {
+        "kind": "other",
+        "label": "【特殊許可】隻眼狩猟依頼１（出現前提）",
+        "note": "未収録クエストの出現前提の一つ。その他の受注条件・実際の出現はゲーム内で確認してください。"
+      }
+    ],
+    "sources": [
+      {
+        "site": "MHXX攻略レシピ",
+        "url": "http://wiki.mhxg.org/ida/228784.html",
+        "kind": "detail",
+        "checkedAt": "2026-10-16"
+      },
+      {
+        "site": "MHXX攻略レシピ（ランク一覧）",
+        "url": "http://wiki.mhxg.org/data/2025.html",
+        "kind": "list",
+        "checkedAt": "2026-10-16"
+      },
+      {
+        "site": "Game8 MHXX（受注HR・補完）",
+        "url": "https://game8.jp/mh-xx/823488",
+        "kind": "detail",
+        "checkedAt": "2026-10-16"
+      }
+    ],
+    "verification": "partial",
+    "verificationNote": "攻略レシピの一覧・個別ページを照合。条件と解放要素の完全確認を意味しません。記録上の前提達成とゲーム内での受注・受領状態を区別します。",
+    "warnings": []
+  },
+  {
+    "id": "hub-5-recipe-228785",
+    "name": "馬力、怪力、テツカブラ！",
+    "category": "hub",
+    "rank": "5",
+    "order": 22,
+    "role": "hunter",
+    "tags": ["normal"],
+    "condition": {
+      "kind": "hr_at_least",
+      "value": 5
+    },
+    "npcNotes": ["受注・参加のHR条件：HR4以上（出現前提とは別）。"],
+    "unlocks": [],
+    "sources": [
+      {
+        "site": "MHXX攻略レシピ",
+        "url": "http://wiki.mhxg.org/ida/228785.html",
+        "kind": "detail",
+        "checkedAt": "2026-10-16"
+      },
+      {
+        "site": "MHXX攻略レシピ（ランク一覧）",
+        "url": "http://wiki.mhxg.org/data/2025.html",
+        "kind": "list",
+        "checkedAt": "2026-10-16"
+      },
+      {
+        "site": "Game8 MHXX（受注HR・補完）",
+        "url": "https://game8.jp/mh-xx/823489",
+        "kind": "detail",
+        "checkedAt": "2026-10-16"
+      }
+    ],
+    "verification": "partial",
+    "verificationNote": "攻略レシピの一覧・個別ページを照合。条件と解放要素の完全確認を意味しません。記録上の前提達成とゲーム内での受注・受領状態を区別します。",
+    "warnings": []
+  },
+  {
+    "id": "hub-5-recipe-228786",
+    "name": "燃石炭の納品",
+    "category": "hub",
+    "rank": "5",
+    "order": 23,
+    "role": "hunter",
+    "tags": ["normal"],
+    "condition": {
+      "kind": "hr_at_least",
+      "value": 5
+    },
+    "npcNotes": ["受注・参加のHR条件：HR4以上（出現前提とは別）。"],
+    "unlocks": [],
+    "sources": [
+      {
+        "site": "MHXX攻略レシピ",
+        "url": "http://wiki.mhxg.org/ida/228786.html",
+        "kind": "detail",
+        "checkedAt": "2026-10-16"
+      },
+      {
+        "site": "MHXX攻略レシピ（ランク一覧）",
+        "url": "http://wiki.mhxg.org/data/2025.html",
+        "kind": "list",
+        "checkedAt": "2026-10-16"
+      },
+      {
+        "site": "Game8 MHXX（受注HR・補完）",
+        "url": "https://game8.jp/mh-xx/823490",
+        "kind": "detail",
+        "checkedAt": "2026-10-16"
+      }
+    ],
+    "verification": "partial",
+    "verificationNote": "攻略レシピの一覧・個別ページを照合。条件と解放要素の完全確認を意味しません。記録上の前提達成とゲーム内での受注・受領状態を区別します。",
+    "warnings": []
+  },
+  {
+    "id": "hub-5-recipe-238233",
+    "name": "疾き迅竜の狩猟披露",
+    "category": "hub",
+    "rank": "5",
+    "order": 24,
+    "role": "hunter",
+    "tags": ["request"],
+    "condition": {
+      "kind": "all",
+      "rules": [
+        {
+          "kind": "quest_cleared",
+          "questId": "village-2-recipe-220159"
+        },
+        {
+          "kind": "hr_at_least",
+          "value": 5
+        }
+      ]
+    },
+    "npcNotes": [
+      "ポッケ村 ポッケ村の看板娘の依頼を受注し、達成後に依頼主へ報告する。",
+      "受注・参加のHR条件：HR4以上（出現前提とは別）。"
+    ],
+    "unlocks": [
+      {
+        "kind": "food",
+        "label": "ユキヤマツタケ",
+        "note": "依頼達成後、依頼主に報告して追加。"
+      },
+      {
+        "kind": "hunter_art",
+        "label": "大挑発 LV2"
+      },
+      {
+        "kind": "other",
+        "label": "【特殊許可】白疾風狩猟依頼１（出現前提）",
+        "note": "未収録クエストの出現前提の一つ。その他の受注条件・実際の出現はゲーム内で確認してください。"
+      }
+    ],
+    "sources": [
+      {
+        "site": "MHXX攻略レシピ",
+        "url": "http://wiki.mhxg.org/ida/238233.html",
+        "kind": "detail",
+        "checkedAt": "2026-10-16"
+      },
+      {
+        "site": "MHXX攻略レシピ（ランク一覧）",
+        "url": "http://wiki.mhxg.org/data/2025.html",
+        "kind": "list",
+        "checkedAt": "2026-10-16"
+      },
+      {
+        "site": "Game8 MHXX（受注HR・補完）",
+        "url": "https://game8.jp/mh-xx/823491",
+        "kind": "detail",
+        "checkedAt": "2026-10-16"
+      },
+      {
+        "site": "MHXX攻略Wiki（食材）",
+        "url": "https://mhx-wiki.com/?%E9%A3%9F%E6%9D%90%E3%82%AF%E3%82%A8%E3%82%B9%E3%83%88%E4%B8%80%E8%A6%A7",
+        "kind": "list",
+        "checkedAt": "2026-10-16"
+      },
+      {
+        "site": "MHXX攻略Wiki（狩技）",
+        "url": "https://mhx-wiki.com/?MHXX%E3%81%AE%E7%8B%A9%E6%8A%80%E7%BF%92%E5%BE%97%E3%82%AF%E3%82%A8%E3%82%B9%E3%83%88%E3%81%BE%E3%81%A8%E3%82%81",
+        "kind": "list",
+        "checkedAt": "2026-10-16"
+      }
+    ],
+    "verification": "partial",
+    "verificationNote": "攻略レシピの一覧・個別ページを照合。条件と解放要素の完全確認を意味しません。記録上の前提達成とゲーム内での受注・受領状態を区別します。",
+    "warnings": []
+  },
+  {
+    "id": "hub-5-recipe-228787",
+    "name": "不眠のあなたに催眠療法×２",
+    "category": "hub",
+    "rank": "5",
+    "order": 25,
+    "role": "hunter",
+    "tags": ["normal"],
+    "condition": {
+      "kind": "hr_at_least",
+      "value": 5
+    },
+    "npcNotes": ["受注・参加のHR条件：HR4以上（出現前提とは別）。"],
+    "unlocks": [
+      {
+        "kind": "hunter_art",
+        "label": "アクセルシャワー LV3"
+      },
+      {
+        "kind": "hunter_art",
+        "label": "アクセルレイン LV3"
+      }
+    ],
+    "sources": [
+      {
+        "site": "MHXX攻略レシピ",
+        "url": "http://wiki.mhxg.org/ida/228787.html",
+        "kind": "detail",
+        "checkedAt": "2026-10-16"
+      },
+      {
+        "site": "MHXX攻略レシピ（ランク一覧）",
+        "url": "http://wiki.mhxg.org/data/2025.html",
+        "kind": "list",
+        "checkedAt": "2026-10-16"
+      },
+      {
+        "site": "Game8 MHXX（受注HR・補完）",
+        "url": "https://game8.jp/mh-xx/823492",
+        "kind": "detail",
+        "checkedAt": "2026-10-16"
+      },
+      {
+        "site": "MHXX攻略Wiki（狩技）",
+        "url": "https://mhx-wiki.com/?MHXX%E3%81%AE%E7%8B%A9%E6%8A%80%E7%BF%92%E5%BE%97%E3%82%AF%E3%82%A8%E3%82%B9%E3%83%88%E3%81%BE%E3%81%A8%E3%82%81",
+        "kind": "list",
+        "checkedAt": "2026-10-16"
+      }
+    ],
+    "verification": "partial",
+    "verificationNote": "攻略レシピの一覧・個別ページを照合。条件と解放要素の完全確認を意味しません。記録上の前提達成とゲーム内での受注・受領状態を区別します。",
+    "warnings": []
+  },
+  {
+    "id": "hub-5-recipe-314983",
+    "name": "土砂竜・ボルボロス！",
+    "category": "hub",
+    "rank": "5",
+    "order": 26,
+    "role": "hunter",
+    "tags": ["normal"],
+    "condition": {
+      "kind": "all",
+      "rules": [
+        {
+          "kind": "hr_at_least",
+          "value": 4
+        },
+        {
+          "kind": "quest_cleared",
+          "questId": "hub-5-recipe-228790"
+        }
+      ]
+    },
+    "npcNotes": [
+      "受注・参加のHR条件：HR4以上（出現前提とは別）。",
+      "ギルドマネージャーと話す。"
+    ],
+    "unlocks": [],
+    "sources": [
+      {
+        "site": "MHXX攻略レシピ",
+        "url": "http://wiki.mhxg.org/ida/314983.html",
+        "kind": "detail",
+        "checkedAt": "2026-10-16"
+      },
+      {
+        "site": "MHXX攻略レシピ（ランク一覧）",
+        "url": "http://wiki.mhxg.org/data/2025.html",
+        "kind": "list",
+        "checkedAt": "2026-10-16"
+      },
+      {
+        "site": "Game8 MHXX（受注HR・補完）",
+        "url": "https://game8.jp/mh-xx/823493",
+        "kind": "detail",
+        "checkedAt": "2026-10-16"
+      }
+    ],
+    "verification": "partial",
+    "verificationNote": "攻略レシピの一覧・個別ページを照合。条件と解放要素の完全確認を意味しません。記録上の前提達成とゲーム内での受注・受領状態を区別します。",
+    "warnings": []
+  },
+  {
+    "id": "hub-5-recipe-228788",
+    "name": "砂上のテーブルマナー",
+    "category": "hub",
+    "rank": "5",
+    "order": 27,
+    "role": "hunter",
+    "tags": ["normal"],
+    "condition": {
+      "kind": "hr_at_least",
+      "value": 5
+    },
+    "npcNotes": ["受注・参加のHR条件：HR4以上（出現前提とは別）。"],
+    "unlocks": [],
+    "sources": [
+      {
+        "site": "MHXX攻略レシピ",
+        "url": "http://wiki.mhxg.org/ida/228788.html",
+        "kind": "detail",
+        "checkedAt": "2026-10-16"
+      },
+      {
+        "site": "MHXX攻略レシピ（ランク一覧）",
+        "url": "http://wiki.mhxg.org/data/2025.html",
+        "kind": "list",
+        "checkedAt": "2026-10-16"
+      },
+      {
+        "site": "Game8 MHXX（受注HR・補完）",
+        "url": "https://game8.jp/mh-xx/823494",
+        "kind": "detail",
+        "checkedAt": "2026-10-16"
+      }
+    ],
+    "verification": "partial",
+    "verificationNote": "攻略レシピの一覧・個別ページを照合。条件と解放要素の完全確認を意味しません。記録上の前提達成とゲーム内での受注・受領状態を区別します。",
+    "warnings": []
+  },
+  {
+    "id": "hub-5-recipe-238234",
+    "name": "サンドのメシよりドスガレオス",
+    "category": "hub",
+    "rank": "5",
+    "order": 28,
+    "role": "hunter",
+    "tags": ["normal"],
+    "condition": {
+      "kind": "all",
+      "rules": [
+        {
+          "kind": "quest_cleared",
+          "questId": "hub-5-recipe-238235"
+        },
+        {
+          "kind": "hr_at_least",
+          "value": 4
+        }
+      ]
+    },
+    "npcNotes": ["受注・参加のHR条件：HR4以上（出現前提とは別）。"],
+    "unlocks": [],
+    "sources": [
+      {
+        "site": "MHXX攻略レシピ",
+        "url": "http://wiki.mhxg.org/ida/238234.html",
+        "kind": "detail",
+        "checkedAt": "2026-10-16"
+      },
+      {
+        "site": "MHXX攻略レシピ（ランク一覧）",
+        "url": "http://wiki.mhxg.org/data/2025.html",
+        "kind": "list",
+        "checkedAt": "2026-10-16"
+      },
+      {
+        "site": "Game8 MHXX（受注HR・補完）",
+        "url": "https://game8.jp/mh-xx/823495",
+        "kind": "detail",
+        "checkedAt": "2026-10-16"
+      }
+    ],
+    "verification": "partial",
+    "verificationNote": "攻略レシピの一覧・個別ページを照合。条件と解放要素の完全確認を意味しません。記録上の前提達成とゲーム内での受注・受領状態を区別します。",
+    "warnings": []
+  },
+  {
+    "id": "hub-5-recipe-228789",
+    "name": "激闘！雌火竜リオレイア",
+    "category": "hub",
+    "rank": "5",
+    "order": 29,
+    "role": "hunter",
+    "tags": ["normal"],
+    "condition": {
+      "kind": "hr_at_least",
+      "value": 5
+    },
+    "npcNotes": ["受注・参加のHR条件：HR4以上（出現前提とは別）。"],
+    "unlocks": [],
+    "sources": [
+      {
+        "site": "MHXX攻略レシピ",
+        "url": "http://wiki.mhxg.org/ida/228789.html",
+        "kind": "detail",
+        "checkedAt": "2026-10-16"
+      },
+      {
+        "site": "MHXX攻略レシピ（ランク一覧）",
+        "url": "http://wiki.mhxg.org/data/2025.html",
+        "kind": "list",
+        "checkedAt": "2026-10-16"
+      },
+      {
+        "site": "Game8 MHXX（受注HR・補完）",
+        "url": "https://game8.jp/mh-xx/823496",
+        "kind": "detail",
+        "checkedAt": "2026-10-16"
+      }
+    ],
+    "verification": "partial",
+    "verificationNote": "攻略レシピの一覧・個別ページを照合。条件と解放要素の完全確認を意味しません。記録上の前提達成とゲーム内での受注・受領状態を区別します。",
+    "warnings": []
+  },
+  {
+    "id": "hub-5-recipe-238235",
+    "name": "２頭のドスランポス",
+    "category": "hub",
+    "rank": "5",
+    "order": 30,
+    "role": "hunter",
+    "tags": ["request"],
+    "condition": {
+      "kind": "all",
+      "rules": [
+        {
+          "kind": "hr_at_least",
+          "value": 5
+        },
+        {
+          "kind": "quest_cleared",
+          "questId": "village-2-g8-822843"
+        }
+      ]
+    },
+    "npcNotes": [
+      "ベルナ村 筆頭ルーキーの依頼1を受注し、達成後に依頼主へ報告する。",
+      "受注・参加のHR条件：HR4以上（出現前提とは別）。"
+    ],
+    "unlocks": [
+      {
+        "kind": "other",
+        "label": "EXイーオスシリーズ（製法）",
+        "note": "依頼達成・報告後の製法解放。装備そのものの入手ではありません。"
+      },
+      {
+        "kind": "other",
+        "label": "EXゲネポスシリーズ（製法）",
+        "note": "依頼達成・報告後の製法解放。装備そのものの入手ではありません。"
+      },
+      {
+        "kind": "other",
+        "label": "EXタロスシリーズ（製法）",
+        "note": "依頼達成・報告後の製法解放。装備そのものの入手ではありません。"
+      },
+      {
+        "kind": "other",
+        "label": "EXガレオスシリーズ（製法）",
+        "note": "依頼達成・報告後の製法解放。装備そのものの入手ではありません。"
+      },
+      {
+        "kind": "other",
+        "label": "EXランゴシリーズ（製法）",
+        "note": "依頼達成・報告後の製法解放。装備そのものの入手ではありません。"
+      }
+    ],
+    "sources": [
+      {
+        "site": "MHXX攻略レシピ",
+        "url": "http://wiki.mhxg.org/ida/238235.html",
+        "kind": "detail",
+        "checkedAt": "2026-10-16"
+      },
+      {
+        "site": "MHXX攻略レシピ（ランク一覧）",
+        "url": "http://wiki.mhxg.org/data/2025.html",
+        "kind": "list",
+        "checkedAt": "2026-10-16"
+      },
+      {
+        "site": "Game8 MHXX（受注HR・補完）",
+        "url": "https://game8.jp/mh-xx/823497",
+        "kind": "detail",
+        "checkedAt": "2026-10-16"
+      }
+    ],
+    "verification": "partial",
+    "verificationNote": "攻略レシピの一覧・個別ページを照合。条件と解放要素の完全確認を意味しません。記録上の前提達成とゲーム内での受注・受領状態を区別します。",
+    "warnings": []
+  },
+  {
+    "id": "hub-5-recipe-238236",
+    "name": "雪山の主、ドドブランゴ",
+    "category": "hub",
+    "rank": "5",
+    "order": 31,
+    "role": "hunter",
+    "tags": ["request"],
+    "condition": {
+      "kind": "all",
+      "rules": [
+        {
+          "kind": "quest_cleared",
+          "questId": "hub-3-recipe-220272"
+        },
+        {
+          "kind": "hr_at_least",
+          "value": 5
+        }
+      ]
+    },
+    "npcNotes": [
+      "キャラバンの竜人商人の依頼2を達成し、必要な報告を行う。",
+      "ココット村 キャラバンの竜人商人の依頼3を受注し、達成後に依頼主へ報告する。",
+      "受注・参加のHR条件：HR4以上（出現前提とは別）。"
+    ],
+    "unlocks": [],
+    "sources": [
+      {
+        "site": "MHXX攻略レシピ",
+        "url": "http://wiki.mhxg.org/ida/238236.html",
+        "kind": "detail",
+        "checkedAt": "2026-10-16"
+      },
+      {
+        "site": "MHXX攻略レシピ（ランク一覧）",
+        "url": "http://wiki.mhxg.org/data/2025.html",
+        "kind": "list",
+        "checkedAt": "2026-10-16"
+      },
+      {
+        "site": "Game8 MHXX（受注HR・補完）",
+        "url": "https://game8.jp/mh-xx/823498",
+        "kind": "detail",
+        "checkedAt": "2026-10-16"
+      }
+    ],
+    "verification": "partial",
+    "verificationNote": "攻略レシピの一覧・個別ページを照合。条件と解放要素の完全確認を意味しません。記録上の前提達成とゲーム内での受注・受領状態を区別します。",
+    "warnings": []
+  },
+  {
+    "id": "hub-5-recipe-228790",
+    "name": "渓流の水竜",
+    "category": "hub",
+    "rank": "5",
+    "order": 32,
+    "role": "hunter",
+    "tags": ["urgent"],
+    "condition": {
+      "kind": "all",
+      "rules": [
+        {
+          "kind": "quest_cleared",
+          "questId": "hub-4-recipe-228742"
+        },
+        {
+          "kind": "quest_cleared",
+          "questId": "hub-4-recipe-228747"
+        },
+        {
+          "kind": "quest_cleared",
+          "questId": "hub-4-recipe-228757"
+        },
+        {
+          "kind": "quest_cleared",
+          "questId": "hub-4-recipe-228758"
+        },
+        {
+          "kind": "hr_at_least",
+          "value": 4
+        }
+      ]
+    },
+    "npcNotes": [
+      "受注・参加のHR条件：HR4以上（出現前提とは別）。",
+      "ギルドマネージャーと話して緊急クエストを出現させる。"
+    ],
+    "unlocks": [
+      {
+        "kind": "hunter_art",
+        "label": "ブレイドワイヤー LV2",
+        "note": "同じ狩技の村側の解放経路：村★6「青と緑の波状包囲網」。集会所と村のクリアを両方要求する条件ではありません（OR）。"
+      },
+      {
+        "kind": "other",
+        "label": "HR5への進行",
+        "note": "この緊急の達成後に進行。実際の昇格・反映はゲーム内で確認してください。"
+      },
+      {
+        "kind": "facility",
+        "label": "オトモの初期雇用レベル10〜12の解放経路",
+        "note": "この緊急によるHR5到達、または村★6「牙と毒の沼地」のクリア（OR）。育成上限とは別。解放済みのより高い初期雇用レベルを下げる意味ではありません。"
+      },
+      {
+        "kind": "food",
+        "label": "コダイオウイカ",
+        "note": "緊急クエスト達成後に追加。実際の受領・追加はゲーム内で確認してください。"
+      }
+    ],
+    "sources": [
+      {
+        "site": "MHXX攻略レシピ",
+        "url": "http://wiki.mhxg.org/ida/228790.html",
+        "kind": "detail",
+        "checkedAt": "2026-10-16"
+      },
+      {
+        "site": "MHXX攻略レシピ（ランク一覧）",
+        "url": "http://wiki.mhxg.org/data/2025.html",
+        "kind": "list",
+        "checkedAt": "2026-10-16"
+      },
+      {
+        "site": "Game8 MHXX（受注HR・補完）",
+        "url": "https://game8.jp/mh-xx/823499",
+        "kind": "detail",
+        "checkedAt": "2026-10-16"
+      },
+      {
+        "site": "MHXXニャンターwiki（オトモ）",
+        "url": "https://w.atwiki.jp/mhxxnyanter/pages/20.html",
+        "kind": "list",
+        "checkedAt": "2026-10-16"
+      },
+      {
+        "site": "MHXXニャンターwiki（ニャンタークエスト）",
+        "url": "https://w.atwiki.jp/mhxxnyanter/pages/24.html",
+        "kind": "list",
+        "checkedAt": "2026-10-16"
+      },
+      {
+        "site": "MHXX攻略Wiki（食材）",
+        "url": "https://mhx-wiki.com/?%E9%A3%9F%E6%9D%90%E3%82%AF%E3%82%A8%E3%82%B9%E3%83%88%E4%B8%80%E8%A6%A7",
+        "kind": "list",
+        "checkedAt": "2026-10-16"
+      },
+      {
+        "site": "MHXX攻略Wiki（狩技）",
+        "url": "https://mhx-wiki.com/?MHXX%E3%81%AE%E7%8B%A9%E6%8A%80%E7%BF%92%E5%BE%97%E3%82%AF%E3%82%A8%E3%82%B9%E3%83%88%E3%81%BE%E3%81%A8%E3%82%81",
+        "kind": "list",
+        "checkedAt": "2026-10-16"
+      }
+    ],
+    "verification": "partial",
+    "verificationNote": "攻略レシピの一覧・個別ページを照合。条件と解放要素の完全確認を意味しません。記録上の前提達成とゲーム内での受注・受領状態を区別します。",
+    "warnings": []
+  },
+  {
+    "id": "hub-5-recipe-238237",
+    "name": "孤島の迷惑客",
+    "category": "hub",
+    "rank": "5",
+    "order": 33,
+    "role": "hunter",
+    "tags": ["request"],
+    "condition": {
+      "kind": "all",
+      "rules": [
+        {
+          "kind": "quest_cleared",
+          "questId": "village-3-recipe-220193"
+        },
+        {
+          "kind": "hr_at_least",
+          "value": 5
+        }
+      ]
+    },
+    "npcNotes": [
+      "モガの村の看板娘の依頼1を達成し、必要な報告を行う。",
+      "ユクモ村 モガの村の看板娘の依頼2を受注し、達成後に依頼主へ報告する。",
+      "受注・参加のHR条件：HR4以上（出現前提とは別）。"
+    ],
+    "unlocks": [
+      {
+        "kind": "other",
+        "label": "スカラーシリーズ（製法）",
+        "note": "依頼達成・報告後の製法解放。装備そのものの入手ではありません。"
+      },
+      {
+        "kind": "other",
+        "label": "ガイドネコフード（製法）",
+        "note": "依頼達成・報告後の製法解放。装備そのものの入手ではありません。"
+      },
+      {
+        "kind": "other",
+        "label": "ガイドネコスーツ（製法）",
+        "note": "依頼達成・報告後の製法解放。装備そのものの入手ではありません。"
+      }
+    ],
+    "sources": [
+      {
+        "site": "MHXX攻略レシピ",
+        "url": "http://wiki.mhxg.org/ida/238237.html",
+        "kind": "detail",
+        "checkedAt": "2026-10-16"
+      },
+      {
+        "site": "MHXX攻略レシピ（ランク一覧）",
+        "url": "http://wiki.mhxg.org/data/2025.html",
+        "kind": "list",
+        "checkedAt": "2026-10-16"
+      },
+      {
+        "site": "Game8 MHXX（受注HR・補完）",
+        "url": "https://game8.jp/mh-xx/823500",
+        "kind": "detail",
+        "checkedAt": "2026-10-16"
+      }
+    ],
+    "verification": "partial",
+    "verificationNote": "攻略レシピの一覧・個別ページを照合。条件と解放要素の完全確認を意味しません。記録上の前提達成とゲーム内での受注・受領状態を区別します。",
+    "warnings": []
+  },
+  {
+    "id": "hub-5-recipe-314984",
+    "name": "沼地の捕食者・ネルスキュラ",
+    "category": "hub",
+    "rank": "5",
+    "order": 34,
+    "role": "hunter",
+    "tags": ["normal"],
+    "condition": {
+      "kind": "all",
+      "rules": [
+        {
+          "kind": "hr_at_least",
+          "value": 4
+        },
+        {
+          "kind": "quest_cleared",
+          "questId": "hub-5-recipe-228790"
+        }
+      ]
+    },
+    "npcNotes": [
+      "受注・参加のHR条件：HR4以上（出現前提とは別）。",
+      "ギルドマネージャーと話す。"
+    ],
+    "unlocks": [],
+    "sources": [
+      {
+        "site": "MHXX攻略レシピ",
+        "url": "http://wiki.mhxg.org/ida/314984.html",
+        "kind": "detail",
+        "checkedAt": "2026-10-16"
+      },
+      {
+        "site": "MHXX攻略レシピ（ランク一覧）",
+        "url": "http://wiki.mhxg.org/data/2025.html",
+        "kind": "list",
+        "checkedAt": "2026-10-16"
+      },
+      {
+        "site": "Game8 MHXX（受注HR・補完）",
+        "url": "https://game8.jp/mh-xx/823501",
+        "kind": "detail",
+        "checkedAt": "2026-10-16"
+      }
+    ],
+    "verification": "partial",
+    "verificationNote": "攻略レシピの一覧・個別ページを照合。条件と解放要素の完全確認を意味しません。記録上の前提達成とゲーム内での受注・受領状態を区別します。",
+    "warnings": []
+  },
+  {
+    "id": "hub-5-recipe-238238",
+    "name": "イーオスの親玉たち",
+    "category": "hub",
+    "rank": "5",
+    "order": 35,
+    "role": "hunter",
+    "tags": ["normal"],
+    "condition": {
+      "kind": "all",
+      "rules": [
+        {
+          "kind": "quest_cleared",
+          "questId": "hub-5-recipe-238235"
+        },
+        {
+          "kind": "hr_at_least",
+          "value": 4
+        }
+      ]
+    },
+    "npcNotes": ["受注・参加のHR条件：HR4以上（出現前提とは別）。"],
+    "unlocks": [],
+    "sources": [
+      {
+        "site": "MHXX攻略レシピ",
+        "url": "http://wiki.mhxg.org/ida/238238.html",
+        "kind": "detail",
+        "checkedAt": "2026-10-16"
+      },
+      {
+        "site": "MHXX攻略レシピ（ランク一覧）",
+        "url": "http://wiki.mhxg.org/data/2025.html",
+        "kind": "list",
+        "checkedAt": "2026-10-16"
+      },
+      {
+        "site": "Game8 MHXX（受注HR・補完）",
+        "url": "https://game8.jp/mh-xx/823502",
+        "kind": "detail",
+        "checkedAt": "2026-10-16"
+      }
+    ],
+    "verification": "partial",
+    "verificationNote": "攻略レシピの一覧・個別ページを照合。条件と解放要素の完全確認を意味しません。記録上の前提達成とゲーム内での受注・受領状態を区別します。",
+    "warnings": []
+  },
+  {
+    "id": "hub-5-recipe-228791",
+    "name": "巨大昆虫、発生！",
+    "category": "hub",
+    "rank": "5",
+    "order": 36,
+    "role": "hunter",
+    "tags": ["normal"],
+    "condition": {
+      "kind": "hr_at_least",
+      "value": 5
+    },
+    "npcNotes": ["受注・参加のHR条件：HR4以上（出現前提とは別）。"],
+    "unlocks": [],
+    "sources": [
+      {
+        "site": "MHXX攻略レシピ",
+        "url": "http://wiki.mhxg.org/ida/228791.html",
+        "kind": "detail",
+        "checkedAt": "2026-10-16"
+      },
+      {
+        "site": "MHXX攻略レシピ（ランク一覧）",
+        "url": "http://wiki.mhxg.org/data/2025.html",
+        "kind": "list",
+        "checkedAt": "2026-10-16"
+      },
+      {
+        "site": "Game8 MHXX（受注HR・補完）",
+        "url": "https://game8.jp/mh-xx/823503",
+        "kind": "detail",
+        "checkedAt": "2026-10-16"
+      }
+    ],
+    "verification": "partial",
+    "verificationNote": "攻略レシピの一覧・個別ページを照合。条件と解放要素の完全確認を意味しません。記録上の前提達成とゲーム内での受注・受領状態を区別します。",
+    "warnings": []
+  },
+  {
+    "id": "hub-5-recipe-314985",
+    "name": "火山の冒険",
+    "category": "hub",
+    "rank": "5",
+    "order": 37,
+    "role": "hunter",
+    "tags": ["normal"],
+    "condition": {
+      "kind": "all",
+      "rules": [
+        {
+          "kind": "hr_at_least",
+          "value": 4
+        },
+        {
+          "kind": "quest_cleared",
+          "questId": "hub-5-recipe-228790"
+        }
+      ]
+    },
+    "npcNotes": [
+      "受注・参加のHR条件：HR4以上（出現前提とは別）。",
+      "ギルドマネージャーと話す。"
+    ],
+    "unlocks": [],
+    "sources": [
+      {
+        "site": "MHXX攻略レシピ",
+        "url": "http://wiki.mhxg.org/ida/314985.html",
+        "kind": "detail",
+        "checkedAt": "2026-10-16"
+      },
+      {
+        "site": "MHXX攻略レシピ（ランク一覧）",
+        "url": "http://wiki.mhxg.org/data/2025.html",
+        "kind": "list",
+        "checkedAt": "2026-10-16"
+      },
+      {
+        "site": "Game8 MHXX（受注HR・補完）",
+        "url": "https://game8.jp/mh-xx/823504",
+        "kind": "detail",
+        "checkedAt": "2026-10-16"
+      }
+    ],
+    "verification": "partial",
+    "verificationNote": "攻略レシピの一覧・個別ページを照合。条件と解放要素の完全確認を意味しません。記録上の前提達成とゲーム内での受注・受領状態を区別します。",
+    "warnings": []
+  },
+  {
+    "id": "hub-5-recipe-228792",
+    "name": "溶岩竜ヴォルガノス出現！",
+    "category": "hub",
+    "rank": "5",
+    "order": 38,
+    "role": "hunter",
+    "tags": ["key"],
+    "condition": {
+      "kind": "hr_at_least",
+      "value": 5
+    },
+    "npcNotes": ["受注・参加のHR条件：HR4以上（出現前提とは別）。"],
+    "unlocks": [],
+    "sources": [
+      {
+        "site": "MHXX攻略レシピ",
+        "url": "http://wiki.mhxg.org/ida/228792.html",
+        "kind": "detail",
+        "checkedAt": "2026-10-16"
+      },
+      {
+        "site": "MHXX攻略レシピ（ランク一覧）",
+        "url": "http://wiki.mhxg.org/data/2025.html",
+        "kind": "list",
+        "checkedAt": "2026-10-16"
+      },
+      {
+        "site": "Game8 MHXX（受注HR・補完）",
+        "url": "https://game8.jp/mh-xx/823505",
+        "kind": "detail",
+        "checkedAt": "2026-10-16"
+      }
+    ],
+    "verification": "partial",
+    "verificationNote": "攻略レシピの一覧・個別ページを照合。条件と解放要素の完全確認を意味しません。記録上の前提達成とゲーム内での受注・受領状態を区別します。",
+    "warnings": []
+  },
+  {
+    "id": "hub-5-recipe-228793",
+    "name": "落石注意！？",
+    "category": "hub",
+    "rank": "5",
+    "order": 39,
+    "role": "hunter",
+    "tags": ["normal"],
+    "condition": {
+      "kind": "hr_at_least",
+      "value": 5
+    },
+    "npcNotes": ["受注・参加のHR条件：HR4以上（出現前提とは別）。"],
+    "unlocks": [],
+    "sources": [
+      {
+        "site": "MHXX攻略レシピ",
+        "url": "http://wiki.mhxg.org/ida/228793.html",
+        "kind": "detail",
+        "checkedAt": "2026-10-16"
+      },
+      {
+        "site": "MHXX攻略レシピ（ランク一覧）",
+        "url": "http://wiki.mhxg.org/data/2025.html",
+        "kind": "list",
+        "checkedAt": "2026-10-16"
+      },
+      {
+        "site": "Game8 MHXX（受注HR・補完）",
+        "url": "https://game8.jp/mh-xx/823506",
+        "kind": "detail",
+        "checkedAt": "2026-10-16"
+      }
+    ],
+    "verification": "partial",
+    "verificationNote": "攻略レシピの一覧・個別ページを照合。条件と解放要素の完全確認を意味しません。記録上の前提達成とゲーム内での受注・受領状態を区別します。",
+    "warnings": []
+  },
+  {
+    "id": "hub-5-recipe-228794",
+    "name": "炎の山の大将軍",
+    "category": "hub",
+    "rank": "5",
+    "order": 40,
+    "role": "hunter",
+    "tags": ["normal"],
+    "condition": {
+      "kind": "hr_at_least",
+      "value": 5
+    },
+    "npcNotes": ["受注・参加のHR条件：HR4以上（出現前提とは別）。"],
+    "unlocks": [],
+    "sources": [
+      {
+        "site": "MHXX攻略レシピ",
+        "url": "http://wiki.mhxg.org/ida/228794.html",
+        "kind": "detail",
+        "checkedAt": "2026-10-16"
+      },
+      {
+        "site": "MHXX攻略レシピ（ランク一覧）",
+        "url": "http://wiki.mhxg.org/data/2025.html",
+        "kind": "list",
+        "checkedAt": "2026-10-16"
+      },
+      {
+        "site": "Game8 MHXX（受注HR・補完）",
+        "url": "https://game8.jp/mh-xx/823507",
+        "kind": "detail",
+        "checkedAt": "2026-10-16"
+      }
+    ],
+    "verification": "partial",
+    "verificationNote": "攻略レシピの一覧・個別ページを照合。条件と解放要素の完全確認を意味しません。記録上の前提達成とゲーム内での受注・受領状態を区別します。",
+    "warnings": []
+  },
+  {
+    "id": "hub-5-recipe-228795",
+    "name": "ハンターと玉突き事故",
+    "category": "hub",
+    "rank": "5",
+    "order": 41,
+    "role": "hunter",
+    "tags": ["normal"],
+    "condition": {
+      "kind": "hr_at_least",
+      "value": 5
+    },
+    "npcNotes": ["受注・参加のHR条件：HR4以上（出現前提とは別）。"],
+    "unlocks": [],
+    "sources": [
+      {
+        "site": "MHXX攻略レシピ",
+        "url": "http://wiki.mhxg.org/ida/228795.html",
+        "kind": "detail",
+        "checkedAt": "2026-10-16"
+      },
+      {
+        "site": "MHXX攻略レシピ（ランク一覧）",
+        "url": "http://wiki.mhxg.org/data/2025.html",
+        "kind": "list",
+        "checkedAt": "2026-10-16"
+      },
+      {
+        "site": "Game8 MHXX（受注HR・補完）",
+        "url": "https://game8.jp/mh-xx/823508",
+        "kind": "detail",
+        "checkedAt": "2026-10-16"
+      }
+    ],
+    "verification": "partial",
+    "verificationNote": "攻略レシピの一覧・個別ページを照合。条件と解放要素の完全確認を意味しません。記録上の前提達成とゲーム内での受注・受領状態を区別します。",
+    "warnings": []
+  },
+  {
+    "id": "hub-5-recipe-228796",
+    "name": "毒、麻痺、混乱にご用心！",
+    "category": "hub",
+    "rank": "5",
+    "order": 42,
+    "role": "hunter",
+    "tags": ["normal"],
+    "condition": {
+      "kind": "hr_at_least",
+      "value": 5
+    },
+    "npcNotes": ["受注・参加のHR条件：HR4以上（出現前提とは別）。"],
+    "unlocks": [
+      {
+        "kind": "hunter_art",
+        "label": "奏纏 LV3"
+      },
+      {
+        "kind": "hunter_art",
+        "label": "オーバーリミット LV3"
+      },
+      {
+        "kind": "hunter_art",
+        "label": "全弾装填 LV3"
+      }
+    ],
+    "sources": [
+      {
+        "site": "MHXX攻略レシピ",
+        "url": "http://wiki.mhxg.org/ida/228796.html",
+        "kind": "detail",
+        "checkedAt": "2026-10-16"
+      },
+      {
+        "site": "MHXX攻略レシピ（ランク一覧）",
+        "url": "http://wiki.mhxg.org/data/2025.html",
+        "kind": "list",
+        "checkedAt": "2026-10-16"
+      },
+      {
+        "site": "Game8 MHXX（受注HR・補完）",
+        "url": "https://game8.jp/mh-xx/823509",
+        "kind": "detail",
+        "checkedAt": "2026-10-16"
+      },
+      {
+        "site": "MHXX攻略Wiki（狩技）",
+        "url": "https://mhx-wiki.com/?MHXX%E3%81%AE%E7%8B%A9%E6%8A%80%E7%BF%92%E5%BE%97%E3%82%AF%E3%82%A8%E3%82%B9%E3%83%88%E3%81%BE%E3%81%A8%E3%82%81",
+        "kind": "list",
+        "checkedAt": "2026-10-16"
+      }
+    ],
+    "verification": "partial",
+    "verificationNote": "攻略レシピの一覧・個別ページを照合。条件と解放要素の完全確認を意味しません。記録上の前提達成とゲーム内での受注・受領状態を区別します。",
+    "warnings": []
+  },
+  {
+    "id": "hub-5-recipe-238239",
+    "name": "熱砂の喧嘩は武器の素",
+    "category": "hub",
+    "rank": "5",
+    "order": 43,
+    "role": "hunter",
+    "tags": ["request"],
+    "condition": {
+      "kind": "all",
+      "rules": [
+        {
+          "kind": "quest_cleared",
+          "questId": "village-6-recipe-238198"
+        },
+        {
+          "kind": "hr_at_least",
+          "value": 5
+        },
+        {
+          "kind": "quest_cleared",
+          "questId": "village-4-recipe-219987"
+        }
+      ]
+    },
+    "npcNotes": [
+      "工房のばあちゃんの依頼1を達成し、必要な報告を行う。",
+      "ユクモ村 モガの村の老職人の依頼1を受注し、達成後に依頼主へ報告する。",
+      "受注・参加のHR条件：HR4以上（出現前提とは別）。"
+    ],
+    "unlocks": [
+      {
+        "kind": "other",
+        "label": "ヒーローアームズ（製法）",
+        "note": "依頼達成・報告後の製法解放。装備そのものの入手ではありません。"
+      },
+      {
+        "kind": "other",
+        "label": "ヒーローガンランス（製法）",
+        "note": "依頼達成・報告後の製法解放。装備そのものの入手ではありません。"
+      },
+      {
+        "kind": "other",
+        "label": "ヒーローブラスター（製法）",
+        "note": "依頼達成・報告後の製法解放。装備そのものの入手ではありません。"
+      }
+    ],
+    "sources": [
+      {
+        "site": "MHXX攻略レシピ",
+        "url": "http://wiki.mhxg.org/ida/238239.html",
+        "kind": "detail",
+        "checkedAt": "2026-10-16"
+      },
+      {
+        "site": "MHXX攻略レシピ（ランク一覧）",
+        "url": "http://wiki.mhxg.org/data/2025.html",
+        "kind": "list",
+        "checkedAt": "2026-10-16"
+      },
+      {
+        "site": "Game8 MHXX（受注HR・補完）",
+        "url": "https://game8.jp/mh-xx/823510",
+        "kind": "detail",
+        "checkedAt": "2026-10-16"
+      }
+    ],
+    "verification": "partial",
+    "verificationNote": "攻略レシピの一覧・個別ページを照合。条件と解放要素の完全確認を意味しません。記録上の前提達成とゲーム内での受注・受領状態を区別します。",
+    "warnings": []
+  },
+  {
+    "id": "hub-5-recipe-228797",
+    "name": "グレート・ハンター・ゲーム",
+    "category": "hub",
+    "rank": "5",
+    "order": 44,
+    "role": "hunter",
+    "tags": ["normal"],
+    "condition": {
+      "kind": "hr_at_least",
+      "value": 5
+    },
+    "npcNotes": ["受注・参加のHR条件：HR4以上（出現前提とは別）。"],
+    "unlocks": [
+      {
+        "kind": "hunter_art",
+        "label": "大挑発 LV3"
+      }
+    ],
+    "sources": [
+      {
+        "site": "MHXX攻略レシピ",
+        "url": "http://wiki.mhxg.org/ida/228797.html",
+        "kind": "detail",
+        "checkedAt": "2026-10-16"
+      },
+      {
+        "site": "MHXX攻略レシピ（ランク一覧）",
+        "url": "http://wiki.mhxg.org/data/2025.html",
+        "kind": "list",
+        "checkedAt": "2026-10-16"
+      },
+      {
+        "site": "Game8 MHXX（受注HR・補完）",
+        "url": "https://game8.jp/mh-xx/823511",
+        "kind": "detail",
+        "checkedAt": "2026-10-16"
+      },
+      {
+        "site": "MHXX攻略Wiki（狩技）",
+        "url": "https://mhx-wiki.com/?MHXX%E3%81%AE%E7%8B%A9%E6%8A%80%E7%BF%92%E5%BE%97%E3%82%AF%E3%82%A8%E3%82%B9%E3%83%88%E3%81%BE%E3%81%A8%E3%82%81",
+        "kind": "list",
+        "checkedAt": "2026-10-16"
+      }
+    ],
+    "verification": "partial",
+    "verificationNote": "攻略レシピの一覧・個別ページを照合。条件と解放要素の完全確認を意味しません。記録上の前提達成とゲーム内での受注・受領状態を区別します。",
+    "warnings": []
+  },
+  {
+    "id": "hub-5-recipe-228798",
+    "name": "汗と涙の連続狩猟",
+    "category": "hub",
+    "rank": "5",
+    "order": 45,
+    "role": "hunter",
+    "tags": ["normal"],
+    "condition": {
+      "kind": "hr_at_least",
+      "value": 5
+    },
+    "npcNotes": ["受注・参加のHR条件：HR4以上（出現前提とは別）。"],
+    "unlocks": [
+      {
+        "kind": "hunter_art",
+        "label": "ラウンドフォース LV3"
+      },
+      {
+        "kind": "hunter_art",
+        "label": "血風独楽 LV3"
+      }
+    ],
+    "sources": [
+      {
+        "site": "MHXX攻略レシピ",
+        "url": "http://wiki.mhxg.org/ida/228798.html",
+        "kind": "detail",
+        "checkedAt": "2026-10-16"
+      },
+      {
+        "site": "MHXX攻略レシピ（ランク一覧）",
+        "url": "http://wiki.mhxg.org/data/2025.html",
+        "kind": "list",
+        "checkedAt": "2026-10-16"
+      },
+      {
+        "site": "Game8 MHXX（受注HR・補完）",
+        "url": "https://game8.jp/mh-xx/823512",
+        "kind": "detail",
+        "checkedAt": "2026-10-16"
+      },
+      {
+        "site": "MHXX攻略Wiki（狩技）",
+        "url": "https://mhx-wiki.com/?MHXX%E3%81%AE%E7%8B%A9%E6%8A%80%E7%BF%92%E5%BE%97%E3%82%AF%E3%82%A8%E3%82%B9%E3%83%88%E3%81%BE%E3%81%A8%E3%82%81",
+        "kind": "list",
+        "checkedAt": "2026-10-16"
+      }
+    ],
+    "verification": "partial",
+    "verificationNote": "攻略レシピの一覧・個別ページを照合。条件と解放要素の完全確認を意味しません。記録上の前提達成とゲーム内での受注・受領状態を区別します。",
+    "warnings": []
+  },
+  {
+    "id": "hub-5-recipe-238240",
+    "name": "冷徹な吸血鮫",
+    "category": "hub",
+    "rank": "5",
+    "order": 46,
+    "role": "prowler",
+    "tags": ["normal"],
+    "condition": {
+      "kind": "all",
+      "rules": [
+        {
+          "kind": "quest_cleared",
+          "questId": "hub-4-recipe-228766"
+        },
+        {
+          "kind": "hr_at_least",
+          "value": 4
+        }
+      ]
+    },
+    "npcNotes": ["受注・参加のHR条件：HR4以上（出現前提とは別）。"],
+    "unlocks": [],
+    "sources": [
+      {
+        "site": "MHXX攻略レシピ",
+        "url": "http://wiki.mhxg.org/ida/238240.html",
+        "kind": "detail",
+        "checkedAt": "2026-10-16"
+      },
+      {
+        "site": "MHXX攻略レシピ（ランク一覧）",
+        "url": "http://wiki.mhxg.org/data/2025.html",
+        "kind": "list",
+        "checkedAt": "2026-10-16"
+      },
+      {
+        "site": "Game8 MHXX（受注HR・補完）",
+        "url": "https://game8.jp/mh-xx/823513",
+        "kind": "detail",
+        "checkedAt": "2026-10-16"
+      }
+    ],
+    "verification": "partial",
+    "verificationNote": "攻略レシピの一覧・個別ページを照合。条件と解放要素の完全確認を意味しません。記録上の前提達成とゲーム内での受注・受領状態を区別します。",
+    "warnings": []
+  },
+  {
+    "id": "hub-5-recipe-238241",
+    "name": "奇猿狐の耳破壊に挑戦！",
+    "category": "hub",
+    "rank": "5",
+    "order": 47,
+    "role": "prowler",
+    "tags": ["normal"],
+    "condition": {
+      "kind": "all",
+      "rules": [
+        {
+          "kind": "quest_cleared",
+          "questId": "hub-5-recipe-238240"
+        },
+        {
+          "kind": "hr_at_least",
+          "value": 4
+        }
+      ]
+    },
+    "npcNotes": ["受注・参加のHR条件：HR4以上（出現前提とは別）。"],
+    "unlocks": [],
+    "sources": [
+      {
+        "site": "MHXX攻略レシピ",
+        "url": "http://wiki.mhxg.org/ida/238241.html",
+        "kind": "detail",
+        "checkedAt": "2026-10-16"
+      },
+      {
+        "site": "MHXX攻略レシピ（ランク一覧）",
+        "url": "http://wiki.mhxg.org/data/2025.html",
+        "kind": "list",
+        "checkedAt": "2026-10-16"
+      },
+      {
+        "site": "Game8 MHXX（受注HR・補完）",
+        "url": "https://game8.jp/mh-xx/823514",
+        "kind": "detail",
+        "checkedAt": "2026-10-16"
+      }
+    ],
+    "verification": "partial",
+    "verificationNote": "攻略レシピの一覧・個別ページを照合。条件と解放要素の完全確認を意味しません。記録上の前提達成とゲーム内での受注・受領状態を区別します。",
+    "warnings": []
+  },
+  {
+    "id": "hub-5-recipe-238242",
+    "name": "孤島の釣り合戦！",
+    "category": "hub",
+    "rank": "5",
+    "order": 48,
+    "role": "prowler",
+    "tags": ["normal"],
+    "condition": {
+      "kind": "all",
+      "rules": [
+        {
+          "kind": "quest_cleared",
+          "questId": "hub-5-recipe-238240"
+        },
+        {
+          "kind": "hr_at_least",
+          "value": 4
+        }
+      ]
+    },
+    "npcNotes": ["受注・参加のHR条件：HR4以上（出現前提とは別）。"],
+    "unlocks": [],
+    "sources": [
+      {
+        "site": "MHXX攻略レシピ",
+        "url": "http://wiki.mhxg.org/ida/238242.html",
+        "kind": "detail",
+        "checkedAt": "2026-10-16"
+      },
+      {
+        "site": "MHXX攻略レシピ（ランク一覧）",
+        "url": "http://wiki.mhxg.org/data/2025.html",
+        "kind": "list",
+        "checkedAt": "2026-10-16"
+      },
+      {
+        "site": "Game8 MHXX（受注HR・補完）",
+        "url": "https://game8.jp/mh-xx/823515",
+        "kind": "detail",
+        "checkedAt": "2026-10-16"
+      }
+    ],
+    "verification": "partial",
+    "verificationNote": "攻略レシピの一覧・個別ページを照合。条件と解放要素の完全確認を意味しません。記録上の前提達成とゲーム内での受注・受領状態を区別します。",
+    "warnings": []
+  },
+  {
+    "id": "hub-5-recipe-238243",
+    "name": "地底火山のポイント招きネコ",
+    "category": "hub",
+    "rank": "5",
+    "order": 49,
+    "role": "prowler",
+    "tags": ["normal"],
+    "condition": {
+      "kind": "all",
+      "rules": [
+        {
+          "kind": "quest_cleared",
+          "questId": "hub-5-recipe-238240"
+        },
+        {
+          "kind": "hr_at_least",
+          "value": 4
+        }
+      ]
+    },
+    "npcNotes": ["受注・参加のHR条件：HR4以上（出現前提とは別）。"],
+    "unlocks": [],
+    "sources": [
+      {
+        "site": "MHXX攻略レシピ",
+        "url": "http://wiki.mhxg.org/ida/238243.html",
+        "kind": "detail",
+        "checkedAt": "2026-10-16"
+      },
+      {
+        "site": "MHXX攻略レシピ（ランク一覧）",
+        "url": "http://wiki.mhxg.org/data/2025.html",
+        "kind": "list",
+        "checkedAt": "2026-10-16"
+      },
+      {
+        "site": "Game8 MHXX（受注HR・補完）",
+        "url": "https://game8.jp/mh-xx/823516",
+        "kind": "detail",
+        "checkedAt": "2026-10-16"
+      }
+    ],
+    "verification": "partial",
+    "verificationNote": "攻略レシピの一覧・個別ページを照合。条件と解放要素の完全確認を意味しません。記録上の前提達成とゲーム内での受注・受領状態を区別します。",
+    "warnings": []
+  },
+  {
+    "id": "hub-5-recipe-238244",
+    "name": "炎天下の麻痺牙",
+    "category": "hub",
+    "rank": "5",
+    "order": 50,
+    "role": "prowler",
+    "tags": ["normal"],
+    "condition": {
+      "kind": "all",
+      "rules": [
+        {
+          "kind": "hr_at_least",
+          "value": 4
+        },
+        {
+          "kind": "any",
+          "rules": [
+            {
+              "kind": "all",
+              "rules": [
+                {
+                  "kind": "quest_cleared",
+                  "questId": "hub-5-recipe-238240"
+                },
+                {
+                  "kind": "quest_cleared",
+                  "questId": "hub-5-recipe-238241"
+                }
+              ]
+            },
+            {
+              "kind": "all",
+              "rules": [
+                {
+                  "kind": "quest_cleared",
+                  "questId": "hub-5-recipe-238240"
+                },
+                {
+                  "kind": "quest_cleared",
+                  "questId": "hub-5-recipe-238242"
+                }
+              ]
+            },
+            {
+              "kind": "all",
+              "rules": [
+                {
+                  "kind": "quest_cleared",
+                  "questId": "hub-5-recipe-238240"
+                },
+                {
+                  "kind": "quest_cleared",
+                  "questId": "hub-5-recipe-238243"
+                }
+              ]
+            },
+            {
+              "kind": "all",
+              "rules": [
+                {
+                  "kind": "quest_cleared",
+                  "questId": "hub-5-recipe-238241"
+                },
+                {
+                  "kind": "quest_cleared",
+                  "questId": "hub-5-recipe-238242"
+                }
+              ]
+            },
+            {
+              "kind": "all",
+              "rules": [
+                {
+                  "kind": "quest_cleared",
+                  "questId": "hub-5-recipe-238241"
+                },
+                {
+                  "kind": "quest_cleared",
+                  "questId": "hub-5-recipe-238243"
+                }
+              ]
+            },
+            {
+              "kind": "all",
+              "rules": [
+                {
+                  "kind": "quest_cleared",
+                  "questId": "hub-5-recipe-238242"
+                },
+                {
+                  "kind": "quest_cleared",
+                  "questId": "hub-5-recipe-238243"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    "npcNotes": ["受注・参加のHR条件：HR4以上（出現前提とは別）。"],
+    "unlocks": [
+      {
+        "kind": "facility",
+        "label": "オトモの初期雇用レベル20〜22",
+        "note": "このクエストのクリア、またはHR6到達（OR）。育成レベル上限とは別です。"
+      }
+    ],
+    "sources": [
+      {
+        "site": "MHXX攻略レシピ",
+        "url": "http://wiki.mhxg.org/ida/238244.html",
+        "kind": "detail",
+        "checkedAt": "2026-10-16"
+      },
+      {
+        "site": "MHXX攻略レシピ（ランク一覧）",
+        "url": "http://wiki.mhxg.org/data/2025.html",
+        "kind": "list",
+        "checkedAt": "2026-10-16"
+      },
+      {
+        "site": "Game8 MHXX（受注HR・補完）",
+        "url": "https://game8.jp/mh-xx/823517",
+        "kind": "detail",
+        "checkedAt": "2026-10-16"
+      },
+      {
+        "site": "MHXXニャンターwiki（オトモ）",
+        "url": "https://w.atwiki.jp/mhxxnyanter/pages/20.html",
+        "kind": "list",
+        "checkedAt": "2026-10-16"
+      },
+      {
+        "site": "MHXXニャンターwiki（ニャンタークエスト）",
+        "url": "https://w.atwiki.jp/mhxxnyanter/pages/24.html",
+        "kind": "list",
+        "checkedAt": "2026-10-16"
+      }
+    ],
+    "verification": "partial",
+    "verificationNote": "攻略レシピの一覧・個別ページを照合。条件と解放要素の完全確認を意味しません。記録上の前提達成とゲーム内での受注・受領状態を区別します。",
+    "warnings": []
+  }
+]

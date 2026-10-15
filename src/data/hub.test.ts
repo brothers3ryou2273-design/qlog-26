@@ -1,5 +1,6 @@
 import { describe, expect, it } from "vitest";
 import audit from "../../docs/hub-audit.json";
+import upperConnections from "../../docs/upper-hub-connections.json";
 import villageAudit from "../../docs/data-audit.json";
 import baseline from "../../docs/progress-baseline-370.json";
 import connections from "../../docs/hub-village-connections.json";
@@ -71,8 +72,24 @@ describe("observed hub rosters and cross-category dependencies", () => {
     for (const b of baseline) {
       const q = quests.find((q) => q.id === b.id)!;
       expect([q.name, q.rank]).toEqual([b.name, b.rank]);
-      expect(q.unlocks).toEqual(expect.arrayContaining(b.unlocks));
-      if (!connections.changes.some((c) => c.questId === b.id)) {
+      expect(q.unlocks).toEqual(
+        expect.arrayContaining(
+          b.unlocks.map(
+            (u) =>
+              upperConnections.unlockNoteChanges.find(
+                (c) =>
+                  c.questId === b.id &&
+                  c.kind === u.kind &&
+                  c.label === u.label,
+              )?.after ?? u,
+          ),
+        ),
+      );
+      if (
+        ![...connections.changes, ...upperConnections.changes].some(
+          (c) => c.questId === b.id,
+        )
+      ) {
         const canonical = JSON.stringify(q.condition, [
           "kind",
           "label",
@@ -96,15 +113,18 @@ describe("observed hub rosters and cross-category dependencies", () => {
   it("connects audited village prerequisites in both directions, preserving every other gate", () => {
     for (const c of connections.changes) {
       const q = quests.find((q) => q.id === c.questId)!;
-      expect(q.condition).toEqual(c.after);
+      expect(q.condition).toEqual(
+        upperConnections.changes.find((x) => x.questId === c.questId)?.after ??
+          c.after,
+      );
       for (const node of nodes(c.before as Rule).filter(
         (r) =>
           r.kind !== "all" &&
           r.kind !== "any" &&
           !(r.kind === "external_flag" && /集★[123]/.test(r.label)),
       ))
-        expect(nodes(q.condition)).toContainEqual(node);
-      const hubIds = references(q.condition).filter((id) =>
+        expect(nodes(c.after as Rule)).toContainEqual(node);
+      const hubIds = references(c.after as Rule).filter((id) =>
         id.startsWith("hub-"),
       );
       expect(hubIds).toHaveLength(1);
@@ -215,7 +235,7 @@ it("hub-3 urgents use the correct six-key sets and preserve the separate HR3 gat
   }
 });
 
-it("partly resolves the village-10 chain without erasing hub-5, HR5 or other village prerequisites", () => {
+it("resolves the village-10 chain with both hub-3 and hub-5, preserving HR5 and village prerequisites", () => {
   const q = quests.find(
     (q) => q.category === "village" && q.name === "遺群嶺を塞ぐ恐暴竜",
   )!;
@@ -223,7 +243,22 @@ it("partly resolves the village-10 chain without erasing hub-5, HR5 or other vil
     (q) => q.category === "hub" && q.name === "化石に眠る太古の記憶",
   )!;
   expect(references(q.condition)).toContain(hub.id);
-  expect(JSON.stringify(q.condition)).toContain("集★5雪山の主、ドドブランゴ");
+  const upper = quests.find(
+    (q) =>
+      q.category === "hub" &&
+      q.rank === "5" &&
+      q.name === "雪山の主、ドドブランゴ",
+  )!;
+  expect(references(q.condition)).toContain(upper.id);
+  expect(
+    evaluate(q.condition, {
+      schemaVersion: 1,
+      completedQuestIds: quests
+        .map((q) => q.id)
+        .filter((id) => id !== upper.id),
+      hr: 5,
+    }),
+  ).toBe("unmet");
   expect(nodes(q.condition)).toContainEqual({ kind: "hr_at_least", value: 5 });
   const completedQuestIds = quests.map((q) => q.id);
   expect(
@@ -231,12 +266,12 @@ it("partly resolves the village-10 chain without erasing hub-5, HR5 or other vil
   ).toBe("unmet");
   expect(
     evaluate(q.condition, { schemaVersion: 1, completedQuestIds, hr: 5 }),
-  ).toBe("unknown");
+  ).toBe("met");
   expect(dependents(hub.id, quests)).toContain(q);
 });
 
 it("registers exact primary art releases, foods, recipes, and conservative facility findings", () => {
-  const hub = quests.filter((q) => q.category === "hub");
+  const hub = quests.filter((q) => q.category === "hub" && Number(q.rank) <= 3);
   const arts = hub.flatMap((q) =>
     q.unlocks.filter((u) => u.kind === "hunter_art"),
   );

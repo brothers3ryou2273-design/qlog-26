@@ -1,0 +1,569 @@
+{
+  "checkedAt": "2026-10-16",
+  "changes": [
+    {
+      "questId": "village-6-recipe-238203",
+      "name": "高難度：食は渓流にあり！",
+      "before": {
+        "kind": "all",
+        "rules": [
+          {
+            "kind": "hr_at_least",
+            "value": 5
+          },
+          {
+            "kind": "quest_cleared",
+            "questId": "village-2-recipe-220164"
+          },
+          {
+            "kind": "external_flag",
+            "label": "未収録：集★5キモ・キモ・キモ！！！のクリアとタンジアの港の看板娘の依頼1の達成"
+          },
+          {
+            "kind": "quest_cleared",
+            "questId": "village-6-recipe-220240"
+          }
+        ]
+      },
+      "after": {
+        "kind": "all",
+        "rules": [
+          {
+            "kind": "hr_at_least",
+            "value": 5
+          },
+          {
+            "kind": "quest_cleared",
+            "questId": "village-2-recipe-220164"
+          },
+          {
+            "kind": "quest_cleared",
+            "questId": "hub-5-recipe-238232"
+          },
+          {
+            "kind": "quest_cleared",
+            "questId": "village-6-recipe-220240"
+          }
+        ]
+      },
+      "sources": [
+        "http://wiki.mhxg.org/ida/238203.html",
+        "http://wiki.mhxg.org/ida/238232.html",
+        "http://wiki.mhxg.org/ida/243473.html"
+      ],
+      "reason": "実在する前提クエストを収録し外部条件のクリア部分を固定IDへ置換。ネコートの依頼1は別のクリア参照も残す。その他の未知・HR・納品・G級等は保持。",
+      "addedNpcNotes": ["前提の依頼達成後、必要な報告を行う。"],
+      "resolvedInheritedPrerequisites": [],
+      "inheritanceReason": null
+    },
+    {
+      "questId": "village-10-recipe-298960",
+      "name": "遺群嶺を塞ぐ恐暴竜",
+      "before": {
+        "kind": "all",
+        "rules": [
+          {
+            "kind": "quest_cleared",
+            "questId": "village-5-recipe-220230"
+          },
+          {
+            "kind": "hr_at_least",
+            "value": 3
+          },
+          {
+            "kind": "quest_cleared",
+            "questId": "hub-3-recipe-220272"
+          },
+          {
+            "kind": "hr_at_least",
+            "value": 5
+          },
+          {
+            "kind": "external_flag",
+            "label": "未収録：集★5雪山の主、ドドブランゴのクリア（キャラバンの竜人商人の依頼3）"
+          },
+          {
+            "kind": "quest_cleared",
+            "questId": "village-10-recipe-298961"
+          }
+        ]
+      },
+      "after": {
+        "kind": "all",
+        "rules": [
+          {
+            "kind": "quest_cleared",
+            "questId": "village-5-recipe-220230"
+          },
+          {
+            "kind": "hr_at_least",
+            "value": 3
+          },
+          {
+            "kind": "quest_cleared",
+            "questId": "hub-3-recipe-220272"
+          },
+          {
+            "kind": "hr_at_least",
+            "value": 5
+          },
+          {
+            "kind": "quest_cleared",
+            "questId": "hub-5-recipe-238236"
+          },
+          {
+            "kind": "quest_cleared",
+            "questId": "village-10-recipe-298961"
+          }
+        ]
+      },
+      "sources": [
+        "http://wiki.mhxg.org/ida/298960.html",
+        "http://wiki.mhxg.org/ida/238236.html",
+        "http://wiki.mhxg.org/ida/243431.html",
+        "http://wiki.mhxg.org/ida/243430.html"
+      ],
+      "reason": "実在する前提クエストを収録し外部条件のクリア部分を固定IDへ置換。ネコートの依頼1は別のクリア参照も残す。その他の未知・HR・納品・G級等は保持。",
+      "addedNpcNotes": ["前提の依頼達成後、必要な報告を行う。"],
+      "resolvedInheritedPrerequisites": [],
+      "inheritanceReason": null
+    },
+    {
+      "questId": "village-8-recipe-288223",
+      "name": "熱地に現る、ウラガンキン！",
+      "before": {
+        "kind": "all",
+        "rules": [
+          {
+            "kind": "quest_cleared",
+            "questId": "village-8-recipe-286192"
+          },
+          {
+            "kind": "quest_cleared",
+            "questId": "village-8-recipe-286194"
+          },
+          {
+            "kind": "quest_cleared",
+            "questId": "village-8-recipe-286202"
+          },
+          {
+            "kind": "hr_at_least",
+            "value": 4
+          },
+          {
+            "kind": "quest_cleared",
+            "questId": "village-3-g8-822877"
+          },
+          {
+            "kind": "unknown",
+            "note": "キャラバンの娘の依頼2：特定の獰猛化クエスト2つ以上（対象は出典未記載）"
+          },
+          {
+            "kind": "external_flag",
+            "label": "未収録：集★6心を燃やせ、燃石炭！のクリア（キャラバンの娘の依頼2）"
+          }
+        ]
+      },
+      "after": {
+        "kind": "all",
+        "rules": [
+          {
+            "kind": "quest_cleared",
+            "questId": "village-8-recipe-286192"
+          },
+          {
+            "kind": "quest_cleared",
+            "questId": "village-8-recipe-286194"
+          },
+          {
+            "kind": "quest_cleared",
+            "questId": "village-8-recipe-286202"
+          },
+          {
+            "kind": "hr_at_least",
+            "value": 4
+          },
+          {
+            "kind": "quest_cleared",
+            "questId": "village-3-g8-822877"
+          },
+          {
+            "kind": "quest_cleared",
+            "questId": "hub-6-recipe-243492"
+          }
+        ]
+      },
+      "sources": [
+        "http://wiki.mhxg.org/ida/288223.html",
+        "http://wiki.mhxg.org/ida/243492.html",
+        "http://wiki.mhxg.org/ida/243490.html",
+        "http://wiki.mhxg.org/ida/243428.html"
+      ],
+      "reason": "実在する前提クエストを収録し外部条件のクリア部分を固定IDへ置換。ネコートの依頼1は別のクリア参照も残す。その他の未知・HR・納品・G級等は保持。",
+      "addedNpcNotes": ["前提の依頼達成後、必要な報告を行う。"],
+      "resolvedInheritedPrerequisites": [
+        {
+          "kind": "unknown",
+          "note": "キャラバンの娘の依頼2：特定の獰猛化クエスト2つ以上（対象は出典未記載）"
+        }
+      ],
+      "inheritanceReason": "前提依頼の発生条件を旧データでは展開していたが、依頼の達成条件に対応するクエストのクリア記録で依頼達成を直接確認できる。依頼元クエスト自身の不明な獰猛化条件は保持し、村の独立したHR・G級・納品条件は削除しない。"
+    },
+    {
+      "questId": "village-6-recipe-244682",
+      "name": "高難度：異常震域",
+      "before": {
+        "kind": "all",
+        "rules": [
+          {
+            "kind": "hr_at_least",
+            "value": 8
+          },
+          {
+            "kind": "external_flag",
+            "label": "未収録：ネコートの依頼1の達成と集★7轟虎馮海のクリア（ネコートの依頼2）"
+          },
+          {
+            "kind": "quest_cleared",
+            "questId": "village-6-recipe-220240"
+          }
+        ]
+      },
+      "after": {
+        "kind": "all",
+        "rules": [
+          {
+            "kind": "hr_at_least",
+            "value": 8
+          },
+          {
+            "kind": "all",
+            "rules": [
+              {
+                "kind": "quest_cleared",
+                "questId": "hub-6-recipe-244696"
+              },
+              {
+                "kind": "quest_cleared",
+                "questId": "hub-7-recipe-244686"
+              }
+            ]
+          },
+          {
+            "kind": "quest_cleared",
+            "questId": "village-6-recipe-220240"
+          }
+        ]
+      },
+      "sources": [
+        "http://wiki.mhxg.org/ida/244682.html",
+        "http://wiki.mhxg.org/ida/244686.html",
+        "http://wiki.mhxg.org/ida/261133.html"
+      ],
+      "reason": "実在する前提クエストを収録し外部条件のクリア部分を固定IDへ置換。ネコートの依頼1は別のクリア参照も残す。その他の未知・HR・納品・G級等は保持。",
+      "addedNpcNotes": ["前提の依頼達成後、必要な報告を行う。"],
+      "resolvedInheritedPrerequisites": [],
+      "inheritanceReason": null
+    },
+    {
+      "questId": "village-9-recipe-286221",
+      "name": "轟竜の狩猟をさせてやるぜ！",
+      "before": {
+        "kind": "all",
+        "rules": [
+          {
+            "kind": "quest_cleared",
+            "questId": "village-6-recipe-244681"
+          },
+          {
+            "kind": "external_flag",
+            "label": "未収録：集★7空の飛竜と陸の飛竜のクリア（ヘルブラザーズ・赤鬼の依頼(2)）"
+          },
+          {
+            "kind": "external_flag",
+            "label": "未収録の前提：G★2泥まみれの商魂！"
+          }
+        ]
+      },
+      "after": {
+        "kind": "all",
+        "rules": [
+          {
+            "kind": "quest_cleared",
+            "questId": "village-6-recipe-244681"
+          },
+          {
+            "kind": "quest_cleared",
+            "questId": "hub-7-recipe-244704"
+          },
+          {
+            "kind": "external_flag",
+            "label": "未収録の前提：G★2泥まみれの商魂！"
+          }
+        ]
+      },
+      "sources": [
+        "http://wiki.mhxg.org/ida/286221.html",
+        "http://wiki.mhxg.org/ida/244704.html",
+        "http://wiki.mhxg.org/ida/265176.html"
+      ],
+      "reason": "実在する前提クエストを収録し外部条件のクリア部分を固定IDへ置換。ネコートの依頼1は別のクリア参照も残す。その他の未知・HR・納品・G級等は保持。",
+      "addedNpcNotes": ["前提の依頼達成後、必要な報告を行う。"],
+      "resolvedInheritedPrerequisites": [],
+      "inheritanceReason": null
+    },
+    {
+      "questId": "village-9-recipe-286233",
+      "name": "割り込み受注：卵納品",
+      "before": {
+        "kind": "all",
+        "rules": [
+          {
+            "kind": "quest_cleared",
+            "questId": "village-9-recipe-286224"
+          },
+          {
+            "kind": "hr_at_least",
+            "value": 7
+          },
+          {
+            "kind": "unknown",
+            "note": "ミナガルデの看板娘の依頼1：特定の獰猛化クエスト2つ以上（対象は出典未記載）"
+          },
+          {
+            "kind": "external_flag",
+            "label": "未収録：集★7獰にして猛だが火でもあるのクリア（ミナガルデの看板娘の依頼1）"
+          }
+        ]
+      },
+      "after": {
+        "kind": "all",
+        "rules": [
+          {
+            "kind": "quest_cleared",
+            "questId": "village-9-recipe-286224"
+          },
+          {
+            "kind": "hr_at_least",
+            "value": 7
+          },
+          {
+            "kind": "quest_cleared",
+            "questId": "hub-7-recipe-244700"
+          }
+        ]
+      },
+      "sources": [
+        "http://wiki.mhxg.org/ida/286233.html",
+        "http://wiki.mhxg.org/ida/244700.html",
+        "http://wiki.mhxg.org/ida/261125.html"
+      ],
+      "reason": "実在する前提クエストを収録し外部条件のクリア部分を固定IDへ置換。ネコートの依頼1は別のクリア参照も残す。その他の未知・HR・納品・G級等は保持。",
+      "addedNpcNotes": ["前提の依頼達成後、必要な報告を行う。"],
+      "resolvedInheritedPrerequisites": [
+        {
+          "kind": "unknown",
+          "note": "ミナガルデの看板娘の依頼1：特定の獰猛化クエスト2つ以上（対象は出典未記載）"
+        }
+      ],
+      "inheritanceReason": "前提依頼の発生条件を旧データでは展開していたが、依頼の達成条件に対応するクエストのクリア記録で依頼達成を直接確認できる。依頼元クエスト自身の不明な獰猛化条件は保持し、村の独立したHR・G級・納品条件は削除しない。"
+    },
+    {
+      "questId": "village-6-recipe-244685",
+      "name": "高難度：炎王の帰還",
+      "before": {
+        "kind": "all",
+        "rules": [
+          {
+            "kind": "hr_at_least",
+            "value": 9
+          },
+          {
+            "kind": "external_flag",
+            "label": "工房のばあちゃんの依頼2：依頼1達成・集★7解放後、獰猛化エキスを納品済み"
+          }
+        ]
+      },
+      "after": {
+        "kind": "all",
+        "rules": [
+          {
+            "kind": "hr_at_least",
+            "value": 9
+          },
+          {
+            "kind": "external_flag",
+            "label": "工房のばあちゃんの依頼2：依頼1達成・獰猛化エキスを納品済み"
+          }
+        ]
+      },
+      "sources": [
+        "http://wiki.mhxg.org/ida/244685.html",
+        "http://wiki.mhxg.org/data/2016.html",
+        "http://wiki.mhxg.org/ida/261128.html"
+      ],
+      "reason": "既存のHR9条件が集★7解放の数値条件を満たすため、外部条件から既知の進行部分だけを分離。依頼1達成・獰猛化エキス納品の外部条件を残す。",
+      "addedNpcNotes": [],
+      "resolvedInheritedPrerequisites": [],
+      "inheritanceReason": null,
+      "externalReplacements": [
+        {
+          "before": {
+            "kind": "external_flag",
+            "label": "工房のばあちゃんの依頼2：依頼1達成・集★7解放後、獰猛化エキスを納品済み"
+          },
+          "after": {
+            "kind": "external_flag",
+            "label": "工房のばあちゃんの依頼2：依頼1達成・獰猛化エキスを納品済み"
+          }
+        }
+      ]
+    }
+  ],
+  "unlockNoteChanges": [
+    {
+      "questId": "village-2-recipe-220154",
+      "label": "後続依頼：シナト村の長老の依頼",
+      "kind": "other",
+      "before": {
+        "kind": "other",
+        "label": "後続依頼：シナト村の長老の依頼",
+        "note": "村★1〜6には未収録の後続関係。出現条件の一部として記載されています。他の前提・会話・受注は未確認です。"
+      },
+      "after": {
+        "kind": "other",
+        "label": "後続依頼：シナト村の長老の依頼",
+        "note": "収録済みの後続関係。出現には他の条件もあり、前提・後続の詳細を確認してください。"
+      },
+      "targetQuestId": "hub-4-recipe-238225",
+      "source": "http://wiki.mhxg.org/ida/238225.html",
+      "reason": "今回収録した後続について、未収録という古い注記だけを更新。解放要素の種類・名称は保持。"
+    },
+    {
+      "questId": "village-2-recipe-220159",
+      "label": "後続依頼：ポッケ村の看板娘の依頼",
+      "kind": "other",
+      "before": {
+        "kind": "other",
+        "label": "後続依頼：ポッケ村の看板娘の依頼",
+        "note": "村★1〜6には未収録の後続関係。出現条件の一部として記載されています。他の前提・会話・受注は未確認です。"
+      },
+      "after": {
+        "kind": "other",
+        "label": "後続依頼：ポッケ村の看板娘の依頼",
+        "note": "収録済みの後続関係。出現には他の条件もあり、前提・後続の詳細を確認してください。"
+      },
+      "targetQuestId": "hub-5-recipe-238233",
+      "source": "http://wiki.mhxg.org/ida/238233.html",
+      "reason": "今回収録した後続について、未収録という古い注記だけを更新。解放要素の種類・名称は保持。"
+    },
+    {
+      "questId": "village-2-recipe-220164",
+      "label": "後続依頼：タンジアの港の看板娘の依頼1",
+      "kind": "other",
+      "before": {
+        "kind": "other",
+        "label": "後続依頼：タンジアの港の看板娘の依頼1",
+        "note": "村★1〜6には未収録の後続関係。出現条件の一部として記載されています。他の前提・会話・受注は未確認です。"
+      },
+      "after": {
+        "kind": "other",
+        "label": "後続依頼：タンジアの港の看板娘の依頼1",
+        "note": "収録済みの後続関係。出現には他の条件もあり、前提・後続の詳細を確認してください。"
+      },
+      "targetQuestId": "hub-5-recipe-238232",
+      "source": "http://wiki.mhxg.org/ida/238232.html",
+      "reason": "今回収録した後続について、未収録という古い注記だけを更新。解放要素の種類・名称は保持。"
+    },
+    {
+      "questId": "village-5-recipe-220224",
+      "label": "後続：依頼★ユクモ村の看板娘の依頼1",
+      "kind": "other",
+      "before": {
+        "kind": "other",
+        "label": "後続：依頼★ユクモ村の看板娘の依頼1",
+        "note": "未収録の後続関係。出現には他の条件もあり得ます。"
+      },
+      "after": {
+        "kind": "other",
+        "label": "後続：依頼★ユクモ村の看板娘の依頼1",
+        "note": "収録済みの後続関係。出現には他の条件もあり、前提・後続の詳細を確認してください。"
+      },
+      "targetQuestId": "hub-7-recipe-244697",
+      "source": "http://wiki.mhxg.org/ida/244697.html",
+      "reason": "今回収録した後続について、未収録という古い注記だけを更新。解放要素の種類・名称は保持。"
+    },
+    {
+      "questId": "village-6-recipe-220240",
+      "label": "後続：依頼★チャチャの依頼1",
+      "kind": "other",
+      "before": {
+        "kind": "other",
+        "label": "後続：依頼★チャチャの依頼1",
+        "note": "未収録の後続関係。出現には他の条件もあり得ます。"
+      },
+      "after": {
+        "kind": "other",
+        "label": "後続：依頼★チャチャの依頼1",
+        "note": "収録済みの後続関係。出現には他の条件もあり、前提・後続の詳細を確認してください。"
+      },
+      "targetQuestId": "hub-4-recipe-238226",
+      "source": "http://wiki.mhxg.org/ida/238226.html",
+      "reason": "今回収録した後続について、未収録という古い注記だけを更新。解放要素の種類・名称は保持。"
+    },
+    {
+      "questId": "village-6-recipe-244685",
+      "label": "後続：集★6凍てつく牙は獰猛に",
+      "kind": "other",
+      "before": {
+        "kind": "other",
+        "label": "後続：集★6凍てつく牙は獰猛に",
+        "note": "未収録の後続関係。出現には他の条件もあり得ます。"
+      },
+      "after": {
+        "kind": "other",
+        "label": "後続：集★6凍てつく牙は獰猛に",
+        "note": "収録済みの後続関係。出現には他の条件もあり、前提・後続の詳細を確認してください。"
+      },
+      "targetQuestId": "hub-6-recipe-251360",
+      "source": "http://wiki.mhxg.org/ida/251360.html",
+      "reason": "今回収録した後続について、未収録という古い注記だけを更新。解放要素の種類・名称は保持。"
+    },
+    {
+      "questId": "village-6-recipe-244685",
+      "label": "後続：集★6孤島の暴君、ダイミョウザザミ",
+      "kind": "other",
+      "before": {
+        "kind": "other",
+        "label": "後続：集★6孤島の暴君、ダイミョウザザミ",
+        "note": "未収録の後続関係。出現には他の条件もあり得ます。"
+      },
+      "after": {
+        "kind": "other",
+        "label": "後続：集★6孤島の暴君、ダイミョウザザミ",
+        "note": "収録済みの後続関係。出現には他の条件もあり、前提・後続の詳細を確認してください。"
+      },
+      "targetQuestId": "hub-6-recipe-251361",
+      "source": "http://wiki.mhxg.org/ida/251361.html",
+      "reason": "今回収録した後続について、未収録という古い注記だけを更新。解放要素の種類・名称は保持。"
+    },
+    {
+      "questId": "village-6-recipe-244685",
+      "label": "後続：集★6攻究せよ、鎌持つショウグン",
+      "kind": "other",
+      "before": {
+        "kind": "other",
+        "label": "後続：集★6攻究せよ、鎌持つショウグン",
+        "note": "未収録の後続関係。出現には他の条件もあり得ます。"
+      },
+      "after": {
+        "kind": "other",
+        "label": "後続：集★6攻究せよ、鎌持つショウグン",
+        "note": "収録済みの後続関係。出現には他の条件もあり、前提・後続の詳細を確認してください。"
+      },
+      "targetQuestId": "hub-6-recipe-251362",
+      "source": "http://wiki.mhxg.org/ida/251362.html",
+      "reason": "今回収録した後続について、未収録という古い注記だけを更新。解放要素の種類・名称は保持。"
+    }
+  ]
+}

@@ -1,9 +1,12 @@
+import upperConnections from "../../docs/upper-hub-connections.json";
 import { describe, expect, it } from "vitest";
 import baseline from "../../docs/progress-baseline-197.json";
 import { quests } from "./quests";
 import { dependents, evaluate, references } from "../lib/rules";
 const named = (name: string, rank: string) =>
-  quests.find((q) => q.name === name && q.rank === rank)!;
+  quests.find(
+    (q) => q.category === "village" && q.name === name && q.rank === rank,
+  )!;
 describe("upper village catalog and released progress", () => {
   it("preserves all 197 IDs and every existing unlock including PR4 research", () => {
     expect(baseline).toHaveLength(197);
@@ -14,7 +17,19 @@ describe("upper village catalog and released progress", () => {
         old.rank,
         old.recipeUrl,
       ]);
-      expect(q.unlocks).toEqual(expect.arrayContaining(old.unlocks));
+      expect(q.unlocks).toEqual(
+        expect.arrayContaining(
+          old.unlocks.map(
+            (u) =>
+              upperConnections.unlockNoteChanges.find(
+                (c) =>
+                  c.questId === old.id &&
+                  c.kind === u.kind &&
+                  c.label === u.label,
+              )?.after ?? u,
+          ),
+        ),
+      );
     }
   });
   it("connects 宿命 to the collected rank-7 urgent without dropping 廻り集いて回帰せん", () => {
@@ -166,6 +181,7 @@ describe("village 10 special conditions", () => {
     const required = quests
       .filter(
         (q) =>
+          q.category === "village" &&
           Number(q.rank) >= 7 &&
           Number(q.rank) <= 10 &&
           q.role === "hunter" &&
@@ -319,7 +335,9 @@ it("uses the fetched corporate pages to fill two wave-dash spelling variants ins
       q.sources.some((s) => s.site.startsWith("Game8") && s.checkedAt),
     ).toBe(true);
   }
-  for (const q of quests.filter((q) => Number(q.rank) >= 7))
+  for (const q of quests.filter(
+    (q) => q.category === "village" && Number(q.rank) >= 7,
+  ))
     expect(JSON.stringify(q.condition)).not.toContain(
       "出現前提を出典から特定できませんでした",
     );

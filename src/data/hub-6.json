@@ -1,0 +1,5574 @@
+[
+  {
+    "id": "hub-6-recipe-229704",
+    "name": "素敵な素敵な電竜頭",
+    "category": "hub",
+    "rank": "6",
+    "order": 0,
+    "role": "hunter",
+    "tags": ["key"],
+    "condition": {
+      "kind": "hr_at_least",
+      "value": 6
+    },
+    "npcNotes": ["受注・参加のHR条件：HR4以上（出現前提とは別）。"],
+    "unlocks": [],
+    "sources": [
+      {
+        "site": "MHXX攻略レシピ",
+        "url": "http://wiki.mhxg.org/ida/229704.html",
+        "kind": "detail",
+        "checkedAt": "2026-10-16"
+      },
+      {
+        "site": "MHXX攻略レシピ（ランク一覧）",
+        "url": "http://wiki.mhxg.org/data/2026.html",
+        "kind": "list",
+        "checkedAt": "2026-10-16"
+      },
+      {
+        "site": "Game8 MHXX（受注HR・補完）",
+        "url": "https://game8.jp/mh-xx/823518",
+        "kind": "detail",
+        "checkedAt": "2026-10-16"
+      }
+    ],
+    "verification": "partial",
+    "verificationNote": "攻略レシピの一覧・個別ページを照合。条件と解放要素の完全確認を意味しません。記録上の前提達成とゲーム内での受注・受領状態を区別します。",
+    "warnings": []
+  },
+  {
+    "id": "hub-6-recipe-229705",
+    "name": "轟竜狩猟は妹のため",
+    "category": "hub",
+    "rank": "6",
+    "order": 1,
+    "role": "hunter",
+    "tags": ["normal"],
+    "condition": {
+      "kind": "hr_at_least",
+      "value": 6
+    },
+    "npcNotes": ["受注・参加のHR条件：HR4以上（出現前提とは別）。"],
+    "unlocks": [
+      {
+        "kind": "other",
+        "label": "【特殊許可】荒鉤爪狩猟依頼１（出現前提）",
+        "note": "未収録クエストの出現前提の一つ。その他の受注条件・実際の出現はゲーム内で確認してください。"
+      }
+    ],
+    "sources": [
+      {
+        "site": "MHXX攻略レシピ",
+        "url": "http://wiki.mhxg.org/ida/229705.html",
+        "kind": "detail",
+        "checkedAt": "2026-10-16"
+      },
+      {
+        "site": "MHXX攻略レシピ（ランク一覧）",
+        "url": "http://wiki.mhxg.org/data/2026.html",
+        "kind": "list",
+        "checkedAt": "2026-10-16"
+      },
+      {
+        "site": "Game8 MHXX（受注HR・補完）",
+        "url": "https://game8.jp/mh-xx/823519",
+        "kind": "detail",
+        "checkedAt": "2026-10-16"
+      }
+    ],
+    "verification": "partial",
+    "verificationNote": "攻略レシピの一覧・個別ページを照合。条件と解放要素の完全確認を意味しません。記録上の前提達成とゲーム内での受注・受領状態を区別します。",
+    "warnings": []
+  },
+  {
+    "id": "hub-6-recipe-229706",
+    "name": "空の王者・リオレウス",
+    "category": "hub",
+    "rank": "6",
+    "order": 2,
+    "role": "hunter",
+    "tags": ["normal"],
+    "condition": {
+      "kind": "hr_at_least",
+      "value": 6
+    },
+    "npcNotes": ["受注・参加のHR条件：HR4以上（出現前提とは別）。"],
+    "unlocks": [
+      {
+        "kind": "other",
+        "label": "【特殊許可】黒炎王狩猟依頼１（出現前提）",
+        "note": "未収録クエストの出現前提の一つ。その他の受注条件・実際の出現はゲーム内で確認してください。"
+      }
+    ],
+    "sources": [
+      {
+        "site": "MHXX攻略レシピ",
+        "url": "http://wiki.mhxg.org/ida/229706.html",
+        "kind": "detail",
+        "checkedAt": "2026-10-16"
+      },
+      {
+        "site": "MHXX攻略レシピ（ランク一覧）",
+        "url": "http://wiki.mhxg.org/data/2026.html",
+        "kind": "list",
+        "checkedAt": "2026-10-16"
+      },
+      {
+        "site": "Game8 MHXX（受注HR・補完）",
+        "url": "https://game8.jp/mh-xx/823520",
+        "kind": "detail",
+        "checkedAt": "2026-10-16"
+      }
+    ],
+    "verification": "partial",
+    "verificationNote": "攻略レシピの一覧・個別ページを照合。条件と解放要素の完全確認を意味しません。記録上の前提達成とゲーム内での受注・受領状態を区別します。",
+    "warnings": []
+  },
+  {
+    "id": "hub-6-recipe-244687",
+    "name": "遺跡平原の黒蝕竜調査",
+    "category": "hub",
+    "rank": "6",
+    "order": 3,
+    "role": "hunter",
+    "tags": ["request"],
+    "condition": {
+      "kind": "all",
+      "rules": [
+        {
+          "kind": "quest_cleared",
+          "questId": "hub-7-recipe-229763"
+        },
+        {
+          "kind": "hr_at_least",
+          "value": 8
+        }
+      ]
+    },
+    "npcNotes": [
+      "ベルナ村 筆頭リーダーの依頼1を受注し、達成後に依頼主へ報告する。",
+      "受注・参加のHR条件：HR8以上（出現前提とは別）。"
+    ],
+    "unlocks": [
+      {
+        "kind": "hunter_art",
+        "label": "狂竜身 (共通)"
+      }
+    ],
+    "sources": [
+      {
+        "site": "MHXX攻略レシピ",
+        "url": "http://wiki.mhxg.org/ida/244687.html",
+        "kind": "detail",
+        "checkedAt": "2026-10-16"
+      },
+      {
+        "site": "MHXX攻略レシピ（ランク一覧）",
+        "url": "http://wiki.mhxg.org/data/2026.html",
+        "kind": "list",
+        "checkedAt": "2026-10-16"
+      },
+      {
+        "site": "Game8 MHXX（受注HR・補完）",
+        "url": "https://game8.jp/mh-xx/823521",
+        "kind": "detail",
+        "checkedAt": "2026-10-16"
+      },
+      {
+        "site": "MHXX攻略Wiki（狩技）",
+        "url": "https://mhx-wiki.com/?MHXX%E3%81%AE%E7%8B%A9%E6%8A%80%E7%BF%92%E5%BE%97%E3%82%AF%E3%82%A8%E3%82%B9%E3%83%88%E3%81%BE%E3%81%A8%E3%82%81",
+        "kind": "list",
+        "checkedAt": "2026-10-16"
+      }
+    ],
+    "verification": "partial",
+    "verificationNote": "攻略レシピの一覧・個別ページを照合。条件と解放要素の完全確認を意味しません。記録上の前提達成とゲーム内での受注・受領状態を区別します。",
+    "warnings": []
+  },
+  {
+    "id": "hub-6-recipe-229707",
+    "name": "最も危険な晩餐",
+    "category": "hub",
+    "rank": "6",
+    "order": 4,
+    "role": "hunter",
+    "tags": ["key"],
+    "condition": {
+      "kind": "hr_at_least",
+      "value": 6
+    },
+    "npcNotes": ["受注・参加のHR条件：HR4以上（出現前提とは別）。"],
+    "unlocks": [],
+    "sources": [
+      {
+        "site": "MHXX攻略レシピ",
+        "url": "http://wiki.mhxg.org/ida/229707.html",
+        "kind": "detail",
+        "checkedAt": "2026-10-16"
+      },
+      {
+        "site": "MHXX攻略レシピ（ランク一覧）",
+        "url": "http://wiki.mhxg.org/data/2026.html",
+        "kind": "list",
+        "checkedAt": "2026-10-16"
+      },
+      {
+        "site": "Game8 MHXX（受注HR・補完）",
+        "url": "https://game8.jp/mh-xx/823522",
+        "kind": "detail",
+        "checkedAt": "2026-10-16"
+      }
+    ],
+    "verification": "partial",
+    "verificationNote": "攻略レシピの一覧・個別ページを照合。条件と解放要素の完全確認を意味しません。記録上の前提達成とゲーム内での受注・受領状態を区別します。",
+    "warnings": []
+  },
+  {
+    "id": "hub-6-recipe-228799",
+    "name": "妖艶なる舞",
+    "category": "hub",
+    "rank": "6",
+    "order": 5,
+    "role": "hunter",
+    "tags": ["urgent"],
+    "condition": {
+      "kind": "all",
+      "rules": [
+        {
+          "kind": "quest_cleared",
+          "questId": "hub-5-recipe-228775"
+        },
+        {
+          "kind": "quest_cleared",
+          "questId": "hub-5-recipe-228776"
+        },
+        {
+          "kind": "quest_cleared",
+          "questId": "hub-5-recipe-228778"
+        },
+        {
+          "kind": "quest_cleared",
+          "questId": "hub-5-recipe-228784"
+        },
+        {
+          "kind": "quest_cleared",
+          "questId": "hub-5-recipe-228792"
+        },
+        {
+          "kind": "hr_at_least",
+          "value": 4
+        }
+      ]
+    },
+    "npcNotes": [
+      "受注・参加のHR条件：HR4以上（出現前提とは別）。",
+      "ギルドマネージャーと話して緊急クエストを出現させる。"
+    ],
+    "unlocks": [
+      {
+        "kind": "other",
+        "label": "HR6への進行",
+        "note": "「妖艶なる舞」と「不動の山神」の両方のクリアが必要（AND）。実際の昇格・反映はゲーム内で確認してください。"
+      },
+      {
+        "kind": "facility",
+        "label": "オトモの初期雇用レベル20〜22の解放経路",
+        "note": "両緊急（妖艶なる舞＋不動の山神）達成によるHR6到達（AND）が別経路。集★5「炎天下の麻痺牙」クリアともOR。育成上限とは別です。"
+      },
+      {
+        "kind": "facility",
+        "label": "オトモの育成レベル上限35（集★6の両緊急）",
+        "note": "「妖艶なる舞」と「不動の山神」の両方のクリアが必要（AND）。村★7「ニャンター、お使い再び」、集★4「大師範の試練」、村★10「恐れ見よ、赤き災厄の彗星を」はそれぞれ別経路（OR）。"
+      }
+    ],
+    "sources": [
+      {
+        "site": "MHXX攻略レシピ",
+        "url": "http://wiki.mhxg.org/ida/228799.html",
+        "kind": "detail",
+        "checkedAt": "2026-10-16"
+      },
+      {
+        "site": "MHXX攻略レシピ（ランク一覧）",
+        "url": "http://wiki.mhxg.org/data/2026.html",
+        "kind": "list",
+        "checkedAt": "2026-10-16"
+      },
+      {
+        "site": "Game8 MHXX（受注HR・補完）",
+        "url": "https://game8.jp/mh-xx/823523",
+        "kind": "detail",
+        "checkedAt": "2026-10-16"
+      },
+      {
+        "site": "MHXXニャンターwiki（オトモ）",
+        "url": "https://w.atwiki.jp/mhxxnyanter/pages/20.html",
+        "kind": "list",
+        "checkedAt": "2026-10-16"
+      },
+      {
+        "site": "MHXXニャンターwiki（ニャンタークエスト）",
+        "url": "https://w.atwiki.jp/mhxxnyanter/pages/24.html",
+        "kind": "list",
+        "checkedAt": "2026-10-16"
+      }
+    ],
+    "verification": "partial",
+    "verificationNote": "攻略レシピの一覧・個別ページを照合。条件と解放要素の完全確認を意味しません。記録上の前提達成とゲーム内での受注・受領状態を区別します。",
+    "warnings": []
+  },
+  {
+    "id": "hub-6-recipe-229708",
+    "name": "跳梁し意思を用いず悪成さば",
+    "category": "hub",
+    "rank": "6",
+    "order": 6,
+    "role": "hunter",
+    "tags": ["normal"],
+    "condition": {
+      "kind": "hr_at_least",
+      "value": 6
+    },
+    "npcNotes": ["受注・参加のHR条件：HR4以上（出現前提とは別）。"],
+    "unlocks": [],
+    "sources": [
+      {
+        "site": "MHXX攻略レシピ",
+        "url": "http://wiki.mhxg.org/ida/229708.html",
+        "kind": "detail",
+        "checkedAt": "2026-10-16"
+      },
+      {
+        "site": "MHXX攻略レシピ（ランク一覧）",
+        "url": "http://wiki.mhxg.org/data/2026.html",
+        "kind": "list",
+        "checkedAt": "2026-10-16"
+      },
+      {
+        "site": "Game8 MHXX（受注HR・補完）",
+        "url": "https://game8.jp/mh-xx/823524",
+        "kind": "detail",
+        "checkedAt": "2026-10-16"
+      }
+    ],
+    "verification": "partial",
+    "verificationNote": "攻略レシピの一覧・個別ページを照合。条件と解放要素の完全確認を意味しません。記録上の前提達成とゲーム内での受注・受領状態を区別します。",
+    "warnings": []
+  },
+  {
+    "id": "hub-6-recipe-314986",
+    "name": "ベリオロスの狩猟",
+    "category": "hub",
+    "rank": "6",
+    "order": 7,
+    "role": "hunter",
+    "tags": ["normal"],
+    "condition": {
+      "kind": "all",
+      "rules": [
+        {
+          "kind": "hr_at_least",
+          "value": 4
+        },
+        {
+          "kind": "quest_cleared",
+          "questId": "hub-6-recipe-228799"
+        },
+        {
+          "kind": "quest_cleared",
+          "questId": "hub-6-recipe-228800"
+        }
+      ]
+    },
+    "npcNotes": [
+      "受注・参加のHR条件：HR4以上（出現前提とは別）。",
+      "ギルドマネージャーと話す。"
+    ],
+    "unlocks": [],
+    "sources": [
+      {
+        "site": "MHXX攻略レシピ",
+        "url": "http://wiki.mhxg.org/ida/314986.html",
+        "kind": "detail",
+        "checkedAt": "2026-10-16"
+      },
+      {
+        "site": "MHXX攻略レシピ（ランク一覧）",
+        "url": "http://wiki.mhxg.org/data/2026.html",
+        "kind": "list",
+        "checkedAt": "2026-10-16"
+      },
+      {
+        "site": "Game8 MHXX（受注HR・補完）",
+        "url": "https://game8.jp/mh-xx/823525",
+        "kind": "detail",
+        "checkedAt": "2026-10-16"
+      }
+    ],
+    "verification": "partial",
+    "verificationNote": "攻略レシピの一覧・個別ページを照合。条件と解放要素の完全確認を意味しません。記録上の前提達成とゲーム内での受注・受領状態を区別します。",
+    "warnings": []
+  },
+  {
+    "id": "hub-6-recipe-228800",
+    "name": "不動の山神",
+    "category": "hub",
+    "rank": "6",
+    "order": 8,
+    "role": "hunter",
+    "tags": ["urgent"],
+    "condition": {
+      "kind": "all",
+      "rules": [
+        {
+          "kind": "quest_cleared",
+          "questId": "hub-5-recipe-228775"
+        },
+        {
+          "kind": "quest_cleared",
+          "questId": "hub-5-recipe-228776"
+        },
+        {
+          "kind": "quest_cleared",
+          "questId": "hub-5-recipe-228778"
+        },
+        {
+          "kind": "quest_cleared",
+          "questId": "hub-5-recipe-228784"
+        },
+        {
+          "kind": "quest_cleared",
+          "questId": "hub-5-recipe-228792"
+        },
+        {
+          "kind": "hr_at_least",
+          "value": 4
+        }
+      ]
+    },
+    "npcNotes": [
+      "受注・参加のHR条件：HR4以上（出現前提とは別）。",
+      "ギルドマネージャーと話して緊急クエストを出現させる。"
+    ],
+    "unlocks": [
+      {
+        "kind": "other",
+        "label": "HR6への進行",
+        "note": "「妖艶なる舞」と「不動の山神」の両方のクリアが必要（AND）。実際の昇格・反映はゲーム内で確認してください。"
+      },
+      {
+        "kind": "facility",
+        "label": "オトモの初期雇用レベル20〜22の解放経路",
+        "note": "両緊急（妖艶なる舞＋不動の山神）達成によるHR6到達（AND）が別経路。集★5「炎天下の麻痺牙」クリアともOR。育成上限とは別です。"
+      },
+      {
+        "kind": "facility",
+        "label": "オトモの育成レベル上限35（集★6の両緊急）",
+        "note": "「妖艶なる舞」と「不動の山神」の両方のクリアが必要（AND）。村★7「ニャンター、お使い再び」、集★4「大師範の試練」、村★10「恐れ見よ、赤き災厄の彗星を」はそれぞれ別経路（OR）。"
+      }
+    ],
+    "sources": [
+      {
+        "site": "MHXX攻略レシピ",
+        "url": "http://wiki.mhxg.org/ida/228800.html",
+        "kind": "detail",
+        "checkedAt": "2026-10-16"
+      },
+      {
+        "site": "MHXX攻略レシピ（ランク一覧）",
+        "url": "http://wiki.mhxg.org/data/2026.html",
+        "kind": "list",
+        "checkedAt": "2026-10-16"
+      },
+      {
+        "site": "Game8 MHXX（受注HR・補完）",
+        "url": "https://game8.jp/mh-xx/823526",
+        "kind": "detail",
+        "checkedAt": "2026-10-16"
+      },
+      {
+        "site": "MHXXニャンターwiki（オトモ）",
+        "url": "https://w.atwiki.jp/mhxxnyanter/pages/20.html",
+        "kind": "list",
+        "checkedAt": "2026-10-16"
+      },
+      {
+        "site": "MHXXニャンターwiki（ニャンタークエスト）",
+        "url": "https://w.atwiki.jp/mhxxnyanter/pages/24.html",
+        "kind": "list",
+        "checkedAt": "2026-10-16"
+      }
+    ],
+    "verification": "partial",
+    "verificationNote": "攻略レシピの一覧・個別ページを照合。条件と解放要素の完全確認を意味しません。記録上の前提達成とゲーム内での受注・受領状態を区別します。",
+    "warnings": []
+  },
+  {
+    "id": "hub-6-recipe-229709",
+    "name": "狩られる前に狩れ！",
+    "category": "hub",
+    "rank": "6",
+    "order": 9,
+    "role": "hunter",
+    "tags": ["normal"],
+    "condition": {
+      "kind": "hr_at_least",
+      "value": 6
+    },
+    "npcNotes": ["受注・参加のHR条件：HR4以上（出現前提とは別）。"],
+    "unlocks": [
+      {
+        "kind": "hunter_art",
+        "label": "練気解放円月斬り LV3"
+      },
+      {
+        "kind": "hunter_art",
+        "label": "オルケスタソウル LV3"
+      },
+      {
+        "kind": "other",
+        "label": "【特殊許可】金雷公狩猟依頼１（出現前提）",
+        "note": "未収録クエストの出現前提の一つ。その他の受注条件・実際の出現はゲーム内で確認してください。"
+      }
+    ],
+    "sources": [
+      {
+        "site": "MHXX攻略レシピ",
+        "url": "http://wiki.mhxg.org/ida/229709.html",
+        "kind": "detail",
+        "checkedAt": "2026-10-16"
+      },
+      {
+        "site": "MHXX攻略レシピ（ランク一覧）",
+        "url": "http://wiki.mhxg.org/data/2026.html",
+        "kind": "list",
+        "checkedAt": "2026-10-16"
+      },
+      {
+        "site": "Game8 MHXX（受注HR・補完）",
+        "url": "https://game8.jp/mh-xx/823527",
+        "kind": "detail",
+        "checkedAt": "2026-10-16"
+      },
+      {
+        "site": "MHXX攻略Wiki（狩技）",
+        "url": "https://mhx-wiki.com/?MHXX%E3%81%AE%E7%8B%A9%E6%8A%80%E7%BF%92%E5%BE%97%E3%82%AF%E3%82%A8%E3%82%B9%E3%83%88%E3%81%BE%E3%81%A8%E3%82%81",
+        "kind": "list",
+        "checkedAt": "2026-10-16"
+      }
+    ],
+    "verification": "partial",
+    "verificationNote": "攻略レシピの一覧・個別ページを照合。条件と解放要素の完全確認を意味しません。記録上の前提達成とゲーム内での受注・受領状態を区別します。",
+    "warnings": []
+  },
+  {
+    "id": "hub-6-recipe-229710",
+    "name": "恐暴竜の根城",
+    "category": "hub",
+    "rank": "6",
+    "order": 10,
+    "role": "hunter",
+    "tags": ["normal"],
+    "condition": {
+      "kind": "hr_at_least",
+      "value": 6
+    },
+    "npcNotes": ["受注・参加のHR条件：HR4以上（出現前提とは別）。"],
+    "unlocks": [],
+    "sources": [
+      {
+        "site": "MHXX攻略レシピ",
+        "url": "http://wiki.mhxg.org/ida/229710.html",
+        "kind": "detail",
+        "checkedAt": "2026-10-16"
+      },
+      {
+        "site": "MHXX攻略レシピ（ランク一覧）",
+        "url": "http://wiki.mhxg.org/data/2026.html",
+        "kind": "list",
+        "checkedAt": "2026-10-16"
+      },
+      {
+        "site": "Game8 MHXX（受注HR・補完）",
+        "url": "https://game8.jp/mh-xx/823528",
+        "kind": "detail",
+        "checkedAt": "2026-10-16"
+      }
+    ],
+    "verification": "partial",
+    "verificationNote": "攻略レシピの一覧・個別ページを照合。条件と解放要素の完全確認を意味しません。記録上の前提達成とゲーム内での受注・受領状態を区別します。",
+    "warnings": []
+  },
+  {
+    "id": "hub-6-recipe-229711",
+    "name": "氷海の精算アイテム納品",
+    "category": "hub",
+    "rank": "6",
+    "order": 11,
+    "role": "hunter",
+    "tags": ["normal"],
+    "condition": {
+      "kind": "hr_at_least",
+      "value": 6
+    },
+    "npcNotes": ["受注・参加のHR条件：HR4以上（出現前提とは別）。"],
+    "unlocks": [],
+    "sources": [
+      {
+        "site": "MHXX攻略レシピ",
+        "url": "http://wiki.mhxg.org/ida/229711.html",
+        "kind": "detail",
+        "checkedAt": "2026-10-16"
+      },
+      {
+        "site": "MHXX攻略レシピ（ランク一覧）",
+        "url": "http://wiki.mhxg.org/data/2026.html",
+        "kind": "list",
+        "checkedAt": "2026-10-16"
+      },
+      {
+        "site": "Game8 MHXX（受注HR・補完）",
+        "url": "https://game8.jp/mh-xx/823529",
+        "kind": "detail",
+        "checkedAt": "2026-10-16"
+      }
+    ],
+    "verification": "partial",
+    "verificationNote": "攻略レシピの一覧・個別ページを照合。条件と解放要素の完全確認を意味しません。記録上の前提達成とゲーム内での受注・受領状態を区別します。",
+    "warnings": []
+  },
+  {
+    "id": "hub-6-recipe-314987",
+    "name": "意気地なしには鎧竜で喝！",
+    "category": "hub",
+    "rank": "6",
+    "order": 12,
+    "role": "hunter",
+    "tags": ["normal"],
+    "condition": {
+      "kind": "all",
+      "rules": [
+        {
+          "kind": "hr_at_least",
+          "value": 4
+        },
+        {
+          "kind": "quest_cleared",
+          "questId": "hub-6-recipe-228799"
+        },
+        {
+          "kind": "quest_cleared",
+          "questId": "hub-6-recipe-228800"
+        }
+      ]
+    },
+    "npcNotes": [
+      "受注・参加のHR条件：HR4以上（出現前提とは別）。",
+      "ギルドマネージャーと話す。"
+    ],
+    "unlocks": [],
+    "sources": [
+      {
+        "site": "MHXX攻略レシピ",
+        "url": "http://wiki.mhxg.org/ida/314987.html",
+        "kind": "detail",
+        "checkedAt": "2026-10-16"
+      },
+      {
+        "site": "MHXX攻略レシピ（ランク一覧）",
+        "url": "http://wiki.mhxg.org/data/2026.html",
+        "kind": "list",
+        "checkedAt": "2026-10-16"
+      },
+      {
+        "site": "Game8 MHXX（受注HR・補完）",
+        "url": "https://game8.jp/mh-xx/823530",
+        "kind": "detail",
+        "checkedAt": "2026-10-16"
+      }
+    ],
+    "verification": "partial",
+    "verificationNote": "攻略レシピの一覧・個別ページを照合。条件と解放要素の完全確認を意味しません。記録上の前提達成とゲーム内での受注・受領状態を区別します。",
+    "warnings": []
+  },
+  {
+    "id": "hub-6-recipe-229712",
+    "name": "火の海に棲む竜！",
+    "category": "hub",
+    "rank": "6",
+    "order": 13,
+    "role": "hunter",
+    "tags": ["key"],
+    "condition": {
+      "kind": "hr_at_least",
+      "value": 6
+    },
+    "npcNotes": ["受注・参加のHR条件：HR4以上（出現前提とは別）。"],
+    "unlocks": [],
+    "sources": [
+      {
+        "site": "MHXX攻略レシピ",
+        "url": "http://wiki.mhxg.org/ida/229712.html",
+        "kind": "detail",
+        "checkedAt": "2026-10-16"
+      },
+      {
+        "site": "MHXX攻略レシピ（ランク一覧）",
+        "url": "http://wiki.mhxg.org/data/2026.html",
+        "kind": "list",
+        "checkedAt": "2026-10-16"
+      },
+      {
+        "site": "Game8 MHXX（受注HR・補完）",
+        "url": "https://game8.jp/mh-xx/823531",
+        "kind": "detail",
+        "checkedAt": "2026-10-16"
+      }
+    ],
+    "verification": "partial",
+    "verificationNote": "攻略レシピの一覧・個別ページを照合。条件と解放要素の完全確認を意味しません。記録上の前提達成とゲーム内での受注・受領状態を区別します。",
+    "warnings": []
+  },
+  {
+    "id": "hub-6-recipe-229713",
+    "name": "出陣！地底火山の果し合い！",
+    "category": "hub",
+    "rank": "6",
+    "order": 14,
+    "role": "hunter",
+    "tags": ["key"],
+    "condition": {
+      "kind": "hr_at_least",
+      "value": 6
+    },
+    "npcNotes": ["受注・参加のHR条件：HR4以上（出現前提とは別）。"],
+    "unlocks": [
+      {
+        "kind": "other",
+        "label": "【特殊許可】燼滅刃狩猟依頼１（出現前提）",
+        "note": "未収録クエストの出現前提の一つ。その他の受注条件・実際の出現はゲーム内で確認してください。"
+      }
+    ],
+    "sources": [
+      {
+        "site": "MHXX攻略レシピ",
+        "url": "http://wiki.mhxg.org/ida/229713.html",
+        "kind": "detail",
+        "checkedAt": "2026-10-16"
+      },
+      {
+        "site": "MHXX攻略レシピ（ランク一覧）",
+        "url": "http://wiki.mhxg.org/data/2026.html",
+        "kind": "list",
+        "checkedAt": "2026-10-16"
+      },
+      {
+        "site": "Game8 MHXX（受注HR・補完）",
+        "url": "https://game8.jp/mh-xx/823532",
+        "kind": "detail",
+        "checkedAt": "2026-10-16"
+      }
+    ],
+    "verification": "partial",
+    "verificationNote": "攻略レシピの一覧・個別ページを照合。条件と解放要素の完全確認を意味しません。記録上の前提達成とゲーム内での受注・受領状態を区別します。",
+    "warnings": []
+  },
+  {
+    "id": "hub-6-recipe-229714",
+    "name": "地底火山の精算アイテム納品",
+    "category": "hub",
+    "rank": "6",
+    "order": 15,
+    "role": "hunter",
+    "tags": ["normal"],
+    "condition": {
+      "kind": "hr_at_least",
+      "value": 6
+    },
+    "npcNotes": ["受注・参加のHR条件：HR4以上（出現前提とは別）。"],
+    "unlocks": [],
+    "sources": [
+      {
+        "site": "MHXX攻略レシピ",
+        "url": "http://wiki.mhxg.org/ida/229714.html",
+        "kind": "detail",
+        "checkedAt": "2026-10-16"
+      },
+      {
+        "site": "MHXX攻略レシピ（ランク一覧）",
+        "url": "http://wiki.mhxg.org/data/2026.html",
+        "kind": "list",
+        "checkedAt": "2026-10-16"
+      },
+      {
+        "site": "Game8 MHXX（受注HR・補完）",
+        "url": "https://game8.jp/mh-xx/823533",
+        "kind": "detail",
+        "checkedAt": "2026-10-16"
+      }
+    ],
+    "verification": "partial",
+    "verificationNote": "攻略レシピの一覧・個別ページを照合。条件と解放要素の完全確認を意味しません。記録上の前提達成とゲーム内での受注・受領状態を区別します。",
+    "warnings": []
+  },
+  {
+    "id": "hub-6-recipe-229715",
+    "name": "重厚で重甲な晩餐？",
+    "category": "hub",
+    "rank": "6",
+    "order": 16,
+    "role": "hunter",
+    "tags": ["normal"],
+    "condition": {
+      "kind": "hr_at_least",
+      "value": 6
+    },
+    "npcNotes": ["受注・参加のHR条件：HR4以上（出現前提とは別）。"],
+    "unlocks": [],
+    "sources": [
+      {
+        "site": "MHXX攻略レシピ",
+        "url": "http://wiki.mhxg.org/ida/229715.html",
+        "kind": "detail",
+        "checkedAt": "2026-10-16"
+      },
+      {
+        "site": "MHXX攻略レシピ（ランク一覧）",
+        "url": "http://wiki.mhxg.org/data/2026.html",
+        "kind": "list",
+        "checkedAt": "2026-10-16"
+      },
+      {
+        "site": "Game8 MHXX（受注HR・補完）",
+        "url": "https://game8.jp/mh-xx/823534",
+        "kind": "detail",
+        "checkedAt": "2026-10-16"
+      }
+    ],
+    "verification": "partial",
+    "verificationNote": "攻略レシピの一覧・個別ページを照合。条件と解放要素の完全確認を意味しません。記録上の前提達成とゲーム内での受注・受領状態を区別します。",
+    "warnings": []
+  },
+  {
+    "id": "hub-6-recipe-229716",
+    "name": "天と地の領域！",
+    "category": "hub",
+    "rank": "6",
+    "order": 17,
+    "role": "hunter",
+    "tags": ["normal"],
+    "condition": {
+      "kind": "hr_at_least",
+      "value": 6
+    },
+    "npcNotes": ["受注・参加のHR条件：HR4以上（出現前提とは別）。"],
+    "unlocks": [],
+    "sources": [
+      {
+        "site": "MHXX攻略レシピ",
+        "url": "http://wiki.mhxg.org/ida/229716.html",
+        "kind": "detail",
+        "checkedAt": "2026-10-16"
+      },
+      {
+        "site": "MHXX攻略レシピ（ランク一覧）",
+        "url": "http://wiki.mhxg.org/data/2026.html",
+        "kind": "list",
+        "checkedAt": "2026-10-16"
+      },
+      {
+        "site": "Game8 MHXX（受注HR・補完）",
+        "url": "https://game8.jp/mh-xx/823535",
+        "kind": "detail",
+        "checkedAt": "2026-10-16"
+      }
+    ],
+    "verification": "partial",
+    "verificationNote": "攻略レシピの一覧・個別ページを照合。条件と解放要素の完全確認を意味しません。記録上の前提達成とゲーム内での受注・受領状態を区別します。",
+    "warnings": []
+  },
+  {
+    "id": "hub-6-recipe-229717",
+    "name": "砂漠の彼方から",
+    "category": "hub",
+    "rank": "6",
+    "order": 18,
+    "role": "hunter",
+    "tags": ["normal"],
+    "condition": {
+      "kind": "hr_at_least",
+      "value": 6
+    },
+    "npcNotes": ["受注・参加のHR条件：HR4以上（出現前提とは別）。"],
+    "unlocks": [
+      {
+        "kind": "hunter_art",
+        "label": "地衝斬 LV3"
+      },
+      {
+        "kind": "hunter_art",
+        "label": "エキスハンター LV3"
+      }
+    ],
+    "sources": [
+      {
+        "site": "MHXX攻略レシピ",
+        "url": "http://wiki.mhxg.org/ida/229717.html",
+        "kind": "detail",
+        "checkedAt": "2026-10-16"
+      },
+      {
+        "site": "MHXX攻略レシピ（ランク一覧）",
+        "url": "http://wiki.mhxg.org/data/2026.html",
+        "kind": "list",
+        "checkedAt": "2026-10-16"
+      },
+      {
+        "site": "Game8 MHXX（受注HR・補完）",
+        "url": "https://game8.jp/mh-xx/823536",
+        "kind": "detail",
+        "checkedAt": "2026-10-16"
+      },
+      {
+        "site": "MHXX攻略Wiki（狩技）",
+        "url": "https://mhx-wiki.com/?MHXX%E3%81%AE%E7%8B%A9%E6%8A%80%E7%BF%92%E5%BE%97%E3%82%AF%E3%82%A8%E3%82%B9%E3%83%88%E3%81%BE%E3%81%A8%E3%82%81",
+        "kind": "list",
+        "checkedAt": "2026-10-16"
+      }
+    ],
+    "verification": "partial",
+    "verificationNote": "攻略レシピの一覧・個別ページを照合。条件と解放要素の完全確認を意味しません。記録上の前提達成とゲーム内での受注・受領状態を区別します。",
+    "warnings": []
+  },
+  {
+    "id": "hub-6-recipe-229718",
+    "name": "猿王伝説！",
+    "category": "hub",
+    "rank": "6",
+    "order": 19,
+    "role": "hunter",
+    "tags": ["normal"],
+    "condition": {
+      "kind": "hr_at_least",
+      "value": 6
+    },
+    "npcNotes": ["受注・参加のHR条件：HR4以上（出現前提とは別）。"],
+    "unlocks": [],
+    "sources": [
+      {
+        "site": "MHXX攻略レシピ",
+        "url": "http://wiki.mhxg.org/ida/229718.html",
+        "kind": "detail",
+        "checkedAt": "2026-10-16"
+      },
+      {
+        "site": "MHXX攻略レシピ（ランク一覧）",
+        "url": "http://wiki.mhxg.org/data/2026.html",
+        "kind": "list",
+        "checkedAt": "2026-10-16"
+      },
+      {
+        "site": "Game8 MHXX（受注HR・補完）",
+        "url": "https://game8.jp/mh-xx/823537",
+        "kind": "detail",
+        "checkedAt": "2026-10-16"
+      }
+    ],
+    "verification": "partial",
+    "verificationNote": "攻略レシピの一覧・個別ページを照合。条件と解放要素の完全確認を意味しません。記録上の前提達成とゲーム内での受注・受領状態を区別します。",
+    "warnings": []
+  },
+  {
+    "id": "hub-6-recipe-229719",
+    "name": "ライゼクスの支配圏",
+    "category": "hub",
+    "rank": "6",
+    "order": 20,
+    "role": "hunter",
+    "tags": ["normal"],
+    "condition": {
+      "kind": "hr_at_least",
+      "value": 6
+    },
+    "npcNotes": ["受注・参加のHR条件：HR4以上（出現前提とは別）。"],
+    "unlocks": [],
+    "sources": [
+      {
+        "site": "MHXX攻略レシピ",
+        "url": "http://wiki.mhxg.org/ida/229719.html",
+        "kind": "detail",
+        "checkedAt": "2026-10-16"
+      },
+      {
+        "site": "MHXX攻略レシピ（ランク一覧）",
+        "url": "http://wiki.mhxg.org/data/2026.html",
+        "kind": "list",
+        "checkedAt": "2026-10-16"
+      },
+      {
+        "site": "Game8 MHXX（受注HR・補完）",
+        "url": "https://game8.jp/mh-xx/823538",
+        "kind": "detail",
+        "checkedAt": "2026-10-16"
+      }
+    ],
+    "verification": "partial",
+    "verificationNote": "攻略レシピの一覧・個別ページを照合。条件と解放要素の完全確認を意味しません。記録上の前提達成とゲーム内での受注・受領状態を区別します。",
+    "warnings": []
+  },
+  {
+    "id": "hub-6-recipe-229720",
+    "name": "リオレウス狩猟指令",
+    "category": "hub",
+    "rank": "6",
+    "order": 21,
+    "role": "hunter",
+    "tags": ["normal"],
+    "condition": {
+      "kind": "hr_at_least",
+      "value": 6
+    },
+    "npcNotes": ["受注・参加のHR条件：HR4以上（出現前提とは別）。"],
+    "unlocks": [
+      {
+        "kind": "other",
+        "label": "【特殊許可】黒炎王狩猟依頼１（出現前提）",
+        "note": "未収録クエストの出現前提の一つ。その他の受注条件・実際の出現はゲーム内で確認してください。"
+      }
+    ],
+    "sources": [
+      {
+        "site": "MHXX攻略レシピ",
+        "url": "http://wiki.mhxg.org/ida/229720.html",
+        "kind": "detail",
+        "checkedAt": "2026-10-16"
+      },
+      {
+        "site": "MHXX攻略レシピ（ランク一覧）",
+        "url": "http://wiki.mhxg.org/data/2026.html",
+        "kind": "list",
+        "checkedAt": "2026-10-16"
+      },
+      {
+        "site": "Game8 MHXX（受注HR・補完）",
+        "url": "https://game8.jp/mh-xx/823539",
+        "kind": "detail",
+        "checkedAt": "2026-10-16"
+      }
+    ],
+    "verification": "partial",
+    "verificationNote": "攻略レシピの一覧・個別ページを照合。条件と解放要素の完全確認を意味しません。記録上の前提達成とゲーム内での受注・受領状態を区別します。",
+    "warnings": []
+  },
+  {
+    "id": "hub-6-recipe-229721",
+    "name": "吹雪に立つ金獅子",
+    "category": "hub",
+    "rank": "6",
+    "order": 22,
+    "role": "hunter",
+    "tags": ["normal"],
+    "condition": {
+      "kind": "hr_at_least",
+      "value": 6
+    },
+    "npcNotes": ["受注・参加のHR条件：HR4以上（出現前提とは別）。"],
+    "unlocks": [],
+    "sources": [
+      {
+        "site": "MHXX攻略レシピ",
+        "url": "http://wiki.mhxg.org/ida/229721.html",
+        "kind": "detail",
+        "checkedAt": "2026-10-16"
+      },
+      {
+        "site": "MHXX攻略レシピ（ランク一覧）",
+        "url": "http://wiki.mhxg.org/data/2026.html",
+        "kind": "list",
+        "checkedAt": "2026-10-16"
+      },
+      {
+        "site": "Game8 MHXX（受注HR・補完）",
+        "url": "https://game8.jp/mh-xx/823540",
+        "kind": "detail",
+        "checkedAt": "2026-10-16"
+      }
+    ],
+    "verification": "partial",
+    "verificationNote": "攻略レシピの一覧・個別ページを照合。条件と解放要素の完全確認を意味しません。記録上の前提達成とゲーム内での受注・受領状態を区別します。",
+    "warnings": []
+  },
+  {
+    "id": "hub-6-recipe-229722",
+    "name": "憤激する巨獣",
+    "category": "hub",
+    "rank": "6",
+    "order": 23,
+    "role": "hunter",
+    "tags": ["normal"],
+    "condition": {
+      "kind": "hr_at_least",
+      "value": 6
+    },
+    "npcNotes": ["受注・参加のHR条件：HR4以上（出現前提とは別）。"],
+    "unlocks": [],
+    "sources": [
+      {
+        "site": "MHXX攻略レシピ",
+        "url": "http://wiki.mhxg.org/ida/229722.html",
+        "kind": "detail",
+        "checkedAt": "2026-10-16"
+      },
+      {
+        "site": "MHXX攻略レシピ（ランク一覧）",
+        "url": "http://wiki.mhxg.org/data/2026.html",
+        "kind": "list",
+        "checkedAt": "2026-10-16"
+      },
+      {
+        "site": "Game8 MHXX（受注HR・補完）",
+        "url": "https://game8.jp/mh-xx/823541",
+        "kind": "detail",
+        "checkedAt": "2026-10-16"
+      }
+    ],
+    "verification": "partial",
+    "verificationNote": "攻略レシピの一覧・個別ページを照合。条件と解放要素の完全確認を意味しません。記録上の前提達成とゲーム内での受注・受領状態を区別します。",
+    "warnings": []
+  },
+  {
+    "id": "hub-6-recipe-238245",
+    "name": "ドドドドブランゴ！",
+    "category": "hub",
+    "rank": "6",
+    "order": 24,
+    "role": "hunter",
+    "tags": ["request"],
+    "condition": {
+      "kind": "all",
+      "rules": [
+        {
+          "kind": "quest_cleared",
+          "questId": "village-5-recipe-219993"
+        },
+        {
+          "kind": "external_flag",
+          "label": "ポッケ村の受付嬢の依頼1：納品 ユクモの木 x4ガウシカの角 x2巨獣の鼻棘 x1"
+        },
+        {
+          "kind": "hr_at_least",
+          "value": 6
+        }
+      ]
+    },
+    "npcNotes": [
+      "ポッケ村 ジャンボ村の看板娘の依頼を受注し、達成後に依頼主へ報告する。",
+      "受注・参加のHR条件：HR4以上（出現前提とは別）。"
+    ],
+    "unlocks": [
+      {
+        "kind": "other",
+        "label": "ヘルパーS/ヒーラーSシリーズ（製法）",
+        "note": "依頼達成・報告後の製法解放。装備そのものの入手ではありません。"
+      },
+      {
+        "kind": "other",
+        "label": "ヘルパーU/ヒーラーUシリーズ（製法）",
+        "note": "依頼達成・報告後の製法解放。装備そのものの入手ではありません。"
+      },
+      {
+        "kind": "other",
+        "label": "ポッケＳネコモップ（製法）",
+        "note": "依頼達成・報告後の製法解放。装備そのものの入手ではありません。"
+      },
+      {
+        "kind": "other",
+        "label": "ヘルパーＳネコフード（製法）",
+        "note": "依頼達成・報告後の製法解放。装備そのものの入手ではありません。"
+      },
+      {
+        "kind": "other",
+        "label": "ヘルパーＳネコメイル（製法）",
+        "note": "依頼達成・報告後の製法解放。装備そのものの入手ではありません。"
+      }
+    ],
+    "sources": [
+      {
+        "site": "MHXX攻略レシピ",
+        "url": "http://wiki.mhxg.org/ida/238245.html",
+        "kind": "detail",
+        "checkedAt": "2026-10-16"
+      },
+      {
+        "site": "MHXX攻略レシピ（ランク一覧）",
+        "url": "http://wiki.mhxg.org/data/2026.html",
+        "kind": "list",
+        "checkedAt": "2026-10-16"
+      },
+      {
+        "site": "MHXX攻略レシピ（前提依頼）",
+        "url": "http://wiki.mhxg.org/ida/243442.html",
+        "kind": "detail",
+        "checkedAt": "2026-10-16"
+      },
+      {
+        "site": "Game8 MHXX（受注HR・補完）",
+        "url": "https://game8.jp/mh-xx/823542",
+        "kind": "detail",
+        "checkedAt": "2026-10-16"
+      }
+    ],
+    "verification": "partial",
+    "verificationNote": "攻略レシピの一覧・個別ページを照合。条件と解放要素の完全確認を意味しません。記録上の前提達成とゲーム内での受注・受領状態を区別します。",
+    "warnings": []
+  },
+  {
+    "id": "hub-6-recipe-229723",
+    "name": "泡につつまれ狐につままれ",
+    "category": "hub",
+    "rank": "6",
+    "order": 25,
+    "role": "hunter",
+    "tags": ["normal"],
+    "condition": {
+      "kind": "hr_at_least",
+      "value": 6
+    },
+    "npcNotes": ["受注・参加のHR条件：HR4以上（出現前提とは別）。"],
+    "unlocks": [],
+    "sources": [
+      {
+        "site": "MHXX攻略レシピ",
+        "url": "http://wiki.mhxg.org/ida/229723.html",
+        "kind": "detail",
+        "checkedAt": "2026-10-16"
+      },
+      {
+        "site": "MHXX攻略レシピ（ランク一覧）",
+        "url": "http://wiki.mhxg.org/data/2026.html",
+        "kind": "list",
+        "checkedAt": "2026-10-16"
+      },
+      {
+        "site": "Game8 MHXX（受注HR・補完）",
+        "url": "https://game8.jp/mh-xx/823543",
+        "kind": "detail",
+        "checkedAt": "2026-10-16"
+      }
+    ],
+    "verification": "partial",
+    "verificationNote": "攻略レシピの一覧・個別ページを照合。条件と解放要素の完全確認を意味しません。記録上の前提達成とゲーム内での受注・受領状態を区別します。",
+    "warnings": []
+  },
+  {
+    "id": "hub-6-recipe-229724",
+    "name": "動くこと、山の如し！",
+    "category": "hub",
+    "rank": "6",
+    "order": 26,
+    "role": "hunter",
+    "tags": ["normal"],
+    "condition": {
+      "kind": "hr_at_least",
+      "value": 6
+    },
+    "npcNotes": ["受注・参加のHR条件：HR4以上（出現前提とは別）。"],
+    "unlocks": [],
+    "sources": [
+      {
+        "site": "MHXX攻略レシピ",
+        "url": "http://wiki.mhxg.org/ida/229724.html",
+        "kind": "detail",
+        "checkedAt": "2026-10-16"
+      },
+      {
+        "site": "MHXX攻略レシピ（ランク一覧）",
+        "url": "http://wiki.mhxg.org/data/2026.html",
+        "kind": "list",
+        "checkedAt": "2026-10-16"
+      },
+      {
+        "site": "Game8 MHXX（受注HR・補完）",
+        "url": "https://game8.jp/mh-xx/823544",
+        "kind": "detail",
+        "checkedAt": "2026-10-16"
+      }
+    ],
+    "verification": "partial",
+    "verificationNote": "攻略レシピの一覧・個別ページを照合。条件と解放要素の完全確認を意味しません。記録上の前提達成とゲーム内での受注・受領状態を区別します。",
+    "warnings": []
+  },
+  {
+    "id": "hub-6-recipe-229725",
+    "name": "大海の王・ラギアクルス！",
+    "category": "hub",
+    "rank": "6",
+    "order": 27,
+    "role": "hunter",
+    "tags": ["normal"],
+    "condition": {
+      "kind": "hr_at_least",
+      "value": 6
+    },
+    "npcNotes": ["受注・参加のHR条件：HR4以上（出現前提とは別）。"],
+    "unlocks": [],
+    "sources": [
+      {
+        "site": "MHXX攻略レシピ",
+        "url": "http://wiki.mhxg.org/ida/229725.html",
+        "kind": "detail",
+        "checkedAt": "2026-10-16"
+      },
+      {
+        "site": "MHXX攻略レシピ（ランク一覧）",
+        "url": "http://wiki.mhxg.org/data/2026.html",
+        "kind": "list",
+        "checkedAt": "2026-10-16"
+      },
+      {
+        "site": "Game8 MHXX（受注HR・補完）",
+        "url": "https://game8.jp/mh-xx/823545",
+        "kind": "detail",
+        "checkedAt": "2026-10-16"
+      }
+    ],
+    "verification": "partial",
+    "verificationNote": "攻略レシピの一覧・個別ページを照合。条件と解放要素の完全確認を意味しません。記録上の前提達成とゲーム内での受注・受領状態を区別します。",
+    "warnings": []
+  },
+  {
+    "id": "hub-6-recipe-229726",
+    "name": "ジャギィノス掃討作戦",
+    "category": "hub",
+    "rank": "6",
+    "order": 28,
+    "role": "hunter",
+    "tags": ["normal"],
+    "condition": {
+      "kind": "hr_at_least",
+      "value": 6
+    },
+    "npcNotes": ["受注・参加のHR条件：HR4以上（出現前提とは別）。"],
+    "unlocks": [],
+    "sources": [
+      {
+        "site": "MHXX攻略レシピ",
+        "url": "http://wiki.mhxg.org/ida/229726.html",
+        "kind": "detail",
+        "checkedAt": "2026-10-16"
+      },
+      {
+        "site": "MHXX攻略レシピ（ランク一覧）",
+        "url": "http://wiki.mhxg.org/data/2026.html",
+        "kind": "list",
+        "checkedAt": "2026-10-16"
+      },
+      {
+        "site": "Game8 MHXX（受注HR・補完）",
+        "url": "https://game8.jp/mh-xx/823546",
+        "kind": "detail",
+        "checkedAt": "2026-10-16"
+      }
+    ],
+    "verification": "partial",
+    "verificationNote": "攻略レシピの一覧・個別ページを照合。条件と解放要素の完全確認を意味しません。記録上の前提達成とゲーム内での受注・受領状態を区別します。",
+    "warnings": []
+  },
+  {
+    "id": "hub-6-recipe-229727",
+    "name": "ドボルがために銅鑼は鳴る",
+    "category": "hub",
+    "rank": "6",
+    "order": 29,
+    "role": "hunter",
+    "tags": ["key"],
+    "condition": {
+      "kind": "hr_at_least",
+      "value": 6
+    },
+    "npcNotes": ["受注・参加のHR条件：HR4以上（出現前提とは別）。"],
+    "unlocks": [
+      {
+        "kind": "hunter_art",
+        "label": "スピニングメテオ LV3"
+      },
+      {
+        "kind": "hunter_art",
+        "label": "トランスラッシュ LV3"
+      }
+    ],
+    "sources": [
+      {
+        "site": "MHXX攻略レシピ",
+        "url": "http://wiki.mhxg.org/ida/229727.html",
+        "kind": "detail",
+        "checkedAt": "2026-10-16"
+      },
+      {
+        "site": "MHXX攻略レシピ（ランク一覧）",
+        "url": "http://wiki.mhxg.org/data/2026.html",
+        "kind": "list",
+        "checkedAt": "2026-10-16"
+      },
+      {
+        "site": "Game8 MHXX（受注HR・補完）",
+        "url": "https://game8.jp/mh-xx/823547",
+        "kind": "detail",
+        "checkedAt": "2026-10-16"
+      },
+      {
+        "site": "MHXX攻略Wiki（狩技）",
+        "url": "https://mhx-wiki.com/?MHXX%E3%81%AE%E7%8B%A9%E6%8A%80%E7%BF%92%E5%BE%97%E3%82%AF%E3%82%A8%E3%82%B9%E3%83%88%E3%81%BE%E3%81%A8%E3%82%81",
+        "kind": "list",
+        "checkedAt": "2026-10-16"
+      }
+    ],
+    "verification": "partial",
+    "verificationNote": "攻略レシピの一覧・個別ページを照合。条件と解放要素の完全確認を意味しません。記録上の前提達成とゲーム内での受注・受領状態を区別します。",
+    "warnings": []
+  },
+  {
+    "id": "hub-6-recipe-229728",
+    "name": "奥様は白水晶がお好き",
+    "category": "hub",
+    "rank": "6",
+    "order": 30,
+    "role": "hunter",
+    "tags": ["normal"],
+    "condition": {
+      "kind": "hr_at_least",
+      "value": 6
+    },
+    "npcNotes": ["受注・参加のHR条件：HR4以上（出現前提とは別）。"],
+    "unlocks": [],
+    "sources": [
+      {
+        "site": "MHXX攻略レシピ",
+        "url": "http://wiki.mhxg.org/ida/229728.html",
+        "kind": "detail",
+        "checkedAt": "2026-10-16"
+      },
+      {
+        "site": "MHXX攻略レシピ（ランク一覧）",
+        "url": "http://wiki.mhxg.org/data/2026.html",
+        "kind": "list",
+        "checkedAt": "2026-10-16"
+      },
+      {
+        "site": "Game8 MHXX（受注HR・補完）",
+        "url": "https://game8.jp/mh-xx/823548",
+        "kind": "detail",
+        "checkedAt": "2026-10-16"
+      }
+    ],
+    "verification": "partial",
+    "verificationNote": "攻略レシピの一覧・個別ページを照合。条件と解放要素の完全確認を意味しません。記録上の前提達成とゲーム内での受注・受領状態を区別します。",
+    "warnings": []
+  },
+  {
+    "id": "hub-6-recipe-229729",
+    "name": "熱願の穴掘り",
+    "category": "hub",
+    "rank": "6",
+    "order": 31,
+    "role": "hunter",
+    "tags": ["normal"],
+    "condition": {
+      "kind": "hr_at_least",
+      "value": 6
+    },
+    "npcNotes": ["受注・参加のHR条件：HR4以上（出現前提とは別）。"],
+    "unlocks": [],
+    "sources": [
+      {
+        "site": "MHXX攻略レシピ",
+        "url": "http://wiki.mhxg.org/ida/229729.html",
+        "kind": "detail",
+        "checkedAt": "2026-10-16"
+      },
+      {
+        "site": "MHXX攻略レシピ（ランク一覧）",
+        "url": "http://wiki.mhxg.org/data/2026.html",
+        "kind": "list",
+        "checkedAt": "2026-10-16"
+      },
+      {
+        "site": "Game8 MHXX（受注HR・補完）",
+        "url": "https://game8.jp/mh-xx/823549",
+        "kind": "detail",
+        "checkedAt": "2026-10-16"
+      }
+    ],
+    "verification": "partial",
+    "verificationNote": "攻略レシピの一覧・個別ページを照合。条件と解放要素の完全確認を意味しません。記録上の前提達成とゲーム内での受注・受領状態を区別します。",
+    "warnings": []
+  },
+  {
+    "id": "hub-6-recipe-238246",
+    "name": "たんと掘れ燃石炭",
+    "category": "hub",
+    "rank": "6",
+    "order": 32,
+    "role": "hunter",
+    "tags": ["request"],
+    "condition": {
+      "kind": "all",
+      "rules": [
+        {
+          "kind": "hr_at_least",
+          "value": 6
+        },
+        {
+          "kind": "quest_cleared",
+          "questId": "village-2-g8-822843"
+        }
+      ]
+    },
+    "npcNotes": [
+      "ユクモ村 ユクモ村の加工屋の依頼を受注し、達成後に依頼主へ報告する。",
+      "受注・参加のHR条件：HR4以上（出現前提とは別）。"
+    ],
+    "unlocks": [
+      {
+        "kind": "other",
+        "label": "マスターネコブレイド（製法）",
+        "note": "依頼達成・報告後の製法解放。装備そのものの入手ではありません。"
+      },
+      {
+        "kind": "other",
+        "label": "マスターネコヘルム（製法）",
+        "note": "依頼達成・報告後の製法解放。装備そのものの入手ではありません。"
+      },
+      {
+        "kind": "other",
+        "label": "マスターネコメイル（製法）",
+        "note": "依頼達成・報告後の製法解放。装備そのものの入手ではありません。"
+      }
+    ],
+    "sources": [
+      {
+        "site": "MHXX攻略レシピ",
+        "url": "http://wiki.mhxg.org/ida/238246.html",
+        "kind": "detail",
+        "checkedAt": "2026-10-16"
+      },
+      {
+        "site": "MHXX攻略レシピ（ランク一覧）",
+        "url": "http://wiki.mhxg.org/data/2026.html",
+        "kind": "list",
+        "checkedAt": "2026-10-16"
+      },
+      {
+        "site": "Game8 MHXX（受注HR・補完）",
+        "url": "https://game8.jp/mh-xx/823550",
+        "kind": "detail",
+        "checkedAt": "2026-10-16"
+      }
+    ],
+    "verification": "partial",
+    "verificationNote": "攻略レシピの一覧・個別ページを照合。条件と解放要素の完全確認を意味しません。記録上の前提達成とゲーム内での受注・受領状態を区別します。",
+    "warnings": []
+  },
+  {
+    "id": "hub-6-recipe-229730",
+    "name": "燃えさかる大河",
+    "category": "hub",
+    "rank": "6",
+    "order": 33,
+    "role": "hunter",
+    "tags": ["normal"],
+    "condition": {
+      "kind": "hr_at_least",
+      "value": 6
+    },
+    "npcNotes": ["受注・参加のHR条件：HR4以上（出現前提とは別）。"],
+    "unlocks": [],
+    "sources": [
+      {
+        "site": "MHXX攻略レシピ",
+        "url": "http://wiki.mhxg.org/ida/229730.html",
+        "kind": "detail",
+        "checkedAt": "2026-10-16"
+      },
+      {
+        "site": "MHXX攻略レシピ（ランク一覧）",
+        "url": "http://wiki.mhxg.org/data/2026.html",
+        "kind": "list",
+        "checkedAt": "2026-10-16"
+      },
+      {
+        "site": "Game8 MHXX（受注HR・補完）",
+        "url": "https://game8.jp/mh-xx/823551",
+        "kind": "detail",
+        "checkedAt": "2026-10-16"
+      }
+    ],
+    "verification": "partial",
+    "verificationNote": "攻略レシピの一覧・個別ページを照合。条件と解放要素の完全確認を意味しません。記録上の前提達成とゲーム内での受注・受領状態を区別します。",
+    "warnings": []
+  },
+  {
+    "id": "hub-6-recipe-229731",
+    "name": "飛竜たちの乱舞",
+    "category": "hub",
+    "rank": "6",
+    "order": 34,
+    "role": "hunter",
+    "tags": ["normal"],
+    "condition": {
+      "kind": "hr_at_least",
+      "value": 6
+    },
+    "npcNotes": ["受注・参加のHR条件：HR4以上（出現前提とは別）。"],
+    "unlocks": [
+      {
+        "kind": "hunter_art",
+        "label": "ヒーリングボトル LV3"
+      }
+    ],
+    "sources": [
+      {
+        "site": "MHXX攻略レシピ",
+        "url": "http://wiki.mhxg.org/ida/229731.html",
+        "kind": "detail",
+        "checkedAt": "2026-10-16"
+      },
+      {
+        "site": "MHXX攻略レシピ（ランク一覧）",
+        "url": "http://wiki.mhxg.org/data/2026.html",
+        "kind": "list",
+        "checkedAt": "2026-10-16"
+      },
+      {
+        "site": "Game8 MHXX（受注HR・補完）",
+        "url": "https://game8.jp/mh-xx/823552",
+        "kind": "detail",
+        "checkedAt": "2026-10-16"
+      },
+      {
+        "site": "MHXX攻略Wiki（狩技）",
+        "url": "https://mhx-wiki.com/?MHXX%E3%81%AE%E7%8B%A9%E6%8A%80%E7%BF%92%E5%BE%97%E3%82%AF%E3%82%A8%E3%82%B9%E3%83%88%E3%81%BE%E3%81%A8%E3%82%81",
+        "kind": "list",
+        "checkedAt": "2026-10-16"
+      }
+    ],
+    "verification": "partial",
+    "verificationNote": "攻略レシピの一覧・個別ページを照合。条件と解放要素の完全確認を意味しません。記録上の前提達成とゲーム内での受注・受領状態を区別します。",
+    "warnings": []
+  },
+  {
+    "id": "hub-6-recipe-229732",
+    "name": "原生林の曲者たち",
+    "category": "hub",
+    "rank": "6",
+    "order": 35,
+    "role": "hunter",
+    "tags": ["normal"],
+    "condition": {
+      "kind": "hr_at_least",
+      "value": 6
+    },
+    "npcNotes": ["受注・参加のHR条件：HR4以上（出現前提とは別）。"],
+    "unlocks": [
+      {
+        "kind": "hunter_art",
+        "label": "ガードレイジ LV3"
+      }
+    ],
+    "sources": [
+      {
+        "site": "MHXX攻略レシピ",
+        "url": "http://wiki.mhxg.org/ida/229732.html",
+        "kind": "detail",
+        "checkedAt": "2026-10-16"
+      },
+      {
+        "site": "MHXX攻略レシピ（ランク一覧）",
+        "url": "http://wiki.mhxg.org/data/2026.html",
+        "kind": "list",
+        "checkedAt": "2026-10-16"
+      },
+      {
+        "site": "Game8 MHXX（受注HR・補完）",
+        "url": "https://game8.jp/mh-xx/823553",
+        "kind": "detail",
+        "checkedAt": "2026-10-16"
+      },
+      {
+        "site": "MHXX攻略Wiki（狩技）",
+        "url": "https://mhx-wiki.com/?MHXX%E3%81%AE%E7%8B%A9%E6%8A%80%E7%BF%92%E5%BE%97%E3%82%AF%E3%82%A8%E3%82%B9%E3%83%88%E3%81%BE%E3%81%A8%E3%82%81",
+        "kind": "list",
+        "checkedAt": "2026-10-16"
+      }
+    ],
+    "verification": "partial",
+    "verificationNote": "攻略レシピの一覧・個別ページを照合。条件と解放要素の完全確認を意味しません。記録上の前提達成とゲーム内での受注・受領状態を区別します。",
+    "warnings": []
+  },
+  {
+    "id": "hub-6-recipe-229733",
+    "name": "スリルとショックの氷海ツアー",
+    "category": "hub",
+    "rank": "6",
+    "order": 36,
+    "role": "hunter",
+    "tags": ["normal"],
+    "condition": {
+      "kind": "hr_at_least",
+      "value": 6
+    },
+    "npcNotes": ["受注・参加のHR条件：HR4以上（出現前提とは別）。"],
+    "unlocks": [
+      {
+        "kind": "hunter_art",
+        "label": "昇竜撃 LV3"
+      }
+    ],
+    "sources": [
+      {
+        "site": "MHXX攻略レシピ",
+        "url": "http://wiki.mhxg.org/ida/229733.html",
+        "kind": "detail",
+        "checkedAt": "2026-10-16"
+      },
+      {
+        "site": "MHXX攻略レシピ（ランク一覧）",
+        "url": "http://wiki.mhxg.org/data/2026.html",
+        "kind": "list",
+        "checkedAt": "2026-10-16"
+      },
+      {
+        "site": "Game8 MHXX（受注HR・補完）",
+        "url": "https://game8.jp/mh-xx/823554",
+        "kind": "detail",
+        "checkedAt": "2026-10-16"
+      },
+      {
+        "site": "MHXX攻略Wiki（狩技）",
+        "url": "https://mhx-wiki.com/?MHXX%E3%81%AE%E7%8B%A9%E6%8A%80%E7%BF%92%E5%BE%97%E3%82%AF%E3%82%A8%E3%82%B9%E3%83%88%E3%81%BE%E3%81%A8%E3%82%81",
+        "kind": "list",
+        "checkedAt": "2026-10-16"
+      }
+    ],
+    "verification": "partial",
+    "verificationNote": "攻略レシピの一覧・個別ページを照合。条件と解放要素の完全確認を意味しません。記録上の前提達成とゲーム内での受注・受領状態を区別します。",
+    "warnings": []
+  },
+  {
+    "id": "hub-6-recipe-229734",
+    "name": "地底火山に響く侵略の足音",
+    "category": "hub",
+    "rank": "6",
+    "order": 37,
+    "role": "hunter",
+    "tags": ["normal"],
+    "condition": {
+      "kind": "hr_at_least",
+      "value": 6
+    },
+    "npcNotes": ["受注・参加のHR条件：HR4以上（出現前提とは別）。"],
+    "unlocks": [
+      {
+        "kind": "hunter_art",
+        "label": "火薬装填 LV3"
+      }
+    ],
+    "sources": [
+      {
+        "site": "MHXX攻略レシピ",
+        "url": "http://wiki.mhxg.org/ida/229734.html",
+        "kind": "detail",
+        "checkedAt": "2026-10-16"
+      },
+      {
+        "site": "MHXX攻略レシピ（ランク一覧）",
+        "url": "http://wiki.mhxg.org/data/2026.html",
+        "kind": "list",
+        "checkedAt": "2026-10-16"
+      },
+      {
+        "site": "Game8 MHXX（受注HR・補完）",
+        "url": "https://game8.jp/mh-xx/823555",
+        "kind": "detail",
+        "checkedAt": "2026-10-16"
+      },
+      {
+        "site": "MHXX攻略Wiki（狩技）",
+        "url": "https://mhx-wiki.com/?MHXX%E3%81%AE%E7%8B%A9%E6%8A%80%E7%BF%92%E5%BE%97%E3%82%AF%E3%82%A8%E3%82%B9%E3%83%88%E3%81%BE%E3%81%A8%E3%82%81",
+        "kind": "list",
+        "checkedAt": "2026-10-16"
+      }
+    ],
+    "verification": "partial",
+    "verificationNote": "攻略レシピの一覧・個別ページを照合。条件と解放要素の完全確認を意味しません。記録上の前提達成とゲーム内での受注・受領状態を区別します。",
+    "warnings": []
+  },
+  {
+    "id": "hub-6-recipe-229735",
+    "name": "ワイルドバレット",
+    "category": "hub",
+    "rank": "6",
+    "order": 38,
+    "role": "hunter",
+    "tags": ["normal"],
+    "condition": {
+      "kind": "hr_at_least",
+      "value": 6
+    },
+    "npcNotes": ["受注・参加のHR条件：HR4以上（出現前提とは別）。"],
+    "unlocks": [
+      {
+        "kind": "hunter_art",
+        "label": "ブレイドワイヤー LV3"
+      }
+    ],
+    "sources": [
+      {
+        "site": "MHXX攻略レシピ",
+        "url": "http://wiki.mhxg.org/ida/229735.html",
+        "kind": "detail",
+        "checkedAt": "2026-10-16"
+      },
+      {
+        "site": "MHXX攻略レシピ（ランク一覧）",
+        "url": "http://wiki.mhxg.org/data/2026.html",
+        "kind": "list",
+        "checkedAt": "2026-10-16"
+      },
+      {
+        "site": "Game8 MHXX（受注HR・補完）",
+        "url": "https://game8.jp/mh-xx/823616",
+        "kind": "detail",
+        "checkedAt": "2026-10-16"
+      },
+      {
+        "site": "MHXX攻略Wiki（狩技）",
+        "url": "https://mhx-wiki.com/?MHXX%E3%81%AE%E7%8B%A9%E6%8A%80%E7%BF%92%E5%BE%97%E3%82%AF%E3%82%A8%E3%82%B9%E3%83%88%E3%81%BE%E3%81%A8%E3%82%81",
+        "kind": "list",
+        "checkedAt": "2026-10-16"
+      }
+    ],
+    "verification": "partial",
+    "verificationNote": "攻略レシピの一覧・個別ページを照合。条件と解放要素の完全確認を意味しません。記録上の前提達成とゲーム内での受注・受領状態を区別します。",
+    "warnings": []
+  },
+  {
+    "id": "hub-6-recipe-229736",
+    "name": "沼地の狂騒楽団",
+    "category": "hub",
+    "rank": "6",
+    "order": 39,
+    "role": "hunter",
+    "tags": ["normal"],
+    "condition": {
+      "kind": "hr_at_least",
+      "value": 6
+    },
+    "npcNotes": ["受注・参加のHR条件：HR4以上（出現前提とは別）。"],
+    "unlocks": [
+      {
+        "kind": "hunter_art",
+        "label": "飛翔蟲斬破 LV3"
+      }
+    ],
+    "sources": [
+      {
+        "site": "MHXX攻略レシピ",
+        "url": "http://wiki.mhxg.org/ida/229736.html",
+        "kind": "detail",
+        "checkedAt": "2026-10-16"
+      },
+      {
+        "site": "MHXX攻略レシピ（ランク一覧）",
+        "url": "http://wiki.mhxg.org/data/2026.html",
+        "kind": "list",
+        "checkedAt": "2026-10-16"
+      },
+      {
+        "site": "Game8 MHXX（受注HR・補完）",
+        "url": "https://game8.jp/mh-xx/823617",
+        "kind": "detail",
+        "checkedAt": "2026-10-16"
+      },
+      {
+        "site": "MHXX攻略Wiki（狩技）",
+        "url": "https://mhx-wiki.com/?MHXX%E3%81%AE%E7%8B%A9%E6%8A%80%E7%BF%92%E5%BE%97%E3%82%AF%E3%82%A8%E3%82%B9%E3%83%88%E3%81%BE%E3%81%A8%E3%82%81",
+        "kind": "list",
+        "checkedAt": "2026-10-16"
+      }
+    ],
+    "verification": "partial",
+    "verificationNote": "攻略レシピの一覧・個別ページを照合。条件と解放要素の完全確認を意味しません。記録上の前提達成とゲーム内での受注・受領状態を区別します。",
+    "warnings": []
+  },
+  {
+    "id": "hub-6-recipe-229737",
+    "name": "燃えたぎれ！火山の熱闘！！",
+    "category": "hub",
+    "rank": "6",
+    "order": 40,
+    "role": "hunter",
+    "tags": ["normal"],
+    "condition": {
+      "kind": "hr_at_least",
+      "value": 6
+    },
+    "npcNotes": ["受注・参加のHR条件：HR4以上（出現前提とは別）。"],
+    "unlocks": [
+      {
+        "kind": "hunter_art",
+        "label": "エネルギーチャージ LV3"
+      }
+    ],
+    "sources": [
+      {
+        "site": "MHXX攻略レシピ",
+        "url": "http://wiki.mhxg.org/ida/229737.html",
+        "kind": "detail",
+        "checkedAt": "2026-10-16"
+      },
+      {
+        "site": "MHXX攻略レシピ（ランク一覧）",
+        "url": "http://wiki.mhxg.org/data/2026.html",
+        "kind": "list",
+        "checkedAt": "2026-10-16"
+      },
+      {
+        "site": "Game8 MHXX（受注HR・補完）",
+        "url": "https://game8.jp/mh-xx/823618",
+        "kind": "detail",
+        "checkedAt": "2026-10-16"
+      },
+      {
+        "site": "MHXX攻略Wiki（狩技）",
+        "url": "https://mhx-wiki.com/?MHXX%E3%81%AE%E7%8B%A9%E6%8A%80%E7%BF%92%E5%BE%97%E3%82%AF%E3%82%A8%E3%82%B9%E3%83%88%E3%81%BE%E3%81%A8%E3%82%81",
+        "kind": "list",
+        "checkedAt": "2026-10-16"
+      }
+    ],
+    "verification": "partial",
+    "verificationNote": "攻略レシピの一覧・個別ページを照合。条件と解放要素の完全確認を意味しません。記録上の前提達成とゲーム内での受注・受領状態を区別します。",
+    "warnings": []
+  },
+  {
+    "id": "hub-6-recipe-229738",
+    "name": "狂乱の立体闘技場",
+    "category": "hub",
+    "rank": "6",
+    "order": 41,
+    "role": "hunter",
+    "tags": ["normal"],
+    "condition": {
+      "kind": "hr_at_least",
+      "value": 6
+    },
+    "npcNotes": ["受注・参加のHR条件：HR4以上（出現前提とは別）。"],
+    "unlocks": [
+      {
+        "kind": "hunter_art",
+        "label": "天翔空破断 LV3"
+      }
+    ],
+    "sources": [
+      {
+        "site": "MHXX攻略レシピ",
+        "url": "http://wiki.mhxg.org/ida/229738.html",
+        "kind": "detail",
+        "checkedAt": "2026-10-16"
+      },
+      {
+        "site": "MHXX攻略レシピ（ランク一覧）",
+        "url": "http://wiki.mhxg.org/data/2026.html",
+        "kind": "list",
+        "checkedAt": "2026-10-16"
+      },
+      {
+        "site": "Game8 MHXX（受注HR・補完）",
+        "url": "https://game8.jp/mh-xx/823619",
+        "kind": "detail",
+        "checkedAt": "2026-10-16"
+      },
+      {
+        "site": "MHXX攻略Wiki（狩技）",
+        "url": "https://mhx-wiki.com/?MHXX%E3%81%AE%E7%8B%A9%E6%8A%80%E7%BF%92%E5%BE%97%E3%82%AF%E3%82%A8%E3%82%B9%E3%83%88%E3%81%BE%E3%81%A8%E3%82%81",
+        "kind": "list",
+        "checkedAt": "2026-10-16"
+      }
+    ],
+    "verification": "partial",
+    "verificationNote": "攻略レシピの一覧・個別ページを照合。条件と解放要素の完全確認を意味しません。記録上の前提達成とゲーム内での受注・受領状態を区別します。",
+    "warnings": []
+  },
+  {
+    "id": "hub-6-recipe-229739",
+    "name": "雷電",
+    "category": "hub",
+    "rank": "6",
+    "order": 42,
+    "role": "hunter",
+    "tags": ["normal"],
+    "condition": {
+      "kind": "hr_at_least",
+      "value": 6
+    },
+    "npcNotes": ["受注・参加のHR条件：HR4以上（出現前提とは別）。"],
+    "unlocks": [],
+    "sources": [
+      {
+        "site": "MHXX攻略レシピ",
+        "url": "http://wiki.mhxg.org/ida/229739.html",
+        "kind": "detail",
+        "checkedAt": "2026-10-16"
+      },
+      {
+        "site": "MHXX攻略レシピ（ランク一覧）",
+        "url": "http://wiki.mhxg.org/data/2026.html",
+        "kind": "list",
+        "checkedAt": "2026-10-16"
+      },
+      {
+        "site": "Game8 MHXX（受注HR・補完）",
+        "url": "https://game8.jp/mh-xx/823620",
+        "kind": "detail",
+        "checkedAt": "2026-10-16"
+      }
+    ],
+    "verification": "partial",
+    "verificationNote": "攻略レシピの一覧・個別ページを照合。条件と解放要素の完全確認を意味しません。記録上の前提達成とゲーム内での受注・受領状態を区別します。",
+    "warnings": []
+  },
+  {
+    "id": "hub-6-recipe-238247",
+    "name": "白き霊獣",
+    "category": "hub",
+    "rank": "6",
+    "order": 43,
+    "role": "hunter",
+    "tags": ["normal"],
+    "condition": {
+      "kind": "hr_at_least",
+      "value": 6
+    },
+    "npcNotes": ["受注・参加のHR条件：HR4以上（出現前提とは別）。"],
+    "unlocks": [],
+    "sources": [
+      {
+        "site": "MHXX攻略レシピ",
+        "url": "http://wiki.mhxg.org/ida/238247.html",
+        "kind": "detail",
+        "checkedAt": "2026-10-16"
+      },
+      {
+        "site": "MHXX攻略レシピ（ランク一覧）",
+        "url": "http://wiki.mhxg.org/data/2026.html",
+        "kind": "list",
+        "checkedAt": "2026-10-16"
+      },
+      {
+        "site": "Game8 MHXX（受注HR・補完）",
+        "url": "https://game8.jp/mh-xx/823621",
+        "kind": "detail",
+        "checkedAt": "2026-10-16"
+      }
+    ],
+    "verification": "partial",
+    "verificationNote": "攻略レシピの一覧・個別ページを照合。条件と解放要素の完全確認を意味しません。記録上の前提達成とゲーム内での受注・受領状態を区別します。",
+    "warnings": []
+  },
+  {
+    "id": "hub-6-recipe-238248",
+    "name": "山紫水明の地",
+    "category": "hub",
+    "rank": "6",
+    "order": 44,
+    "role": "hunter",
+    "tags": ["normal"],
+    "condition": {
+      "kind": "hr_at_least",
+      "value": 6
+    },
+    "npcNotes": ["受注・参加のHR条件：HR4以上（出現前提とは別）。"],
+    "unlocks": [],
+    "sources": [
+      {
+        "site": "MHXX攻略レシピ",
+        "url": "http://wiki.mhxg.org/ida/238248.html",
+        "kind": "detail",
+        "checkedAt": "2026-10-16"
+      },
+      {
+        "site": "MHXX攻略レシピ（ランク一覧）",
+        "url": "http://wiki.mhxg.org/data/2026.html",
+        "kind": "list",
+        "checkedAt": "2026-10-16"
+      },
+      {
+        "site": "Game8 MHXX（受注HR・補完）",
+        "url": "https://game8.jp/mh-xx/823622",
+        "kind": "detail",
+        "checkedAt": "2026-10-16"
+      }
+    ],
+    "verification": "partial",
+    "verificationNote": "攻略レシピの一覧・個別ページを照合。条件と解放要素の完全確認を意味しません。記録上の前提達成とゲーム内での受注・受領状態を区別します。",
+    "warnings": []
+  },
+  {
+    "id": "hub-6-recipe-229740",
+    "name": "どくどくパニック・毒怪鳥！！",
+    "category": "hub",
+    "rank": "6",
+    "order": 45,
+    "role": "hunter",
+    "tags": ["normal"],
+    "condition": {
+      "kind": "all",
+      "rules": [
+        {
+          "kind": "hr_at_least",
+          "value": 4
+        },
+        {
+          "kind": "any",
+          "rules": [
+            {
+              "kind": "all",
+              "rules": [
+                {
+                  "kind": "quest_cleared",
+                  "questId": "hub-6-recipe-229704"
+                },
+                {
+                  "kind": "quest_cleared",
+                  "questId": "hub-6-recipe-229707"
+                }
+              ]
+            },
+            {
+              "kind": "all",
+              "rules": [
+                {
+                  "kind": "quest_cleared",
+                  "questId": "hub-6-recipe-229704"
+                },
+                {
+                  "kind": "quest_cleared",
+                  "questId": "hub-6-recipe-229712"
+                }
+              ]
+            },
+            {
+              "kind": "all",
+              "rules": [
+                {
+                  "kind": "quest_cleared",
+                  "questId": "hub-6-recipe-229704"
+                },
+                {
+                  "kind": "quest_cleared",
+                  "questId": "hub-6-recipe-229713"
+                }
+              ]
+            },
+            {
+              "kind": "all",
+              "rules": [
+                {
+                  "kind": "quest_cleared",
+                  "questId": "hub-6-recipe-229704"
+                },
+                {
+                  "kind": "quest_cleared",
+                  "questId": "hub-6-recipe-229727"
+                }
+              ]
+            },
+            {
+              "kind": "all",
+              "rules": [
+                {
+                  "kind": "quest_cleared",
+                  "questId": "hub-6-recipe-229707"
+                },
+                {
+                  "kind": "quest_cleared",
+                  "questId": "hub-6-recipe-229712"
+                }
+              ]
+            },
+            {
+              "kind": "all",
+              "rules": [
+                {
+                  "kind": "quest_cleared",
+                  "questId": "hub-6-recipe-229707"
+                },
+                {
+                  "kind": "quest_cleared",
+                  "questId": "hub-6-recipe-229713"
+                }
+              ]
+            },
+            {
+              "kind": "all",
+              "rules": [
+                {
+                  "kind": "quest_cleared",
+                  "questId": "hub-6-recipe-229707"
+                },
+                {
+                  "kind": "quest_cleared",
+                  "questId": "hub-6-recipe-229727"
+                }
+              ]
+            },
+            {
+              "kind": "all",
+              "rules": [
+                {
+                  "kind": "quest_cleared",
+                  "questId": "hub-6-recipe-229712"
+                },
+                {
+                  "kind": "quest_cleared",
+                  "questId": "hub-6-recipe-229713"
+                }
+              ]
+            },
+            {
+              "kind": "all",
+              "rules": [
+                {
+                  "kind": "quest_cleared",
+                  "questId": "hub-6-recipe-229712"
+                },
+                {
+                  "kind": "quest_cleared",
+                  "questId": "hub-6-recipe-229727"
+                }
+              ]
+            },
+            {
+              "kind": "all",
+              "rules": [
+                {
+                  "kind": "quest_cleared",
+                  "questId": "hub-6-recipe-229713"
+                },
+                {
+                  "kind": "quest_cleared",
+                  "questId": "hub-6-recipe-229727"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    "npcNotes": ["受注・参加のHR条件：HR4以上（出現前提とは別）。"],
+    "unlocks": [],
+    "sources": [
+      {
+        "site": "MHXX攻略レシピ",
+        "url": "http://wiki.mhxg.org/ida/229740.html",
+        "kind": "detail",
+        "checkedAt": "2026-10-16"
+      },
+      {
+        "site": "MHXX攻略レシピ（ランク一覧）",
+        "url": "http://wiki.mhxg.org/data/2026.html",
+        "kind": "list",
+        "checkedAt": "2026-10-16"
+      },
+      {
+        "site": "Game8 MHXX（受注HR・補完）",
+        "url": "https://game8.jp/mh-xx/823623",
+        "kind": "detail",
+        "checkedAt": "2026-10-16"
+      }
+    ],
+    "verification": "partial",
+    "verificationNote": "攻略レシピの一覧・個別ページを照合。条件と解放要素の完全確認を意味しません。記録上の前提達成とゲーム内での受注・受領状態を区別します。",
+    "warnings": []
+  },
+  {
+    "id": "hub-6-recipe-229741",
+    "name": "奇猿狐の蛮行を止めろ！",
+    "category": "hub",
+    "rank": "6",
+    "order": 46,
+    "role": "hunter",
+    "tags": ["normal"],
+    "condition": {
+      "kind": "all",
+      "rules": [
+        {
+          "kind": "hr_at_least",
+          "value": 4
+        },
+        {
+          "kind": "any",
+          "rules": [
+            {
+              "kind": "all",
+              "rules": [
+                {
+                  "kind": "quest_cleared",
+                  "questId": "hub-6-recipe-229704"
+                },
+                {
+                  "kind": "quest_cleared",
+                  "questId": "hub-6-recipe-229707"
+                }
+              ]
+            },
+            {
+              "kind": "all",
+              "rules": [
+                {
+                  "kind": "quest_cleared",
+                  "questId": "hub-6-recipe-229704"
+                },
+                {
+                  "kind": "quest_cleared",
+                  "questId": "hub-6-recipe-229712"
+                }
+              ]
+            },
+            {
+              "kind": "all",
+              "rules": [
+                {
+                  "kind": "quest_cleared",
+                  "questId": "hub-6-recipe-229704"
+                },
+                {
+                  "kind": "quest_cleared",
+                  "questId": "hub-6-recipe-229713"
+                }
+              ]
+            },
+            {
+              "kind": "all",
+              "rules": [
+                {
+                  "kind": "quest_cleared",
+                  "questId": "hub-6-recipe-229704"
+                },
+                {
+                  "kind": "quest_cleared",
+                  "questId": "hub-6-recipe-229727"
+                }
+              ]
+            },
+            {
+              "kind": "all",
+              "rules": [
+                {
+                  "kind": "quest_cleared",
+                  "questId": "hub-6-recipe-229707"
+                },
+                {
+                  "kind": "quest_cleared",
+                  "questId": "hub-6-recipe-229712"
+                }
+              ]
+            },
+            {
+              "kind": "all",
+              "rules": [
+                {
+                  "kind": "quest_cleared",
+                  "questId": "hub-6-recipe-229707"
+                },
+                {
+                  "kind": "quest_cleared",
+                  "questId": "hub-6-recipe-229713"
+                }
+              ]
+            },
+            {
+              "kind": "all",
+              "rules": [
+                {
+                  "kind": "quest_cleared",
+                  "questId": "hub-6-recipe-229707"
+                },
+                {
+                  "kind": "quest_cleared",
+                  "questId": "hub-6-recipe-229727"
+                }
+              ]
+            },
+            {
+              "kind": "all",
+              "rules": [
+                {
+                  "kind": "quest_cleared",
+                  "questId": "hub-6-recipe-229712"
+                },
+                {
+                  "kind": "quest_cleared",
+                  "questId": "hub-6-recipe-229713"
+                }
+              ]
+            },
+            {
+              "kind": "all",
+              "rules": [
+                {
+                  "kind": "quest_cleared",
+                  "questId": "hub-6-recipe-229712"
+                },
+                {
+                  "kind": "quest_cleared",
+                  "questId": "hub-6-recipe-229727"
+                }
+              ]
+            },
+            {
+              "kind": "all",
+              "rules": [
+                {
+                  "kind": "quest_cleared",
+                  "questId": "hub-6-recipe-229713"
+                },
+                {
+                  "kind": "quest_cleared",
+                  "questId": "hub-6-recipe-229727"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    "npcNotes": ["受注・参加のHR条件：HR4以上（出現前提とは別）。"],
+    "unlocks": [],
+    "sources": [
+      {
+        "site": "MHXX攻略レシピ",
+        "url": "http://wiki.mhxg.org/ida/229741.html",
+        "kind": "detail",
+        "checkedAt": "2026-10-16"
+      },
+      {
+        "site": "MHXX攻略レシピ（ランク一覧）",
+        "url": "http://wiki.mhxg.org/data/2026.html",
+        "kind": "list",
+        "checkedAt": "2026-10-16"
+      },
+      {
+        "site": "Game8 MHXX（受注HR・補完）",
+        "url": "https://game8.jp/mh-xx/823624",
+        "kind": "detail",
+        "checkedAt": "2026-10-16"
+      }
+    ],
+    "verification": "partial",
+    "verificationNote": "攻略レシピの一覧・個別ページを照合。条件と解放要素の完全確認を意味しません。記録上の前提達成とゲーム内での受注・受領状態を区別します。",
+    "warnings": []
+  },
+  {
+    "id": "hub-6-recipe-244688",
+    "name": "オーラ漂う陸の女王！",
+    "category": "hub",
+    "rank": "6",
+    "order": 47,
+    "role": "hunter",
+    "tags": ["normal"],
+    "condition": {
+      "kind": "all",
+      "rules": [
+        {
+          "kind": "hr_at_least",
+          "value": 4
+        },
+        {
+          "kind": "any",
+          "rules": [
+            {
+              "kind": "all",
+              "rules": [
+                {
+                  "kind": "quest_cleared",
+                  "questId": "hub-6-recipe-229740"
+                },
+                {
+                  "kind": "quest_cleared",
+                  "questId": "hub-6-recipe-229741"
+                }
+              ]
+            },
+            {
+              "kind": "all",
+              "rules": [
+                {
+                  "kind": "quest_cleared",
+                  "questId": "hub-6-recipe-229740"
+                },
+                {
+                  "kind": "quest_cleared",
+                  "questId": "hub-6-recipe-229742"
+                }
+              ]
+            },
+            {
+              "kind": "all",
+              "rules": [
+                {
+                  "kind": "quest_cleared",
+                  "questId": "hub-6-recipe-229740"
+                },
+                {
+                  "kind": "quest_cleared",
+                  "questId": "hub-6-recipe-229743"
+                }
+              ]
+            },
+            {
+              "kind": "all",
+              "rules": [
+                {
+                  "kind": "quest_cleared",
+                  "questId": "hub-6-recipe-229740"
+                },
+                {
+                  "kind": "quest_cleared",
+                  "questId": "hub-6-recipe-229744"
+                }
+              ]
+            },
+            {
+              "kind": "all",
+              "rules": [
+                {
+                  "kind": "quest_cleared",
+                  "questId": "hub-6-recipe-229740"
+                },
+                {
+                  "kind": "quest_cleared",
+                  "questId": "hub-6-recipe-229745"
+                }
+              ]
+            },
+            {
+              "kind": "all",
+              "rules": [
+                {
+                  "kind": "quest_cleared",
+                  "questId": "hub-6-recipe-229741"
+                },
+                {
+                  "kind": "quest_cleared",
+                  "questId": "hub-6-recipe-229742"
+                }
+              ]
+            },
+            {
+              "kind": "all",
+              "rules": [
+                {
+                  "kind": "quest_cleared",
+                  "questId": "hub-6-recipe-229741"
+                },
+                {
+                  "kind": "quest_cleared",
+                  "questId": "hub-6-recipe-229743"
+                }
+              ]
+            },
+            {
+              "kind": "all",
+              "rules": [
+                {
+                  "kind": "quest_cleared",
+                  "questId": "hub-6-recipe-229741"
+                },
+                {
+                  "kind": "quest_cleared",
+                  "questId": "hub-6-recipe-229744"
+                }
+              ]
+            },
+            {
+              "kind": "all",
+              "rules": [
+                {
+                  "kind": "quest_cleared",
+                  "questId": "hub-6-recipe-229741"
+                },
+                {
+                  "kind": "quest_cleared",
+                  "questId": "hub-6-recipe-229745"
+                }
+              ]
+            },
+            {
+              "kind": "all",
+              "rules": [
+                {
+                  "kind": "quest_cleared",
+                  "questId": "hub-6-recipe-229742"
+                },
+                {
+                  "kind": "quest_cleared",
+                  "questId": "hub-6-recipe-229743"
+                }
+              ]
+            },
+            {
+              "kind": "all",
+              "rules": [
+                {
+                  "kind": "quest_cleared",
+                  "questId": "hub-6-recipe-229742"
+                },
+                {
+                  "kind": "quest_cleared",
+                  "questId": "hub-6-recipe-229744"
+                }
+              ]
+            },
+            {
+              "kind": "all",
+              "rules": [
+                {
+                  "kind": "quest_cleared",
+                  "questId": "hub-6-recipe-229742"
+                },
+                {
+                  "kind": "quest_cleared",
+                  "questId": "hub-6-recipe-229745"
+                }
+              ]
+            },
+            {
+              "kind": "all",
+              "rules": [
+                {
+                  "kind": "quest_cleared",
+                  "questId": "hub-6-recipe-229743"
+                },
+                {
+                  "kind": "quest_cleared",
+                  "questId": "hub-6-recipe-229744"
+                }
+              ]
+            },
+            {
+              "kind": "all",
+              "rules": [
+                {
+                  "kind": "quest_cleared",
+                  "questId": "hub-6-recipe-229743"
+                },
+                {
+                  "kind": "quest_cleared",
+                  "questId": "hub-6-recipe-229745"
+                }
+              ]
+            },
+            {
+              "kind": "all",
+              "rules": [
+                {
+                  "kind": "quest_cleared",
+                  "questId": "hub-6-recipe-229744"
+                },
+                {
+                  "kind": "quest_cleared",
+                  "questId": "hub-6-recipe-229745"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    "npcNotes": ["受注・参加のHR条件：HR4以上（出現前提とは別）。"],
+    "unlocks": [],
+    "sources": [
+      {
+        "site": "MHXX攻略レシピ",
+        "url": "http://wiki.mhxg.org/ida/244688.html",
+        "kind": "detail",
+        "checkedAt": "2026-10-16"
+      },
+      {
+        "site": "MHXX攻略レシピ（ランク一覧）",
+        "url": "http://wiki.mhxg.org/data/2026.html",
+        "kind": "list",
+        "checkedAt": "2026-10-16"
+      },
+      {
+        "site": "Game8 MHXX（受注HR・補完）",
+        "url": "https://game8.jp/mh-xx/823625",
+        "kind": "detail",
+        "checkedAt": "2026-10-16"
+      }
+    ],
+    "verification": "partial",
+    "verificationNote": "攻略レシピの一覧・個別ページを照合。条件と解放要素の完全確認を意味しません。記録上の前提達成とゲーム内での受注・受領状態を区別します。",
+    "warnings": []
+  },
+  {
+    "id": "hub-6-recipe-244689",
+    "name": "クール！ザボアザギル！",
+    "category": "hub",
+    "rank": "6",
+    "order": 48,
+    "role": "hunter",
+    "tags": ["normal"],
+    "condition": {
+      "kind": "all",
+      "rules": [
+        {
+          "kind": "hr_at_least",
+          "value": 4
+        },
+        {
+          "kind": "any",
+          "rules": [
+            {
+              "kind": "all",
+              "rules": [
+                {
+                  "kind": "quest_cleared",
+                  "questId": "hub-6-recipe-229740"
+                },
+                {
+                  "kind": "quest_cleared",
+                  "questId": "hub-6-recipe-229741"
+                }
+              ]
+            },
+            {
+              "kind": "all",
+              "rules": [
+                {
+                  "kind": "quest_cleared",
+                  "questId": "hub-6-recipe-229740"
+                },
+                {
+                  "kind": "quest_cleared",
+                  "questId": "hub-6-recipe-229742"
+                }
+              ]
+            },
+            {
+              "kind": "all",
+              "rules": [
+                {
+                  "kind": "quest_cleared",
+                  "questId": "hub-6-recipe-229740"
+                },
+                {
+                  "kind": "quest_cleared",
+                  "questId": "hub-6-recipe-229743"
+                }
+              ]
+            },
+            {
+              "kind": "all",
+              "rules": [
+                {
+                  "kind": "quest_cleared",
+                  "questId": "hub-6-recipe-229740"
+                },
+                {
+                  "kind": "quest_cleared",
+                  "questId": "hub-6-recipe-229744"
+                }
+              ]
+            },
+            {
+              "kind": "all",
+              "rules": [
+                {
+                  "kind": "quest_cleared",
+                  "questId": "hub-6-recipe-229740"
+                },
+                {
+                  "kind": "quest_cleared",
+                  "questId": "hub-6-recipe-229745"
+                }
+              ]
+            },
+            {
+              "kind": "all",
+              "rules": [
+                {
+                  "kind": "quest_cleared",
+                  "questId": "hub-6-recipe-229741"
+                },
+                {
+                  "kind": "quest_cleared",
+                  "questId": "hub-6-recipe-229742"
+                }
+              ]
+            },
+            {
+              "kind": "all",
+              "rules": [
+                {
+                  "kind": "quest_cleared",
+                  "questId": "hub-6-recipe-229741"
+                },
+                {
+                  "kind": "quest_cleared",
+                  "questId": "hub-6-recipe-229743"
+                }
+              ]
+            },
+            {
+              "kind": "all",
+              "rules": [
+                {
+                  "kind": "quest_cleared",
+                  "questId": "hub-6-recipe-229741"
+                },
+                {
+                  "kind": "quest_cleared",
+                  "questId": "hub-6-recipe-229744"
+                }
+              ]
+            },
+            {
+              "kind": "all",
+              "rules": [
+                {
+                  "kind": "quest_cleared",
+                  "questId": "hub-6-recipe-229741"
+                },
+                {
+                  "kind": "quest_cleared",
+                  "questId": "hub-6-recipe-229745"
+                }
+              ]
+            },
+            {
+              "kind": "all",
+              "rules": [
+                {
+                  "kind": "quest_cleared",
+                  "questId": "hub-6-recipe-229742"
+                },
+                {
+                  "kind": "quest_cleared",
+                  "questId": "hub-6-recipe-229743"
+                }
+              ]
+            },
+            {
+              "kind": "all",
+              "rules": [
+                {
+                  "kind": "quest_cleared",
+                  "questId": "hub-6-recipe-229742"
+                },
+                {
+                  "kind": "quest_cleared",
+                  "questId": "hub-6-recipe-229744"
+                }
+              ]
+            },
+            {
+              "kind": "all",
+              "rules": [
+                {
+                  "kind": "quest_cleared",
+                  "questId": "hub-6-recipe-229742"
+                },
+                {
+                  "kind": "quest_cleared",
+                  "questId": "hub-6-recipe-229745"
+                }
+              ]
+            },
+            {
+              "kind": "all",
+              "rules": [
+                {
+                  "kind": "quest_cleared",
+                  "questId": "hub-6-recipe-229743"
+                },
+                {
+                  "kind": "quest_cleared",
+                  "questId": "hub-6-recipe-229744"
+                }
+              ]
+            },
+            {
+              "kind": "all",
+              "rules": [
+                {
+                  "kind": "quest_cleared",
+                  "questId": "hub-6-recipe-229743"
+                },
+                {
+                  "kind": "quest_cleared",
+                  "questId": "hub-6-recipe-229745"
+                }
+              ]
+            },
+            {
+              "kind": "all",
+              "rules": [
+                {
+                  "kind": "quest_cleared",
+                  "questId": "hub-6-recipe-229744"
+                },
+                {
+                  "kind": "quest_cleared",
+                  "questId": "hub-6-recipe-229745"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    "npcNotes": ["受注・参加のHR条件：HR4以上（出現前提とは別）。"],
+    "unlocks": [],
+    "sources": [
+      {
+        "site": "MHXX攻略レシピ",
+        "url": "http://wiki.mhxg.org/ida/244689.html",
+        "kind": "detail",
+        "checkedAt": "2026-10-16"
+      },
+      {
+        "site": "MHXX攻略レシピ（ランク一覧）",
+        "url": "http://wiki.mhxg.org/data/2026.html",
+        "kind": "list",
+        "checkedAt": "2026-10-16"
+      },
+      {
+        "site": "Game8 MHXX（受注HR・補完）",
+        "url": "https://game8.jp/mh-xx/823626",
+        "kind": "detail",
+        "checkedAt": "2026-10-16"
+      }
+    ],
+    "verification": "partial",
+    "verificationNote": "攻略レシピの一覧・個別ページを照合。条件と解放要素の完全確認を意味しません。記録上の前提達成とゲーム内での受注・受領状態を区別します。",
+    "warnings": []
+  },
+  {
+    "id": "hub-6-recipe-229742",
+    "name": "獰猛と化した鬼蛙",
+    "category": "hub",
+    "rank": "6",
+    "order": 49,
+    "role": "hunter",
+    "tags": ["normal"],
+    "condition": {
+      "kind": "all",
+      "rules": [
+        {
+          "kind": "hr_at_least",
+          "value": 4
+        },
+        {
+          "kind": "any",
+          "rules": [
+            {
+              "kind": "all",
+              "rules": [
+                {
+                  "kind": "quest_cleared",
+                  "questId": "hub-6-recipe-229704"
+                },
+                {
+                  "kind": "quest_cleared",
+                  "questId": "hub-6-recipe-229707"
+                }
+              ]
+            },
+            {
+              "kind": "all",
+              "rules": [
+                {
+                  "kind": "quest_cleared",
+                  "questId": "hub-6-recipe-229704"
+                },
+                {
+                  "kind": "quest_cleared",
+                  "questId": "hub-6-recipe-229712"
+                }
+              ]
+            },
+            {
+              "kind": "all",
+              "rules": [
+                {
+                  "kind": "quest_cleared",
+                  "questId": "hub-6-recipe-229704"
+                },
+                {
+                  "kind": "quest_cleared",
+                  "questId": "hub-6-recipe-229713"
+                }
+              ]
+            },
+            {
+              "kind": "all",
+              "rules": [
+                {
+                  "kind": "quest_cleared",
+                  "questId": "hub-6-recipe-229704"
+                },
+                {
+                  "kind": "quest_cleared",
+                  "questId": "hub-6-recipe-229727"
+                }
+              ]
+            },
+            {
+              "kind": "all",
+              "rules": [
+                {
+                  "kind": "quest_cleared",
+                  "questId": "hub-6-recipe-229707"
+                },
+                {
+                  "kind": "quest_cleared",
+                  "questId": "hub-6-recipe-229712"
+                }
+              ]
+            },
+            {
+              "kind": "all",
+              "rules": [
+                {
+                  "kind": "quest_cleared",
+                  "questId": "hub-6-recipe-229707"
+                },
+                {
+                  "kind": "quest_cleared",
+                  "questId": "hub-6-recipe-229713"
+                }
+              ]
+            },
+            {
+              "kind": "all",
+              "rules": [
+                {
+                  "kind": "quest_cleared",
+                  "questId": "hub-6-recipe-229707"
+                },
+                {
+                  "kind": "quest_cleared",
+                  "questId": "hub-6-recipe-229727"
+                }
+              ]
+            },
+            {
+              "kind": "all",
+              "rules": [
+                {
+                  "kind": "quest_cleared",
+                  "questId": "hub-6-recipe-229712"
+                },
+                {
+                  "kind": "quest_cleared",
+                  "questId": "hub-6-recipe-229713"
+                }
+              ]
+            },
+            {
+              "kind": "all",
+              "rules": [
+                {
+                  "kind": "quest_cleared",
+                  "questId": "hub-6-recipe-229712"
+                },
+                {
+                  "kind": "quest_cleared",
+                  "questId": "hub-6-recipe-229727"
+                }
+              ]
+            },
+            {
+              "kind": "all",
+              "rules": [
+                {
+                  "kind": "quest_cleared",
+                  "questId": "hub-6-recipe-229713"
+                },
+                {
+                  "kind": "quest_cleared",
+                  "questId": "hub-6-recipe-229727"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    "npcNotes": ["受注・参加のHR条件：HR4以上（出現前提とは別）。"],
+    "unlocks": [],
+    "sources": [
+      {
+        "site": "MHXX攻略レシピ",
+        "url": "http://wiki.mhxg.org/ida/229742.html",
+        "kind": "detail",
+        "checkedAt": "2026-10-16"
+      },
+      {
+        "site": "MHXX攻略レシピ（ランク一覧）",
+        "url": "http://wiki.mhxg.org/data/2026.html",
+        "kind": "list",
+        "checkedAt": "2026-10-16"
+      },
+      {
+        "site": "Game8 MHXX（受注HR・補完）",
+        "url": "https://game8.jp/mh-xx/823627",
+        "kind": "detail",
+        "checkedAt": "2026-10-16"
+      }
+    ],
+    "verification": "partial",
+    "verificationNote": "攻略レシピの一覧・個別ページを照合。条件と解放要素の完全確認を意味しません。記録上の前提達成とゲーム内での受注・受領状態を区別します。",
+    "warnings": []
+  },
+  {
+    "id": "hub-6-recipe-243489",
+    "name": "３頭寄れば獰猛蛙",
+    "category": "hub",
+    "rank": "6",
+    "order": 50,
+    "role": "hunter",
+    "tags": ["request"],
+    "condition": {
+      "kind": "all",
+      "rules": [
+        {
+          "kind": "quest_cleared",
+          "questId": "hub-6-recipe-243492"
+        },
+        {
+          "kind": "hr_at_least",
+          "value": 4
+        }
+      ]
+    },
+    "npcNotes": [
+      "キャラバンの娘の依頼2を達成し、必要な報告を行う。",
+      "ユクモ村 ナグリ村の村長の依頼を受注し、達成後に依頼主へ報告する。",
+      "受注・参加のHR条件：HR4以上（出現前提とは別）。"
+    ],
+    "unlocks": [
+      {
+        "kind": "other",
+        "label": "アークRシリーズ（製法）",
+        "note": "依頼達成・報告後の製法解放。装備そのものの入手ではありません。"
+      },
+      {
+        "kind": "other",
+        "label": "アーティアRシリーズ（製法）",
+        "note": "依頼達成・報告後の製法解放。装備そのものの入手ではありません。"
+      },
+      {
+        "kind": "other",
+        "label": "アカムトRシリーズ（製法）",
+        "note": "依頼達成・報告後の製法解放。装備そのものの入手ではありません。"
+      },
+      {
+        "kind": "other",
+        "label": "アロイRシリーズ（製法）",
+        "note": "依頼達成・報告後の製法解放。装備そのものの入手ではありません。"
+      },
+      {
+        "kind": "other",
+        "label": "インゴットRシリーズ（製法）",
+        "note": "依頼達成・報告後の製法解放。装備そのものの入手ではありません。"
+      },
+      {
+        "kind": "other",
+        "label": "エスカドラRシリーズ（製法）",
+        "note": "依頼達成・報告後の製法解放。装備そのものの入手ではありません。"
+      },
+      {
+        "kind": "other",
+        "label": "ギザミRシリーズ（製法）",
+        "note": "依頼達成・報告後の製法解放。装備そのものの入手ではありません。"
+      },
+      {
+        "kind": "other",
+        "label": "キリンRシリーズ（製法）",
+        "note": "依頼達成・報告後の製法解放。装備そのものの入手ではありません。"
+      },
+      {
+        "kind": "other",
+        "label": "クシャナRシリーズ（製法）",
+        "note": "依頼達成・報告後の製法解放。装備そのものの入手ではありません。"
+      },
+      {
+        "kind": "other",
+        "label": "グリードRシリーズ（製法）",
+        "note": "依頼達成・報告後の製法解放。装備そのものの入手ではありません。"
+      },
+      {
+        "kind": "other",
+        "label": "ゲリョスRシリーズ（製法）",
+        "note": "依頼達成・報告後の製法解放。装備そのものの入手ではありません。"
+      },
+      {
+        "kind": "other",
+        "label": "ゴアRシリーズ（製法）",
+        "note": "依頼達成・報告後の製法解放。装備そのものの入手ではありません。"
+      },
+      {
+        "kind": "other",
+        "label": "S・ソルRシリーズ（製法）",
+        "note": "依頼達成・報告後の製法解放。装備そのものの入手ではありません。"
+      },
+      {
+        "kind": "other",
+        "label": "ザザミRシリーズ（製法）",
+        "note": "依頼達成・報告後の製法解放。装備そのものの入手ではありません。"
+      },
+      {
+        "kind": "other",
+        "label": "ダマスクRシリーズ（製法）",
+        "note": "依頼達成・報告後の製法解放。装備そのものの入手ではありません。"
+      },
+      {
+        "kind": "other",
+        "label": "タロスRシリーズ（製法）",
+        "note": "依頼達成・報告後の製法解放。装備そのものの入手ではありません。"
+      },
+      {
+        "kind": "other",
+        "label": "デスギアRシリーズ（製法）",
+        "note": "依頼達成・報告後の製法解放。装備そのものの入手ではありません。"
+      },
+      {
+        "kind": "other",
+        "label": "ハンターRシリーズ（製法）",
+        "note": "依頼達成・報告後の製法解放。装備そのものの入手ではありません。"
+      },
+      {
+        "kind": "other",
+        "label": "フィリアRシリーズ（製法）",
+        "note": "依頼達成・報告後の製法解放。装備そのものの入手ではありません。"
+      },
+      {
+        "kind": "other",
+        "label": "フルフルRシリーズ（製法）",
+        "note": "依頼達成・報告後の製法解放。装備そのものの入手ではありません。"
+      },
+      {
+        "kind": "other",
+        "label": "ラギアRシリーズ（製法）",
+        "note": "依頼達成・報告後の製法解放。装備そのものの入手ではありません。"
+      },
+      {
+        "kind": "other",
+        "label": "ルドロスRシリーズ（製法）",
+        "note": "依頼達成・報告後の製法解放。装備そのものの入手ではありません。"
+      },
+      {
+        "kind": "other",
+        "label": "レイアRシリーズ（製法）",
+        "note": "依頼達成・報告後の製法解放。装備そのものの入手ではありません。"
+      },
+      {
+        "kind": "other",
+        "label": "レウスRシリーズ（製法）",
+        "note": "依頼達成・報告後の製法解放。装備そのものの入手ではありません。"
+      },
+      {
+        "kind": "other",
+        "label": "レックスRシリーズ（製法）",
+        "note": "依頼達成・報告後の製法解放。装備そのものの入手ではありません。"
+      }
+    ],
+    "sources": [
+      {
+        "site": "MHXX攻略レシピ",
+        "url": "http://wiki.mhxg.org/ida/243489.html",
+        "kind": "detail",
+        "checkedAt": "2026-10-16"
+      },
+      {
+        "site": "MHXX攻略レシピ（ランク一覧）",
+        "url": "http://wiki.mhxg.org/data/2026.html",
+        "kind": "list",
+        "checkedAt": "2026-10-16"
+      },
+      {
+        "site": "Game8 MHXX（受注HR・補完）",
+        "url": "https://game8.jp/mh-xx/823628",
+        "kind": "detail",
+        "checkedAt": "2026-10-16"
+      }
+    ],
+    "verification": "partial",
+    "verificationNote": "攻略レシピの一覧・個別ページを照合。条件と解放要素の完全確認を意味しません。記録上の前提達成とゲーム内での受注・受領状態を区別します。",
+    "warnings": []
+  },
+  {
+    "id": "hub-6-recipe-243492",
+    "name": "心を燃やせ、燃石炭！",
+    "category": "hub",
+    "rank": "6",
+    "order": 51,
+    "role": "hunter",
+    "tags": ["request"],
+    "condition": {
+      "kind": "all",
+      "rules": [
+        {
+          "kind": "hr_at_least",
+          "value": 4
+        },
+        {
+          "kind": "quest_cleared",
+          "questId": "village-3-g8-822877"
+        },
+        {
+          "kind": "unknown",
+          "note": "特定の獰猛化クエスト2つ以上（対象未記載）"
+        }
+      ]
+    },
+    "npcNotes": [
+      "キャラバンの娘の依頼1：ナグリ村の村長と会話",
+      "ココット村 キャラバンの娘の依頼2を受注し、達成後に依頼主へ報告する。",
+      "受注・参加のHR条件：HR4以上（出現前提とは別）。"
+    ],
+    "unlocks": [
+      {
+        "kind": "food",
+        "label": "マグマトン",
+        "note": "依頼達成後、依頼主に報告して追加。"
+      }
+    ],
+    "sources": [
+      {
+        "site": "MHXX攻略レシピ",
+        "url": "http://wiki.mhxg.org/ida/243492.html",
+        "kind": "detail",
+        "checkedAt": "2026-10-16"
+      },
+      {
+        "site": "MHXX攻略レシピ（ランク一覧）",
+        "url": "http://wiki.mhxg.org/data/2026.html",
+        "kind": "list",
+        "checkedAt": "2026-10-16"
+      },
+      {
+        "site": "MHXX攻略レシピ（前提依頼）",
+        "url": "http://wiki.mhxg.org/ida/243428.html",
+        "kind": "detail",
+        "checkedAt": "2026-10-16"
+      },
+      {
+        "site": "Game8 MHXX（受注HR・補完）",
+        "url": "https://game8.jp/mh-xx/823629",
+        "kind": "detail",
+        "checkedAt": "2026-10-16"
+      },
+      {
+        "site": "MHXX攻略Wiki（食材）",
+        "url": "https://mhx-wiki.com/?%E9%A3%9F%E6%9D%90%E3%82%AF%E3%82%A8%E3%82%B9%E3%83%88%E4%B8%80%E8%A6%A7",
+        "kind": "list",
+        "checkedAt": "2026-10-16"
+      }
+    ],
+    "verification": "partial",
+    "verificationNote": "攻略レシピの一覧・個別ページを照合。条件と解放要素の完全確認を意味しません。記録上の前提達成とゲーム内での受注・受領状態を区別します。",
+    "warnings": []
+  },
+  {
+    "id": "hub-6-recipe-243401",
+    "name": "夜鳥の会・危機一髪！",
+    "category": "hub",
+    "rank": "6",
+    "order": 52,
+    "role": "hunter",
+    "tags": ["request"],
+    "condition": {
+      "kind": "all",
+      "rules": [
+        {
+          "kind": "quest_cleared",
+          "questId": "village-4-recipe-220201"
+        },
+        {
+          "kind": "unknown",
+          "note": "特定の獰猛化クエスト2つ以上（対象未記載）"
+        },
+        {
+          "kind": "hr_at_least",
+          "value": 4
+        }
+      ]
+    },
+    "npcNotes": [
+      "ベルナ村の受付嬢の依頼2を達成し、必要な報告を行う。",
+      "ベルナ村 ベルナ村の受付嬢の依頼3を受注し、達成後に依頼主へ報告する。",
+      "受注・参加のHR条件：HR4以上（出現前提とは別）。"
+    ],
+    "unlocks": [
+      {
+        "kind": "other",
+        "label": "サージュSシリーズ（製法）",
+        "note": "依頼達成・報告後の製法解放。装備そのものの入手ではありません。"
+      },
+      {
+        "kind": "other",
+        "label": "サージュＳネコブック（製法）",
+        "note": "依頼達成・報告後の製法解放。装備そのものの入手ではありません。"
+      },
+      {
+        "kind": "other",
+        "label": "サージュＳネコフート（製法）",
+        "note": "依頼達成・報告後の製法解放。装備そのものの入手ではありません。"
+      },
+      {
+        "kind": "other",
+        "label": "サージュＳネコスーツ（製法）",
+        "note": "依頼達成・報告後の製法解放。装備そのものの入手ではありません。"
+      }
+    ],
+    "sources": [
+      {
+        "site": "MHXX攻略レシピ",
+        "url": "http://wiki.mhxg.org/ida/243401.html",
+        "kind": "detail",
+        "checkedAt": "2026-10-16"
+      },
+      {
+        "site": "MHXX攻略レシピ（ランク一覧）",
+        "url": "http://wiki.mhxg.org/data/2026.html",
+        "kind": "list",
+        "checkedAt": "2026-10-16"
+      },
+      {
+        "site": "Game8 MHXX（受注HR・補完）",
+        "url": "https://game8.jp/mh-xx/823630",
+        "kind": "detail",
+        "checkedAt": "2026-10-16"
+      }
+    ],
+    "verification": "partial",
+    "verificationNote": "攻略レシピの一覧・個別ページを照合。条件と解放要素の完全確認を意味しません。記録上の前提達成とゲーム内での受注・受領状態を区別します。",
+    "warnings": []
+  },
+  {
+    "id": "hub-6-recipe-244690",
+    "name": "闇より生まれし者",
+    "category": "hub",
+    "rank": "6",
+    "order": 53,
+    "role": "hunter",
+    "tags": ["normal"],
+    "condition": {
+      "kind": "all",
+      "rules": [
+        {
+          "kind": "hr_at_least",
+          "value": 4
+        },
+        {
+          "kind": "any",
+          "rules": [
+            {
+              "kind": "all",
+              "rules": [
+                {
+                  "kind": "quest_cleared",
+                  "questId": "hub-6-recipe-229740"
+                },
+                {
+                  "kind": "quest_cleared",
+                  "questId": "hub-6-recipe-229741"
+                }
+              ]
+            },
+            {
+              "kind": "all",
+              "rules": [
+                {
+                  "kind": "quest_cleared",
+                  "questId": "hub-6-recipe-229740"
+                },
+                {
+                  "kind": "quest_cleared",
+                  "questId": "hub-6-recipe-229742"
+                }
+              ]
+            },
+            {
+              "kind": "all",
+              "rules": [
+                {
+                  "kind": "quest_cleared",
+                  "questId": "hub-6-recipe-229740"
+                },
+                {
+                  "kind": "quest_cleared",
+                  "questId": "hub-6-recipe-229743"
+                }
+              ]
+            },
+            {
+              "kind": "all",
+              "rules": [
+                {
+                  "kind": "quest_cleared",
+                  "questId": "hub-6-recipe-229740"
+                },
+                {
+                  "kind": "quest_cleared",
+                  "questId": "hub-6-recipe-229744"
+                }
+              ]
+            },
+            {
+              "kind": "all",
+              "rules": [
+                {
+                  "kind": "quest_cleared",
+                  "questId": "hub-6-recipe-229740"
+                },
+                {
+                  "kind": "quest_cleared",
+                  "questId": "hub-6-recipe-229745"
+                }
+              ]
+            },
+            {
+              "kind": "all",
+              "rules": [
+                {
+                  "kind": "quest_cleared",
+                  "questId": "hub-6-recipe-229741"
+                },
+                {
+                  "kind": "quest_cleared",
+                  "questId": "hub-6-recipe-229742"
+                }
+              ]
+            },
+            {
+              "kind": "all",
+              "rules": [
+                {
+                  "kind": "quest_cleared",
+                  "questId": "hub-6-recipe-229741"
+                },
+                {
+                  "kind": "quest_cleared",
+                  "questId": "hub-6-recipe-229743"
+                }
+              ]
+            },
+            {
+              "kind": "all",
+              "rules": [
+                {
+                  "kind": "quest_cleared",
+                  "questId": "hub-6-recipe-229741"
+                },
+                {
+                  "kind": "quest_cleared",
+                  "questId": "hub-6-recipe-229744"
+                }
+              ]
+            },
+            {
+              "kind": "all",
+              "rules": [
+                {
+                  "kind": "quest_cleared",
+                  "questId": "hub-6-recipe-229741"
+                },
+                {
+                  "kind": "quest_cleared",
+                  "questId": "hub-6-recipe-229745"
+                }
+              ]
+            },
+            {
+              "kind": "all",
+              "rules": [
+                {
+                  "kind": "quest_cleared",
+                  "questId": "hub-6-recipe-229742"
+                },
+                {
+                  "kind": "quest_cleared",
+                  "questId": "hub-6-recipe-229743"
+                }
+              ]
+            },
+            {
+              "kind": "all",
+              "rules": [
+                {
+                  "kind": "quest_cleared",
+                  "questId": "hub-6-recipe-229742"
+                },
+                {
+                  "kind": "quest_cleared",
+                  "questId": "hub-6-recipe-229744"
+                }
+              ]
+            },
+            {
+              "kind": "all",
+              "rules": [
+                {
+                  "kind": "quest_cleared",
+                  "questId": "hub-6-recipe-229742"
+                },
+                {
+                  "kind": "quest_cleared",
+                  "questId": "hub-6-recipe-229745"
+                }
+              ]
+            },
+            {
+              "kind": "all",
+              "rules": [
+                {
+                  "kind": "quest_cleared",
+                  "questId": "hub-6-recipe-229743"
+                },
+                {
+                  "kind": "quest_cleared",
+                  "questId": "hub-6-recipe-229744"
+                }
+              ]
+            },
+            {
+              "kind": "all",
+              "rules": [
+                {
+                  "kind": "quest_cleared",
+                  "questId": "hub-6-recipe-229743"
+                },
+                {
+                  "kind": "quest_cleared",
+                  "questId": "hub-6-recipe-229745"
+                }
+              ]
+            },
+            {
+              "kind": "all",
+              "rules": [
+                {
+                  "kind": "quest_cleared",
+                  "questId": "hub-6-recipe-229744"
+                },
+                {
+                  "kind": "quest_cleared",
+                  "questId": "hub-6-recipe-229745"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    "npcNotes": ["受注・参加のHR条件：HR4以上（出現前提とは別）。"],
+    "unlocks": [],
+    "sources": [
+      {
+        "site": "MHXX攻略レシピ",
+        "url": "http://wiki.mhxg.org/ida/244690.html",
+        "kind": "detail",
+        "checkedAt": "2026-10-16"
+      },
+      {
+        "site": "MHXX攻略レシピ（ランク一覧）",
+        "url": "http://wiki.mhxg.org/data/2026.html",
+        "kind": "list",
+        "checkedAt": "2026-10-16"
+      },
+      {
+        "site": "Game8 MHXX（受注HR・補完）",
+        "url": "https://game8.jp/mh-xx/823631",
+        "kind": "detail",
+        "checkedAt": "2026-10-16"
+      }
+    ],
+    "verification": "partial",
+    "verificationNote": "攻略レシピの一覧・個別ページを照合。条件と解放要素の完全確認を意味しません。記録上の前提達成とゲーム内での受注・受領状態を区別します。",
+    "warnings": []
+  },
+  {
+    "id": "hub-6-recipe-244691",
+    "name": "幻のハップル？",
+    "category": "hub",
+    "rank": "6",
+    "order": 54,
+    "role": "hunter",
+    "tags": ["request"],
+    "condition": {
+      "kind": "all",
+      "rules": [
+        {
+          "kind": "unknown",
+          "note": "特定の獰猛化クエスト2つ以上（対象未記載）"
+        },
+        {
+          "kind": "hr_at_least",
+          "value": 4
+        }
+      ]
+    },
+    "npcNotes": [
+      "ユクモ村 ドンドルマの道具屋の依頼1を受注し、達成後に依頼主へ報告する。",
+      "受注・参加のHR条件：HR4以上（出現前提とは別）。"
+    ],
+    "unlocks": [
+      {
+        "kind": "food",
+        "label": "ハップルアップル",
+        "note": "依頼達成後、依頼主に報告して追加。"
+      },
+      {
+        "kind": "other",
+        "label": "プーギーの服 ドスの気持ち",
+        "note": "依頼達成・報告後に利用。"
+      }
+    ],
+    "sources": [
+      {
+        "site": "MHXX攻略レシピ",
+        "url": "http://wiki.mhxg.org/ida/244691.html",
+        "kind": "detail",
+        "checkedAt": "2026-10-16"
+      },
+      {
+        "site": "MHXX攻略レシピ（ランク一覧）",
+        "url": "http://wiki.mhxg.org/data/2026.html",
+        "kind": "list",
+        "checkedAt": "2026-10-16"
+      },
+      {
+        "site": "Game8 MHXX（受注HR・補完）",
+        "url": "https://game8.jp/mh-xx/823632",
+        "kind": "detail",
+        "checkedAt": "2026-10-16"
+      },
+      {
+        "site": "MHXX攻略Wiki（食材）",
+        "url": "https://mhx-wiki.com/?%E9%A3%9F%E6%9D%90%E3%82%AF%E3%82%A8%E3%82%B9%E3%83%88%E4%B8%80%E8%A6%A7",
+        "kind": "list",
+        "checkedAt": "2026-10-16"
+      }
+    ],
+    "verification": "partial",
+    "verificationNote": "攻略レシピの一覧・個別ページを照合。条件と解放要素の完全確認を意味しません。記録上の前提達成とゲーム内での受注・受領状態を区別します。",
+    "warnings": []
+  },
+  {
+    "id": "hub-6-recipe-244692",
+    "name": "黒狼鳥の獰猛警報！！",
+    "category": "hub",
+    "rank": "6",
+    "order": 55,
+    "role": "hunter",
+    "tags": ["normal"],
+    "condition": {
+      "kind": "all",
+      "rules": [
+        {
+          "kind": "hr_at_least",
+          "value": 4
+        },
+        {
+          "kind": "any",
+          "rules": [
+            {
+              "kind": "all",
+              "rules": [
+                {
+                  "kind": "quest_cleared",
+                  "questId": "hub-6-recipe-229740"
+                },
+                {
+                  "kind": "quest_cleared",
+                  "questId": "hub-6-recipe-229741"
+                }
+              ]
+            },
+            {
+              "kind": "all",
+              "rules": [
+                {
+                  "kind": "quest_cleared",
+                  "questId": "hub-6-recipe-229740"
+                },
+                {
+                  "kind": "quest_cleared",
+                  "questId": "hub-6-recipe-229742"
+                }
+              ]
+            },
+            {
+              "kind": "all",
+              "rules": [
+                {
+                  "kind": "quest_cleared",
+                  "questId": "hub-6-recipe-229740"
+                },
+                {
+                  "kind": "quest_cleared",
+                  "questId": "hub-6-recipe-229743"
+                }
+              ]
+            },
+            {
+              "kind": "all",
+              "rules": [
+                {
+                  "kind": "quest_cleared",
+                  "questId": "hub-6-recipe-229740"
+                },
+                {
+                  "kind": "quest_cleared",
+                  "questId": "hub-6-recipe-229744"
+                }
+              ]
+            },
+            {
+              "kind": "all",
+              "rules": [
+                {
+                  "kind": "quest_cleared",
+                  "questId": "hub-6-recipe-229740"
+                },
+                {
+                  "kind": "quest_cleared",
+                  "questId": "hub-6-recipe-229745"
+                }
+              ]
+            },
+            {
+              "kind": "all",
+              "rules": [
+                {
+                  "kind": "quest_cleared",
+                  "questId": "hub-6-recipe-229741"
+                },
+                {
+                  "kind": "quest_cleared",
+                  "questId": "hub-6-recipe-229742"
+                }
+              ]
+            },
+            {
+              "kind": "all",
+              "rules": [
+                {
+                  "kind": "quest_cleared",
+                  "questId": "hub-6-recipe-229741"
+                },
+                {
+                  "kind": "quest_cleared",
+                  "questId": "hub-6-recipe-229743"
+                }
+              ]
+            },
+            {
+              "kind": "all",
+              "rules": [
+                {
+                  "kind": "quest_cleared",
+                  "questId": "hub-6-recipe-229741"
+                },
+                {
+                  "kind": "quest_cleared",
+                  "questId": "hub-6-recipe-229744"
+                }
+              ]
+            },
+            {
+              "kind": "all",
+              "rules": [
+                {
+                  "kind": "quest_cleared",
+                  "questId": "hub-6-recipe-229741"
+                },
+                {
+                  "kind": "quest_cleared",
+                  "questId": "hub-6-recipe-229745"
+                }
+              ]
+            },
+            {
+              "kind": "all",
+              "rules": [
+                {
+                  "kind": "quest_cleared",
+                  "questId": "hub-6-recipe-229742"
+                },
+                {
+                  "kind": "quest_cleared",
+                  "questId": "hub-6-recipe-229743"
+                }
+              ]
+            },
+            {
+              "kind": "all",
+              "rules": [
+                {
+                  "kind": "quest_cleared",
+                  "questId": "hub-6-recipe-229742"
+                },
+                {
+                  "kind": "quest_cleared",
+                  "questId": "hub-6-recipe-229744"
+                }
+              ]
+            },
+            {
+              "kind": "all",
+              "rules": [
+                {
+                  "kind": "quest_cleared",
+                  "questId": "hub-6-recipe-229742"
+                },
+                {
+                  "kind": "quest_cleared",
+                  "questId": "hub-6-recipe-229745"
+                }
+              ]
+            },
+            {
+              "kind": "all",
+              "rules": [
+                {
+                  "kind": "quest_cleared",
+                  "questId": "hub-6-recipe-229743"
+                },
+                {
+                  "kind": "quest_cleared",
+                  "questId": "hub-6-recipe-229744"
+                }
+              ]
+            },
+            {
+              "kind": "all",
+              "rules": [
+                {
+                  "kind": "quest_cleared",
+                  "questId": "hub-6-recipe-229743"
+                },
+                {
+                  "kind": "quest_cleared",
+                  "questId": "hub-6-recipe-229745"
+                }
+              ]
+            },
+            {
+              "kind": "all",
+              "rules": [
+                {
+                  "kind": "quest_cleared",
+                  "questId": "hub-6-recipe-229744"
+                },
+                {
+                  "kind": "quest_cleared",
+                  "questId": "hub-6-recipe-229745"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    "npcNotes": ["受注・参加のHR条件：HR4以上（出現前提とは別）。"],
+    "unlocks": [],
+    "sources": [
+      {
+        "site": "MHXX攻略レシピ",
+        "url": "http://wiki.mhxg.org/ida/244692.html",
+        "kind": "detail",
+        "checkedAt": "2026-10-16"
+      },
+      {
+        "site": "MHXX攻略レシピ（ランク一覧）",
+        "url": "http://wiki.mhxg.org/data/2026.html",
+        "kind": "list",
+        "checkedAt": "2026-10-16"
+      },
+      {
+        "site": "Game8 MHXX（受注HR・補完）",
+        "url": "https://game8.jp/mh-xx/823633",
+        "kind": "detail",
+        "checkedAt": "2026-10-16"
+      }
+    ],
+    "verification": "partial",
+    "verificationNote": "攻略レシピの一覧・個別ページを照合。条件と解放要素の完全確認を意味しません。記録上の前提達成とゲーム内での受注・受領状態を区別します。",
+    "warnings": []
+  },
+  {
+    "id": "hub-6-recipe-251360",
+    "name": "凍てつく牙は獰猛に",
+    "category": "hub",
+    "rank": "6",
+    "order": 56,
+    "role": "hunter",
+    "tags": ["normal"],
+    "condition": {
+      "kind": "all",
+      "rules": [
+        {
+          "kind": "quest_cleared",
+          "questId": "village-6-recipe-244685"
+        },
+        {
+          "kind": "hr_at_least",
+          "value": 4
+        }
+      ]
+    },
+    "npcNotes": ["受注・参加のHR条件：HR4以上（出現前提とは別）。"],
+    "unlocks": [],
+    "sources": [
+      {
+        "site": "MHXX攻略レシピ",
+        "url": "http://wiki.mhxg.org/ida/251360.html",
+        "kind": "detail",
+        "checkedAt": "2026-10-16"
+      },
+      {
+        "site": "MHXX攻略レシピ（ランク一覧）",
+        "url": "http://wiki.mhxg.org/data/2026.html",
+        "kind": "list",
+        "checkedAt": "2026-10-16"
+      },
+      {
+        "site": "Game8 MHXX（受注HR・補完）",
+        "url": "https://game8.jp/mh-xx/823634",
+        "kind": "detail",
+        "checkedAt": "2026-10-16"
+      }
+    ],
+    "verification": "partial",
+    "verificationNote": "攻略レシピの一覧・個別ページを照合。条件と解放要素の完全確認を意味しません。記録上の前提達成とゲーム内での受注・受領状態を区別します。",
+    "warnings": []
+  },
+  {
+    "id": "hub-6-recipe-244693",
+    "name": "ガノトトス冒険記",
+    "category": "hub",
+    "rank": "6",
+    "order": 57,
+    "role": "hunter",
+    "tags": ["request"],
+    "condition": {
+      "kind": "all",
+      "rules": [
+        {
+          "kind": "unknown",
+          "note": "特定の獰猛化クエスト2つ以上（対象未記載）"
+        },
+        {
+          "kind": "hr_at_least",
+          "value": 4
+        }
+      ]
+    },
+    "npcNotes": [
+      "ユクモ村 船大工の親方の依頼を受注し、達成後に依頼主へ報告する。",
+      "受注・参加のHR条件：HR4以上（出現前提とは別）。"
+    ],
+    "unlocks": [
+      {
+        "kind": "food",
+        "label": "ブレスワイン",
+        "note": "依頼達成後、依頼主に報告して追加。"
+      },
+      {
+        "kind": "other",
+        "label": "イカリハンマー（特別入手）",
+        "note": "依頼欄に記載された特別入手。装備の製法ではありません。"
+      }
+    ],
+    "sources": [
+      {
+        "site": "MHXX攻略レシピ",
+        "url": "http://wiki.mhxg.org/ida/244693.html",
+        "kind": "detail",
+        "checkedAt": "2026-10-16"
+      },
+      {
+        "site": "MHXX攻略レシピ（ランク一覧）",
+        "url": "http://wiki.mhxg.org/data/2026.html",
+        "kind": "list",
+        "checkedAt": "2026-10-16"
+      },
+      {
+        "site": "Game8 MHXX（受注HR・補完）",
+        "url": "https://game8.jp/mh-xx/823635",
+        "kind": "detail",
+        "checkedAt": "2026-10-16"
+      },
+      {
+        "site": "MHXX攻略Wiki（食材）",
+        "url": "https://mhx-wiki.com/?%E9%A3%9F%E6%9D%90%E3%82%AF%E3%82%A8%E3%82%B9%E3%83%88%E4%B8%80%E8%A6%A7",
+        "kind": "list",
+        "checkedAt": "2026-10-16"
+      }
+    ],
+    "verification": "partial",
+    "verificationNote": "攻略レシピの一覧・個別ページを照合。条件と解放要素の完全確認を意味しません。記録上の前提達成とゲーム内での受注・受領状態を区別します。",
+    "warnings": []
+  },
+  {
+    "id": "hub-6-recipe-251361",
+    "name": "孤島の暴君、ダイミョウザザミ",
+    "category": "hub",
+    "rank": "6",
+    "order": 58,
+    "role": "hunter",
+    "tags": ["normal"],
+    "condition": {
+      "kind": "all",
+      "rules": [
+        {
+          "kind": "quest_cleared",
+          "questId": "village-6-recipe-244685"
+        },
+        {
+          "kind": "hr_at_least",
+          "value": 4
+        }
+      ]
+    },
+    "npcNotes": ["受注・参加のHR条件：HR4以上（出現前提とは別）。"],
+    "unlocks": [],
+    "sources": [
+      {
+        "site": "MHXX攻略レシピ",
+        "url": "http://wiki.mhxg.org/ida/251361.html",
+        "kind": "detail",
+        "checkedAt": "2026-10-16"
+      },
+      {
+        "site": "MHXX攻略レシピ（ランク一覧）",
+        "url": "http://wiki.mhxg.org/data/2026.html",
+        "kind": "list",
+        "checkedAt": "2026-10-16"
+      },
+      {
+        "site": "Game8 MHXX（受注HR・補完）",
+        "url": "https://game8.jp/mh-xx/823636",
+        "kind": "detail",
+        "checkedAt": "2026-10-16"
+      }
+    ],
+    "verification": "partial",
+    "verificationNote": "攻略レシピの一覧・個別ページを照合。条件と解放要素の完全確認を意味しません。記録上の前提達成とゲーム内での受注・受領状態を区別します。",
+    "warnings": []
+  },
+  {
+    "id": "hub-6-recipe-229743",
+    "name": "獰猛なタテガミを求めて",
+    "category": "hub",
+    "rank": "6",
+    "order": 59,
+    "role": "hunter",
+    "tags": ["normal"],
+    "condition": {
+      "kind": "all",
+      "rules": [
+        {
+          "kind": "hr_at_least",
+          "value": 4
+        },
+        {
+          "kind": "any",
+          "rules": [
+            {
+              "kind": "all",
+              "rules": [
+                {
+                  "kind": "quest_cleared",
+                  "questId": "hub-6-recipe-229704"
+                },
+                {
+                  "kind": "quest_cleared",
+                  "questId": "hub-6-recipe-229707"
+                }
+              ]
+            },
+            {
+              "kind": "all",
+              "rules": [
+                {
+                  "kind": "quest_cleared",
+                  "questId": "hub-6-recipe-229704"
+                },
+                {
+                  "kind": "quest_cleared",
+                  "questId": "hub-6-recipe-229712"
+                }
+              ]
+            },
+            {
+              "kind": "all",
+              "rules": [
+                {
+                  "kind": "quest_cleared",
+                  "questId": "hub-6-recipe-229704"
+                },
+                {
+                  "kind": "quest_cleared",
+                  "questId": "hub-6-recipe-229713"
+                }
+              ]
+            },
+            {
+              "kind": "all",
+              "rules": [
+                {
+                  "kind": "quest_cleared",
+                  "questId": "hub-6-recipe-229704"
+                },
+                {
+                  "kind": "quest_cleared",
+                  "questId": "hub-6-recipe-229727"
+                }
+              ]
+            },
+            {
+              "kind": "all",
+              "rules": [
+                {
+                  "kind": "quest_cleared",
+                  "questId": "hub-6-recipe-229707"
+                },
+                {
+                  "kind": "quest_cleared",
+                  "questId": "hub-6-recipe-229712"
+                }
+              ]
+            },
+            {
+              "kind": "all",
+              "rules": [
+                {
+                  "kind": "quest_cleared",
+                  "questId": "hub-6-recipe-229707"
+                },
+                {
+                  "kind": "quest_cleared",
+                  "questId": "hub-6-recipe-229713"
+                }
+              ]
+            },
+            {
+              "kind": "all",
+              "rules": [
+                {
+                  "kind": "quest_cleared",
+                  "questId": "hub-6-recipe-229707"
+                },
+                {
+                  "kind": "quest_cleared",
+                  "questId": "hub-6-recipe-229727"
+                }
+              ]
+            },
+            {
+              "kind": "all",
+              "rules": [
+                {
+                  "kind": "quest_cleared",
+                  "questId": "hub-6-recipe-229712"
+                },
+                {
+                  "kind": "quest_cleared",
+                  "questId": "hub-6-recipe-229713"
+                }
+              ]
+            },
+            {
+              "kind": "all",
+              "rules": [
+                {
+                  "kind": "quest_cleared",
+                  "questId": "hub-6-recipe-229712"
+                },
+                {
+                  "kind": "quest_cleared",
+                  "questId": "hub-6-recipe-229727"
+                }
+              ]
+            },
+            {
+              "kind": "all",
+              "rules": [
+                {
+                  "kind": "quest_cleared",
+                  "questId": "hub-6-recipe-229713"
+                },
+                {
+                  "kind": "quest_cleared",
+                  "questId": "hub-6-recipe-229727"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    "npcNotes": ["受注・参加のHR条件：HR4以上（出現前提とは別）。"],
+    "unlocks": [],
+    "sources": [
+      {
+        "site": "MHXX攻略レシピ",
+        "url": "http://wiki.mhxg.org/ida/229743.html",
+        "kind": "detail",
+        "checkedAt": "2026-10-16"
+      },
+      {
+        "site": "MHXX攻略レシピ（ランク一覧）",
+        "url": "http://wiki.mhxg.org/data/2026.html",
+        "kind": "list",
+        "checkedAt": "2026-10-16"
+      },
+      {
+        "site": "Game8 MHXX（受注HR・補完）",
+        "url": "https://game8.jp/mh-xx/823637",
+        "kind": "detail",
+        "checkedAt": "2026-10-16"
+      }
+    ],
+    "verification": "partial",
+    "verificationNote": "攻略レシピの一覧・個別ページを照合。条件と解放要素の完全確認を意味しません。記録上の前提達成とゲーム内での受注・受領状態を区別します。",
+    "warnings": []
+  },
+  {
+    "id": "hub-6-recipe-229744",
+    "name": "獰猛個体・調査依頼",
+    "category": "hub",
+    "rank": "6",
+    "order": 60,
+    "role": "hunter",
+    "tags": ["normal"],
+    "condition": {
+      "kind": "all",
+      "rules": [
+        {
+          "kind": "hr_at_least",
+          "value": 4
+        },
+        {
+          "kind": "any",
+          "rules": [
+            {
+              "kind": "all",
+              "rules": [
+                {
+                  "kind": "quest_cleared",
+                  "questId": "hub-6-recipe-229704"
+                },
+                {
+                  "kind": "quest_cleared",
+                  "questId": "hub-6-recipe-229707"
+                }
+              ]
+            },
+            {
+              "kind": "all",
+              "rules": [
+                {
+                  "kind": "quest_cleared",
+                  "questId": "hub-6-recipe-229704"
+                },
+                {
+                  "kind": "quest_cleared",
+                  "questId": "hub-6-recipe-229712"
+                }
+              ]
+            },
+            {
+              "kind": "all",
+              "rules": [
+                {
+                  "kind": "quest_cleared",
+                  "questId": "hub-6-recipe-229704"
+                },
+                {
+                  "kind": "quest_cleared",
+                  "questId": "hub-6-recipe-229713"
+                }
+              ]
+            },
+            {
+              "kind": "all",
+              "rules": [
+                {
+                  "kind": "quest_cleared",
+                  "questId": "hub-6-recipe-229704"
+                },
+                {
+                  "kind": "quest_cleared",
+                  "questId": "hub-6-recipe-229727"
+                }
+              ]
+            },
+            {
+              "kind": "all",
+              "rules": [
+                {
+                  "kind": "quest_cleared",
+                  "questId": "hub-6-recipe-229707"
+                },
+                {
+                  "kind": "quest_cleared",
+                  "questId": "hub-6-recipe-229712"
+                }
+              ]
+            },
+            {
+              "kind": "all",
+              "rules": [
+                {
+                  "kind": "quest_cleared",
+                  "questId": "hub-6-recipe-229707"
+                },
+                {
+                  "kind": "quest_cleared",
+                  "questId": "hub-6-recipe-229713"
+                }
+              ]
+            },
+            {
+              "kind": "all",
+              "rules": [
+                {
+                  "kind": "quest_cleared",
+                  "questId": "hub-6-recipe-229707"
+                },
+                {
+                  "kind": "quest_cleared",
+                  "questId": "hub-6-recipe-229727"
+                }
+              ]
+            },
+            {
+              "kind": "all",
+              "rules": [
+                {
+                  "kind": "quest_cleared",
+                  "questId": "hub-6-recipe-229712"
+                },
+                {
+                  "kind": "quest_cleared",
+                  "questId": "hub-6-recipe-229713"
+                }
+              ]
+            },
+            {
+              "kind": "all",
+              "rules": [
+                {
+                  "kind": "quest_cleared",
+                  "questId": "hub-6-recipe-229712"
+                },
+                {
+                  "kind": "quest_cleared",
+                  "questId": "hub-6-recipe-229727"
+                }
+              ]
+            },
+            {
+              "kind": "all",
+              "rules": [
+                {
+                  "kind": "quest_cleared",
+                  "questId": "hub-6-recipe-229713"
+                },
+                {
+                  "kind": "quest_cleared",
+                  "questId": "hub-6-recipe-229727"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    "npcNotes": ["受注・参加のHR条件：HR4以上（出現前提とは別）。"],
+    "unlocks": [],
+    "sources": [
+      {
+        "site": "MHXX攻略レシピ",
+        "url": "http://wiki.mhxg.org/ida/229744.html",
+        "kind": "detail",
+        "checkedAt": "2026-10-16"
+      },
+      {
+        "site": "MHXX攻略レシピ（ランク一覧）",
+        "url": "http://wiki.mhxg.org/data/2026.html",
+        "kind": "list",
+        "checkedAt": "2026-10-16"
+      },
+      {
+        "site": "Game8 MHXX（受注HR・補完）",
+        "url": "https://game8.jp/mh-xx/823638",
+        "kind": "detail",
+        "checkedAt": "2026-10-16"
+      }
+    ],
+    "verification": "partial",
+    "verificationNote": "攻略レシピの一覧・個別ページを照合。条件と解放要素の完全確認を意味しません。記録上の前提達成とゲーム内での受注・受領状態を区別します。",
+    "warnings": []
+  },
+  {
+    "id": "hub-6-recipe-229745",
+    "name": "フルフルは黒き影と共に",
+    "category": "hub",
+    "rank": "6",
+    "order": 61,
+    "role": "hunter",
+    "tags": ["normal"],
+    "condition": {
+      "kind": "all",
+      "rules": [
+        {
+          "kind": "hr_at_least",
+          "value": 4
+        },
+        {
+          "kind": "any",
+          "rules": [
+            {
+              "kind": "all",
+              "rules": [
+                {
+                  "kind": "quest_cleared",
+                  "questId": "hub-6-recipe-229704"
+                },
+                {
+                  "kind": "quest_cleared",
+                  "questId": "hub-6-recipe-229707"
+                }
+              ]
+            },
+            {
+              "kind": "all",
+              "rules": [
+                {
+                  "kind": "quest_cleared",
+                  "questId": "hub-6-recipe-229704"
+                },
+                {
+                  "kind": "quest_cleared",
+                  "questId": "hub-6-recipe-229712"
+                }
+              ]
+            },
+            {
+              "kind": "all",
+              "rules": [
+                {
+                  "kind": "quest_cleared",
+                  "questId": "hub-6-recipe-229704"
+                },
+                {
+                  "kind": "quest_cleared",
+                  "questId": "hub-6-recipe-229713"
+                }
+              ]
+            },
+            {
+              "kind": "all",
+              "rules": [
+                {
+                  "kind": "quest_cleared",
+                  "questId": "hub-6-recipe-229704"
+                },
+                {
+                  "kind": "quest_cleared",
+                  "questId": "hub-6-recipe-229727"
+                }
+              ]
+            },
+            {
+              "kind": "all",
+              "rules": [
+                {
+                  "kind": "quest_cleared",
+                  "questId": "hub-6-recipe-229707"
+                },
+                {
+                  "kind": "quest_cleared",
+                  "questId": "hub-6-recipe-229712"
+                }
+              ]
+            },
+            {
+              "kind": "all",
+              "rules": [
+                {
+                  "kind": "quest_cleared",
+                  "questId": "hub-6-recipe-229707"
+                },
+                {
+                  "kind": "quest_cleared",
+                  "questId": "hub-6-recipe-229713"
+                }
+              ]
+            },
+            {
+              "kind": "all",
+              "rules": [
+                {
+                  "kind": "quest_cleared",
+                  "questId": "hub-6-recipe-229707"
+                },
+                {
+                  "kind": "quest_cleared",
+                  "questId": "hub-6-recipe-229727"
+                }
+              ]
+            },
+            {
+              "kind": "all",
+              "rules": [
+                {
+                  "kind": "quest_cleared",
+                  "questId": "hub-6-recipe-229712"
+                },
+                {
+                  "kind": "quest_cleared",
+                  "questId": "hub-6-recipe-229713"
+                }
+              ]
+            },
+            {
+              "kind": "all",
+              "rules": [
+                {
+                  "kind": "quest_cleared",
+                  "questId": "hub-6-recipe-229712"
+                },
+                {
+                  "kind": "quest_cleared",
+                  "questId": "hub-6-recipe-229727"
+                }
+              ]
+            },
+            {
+              "kind": "all",
+              "rules": [
+                {
+                  "kind": "quest_cleared",
+                  "questId": "hub-6-recipe-229713"
+                },
+                {
+                  "kind": "quest_cleared",
+                  "questId": "hub-6-recipe-229727"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    "npcNotes": ["受注・参加のHR条件：HR4以上（出現前提とは別）。"],
+    "unlocks": [],
+    "sources": [
+      {
+        "site": "MHXX攻略レシピ",
+        "url": "http://wiki.mhxg.org/ida/229745.html",
+        "kind": "detail",
+        "checkedAt": "2026-10-16"
+      },
+      {
+        "site": "MHXX攻略レシピ（ランク一覧）",
+        "url": "http://wiki.mhxg.org/data/2026.html",
+        "kind": "list",
+        "checkedAt": "2026-10-16"
+      },
+      {
+        "site": "Game8 MHXX（受注HR・補完）",
+        "url": "https://game8.jp/mh-xx/823639",
+        "kind": "detail",
+        "checkedAt": "2026-10-16"
+      }
+    ],
+    "verification": "partial",
+    "verificationNote": "攻略レシピの一覧・個別ページを照合。条件と解放要素の完全確認を意味しません。記録上の前提達成とゲーム内での受注・受領状態を区別します。",
+    "warnings": []
+  },
+  {
+    "id": "hub-6-recipe-251362",
+    "name": "攻究せよ、鎌持つショウグン",
+    "category": "hub",
+    "rank": "6",
+    "order": 62,
+    "role": "hunter",
+    "tags": ["normal"],
+    "condition": {
+      "kind": "all",
+      "rules": [
+        {
+          "kind": "quest_cleared",
+          "questId": "village-6-recipe-244685"
+        },
+        {
+          "kind": "hr_at_least",
+          "value": 4
+        }
+      ]
+    },
+    "npcNotes": ["受注・参加のHR条件：HR4以上（出現前提とは別）。"],
+    "unlocks": [],
+    "sources": [
+      {
+        "site": "MHXX攻略レシピ",
+        "url": "http://wiki.mhxg.org/ida/251362.html",
+        "kind": "detail",
+        "checkedAt": "2026-10-16"
+      },
+      {
+        "site": "MHXX攻略レシピ（ランク一覧）",
+        "url": "http://wiki.mhxg.org/data/2026.html",
+        "kind": "list",
+        "checkedAt": "2026-10-16"
+      },
+      {
+        "site": "Game8 MHXX（受注HR・補完）",
+        "url": "https://game8.jp/mh-xx/823640",
+        "kind": "detail",
+        "checkedAt": "2026-10-16"
+      }
+    ],
+    "verification": "partial",
+    "verificationNote": "攻略レシピの一覧・個別ページを照合。条件と解放要素の完全確認を意味しません。記録上の前提達成とゲーム内での受注・受領状態を区別します。",
+    "warnings": []
+  },
+  {
+    "id": "hub-6-recipe-244694",
+    "name": "絞蛇竜は不気味に嗤う",
+    "category": "hub",
+    "rank": "6",
+    "order": 63,
+    "role": "hunter",
+    "tags": ["normal"],
+    "condition": {
+      "kind": "all",
+      "rules": [
+        {
+          "kind": "hr_at_least",
+          "value": 4
+        },
+        {
+          "kind": "any",
+          "rules": [
+            {
+              "kind": "all",
+              "rules": [
+                {
+                  "kind": "quest_cleared",
+                  "questId": "hub-6-recipe-229740"
+                },
+                {
+                  "kind": "quest_cleared",
+                  "questId": "hub-6-recipe-229741"
+                }
+              ]
+            },
+            {
+              "kind": "all",
+              "rules": [
+                {
+                  "kind": "quest_cleared",
+                  "questId": "hub-6-recipe-229740"
+                },
+                {
+                  "kind": "quest_cleared",
+                  "questId": "hub-6-recipe-229742"
+                }
+              ]
+            },
+            {
+              "kind": "all",
+              "rules": [
+                {
+                  "kind": "quest_cleared",
+                  "questId": "hub-6-recipe-229740"
+                },
+                {
+                  "kind": "quest_cleared",
+                  "questId": "hub-6-recipe-229743"
+                }
+              ]
+            },
+            {
+              "kind": "all",
+              "rules": [
+                {
+                  "kind": "quest_cleared",
+                  "questId": "hub-6-recipe-229740"
+                },
+                {
+                  "kind": "quest_cleared",
+                  "questId": "hub-6-recipe-229744"
+                }
+              ]
+            },
+            {
+              "kind": "all",
+              "rules": [
+                {
+                  "kind": "quest_cleared",
+                  "questId": "hub-6-recipe-229740"
+                },
+                {
+                  "kind": "quest_cleared",
+                  "questId": "hub-6-recipe-229745"
+                }
+              ]
+            },
+            {
+              "kind": "all",
+              "rules": [
+                {
+                  "kind": "quest_cleared",
+                  "questId": "hub-6-recipe-229741"
+                },
+                {
+                  "kind": "quest_cleared",
+                  "questId": "hub-6-recipe-229742"
+                }
+              ]
+            },
+            {
+              "kind": "all",
+              "rules": [
+                {
+                  "kind": "quest_cleared",
+                  "questId": "hub-6-recipe-229741"
+                },
+                {
+                  "kind": "quest_cleared",
+                  "questId": "hub-6-recipe-229743"
+                }
+              ]
+            },
+            {
+              "kind": "all",
+              "rules": [
+                {
+                  "kind": "quest_cleared",
+                  "questId": "hub-6-recipe-229741"
+                },
+                {
+                  "kind": "quest_cleared",
+                  "questId": "hub-6-recipe-229744"
+                }
+              ]
+            },
+            {
+              "kind": "all",
+              "rules": [
+                {
+                  "kind": "quest_cleared",
+                  "questId": "hub-6-recipe-229741"
+                },
+                {
+                  "kind": "quest_cleared",
+                  "questId": "hub-6-recipe-229745"
+                }
+              ]
+            },
+            {
+              "kind": "all",
+              "rules": [
+                {
+                  "kind": "quest_cleared",
+                  "questId": "hub-6-recipe-229742"
+                },
+                {
+                  "kind": "quest_cleared",
+                  "questId": "hub-6-recipe-229743"
+                }
+              ]
+            },
+            {
+              "kind": "all",
+              "rules": [
+                {
+                  "kind": "quest_cleared",
+                  "questId": "hub-6-recipe-229742"
+                },
+                {
+                  "kind": "quest_cleared",
+                  "questId": "hub-6-recipe-229744"
+                }
+              ]
+            },
+            {
+              "kind": "all",
+              "rules": [
+                {
+                  "kind": "quest_cleared",
+                  "questId": "hub-6-recipe-229742"
+                },
+                {
+                  "kind": "quest_cleared",
+                  "questId": "hub-6-recipe-229745"
+                }
+              ]
+            },
+            {
+              "kind": "all",
+              "rules": [
+                {
+                  "kind": "quest_cleared",
+                  "questId": "hub-6-recipe-229743"
+                },
+                {
+                  "kind": "quest_cleared",
+                  "questId": "hub-6-recipe-229744"
+                }
+              ]
+            },
+            {
+              "kind": "all",
+              "rules": [
+                {
+                  "kind": "quest_cleared",
+                  "questId": "hub-6-recipe-229743"
+                },
+                {
+                  "kind": "quest_cleared",
+                  "questId": "hub-6-recipe-229745"
+                }
+              ]
+            },
+            {
+              "kind": "all",
+              "rules": [
+                {
+                  "kind": "quest_cleared",
+                  "questId": "hub-6-recipe-229744"
+                },
+                {
+                  "kind": "quest_cleared",
+                  "questId": "hub-6-recipe-229745"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    "npcNotes": ["受注・参加のHR条件：HR4以上（出現前提とは別）。"],
+    "unlocks": [],
+    "sources": [
+      {
+        "site": "MHXX攻略レシピ",
+        "url": "http://wiki.mhxg.org/ida/244694.html",
+        "kind": "detail",
+        "checkedAt": "2026-10-16"
+      },
+      {
+        "site": "MHXX攻略レシピ（ランク一覧）",
+        "url": "http://wiki.mhxg.org/data/2026.html",
+        "kind": "list",
+        "checkedAt": "2026-10-16"
+      },
+      {
+        "site": "Game8 MHXX（受注HR・補完）",
+        "url": "https://game8.jp/mh-xx/823641",
+        "kind": "detail",
+        "checkedAt": "2026-10-16"
+      }
+    ],
+    "verification": "partial",
+    "verificationNote": "攻略レシピの一覧・個別ページを照合。条件と解放要素の完全確認を意味しません。記録上の前提達成とゲーム内での受注・受領状態を区別します。",
+    "warnings": []
+  },
+  {
+    "id": "hub-6-recipe-244695",
+    "name": "竜の大鎚・火山の化身",
+    "category": "hub",
+    "rank": "6",
+    "order": 64,
+    "role": "hunter",
+    "tags": ["normal"],
+    "condition": {
+      "kind": "all",
+      "rules": [
+        {
+          "kind": "hr_at_least",
+          "value": 4
+        },
+        {
+          "kind": "any",
+          "rules": [
+            {
+              "kind": "all",
+              "rules": [
+                {
+                  "kind": "quest_cleared",
+                  "questId": "hub-6-recipe-229740"
+                },
+                {
+                  "kind": "quest_cleared",
+                  "questId": "hub-6-recipe-229741"
+                }
+              ]
+            },
+            {
+              "kind": "all",
+              "rules": [
+                {
+                  "kind": "quest_cleared",
+                  "questId": "hub-6-recipe-229740"
+                },
+                {
+                  "kind": "quest_cleared",
+                  "questId": "hub-6-recipe-229742"
+                }
+              ]
+            },
+            {
+              "kind": "all",
+              "rules": [
+                {
+                  "kind": "quest_cleared",
+                  "questId": "hub-6-recipe-229740"
+                },
+                {
+                  "kind": "quest_cleared",
+                  "questId": "hub-6-recipe-229743"
+                }
+              ]
+            },
+            {
+              "kind": "all",
+              "rules": [
+                {
+                  "kind": "quest_cleared",
+                  "questId": "hub-6-recipe-229740"
+                },
+                {
+                  "kind": "quest_cleared",
+                  "questId": "hub-6-recipe-229744"
+                }
+              ]
+            },
+            {
+              "kind": "all",
+              "rules": [
+                {
+                  "kind": "quest_cleared",
+                  "questId": "hub-6-recipe-229740"
+                },
+                {
+                  "kind": "quest_cleared",
+                  "questId": "hub-6-recipe-229745"
+                }
+              ]
+            },
+            {
+              "kind": "all",
+              "rules": [
+                {
+                  "kind": "quest_cleared",
+                  "questId": "hub-6-recipe-229741"
+                },
+                {
+                  "kind": "quest_cleared",
+                  "questId": "hub-6-recipe-229742"
+                }
+              ]
+            },
+            {
+              "kind": "all",
+              "rules": [
+                {
+                  "kind": "quest_cleared",
+                  "questId": "hub-6-recipe-229741"
+                },
+                {
+                  "kind": "quest_cleared",
+                  "questId": "hub-6-recipe-229743"
+                }
+              ]
+            },
+            {
+              "kind": "all",
+              "rules": [
+                {
+                  "kind": "quest_cleared",
+                  "questId": "hub-6-recipe-229741"
+                },
+                {
+                  "kind": "quest_cleared",
+                  "questId": "hub-6-recipe-229744"
+                }
+              ]
+            },
+            {
+              "kind": "all",
+              "rules": [
+                {
+                  "kind": "quest_cleared",
+                  "questId": "hub-6-recipe-229741"
+                },
+                {
+                  "kind": "quest_cleared",
+                  "questId": "hub-6-recipe-229745"
+                }
+              ]
+            },
+            {
+              "kind": "all",
+              "rules": [
+                {
+                  "kind": "quest_cleared",
+                  "questId": "hub-6-recipe-229742"
+                },
+                {
+                  "kind": "quest_cleared",
+                  "questId": "hub-6-recipe-229743"
+                }
+              ]
+            },
+            {
+              "kind": "all",
+              "rules": [
+                {
+                  "kind": "quest_cleared",
+                  "questId": "hub-6-recipe-229742"
+                },
+                {
+                  "kind": "quest_cleared",
+                  "questId": "hub-6-recipe-229744"
+                }
+              ]
+            },
+            {
+              "kind": "all",
+              "rules": [
+                {
+                  "kind": "quest_cleared",
+                  "questId": "hub-6-recipe-229742"
+                },
+                {
+                  "kind": "quest_cleared",
+                  "questId": "hub-6-recipe-229745"
+                }
+              ]
+            },
+            {
+              "kind": "all",
+              "rules": [
+                {
+                  "kind": "quest_cleared",
+                  "questId": "hub-6-recipe-229743"
+                },
+                {
+                  "kind": "quest_cleared",
+                  "questId": "hub-6-recipe-229744"
+                }
+              ]
+            },
+            {
+              "kind": "all",
+              "rules": [
+                {
+                  "kind": "quest_cleared",
+                  "questId": "hub-6-recipe-229743"
+                },
+                {
+                  "kind": "quest_cleared",
+                  "questId": "hub-6-recipe-229745"
+                }
+              ]
+            },
+            {
+              "kind": "all",
+              "rules": [
+                {
+                  "kind": "quest_cleared",
+                  "questId": "hub-6-recipe-229744"
+                },
+                {
+                  "kind": "quest_cleared",
+                  "questId": "hub-6-recipe-229745"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    "npcNotes": ["受注・参加のHR条件：HR4以上（出現前提とは別）。"],
+    "unlocks": [],
+    "sources": [
+      {
+        "site": "MHXX攻略レシピ",
+        "url": "http://wiki.mhxg.org/ida/244695.html",
+        "kind": "detail",
+        "checkedAt": "2026-10-16"
+      },
+      {
+        "site": "MHXX攻略レシピ（ランク一覧）",
+        "url": "http://wiki.mhxg.org/data/2026.html",
+        "kind": "list",
+        "checkedAt": "2026-10-16"
+      },
+      {
+        "site": "Game8 MHXX（受注HR・補完）",
+        "url": "https://game8.jp/mh-xx/823642",
+        "kind": "detail",
+        "checkedAt": "2026-10-16"
+      }
+    ],
+    "verification": "partial",
+    "verificationNote": "攻略レシピの一覧・個別ページを照合。条件と解放要素の完全確認を意味しません。記録上の前提達成とゲーム内での受注・受領状態を区別します。",
+    "warnings": []
+  },
+  {
+    "id": "hub-6-recipe-244696",
+    "name": "極秘依頼！獰猛なる溶岩竜！",
+    "category": "hub",
+    "rank": "6",
+    "order": 65,
+    "role": "hunter",
+    "tags": ["request"],
+    "condition": {
+      "kind": "all",
+      "rules": [
+        {
+          "kind": "hr_at_least",
+          "value": 8
+        },
+        {
+          "kind": "unknown",
+          "note": "特定の獰猛化クエスト2つ以上（対象未記載）"
+        }
+      ]
+    },
+    "npcNotes": [
+      "ポッケ村 ネコートの依頼1を受注し、達成後に依頼主へ報告する。",
+      "受注・参加のHR条件：HR4以上（出現前提とは別）。"
+    ],
+    "unlocks": [
+      {
+        "kind": "other",
+        "label": "EXラヴァシリーズ（製法）",
+        "note": "依頼達成・報告後の製法解放。装備そのものの入手ではありません。"
+      }
+    ],
+    "sources": [
+      {
+        "site": "MHXX攻略レシピ",
+        "url": "http://wiki.mhxg.org/ida/244696.html",
+        "kind": "detail",
+        "checkedAt": "2026-10-16"
+      },
+      {
+        "site": "MHXX攻略レシピ（ランク一覧）",
+        "url": "http://wiki.mhxg.org/data/2026.html",
+        "kind": "list",
+        "checkedAt": "2026-10-16"
+      },
+      {
+        "site": "Game8 MHXX（受注HR・補完）",
+        "url": "https://game8.jp/mh-xx/823643",
+        "kind": "detail",
+        "checkedAt": "2026-10-16"
+      }
+    ],
+    "verification": "partial",
+    "verificationNote": "攻略レシピの一覧・個別ページを照合。条件と解放要素の完全確認を意味しません。記録上の前提達成とゲーム内での受注・受領状態を区別します。",
+    "warnings": []
+  },
+  {
+    "id": "hub-6-recipe-251363",
+    "name": "子分・取り分・イイ気分♪",
+    "category": "hub",
+    "rank": "6",
+    "order": 66,
+    "role": "hunter",
+    "tags": ["request"],
+    "condition": {
+      "kind": "all",
+      "rules": [
+        {
+          "kind": "quest_cleared",
+          "questId": "hub-4-recipe-238226"
+        },
+        {
+          "kind": "unknown",
+          "note": "特定の獰猛化クエスト2つ以上（対象未記載）"
+        },
+        {
+          "kind": "hr_at_least",
+          "value": 4
+        }
+      ]
+    },
+    "npcNotes": [
+      "チャチャの依頼1を達成し、必要な報告を行う。",
+      "ポッケ村 チャチャの依頼2を受注し、達成後に依頼主へ報告する。",
+      "受注・参加のHR条件：HR4以上（出現前提とは別）。"
+    ],
+    "unlocks": [
+      {
+        "kind": "other",
+        "label": "怪鳥のクックック（製法）",
+        "note": "依頼達成・報告後の製法解放。装備そのものの入手ではありません。"
+      },
+      {
+        "kind": "other",
+        "label": "どんぐりのお面（製法）",
+        "note": "依頼達成・報告後の製法解放。装備そのものの入手ではありません。"
+      },
+      {
+        "kind": "other",
+        "label": "オレチャマの一張羅（製法）",
+        "note": "依頼達成・報告後の製法解放。装備そのものの入手ではありません。"
+      },
+      {
+        "kind": "other",
+        "label": "大猪のドッドッド（製法）",
+        "note": "依頼達成・報告後の製法解放。装備そのものの入手ではありません。"
+      },
+      {
+        "kind": "other",
+        "label": "カニ爪のお面（製法）",
+        "note": "依頼達成・報告後の製法解放。装備そのものの入手ではありません。"
+      },
+      {
+        "kind": "other",
+        "label": "ワガハイのナイスな蓑（製法）",
+        "note": "依頼達成・報告後の製法解放。装備そのものの入手ではありません。"
+      }
+    ],
+    "sources": [
+      {
+        "site": "MHXX攻略レシピ",
+        "url": "http://wiki.mhxg.org/ida/251363.html",
+        "kind": "detail",
+        "checkedAt": "2026-10-16"
+      },
+      {
+        "site": "MHXX攻略レシピ（ランク一覧）",
+        "url": "http://wiki.mhxg.org/data/2026.html",
+        "kind": "list",
+        "checkedAt": "2026-10-16"
+      },
+      {
+        "site": "Game8 MHXX（受注HR・補完）",
+        "url": "https://game8.jp/mh-xx/823644",
+        "kind": "detail",
+        "checkedAt": "2026-10-16"
+      }
+    ],
+    "verification": "partial",
+    "verificationNote": "攻略レシピの一覧・個別ページを照合。条件と解放要素の完全確認を意味しません。記録上の前提達成とゲーム内での受注・受領状態を区別します。",
+    "warnings": []
+  },
+  {
+    "id": "hub-6-recipe-238249",
+    "name": "振り返ってもヤツがいる",
+    "category": "hub",
+    "rank": "6",
+    "order": 67,
+    "role": "prowler",
+    "tags": ["normal"],
+    "condition": {
+      "kind": "all",
+      "rules": [
+        {
+          "kind": "quest_cleared",
+          "questId": "hub-5-recipe-238240"
+        },
+        {
+          "kind": "hr_at_least",
+          "value": 4
+        }
+      ]
+    },
+    "npcNotes": ["受注・参加のHR条件：HR4以上（出現前提とは別）。"],
+    "unlocks": [],
+    "sources": [
+      {
+        "site": "MHXX攻略レシピ",
+        "url": "http://wiki.mhxg.org/ida/238249.html",
+        "kind": "detail",
+        "checkedAt": "2026-10-16"
+      },
+      {
+        "site": "MHXX攻略レシピ（ランク一覧）",
+        "url": "http://wiki.mhxg.org/data/2026.html",
+        "kind": "list",
+        "checkedAt": "2026-10-16"
+      },
+      {
+        "site": "Game8 MHXX（受注HR・補完）",
+        "url": "https://game8.jp/mh-xx/823645",
+        "kind": "detail",
+        "checkedAt": "2026-10-16"
+      }
+    ],
+    "verification": "partial",
+    "verificationNote": "攻略レシピの一覧・個別ページを照合。条件と解放要素の完全確認を意味しません。記録上の前提達成とゲーム内での受注・受領状態を区別します。",
+    "warnings": []
+  },
+  {
+    "id": "hub-6-recipe-238250",
+    "name": "夜鳥の頭部破壊に挑戦！",
+    "category": "hub",
+    "rank": "6",
+    "order": 68,
+    "role": "prowler",
+    "tags": ["normal"],
+    "condition": {
+      "kind": "all",
+      "rules": [
+        {
+          "kind": "quest_cleared",
+          "questId": "hub-6-recipe-238249"
+        },
+        {
+          "kind": "hr_at_least",
+          "value": 4
+        }
+      ]
+    },
+    "npcNotes": ["受注・参加のHR条件：HR4以上（出現前提とは別）。"],
+    "unlocks": [],
+    "sources": [
+      {
+        "site": "MHXX攻略レシピ",
+        "url": "http://wiki.mhxg.org/ida/238250.html",
+        "kind": "detail",
+        "checkedAt": "2026-10-16"
+      },
+      {
+        "site": "MHXX攻略レシピ（ランク一覧）",
+        "url": "http://wiki.mhxg.org/data/2026.html",
+        "kind": "list",
+        "checkedAt": "2026-10-16"
+      },
+      {
+        "site": "Game8 MHXX（受注HR・補完）",
+        "url": "https://game8.jp/mh-xx/823646",
+        "kind": "detail",
+        "checkedAt": "2026-10-16"
+      }
+    ],
+    "verification": "partial",
+    "verificationNote": "攻略レシピの一覧・個別ページを照合。条件と解放要素の完全確認を意味しません。記録上の前提達成とゲーム内での受注・受領状態を区別します。",
+    "warnings": []
+  },
+  {
+    "id": "hub-6-recipe-238251",
+    "name": "スノードロップをあなたに",
+    "category": "hub",
+    "rank": "6",
+    "order": 69,
+    "role": "prowler",
+    "tags": ["normal"],
+    "condition": {
+      "kind": "all",
+      "rules": [
+        {
+          "kind": "quest_cleared",
+          "questId": "hub-6-recipe-238249"
+        },
+        {
+          "kind": "hr_at_least",
+          "value": 4
+        }
+      ]
+    },
+    "npcNotes": ["受注・参加のHR条件：HR4以上（出現前提とは別）。"],
+    "unlocks": [],
+    "sources": [
+      {
+        "site": "MHXX攻略レシピ",
+        "url": "http://wiki.mhxg.org/ida/238251.html",
+        "kind": "detail",
+        "checkedAt": "2026-10-16"
+      },
+      {
+        "site": "MHXX攻略レシピ（ランク一覧）",
+        "url": "http://wiki.mhxg.org/data/2026.html",
+        "kind": "list",
+        "checkedAt": "2026-10-16"
+      },
+      {
+        "site": "Game8 MHXX（受注HR・補完）",
+        "url": "https://game8.jp/mh-xx/823647",
+        "kind": "detail",
+        "checkedAt": "2026-10-16"
+      }
+    ],
+    "verification": "partial",
+    "verificationNote": "攻略レシピの一覧・個別ページを照合。条件と解放要素の完全確認を意味しません。記録上の前提達成とゲーム内での受注・受領状態を区別します。",
+    "warnings": []
+  },
+  {
+    "id": "hub-6-recipe-238252",
+    "name": "メデタイお仕事",
+    "category": "hub",
+    "rank": "6",
+    "order": 70,
+    "role": "prowler",
+    "tags": ["normal"],
+    "condition": {
+      "kind": "all",
+      "rules": [
+        {
+          "kind": "quest_cleared",
+          "questId": "hub-6-recipe-238249"
+        },
+        {
+          "kind": "hr_at_least",
+          "value": 4
+        }
+      ]
+    },
+    "npcNotes": ["受注・参加のHR条件：HR4以上（出現前提とは別）。"],
+    "unlocks": [],
+    "sources": [
+      {
+        "site": "MHXX攻略レシピ",
+        "url": "http://wiki.mhxg.org/ida/238252.html",
+        "kind": "detail",
+        "checkedAt": "2026-10-16"
+      },
+      {
+        "site": "MHXX攻略レシピ（ランク一覧）",
+        "url": "http://wiki.mhxg.org/data/2026.html",
+        "kind": "list",
+        "checkedAt": "2026-10-16"
+      },
+      {
+        "site": "Game8 MHXX（受注HR・補完）",
+        "url": "https://game8.jp/mh-xx/823648",
+        "kind": "detail",
+        "checkedAt": "2026-10-16"
+      }
+    ],
+    "verification": "partial",
+    "verificationNote": "攻略レシピの一覧・個別ページを照合。条件と解放要素の完全確認を意味しません。記録上の前提達成とゲーム内での受注・受領状態を区別します。",
+    "warnings": []
+  }
+]

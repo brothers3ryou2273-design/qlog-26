@@ -25,7 +25,7 @@ test("production shows partial coverage and noindex", async ({ page }) => {
   ).toBeVisible();
   await expect(page.locator(".quest-card")).toHaveCount(45);
   await expect(
-    page.getByText("データ整備中 · 実クエスト474件収録"),
+    page.getByText("データ整備中 · 実クエスト709件収録"),
   ).toBeVisible();
   await page.getByRole("button", { name: "G級", exact: true }).click();
   await expect(
@@ -1075,11 +1075,9 @@ test("hub rosters, roles and key flags match each audited rank and coverage", as
       .selectOption("");
   }
   await page.getByText("収録状況と出典について", { exact: true }).click();
-  const table = page
-    .getByRole("table")
-    .filter({
-      has: page.getByText("集会所下位★1〜3の収録状況", { exact: true }),
-    });
+  const table = page.getByRole("table").filter({
+    has: page.getByText("集会所★1〜7の収録状況", { exact: true }),
+  });
   await expect(table).toContainText("31");
   await expect(table).toContainText("35");
   await expect(table).toContainText("38");
@@ -1099,15 +1097,13 @@ test("legacy 370-check backups merge with new hub progress and preserve HR and u
     }[]
   ).map((q) => q.id);
   await page.goto("./");
-  await page
-    .getByLabel("バックアップファイル")
-    .setInputFiles(
-      backup({
-        schemaVersion: 1,
-        completedQuestIds: [...ids, "future-hub-id"],
-        hr: 6,
-      }),
-    );
+  await page.getByLabel("バックアップファイル").setInputFiles(
+    backup({
+      schemaVersion: 1,
+      completedQuestIds: [...ids, "future-hub-id"],
+      hr: 6,
+    }),
+  );
   await expect(
     page.getByText("未収録のID：1件（削除せず保持します）"),
   ).toBeVisible();
@@ -1215,7 +1211,7 @@ test("village and hub prerequisite navigation works in both directions and repor
   ).toBe(true);
 });
 
-test("collected hub prerequisites leave unrecorded delivery and the uncollected hub-5 gate visible", async ({
+test("new hub-5 completion resolves the village chain while material delivery remains untracked", async ({
   page,
 }) => {
   const ids = (
@@ -1245,19 +1241,30 @@ test("collected hub prerequisites leave unrecorded delivery and the uncollected 
     .selectOption("10");
   await page.getByRole("searchbox").fill("遺群嶺を塞ぐ恐暴竜");
   await page.getByRole("button", { name: /遺群嶺を塞ぐ恐暴竜/ }).click();
-  await expect(page.locator(".state")).toHaveText("要確認");
-  await expect(
-    page.getByText(
-      "未収録：集★5雪山の主、ドドブランゴのクリア（キャラバンの竜人商人の依頼3）",
-      { exact: true },
-    ),
-  ).toBeVisible();
+  await expect(page.locator(".state")).toHaveText("未達成");
   await expect(
     page.getByRole("button", {
       name: "集会所 ★3（下位） / 化石に眠る太古の記憶",
       exact: true,
     }),
   ).toBeVisible();
+  await page
+    .getByRole("button", {
+      name: "集会所 ★5（上位） / 雪山の主、ドドブランゴ",
+      exact: true,
+    })
+    .click();
+  await expect(page.locator(".state")).toHaveText("記録上の前提達成");
+  await page
+    .getByRole("checkbox", {
+      name: "雪山の主、ドドブランゴをクリア",
+      exact: true,
+    })
+    .check();
+  await page
+    .getByRole("button", { name: "村 ★10 / 遺群嶺を塞ぐ恐暴竜", exact: true })
+    .click();
+  await expect(page.locator(".state")).toHaveText("記録上の前提達成");
   await page.getByRole("button", { name: "集会所", exact: true }).click();
   await page
     .getByRole("combobox", { name: "ランク", exact: true })
@@ -1270,4 +1277,196 @@ test("collected hub prerequisites leave unrecorded delivery and the uncollected 
       exact: true,
     }),
   ).toBeVisible();
+});
+
+test("upper hub rosters expose every role, key and urgent count", async ({
+  page,
+}) => {
+  await page.goto("./");
+  await page.getByRole("button", { name: "集会所", exact: true }).click();
+  for (const [rank, count, prowlers, keys, urgents] of [
+    ["4", 38, 4, 4, 0],
+    ["5", 51, 5, 5, 1],
+    ["6", 71, 4, 5, 2],
+    ["7", 75, 4, 6, 3],
+  ] as const) {
+    await page
+      .getByRole("combobox", { name: "ランク", exact: true })
+      .selectOption(rank);
+    await expect(page.locator(".quest-card")).toHaveCount(count);
+    await page
+      .getByRole("combobox", { name: "プレイ種別", exact: true })
+      .selectOption("prowler");
+    await expect(page.locator(".quest-card")).toHaveCount(prowlers);
+    await page
+      .getByRole("combobox", { name: "プレイ種別", exact: true })
+      .selectOption("");
+    for (const [type, n] of [
+      ["key", keys],
+      ["urgent", urgents],
+    ] as const) {
+      await page
+        .getByRole("combobox", { name: "種別", exact: true })
+        .selectOption(type);
+      await expect(page.locator(".quest-card")).toHaveCount(n);
+    }
+    await page
+      .getByRole("combobox", { name: "種別", exact: true })
+      .selectOption("");
+  }
+  await page.getByText("収録状況と出典について", { exact: true }).click();
+  const table = page
+    .getByRole("table")
+    .filter({ has: page.getByText("集会所★1〜7の収録状況", { exact: true }) });
+  for (const count of [38, 51, 71, 75])
+    await expect(table).toContainText(String(count));
+  expect(
+    await page.evaluate(
+      () => document.documentElement.scrollWidth <= innerWidth,
+    ),
+  ).toBe(true);
+});
+
+test("old 474-check JSON restores HR and unknown IDs while new upper checks persist", async ({
+  page,
+}) => {
+  const ids = (
+    JSON.parse(await readFile("docs/progress-baseline-474.json", "utf8")) as {
+      id: string;
+    }[]
+  ).map((q) => q.id);
+  await page.goto("./");
+  await page
+    .getByLabel("バックアップファイル")
+    .setInputFiles(
+      backup({
+        schemaVersion: 1,
+        completedQuestIds: [...ids, "future-g-id"],
+        hr: 8,
+      }),
+    );
+  await expect(
+    page.getByText("未収録のID：1件（削除せず保持します）"),
+  ).toBeVisible();
+  await page
+    .getByRole("checkbox", { name: "現在の進捗をファイルで置き換える" })
+    .check();
+  await page.getByRole("button", { name: "置き換えて復元" }).click();
+  await page.getByRole("button", { name: "集会所", exact: true }).click();
+  await page
+    .getByRole("combobox", { name: "ランク", exact: true })
+    .selectOption("4");
+  await page.getByRole("searchbox").fill("大師範の試練");
+  await page
+    .getByRole("checkbox", { name: "大師範の試練をクリア", exact: true })
+    .check();
+  await page.reload();
+  await page.getByRole("searchbox").fill("大師範の試練");
+  await expect(
+    page.getByRole("checkbox", { name: "大師範の試練をクリア", exact: true }),
+  ).toBeChecked();
+  await expect(page.getByLabel("現在のHR")).toHaveValue("8");
+  const pending = page.waitForEvent("download");
+  await page.getByRole("button", { name: "JSONを書き出す" }).click();
+  const exported = JSON.parse(
+    await readFile((await (await pending).path())!, "utf8"),
+  );
+  expect(exported.schemaVersion).toBe(1);
+  expect(exported.hr).toBe(8);
+  expect(exported.completedQuestIds).toHaveLength(476);
+  expect(exported.completedQuestIds).toEqual(
+    expect.arrayContaining([...ids, "future-g-id", "hub-4-recipe-228766"]),
+  );
+});
+
+test("upper progress distinguishes G-transition HR, random spawns, deliveries and village residuals", async ({
+  page,
+}) => {
+  const ids = (
+    JSON.parse(await readFile("docs/progress-baseline-474.json", "utf8")) as {
+      id: string;
+    }[]
+  ).map((q) => q.id);
+  for (const rank of [4, 5, 6, 7])
+    ids.push(
+      ...(
+        JSON.parse(await readFile(`src/data/hub-${rank}.json`, "utf8")) as {
+          id: string;
+        }[]
+      ).map((q) => q.id),
+    );
+  await page.addInitScript((ids) => {
+    if (!localStorage.getItem("qlog.mhxx.progress.v1"))
+      localStorage.setItem(
+        "qlog.mhxx.progress.v1",
+        JSON.stringify({ schemaVersion: 1, completedQuestIds: ids, hr: 8 }),
+      );
+  }, ids);
+  await page.goto("./");
+  await page.getByRole("button", { name: "集会所", exact: true }).click();
+  await page
+    .getByRole("combobox", { name: "ランク", exact: true })
+    .selectOption("7");
+  await page.getByRole("searchbox").fill("その腕前");
+  await page.getByRole("button", { name: /その腕前/ }).click();
+  await expect(page.locator(".state")).toHaveText("記録上の前提達成");
+  await expect(
+    page.getByRole("button", {
+      name: "集会所 ★7（上位） / 遺跡平原からの伝書",
+      exact: true,
+    }),
+  ).toBeVisible();
+  await expect(
+    page.getByText("G級（G★1・HR9）への進行", { exact: false }),
+  ).toBeVisible();
+  await page.getByLabel("現在のHR").fill("7");
+  await page.getByRole("button", { name: "HRを保存" }).click();
+  await expect(page.locator(".state")).toHaveText("未達成");
+  await page.getByLabel("現在のHR").fill("9");
+  await page.getByRole("button", { name: "HRを保存" }).click();
+  await page.getByRole("searchbox").fill("氷点下の支配者");
+  await page.getByRole("button", { name: /氷点下の支配者/ }).click();
+  await expect(page.locator(".state")).toHaveText("要確認");
+  await expect(
+    page.getByText(
+      "ランダム出現（現在の出現状態は保存記録から判定できません）",
+      { exact: true },
+    ),
+  ).toBeVisible();
+  await page.getByRole("searchbox").fill("蒼く渦巻く登竜門");
+  await page.getByRole("button", { name: /蒼く渦巻く登竜門/ }).click();
+  await expect(page.locator(".state")).toHaveText("要確認");
+  await expect(
+    page.getByText(
+      "交易船の船長の依頼3：納品 ユクモの木 x5泡立つ滑液 x2海綿質の上皮 x1",
+      { exact: true },
+    ),
+  ).toBeVisible();
+  await page.getByRole("button", { name: "村", exact: true }).click();
+  await page
+    .getByRole("combobox", { name: "ランク", exact: true })
+    .selectOption("9");
+  await page.getByRole("searchbox").fill("轟竜の狩猟をさせてやるぜ");
+  await page.getByRole("button", { name: /轟竜の狩猟をさせてやるぜ/ }).click();
+  await expect(page.locator(".state")).toHaveText("要確認");
+  await expect(
+    page.getByText("未収録の前提：G★2泥まみれの商魂！", { exact: true }),
+  ).toBeVisible();
+  await page
+    .getByRole("button", {
+      name: "集会所 ★7（上位） / 空の飛竜と陸の飛竜",
+      exact: true,
+    })
+    .click();
+  await expect(
+    page.getByRole("button", {
+      name: "村 ★9 / 轟竜の狩猟をさせてやるぜ！",
+      exact: true,
+    }),
+  ).toBeVisible();
+  expect(
+    await page.evaluate(
+      () => document.documentElement.scrollWidth <= innerWidth,
+    ),
+  ).toBe(true);
 });
