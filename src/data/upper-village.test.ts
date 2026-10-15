@@ -121,3 +121,42 @@ it("village 8 respects the two rank-7 prerequisites, three ship upgrades, and th
     }),
   );
 });
+
+it("village 9 resolves the checked spelling variant and preserves OR versus AND research requirements", () => {
+  const urgent = named("彗星の前にあらわる鎧竜", "9");
+  const ids = [
+    named("ぷくぅーっ！ザボアザギル！", "8").id,
+    named("ものぐさには爆鎚竜で喝！", "8").id,
+  ];
+  expect(references(urgent.condition)).toEqual(ids);
+  expect(
+    evaluate(urgent.condition, { schemaVersion: 1, completedQuestIds: ids }),
+  ).toBe("met");
+  expect(urgent.unlocks).toContainEqual(
+    expect.objectContaining({
+      label: "回復セット【基本】（研究項目）",
+      note: expect.stringContaining("解放（OR）"),
+    }),
+  );
+  expect(urgent.unlocks).toContainEqual(
+    expect.objectContaining({
+      label: "アイテムボックス拡張【極】（研究項目）",
+      note: expect.stringContaining("両方"),
+    }),
+  );
+  const target = named("岩竜の胸部破壊に挑戦！", "9");
+  for (const prior of ["身の毒は気の毒", "旧砂漠のポイント招きネコ"]) {
+    expect(
+      evaluate(target.condition, {
+        schemaVersion: 1,
+        completedQuestIds: [named(prior, "9").id],
+      }),
+    ).toBe("met");
+  }
+  expect(target.unlocks).toContainEqual(
+    expect.objectContaining({
+      label: "オトモ雇用枠84匹",
+      note: expect.stringContaining("G★3到達（OR）"),
+    }),
+  );
+});

@@ -3347,6 +3347,628 @@
           "dependentUrls": ["http://wiki.mhxg.org/ida/288244.html"]
         }
       ]
+    },
+    {
+      "rank": "9",
+      "checkedAt": "2026-10-16",
+      "recipeListUrl": "http://wiki.mhxg.org/data/2019.html",
+      "observedRecipeCount": 44,
+      "observedGame8Count": null,
+      "entries": [
+        {
+          "name": "遺群嶺の火竜",
+          "recipeUrl": "http://wiki.mhxg.org/ida/286216.html",
+          "game8Url": "https://game8.jp/mh-xx/823171",
+          "game8Name": "遺群嶺の火竜",
+          "role": "hunter",
+          "tags": ["key"],
+          "prerequisiteUrls": [],
+          "requestUrlFromDetail": null,
+          "dependentUrls": [
+            "http://wiki.mhxg.org/ida/286230.html",
+            "http://wiki.mhxg.org/ida/286232.html",
+            "http://wiki.mhxg.org/ida/286235.html",
+            "http://wiki.mhxg.org/ida/286237.html"
+          ]
+        },
+        {
+          "name": "嗚呼素晴らしき也、雷狼竜",
+          "recipeUrl": "http://wiki.mhxg.org/ida/286217.html",
+          "game8Url": "https://game8.jp/mh-xx/823172",
+          "game8Name": "嗚呼素晴らしき也、雷狼竜",
+          "role": "hunter",
+          "tags": ["normal"],
+          "prerequisiteUrls": [],
+          "requestUrlFromDetail": null,
+          "dependentUrls": []
+        },
+        {
+          "name": "鎧竜は、とってもグルメ？",
+          "recipeUrl": "http://wiki.mhxg.org/ida/286218.html",
+          "game8Url": "https://game8.jp/mh-xx/823173",
+          "game8Name": "鎧竜は、とってもグルメ？",
+          "role": "hunter",
+          "tags": ["normal"],
+          "prerequisiteUrls": [],
+          "requestUrlFromDetail": null,
+          "dependentUrls": []
+        },
+        {
+          "name": "漆黒に染まる嶺",
+          "recipeUrl": "http://wiki.mhxg.org/ida/286219.html",
+          "game8Url": null,
+          "game8Name": null,
+          "role": "hunter",
+          "tags": ["key"],
+          "prerequisiteUrls": [
+            "http://wiki.mhxg.org/ida/286230.html",
+            "http://wiki.mhxg.org/ida/286232.html",
+            "http://wiki.mhxg.org/ida/286235.html",
+            "http://wiki.mhxg.org/ida/286237.html"
+          ],
+          "requestUrlFromDetail": null,
+          "dependentUrls": [
+            "http://wiki.mhxg.org/ida/286225.html",
+            "http://wiki.mhxg.org/ida/288232.html",
+            "http://wiki.mhxg.org/ida/286227.html"
+          ]
+        },
+        {
+          "name": "砂漠の死闘と決意",
+          "recipeUrl": "http://wiki.mhxg.org/ida/286220.html",
+          "game8Url": null,
+          "game8Name": null,
+          "role": "hunter",
+          "tags": ["normal"],
+          "prerequisiteUrls": [
+            "http://wiki.mhxg.org/ida/286230.html",
+            "http://wiki.mhxg.org/ida/286232.html",
+            "http://wiki.mhxg.org/ida/286235.html",
+            "http://wiki.mhxg.org/ida/286237.html"
+          ],
+          "requestUrlFromDetail": null,
+          "dependentUrls": []
+        },
+        {
+          "name": "轟竜の狩猟をさせてやるぜ！",
+          "recipeUrl": "http://wiki.mhxg.org/ida/286221.html",
+          "game8Url": null,
+          "game8Name": null,
+          "role": "hunter",
+          "tags": ["request"],
+          "prerequisiteUrls": [
+            "http://wiki.mhxg.org/ida/265176.html",
+            "http://wiki.mhxg.org/ida/286190.html",
+            "http://wiki.mhxg.org/ida/305854.html",
+            "http://wiki.mhxg.org/ida/310431.html"
+          ],
+          "requestUrlFromDetail": "http://wiki.mhxg.org/ida/306654.html",
+          "dependentUrls": []
+        },
+        {
+          "name": "突撃取材！巨大甲虫を追え！",
+          "recipeUrl": "http://wiki.mhxg.org/ida/286222.html",
+          "game8Url": "https://game8.jp/mh-xx/823177",
+          "game8Name": "突撃取材！巨大甲虫を追え！",
+          "role": "hunter",
+          "tags": ["normal"],
+          "prerequisiteUrls": [],
+          "requestUrlFromDetail": null,
+          "dependentUrls": []
+        },
+        {
+          "name": "海竜、沈降開始",
+          "recipeUrl": "http://wiki.mhxg.org/ida/286223.html",
+          "game8Url": "https://game8.jp/mh-xx/823178",
+          "game8Name": "海竜、沈降開始",
+          "role": "hunter",
+          "tags": ["normal"],
+          "prerequisiteUrls": [],
+          "requestUrlFromDetail": null,
+          "dependentUrls": []
+        },
+        {
+          "name": "犯人はキミだ、雷狼竜",
+          "recipeUrl": "http://wiki.mhxg.org/ida/286224.html",
+          "game8Url": "https://game8.jp/mh-xx/823179",
+          "game8Name": "犯人はキミだ、雷狼竜",
+          "role": "hunter",
+          "tags": ["key"],
+          "prerequisiteUrls": [],
+          "requestUrlFromDetail": null,
+          "dependentUrls": [
+            "http://wiki.mhxg.org/ida/286226.html",
+            "http://wiki.mhxg.org/ida/286230.html",
+            "http://wiki.mhxg.org/ida/286232.html",
+            "http://wiki.mhxg.org/ida/286233.html",
+            "http://wiki.mhxg.org/ida/286235.html",
+            "http://wiki.mhxg.org/ida/286237.html",
+            "http://wiki.mhxg.org/ida/286239.html"
+          ]
+        },
+        {
+          "name": "領主の命令～泡狐竜篇～",
+          "recipeUrl": "http://wiki.mhxg.org/ida/288229.html",
+          "game8Url": null,
+          "game8Name": null,
+          "role": "hunter",
+          "tags": ["normal"],
+          "prerequisiteUrls": [
+            "http://wiki.mhxg.org/ida/286230.html",
+            "http://wiki.mhxg.org/ida/286232.html",
+            "http://wiki.mhxg.org/ida/286235.html",
+            "http://wiki.mhxg.org/ida/286237.html"
+          ],
+          "requestUrlFromDetail": null,
+          "dependentUrls": []
+        },
+        {
+          "name": "尾槌竜、登頂してこそ山男",
+          "recipeUrl": "http://wiki.mhxg.org/ida/288230.html",
+          "game8Url": "https://game8.jp/mh-xx/823181",
+          "game8Name": "尾槌竜、登頂してこそ山男",
+          "role": "hunter",
+          "tags": ["normal"],
+          "prerequisiteUrls": [],
+          "requestUrlFromDetail": null,
+          "dependentUrls": []
+        },
+        {
+          "name": "狩人のための舞台～密林～",
+          "recipeUrl": "http://wiki.mhxg.org/ida/288231.html",
+          "game8Url": null,
+          "game8Name": null,
+          "role": "hunter",
+          "tags": ["normal"],
+          "prerequisiteUrls": ["http://wiki.mhxg.org/ida/286227.html"],
+          "requestUrlFromDetail": null,
+          "dependentUrls": []
+        },
+        {
+          "name": "空路を阻む電竜退治！",
+          "recipeUrl": "http://wiki.mhxg.org/ida/286225.html",
+          "game8Url": null,
+          "game8Name": null,
+          "role": "hunter",
+          "tags": ["request"],
+          "prerequisiteUrls": [
+            "http://wiki.mhxg.org/ida/286219.html",
+            "http://wiki.mhxg.org/ida/286230.html",
+            "http://wiki.mhxg.org/ida/286232.html",
+            "http://wiki.mhxg.org/ida/286237.html",
+            "http://wiki.mhxg.org/ida/286235.html",
+            "http://wiki.mhxg.org/ida/286219.html",
+            "http://wiki.mhxg.org/ida/309545.html",
+            "http://wiki.mhxg.org/ida/295679.html",
+            "http://wiki.mhxg.org/ida/322005.html",
+            "http://wiki.mhxg.org/ida/322006.html"
+          ],
+          "requestUrlFromDetail": "http://wiki.mhxg.org/ida/306631.html",
+          "dependentUrls": []
+        },
+        {
+          "name": "ジャングル・フェロモン",
+          "recipeUrl": "http://wiki.mhxg.org/ida/286226.html",
+          "game8Url": null,
+          "game8Name": null,
+          "role": "hunter",
+          "tags": ["request"],
+          "prerequisiteUrls": [
+            "http://wiki.mhxg.org/ida/286224.html",
+            "http://wiki.mhxg.org/ida/243465.html",
+            "http://wiki.mhxg.org/ida/286224.html"
+          ],
+          "requestUrlFromDetail": "http://wiki.mhxg.org/ida/306660.html",
+          "dependentUrls": []
+        },
+        {
+          "name": "原生林からの救援要請",
+          "recipeUrl": "http://wiki.mhxg.org/ida/288232.html",
+          "game8Url": null,
+          "game8Name": null,
+          "role": "hunter",
+          "tags": ["normal"],
+          "prerequisiteUrls": ["http://wiki.mhxg.org/ida/286219.html"],
+          "requestUrlFromDetail": null,
+          "dependentUrls": []
+        },
+        {
+          "name": "闇に沈んだ暗殺者たち",
+          "recipeUrl": "http://wiki.mhxg.org/ida/288233.html",
+          "game8Url": "https://game8.jp/mh-xx/823186",
+          "game8Name": "闇に沈んだ暗殺者たち",
+          "role": "hunter",
+          "tags": ["normal"],
+          "prerequisiteUrls": [],
+          "requestUrlFromDetail": null,
+          "dependentUrls": []
+        },
+        {
+          "name": "龍識船強化！【氷牙竜編】",
+          "recipeUrl": "http://wiki.mhxg.org/ida/286227.html",
+          "game8Url": null,
+          "game8Name": null,
+          "role": "hunter",
+          "tags": ["key"],
+          "prerequisiteUrls": ["http://wiki.mhxg.org/ida/286219.html"],
+          "requestUrlFromDetail": null,
+          "dependentUrls": [
+            "http://wiki.mhxg.org/ida/288231.html",
+            "http://wiki.mhxg.org/ida/286231.html",
+            "http://wiki.mhxg.org/ida/286234.html",
+            "http://wiki.mhxg.org/ida/288237.html",
+            "http://wiki.mhxg.org/ida/288238.html",
+            "http://wiki.mhxg.org/ida/288239.html",
+            "http://wiki.mhxg.org/ida/288240.html",
+            "http://wiki.mhxg.org/ida/288241.html",
+            "http://wiki.mhxg.org/ida/288242.html",
+            "http://wiki.mhxg.org/ida/288243.html"
+          ]
+        },
+        {
+          "name": "ガムートの強さは世界一",
+          "recipeUrl": "http://wiki.mhxg.org/ida/286228.html",
+          "game8Url": null,
+          "game8Name": null,
+          "role": "hunter",
+          "tags": ["normal"],
+          "prerequisiteUrls": [
+            "http://wiki.mhxg.org/ida/286230.html",
+            "http://wiki.mhxg.org/ida/286232.html",
+            "http://wiki.mhxg.org/ida/286235.html",
+            "http://wiki.mhxg.org/ida/286237.html"
+          ],
+          "requestUrlFromDetail": null,
+          "dependentUrls": []
+        },
+        {
+          "name": "氷海に君臨する者",
+          "recipeUrl": "http://wiki.mhxg.org/ida/286229.html",
+          "game8Url": "https://game8.jp/mh-xx/823189",
+          "game8Name": "氷海に君臨する者",
+          "role": "hunter",
+          "tags": ["key"],
+          "prerequisiteUrls": [],
+          "requestUrlFromDetail": null,
+          "dependentUrls": [
+            "http://wiki.mhxg.org/ida/286230.html",
+            "http://wiki.mhxg.org/ida/286232.html",
+            "http://wiki.mhxg.org/ida/286235.html",
+            "http://wiki.mhxg.org/ida/286237.html"
+          ]
+        },
+        {
+          "name": "氷槍のザボアザギルたち",
+          "recipeUrl": "http://wiki.mhxg.org/ida/288234.html",
+          "game8Url": "https://game8.jp/mh-xx/823190",
+          "game8Name": "氷槍のザボアザギルたち",
+          "role": "hunter",
+          "tags": ["normal"],
+          "prerequisiteUrls": [],
+          "requestUrlFromDetail": null,
+          "dependentUrls": []
+        },
+        {
+          "name": "火竜の山でつかまえて",
+          "recipeUrl": "http://wiki.mhxg.org/ida/288235.html",
+          "game8Url": "https://game8.jp/mh-xx/823191",
+          "game8Name": "火竜の山でつかまえて",
+          "role": "hunter",
+          "tags": ["normal"],
+          "prerequisiteUrls": [],
+          "requestUrlFromDetail": null,
+          "dependentUrls": []
+        },
+        {
+          "name": "アグナコトルの捕獲",
+          "recipeUrl": "http://wiki.mhxg.org/ida/288236.html",
+          "game8Url": "https://game8.jp/mh-xx/823192",
+          "game8Name": "アグナコトルの捕獲",
+          "role": "hunter",
+          "tags": ["normal"],
+          "prerequisiteUrls": [],
+          "requestUrlFromDetail": null,
+          "dependentUrls": []
+        },
+        {
+          "name": "ディノバルド、再び！",
+          "recipeUrl": "http://wiki.mhxg.org/ida/286230.html",
+          "game8Url": null,
+          "game8Name": null,
+          "role": "hunter",
+          "tags": ["key"],
+          "prerequisiteUrls": [
+            "http://wiki.mhxg.org/ida/286216.html",
+            "http://wiki.mhxg.org/ida/286224.html",
+            "http://wiki.mhxg.org/ida/286229.html"
+          ],
+          "requestUrlFromDetail": null,
+          "dependentUrls": [
+            "http://wiki.mhxg.org/ida/286219.html",
+            "http://wiki.mhxg.org/ida/286220.html",
+            "http://wiki.mhxg.org/ida/288229.html",
+            "http://wiki.mhxg.org/ida/286228.html"
+          ]
+        },
+        {
+          "name": "轟竜と赤甲獣のデュエット",
+          "recipeUrl": "http://wiki.mhxg.org/ida/286231.html",
+          "game8Url": null,
+          "game8Name": null,
+          "role": "hunter",
+          "tags": ["normal"],
+          "prerequisiteUrls": ["http://wiki.mhxg.org/ida/286227.html"],
+          "requestUrlFromDetail": null,
+          "dependentUrls": []
+        },
+        {
+          "name": "ライゼクス、再び！",
+          "recipeUrl": "http://wiki.mhxg.org/ida/286232.html",
+          "game8Url": null,
+          "game8Name": null,
+          "role": "hunter",
+          "tags": ["key"],
+          "prerequisiteUrls": [
+            "http://wiki.mhxg.org/ida/286216.html",
+            "http://wiki.mhxg.org/ida/286224.html",
+            "http://wiki.mhxg.org/ida/286229.html"
+          ],
+          "requestUrlFromDetail": null,
+          "dependentUrls": [
+            "http://wiki.mhxg.org/ida/286219.html",
+            "http://wiki.mhxg.org/ida/286220.html",
+            "http://wiki.mhxg.org/ida/288229.html",
+            "http://wiki.mhxg.org/ida/286228.html"
+          ]
+        },
+        {
+          "name": "割り込み受注：卵納品",
+          "recipeUrl": "http://wiki.mhxg.org/ida/286233.html",
+          "game8Url": null,
+          "game8Name": null,
+          "role": "hunter",
+          "tags": ["request"],
+          "prerequisiteUrls": [
+            "http://wiki.mhxg.org/ida/286224.html",
+            "http://wiki.mhxg.org/ida/261125.html",
+            "http://wiki.mhxg.org/ida/286224.html"
+          ],
+          "requestUrlFromDetail": "http://wiki.mhxg.org/ida/306652.html",
+          "dependentUrls": []
+        },
+        {
+          "name": "ベリオロスを捕獲せよ！",
+          "recipeUrl": "http://wiki.mhxg.org/ida/286234.html",
+          "game8Url": null,
+          "game8Name": null,
+          "role": "hunter",
+          "tags": ["normal"],
+          "prerequisiteUrls": ["http://wiki.mhxg.org/ida/286227.html"],
+          "requestUrlFromDetail": null,
+          "dependentUrls": []
+        },
+        {
+          "name": "ガムート、再び！",
+          "recipeUrl": "http://wiki.mhxg.org/ida/286235.html",
+          "game8Url": null,
+          "game8Name": null,
+          "role": "hunter",
+          "tags": ["key"],
+          "prerequisiteUrls": [
+            "http://wiki.mhxg.org/ida/286216.html",
+            "http://wiki.mhxg.org/ida/286224.html",
+            "http://wiki.mhxg.org/ida/286229.html"
+          ],
+          "requestUrlFromDetail": null,
+          "dependentUrls": [
+            "http://wiki.mhxg.org/ida/286219.html",
+            "http://wiki.mhxg.org/ida/286220.html",
+            "http://wiki.mhxg.org/ida/288229.html",
+            "http://wiki.mhxg.org/ida/286228.html"
+          ]
+        },
+        {
+          "name": "雪山、雪玉、雪合戦！！",
+          "recipeUrl": "http://wiki.mhxg.org/ida/286236.html",
+          "game8Url": null,
+          "game8Name": null,
+          "role": "hunter",
+          "tags": ["request"],
+          "prerequisiteUrls": [
+            "http://wiki.mhxg.org/ida/243427.html",
+            "http://wiki.mhxg.org/ida/286203.html"
+          ],
+          "requestUrlFromDetail": "http://wiki.mhxg.org/ida/306648.html",
+          "dependentUrls": []
+        },
+        {
+          "name": "タマミツネ、再び！",
+          "recipeUrl": "http://wiki.mhxg.org/ida/286237.html",
+          "game8Url": null,
+          "game8Name": null,
+          "role": "hunter",
+          "tags": ["key"],
+          "prerequisiteUrls": [
+            "http://wiki.mhxg.org/ida/286216.html",
+            "http://wiki.mhxg.org/ida/286224.html",
+            "http://wiki.mhxg.org/ida/286229.html"
+          ],
+          "requestUrlFromDetail": null,
+          "dependentUrls": [
+            "http://wiki.mhxg.org/ida/286219.html",
+            "http://wiki.mhxg.org/ida/286220.html",
+            "http://wiki.mhxg.org/ida/288229.html",
+            "http://wiki.mhxg.org/ida/286228.html"
+          ]
+        },
+        {
+          "name": "空の家族・メシを作るッス",
+          "recipeUrl": "http://wiki.mhxg.org/ida/286238.html",
+          "game8Url": null,
+          "game8Name": null,
+          "role": "hunter",
+          "tags": ["request"],
+          "prerequisiteUrls": ["http://wiki.mhxg.org/ida/286203.html"],
+          "requestUrlFromDetail": "http://wiki.mhxg.org/ida/306634.html",
+          "dependentUrls": []
+        },
+        {
+          "name": "彗星の前にあらわる鎧竜",
+          "recipeUrl": "http://wiki.mhxg.org/ida/286203.html",
+          "game8Url": "https://game8.jp/mh-xx/823202",
+          "game8Name": "彗星の前にあらわる鎧竜",
+          "role": "hunter",
+          "tags": ["urgent"],
+          "prerequisiteUrls": [],
+          "requestUrlFromDetail": null,
+          "dependentUrls": []
+        },
+        {
+          "name": "……求めるならば力を示して",
+          "recipeUrl": "http://wiki.mhxg.org/ida/286239.html",
+          "game8Url": null,
+          "game8Name": null,
+          "role": "hunter",
+          "tags": ["request"],
+          "prerequisiteUrls": [
+            "http://wiki.mhxg.org/ida/286224.html",
+            "http://wiki.mhxg.org/ida/286224.html",
+            "http://wiki.mhxg.org/ida/309552.html",
+            "http://wiki.mhxg.org/ida/295684.html",
+            "http://wiki.mhxg.org/ida/322007.html",
+            "http://wiki.mhxg.org/ida/322008.html"
+          ],
+          "requestUrlFromDetail": "http://wiki.mhxg.org/ida/306636.html",
+          "dependentUrls": []
+        },
+        {
+          "name": "火山にいる先輩後輩",
+          "recipeUrl": "http://wiki.mhxg.org/ida/288237.html",
+          "game8Url": null,
+          "game8Name": null,
+          "role": "hunter",
+          "tags": ["normal"],
+          "prerequisiteUrls": ["http://wiki.mhxg.org/ida/286227.html"],
+          "requestUrlFromDetail": null,
+          "dependentUrls": []
+        },
+        {
+          "name": "凶運の遺跡平原",
+          "recipeUrl": "http://wiki.mhxg.org/ida/288238.html",
+          "game8Url": null,
+          "game8Name": null,
+          "role": "hunter",
+          "tags": ["normal"],
+          "prerequisiteUrls": ["http://wiki.mhxg.org/ida/286227.html"],
+          "requestUrlFromDetail": null,
+          "dependentUrls": []
+        },
+        {
+          "name": "古代林の大運動会",
+          "recipeUrl": "http://wiki.mhxg.org/ida/288239.html",
+          "game8Url": null,
+          "game8Name": null,
+          "role": "hunter",
+          "tags": ["normal"],
+          "prerequisiteUrls": ["http://wiki.mhxg.org/ida/286227.html"],
+          "requestUrlFromDetail": null,
+          "dependentUrls": []
+        },
+        {
+          "name": "旧砂漠でゆらめく蜃気楼",
+          "recipeUrl": "http://wiki.mhxg.org/ida/288240.html",
+          "game8Url": null,
+          "game8Name": null,
+          "role": "hunter",
+          "tags": ["normal"],
+          "prerequisiteUrls": ["http://wiki.mhxg.org/ida/286227.html"],
+          "requestUrlFromDetail": null,
+          "dependentUrls": []
+        },
+        {
+          "name": "火山の迷惑集団襲来！",
+          "recipeUrl": "http://wiki.mhxg.org/ida/288241.html",
+          "game8Url": null,
+          "game8Name": null,
+          "role": "hunter",
+          "tags": ["normal"],
+          "prerequisiteUrls": ["http://wiki.mhxg.org/ida/286227.html"],
+          "requestUrlFromDetail": null,
+          "dependentUrls": []
+        },
+        {
+          "name": "美しき幻獣",
+          "recipeUrl": "http://wiki.mhxg.org/ida/288242.html",
+          "game8Url": null,
+          "game8Name": null,
+          "role": "hunter",
+          "tags": ["normal"],
+          "prerequisiteUrls": ["http://wiki.mhxg.org/ida/286227.html"],
+          "requestUrlFromDetail": null,
+          "dependentUrls": []
+        },
+        {
+          "name": "騎士と古代林の挑戦",
+          "recipeUrl": "http://wiki.mhxg.org/ida/288243.html",
+          "game8Url": null,
+          "game8Name": null,
+          "role": "hunter",
+          "tags": ["normal"],
+          "prerequisiteUrls": ["http://wiki.mhxg.org/ida/286227.html"],
+          "requestUrlFromDetail": null,
+          "dependentUrls": []
+        },
+        {
+          "name": "狩場の光はすべて虫",
+          "recipeUrl": "http://wiki.mhxg.org/ida/288244.html",
+          "game8Url": null,
+          "game8Name": null,
+          "role": "prowler",
+          "tags": ["normal"],
+          "prerequisiteUrls": ["http://wiki.mhxg.org/ida/288228.html"],
+          "requestUrlFromDetail": null,
+          "dependentUrls": [
+            "http://wiki.mhxg.org/ida/288245.html",
+            "http://wiki.mhxg.org/ida/288246.html"
+          ]
+        },
+        {
+          "name": "身の毒は気の毒",
+          "recipeUrl": "http://wiki.mhxg.org/ida/288245.html",
+          "game8Url": null,
+          "game8Name": null,
+          "role": "prowler",
+          "tags": ["normal"],
+          "prerequisiteUrls": ["http://wiki.mhxg.org/ida/288244.html"],
+          "requestUrlFromDetail": null,
+          "dependentUrls": ["http://wiki.mhxg.org/ida/288247.html"]
+        },
+        {
+          "name": "旧砂漠のポイント招きネコ",
+          "recipeUrl": "http://wiki.mhxg.org/ida/288246.html",
+          "game8Url": null,
+          "game8Name": null,
+          "role": "prowler",
+          "tags": ["normal"],
+          "prerequisiteUrls": ["http://wiki.mhxg.org/ida/288244.html"],
+          "requestUrlFromDetail": null,
+          "dependentUrls": ["http://wiki.mhxg.org/ida/288247.html"]
+        },
+        {
+          "name": "岩竜の胸部破壊に挑戦！",
+          "recipeUrl": "http://wiki.mhxg.org/ida/288247.html",
+          "game8Url": null,
+          "game8Name": null,
+          "role": "prowler",
+          "tags": ["normal"],
+          "prerequisiteUrls": [
+            "http://wiki.mhxg.org/ida/288245.html",
+            "http://wiki.mhxg.org/ida/288246.html"
+          ],
+          "requestUrlFromDetail": null,
+          "dependentUrls": ["http://wiki.mhxg.org/ida/299001.html"]
+        }
+      ]
     }
   ],
   "lastExtendedAt": "2026-10-16"

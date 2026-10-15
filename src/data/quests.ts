@@ -8,6 +8,7 @@ import village6 from "./village-6.json";
 
 import village7 from "./village-7.json";
 import village8 from "./village-8.json";
+import village9 from "./village-9.json";
 
 // IDは表示名・参照元・並び順が変わっても固定。旧14件のg8由来IDも維持する。
 export const quests: Quest[] = [
@@ -19,8 +20,9 @@ export const quests: Quest[] = [
   ...village6,
   ...village7,
   ...village8,
+  ...village9,
 ] as Quest[];
 export const dataStatus = {
   complete: false,
-  note: "村★1〜8の276件を収録。攻略レシピのランク一覧と個別ページを照合し、条件・解放要素は専門資料で補完しています。未確認点は個別に表示します。",
+  note: "村★1〜9の320件を収録。攻略レシピのランク一覧と個別ページを照合し、条件・解放要素は専門資料で補完しています。未確認点は個別に表示します。",
 };
