@@ -1,0 +1,1588 @@
+[
+  {
+    "id": "village-7-recipe-285972",
+    "name": "遺群嶺の採集ツアー",
+    "rank": "7",
+    "category": "village",
+    "order": 0,
+    "role": "hunter",
+    "tags": [
+      "normal"
+    ],
+    "condition": {
+      "kind": "quest_cleared",
+      "questId": "village-7-recipe-285740"
+    },
+    "npcNotes": [
+      "調査隊の隊長と話す。"
+    ],
+    "unlocks": [],
+    "sources": [
+      {
+        "site": "MHXX攻略レシピ",
+        "url": "http://wiki.mhxg.org/ida/285972.html",
+        "kind": "detail",
+        "checkedAt": "2026-10-16"
+      },
+      {
+        "site": "MHXX攻略レシピ（ランク一覧）",
+        "url": "http://wiki.mhxg.org/data/2017.html",
+        "kind": "list",
+        "checkedAt": "2026-10-16"
+      },
+      {
+        "site": "Game8 MHXX（前提補完）",
+        "url": "https://game8.jp/mh-xx/823029",
+        "kind": "detail",
+        "checkedAt": "2026-10-16"
+      }
+    ],
+    "verification": "partial",
+    "verificationNote": "攻略レシピの一覧・個別ページを確認。前提が空欄の場合のみ専門資料・補助資料で補完。解放要素の未記載を「なし」と断定していません。",
+    "warnings": []
+  },
+  {
+    "id": "village-7-recipe-286152",
+    "name": "砂漠の採集ツアー",
+    "rank": "7",
+    "category": "village",
+    "order": 1,
+    "role": "hunter",
+    "tags": [
+      "normal"
+    ],
+    "condition": {
+      "kind": "quest_cleared",
+      "questId": "village-7-recipe-285981"
+    },
+    "npcNotes": [],
+    "unlocks": [],
+    "sources": [
+      {
+        "site": "MHXX攻略レシピ",
+        "url": "http://wiki.mhxg.org/ida/286152.html",
+        "kind": "detail",
+        "checkedAt": "2026-10-16"
+      },
+      {
+        "site": "MHXX攻略レシピ（ランク一覧）",
+        "url": "http://wiki.mhxg.org/data/2017.html",
+        "kind": "list",
+        "checkedAt": "2026-10-16"
+      }
+    ],
+    "verification": "partial",
+    "verificationNote": "攻略レシピの一覧・個別ページを確認。前提が空欄の場合のみ専門資料・補助資料で補完。解放要素の未記載を「なし」と断定していません。",
+    "warnings": []
+  },
+  {
+    "id": "village-7-recipe-285973",
+    "name": "遺跡平原の採集ツアー",
+    "rank": "7",
+    "category": "village",
+    "order": 2,
+    "role": "hunter",
+    "tags": [
+      "normal"
+    ],
+    "condition": {
+      "kind": "quest_cleared",
+      "questId": "village-7-recipe-285740"
+    },
+    "npcNotes": [
+      "調査隊の隊長と話す。"
+    ],
+    "unlocks": [],
+    "sources": [
+      {
+        "site": "MHXX攻略レシピ",
+        "url": "http://wiki.mhxg.org/ida/285973.html",
+        "kind": "detail",
+        "checkedAt": "2026-10-16"
+      },
+      {
+        "site": "MHXX攻略レシピ（ランク一覧）",
+        "url": "http://wiki.mhxg.org/data/2017.html",
+        "kind": "list",
+        "checkedAt": "2026-10-16"
+      },
+      {
+        "site": "Game8 MHXX（前提補完）",
+        "url": "https://game8.jp/mh-xx/823031",
+        "kind": "detail",
+        "checkedAt": "2026-10-16"
+      }
+    ],
+    "verification": "partial",
+    "verificationNote": "攻略レシピの一覧・個別ページを確認。前提が空欄の場合のみ専門資料・補助資料で補完。解放要素の未記載を「なし」と断定していません。",
+    "warnings": []
+  },
+  {
+    "id": "village-7-recipe-286153",
+    "name": "原生林の採集ツアー",
+    "rank": "7",
+    "category": "village",
+    "order": 3,
+    "role": "hunter",
+    "tags": [
+      "normal"
+    ],
+    "condition": {
+      "kind": "quest_cleared",
+      "questId": "village-7-recipe-285981"
+    },
+    "npcNotes": [],
+    "unlocks": [],
+    "sources": [
+      {
+        "site": "MHXX攻略レシピ",
+        "url": "http://wiki.mhxg.org/ida/286153.html",
+        "kind": "detail",
+        "checkedAt": "2026-10-16"
+      },
+      {
+        "site": "MHXX攻略レシピ（ランク一覧）",
+        "url": "http://wiki.mhxg.org/data/2017.html",
+        "kind": "list",
+        "checkedAt": "2026-10-16"
+      }
+    ],
+    "verification": "partial",
+    "verificationNote": "攻略レシピの一覧・個別ページを確認。前提が空欄の場合のみ専門資料・補助資料で補完。解放要素の未記載を「なし」と断定していません。",
+    "warnings": []
+  },
+  {
+    "id": "village-7-recipe-286154",
+    "name": "古代林の採集ツアー",
+    "rank": "7",
+    "category": "village",
+    "order": 4,
+    "role": "hunter",
+    "tags": [
+      "normal"
+    ],
+    "condition": {
+      "kind": "quest_cleared",
+      "questId": "village-7-recipe-285981"
+    },
+    "npcNotes": [],
+    "unlocks": [],
+    "sources": [
+      {
+        "site": "MHXX攻略レシピ",
+        "url": "http://wiki.mhxg.org/ida/286154.html",
+        "kind": "detail",
+        "checkedAt": "2026-10-16"
+      },
+      {
+        "site": "MHXX攻略レシピ（ランク一覧）",
+        "url": "http://wiki.mhxg.org/data/2017.html",
+        "kind": "list",
+        "checkedAt": "2026-10-16"
+      }
+    ],
+    "verification": "partial",
+    "verificationNote": "攻略レシピの一覧・個別ページを確認。前提が空欄の場合のみ専門資料・補助資料で補完。解放要素の未記載を「なし」と断定していません。",
+    "warnings": []
+  },
+  {
+    "id": "village-7-recipe-286155",
+    "name": "旧砂漠の採集ツアー",
+    "rank": "7",
+    "category": "village",
+    "order": 5,
+    "role": "hunter",
+    "tags": [
+      "normal"
+    ],
+    "condition": {
+      "kind": "quest_cleared",
+      "questId": "village-7-recipe-285986"
+    },
+    "npcNotes": [],
+    "unlocks": [],
+    "sources": [
+      {
+        "site": "MHXX攻略レシピ",
+        "url": "http://wiki.mhxg.org/ida/286155.html",
+        "kind": "detail",
+        "checkedAt": "2026-10-16"
+      },
+      {
+        "site": "MHXX攻略レシピ（ランク一覧）",
+        "url": "http://wiki.mhxg.org/data/2017.html",
+        "kind": "list",
+        "checkedAt": "2026-10-16"
+      }
+    ],
+    "verification": "partial",
+    "verificationNote": "攻略レシピの一覧・個別ページを確認。前提が空欄の場合のみ専門資料・補助資料で補完。解放要素の未記載を「なし」と断定していません。",
+    "warnings": []
+  },
+  {
+    "id": "village-7-recipe-286156",
+    "name": "森丘の採集ツアー",
+    "rank": "7",
+    "category": "village",
+    "order": 6,
+    "role": "hunter",
+    "tags": [
+      "normal"
+    ],
+    "condition": {
+      "kind": "quest_cleared",
+      "questId": "village-7-recipe-285986"
+    },
+    "npcNotes": [],
+    "unlocks": [],
+    "sources": [
+      {
+        "site": "MHXX攻略レシピ",
+        "url": "http://wiki.mhxg.org/ida/286156.html",
+        "kind": "detail",
+        "checkedAt": "2026-10-16"
+      },
+      {
+        "site": "MHXX攻略レシピ（ランク一覧）",
+        "url": "http://wiki.mhxg.org/data/2017.html",
+        "kind": "list",
+        "checkedAt": "2026-10-16"
+      }
+    ],
+    "verification": "partial",
+    "verificationNote": "攻略レシピの一覧・個別ページを確認。前提が空欄の場合のみ専門資料・補助資料で補完。解放要素の未記載を「なし」と断定していません。",
+    "warnings": []
+  },
+  {
+    "id": "village-7-recipe-285974",
+    "name": "雪山の採集ツアー",
+    "rank": "7",
+    "category": "village",
+    "order": 7,
+    "role": "hunter",
+    "tags": [
+      "normal"
+    ],
+    "condition": {
+      "kind": "quest_cleared",
+      "questId": "village-7-recipe-285740"
+    },
+    "npcNotes": [
+      "調査隊の隊長と話す。"
+    ],
+    "unlocks": [],
+    "sources": [
+      {
+        "site": "MHXX攻略レシピ",
+        "url": "http://wiki.mhxg.org/ida/285974.html",
+        "kind": "detail",
+        "checkedAt": "2026-10-16"
+      },
+      {
+        "site": "MHXX攻略レシピ（ランク一覧）",
+        "url": "http://wiki.mhxg.org/data/2017.html",
+        "kind": "list",
+        "checkedAt": "2026-10-16"
+      },
+      {
+        "site": "Game8 MHXX（前提補完）",
+        "url": "https://game8.jp/mh-xx/823036",
+        "kind": "detail",
+        "checkedAt": "2026-10-16"
+      }
+    ],
+    "verification": "partial",
+    "verificationNote": "攻略レシピの一覧・個別ページを確認。前提が空欄の場合のみ専門資料・補助資料で補完。解放要素の未記載を「なし」と断定していません。",
+    "warnings": []
+  },
+  {
+    "id": "village-7-recipe-286157",
+    "name": "渓流の採集ツアー",
+    "rank": "7",
+    "category": "village",
+    "order": 8,
+    "role": "hunter",
+    "tags": [
+      "normal"
+    ],
+    "condition": {
+      "kind": "quest_cleared",
+      "questId": "village-7-recipe-285986"
+    },
+    "npcNotes": [],
+    "unlocks": [],
+    "sources": [
+      {
+        "site": "MHXX攻略レシピ",
+        "url": "http://wiki.mhxg.org/ida/286157.html",
+        "kind": "detail",
+        "checkedAt": "2026-10-16"
+      },
+      {
+        "site": "MHXX攻略レシピ（ランク一覧）",
+        "url": "http://wiki.mhxg.org/data/2017.html",
+        "kind": "list",
+        "checkedAt": "2026-10-16"
+      }
+    ],
+    "verification": "partial",
+    "verificationNote": "攻略レシピの一覧・個別ページを確認。前提が空欄の場合のみ専門資料・補助資料で補完。解放要素の未記載を「なし」と断定していません。",
+    "warnings": []
+  },
+  {
+    "id": "village-7-recipe-285975",
+    "name": "挑発上手の跳狗竜",
+    "rank": "7",
+    "category": "village",
+    "order": 9,
+    "role": "hunter",
+    "tags": [
+      "normal"
+    ],
+    "condition": {
+      "kind": "quest_cleared",
+      "questId": "village-7-recipe-285740"
+    },
+    "npcNotes": [
+      "調査隊の隊長と話す。"
+    ],
+    "unlocks": [],
+    "sources": [
+      {
+        "site": "MHXX攻略レシピ",
+        "url": "http://wiki.mhxg.org/ida/285975.html",
+        "kind": "detail",
+        "checkedAt": "2026-10-16"
+      },
+      {
+        "site": "MHXX攻略レシピ（ランク一覧）",
+        "url": "http://wiki.mhxg.org/data/2017.html",
+        "kind": "list",
+        "checkedAt": "2026-10-16"
+      },
+      {
+        "site": "Game8 MHXX（前提補完）",
+        "url": "https://game8.jp/mh-xx/823038",
+        "kind": "detail",
+        "checkedAt": "2026-10-16"
+      }
+    ],
+    "verification": "partial",
+    "verificationNote": "攻略レシピの一覧・個別ページを確認。前提が空欄の場合のみ専門資料・補助資料で補完。解放要素の未記載を「なし」と断定していません。",
+    "warnings": []
+  },
+  {
+    "id": "village-7-recipe-285976",
+    "name": "青熊獣、出没中につき",
+    "rank": "7",
+    "category": "village",
+    "order": 10,
+    "role": "hunter",
+    "tags": [
+      "normal"
+    ],
+    "condition": {
+      "kind": "quest_cleared",
+      "questId": "village-7-recipe-285740"
+    },
+    "npcNotes": [
+      "調査隊の隊長と話す。"
+    ],
+    "unlocks": [],
+    "sources": [
+      {
+        "site": "MHXX攻略レシピ",
+        "url": "http://wiki.mhxg.org/ida/285976.html",
+        "kind": "detail",
+        "checkedAt": "2026-10-16"
+      },
+      {
+        "site": "MHXX攻略レシピ（ランク一覧）",
+        "url": "http://wiki.mhxg.org/data/2017.html",
+        "kind": "list",
+        "checkedAt": "2026-10-16"
+      },
+      {
+        "site": "Game8 MHXX（前提補完）",
+        "url": "https://game8.jp/mh-xx/823039",
+        "kind": "detail",
+        "checkedAt": "2026-10-16"
+      }
+    ],
+    "verification": "partial",
+    "verificationNote": "攻略レシピの一覧・個別ページを確認。前提が空欄の場合のみ専門資料・補助資料で補完。解放要素の未記載を「なし」と断定していません。",
+    "warnings": []
+  },
+  {
+    "id": "village-7-recipe-285977",
+    "name": "怪鳥の憂鬱",
+    "rank": "7",
+    "category": "village",
+    "order": 11,
+    "role": "hunter",
+    "tags": [
+      "normal"
+    ],
+    "condition": {
+      "kind": "quest_cleared",
+      "questId": "village-7-recipe-285740"
+    },
+    "npcNotes": [
+      "調査隊の隊長と話す。"
+    ],
+    "unlocks": [],
+    "sources": [
+      {
+        "site": "MHXX攻略レシピ",
+        "url": "http://wiki.mhxg.org/ida/285977.html",
+        "kind": "detail",
+        "checkedAt": "2026-10-16"
+      },
+      {
+        "site": "MHXX攻略レシピ（ランク一覧）",
+        "url": "http://wiki.mhxg.org/data/2017.html",
+        "kind": "list",
+        "checkedAt": "2026-10-16"
+      },
+      {
+        "site": "Game8 MHXX（前提補完）",
+        "url": "https://game8.jp/mh-xx/823040",
+        "kind": "detail",
+        "checkedAt": "2026-10-16"
+      }
+    ],
+    "verification": "partial",
+    "verificationNote": "攻略レシピの一覧・個別ページを確認。前提が空欄の場合のみ専門資料・補助資料で補完。解放要素の未記載を「なし」と断定していません。",
+    "warnings": []
+  },
+  {
+    "id": "village-7-recipe-285740",
+    "name": "調査隊初陣！遺群嶺の桃毛獣",
+    "rank": "7",
+    "category": "village",
+    "order": 12,
+    "role": "hunter",
+    "tags": [
+      "urgent"
+    ],
+    "condition": {
+      "kind": "all",
+      "rules": [
+        {
+          "kind": "quest_cleared",
+          "questId": "village-6-recipe-228561"
+        },
+        {
+          "kind": "quest_cleared",
+          "questId": "village-6-recipe-228562"
+        },
+        {
+          "kind": "quest_cleared",
+          "questId": "village-6-recipe-228564"
+        },
+        {
+          "kind": "quest_cleared",
+          "questId": "village-6-recipe-228565"
+        },
+        {
+          "kind": "quest_cleared",
+          "questId": "village-6-recipe-228566"
+        }
+      ]
+    },
+    "npcNotes": [],
+    "unlocks": [
+      {
+        "kind": "hunter_art",
+        "label": "ムーンブレイク LV1"
+      },
+      {
+        "kind": "hunter_art",
+        "label": "妖刀羅刹 LV1"
+      },
+      {
+        "kind": "hunter_art",
+        "label": "混沌の刃薬 LV1"
+      },
+      {
+        "kind": "hunter_art",
+        "label": "ラセンザン LV1"
+      },
+      {
+        "kind": "hunter_art",
+        "label": "インパクトプルス LV1"
+      },
+      {
+        "kind": "hunter_art",
+        "label": "アニマートハイ LV1"
+      },
+      {
+        "kind": "hunter_art",
+        "label": "治癒の盾 LV1"
+      },
+      {
+        "kind": "hunter_art",
+        "label": "AAフレア LV1"
+      },
+      {
+        "kind": "hunter_art",
+        "label": "テンペストアクス LV1"
+      },
+      {
+        "kind": "hunter_art",
+        "label": "チェインソーサー LV1"
+      },
+      {
+        "kind": "hunter_art",
+        "label": "覚蟲強化 LV1"
+      },
+      {
+        "kind": "hunter_art",
+        "label": "チャージショット LV1"
+      },
+      {
+        "kind": "hunter_art",
+        "label": "射突型裂孔弾 LV1"
+      },
+      {
+        "kind": "hunter_art",
+        "label": "身躱し射法 LV1"
+      }
+    ],
+    "sources": [
+      {
+        "site": "MHXX攻略レシピ",
+        "url": "http://wiki.mhxg.org/ida/285740.html",
+        "kind": "detail",
+        "checkedAt": "2026-10-16"
+      },
+      {
+        "site": "MHXX攻略レシピ（ランク一覧）",
+        "url": "http://wiki.mhxg.org/data/2017.html",
+        "kind": "list",
+        "checkedAt": "2026-10-16"
+      }
+    ],
+    "verification": "partial",
+    "verificationNote": "攻略レシピの一覧・個別ページを確認。前提が空欄の場合のみ専門資料・補助資料で補完。解放要素の未記載を「なし」と断定していません。",
+    "warnings": [
+      "施設の印は確認済みですが、専門資料の調査後も具体的な対応内容・追加条件は未確認です。"
+    ]
+  },
+  {
+    "id": "village-7-recipe-285978",
+    "name": "不潔ものの大集会",
+    "rank": "7",
+    "category": "village",
+    "order": 13,
+    "role": "hunter",
+    "tags": [
+      "normal"
+    ],
+    "condition": {
+      "kind": "quest_cleared",
+      "questId": "village-7-recipe-285740"
+    },
+    "npcNotes": [
+      "調査隊の隊長と話す。"
+    ],
+    "unlocks": [],
+    "sources": [
+      {
+        "site": "MHXX攻略レシピ",
+        "url": "http://wiki.mhxg.org/ida/285978.html",
+        "kind": "detail",
+        "checkedAt": "2026-10-16"
+      },
+      {
+        "site": "MHXX攻略レシピ（ランク一覧）",
+        "url": "http://wiki.mhxg.org/data/2017.html",
+        "kind": "list",
+        "checkedAt": "2026-10-16"
+      },
+      {
+        "site": "Game8 MHXX（前提補完）",
+        "url": "https://game8.jp/mh-xx/823042",
+        "kind": "detail",
+        "checkedAt": "2026-10-16"
+      }
+    ],
+    "verification": "partial",
+    "verificationNote": "攻略レシピの一覧・個別ページを確認。前提が空欄の場合のみ専門資料・補助資料で補完。解放要素の未記載を「なし」と断定していません。",
+    "warnings": []
+  },
+  {
+    "id": "village-7-recipe-285979",
+    "name": "遺群嶺の不思議な石",
+    "rank": "7",
+    "category": "village",
+    "order": 14,
+    "role": "hunter",
+    "tags": [
+      "key"
+    ],
+    "condition": {
+      "kind": "quest_cleared",
+      "questId": "village-7-recipe-285986"
+    },
+    "npcNotes": [],
+    "unlocks": [],
+    "sources": [
+      {
+        "site": "MHXX攻略レシピ",
+        "url": "http://wiki.mhxg.org/ida/285979.html",
+        "kind": "detail",
+        "checkedAt": "2026-10-16"
+      },
+      {
+        "site": "MHXX攻略レシピ（ランク一覧）",
+        "url": "http://wiki.mhxg.org/data/2017.html",
+        "kind": "list",
+        "checkedAt": "2026-10-16"
+      }
+    ],
+    "verification": "partial",
+    "verificationNote": "攻略レシピの一覧・個別ページを確認。前提が空欄の場合のみ専門資料・補助資料で補完。解放要素の未記載を「なし」と断定していません。",
+    "warnings": []
+  },
+  {
+    "id": "village-7-recipe-286158",
+    "name": "彗星のカケラはどこに？",
+    "rank": "7",
+    "category": "village",
+    "order": 15,
+    "role": "hunter",
+    "tags": [
+      "key"
+    ],
+    "condition": {
+      "kind": "quest_cleared",
+      "questId": "village-7-recipe-285981"
+    },
+    "npcNotes": [],
+    "unlocks": [
+      {
+        "kind": "facility",
+        "label": "研究室の開放",
+        "note": "このクエストのクリアで研究室が開放。各拡張には龍歴院ポイントや灼けた甲殻等を使う手続きが必要です。"
+      },
+      {
+        "kind": "facility",
+        "label": "アイテムボックス拡張【序】（研究項目）",
+        "note": "このクエストのクリア後に研究室で開放。拡張・研究には龍歴院ポイントや灼けた甲殻等が必要。個別必要量は未収録です。"
+      },
+      {
+        "kind": "facility",
+        "label": "基本セット【採集】（研究項目）",
+        "note": "このクエストのクリア後に研究室で開放。拡張・研究には龍歴院ポイントや灼けた甲殻等が必要。個別必要量は未収録です。"
+      },
+      {
+        "kind": "facility",
+        "label": "基本セット【地図】（研究項目）",
+        "note": "このクエストのクリア後に研究室で開放。拡張・研究には龍歴院ポイントや灼けた甲殻等が必要。個別必要量は未収録です。"
+      },
+      {
+        "kind": "facility",
+        "label": "基本セット【回復】（研究項目）",
+        "note": "このクエストのクリア後に研究室で開放。拡張・研究には龍歴院ポイントや灼けた甲殻等が必要。個別必要量は未収録です。"
+      },
+      {
+        "kind": "facility",
+        "label": "寒冷地セット（研究項目）",
+        "note": "このクエストのクリア後に研究室で開放。拡張・研究には龍歴院ポイントや灼けた甲殻等が必要。個別必要量は未収録です。"
+      },
+      {
+        "kind": "facility",
+        "label": "熱帯地セット（研究項目）",
+        "note": "このクエストのクリア後に研究室で開放。拡張・研究には龍歴院ポイントや灼けた甲殻等が必要。個別必要量は未収録です。"
+      }
+    ],
+    "sources": [
+      {
+        "site": "MHXX攻略レシピ",
+        "url": "http://wiki.mhxg.org/ida/286158.html",
+        "kind": "detail",
+        "checkedAt": "2026-10-16"
+      },
+      {
+        "site": "MHXX攻略レシピ（ランク一覧）",
+        "url": "http://wiki.mhxg.org/data/2017.html",
+        "kind": "list",
+        "checkedAt": "2026-10-16"
+      },
+      {
+        "site": "MHXX攻略Wiki（研究室）",
+        "url": "https://mhx-wiki.com/?%E7%A0%94%E7%A9%B6%E5%AE%A4%E3%81%AE%E6%8B%A1%E5%BC%B5",
+        "kind": "list",
+        "checkedAt": "2026-10-16"
+      }
+    ],
+    "verification": "partial",
+    "verificationNote": "攻略レシピの一覧・個別ページを確認。前提が空欄の場合のみ専門資料・補助資料で補完。解放要素の未記載を「なし」と断定していません。",
+    "warnings": []
+  },
+  {
+    "id": "village-7-recipe-285980",
+    "name": "竜の卵の納品・モーニング",
+    "rank": "7",
+    "category": "village",
+    "order": 16,
+    "role": "hunter",
+    "tags": [
+      "normal"
+    ],
+    "condition": {
+      "kind": "quest_cleared",
+      "questId": "village-7-recipe-285740"
+    },
+    "npcNotes": [
+      "調査隊の隊長と話す。"
+    ],
+    "unlocks": [],
+    "sources": [
+      {
+        "site": "MHXX攻略レシピ",
+        "url": "http://wiki.mhxg.org/ida/285980.html",
+        "kind": "detail",
+        "checkedAt": "2026-10-16"
+      },
+      {
+        "site": "MHXX攻略レシピ（ランク一覧）",
+        "url": "http://wiki.mhxg.org/data/2017.html",
+        "kind": "list",
+        "checkedAt": "2026-10-16"
+      },
+      {
+        "site": "Game8 MHXX（前提補完）",
+        "url": "https://game8.jp/mh-xx/823045",
+        "kind": "detail",
+        "checkedAt": "2026-10-16"
+      }
+    ],
+    "verification": "partial",
+    "verificationNote": "攻略レシピの一覧・個別ページを確認。前提が空欄の場合のみ専門資料・補助資料で補完。解放要素の未記載を「なし」と断定していません。",
+    "warnings": []
+  },
+  {
+    "id": "village-7-recipe-286159",
+    "name": "これが本当のダイミョウ行列？",
+    "rank": "7",
+    "category": "village",
+    "order": 17,
+    "role": "hunter",
+    "tags": [
+      "key"
+    ],
+    "condition": {
+      "kind": "quest_cleared",
+      "questId": "village-7-recipe-285986"
+    },
+    "npcNotes": [],
+    "unlocks": [],
+    "sources": [
+      {
+        "site": "MHXX攻略レシピ",
+        "url": "http://wiki.mhxg.org/ida/286159.html",
+        "kind": "detail",
+        "checkedAt": "2026-10-16"
+      },
+      {
+        "site": "MHXX攻略レシピ（ランク一覧）",
+        "url": "http://wiki.mhxg.org/data/2017.html",
+        "kind": "list",
+        "checkedAt": "2026-10-16"
+      }
+    ],
+    "verification": "partial",
+    "verificationNote": "攻略レシピの一覧・個別ページを確認。前提が空欄の場合のみ専門資料・補助資料で補完。解放要素の未記載を「なし」と断定していません。",
+    "warnings": []
+  },
+  {
+    "id": "village-7-recipe-285981",
+    "name": "友に迫る土砂竜",
+    "rank": "7",
+    "category": "village",
+    "order": 18,
+    "role": "hunter",
+    "tags": [
+      "key"
+    ],
+    "condition": {
+      "kind": "all",
+      "rules": [
+        {
+          "kind": "quest_cleared",
+          "questId": "village-7-recipe-285982"
+        },
+        {
+          "kind": "quest_cleared",
+          "questId": "village-7-recipe-285984"
+        }
+      ]
+    },
+    "npcNotes": [],
+    "unlocks": [],
+    "sources": [
+      {
+        "site": "MHXX攻略レシピ",
+        "url": "http://wiki.mhxg.org/ida/285981.html",
+        "kind": "detail",
+        "checkedAt": "2026-10-16"
+      },
+      {
+        "site": "MHXX攻略レシピ（ランク一覧）",
+        "url": "http://wiki.mhxg.org/data/2017.html",
+        "kind": "list",
+        "checkedAt": "2026-10-16"
+      }
+    ],
+    "verification": "partial",
+    "verificationNote": "攻略レシピの一覧・個別ページを確認。前提が空欄の場合のみ専門資料・補助資料で補完。解放要素の未記載を「なし」と断定していません。",
+    "warnings": [
+      "施設の印は確認済みですが、専門資料の調査後も具体的な対応内容・追加条件は未確認です。"
+    ]
+  },
+  {
+    "id": "village-7-recipe-286160",
+    "name": "ゲネポス行進曲",
+    "rank": "7",
+    "category": "village",
+    "order": 19,
+    "role": "hunter",
+    "tags": [
+      "normal"
+    ],
+    "condition": {
+      "kind": "quest_cleared",
+      "questId": "village-7-recipe-285981"
+    },
+    "npcNotes": [],
+    "unlocks": [],
+    "sources": [
+      {
+        "site": "MHXX攻略レシピ",
+        "url": "http://wiki.mhxg.org/ida/286160.html",
+        "kind": "detail",
+        "checkedAt": "2026-10-16"
+      },
+      {
+        "site": "MHXX攻略レシピ（ランク一覧）",
+        "url": "http://wiki.mhxg.org/data/2017.html",
+        "kind": "list",
+        "checkedAt": "2026-10-16"
+      }
+    ],
+    "verification": "partial",
+    "verificationNote": "攻略レシピの一覧・個別ページを確認。前提が空欄の場合のみ専門資料・補助資料で補完。解放要素の未記載を「なし」と断定していません。",
+    "warnings": []
+  },
+  {
+    "id": "village-7-recipe-286161",
+    "name": "砂中から忍び寄る影",
+    "rank": "7",
+    "category": "village",
+    "order": 20,
+    "role": "hunter",
+    "tags": [
+      "normal"
+    ],
+    "condition": {
+      "kind": "quest_cleared",
+      "questId": "village-7-recipe-285981"
+    },
+    "npcNotes": [],
+    "unlocks": [],
+    "sources": [
+      {
+        "site": "MHXX攻略レシピ",
+        "url": "http://wiki.mhxg.org/ida/286161.html",
+        "kind": "detail",
+        "checkedAt": "2026-10-16"
+      },
+      {
+        "site": "MHXX攻略レシピ（ランク一覧）",
+        "url": "http://wiki.mhxg.org/data/2017.html",
+        "kind": "list",
+        "checkedAt": "2026-10-16"
+      }
+    ],
+    "verification": "partial",
+    "verificationNote": "攻略レシピの一覧・個別ページを確認。前提が空欄の場合のみ専門資料・補助資料で補完。解放要素の未記載を「なし」と断定していません。",
+    "warnings": []
+  },
+  {
+    "id": "village-7-recipe-286162",
+    "name": "熱帯イチゴはカネの味？",
+    "rank": "7",
+    "category": "village",
+    "order": 21,
+    "role": "hunter",
+    "tags": [
+      "normal"
+    ],
+    "condition": {
+      "kind": "quest_cleared",
+      "questId": "village-7-recipe-285981"
+    },
+    "npcNotes": [],
+    "unlocks": [],
+    "sources": [
+      {
+        "site": "MHXX攻略レシピ",
+        "url": "http://wiki.mhxg.org/ida/286162.html",
+        "kind": "detail",
+        "checkedAt": "2026-10-16"
+      },
+      {
+        "site": "MHXX攻略レシピ（ランク一覧）",
+        "url": "http://wiki.mhxg.org/data/2017.html",
+        "kind": "list",
+        "checkedAt": "2026-10-16"
+      }
+    ],
+    "verification": "partial",
+    "verificationNote": "攻略レシピの一覧・個別ページを確認。前提が空欄の場合のみ専門資料・補助資料で補完。解放要素の未記載を「なし」と断定していません。",
+    "warnings": []
+  },
+  {
+    "id": "village-7-recipe-285982",
+    "name": "珍味アルセルタスをもう一度",
+    "rank": "7",
+    "category": "village",
+    "order": 22,
+    "role": "hunter",
+    "tags": [
+      "key"
+    ],
+    "condition": {
+      "kind": "quest_cleared",
+      "questId": "village-7-recipe-285740"
+    },
+    "npcNotes": [
+      "調査隊の隊長と話す。"
+    ],
+    "unlocks": [],
+    "sources": [
+      {
+        "site": "MHXX攻略レシピ",
+        "url": "http://wiki.mhxg.org/ida/285982.html",
+        "kind": "detail",
+        "checkedAt": "2026-10-16"
+      },
+      {
+        "site": "MHXX攻略レシピ（ランク一覧）",
+        "url": "http://wiki.mhxg.org/data/2017.html",
+        "kind": "list",
+        "checkedAt": "2026-10-16"
+      },
+      {
+        "site": "Game8 MHXX（前提補完）",
+        "url": "https://game8.jp/mh-xx/823051",
+        "kind": "detail",
+        "checkedAt": "2026-10-16"
+      }
+    ],
+    "verification": "partial",
+    "verificationNote": "攻略レシピの一覧・個別ページを確認。前提が空欄の場合のみ専門資料・補助資料で補完。解放要素の未記載を「なし」と断定していません。",
+    "warnings": []
+  },
+  {
+    "id": "village-7-recipe-285983",
+    "name": "イタズラ猿に制裁を",
+    "rank": "7",
+    "category": "village",
+    "order": 23,
+    "role": "hunter",
+    "tags": [
+      "normal"
+    ],
+    "condition": {
+      "kind": "quest_cleared",
+      "questId": "village-7-recipe-285740"
+    },
+    "npcNotes": [
+      "調査隊の隊長と話す。"
+    ],
+    "unlocks": [],
+    "sources": [
+      {
+        "site": "MHXX攻略レシピ",
+        "url": "http://wiki.mhxg.org/ida/285983.html",
+        "kind": "detail",
+        "checkedAt": "2026-10-16"
+      },
+      {
+        "site": "MHXX攻略レシピ（ランク一覧）",
+        "url": "http://wiki.mhxg.org/data/2017.html",
+        "kind": "list",
+        "checkedAt": "2026-10-16"
+      },
+      {
+        "site": "Game8 MHXX（前提補完）",
+        "url": "https://game8.jp/mh-xx/823115",
+        "kind": "detail",
+        "checkedAt": "2026-10-16"
+      }
+    ],
+    "verification": "partial",
+    "verificationNote": "攻略レシピの一覧・個別ページを確認。前提が空欄の場合のみ専門資料・補助資料で補完。解放要素の未記載を「なし」と断定していません。",
+    "warnings": []
+  },
+  {
+    "id": "village-7-recipe-286163",
+    "name": "毒怪鳥活用計画",
+    "rank": "7",
+    "category": "village",
+    "order": 24,
+    "role": "hunter",
+    "tags": [
+      "key"
+    ],
+    "condition": {
+      "kind": "quest_cleared",
+      "questId": "village-7-recipe-285981"
+    },
+    "npcNotes": [],
+    "unlocks": [],
+    "sources": [
+      {
+        "site": "MHXX攻略レシピ",
+        "url": "http://wiki.mhxg.org/ida/286163.html",
+        "kind": "detail",
+        "checkedAt": "2026-10-16"
+      },
+      {
+        "site": "MHXX攻略レシピ（ランク一覧）",
+        "url": "http://wiki.mhxg.org/data/2017.html",
+        "kind": "list",
+        "checkedAt": "2026-10-16"
+      }
+    ],
+    "verification": "partial",
+    "verificationNote": "攻略レシピの一覧・個別ページを確認。前提が空欄の場合のみ専門資料・補助資料で補完。解放要素の未記載を「なし」と断定していません。",
+    "warnings": []
+  },
+  {
+    "id": "village-7-recipe-286164",
+    "name": "ぱっくん！テツカブラ",
+    "rank": "7",
+    "category": "village",
+    "order": 25,
+    "role": "hunter",
+    "tags": [
+      "key"
+    ],
+    "condition": {
+      "kind": "quest_cleared",
+      "questId": "village-7-recipe-285981"
+    },
+    "npcNotes": [],
+    "unlocks": [],
+    "sources": [
+      {
+        "site": "MHXX攻略レシピ",
+        "url": "http://wiki.mhxg.org/ida/286164.html",
+        "kind": "detail",
+        "checkedAt": "2026-10-16"
+      },
+      {
+        "site": "MHXX攻略レシピ（ランク一覧）",
+        "url": "http://wiki.mhxg.org/data/2017.html",
+        "kind": "list",
+        "checkedAt": "2026-10-16"
+      }
+    ],
+    "verification": "partial",
+    "verificationNote": "攻略レシピの一覧・個別ページを確認。前提が空欄の場合のみ専門資料・補助資料で補完。解放要素の未記載を「なし」と断定していません。",
+    "warnings": []
+  },
+  {
+    "id": "village-7-recipe-286165",
+    "name": "ババコンガを狩猟せよ",
+    "rank": "7",
+    "category": "village",
+    "order": 26,
+    "role": "hunter",
+    "tags": [
+      "normal"
+    ],
+    "condition": {
+      "kind": "quest_cleared",
+      "questId": "village-7-recipe-285981"
+    },
+    "npcNotes": [],
+    "unlocks": [],
+    "sources": [
+      {
+        "site": "MHXX攻略レシピ",
+        "url": "http://wiki.mhxg.org/ida/286165.html",
+        "kind": "detail",
+        "checkedAt": "2026-10-16"
+      },
+      {
+        "site": "MHXX攻略レシピ（ランク一覧）",
+        "url": "http://wiki.mhxg.org/data/2017.html",
+        "kind": "list",
+        "checkedAt": "2026-10-16"
+      }
+    ],
+    "verification": "partial",
+    "verificationNote": "攻略レシピの一覧・個別ページを確認。前提が空欄の場合のみ専門資料・補助資料で補完。解放要素の未記載を「なし」と断定していません。",
+    "warnings": []
+  },
+  {
+    "id": "village-7-recipe-286166",
+    "name": "ボルボロスを捕獲せよ！",
+    "rank": "7",
+    "category": "village",
+    "order": 27,
+    "role": "hunter",
+    "tags": [
+      "normal"
+    ],
+    "condition": {
+      "kind": "quest_cleared",
+      "questId": "village-7-recipe-285986"
+    },
+    "npcNotes": [],
+    "unlocks": [],
+    "sources": [
+      {
+        "site": "MHXX攻略レシピ",
+        "url": "http://wiki.mhxg.org/ida/286166.html",
+        "kind": "detail",
+        "checkedAt": "2026-10-16"
+      },
+      {
+        "site": "MHXX攻略レシピ（ランク一覧）",
+        "url": "http://wiki.mhxg.org/data/2017.html",
+        "kind": "list",
+        "checkedAt": "2026-10-16"
+      }
+    ],
+    "verification": "partial",
+    "verificationNote": "攻略レシピの一覧・個別ページを確認。前提が空欄の場合のみ専門資料・補助資料で補完。解放要素の未記載を「なし」と断定していません。",
+    "warnings": []
+  },
+  {
+    "id": "village-7-recipe-286167",
+    "name": "旧砂漠横断のお荷物",
+    "rank": "7",
+    "category": "village",
+    "order": 28,
+    "role": "hunter",
+    "tags": [
+      "normal"
+    ],
+    "condition": {
+      "kind": "quest_cleared",
+      "questId": "village-7-recipe-285986"
+    },
+    "npcNotes": [],
+    "unlocks": [],
+    "sources": [
+      {
+        "site": "MHXX攻略レシピ",
+        "url": "http://wiki.mhxg.org/ida/286167.html",
+        "kind": "detail",
+        "checkedAt": "2026-10-16"
+      },
+      {
+        "site": "MHXX攻略レシピ（ランク一覧）",
+        "url": "http://wiki.mhxg.org/data/2017.html",
+        "kind": "list",
+        "checkedAt": "2026-10-16"
+      }
+    ],
+    "verification": "partial",
+    "verificationNote": "攻略レシピの一覧・個別ページを確認。前提が空欄の場合のみ専門資料・補助資料で補完。解放要素の未記載を「なし」と断定していません。",
+    "warnings": []
+  },
+  {
+    "id": "village-7-recipe-286168",
+    "name": "森丘の怪",
+    "rank": "7",
+    "category": "village",
+    "order": 29,
+    "role": "hunter",
+    "tags": [
+      "normal"
+    ],
+    "condition": {
+      "kind": "quest_cleared",
+      "questId": "village-7-recipe-285986"
+    },
+    "npcNotes": [],
+    "unlocks": [],
+    "sources": [
+      {
+        "site": "MHXX攻略レシピ",
+        "url": "http://wiki.mhxg.org/ida/286168.html",
+        "kind": "detail",
+        "checkedAt": "2026-10-16"
+      },
+      {
+        "site": "MHXX攻略レシピ（ランク一覧）",
+        "url": "http://wiki.mhxg.org/data/2017.html",
+        "kind": "list",
+        "checkedAt": "2026-10-16"
+      }
+    ],
+    "verification": "partial",
+    "verificationNote": "攻略レシピの一覧・個別ページを確認。前提が空欄の場合のみ専門資料・補助資料で補完。解放要素の未記載を「なし」と断定していません。",
+    "warnings": []
+  },
+  {
+    "id": "village-7-recipe-285984",
+    "name": "商売ガタキのドスギアノス",
+    "rank": "7",
+    "category": "village",
+    "order": 30,
+    "role": "hunter",
+    "tags": [
+      "key"
+    ],
+    "condition": {
+      "kind": "quest_cleared",
+      "questId": "village-7-recipe-285740"
+    },
+    "npcNotes": [
+      "調査隊の隊長と話す。"
+    ],
+    "unlocks": [],
+    "sources": [
+      {
+        "site": "MHXX攻略レシピ",
+        "url": "http://wiki.mhxg.org/ida/285984.html",
+        "kind": "detail",
+        "checkedAt": "2026-10-16"
+      },
+      {
+        "site": "MHXX攻略レシピ（ランク一覧）",
+        "url": "http://wiki.mhxg.org/data/2017.html",
+        "kind": "list",
+        "checkedAt": "2026-10-16"
+      },
+      {
+        "site": "Game8 MHXX（前提補完）",
+        "url": "https://game8.jp/mh-xx/823122",
+        "kind": "detail",
+        "checkedAt": "2026-10-16"
+      }
+    ],
+    "verification": "partial",
+    "verificationNote": "攻略レシピの一覧・個別ページを確認。前提が空欄の場合のみ専門資料・補助資料で補完。解放要素の未記載を「なし」と断定していません。",
+    "warnings": []
+  },
+  {
+    "id": "village-7-recipe-285985",
+    "name": "氷雪に舞う白うさぎ",
+    "rank": "7",
+    "category": "village",
+    "order": 31,
+    "role": "hunter",
+    "tags": [
+      "normal"
+    ],
+    "condition": {
+      "kind": "quest_cleared",
+      "questId": "village-7-recipe-285740"
+    },
+    "npcNotes": [
+      "調査隊の隊長と話す。"
+    ],
+    "unlocks": [],
+    "sources": [
+      {
+        "site": "MHXX攻略レシピ",
+        "url": "http://wiki.mhxg.org/ida/285985.html",
+        "kind": "detail",
+        "checkedAt": "2026-10-16"
+      },
+      {
+        "site": "MHXX攻略レシピ（ランク一覧）",
+        "url": "http://wiki.mhxg.org/data/2017.html",
+        "kind": "list",
+        "checkedAt": "2026-10-16"
+      },
+      {
+        "site": "Game8 MHXX（前提補完）",
+        "url": "https://game8.jp/mh-xx/823123",
+        "kind": "detail",
+        "checkedAt": "2026-10-16"
+      }
+    ],
+    "verification": "partial",
+    "verificationNote": "攻略レシピの一覧・個別ページを確認。前提が空欄の場合のみ専門資料・補助資料で補完。解放要素の未記載を「なし」と断定していません。",
+    "warnings": []
+  },
+  {
+    "id": "village-7-recipe-285986",
+    "name": "渓流に棲む水獣",
+    "rank": "7",
+    "category": "village",
+    "order": 32,
+    "role": "hunter",
+    "tags": [
+      "key"
+    ],
+    "condition": {
+      "kind": "all",
+      "rules": [
+        {
+          "kind": "quest_cleared",
+          "questId": "village-7-recipe-286158"
+        },
+        {
+          "kind": "quest_cleared",
+          "questId": "village-7-recipe-286163"
+        },
+        {
+          "kind": "quest_cleared",
+          "questId": "village-7-recipe-286164"
+        }
+      ]
+    },
+    "npcNotes": [],
+    "unlocks": [],
+    "sources": [
+      {
+        "site": "MHXX攻略レシピ",
+        "url": "http://wiki.mhxg.org/ida/285986.html",
+        "kind": "detail",
+        "checkedAt": "2026-10-16"
+      },
+      {
+        "site": "MHXX攻略レシピ（ランク一覧）",
+        "url": "http://wiki.mhxg.org/data/2017.html",
+        "kind": "list",
+        "checkedAt": "2026-10-16"
+      }
+    ],
+    "verification": "partial",
+    "verificationNote": "攻略レシピの一覧・個別ページを確認。前提が空欄の場合のみ専門資料・補助資料で補完。解放要素の未記載を「なし」と断定していません。",
+    "warnings": []
+  },
+  {
+    "id": "village-7-recipe-286169",
+    "name": "旬な食材を採らせておくれ！",
+    "rank": "7",
+    "category": "village",
+    "order": 33,
+    "role": "hunter",
+    "tags": [
+      "request"
+    ],
+    "condition": {
+      "kind": "all",
+      "rules": [
+        {
+          "kind": "quest_cleared",
+          "questId": "village-7-recipe-285986"
+        },
+        {
+          "kind": "quest_cleared",
+          "questId": "village-2-recipe-220164"
+        },
+        {
+          "kind": "quest_cleared",
+          "questId": "village-3-g8-822877"
+        },
+        {
+          "kind": "hr_at_least",
+          "value": 2
+        },
+        {
+          "kind": "external_flag",
+          "label": "未収録：集★2食材の価値は鮮度なりをクリア（食材屋の女将の依頼1）"
+        }
+      ]
+    },
+    "npcNotes": [
+      "ユクモ村 食材屋の女将の依頼2を受注する。",
+      "ユクモノ足湯で依頼主と会話する。"
+    ],
+    "unlocks": [
+      {
+        "kind": "food",
+        "label": "リュウノテール",
+        "note": "依頼達成後、依頼主に報告して追加。"
+      }
+    ],
+    "sources": [
+      {
+        "site": "MHXX攻略レシピ",
+        "url": "http://wiki.mhxg.org/ida/286169.html",
+        "kind": "detail",
+        "checkedAt": "2026-10-16"
+      },
+      {
+        "site": "MHXX攻略レシピ（ランク一覧）",
+        "url": "http://wiki.mhxg.org/data/2017.html",
+        "kind": "list",
+        "checkedAt": "2026-10-16"
+      },
+      {
+        "site": "MHXX攻略レシピ（前提依頼）",
+        "url": "http://wiki.mhxg.org/ida/243481.html",
+        "kind": "detail",
+        "checkedAt": "2026-10-16"
+      }
+    ],
+    "verification": "partial",
+    "verificationNote": "攻略レシピの一覧・個別ページを確認。前提が空欄の場合のみ専門資料・補助資料で補完。解放要素の未記載を「なし」と断定していません。",
+    "warnings": []
+  },
+  {
+    "id": "village-7-recipe-285987",
+    "name": "ニャンター、お使い再び",
+    "rank": "7",
+    "category": "village",
+    "order": 34,
+    "role": "prowler",
+    "tags": [
+      "normal"
+    ],
+    "condition": {
+      "kind": "quest_cleared",
+      "questId": "village-7-recipe-285740"
+    },
+    "npcNotes": [
+      "調査隊の隊長と話す。"
+    ],
+    "unlocks": [
+      {
+        "kind": "facility",
+        "label": "オトモの育成レベル上限35",
+        "note": "このクエストのクリア、または集★4大師範の試練、集★6妖艶なる舞＋不動の山神、村★10恐れ見よ、赤き災厄の彗星をのクリアによる別経路（OR）。初期雇用レベルとは別です。"
+      }
+    ],
+    "sources": [
+      {
+        "site": "MHXX攻略レシピ",
+        "url": "http://wiki.mhxg.org/ida/285987.html",
+        "kind": "detail",
+        "checkedAt": "2026-10-16"
+      },
+      {
+        "site": "MHXX攻略レシピ（ランク一覧）",
+        "url": "http://wiki.mhxg.org/data/2017.html",
+        "kind": "list",
+        "checkedAt": "2026-10-16"
+      },
+      {
+        "site": "Game8 MHXX（前提補完）",
+        "url": "https://game8.jp/mh-xx/823126",
+        "kind": "detail",
+        "checkedAt": "2026-10-16"
+      },
+      {
+        "site": "MHXXニャンターwiki（オトモ）",
+        "url": "https://w.atwiki.jp/mhxxnyanter/pages/20.html",
+        "kind": "list",
+        "checkedAt": "2026-10-16"
+      },
+      {
+        "site": "MHXXニャンターwiki（オトモ）",
+        "url": "https://w.atwiki.jp/mhxxnyanter/pages/24.html",
+        "kind": "list",
+        "checkedAt": "2026-10-16"
+      }
+    ],
+    "verification": "partial",
+    "verificationNote": "攻略レシピの一覧・個別ページを確認。前提が空欄の場合のみ専門資料・補助資料で補完。解放要素の未記載を「なし」と断定していません。",
+    "warnings": []
+  },
+  {
+    "id": "village-7-recipe-286170",
+    "name": "芳香せしコンガ",
+    "rank": "7",
+    "category": "village",
+    "order": 35,
+    "role": "prowler",
+    "tags": [
+      "normal"
+    ],
+    "condition": {
+      "kind": "quest_cleared",
+      "questId": "village-7-recipe-285987"
+    },
+    "npcNotes": [],
+    "unlocks": [],
+    "sources": [
+      {
+        "site": "MHXX攻略レシピ",
+        "url": "http://wiki.mhxg.org/ida/286170.html",
+        "kind": "detail",
+        "checkedAt": "2026-10-16"
+      },
+      {
+        "site": "MHXX攻略レシピ（ランク一覧）",
+        "url": "http://wiki.mhxg.org/data/2017.html",
+        "kind": "list",
+        "checkedAt": "2026-10-16"
+      },
+      {
+        "site": "MHXXニャンターwiki（出現・施設）",
+        "url": "https://w.atwiki.jp/mhxxnyanter/pages/24.html",
+        "kind": "list",
+        "checkedAt": "2026-10-16"
+      }
+    ],
+    "verification": "partial",
+    "verificationNote": "攻略レシピの一覧・個別ページを確認。前提が空欄の場合のみ専門資料・補助資料で補完。解放要素の未記載を「なし」と断定していません。",
+    "warnings": []
+  },
+  {
+    "id": "village-7-recipe-286171",
+    "name": "疾走するドスランポス",
+    "rank": "7",
+    "category": "village",
+    "order": 36,
+    "role": "prowler",
+    "tags": [
+      "normal"
+    ],
+    "condition": {
+      "kind": "quest_cleared",
+      "questId": "village-7-recipe-285987"
+    },
+    "npcNotes": [],
+    "unlocks": [
+      {
+        "kind": "facility",
+        "label": "オトモ雇用枠78匹",
+        "note": "このクエストのクリア、またはG★2到達（OR）。基本情報表・専用クエスト表が一致。"
+      }
+    ],
+    "sources": [
+      {
+        "site": "MHXX攻略レシピ",
+        "url": "http://wiki.mhxg.org/ida/286171.html",
+        "kind": "detail",
+        "checkedAt": "2026-10-16"
+      },
+      {
+        "site": "MHXX攻略レシピ（ランク一覧）",
+        "url": "http://wiki.mhxg.org/data/2017.html",
+        "kind": "list",
+        "checkedAt": "2026-10-16"
+      },
+      {
+        "site": "MHXXニャンターwiki（出現・施設）",
+        "url": "https://w.atwiki.jp/mhxxnyanter/pages/24.html",
+        "kind": "list",
+        "checkedAt": "2026-10-16"
+      },
+      {
+        "site": "MHXXニャンターwiki（オトモ）",
+        "url": "https://w.atwiki.jp/mhxxnyanter/pages/20.html",
+        "kind": "list",
+        "checkedAt": "2026-10-16"
+      }
+    ],
+    "verification": "partial",
+    "verificationNote": "攻略レシピの一覧・個別ページを確認。前提が空欄の場合のみ専門資料・補助資料で補完。解放要素の未記載を「なし」と断定していません。",
+    "warnings": []
+  }
+]

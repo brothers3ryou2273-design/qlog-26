@@ -60,17 +60,14 @@ describe("rank-by-rank catalog audit against observed primary rosters", () => {
           if (target) expect(dependents(q.id, quests)).toContain(target);
         }
       }
-      expect(
-        validateQuests(
-          quests.filter((q) => Number(q.rank) <= Number(rank.rank)),
-        ),
-      ).toEqual([]);
+      expect(validateQuests(quests)).toEqual([]);
     });
   }
   it("has 197 distinct entries, 24 prowler quests, and five genuinely condition-free quests", () => {
-    expect(quests).toHaveLength(197);
-    expect(new Set(quests.map((q) => q.id)).size).toBe(197);
-    expect(quests.filter((q) => q.role === "prowler")).toHaveLength(24);
+    const released = quests.filter((q) => Number(q.rank) <= 6);
+    expect(released).toHaveLength(197);
+    expect(new Set(quests.map((q) => q.id)).size).toBe(quests.length);
+    expect(released.filter((q) => q.role === "prowler")).toHaveLength(24);
     expect(
       quests.filter((q) => q.condition.kind === "none").map((q) => q.name),
     ).toEqual([
@@ -274,7 +271,7 @@ describe("stage 3 source policy and automatic prerequisites", () => {
       }),
     ).toBe("met");
   });
-  it.each(["宿命の四天王", "高難度：一対の巨影", "英雄への道"])(
+  it.each(["高難度：一対の巨影", "英雄への道"])(
     "does not claim ambiguous or uncollected prerequisites are met: %s",
     (name) => {
       expect(

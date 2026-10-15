@@ -1,0 +1,2058 @@
+[
+  {
+    "id": "village-1-g8-822831",
+    "name": "古代林の特産ゼンマイ",
+    "rank": "1",
+    "recipeUrl": "http://wiki.mhxg.org/ida/219133.html",
+    "unlocks": []
+  },
+  {
+    "id": "village-1-recipe-219134",
+    "name": "悠久が眠る竜琥珀",
+    "rank": "1",
+    "recipeUrl": "http://wiki.mhxg.org/ida/219134.html",
+    "unlocks": []
+  },
+  {
+    "id": "village-1-recipe-219135",
+    "name": "滋養強壮不老の蛾",
+    "rank": "1",
+    "recipeUrl": "http://wiki.mhxg.org/ida/219135.html",
+    "unlocks": []
+  },
+  {
+    "id": "village-1-recipe-219136",
+    "name": "森の中のケルビ",
+    "rank": "1",
+    "recipeUrl": "http://wiki.mhxg.org/ida/219136.html",
+    "unlocks": []
+  },
+  {
+    "id": "village-1-g8-822835",
+    "name": "古代の森でシメジ狩り",
+    "rank": "1",
+    "recipeUrl": "http://wiki.mhxg.org/ida/218316.html",
+    "unlocks": []
+  },
+  {
+    "id": "village-1-g8-822836",
+    "name": "マッカォの群れを討伐せよ！",
+    "rank": "1",
+    "recipeUrl": "http://wiki.mhxg.org/ida/218315.html",
+    "unlocks": []
+  },
+  {
+    "id": "village-1-g8-822837",
+    "name": "ネコ嬢のジャギィ討伐依頼",
+    "rank": "1",
+    "recipeUrl": "http://wiki.mhxg.org/ida/219137.html",
+    "unlocks": []
+  },
+  {
+    "id": "village-2-recipe-219308",
+    "name": "古代林の採集ツアー",
+    "rank": "2",
+    "recipeUrl": "http://wiki.mhxg.org/ida/219308.html",
+    "unlocks": []
+  },
+  {
+    "id": "village-2-recipe-219309",
+    "name": "旧砂漠の採集ツアー",
+    "rank": "2",
+    "recipeUrl": "http://wiki.mhxg.org/ida/219309.html",
+    "unlocks": []
+  },
+  {
+    "id": "village-2-recipe-219310",
+    "name": "森丘の採集ツアー",
+    "rank": "2",
+    "recipeUrl": "http://wiki.mhxg.org/ida/219310.html",
+    "unlocks": []
+  },
+  {
+    "id": "village-2-recipe-219311",
+    "name": "雪山の採集ツアー",
+    "rank": "2",
+    "recipeUrl": "http://wiki.mhxg.org/ida/219311.html",
+    "unlocks": []
+  },
+  {
+    "id": "village-2-recipe-219312",
+    "name": "渓流の採集ツアー",
+    "rank": "2",
+    "recipeUrl": "http://wiki.mhxg.org/ida/219312.html",
+    "unlocks": []
+  },
+  {
+    "id": "village-2-g8-822843",
+    "name": "跳躍のアウトロー",
+    "rank": "2",
+    "recipeUrl": "http://wiki.mhxg.org/ida/219257.html",
+    "unlocks": [
+      {
+        "kind": "hunter_art",
+        "label": "獣宿し【獅子】 LV1"
+      },
+      {
+        "kind": "hunter_art",
+        "label": "鏡花の構え LV1"
+      },
+      {
+        "kind": "hunter_art",
+        "label": "昇竜撃 LV1"
+      },
+      {
+        "kind": "hunter_art",
+        "label": "天翔空破断 LV1"
+      },
+      {
+        "kind": "hunter_art",
+        "label": "大挑発 LV1"
+      },
+      {
+        "kind": "hunter_art",
+        "label": "奏纏 LV1"
+      },
+      {
+        "kind": "hunter_art",
+        "label": "ガードレイジ LV1"
+      },
+      {
+        "kind": "hunter_art",
+        "label": "覇山竜撃砲 LV1"
+      },
+      {
+        "kind": "hunter_art",
+        "label": "剣鬼形態 LV1"
+      },
+      {
+        "kind": "hunter_art",
+        "label": "ヒーリングボトル LV1"
+      },
+      {
+        "kind": "hunter_art",
+        "label": "蟲纏い LV1"
+      },
+      {
+        "kind": "hunter_art",
+        "label": "ラピッドヘブン LV1"
+      },
+      {
+        "kind": "hunter_art",
+        "label": "スーパーノヴァ LV1"
+      },
+      {
+        "kind": "hunter_art",
+        "label": "ブレイドワイヤー LV1"
+      },
+      {
+        "kind": "food",
+        "label": "高玄米",
+        "note": "緊急クエストのクリアで追加（専門Wikiで補完）。"
+      },
+      {
+        "kind": "food",
+        "label": "ベルナッパ",
+        "note": "緊急クエストのクリアで追加（専門Wikiで補完）。"
+      },
+      {
+        "kind": "food",
+        "label": "古代真鯛",
+        "note": "緊急クエストのクリアで追加（専門Wikiで補完）。"
+      },
+      {
+        "kind": "facility",
+        "label": "屋台の情熱まかない飯",
+        "note": "食事施設のメニュー追加。専門Wikiの開放条件欄はこのクエストを指定しています。追加の納品・報告条件の記載はありません。"
+      }
+    ]
+  },
+  {
+    "id": "village-2-g8-822844",
+    "name": "お騒がせのリノプロス",
+    "rank": "2",
+    "recipeUrl": "http://wiki.mhxg.org/ida/219313.html",
+    "unlocks": []
+  },
+  {
+    "id": "village-2-recipe-219314",
+    "name": "古代林の暴れん坊",
+    "rank": "2",
+    "recipeUrl": "http://wiki.mhxg.org/ida/219314.html",
+    "unlocks": []
+  },
+  {
+    "id": "village-2-recipe-219315",
+    "name": "リモセトス採果利用法",
+    "rank": "2",
+    "recipeUrl": "http://wiki.mhxg.org/ida/219315.html",
+    "unlocks": []
+  },
+  {
+    "id": "village-2-recipe-219316",
+    "name": "ゼンマイ肴に古代を感じて",
+    "rank": "2",
+    "recipeUrl": "http://wiki.mhxg.org/ida/219316.html",
+    "unlocks": []
+  },
+  {
+    "id": "village-2-recipe-219317",
+    "name": "古代林の精算アイテム納品",
+    "rank": "2",
+    "recipeUrl": "http://wiki.mhxg.org/ida/219317.html",
+    "unlocks": []
+  },
+  {
+    "id": "village-2-g8-822849",
+    "name": "ドスゲネポスを狩れ！",
+    "rank": "2",
+    "recipeUrl": "http://wiki.mhxg.org/ida/218317.html",
+    "unlocks": []
+  },
+  {
+    "id": "village-2-g8-822850",
+    "name": "大地を泳ぐモンスター",
+    "rank": "2",
+    "recipeUrl": "http://wiki.mhxg.org/ida/218318.html",
+    "unlocks": []
+  },
+  {
+    "id": "village-2-recipe-218319",
+    "name": "ゲネポス討伐作戦！",
+    "rank": "2",
+    "recipeUrl": "http://wiki.mhxg.org/ida/218319.html",
+    "unlocks": []
+  },
+  {
+    "id": "village-2-g8-822852",
+    "name": "迫るヤオザミ包囲網",
+    "rank": "2",
+    "recipeUrl": "http://wiki.mhxg.org/ida/218320.html",
+    "unlocks": []
+  },
+  {
+    "id": "village-2-recipe-218321",
+    "name": "砂漠の恵みの納品依頼",
+    "rank": "2",
+    "recipeUrl": "http://wiki.mhxg.org/ida/218321.html",
+    "unlocks": []
+  },
+  {
+    "id": "village-2-recipe-218322",
+    "name": "幻のキモを追え！",
+    "rank": "2",
+    "recipeUrl": "http://wiki.mhxg.org/ida/218322.html",
+    "unlocks": []
+  },
+  {
+    "id": "village-2-recipe-218323",
+    "name": "旧砂漠の精算アイテム納品",
+    "rank": "2",
+    "recipeUrl": "http://wiki.mhxg.org/ida/218323.html",
+    "unlocks": []
+  },
+  {
+    "id": "village-2-recipe-220154",
+    "name": "ドスランポスを狩猟せよ！",
+    "rank": "2",
+    "recipeUrl": "http://wiki.mhxg.org/ida/220154.html",
+    "unlocks": [
+      {
+        "kind": "other",
+        "label": "ハントシリーズ（製法）",
+        "note": "依頼達成・報告後の製法解放。装備自体の入手を示しません。"
+      },
+      {
+        "kind": "other",
+        "label": "ハントネコナイフ（製法）",
+        "note": "依頼達成・報告後の製法解放。装備自体の入手を示しません。"
+      },
+      {
+        "kind": "other",
+        "label": "ハントネコヘルム（製法）",
+        "note": "依頼達成・報告後の製法解放。装備自体の入手を示しません。"
+      },
+      {
+        "kind": "other",
+        "label": "ハントネコメイル（製法）",
+        "note": "依頼達成・報告後の製法解放。装備自体の入手を示しません。"
+      },
+      {
+        "kind": "other",
+        "label": "後続依頼：シナト村の長老の依頼",
+        "note": "村★1〜6には未収録の後続関係。出現条件の一部として記載されています。他の前提・会話・受注は未確認です。"
+      }
+    ]
+  },
+  {
+    "id": "village-2-recipe-220155",
+    "name": "ランポスたちを討伐せよ！",
+    "rank": "2",
+    "recipeUrl": "http://wiki.mhxg.org/ida/220155.html",
+    "unlocks": []
+  },
+  {
+    "id": "village-2-recipe-220156",
+    "name": "森のファンゴたち",
+    "rank": "2",
+    "recipeUrl": "http://wiki.mhxg.org/ida/220156.html",
+    "unlocks": []
+  },
+  {
+    "id": "village-2-recipe-220157",
+    "name": "森丘のトロサシミウオ",
+    "rank": "2",
+    "recipeUrl": "http://wiki.mhxg.org/ida/220157.html",
+    "unlocks": []
+  },
+  {
+    "id": "village-2-recipe-220158",
+    "name": "森丘の精算アイテム納品",
+    "rank": "2",
+    "recipeUrl": "http://wiki.mhxg.org/ida/220158.html",
+    "unlocks": []
+  },
+  {
+    "id": "village-2-recipe-220159",
+    "name": "雪山の荒くれ者",
+    "rank": "2",
+    "recipeUrl": "http://wiki.mhxg.org/ida/220159.html",
+    "unlocks": [
+      {
+        "kind": "other",
+        "label": "マフモフシリーズ（製法）",
+        "note": "依頼達成・報告後の製法解放。装備自体の入手を示しません。"
+      },
+      {
+        "kind": "other",
+        "label": "マフモフネコフード（製法）",
+        "note": "依頼達成・報告後の製法解放。装備自体の入手を示しません。"
+      },
+      {
+        "kind": "other",
+        "label": "マフモフネコベスト（製法）",
+        "note": "依頼達成・報告後の製法解放。装備自体の入手を示しません。"
+      },
+      {
+        "kind": "other",
+        "label": "後続依頼：ポッケ村の看板娘の依頼",
+        "note": "村★1〜6には未収録の後続関係。出現条件の一部として記載されています。他の前提・会話・受注は未確認です。"
+      }
+    ]
+  },
+  {
+    "id": "village-2-recipe-220160",
+    "name": "ギアノスたちを討伐せよ！",
+    "rank": "2",
+    "recipeUrl": "http://wiki.mhxg.org/ida/220160.html",
+    "unlocks": []
+  },
+  {
+    "id": "village-2-recipe-220161",
+    "name": "ブランゴたちの群れ",
+    "rank": "2",
+    "recipeUrl": "http://wiki.mhxg.org/ida/220161.html",
+    "unlocks": []
+  },
+  {
+    "id": "village-2-recipe-220162",
+    "name": "雪山草摘み",
+    "rank": "2",
+    "recipeUrl": "http://wiki.mhxg.org/ida/220162.html",
+    "unlocks": []
+  },
+  {
+    "id": "village-2-recipe-220163",
+    "name": "雪山の精算アイテム納品",
+    "rank": "2",
+    "recipeUrl": "http://wiki.mhxg.org/ida/220163.html",
+    "unlocks": []
+  },
+  {
+    "id": "village-2-recipe-220164",
+    "name": "青熊獣アオアシラ",
+    "rank": "2",
+    "recipeUrl": "http://wiki.mhxg.org/ida/220164.html",
+    "unlocks": [
+      {
+        "kind": "other",
+        "label": "ユクモノシリーズ（製法）",
+        "note": "依頼達成・報告後の製法解放。装備自体の入手を示しません。"
+      },
+      {
+        "kind": "other",
+        "label": "ユクモノネコ木刀（製法）",
+        "note": "依頼達成・報告後の製法解放。装備自体の入手を示しません。"
+      },
+      {
+        "kind": "other",
+        "label": "ユクモノネコカサ（製法）",
+        "note": "依頼達成・報告後の製法解放。装備自体の入手を示しません。"
+      },
+      {
+        "kind": "other",
+        "label": "ユクモノネコドウギ（製法）",
+        "note": "依頼達成・報告後の製法解放。装備自体の入手を示しません。"
+      },
+      {
+        "kind": "other",
+        "label": "後続依頼：タンジアの港の看板娘の依頼1",
+        "note": "村★1〜6には未収録の後続関係。出現条件の一部として記載されています。他の前提・会話・受注は未確認です。"
+      }
+    ]
+  },
+  {
+    "id": "village-2-recipe-220165",
+    "name": "渓流のジャギィノス退治",
+    "rank": "2",
+    "recipeUrl": "http://wiki.mhxg.org/ida/220165.html",
+    "unlocks": []
+  },
+  {
+    "id": "village-2-recipe-220166",
+    "name": "真夜中のジャギィ達",
+    "rank": "2",
+    "recipeUrl": "http://wiki.mhxg.org/ida/220166.html",
+    "unlocks": []
+  },
+  {
+    "id": "village-2-recipe-220167",
+    "name": "夢のキノコジュース",
+    "rank": "2",
+    "recipeUrl": "http://wiki.mhxg.org/ida/220167.html",
+    "unlocks": []
+  },
+  {
+    "id": "village-2-recipe-218324",
+    "name": "ぽかぽかタケノコ納品",
+    "rank": "2",
+    "recipeUrl": "http://wiki.mhxg.org/ida/218324.html",
+    "unlocks": [
+      {
+        "kind": "food",
+        "label": "ツチタケノコ",
+        "note": "依頼達成後の解放。依頼主への報告・会話や実際の追加はゲーム内で確認してください。"
+      }
+    ]
+  },
+  {
+    "id": "village-2-recipe-218325",
+    "name": "渓流の精算アイテム納品",
+    "rank": "2",
+    "recipeUrl": "http://wiki.mhxg.org/ida/218325.html",
+    "unlocks": []
+  },
+  {
+    "id": "village-2-g8-822872",
+    "name": "ニャンター、はじめてのお使い",
+    "rank": "2",
+    "recipeUrl": "http://wiki.mhxg.org/ida/218326.html",
+    "unlocks": []
+  },
+  {
+    "id": "village-2-recipe-218327",
+    "name": "古代林のキノコ生態調査",
+    "rank": "2",
+    "recipeUrl": "http://wiki.mhxg.org/ida/218327.html",
+    "unlocks": [
+      {
+        "kind": "trade",
+        "label": "ジャンボキノコ山での交易",
+        "note": "このクエストのクリア、または専門Wikiが記す「集会所★3緊急クリア」で利用できる経路。別経路の達成はこのチェックでは判定しません。"
+      }
+    ]
+  },
+  {
+    "id": "village-2-recipe-218328",
+    "name": "古代林のポイント招きネコ",
+    "rank": "2",
+    "recipeUrl": "http://wiki.mhxg.org/ida/218328.html",
+    "unlocks": []
+  },
+  {
+    "id": "village-3-recipe-220168",
+    "name": "孤島の採集ツアー",
+    "rank": "3",
+    "recipeUrl": "http://wiki.mhxg.org/ida/220168.html",
+    "unlocks": []
+  },
+  {
+    "id": "village-3-recipe-220169",
+    "name": "沼地の採集ツアー",
+    "rank": "3",
+    "recipeUrl": "http://wiki.mhxg.org/ida/220169.html",
+    "unlocks": []
+  },
+  {
+    "id": "village-3-g8-822877",
+    "name": "鬼面狩人を威す",
+    "rank": "3",
+    "recipeUrl": "http://wiki.mhxg.org/ida/219318.html",
+    "unlocks": [
+      {
+        "kind": "hunter_art",
+        "label": "ヒールゲイン (共通)"
+      },
+      {
+        "kind": "hunter_art",
+        "label": "震怒竜怨斬 LV1"
+      },
+      {
+        "kind": "hunter_art",
+        "label": "練気解放円月斬り LV1"
+      },
+      {
+        "kind": "hunter_art",
+        "label": "ブレイドダンス LV1"
+      },
+      {
+        "kind": "hunter_art",
+        "label": "獣宿し【餓狼】 LV1"
+      },
+      {
+        "kind": "hunter_art",
+        "label": "タイフーントリガー LV1"
+      },
+      {
+        "kind": "hunter_art",
+        "label": "音撃震 LV1"
+      },
+      {
+        "kind": "hunter_art",
+        "label": "スクリュースラスト LV1"
+      },
+      {
+        "kind": "hunter_art",
+        "label": "竜の息吹 LV1"
+      },
+      {
+        "kind": "hunter_art",
+        "label": "エネルギーチャージ LV1"
+      },
+      {
+        "kind": "hunter_art",
+        "label": "エネルギーブレイド LV1"
+      },
+      {
+        "kind": "hunter_art",
+        "label": "飛翔蟲斬破 LV1"
+      },
+      {
+        "kind": "hunter_art",
+        "label": "バレットゲイザー LV1"
+      },
+      {
+        "kind": "hunter_art",
+        "label": "アクセルシャワー LV1"
+      },
+      {
+        "kind": "hunter_art",
+        "label": "アクセルレイン LV1"
+      },
+      {
+        "kind": "food",
+        "label": "リノプロシュート",
+        "note": "緊急クエストのクリアで追加（専門Wikiで補完）。"
+      },
+      {
+        "kind": "food",
+        "label": "ベルナス",
+        "note": "緊急クエストのクリアで追加（専門Wikiで補完）。"
+      }
+    ]
+  },
+  {
+    "id": "village-3-g8-822878",
+    "name": "古代林の大怪鳥",
+    "rank": "3",
+    "recipeUrl": "http://wiki.mhxg.org/ida/219982.html",
+    "unlocks": []
+  },
+  {
+    "id": "village-3-recipe-220170",
+    "name": "器用な尻尾に魅せられて",
+    "rank": "3",
+    "recipeUrl": "http://wiki.mhxg.org/ida/220170.html",
+    "unlocks": []
+  },
+  {
+    "id": "village-3-recipe-220171",
+    "name": "古代林のトレジャー！蛙の巻",
+    "rank": "3",
+    "recipeUrl": "http://wiki.mhxg.org/ida/220171.html",
+    "unlocks": []
+  },
+  {
+    "id": "village-3-recipe-220172",
+    "name": "飛甲虫の反逆",
+    "rank": "3",
+    "recipeUrl": "http://wiki.mhxg.org/ida/220172.html",
+    "unlocks": []
+  },
+  {
+    "id": "village-3-recipe-220173",
+    "name": "波乱の萌芽",
+    "rank": "3",
+    "recipeUrl": "http://wiki.mhxg.org/ida/220173.html",
+    "unlocks": []
+  },
+  {
+    "id": "village-3-recipe-220174",
+    "name": "ステキなお魚、錦魚",
+    "rank": "3",
+    "recipeUrl": "http://wiki.mhxg.org/ida/220174.html",
+    "unlocks": [
+      {
+        "kind": "other",
+        "label": "しろねこスタンプ（製法）",
+        "note": "依頼達成・報告後の製法解放。装備自体の入手を示しません。"
+      }
+    ]
+  },
+  {
+    "id": "village-3-g8-822884",
+    "name": "砂に潜む巨大蟹！",
+    "rank": "3",
+    "recipeUrl": "http://wiki.mhxg.org/ida/219983.html",
+    "unlocks": []
+  },
+  {
+    "id": "village-3-g8-822885",
+    "name": "砂上のテーブルマナー",
+    "rank": "3",
+    "recipeUrl": "http://wiki.mhxg.org/ida/219984.html",
+    "unlocks": []
+  },
+  {
+    "id": "village-3-recipe-220175",
+    "name": "クンチュウの行動研究",
+    "rank": "3",
+    "recipeUrl": "http://wiki.mhxg.org/ida/220175.html",
+    "unlocks": []
+  },
+  {
+    "id": "village-3-recipe-220176",
+    "name": "旧砂漠の縄張り争いニャ！！",
+    "rank": "3",
+    "recipeUrl": "http://wiki.mhxg.org/ida/220176.html",
+    "unlocks": []
+  },
+  {
+    "id": "village-3-recipe-220177",
+    "name": "流行傾向・薬効のキモ",
+    "rank": "3",
+    "recipeUrl": "http://wiki.mhxg.org/ida/220177.html",
+    "unlocks": []
+  },
+  {
+    "id": "village-3-recipe-220178",
+    "name": "狡猾な襲撃者たち",
+    "rank": "3",
+    "recipeUrl": "http://wiki.mhxg.org/ida/220178.html",
+    "unlocks": []
+  },
+  {
+    "id": "village-3-recipe-220179",
+    "name": "キノコ探しで大もうけ！？",
+    "rank": "3",
+    "recipeUrl": "http://wiki.mhxg.org/ida/220179.html",
+    "unlocks": []
+  },
+  {
+    "id": "village-3-recipe-220180",
+    "name": "大怪鳥イャンクックを倒せ！",
+    "rank": "3",
+    "recipeUrl": "http://wiki.mhxg.org/ida/220180.html",
+    "unlocks": []
+  },
+  {
+    "id": "village-3-recipe-220181",
+    "name": "潜入！飛竜の巣！",
+    "rank": "3",
+    "recipeUrl": "http://wiki.mhxg.org/ida/220181.html",
+    "unlocks": []
+  },
+  {
+    "id": "village-3-recipe-220182",
+    "name": "雪のちウルクスス",
+    "rank": "3",
+    "recipeUrl": "http://wiki.mhxg.org/ida/220182.html",
+    "unlocks": []
+  },
+  {
+    "id": "village-3-recipe-220183",
+    "name": "ガウシカ料理に挑戦ですニャ！",
+    "rank": "3",
+    "recipeUrl": "http://wiki.mhxg.org/ida/220183.html",
+    "unlocks": []
+  },
+  {
+    "id": "village-3-recipe-220184",
+    "name": "雪山に潜む影",
+    "rank": "3",
+    "recipeUrl": "http://wiki.mhxg.org/ida/220184.html",
+    "unlocks": []
+  },
+  {
+    "id": "village-3-recipe-220185",
+    "name": "忍び寄る気配",
+    "rank": "3",
+    "recipeUrl": "http://wiki.mhxg.org/ida/220185.html",
+    "unlocks": []
+  },
+  {
+    "id": "village-3-recipe-220186",
+    "name": "ブルファンゴを狩れ！",
+    "rank": "3",
+    "recipeUrl": "http://wiki.mhxg.org/ida/220186.html",
+    "unlocks": []
+  },
+  {
+    "id": "village-3-recipe-220187",
+    "name": "おいしい卵は誰のため？",
+    "rank": "3",
+    "recipeUrl": "http://wiki.mhxg.org/ida/220187.html",
+    "unlocks": [
+      {
+        "kind": "food",
+        "label": "ロックラッカセイ",
+        "note": "依頼達成後の解放。依頼主への報告・会話や実際の追加はゲーム内で確認してください。"
+      }
+    ]
+  },
+  {
+    "id": "village-3-recipe-220188",
+    "name": "ロアルドロスを狩猟せよ！",
+    "rank": "3",
+    "recipeUrl": "http://wiki.mhxg.org/ida/220188.html",
+    "unlocks": []
+  },
+  {
+    "id": "village-3-recipe-220189",
+    "name": "ざわめく森",
+    "rank": "3",
+    "recipeUrl": "http://wiki.mhxg.org/ida/220189.html",
+    "unlocks": []
+  },
+  {
+    "id": "village-3-recipe-220190",
+    "name": "ロイヤルハニーハント",
+    "rank": "3",
+    "recipeUrl": "http://wiki.mhxg.org/ida/220190.html",
+    "unlocks": []
+  },
+  {
+    "id": "village-3-recipe-219985",
+    "name": "強襲する孤島の水流！",
+    "rank": "3",
+    "recipeUrl": "http://wiki.mhxg.org/ida/219985.html",
+    "unlocks": []
+  },
+  {
+    "id": "village-3-recipe-220191",
+    "name": "盾蟹と貝と狩り",
+    "rank": "3",
+    "recipeUrl": "http://wiki.mhxg.org/ida/220191.html",
+    "unlocks": [
+      {
+        "kind": "food",
+        "label": "モガモ貝",
+        "note": "依頼達成後の解放。依頼主への報告・会話や実際の追加はゲーム内で確認してください。"
+      }
+    ]
+  },
+  {
+    "id": "village-3-recipe-220192",
+    "name": "不安なジャギィとジャギィノス",
+    "rank": "3",
+    "recipeUrl": "http://wiki.mhxg.org/ida/220192.html",
+    "unlocks": []
+  },
+  {
+    "id": "village-3-recipe-220193",
+    "name": "ほいっ！キノコ納品ですよ！",
+    "rank": "3",
+    "recipeUrl": "http://wiki.mhxg.org/ida/220193.html",
+    "unlocks": [
+      {
+        "kind": "facility",
+        "label": "ルームサービス変更可能",
+        "note": "依頼達成後、依頼主への報告・会話と実際の機能追加をゲーム内で確認してください。"
+      }
+    ]
+  },
+  {
+    "id": "village-3-recipe-220194",
+    "name": "ムーファたちのふんわり毛玉",
+    "rank": "3",
+    "recipeUrl": "http://wiki.mhxg.org/ida/220194.html",
+    "unlocks": []
+  },
+  {
+    "id": "village-3-recipe-218329",
+    "name": "孤島の精算アイテム納品",
+    "rank": "3",
+    "recipeUrl": "http://wiki.mhxg.org/ida/218329.html",
+    "unlocks": []
+  },
+  {
+    "id": "village-3-recipe-220195",
+    "name": "ぽかぽかレスキュー隊出動！",
+    "rank": "3",
+    "recipeUrl": "http://wiki.mhxg.org/ida/220195.html",
+    "unlocks": [
+      {
+        "kind": "facility",
+        "label": "ルームサービス変更可能",
+        "note": "依頼達成後、依頼主への報告・会話と実際の機能追加をゲーム内で確認してください。"
+      }
+    ]
+  },
+  {
+    "id": "village-3-recipe-219986",
+    "name": "毒怪鳥ゲリョスを追え！",
+    "rank": "3",
+    "recipeUrl": "http://wiki.mhxg.org/ida/219986.html",
+    "unlocks": []
+  },
+  {
+    "id": "village-3-recipe-218330",
+    "name": "甲虫の悪夢",
+    "rank": "3",
+    "recipeUrl": "http://wiki.mhxg.org/ida/218330.html",
+    "unlocks": []
+  },
+  {
+    "id": "village-3-recipe-218331",
+    "name": "観光客の旅路を守れ！",
+    "rank": "3",
+    "recipeUrl": "http://wiki.mhxg.org/ida/218331.html",
+    "unlocks": [
+      {
+        "kind": "other",
+        "label": "サージュシリーズ（製法）",
+        "note": "依頼達成・報告後の製法解放。装備自体の入手を示しません。"
+      },
+      {
+        "kind": "other",
+        "label": "サージュネコブック（製法）",
+        "note": "依頼達成・報告後の製法解放。装備自体の入手を示しません。"
+      },
+      {
+        "kind": "other",
+        "label": "サージュネコフート（製法）",
+        "note": "依頼達成・報告後の製法解放。装備自体の入手を示しません。"
+      },
+      {
+        "kind": "other",
+        "label": "サージュネコスーツ（製法）",
+        "note": "依頼達成・報告後の製法解放。装備自体の入手を示しません。"
+      }
+    ]
+  },
+  {
+    "id": "village-3-recipe-218332",
+    "name": "野性味溢れるロイヤルカブト",
+    "rank": "3",
+    "recipeUrl": "http://wiki.mhxg.org/ida/218332.html",
+    "unlocks": []
+  },
+  {
+    "id": "village-3-recipe-220196",
+    "name": "沼地の精算アイテム納品",
+    "rank": "3",
+    "recipeUrl": "http://wiki.mhxg.org/ida/220196.html",
+    "unlocks": []
+  },
+  {
+    "id": "village-3-recipe-218333",
+    "name": "森丘の悪戯っ子",
+    "rank": "3",
+    "recipeUrl": "http://wiki.mhxg.org/ida/218333.html",
+    "unlocks": [
+      {
+        "kind": "facility",
+        "label": "オトモ雇用枠の拡張（上限数は未確定）",
+        "note": "このクエストのクリアで拡張。基本情報表は別経路としてHR4以上も記載（OR）。追加の納品・報告条件の記載はありません。上限数の相違は注記を参照してください。"
+      }
+    ]
+  },
+  {
+    "id": "village-3-recipe-218334",
+    "name": "森丘のポイント招きネコ",
+    "rank": "3",
+    "recipeUrl": "http://wiki.mhxg.org/ida/218334.html",
+    "unlocks": []
+  },
+  {
+    "id": "village-3-recipe-218335",
+    "name": "香り立つ渓流の鉱石",
+    "rank": "3",
+    "recipeUrl": "http://wiki.mhxg.org/ida/218335.html",
+    "unlocks": []
+  },
+  {
+    "id": "village-3-recipe-238185",
+    "name": "釣りニャンデー創刊",
+    "rank": "3",
+    "recipeUrl": "http://wiki.mhxg.org/ida/238185.html",
+    "unlocks": []
+  },
+  {
+    "id": "village-3-recipe-218336",
+    "name": "チョキチョキムーファ",
+    "rank": "3",
+    "recipeUrl": "http://wiki.mhxg.org/ida/218336.html",
+    "unlocks": []
+  },
+  {
+    "id": "village-3-recipe-238186",
+    "name": "沼地に異常事態発生虫？",
+    "rank": "3",
+    "recipeUrl": "http://wiki.mhxg.org/ida/238186.html",
+    "unlocks": [
+      {
+        "kind": "trade",
+        "label": "モガ養蜂組合での交易",
+        "note": "このクエストのクリア、または専門Wikiが記す「集会所★3緊急クリア」で利用できる経路。別経路の達成はこのチェックでは判定しません。"
+      }
+    ]
+  },
+  {
+    "id": "village-4-recipe-220197",
+    "name": "火山の採集ツアー",
+    "rank": "4",
+    "recipeUrl": "http://wiki.mhxg.org/ida/220197.html",
+    "unlocks": []
+  },
+  {
+    "id": "village-4-recipe-219987",
+    "name": "幻惑の魔術師",
+    "rank": "4",
+    "recipeUrl": "http://wiki.mhxg.org/ida/219987.html",
+    "unlocks": [
+      {
+        "kind": "hunter_art",
+        "label": "地衝斬 LV2"
+      },
+      {
+        "kind": "hunter_art",
+        "label": "桜花気刃斬 LV2"
+      },
+      {
+        "kind": "hunter_art",
+        "label": "ラウンドフォース LV2"
+      },
+      {
+        "kind": "hunter_art",
+        "label": "血風独楽 LV2"
+      },
+      {
+        "kind": "hunter_art",
+        "label": "スピニングメテオ LV2"
+      },
+      {
+        "kind": "hunter_art",
+        "label": "オルケスタソウル LV2"
+      },
+      {
+        "kind": "hunter_art",
+        "label": "シールドアサルト LV2"
+      },
+      {
+        "kind": "hunter_art",
+        "label": "ブラストダッシュ LV2"
+      },
+      {
+        "kind": "hunter_art",
+        "label": "トランスラッシュ LV2"
+      },
+      {
+        "kind": "hunter_art",
+        "label": "オーバーリミット LV2"
+      },
+      {
+        "kind": "hunter_art",
+        "label": "エキスハンター LV2"
+      },
+      {
+        "kind": "hunter_art",
+        "label": "全弾装填 LV2"
+      },
+      {
+        "kind": "hunter_art",
+        "label": "火薬装填 LV2"
+      },
+      {
+        "kind": "hunter_art",
+        "label": "トリニティレイヴン LV2"
+      },
+      {
+        "kind": "food",
+        "label": "ホロロース",
+        "note": "緊急クエストのクリアで追加（専門Wikiで補完）。"
+      },
+      {
+        "kind": "facility",
+        "label": "屋台の闘魂まかない飯",
+        "note": "食事施設のメニュー追加。専門Wikiの開放条件欄はこのクエストを指定しています。追加の納品・報告条件の記載はありません。"
+      }
+    ]
+  },
+  {
+    "id": "village-4-recipe-220198",
+    "name": "疾風の迅竜",
+    "rank": "4",
+    "recipeUrl": "http://wiki.mhxg.org/ida/220198.html",
+    "unlocks": []
+  },
+  {
+    "id": "village-4-recipe-220199",
+    "name": "古代林のトレジャー！虫の巻",
+    "rank": "4",
+    "recipeUrl": "http://wiki.mhxg.org/ida/220199.html",
+    "unlocks": []
+  },
+  {
+    "id": "village-4-recipe-220200",
+    "name": "化石のロマンは永遠に",
+    "rank": "4",
+    "recipeUrl": "http://wiki.mhxg.org/ida/220200.html",
+    "unlocks": []
+  },
+  {
+    "id": "village-4-recipe-220201",
+    "name": "とびきりのゼンマイティー作り",
+    "rank": "4",
+    "recipeUrl": "http://wiki.mhxg.org/ida/220201.html",
+    "unlocks": [
+      {
+        "kind": "food",
+        "label": "ゼンマイ米",
+        "note": "依頼達成・報告後に追加。実際の追加状態はゲーム内で確認。"
+      }
+    ]
+  },
+  {
+    "id": "village-4-recipe-220202",
+    "name": "厄介者のドスゲネポス",
+    "rank": "4",
+    "recipeUrl": "http://wiki.mhxg.org/ida/220202.html",
+    "unlocks": [
+      {
+        "kind": "other",
+        "label": "ブレイブシリーズ（製法）",
+        "note": "依頼達成・報告後の製法解放。装備そのものの入手ではありません。"
+      },
+      {
+        "kind": "other",
+        "label": "ブレイブネコランス（製法）",
+        "note": "依頼達成・報告後の製法解放。装備そのものの入手ではありません。"
+      },
+      {
+        "kind": "other",
+        "label": "ブレイブネコガレア（製法）",
+        "note": "依頼達成・報告後の製法解放。装備そのものの入手ではありません。"
+      },
+      {
+        "kind": "other",
+        "label": "ブレイブネコロリカ（製法）",
+        "note": "依頼達成・報告後の製法解放。装備そのものの入手ではありません。"
+      },
+      {
+        "kind": "other",
+        "label": "プーギーの服 夢追いアミーゴ",
+        "note": "依頼達成・報告後に利用。"
+      }
+    ]
+  },
+  {
+    "id": "village-4-recipe-220203",
+    "name": "未知なる鉱石採掘依頼",
+    "rank": "4",
+    "recipeUrl": "http://wiki.mhxg.org/ida/220203.html",
+    "unlocks": []
+  },
+  {
+    "id": "village-4-recipe-219988",
+    "name": "激闘！雌火竜リオレイア",
+    "rank": "4",
+    "recipeUrl": "http://wiki.mhxg.org/ida/219988.html",
+    "unlocks": []
+  },
+  {
+    "id": "village-4-recipe-220204",
+    "name": "ガララアジャラの狩猟",
+    "rank": "4",
+    "recipeUrl": "http://wiki.mhxg.org/ida/220204.html",
+    "unlocks": []
+  },
+  {
+    "id": "village-4-recipe-220205",
+    "name": "怪鳥達の運動会",
+    "rank": "4",
+    "recipeUrl": "http://wiki.mhxg.org/ida/220205.html",
+    "unlocks": []
+  },
+  {
+    "id": "village-4-recipe-220206",
+    "name": "森丘の静寂を守るのニャ！！",
+    "rank": "4",
+    "recipeUrl": "http://wiki.mhxg.org/ida/220206.html",
+    "unlocks": []
+  },
+  {
+    "id": "village-4-recipe-220207",
+    "name": "雪山の主、ドドブランゴ",
+    "rank": "4",
+    "recipeUrl": "http://wiki.mhxg.org/ida/220207.html",
+    "unlocks": []
+  },
+  {
+    "id": "village-4-recipe-220208",
+    "name": "月光アイスダンス",
+    "rank": "4",
+    "recipeUrl": "http://wiki.mhxg.org/ida/220208.html",
+    "unlocks": []
+  },
+  {
+    "id": "village-4-recipe-219989",
+    "name": "紅煌流星",
+    "rank": "4",
+    "recipeUrl": "http://wiki.mhxg.org/ida/219989.html",
+    "unlocks": []
+  },
+  {
+    "id": "village-4-recipe-220209",
+    "name": "スプラッシュ・ストリーム",
+    "rank": "4",
+    "recipeUrl": "http://wiki.mhxg.org/ida/220209.html",
+    "unlocks": []
+  },
+  {
+    "id": "village-4-recipe-220210",
+    "name": "ぎょーしょーしゅぎょー",
+    "rank": "4",
+    "recipeUrl": "http://wiki.mhxg.org/ida/220210.html",
+    "unlocks": [
+      {
+        "kind": "food",
+        "label": "完熟シナトマト",
+        "note": "依頼達成・報告後に追加。実際の追加状態はゲーム内で確認。"
+      }
+    ]
+  },
+  {
+    "id": "village-4-recipe-220211",
+    "name": "孤島の鳥",
+    "rank": "4",
+    "recipeUrl": "http://wiki.mhxg.org/ida/220211.html",
+    "unlocks": []
+  },
+  {
+    "id": "village-4-recipe-220212",
+    "name": "鬼達も引っくりかえる晩餐？",
+    "rank": "4",
+    "recipeUrl": "http://wiki.mhxg.org/ida/220212.html",
+    "unlocks": []
+  },
+  {
+    "id": "village-4-recipe-220213",
+    "name": "チコ村のヒーロー伝説",
+    "rank": "4",
+    "recipeUrl": "http://wiki.mhxg.org/ida/220213.html",
+    "unlocks": [
+      {
+        "kind": "other",
+        "label": "アイルーラグドール（製法）",
+        "note": "依頼達成・報告後の製法解放。装備そのものの入手ではありません。"
+      },
+      {
+        "kind": "other",
+        "label": "メラルーラグドール（製法）",
+        "note": "依頼達成・報告後の製法解放。装備そのものの入手ではありません。"
+      }
+    ]
+  },
+  {
+    "id": "village-4-recipe-220214",
+    "name": "湿地帯の鎌蟹",
+    "rank": "4",
+    "recipeUrl": "http://wiki.mhxg.org/ida/220214.html",
+    "unlocks": []
+  },
+  {
+    "id": "village-4-recipe-219990",
+    "name": "絞蛇竜は踊り奏でる",
+    "rank": "4",
+    "recipeUrl": "http://wiki.mhxg.org/ida/219990.html",
+    "unlocks": []
+  },
+  {
+    "id": "village-4-recipe-219991",
+    "name": "恐怖…！沼地の怪談",
+    "rank": "4",
+    "recipeUrl": "http://wiki.mhxg.org/ida/219991.html",
+    "unlocks": []
+  },
+  {
+    "id": "village-4-recipe-220215",
+    "name": "ガミザミの群れを掃討せよ！",
+    "rank": "4",
+    "recipeUrl": "http://wiki.mhxg.org/ida/220215.html",
+    "unlocks": []
+  },
+  {
+    "id": "village-4-recipe-220216",
+    "name": "落石注意！？",
+    "rank": "4",
+    "recipeUrl": "http://wiki.mhxg.org/ida/220216.html",
+    "unlocks": []
+  },
+  {
+    "id": "village-4-recipe-219992",
+    "name": "ショウグンギザミを愛でたくて",
+    "rank": "4",
+    "recipeUrl": "http://wiki.mhxg.org/ida/219992.html",
+    "unlocks": []
+  },
+  {
+    "id": "village-4-recipe-220217",
+    "name": "溶岩獣を討伐せよ",
+    "rank": "4",
+    "recipeUrl": "http://wiki.mhxg.org/ida/220217.html",
+    "unlocks": []
+  },
+  {
+    "id": "village-4-recipe-220218",
+    "name": "大鉱脈、発見さる！",
+    "rank": "4",
+    "recipeUrl": "http://wiki.mhxg.org/ida/220218.html",
+    "unlocks": []
+  },
+  {
+    "id": "village-4-recipe-220219",
+    "name": "火山の精算アイテム納品",
+    "rank": "4",
+    "recipeUrl": "http://wiki.mhxg.org/ida/220219.html",
+    "unlocks": []
+  },
+  {
+    "id": "village-4-recipe-238187",
+    "name": "跳狗竜の頭部破壊に挑戦！",
+    "rank": "4",
+    "recipeUrl": "http://wiki.mhxg.org/ida/238187.html",
+    "unlocks": [
+      {
+        "kind": "facility",
+        "label": "オトモ雇用枠の拡張（上限数は未確定）",
+        "note": "このクエストのクリアで拡張。基本情報表は別経路としてHR4以上も記載（OR）。追加の納品・報告条件の記載はありません。上限数の相違は注記を参照してください。"
+      }
+    ]
+  },
+  {
+    "id": "village-4-recipe-238188",
+    "name": "高速突進の交差点",
+    "rank": "4",
+    "recipeUrl": "http://wiki.mhxg.org/ida/238188.html",
+    "unlocks": []
+  },
+  {
+    "id": "village-4-recipe-238189",
+    "name": "アヤシイお仕事",
+    "rank": "4",
+    "recipeUrl": "http://wiki.mhxg.org/ida/238189.html",
+    "unlocks": []
+  },
+  {
+    "id": "village-4-recipe-238190",
+    "name": "ザザミソは隠し味",
+    "rank": "4",
+    "recipeUrl": "http://wiki.mhxg.org/ida/238190.html",
+    "unlocks": []
+  },
+  {
+    "id": "village-4-recipe-238191",
+    "name": "沼地は釣りの穴場？",
+    "rank": "4",
+    "recipeUrl": "http://wiki.mhxg.org/ida/238191.html",
+    "unlocks": [
+      {
+        "kind": "trade",
+        "label": "タンジア鮮魚市での交易",
+        "note": "このクエストのクリア、または専門Wikiが記す「集会所★3緊急クリア」で利用できる経路。別経路の達成はこのチェックでは判定しません。"
+      }
+    ]
+  },
+  {
+    "id": "village-4-recipe-238192",
+    "name": "雪山のポイント捜索隊！",
+    "rank": "4",
+    "recipeUrl": "http://wiki.mhxg.org/ida/238192.html",
+    "unlocks": [
+      {
+        "kind": "facility",
+        "label": "オトモの初期雇用レベル5〜7",
+        "note": "このクエストのクリア、またはHR4以上（OR）で解放。基本情報表の雇用レベルと専用クエスト表のレベル範囲を併記したものです。育成レベルの上限解放ではありません。追加の納品・報告条件の記載はありません。"
+      }
+    ]
+  },
+  {
+    "id": "village-5-recipe-219993",
+    "name": "黒き禍",
+    "rank": "5",
+    "recipeUrl": "http://wiki.mhxg.org/ida/219993.html",
+    "unlocks": [
+      {
+        "kind": "facility",
+        "label": "屋台の愛情まかない飯",
+        "note": "食事施設のメニュー追加。専門Wikiの開放条件欄はこのクエストを指定しています。追加の納品・報告条件の記載はありません。"
+      }
+    ]
+  },
+  {
+    "id": "village-5-recipe-220220",
+    "name": "砂漠を喰らう",
+    "rank": "5",
+    "recipeUrl": "http://wiki.mhxg.org/ida/220220.html",
+    "unlocks": []
+  },
+  {
+    "id": "village-5-recipe-220221",
+    "name": "一匹狼に捧ぐ挽歌",
+    "rank": "5",
+    "recipeUrl": "http://wiki.mhxg.org/ida/220221.html",
+    "unlocks": []
+  },
+  {
+    "id": "village-5-recipe-219994",
+    "name": "翠玉の閃電",
+    "rank": "5",
+    "recipeUrl": "http://wiki.mhxg.org/ida/219994.html",
+    "unlocks": [
+      {
+        "kind": "hunter_art",
+        "label": "バレットゲイザー LV2"
+      }
+    ]
+  },
+  {
+    "id": "village-5-recipe-220222",
+    "name": "再びキノコ探しで大もうけ！？",
+    "rank": "5",
+    "recipeUrl": "http://wiki.mhxg.org/ida/220222.html",
+    "unlocks": []
+  },
+  {
+    "id": "village-5-recipe-220223",
+    "name": "雪獅子、二重の咆哮",
+    "rank": "5",
+    "recipeUrl": "http://wiki.mhxg.org/ida/220223.html",
+    "unlocks": []
+  },
+  {
+    "id": "village-5-recipe-220224",
+    "name": "ビリビリするらしいです×？？",
+    "rank": "5",
+    "recipeUrl": "http://wiki.mhxg.org/ida/220224.html",
+    "unlocks": [
+      {
+        "kind": "other",
+        "label": "撫子/桔梗シリーズ（製法）",
+        "note": "依頼達成・報告後の製法解放。装備そのものの入手ではありません。"
+      },
+      {
+        "kind": "other",
+        "label": "ユクモノネコ扇子（製法）",
+        "note": "依頼達成・報告後の製法解放。装備そのものの入手ではありません。"
+      },
+      {
+        "kind": "other",
+        "label": "ニャでしこ【布冠】（製法）",
+        "note": "依頼達成・報告後の製法解放。装備そのものの入手ではありません。"
+      },
+      {
+        "kind": "other",
+        "label": "ニャでしこ【花衣】（製法）",
+        "note": "依頼達成・報告後の製法解放。装備そのものの入手ではありません。"
+      },
+      {
+        "kind": "other",
+        "label": "後続：依頼★ユクモ村の看板娘の依頼1",
+        "note": "未収録の後続関係。出現には他の条件もあり得ます。"
+      }
+    ]
+  },
+  {
+    "id": "village-5-recipe-219995",
+    "name": "峨々たる巨獣",
+    "rank": "5",
+    "recipeUrl": "http://wiki.mhxg.org/ida/219995.html",
+    "unlocks": [
+      {
+        "kind": "facility",
+        "label": "洞窟の巨大剣が採掘可能",
+        "note": "依頼達成後、依頼主に報告して利用する。"
+      },
+      {
+        "kind": "hunter_art",
+        "label": "タイフーントリガー LV2"
+      }
+    ]
+  },
+  {
+    "id": "village-5-recipe-220225",
+    "name": "エレクトリカル・バトル",
+    "rank": "5",
+    "recipeUrl": "http://wiki.mhxg.org/ida/220225.html",
+    "unlocks": []
+  },
+  {
+    "id": "village-5-recipe-220226",
+    "name": "淡紅の泡狐がたゆたうか",
+    "rank": "5",
+    "recipeUrl": "http://wiki.mhxg.org/ida/220226.html",
+    "unlocks": [
+      {
+        "kind": "hunter_art",
+        "label": "アクセルシャワー LV2"
+      }
+    ]
+  },
+  {
+    "id": "village-5-recipe-220227",
+    "name": "大海の王・ラギアクルス！",
+    "rank": "5",
+    "recipeUrl": "http://wiki.mhxg.org/ida/220227.html",
+    "unlocks": []
+  },
+  {
+    "id": "village-5-recipe-220228",
+    "name": "赤いおひさまアッチッチ",
+    "rank": "5",
+    "recipeUrl": "http://wiki.mhxg.org/ida/220228.html",
+    "unlocks": [
+      {
+        "kind": "food",
+        "label": "フワッフワッフル",
+        "note": "依頼達成・報告後に追加。実際の追加状態はゲーム内で確認。"
+      },
+      {
+        "kind": "hunter_art",
+        "label": "竜の息吹 LV2"
+      }
+    ]
+  },
+  {
+    "id": "village-5-recipe-220229",
+    "name": "混乱のホロロロホルルル",
+    "rank": "5",
+    "recipeUrl": "http://wiki.mhxg.org/ida/220229.html",
+    "unlocks": [
+      {
+        "kind": "hunter_art",
+        "label": "エネルギーチャージ LV2"
+      }
+    ]
+  },
+  {
+    "id": "village-5-recipe-220230",
+    "name": "ゲリョスな季節",
+    "rank": "5",
+    "recipeUrl": "http://wiki.mhxg.org/ida/220230.html",
+    "unlocks": []
+  },
+  {
+    "id": "village-5-recipe-220231",
+    "name": "白昼のブルファンゴ討伐",
+    "rank": "5",
+    "recipeUrl": "http://wiki.mhxg.org/ida/220231.html",
+    "unlocks": []
+  },
+  {
+    "id": "village-5-recipe-220232",
+    "name": "噴煙まとう王者",
+    "rank": "5",
+    "recipeUrl": "http://wiki.mhxg.org/ida/220232.html",
+    "unlocks": []
+  },
+  {
+    "id": "village-5-recipe-220233",
+    "name": "脅威！火山の鉄槌！",
+    "rank": "5",
+    "recipeUrl": "http://wiki.mhxg.org/ida/220233.html",
+    "unlocks": []
+  },
+  {
+    "id": "village-5-recipe-220234",
+    "name": "魔球！火山のナックルボール",
+    "rank": "5",
+    "recipeUrl": "http://wiki.mhxg.org/ida/220234.html",
+    "unlocks": []
+  },
+  {
+    "id": "village-5-recipe-220235",
+    "name": "ドスイーオスのリーダー争い",
+    "rank": "5",
+    "recipeUrl": "http://wiki.mhxg.org/ida/220235.html",
+    "unlocks": []
+  },
+  {
+    "id": "village-5-recipe-220236",
+    "name": "災厄の使者",
+    "rank": "5",
+    "recipeUrl": "http://wiki.mhxg.org/ida/220236.html",
+    "unlocks": []
+  },
+  {
+    "id": "village-5-recipe-220237",
+    "name": "ドス来い！真夜中の古代林",
+    "rank": "5",
+    "recipeUrl": "http://wiki.mhxg.org/ida/220237.html",
+    "unlocks": []
+  },
+  {
+    "id": "village-5-recipe-220238",
+    "name": "砂漠でサバイバルバトル",
+    "rank": "5",
+    "recipeUrl": "http://wiki.mhxg.org/ida/220238.html",
+    "unlocks": []
+  },
+  {
+    "id": "village-5-recipe-220239",
+    "name": "孤島の研究対象",
+    "rank": "5",
+    "recipeUrl": "http://wiki.mhxg.org/ida/220239.html",
+    "unlocks": []
+  },
+  {
+    "id": "village-5-recipe-238193",
+    "name": "赤く染まる沼地",
+    "rank": "5",
+    "recipeUrl": "http://wiki.mhxg.org/ida/238193.html",
+    "unlocks": []
+  },
+  {
+    "id": "village-5-recipe-238194",
+    "name": "アブナイお仕事",
+    "rank": "5",
+    "recipeUrl": "http://wiki.mhxg.org/ida/238194.html",
+    "unlocks": []
+  },
+  {
+    "id": "village-5-recipe-238195",
+    "name": "ウロコトルと隠れんぼ",
+    "rank": "5",
+    "recipeUrl": "http://wiki.mhxg.org/ida/238195.html",
+    "unlocks": []
+  },
+  {
+    "id": "village-5-recipe-238196",
+    "name": "暗雲立ち込める火山帯",
+    "rank": "5",
+    "recipeUrl": "http://wiki.mhxg.org/ida/238196.html",
+    "unlocks": []
+  },
+  {
+    "id": "village-5-recipe-220428",
+    "name": "怪鳥の頭部破壊に挑戦！",
+    "rank": "5",
+    "recipeUrl": "http://wiki.mhxg.org/ida/220428.html",
+    "unlocks": [
+      {
+        "kind": "hunter_art",
+        "label": "ブレイドダンス LV2"
+      },
+      {
+        "kind": "trade",
+        "label": "交易窓口の荷車2台目",
+        "note": "クエストクリアで解放。専用クエスト表に明記されています。追加の納品・報告条件やHRによる別経路は、今回確認した資料では特定していません。"
+      }
+    ]
+  },
+  {
+    "id": "village-6-recipe-220240",
+    "name": "灼熱の刃",
+    "rank": "6",
+    "recipeUrl": "http://wiki.mhxg.org/ida/220240.html",
+    "unlocks": [
+      {
+        "kind": "hunter_art",
+        "label": "震怒竜怨斬 LV2"
+      },
+      {
+        "kind": "other",
+        "label": "後続：依頼★チャチャの依頼1",
+        "note": "未収録の後続関係。出現には他の条件もあり得ます。"
+      }
+    ]
+  },
+  {
+    "id": "village-6-recipe-228561",
+    "name": "黒き衣を纏う竜",
+    "rank": "6",
+    "recipeUrl": "http://wiki.mhxg.org/ida/228561.html",
+    "unlocks": []
+  },
+  {
+    "id": "village-6-recipe-228562",
+    "name": "縄張りに進入するべからず",
+    "rank": "6",
+    "recipeUrl": "http://wiki.mhxg.org/ida/228562.html",
+    "unlocks": []
+  },
+  {
+    "id": "village-6-recipe-228563",
+    "name": "砂漠の彼方から",
+    "rank": "6",
+    "recipeUrl": "http://wiki.mhxg.org/ida/228563.html",
+    "unlocks": []
+  },
+  {
+    "id": "village-6-recipe-228564",
+    "name": "轟竜ティガレックス",
+    "rank": "6",
+    "recipeUrl": "http://wiki.mhxg.org/ida/228564.html",
+    "unlocks": []
+  },
+  {
+    "id": "village-6-recipe-228565",
+    "name": "千刃、襲来",
+    "rank": "6",
+    "recipeUrl": "http://wiki.mhxg.org/ida/228565.html",
+    "unlocks": []
+  },
+  {
+    "id": "village-6-recipe-238197",
+    "name": "予想外！つがいの妨害！",
+    "rank": "6",
+    "recipeUrl": "http://wiki.mhxg.org/ida/238197.html",
+    "unlocks": []
+  },
+  {
+    "id": "village-6-recipe-238198",
+    "name": "英雄への道",
+    "rank": "6",
+    "recipeUrl": "http://wiki.mhxg.org/ida/238198.html",
+    "unlocks": [
+      {
+        "kind": "other",
+        "label": "英雄の双刃（製法）",
+        "note": "依頼達成・報告後の製法解放。装備そのものの入手ではありません。"
+      }
+    ]
+  },
+  {
+    "id": "village-6-recipe-238199",
+    "name": "雷狼竜はかく吠えり",
+    "rank": "6",
+    "recipeUrl": "http://wiki.mhxg.org/ida/238199.html",
+    "unlocks": [
+      {
+        "kind": "food",
+        "label": "達人ビール",
+        "note": "依頼達成・報告後に追加。実際の追加状態はゲーム内で確認。"
+      }
+    ]
+  },
+  {
+    "id": "village-6-recipe-228566",
+    "name": "剛拳爆砕！ブラキディオス！",
+    "rank": "6",
+    "recipeUrl": "http://wiki.mhxg.org/ida/228566.html",
+    "unlocks": []
+  },
+  {
+    "id": "village-6-recipe-228567",
+    "name": "天下分け目の大合戦",
+    "rank": "6",
+    "recipeUrl": "http://wiki.mhxg.org/ida/228567.html",
+    "unlocks": []
+  },
+  {
+    "id": "village-6-recipe-238200",
+    "name": "粉骨砕竜！",
+    "rank": "6",
+    "recipeUrl": "http://wiki.mhxg.org/ida/238200.html",
+    "unlocks": [
+      {
+        "kind": "hunter_art",
+        "label": "スーパーノヴァ LV2"
+      }
+    ]
+  },
+  {
+    "id": "village-6-recipe-228568",
+    "name": "ハンティングナイト！",
+    "rank": "6",
+    "recipeUrl": "http://wiki.mhxg.org/ida/228568.html",
+    "unlocks": []
+  },
+  {
+    "id": "village-6-recipe-228569",
+    "name": "剛毛フカフカの牙獣達",
+    "rank": "6",
+    "recipeUrl": "http://wiki.mhxg.org/ida/228569.html",
+    "unlocks": []
+  },
+  {
+    "id": "village-6-recipe-238201",
+    "name": "渓流の覇権争いニャ！！",
+    "rank": "6",
+    "recipeUrl": "http://wiki.mhxg.org/ida/238201.html",
+    "unlocks": []
+  },
+  {
+    "id": "village-6-recipe-228570",
+    "name": "毒まみれの沼地",
+    "rank": "6",
+    "recipeUrl": "http://wiki.mhxg.org/ida/228570.html",
+    "unlocks": []
+  },
+  {
+    "id": "village-6-recipe-228571",
+    "name": "恐るべき火山の魔球",
+    "rank": "6",
+    "recipeUrl": "http://wiki.mhxg.org/ida/228571.html",
+    "unlocks": []
+  },
+  {
+    "id": "village-6-recipe-238202",
+    "name": "雷電",
+    "rank": "6",
+    "recipeUrl": "http://wiki.mhxg.org/ida/238202.html",
+    "unlocks": []
+  },
+  {
+    "id": "village-6-recipe-228572",
+    "name": "白き霊獣",
+    "rank": "6",
+    "recipeUrl": "http://wiki.mhxg.org/ida/228572.html",
+    "unlocks": []
+  },
+  {
+    "id": "village-6-recipe-228573",
+    "name": "廻り集いて回帰せん",
+    "rank": "6",
+    "recipeUrl": "http://wiki.mhxg.org/ida/228573.html",
+    "unlocks": []
+  },
+  {
+    "id": "village-6-recipe-228574",
+    "name": "宿命の四天王",
+    "rank": "6",
+    "recipeUrl": "http://wiki.mhxg.org/ida/228574.html",
+    "unlocks": []
+  },
+  {
+    "id": "village-6-recipe-238203",
+    "name": "高難度：食は渓流にあり！",
+    "rank": "6",
+    "recipeUrl": "http://wiki.mhxg.org/ida/238203.html",
+    "unlocks": [
+      {
+        "kind": "facility",
+        "label": "ルームサービス変更可能",
+        "note": "依頼達成後、依頼主に報告して利用する。"
+      }
+    ]
+  },
+  {
+    "id": "village-6-recipe-244680",
+    "name": "高難度：古代林のトレジャー！",
+    "rank": "6",
+    "recipeUrl": "http://wiki.mhxg.org/ida/244680.html",
+    "unlocks": [
+      {
+        "kind": "other",
+        "label": "グレイトフルハム（製法）",
+        "note": "依頼達成・報告後の製法解放。装備そのものの入手ではありません。"
+      }
+    ]
+  },
+  {
+    "id": "village-6-recipe-238204",
+    "name": "高難度：黒狼鳥は舞い降りた",
+    "rank": "6",
+    "recipeUrl": "http://wiki.mhxg.org/ida/238204.html",
+    "unlocks": [
+      {
+        "kind": "other",
+        "label": "ガーディアンシリーズ（製法）",
+        "note": "依頼達成・報告後の製法解放。装備そのものの入手ではありません。"
+      },
+      {
+        "kind": "other",
+        "label": "ガーディアンUシリーズ（製法）",
+        "note": "依頼達成・報告後の製法解放。装備そのものの入手ではありません。"
+      },
+      {
+        "kind": "other",
+        "label": "ガーディアンランス（製法）",
+        "note": "依頼達成・報告後の製法解放。装備そのものの入手ではありません。"
+      }
+    ]
+  },
+  {
+    "id": "village-6-recipe-244681",
+    "name": "高難度：一対の巨影",
+    "rank": "6",
+    "recipeUrl": "http://wiki.mhxg.org/ida/244681.html",
+    "unlocks": []
+  },
+  {
+    "id": "village-6-recipe-244682",
+    "name": "高難度：異常震域",
+    "rank": "6",
+    "recipeUrl": "http://wiki.mhxg.org/ida/244682.html",
+    "unlocks": [
+      {
+        "kind": "other",
+        "label": "EXレックスSシリーズ（製法）",
+        "note": "依頼達成・報告後の製法解放。装備そのものの入手ではありません。"
+      },
+      {
+        "kind": "other",
+        "label": "ネコートさんのコート（製法）",
+        "note": "依頼達成・報告後の製法解放。装備そのものの入手ではありません。"
+      }
+    ]
+  },
+  {
+    "id": "village-6-recipe-238205",
+    "name": "高難度：渾身のドボルベルク",
+    "rank": "6",
+    "recipeUrl": "http://wiki.mhxg.org/ida/238205.html",
+    "unlocks": [
+      {
+        "kind": "other",
+        "label": "ポルトマルク（製法）",
+        "note": "依頼達成・報告後の製法解放。装備そのものの入手ではありません。"
+      }
+    ]
+  },
+  {
+    "id": "village-6-recipe-238206",
+    "name": "高難度：重甲虫と腕試し！",
+    "rank": "6",
+    "recipeUrl": "http://wiki.mhxg.org/ida/238206.html",
+    "unlocks": []
+  },
+  {
+    "id": "village-6-recipe-243399",
+    "name": "高難度：天地征服せし強者",
+    "rank": "6",
+    "recipeUrl": "http://wiki.mhxg.org/ida/243399.html",
+    "unlocks": [
+      {
+        "kind": "other",
+        "label": "龍歴士シリーズ（製法）",
+        "note": "依頼達成・報告後の製法解放。装備そのものの入手ではありません。"
+      }
+    ]
+  },
+  {
+    "id": "village-6-recipe-238207",
+    "name": "高難度：青の連撃！",
+    "rank": "6",
+    "recipeUrl": "http://wiki.mhxg.org/ida/238207.html",
+    "unlocks": [
+      {
+        "kind": "other",
+        "label": "ギルドガード蒼シリーズ（製法）",
+        "note": "依頼達成・報告後の製法解放。装備そのものの入手ではありません。"
+      }
+    ]
+  },
+  {
+    "id": "village-6-recipe-238208",
+    "name": "高難度：赤の猛攻！",
+    "rank": "6",
+    "recipeUrl": "http://wiki.mhxg.org/ida/238208.html",
+    "unlocks": [
+      {
+        "kind": "other",
+        "label": "ギルドガード紅シリーズ（製法）",
+        "note": "依頼達成・報告後の製法解放。装備そのものの入手ではありません。"
+      }
+    ]
+  },
+  {
+    "id": "village-6-recipe-243400",
+    "name": "高難度：廻帰せし災厄の古龍",
+    "rank": "6",
+    "recipeUrl": "http://wiki.mhxg.org/ida/243400.html",
+    "unlocks": [
+      {
+        "kind": "other",
+        "label": "イサナ船ハンマー！（製法）",
+        "note": "依頼達成・報告後の製法解放。装備そのものの入手ではありません。"
+      },
+      {
+        "kind": "other",
+        "label": "ホークシリーズ（製法）",
+        "note": "依頼達成・報告後の製法解放。装備そのものの入手ではありません。"
+      },
+      {
+        "kind": "other",
+        "label": "団長の腕輪（製法）",
+        "note": "依頼達成・報告後の製法解放。装備そのものの入手ではありません。"
+      },
+      {
+        "kind": "other",
+        "label": "団長の腕輪Ｘ（製法）",
+        "note": "依頼達成・報告後の製法解放。装備そのものの入手ではありません。"
+      }
+    ]
+  },
+  {
+    "id": "village-6-recipe-244683",
+    "name": "高難度：吹雪の召還者",
+    "rank": "6",
+    "recipeUrl": "http://wiki.mhxg.org/ida/244683.html",
+    "unlocks": []
+  },
+  {
+    "id": "village-6-recipe-244684",
+    "name": "高難度：対霞龍防衛作戦！",
+    "rank": "6",
+    "recipeUrl": "http://wiki.mhxg.org/ida/244684.html",
+    "unlocks": [
+      {
+        "kind": "other",
+        "label": "龍頭琴（製法）",
+        "note": "依頼達成・報告後の製法解放。装備そのものの入手ではありません。"
+      },
+      {
+        "kind": "other",
+        "label": "悠久の龍頭琴（製法）",
+        "note": "依頼達成・報告後の製法解放。装備そのものの入手ではありません。"
+      },
+      {
+        "kind": "other",
+        "label": "魂を宿す髪飾り（製法）",
+        "note": "依頼達成・報告後の製法解放。装備そのものの入手ではありません。"
+      },
+      {
+        "kind": "other",
+        "label": "まほろばの衣（製法）",
+        "note": "依頼達成・報告後の製法解放。装備そのものの入手ではありません。"
+      }
+    ]
+  },
+  {
+    "id": "village-6-recipe-244685",
+    "name": "高難度：炎王の帰還",
+    "rank": "6",
+    "recipeUrl": "http://wiki.mhxg.org/ida/244685.html",
+    "unlocks": [
+      {
+        "kind": "other",
+        "label": "後続：集★6凍てつく牙は獰猛に",
+        "note": "未収録の後続関係。出現には他の条件もあり得ます。"
+      },
+      {
+        "kind": "other",
+        "label": "後続：集★6孤島の暴君、ダイミョウザザミ",
+        "note": "未収録の後続関係。出現には他の条件もあり得ます。"
+      },
+      {
+        "kind": "other",
+        "label": "後続：集★6攻究せよ、鎌持つショウグン",
+        "note": "未収録の後続関係。出現には他の条件もあり得ます。"
+      }
+    ]
+  },
+  {
+    "id": "village-6-recipe-238209",
+    "name": "高難度：強者たちの祭典！",
+    "rank": "6",
+    "recipeUrl": "http://wiki.mhxg.org/ida/238209.html",
+    "unlocks": []
+  },
+  {
+    "id": "village-6-recipe-238210",
+    "name": "高難度：非情に波状な状態異常",
+    "rank": "6",
+    "recipeUrl": "http://wiki.mhxg.org/ida/238210.html",
+    "unlocks": []
+  },
+  {
+    "id": "village-6-recipe-238211",
+    "name": "高難度：四天王の凱歌",
+    "rank": "6",
+    "recipeUrl": "http://wiki.mhxg.org/ida/238211.html",
+    "unlocks": []
+  },
+  {
+    "id": "village-6-recipe-238212",
+    "name": "高難度：天と地の怒り",
+    "rank": "6",
+    "recipeUrl": "http://wiki.mhxg.org/ida/238212.html",
+    "unlocks": []
+  },
+  {
+    "id": "village-6-recipe-238213",
+    "name": "高難度：最後の招待状",
+    "rank": "6",
+    "recipeUrl": "http://wiki.mhxg.org/ida/238213.html",
+    "unlocks": []
+  },
+  {
+    "id": "village-6-recipe-238214",
+    "name": "高難度：終焉を喰らう者",
+    "rank": "6",
+    "recipeUrl": "http://wiki.mhxg.org/ida/238214.html",
+    "unlocks": []
+  },
+  {
+    "id": "village-6-recipe-238215",
+    "name": "紅葉に散るは、熊か猫か",
+    "rank": "6",
+    "recipeUrl": "http://wiki.mhxg.org/ida/238215.html",
+    "unlocks": []
+  },
+  {
+    "id": "village-6-recipe-238216",
+    "name": "盾蟹のヤド破壊に挑戦！",
+    "rank": "6",
+    "recipeUrl": "http://wiki.mhxg.org/ida/238216.html",
+    "unlocks": [
+      {
+        "kind": "facility",
+        "label": "オトモ雇用枠の拡張（上限数は未確定）",
+        "note": "このクエストのクリアで拡張。基本情報表は別経路としてHR5以上も記載（OR）。追加の納品・報告条件の記載はありません。上限数の相違は注記を参照してください。"
+      }
+    ]
+  },
+  {
+    "id": "village-6-recipe-238217",
+    "name": "青と緑の波状包囲網",
+    "rank": "6",
+    "recipeUrl": "http://wiki.mhxg.org/ida/238217.html",
+    "unlocks": [
+      {
+        "kind": "hunter_art",
+        "label": "ブレイドワイヤー LV2"
+      },
+      {
+        "kind": "trade",
+        "label": "交易窓口の荷車3台目",
+        "note": "クエストクリアで解放。専用クエスト表に明記されています。追加の納品・報告条件やHRによる別経路は、今回確認した資料では特定していません。"
+      }
+    ]
+  },
+  {
+    "id": "village-6-recipe-238218",
+    "name": "牙と毒の沼地",
+    "rank": "6",
+    "recipeUrl": "http://wiki.mhxg.org/ida/238218.html",
+    "unlocks": [
+      {
+        "kind": "facility",
+        "label": "オトモの初期雇用レベル10〜12",
+        "note": "このクエストのクリア、またはHR5以上（OR）で解放。基本情報表の雇用レベルと専用クエスト表のレベル範囲を併記したものです。育成レベルの上限解放ではありません。追加の納品・報告条件の記載はありません。"
+      }
+    ]
+  }
+]
