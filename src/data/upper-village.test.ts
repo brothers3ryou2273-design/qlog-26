@@ -87,3 +87,37 @@ describe("upper village catalog and released progress", () => {
     );
   });
 });
+
+it("village 8 respects the two rank-7 prerequisites, three ship upgrades, and the prowler OR", () => {
+  const ids = [
+    named("遺群嶺の不思議な石", "7").id,
+    named("これが本当のダイミョウ行列？", "7").id,
+  ];
+  expect(references(named("原生林に巣食う蜘蛛", "8").condition)).toEqual(ids);
+  const upgrades = [
+    "龍識船強化！【水竜編】",
+    "龍識船強化！【迅竜編】",
+    "龍識船強化！【溶岩竜編】",
+  ].map((n) => named(n, "8").id);
+  expect(references(named("氷海の採集ツアー", "8").condition)).toEqual(
+    upgrades,
+  );
+  const target = named("桃毛獣のトサカ破壊に挑戦！", "8");
+  for (const name of ["冷血なるドスギアノス！", "美しき、遺群嶺"]) {
+    expect(
+      evaluate(target.condition, {
+        schemaVersion: 1,
+        completedQuestIds: [named(name, "8").id],
+      }),
+    ).toBe("met");
+  }
+  expect(target.unlocks).toContainEqual(
+    expect.objectContaining({ label: "オトモの初期雇用レベル30〜32" }),
+  );
+  expect(named("原生林に巣食う蜘蛛", "8").unlocks).toContainEqual(
+    expect.objectContaining({
+      label: "アイテムボックス拡張【匠】（研究項目）",
+      note: expect.stringContaining("両方"),
+    }),
+  );
+});

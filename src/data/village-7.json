@@ -1385,16 +1385,16 @@
           "questId": "village-2-recipe-220164"
         },
         {
-          "kind": "quest_cleared",
-          "questId": "village-3-g8-822877"
-        },
-        {
           "kind": "hr_at_least",
           "value": 2
         },
         {
+          "kind": "quest_cleared",
+          "questId": "village-3-g8-822877"
+        },
+        {
           "kind": "external_flag",
-          "label": "未収録：集★2食材の価値は鮮度なりをクリア（食材屋の女将の依頼1）"
+          "label": "未収録：集★2食材の価値は鮮度なりのクリア（食材屋の女将の依頼1）"
         }
       ]
     },
