@@ -64,12 +64,16 @@ describe("rank-by-rank catalog audit against observed primary rosters", () => {
     });
   }
   it("has 197 distinct entries, 24 prowler quests, and five genuinely condition-free quests", () => {
-    const released = quests.filter((q) => Number(q.rank) <= 6);
+    const released = quests.filter(
+      (q) => q.category === "village" && Number(q.rank) <= 6,
+    );
     expect(released).toHaveLength(197);
     expect(new Set(quests.map((q) => q.id)).size).toBe(quests.length);
     expect(released.filter((q) => q.role === "prowler")).toHaveLength(24);
     expect(
-      quests.filter((q) => q.condition.kind === "none").map((q) => q.name),
+      quests
+        .filter((q) => q.category === "village" && q.condition.kind === "none")
+        .map((q) => q.name),
     ).toEqual([
       "古代林の特産ゼンマイ",
       "悠久が眠る竜琥珀",
@@ -107,7 +111,11 @@ describe("rank-by-rank catalog audit against observed primary rosters", () => {
   it("requires two of the other five village-3 prowler quests for every possible completion subset", () => {
     const target = byName("沼地に異常事態発生虫？");
     const candidates = quests.filter(
-      (q) => q.rank === "3" && q.role === "prowler" && q.id !== target.id,
+      (q) =>
+        q.category === "village" &&
+        q.rank === "3" &&
+        q.role === "prowler" &&
+        q.id !== target.id,
     );
     expect(candidates).toHaveLength(5);
     for (let mask = 0; mask < 32; mask++) {
@@ -172,7 +180,9 @@ describe("stage 3 source policy and automatic prerequisites", () => {
     }
   });
   it("does not use ordinary conversations or reports as gates for ranks 1–3", () => {
-    for (const q of quests.filter((q) => Number(q.rank) <= 3)) {
+    for (const q of quests.filter(
+      (q) => q.category === "village" && Number(q.rank) <= 3,
+    )) {
       expect(hasKind(q.condition, "external_flag")).toBe(false);
       expect(
         evaluate(q.condition, {
@@ -187,7 +197,10 @@ describe("stage 3 source policy and automatic prerequisites", () => {
     );
   });
   it("evaluates rank-4 urgent prerequisites from the six rank-3 keys", () => {
-    const keys = quests.filter((q) => q.rank === "3" && q.tags.includes("key"));
+    const keys = quests.filter(
+      (q) =>
+        q.category === "village" && q.rank === "3" && q.tags.includes("key"),
+    );
     expect(keys).toHaveLength(6);
     const target = byName("幻惑の魔術師");
     expect(
@@ -324,6 +337,7 @@ it("uses the explicit primary all-normal-village requirement without NPC or corp
   const expected = quests
     .filter(
       (q) =>
+        q.category === "village" &&
         Number(q.rank) <= 6 &&
         q.role === "hunter" &&
         !q.name.startsWith("高難度："),

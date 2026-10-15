@@ -258,8 +258,8 @@
           "value": 2
         },
         {
-          "kind": "external_flag",
-          "label": "未収録：集★2輸送中！水獣の追従！のクリアと交易船の船長の依頼1の達成"
+          "kind": "quest_cleared",
+          "questId": "hub-2-recipe-220256"
         },
         {
           "kind": "quest_cleared",
@@ -268,7 +268,8 @@
       ]
     },
     "npcNotes": [
-      "ココット村 交易船の船長の依頼2を受注する。"
+      "ココット村 交易船の船長の依頼2を受注する。",
+      "交易船の船長の依頼1を達成後、依頼主へ報告する。"
     ],
     "unlocks": [],
     "sources": [
@@ -289,6 +290,12 @@
         "url": "http://wiki.mhxg.org/ida/243432.html",
         "kind": "detail",
         "checkedAt": "2026-10-15"
+      },
+      {
+        "site": "MHXX攻略レシピ",
+        "url": "http://wiki.mhxg.org/ida/220256.html",
+        "kind": "detail",
+        "checkedAt": "2026-10-16"
       }
     ],
     "verification": "partial",

@@ -307,8 +307,8 @@
           "value": 3
         },
         {
-          "kind": "external_flag",
-          "label": "未収録：集★3化石に眠る太古の記憶のクリア（キャラバンの竜人商人の依頼2）"
+          "kind": "quest_cleared",
+          "questId": "hub-3-recipe-220272"
         },
         {
           "kind": "hr_at_least",
@@ -325,7 +325,8 @@
       ]
     },
     "npcNotes": [
-      "ココット村 キャラバンの竜人商人の依頼4を受注する。"
+      "ココット村 キャラバンの竜人商人の依頼4を受注する。",
+      "キャラバンの竜人商人の依頼2を達成後、依頼主へ報告する。"
     ],
     "unlocks": [
       {
@@ -371,6 +372,12 @@
       {
         "site": "MHXX攻略レシピ（前提依頼）",
         "url": "http://wiki.mhxg.org/ida/243430.html",
+        "kind": "detail",
+        "checkedAt": "2026-10-16"
+      },
+      {
+        "site": "MHXX攻略レシピ",
+        "url": "http://wiki.mhxg.org/ida/220272.html",
         "kind": "detail",
         "checkedAt": "2026-10-16"
       }

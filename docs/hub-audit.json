@@ -1,0 +1,1991 @@
+{
+  "checkedAt": "2026-10-16",
+  "category": "hub",
+  "ranks": [
+    {
+      "rank": "1",
+      "recipeListUrl": "http://wiki.mhxg.org/data/2021.html",
+      "observedCount": 31,
+      "entries": [
+        {
+          "name": "古代林の採集ツアー",
+          "recipeUrl": "http://wiki.mhxg.org/ida/218337.html",
+          "detailTitle": "集★1古代林の採集ツアー | 【MHXX】モンハンダブルクロス攻略レシピ",
+          "icons": ["採集"],
+          "role": "hunter",
+          "tags": ["normal"],
+          "observations": [
+            {
+              "title": "備考",
+              "text": "最初から",
+              "links": []
+            }
+          ]
+        },
+        {
+          "name": "旧砂漠の採集ツアー",
+          "recipeUrl": "http://wiki.mhxg.org/ida/219138.html",
+          "detailTitle": "集★1旧砂漠の採集ツアー | 【MHXX】モンハンダブルクロス攻略レシピ",
+          "icons": ["採集"],
+          "role": "hunter",
+          "tags": ["normal"],
+          "observations": [
+            {
+              "title": "備考",
+              "text": "最初から",
+              "links": []
+            }
+          ]
+        },
+        {
+          "name": "森丘の採集ツアー",
+          "recipeUrl": "http://wiki.mhxg.org/ida/219139.html",
+          "detailTitle": "集★1森丘の採集ツアー | 【MHXX】モンハンダブルクロス攻略レシピ",
+          "icons": ["採集"],
+          "role": "hunter",
+          "tags": ["normal"],
+          "observations": [
+            {
+              "title": "備考",
+              "text": "最初から",
+              "links": []
+            }
+          ]
+        },
+        {
+          "name": "雪山の採集ツアー",
+          "recipeUrl": "http://wiki.mhxg.org/ida/219140.html",
+          "detailTitle": "集★1雪山の採集ツアー | 【MHXX】モンハンダブルクロス攻略レシピ",
+          "icons": ["採集"],
+          "role": "hunter",
+          "tags": ["normal"],
+          "observations": [
+            {
+              "title": "備考",
+              "text": "最初から",
+              "links": []
+            }
+          ]
+        },
+        {
+          "name": "渓流の採集ツアー",
+          "recipeUrl": "http://wiki.mhxg.org/ida/219141.html",
+          "detailTitle": "集★1渓流の採集ツアー | 【MHXX】モンハンダブルクロス攻略レシピ",
+          "icons": ["採集"],
+          "role": "hunter",
+          "tags": ["normal"],
+          "observations": [
+            {
+              "title": "備考",
+              "text": "最初から",
+              "links": []
+            }
+          ]
+        },
+        {
+          "name": "スピードキッカー",
+          "recipeUrl": "http://wiki.mhxg.org/ida/219142.html",
+          "detailTitle": "集★1スピードキッカー | 【MHXX】モンハンダブルクロス攻略レシピ",
+          "icons": ["狩猟"],
+          "role": "hunter",
+          "tags": ["normal"],
+          "observations": [
+            {
+              "title": "備考",
+              "text": "最初から",
+              "links": []
+            }
+          ]
+        },
+        {
+          "name": "鬼蛙テツカブラの狩猟",
+          "recipeUrl": "http://wiki.mhxg.org/ida/219143.html",
+          "detailTitle": "集★1鬼蛙テツカブラの狩猟 | 【MHXX】モンハンダブルクロス攻略レシピ",
+          "icons": ["狩猟", "キー"],
+          "role": "hunter",
+          "tags": ["key"],
+          "observations": [
+            {
+              "title": "備考",
+              "text": "最初から",
+              "links": []
+            }
+          ]
+        },
+        {
+          "name": "盗まれて古代林！",
+          "recipeUrl": "http://wiki.mhxg.org/ida/219144.html",
+          "detailTitle": "集★1盗まれて古代林！ | 【MHXX】モンハンダブルクロス攻略レシピ",
+          "icons": ["狩猟", "キー"],
+          "role": "hunter",
+          "tags": ["key"],
+          "observations": [
+            {
+              "title": "備考",
+              "text": "最初から",
+              "links": []
+            }
+          ]
+        },
+        {
+          "name": "真っ赤な顔の荒くれ者",
+          "recipeUrl": "http://wiki.mhxg.org/ida/219145.html",
+          "detailTitle": "集★1真っ赤な顔の荒くれ者 | 【MHXX】モンハンダブルクロス攻略レシピ",
+          "icons": ["討伐"],
+          "role": "hunter",
+          "tags": ["normal"],
+          "observations": [
+            {
+              "title": "備考",
+              "text": "最初から",
+              "links": []
+            }
+          ]
+        },
+        {
+          "name": "ゼンマイ肴に古代を感じて",
+          "recipeUrl": "http://wiki.mhxg.org/ida/219146.html",
+          "detailTitle": "集★1ゼンマイ肴に古代を感じて | 【MHXX】モンハンダブルクロス攻略レシピ",
+          "icons": ["採集"],
+          "role": "hunter",
+          "tags": ["normal"],
+          "observations": [
+            {
+              "title": "備考",
+              "text": "最初から",
+              "links": []
+            }
+          ]
+        },
+        {
+          "name": "ドスゲネポスを狩れ！",
+          "recipeUrl": "http://wiki.mhxg.org/ida/219147.html",
+          "detailTitle": "集★1ドスゲネポスを狩れ！ | 【MHXX】モンハンダブルクロス攻略レシピ",
+          "icons": ["狩猟"],
+          "role": "hunter",
+          "tags": ["normal"],
+          "observations": [
+            {
+              "title": "備考",
+              "text": "最初から",
+              "links": []
+            }
+          ]
+        },
+        {
+          "name": "砂の竜を追跡せよ！",
+          "recipeUrl": "http://wiki.mhxg.org/ida/219148.html",
+          "detailTitle": "集★1砂の竜を追跡せよ！ | 【MHXX】モンハンダブルクロス攻略レシピ",
+          "icons": ["狩猟"],
+          "role": "hunter",
+          "tags": ["normal"],
+          "observations": [
+            {
+              "title": "備考",
+              "text": "最初から",
+              "links": []
+            }
+          ]
+        },
+        {
+          "name": "鉄壁の盾蟹",
+          "recipeUrl": "http://wiki.mhxg.org/ida/219149.html",
+          "detailTitle": "集★1鉄壁の盾蟹 | 【MHXX】モンハンダブルクロス攻略レシピ",
+          "icons": ["狩猟", "フラグ"],
+          "role": "hunter",
+          "tags": ["normal"],
+          "observations": [
+            {
+              "title": "備考",
+              "text": "最初から",
+              "links": []
+            },
+            {
+              "title": "他のクエスト発生に必要",
+              "text": "【特殊許可】矛砕狩猟依頼１",
+              "links": [
+                {
+                  "label": "【特殊許可】矛砕狩猟依頼１",
+                  "url": "http://wiki.mhxg.org/ida/261198.html"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "盾蟹たちの集い",
+          "recipeUrl": "http://wiki.mhxg.org/ida/219150.html",
+          "detailTitle": "集★1盾蟹たちの集い | 【MHXX】モンハンダブルクロス攻略レシピ",
+          "icons": ["討伐"],
+          "role": "hunter",
+          "tags": ["normal"],
+          "observations": [
+            {
+              "title": "備考",
+              "text": "最初から",
+              "links": []
+            }
+          ]
+        },
+        {
+          "name": "新たな食材ハンターの誕生！？",
+          "recipeUrl": "http://wiki.mhxg.org/ida/220241.html",
+          "detailTitle": "集★1新たな食材ハンターの誕生！？ | 【MHXX】モンハンダブルクロス攻略レシピ",
+          "icons": ["採集", "依頼", "食材"],
+          "role": "hunter",
+          "tags": ["request"],
+          "observations": [
+            {
+              "title": "依頼",
+              "text": "[受注] ココット村 キャラバンの料理長の依頼1 [依頼出現条件] 依頼★ココット村の村長の依頼2 クリア後 食材 チココーン",
+              "links": [
+                {
+                  "label": "キャラバンの料理長の依頼1",
+                  "url": "http://wiki.mhxg.org/ida/243427.html"
+                },
+                {
+                  "label": "依頼★ココット村の村長の依頼2",
+                  "url": "http://wiki.mhxg.org/ida/243417.html"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "ドスランポスを狩猟せよ！",
+          "recipeUrl": "http://wiki.mhxg.org/ida/219151.html",
+          "detailTitle": "集★1ドスランポスを狩猟せよ！ | 【MHXX】モンハンダブルクロス攻略レシピ",
+          "icons": ["狩猟"],
+          "role": "hunter",
+          "tags": ["normal"],
+          "observations": [
+            {
+              "title": "備考",
+              "text": "最初から",
+              "links": []
+            }
+          ]
+        },
+        {
+          "name": "大怪鳥イャンクックを倒せ！",
+          "recipeUrl": "http://wiki.mhxg.org/ida/219152.html",
+          "detailTitle": "集★1大怪鳥イャンクックを倒せ！ | 【MHXX】モンハンダブルクロス攻略レシピ",
+          "icons": ["狩猟", "キー"],
+          "role": "hunter",
+          "tags": ["key"],
+          "observations": [
+            {
+              "title": "備考",
+              "text": "最初から",
+              "links": []
+            }
+          ]
+        },
+        {
+          "name": "キノコ探しで大もうけ！？",
+          "recipeUrl": "http://wiki.mhxg.org/ida/219153.html",
+          "detailTitle": "集★1キノコ探しで大もうけ！？ | 【MHXX】モンハンダブルクロス攻略レシピ",
+          "icons": ["採集"],
+          "role": "hunter",
+          "tags": ["normal"],
+          "observations": [
+            {
+              "title": "備考",
+              "text": "最初から",
+              "links": []
+            }
+          ]
+        },
+        {
+          "name": "狡猾な襲撃者たち",
+          "recipeUrl": "http://wiki.mhxg.org/ida/219154.html",
+          "detailTitle": "集★1狡猾な襲撃者たち | 【MHXX】モンハンダブルクロス攻略レシピ",
+          "icons": ["討伐"],
+          "role": "hunter",
+          "tags": ["normal"],
+          "observations": [
+            {
+              "title": "備考",
+              "text": "最初から",
+              "links": []
+            }
+          ]
+        },
+        {
+          "name": "雪のちウルクスス",
+          "recipeUrl": "http://wiki.mhxg.org/ida/219155.html",
+          "detailTitle": "集★1雪のちウルクスス | 【MHXX】モンハンダブルクロス攻略レシピ",
+          "icons": ["狩猟", "キー", "フラグ"],
+          "role": "hunter",
+          "tags": ["key"],
+          "observations": [
+            {
+              "title": "備考",
+              "text": "最初から",
+              "links": []
+            },
+            {
+              "title": "他のクエスト発生に必要",
+              "text": "【特殊許可】大雪主狩猟依頼１",
+              "links": [
+                {
+                  "label": "【特殊許可】大雪主狩猟依頼１",
+                  "url": "http://wiki.mhxg.org/ida/235918.html"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "肉食竜の討伐！",
+          "recipeUrl": "http://wiki.mhxg.org/ida/219156.html",
+          "detailTitle": "集★1肉食竜の討伐！ | 【MHXX】モンハンダブルクロス攻略レシピ",
+          "icons": ["討伐"],
+          "role": "hunter",
+          "tags": ["normal"],
+          "observations": [
+            {
+              "title": "備考",
+              "text": "最初から",
+              "links": []
+            }
+          ]
+        },
+        {
+          "name": "雪山草を探せ！",
+          "recipeUrl": "http://wiki.mhxg.org/ida/219157.html",
+          "detailTitle": "集★1雪山草を探せ！ | 【MHXX】モンハンダブルクロス攻略レシピ",
+          "icons": ["採集"],
+          "role": "hunter",
+          "tags": ["normal"],
+          "observations": [
+            {
+              "title": "備考",
+              "text": "最初から",
+              "links": []
+            }
+          ]
+        },
+        {
+          "name": "渓流の頭、ドスファンゴ",
+          "recipeUrl": "http://wiki.mhxg.org/ida/219158.html",
+          "detailTitle": "集★1渓流の頭、ドスファンゴ | 【MHXX】モンハンダブルクロス攻略レシピ",
+          "icons": ["狩猟"],
+          "role": "hunter",
+          "tags": ["normal"],
+          "observations": [
+            {
+              "title": "備考",
+              "text": "最初から",
+              "links": []
+            }
+          ]
+        },
+        {
+          "name": "伝説のメニューに不可欠なモノ",
+          "recipeUrl": "http://wiki.mhxg.org/ida/220242.html",
+          "detailTitle": "集★1伝説のメニューに不可欠なモノ | 【MHXX】モンハンダブルクロス攻略レシピ",
+          "icons": ["狩猟", "依頼", "食材", "施設", "フラグ"],
+          "role": "hunter",
+          "tags": ["request"],
+          "observations": [
+            {
+              "title": "依頼",
+              "text": "[受注] ポッケ村 さすらいのコックの依頼1 [依頼出現条件] 依頼★ポッケ村の村長の依頼2 クリア後 食材 モグモガーリック プーギーの服 魅惑のピンク",
+              "links": [
+                {
+                  "label": "さすらいのコックの依頼1",
+                  "url": "http://wiki.mhxg.org/ida/243449.html"
+                },
+                {
+                  "label": "依頼★ポッケ村の村長の依頼2",
+                  "url": "http://wiki.mhxg.org/ida/243437.html"
+                }
+              ]
+            },
+            {
+              "title": "他のクエスト発生に必要",
+              "text": "【特殊許可】紅兜狩猟依頼１",
+              "links": [
+                {
+                  "label": "【特殊許可】紅兜狩猟依頼１",
+                  "url": "http://wiki.mhxg.org/ida/218339.html"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "ロアルドロスを狩猟せよ！",
+          "recipeUrl": "http://wiki.mhxg.org/ida/219159.html",
+          "detailTitle": "集★1ロアルドロスを狩猟せよ！ | 【MHXX】モンハンダブルクロス攻略レシピ",
+          "icons": ["狩猟", "キー"],
+          "role": "hunter",
+          "tags": ["key"],
+          "observations": [
+            {
+              "title": "備考",
+              "text": "最初から",
+              "links": []
+            }
+          ]
+        },
+        {
+          "name": "ルドロス討伐作戦！",
+          "recipeUrl": "http://wiki.mhxg.org/ida/219160.html",
+          "detailTitle": "集★1ルドロス討伐作戦！ | 【MHXX】モンハンダブルクロス攻略レシピ",
+          "icons": ["討伐"],
+          "role": "hunter",
+          "tags": ["normal"],
+          "observations": [
+            {
+              "title": "備考",
+              "text": "最初から",
+              "links": []
+            }
+          ]
+        },
+        {
+          "name": "渓流のジャギィ討伐作戦",
+          "recipeUrl": "http://wiki.mhxg.org/ida/219161.html",
+          "detailTitle": "集★1渓流のジャギィ討伐作戦 | 【MHXX】モンハンダブルクロス攻略レシピ",
+          "icons": ["討伐"],
+          "role": "hunter",
+          "tags": ["normal"],
+          "observations": [
+            {
+              "title": "備考",
+              "text": "最初から",
+              "links": []
+            }
+          ]
+        },
+        {
+          "name": "花の香りを掘り当てて",
+          "recipeUrl": "http://wiki.mhxg.org/ida/219162.html",
+          "detailTitle": "集★1花の香りを掘り当てて | 【MHXX】モンハンダブルクロス攻略レシピ",
+          "icons": ["採集"],
+          "role": "hunter",
+          "tags": ["normal"],
+          "observations": [
+            {
+              "title": "備考",
+              "text": "最初から",
+              "links": []
+            }
+          ]
+        },
+        {
+          "name": "古代林のダンスパーティ",
+          "recipeUrl": "http://wiki.mhxg.org/ida/219163.html",
+          "detailTitle": "集★1古代林のダンスパーティ | 【MHXX】モンハンダブルクロス攻略レシピ",
+          "icons": ["ニャンター"],
+          "role": "prowler",
+          "tags": ["normal"],
+          "observations": [
+            {
+              "title": "備考",
+              "text": "最初から",
+              "links": []
+            }
+          ]
+        },
+        {
+          "name": "薬膳スープは雪山草仕立て",
+          "recipeUrl": "http://wiki.mhxg.org/ida/219164.html",
+          "detailTitle": "集★1薬膳スープは雪山草仕立て | 【MHXX】モンハンダブルクロス攻略レシピ",
+          "icons": ["ニャンター"],
+          "role": "prowler",
+          "tags": ["normal"],
+          "observations": [
+            {
+              "title": "備考",
+              "text": "最初から",
+              "links": []
+            }
+          ]
+        },
+        {
+          "name": "渓流のポイント招きネコ",
+          "recipeUrl": "http://wiki.mhxg.org/ida/219165.html",
+          "detailTitle": "集★1渓流のポイント招きネコ | 【MHXX】モンハンダブルクロス攻略レシピ",
+          "icons": ["ニャンター"],
+          "role": "prowler",
+          "tags": ["normal"],
+          "observations": [
+            {
+              "title": "備考",
+              "text": "最初から",
+              "links": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "rank": "2",
+      "recipeListUrl": "http://wiki.mhxg.org/data/2022.html",
+      "observedCount": 35,
+      "entries": [
+        {
+          "name": "孤島の採集ツアー",
+          "recipeUrl": "http://wiki.mhxg.org/ida/220243.html",
+          "detailTitle": "集★2孤島の採集ツアー | 【MHXX】モンハンダブルクロス攻略レシピ",
+          "icons": ["採集"],
+          "role": "hunter",
+          "tags": ["normal"],
+          "observations": [
+            {
+              "title": "備考",
+              "text": "集★2開放後",
+              "links": []
+            }
+          ]
+        },
+        {
+          "name": "沼地の採集ツアー",
+          "recipeUrl": "http://wiki.mhxg.org/ida/220244.html",
+          "detailTitle": "集★2沼地の採集ツアー | 【MHXX】モンハンダブルクロス攻略レシピ",
+          "icons": ["採集"],
+          "role": "hunter",
+          "tags": ["normal"],
+          "observations": [
+            {
+              "title": "備考",
+              "text": "集★2開放後",
+              "links": []
+            }
+          ]
+        },
+        {
+          "name": "不眠のあなたに催眠療法",
+          "recipeUrl": "http://wiki.mhxg.org/ida/220245.html",
+          "detailTitle": "集★2不眠のあなたに催眠療法 | 【MHXX】モンハンダブルクロス攻略レシピ",
+          "icons": ["捕獲"],
+          "role": "hunter",
+          "tags": ["normal"],
+          "observations": [
+            {
+              "title": "備考",
+              "text": "集★2開放後",
+              "links": []
+            }
+          ]
+        },
+        {
+          "name": "赤甲獣ラングロトラ現る！",
+          "recipeUrl": "http://wiki.mhxg.org/ida/220246.html",
+          "detailTitle": "集★2赤甲獣ラングロトラ現る！ | 【MHXX】モンハンダブルクロス攻略レシピ",
+          "icons": ["狩猟"],
+          "role": "hunter",
+          "tags": ["normal"],
+          "observations": [
+            {
+              "title": "備考",
+              "text": "集★2開放後",
+              "links": []
+            }
+          ]
+        },
+        {
+          "name": "草食竜と戯れて",
+          "recipeUrl": "http://wiki.mhxg.org/ida/220247.html",
+          "detailTitle": "集★2草食竜と戯れて | 【MHXX】モンハンダブルクロス攻略レシピ",
+          "icons": ["討伐"],
+          "role": "hunter",
+          "tags": ["normal"],
+          "observations": [
+            {
+              "title": "備考",
+              "text": "集★2開放後",
+              "links": []
+            }
+          ]
+        },
+        {
+          "name": "砂上のテーブルマナー",
+          "recipeUrl": "http://wiki.mhxg.org/ida/219997.html",
+          "detailTitle": "集★2砂上のテーブルマナー | 【MHXX】モンハンダブルクロス攻略レシピ",
+          "icons": ["狩猟", "キー"],
+          "role": "hunter",
+          "tags": ["key"],
+          "observations": [
+            {
+              "title": "備考",
+              "text": "集★2開放後",
+              "links": []
+            }
+          ]
+        },
+        {
+          "name": "マジヤベェ！舌！",
+          "recipeUrl": "http://wiki.mhxg.org/ida/220248.html",
+          "detailTitle": "集★2マジヤベェ！舌！ | 【MHXX】モンハンダブルクロス攻略レシピ",
+          "icons": ["捕獲"],
+          "role": "hunter",
+          "tags": ["normal"],
+          "observations": [
+            {
+              "title": "備考",
+              "text": "集★2開放後",
+              "links": []
+            }
+          ]
+        },
+        {
+          "name": "２対の麻痺牙",
+          "recipeUrl": "http://wiki.mhxg.org/ida/220249.html",
+          "detailTitle": "集★2２対の麻痺牙 | 【MHXX】モンハンダブルクロス攻略レシピ",
+          "icons": ["狩猟"],
+          "role": "hunter",
+          "tags": ["normal"],
+          "observations": [
+            {
+              "title": "備考",
+              "text": "集★2開放後",
+              "links": []
+            }
+          ]
+        },
+        {
+          "name": "クンチュウの行動研究",
+          "recipeUrl": "http://wiki.mhxg.org/ida/220250.html",
+          "detailTitle": "集★2クンチュウの行動研究 | 【MHXX】モンハンダブルクロス攻略レシピ",
+          "icons": ["討伐"],
+          "role": "hunter",
+          "tags": ["normal"],
+          "observations": [
+            {
+              "title": "備考",
+              "text": "集★2開放後",
+              "links": []
+            }
+          ]
+        },
+        {
+          "name": "幻のキモを追え！",
+          "recipeUrl": "http://wiki.mhxg.org/ida/220251.html",
+          "detailTitle": "集★2幻のキモを追え！ | 【MHXX】モンハンダブルクロス攻略レシピ",
+          "icons": ["採集"],
+          "role": "hunter",
+          "tags": ["normal"],
+          "observations": [
+            {
+              "title": "備考",
+              "text": "集★2開放後",
+              "links": []
+            }
+          ]
+        },
+        {
+          "name": "ガララアジャラの狩猟",
+          "recipeUrl": "http://wiki.mhxg.org/ida/219998.html",
+          "detailTitle": "集★2ガララアジャラの狩猟 | 【MHXX】モンハンダブルクロス攻略レシピ",
+          "icons": ["狩猟", "キー"],
+          "role": "hunter",
+          "tags": ["key"],
+          "observations": [
+            {
+              "title": "備考",
+              "text": "集★2開放後",
+              "links": []
+            }
+          ]
+        },
+        {
+          "name": "失われた黒狼を求めて",
+          "recipeUrl": "http://wiki.mhxg.org/ida/219999.html",
+          "detailTitle": "集★2失われた黒狼を求めて | 【MHXX】モンハンダブルクロス攻略レシピ",
+          "icons": ["狩猟", "キー"],
+          "role": "hunter",
+          "tags": ["key"],
+          "observations": [
+            {
+              "title": "備考",
+              "text": "集★2開放後",
+              "links": []
+            }
+          ]
+        },
+        {
+          "name": "無謀な弟子の、後始末",
+          "recipeUrl": "http://wiki.mhxg.org/ida/220252.html",
+          "detailTitle": "集★2無謀な弟子の、後始末 | 【MHXX】モンハンダブルクロス攻略レシピ",
+          "icons": ["狩猟", "依頼", "武具"],
+          "role": "hunter",
+          "tags": ["request"],
+          "observations": [
+            {
+              "title": "依頼",
+              "text": "[受注] ユクモ村 オトモ武具屋の依頼2 [依頼出現条件] 依頼★オトモ武具屋の依頼1 クリア後集★2解放後 オトモ装備開放 ランポスネコピック大タルネコハンマー",
+              "links": [
+                {
+                  "label": "オトモ武具屋の依頼2",
+                  "url": "http://wiki.mhxg.org/ida/243462.html"
+                },
+                {
+                  "label": "依頼★オトモ武具屋の依頼1",
+                  "url": "http://wiki.mhxg.org/ida/243461.html"
+                },
+                {
+                  "label": "ランポスネコピック",
+                  "url": "http://wiki.mhxg.org/ida/267415.html"
+                },
+                {
+                  "label": "大タルネコハンマー",
+                  "url": "http://wiki.mhxg.org/ida/267416.html"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "食材の価値は鮮度なり",
+          "recipeUrl": "http://wiki.mhxg.org/ida/220253.html",
+          "detailTitle": "集★2食材の価値は鮮度なり | 【MHXX】モンハンダブルクロス攻略レシピ",
+          "icons": ["討伐", "依頼", "食材"],
+          "role": "hunter",
+          "tags": ["request"],
+          "observations": [
+            {
+              "title": "依頼",
+              "text": "[受注] ユクモ村 食材屋の女将の依頼1 [依頼出現条件] 依頼★ユクモ村の村長の依頼2 クリア後集★2解放後村★3解放後 食材 サイコロミート",
+              "links": [
+                {
+                  "label": "食材屋の女将の依頼1",
+                  "url": "http://wiki.mhxg.org/ida/243481.html"
+                },
+                {
+                  "label": "依頼★ユクモ村の村長の依頼2",
+                  "url": "http://wiki.mhxg.org/ida/243455.html"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "雪山に潜む影",
+          "recipeUrl": "http://wiki.mhxg.org/ida/220254.html",
+          "detailTitle": "集★2雪山に潜む影 | 【MHXX】モンハンダブルクロス攻略レシピ",
+          "icons": ["狩猟"],
+          "role": "hunter",
+          "tags": ["normal"],
+          "observations": [
+            {
+              "title": "備考",
+              "text": "集★2開放後",
+              "links": []
+            }
+          ]
+        },
+        {
+          "name": "雪山の主、ドドブランゴ",
+          "recipeUrl": "http://wiki.mhxg.org/ida/219996.html",
+          "detailTitle": "集★2雪山の主、ドドブランゴ | 【MHXX】モンハンダブルクロス攻略レシピ",
+          "icons": ["狩猟", "緊急", "狩技", "施設"],
+          "role": "hunter",
+          "tags": ["urgent"],
+          "observations": [
+            {
+              "title": "備考",
+              "text": "集★1のキークエスト全てクリア後",
+              "links": []
+            },
+            {
+              "title": "狩技開放",
+              "text": "獣宿し【獅子】 LV1 鏡花の構え LV1 昇竜撃 LV1 天翔空破断 LV1 大挑発 LV1 奏纏 LV1 ガードレイジ LV1 覇山竜撃砲 LV1 剣鬼形態 LV1 ヒーリングボトル LV1 蟲纏い LV1 ラピッドヘブン LV1 スーパーノヴァ LV1 ブレイドワイヤー LV1",
+              "links": [
+                {
+                  "label": "獣宿し【獅子】",
+                  "url": "http://wiki.mhxg.org/data/1847.html#id268572"
+                },
+                {
+                  "label": "鏡花の構え",
+                  "url": "http://wiki.mhxg.org/data/1847.html#id268584"
+                },
+                {
+                  "label": "昇竜撃",
+                  "url": "http://wiki.mhxg.org/data/1847.html#id268593"
+                },
+                {
+                  "label": "天翔空破断",
+                  "url": "http://wiki.mhxg.org/data/1847.html#id268599"
+                },
+                {
+                  "label": "大挑発",
+                  "url": "http://wiki.mhxg.org/data/1847.html#id268608"
+                },
+                {
+                  "label": "奏纏",
+                  "url": "http://wiki.mhxg.org/data/1847.html#id268620"
+                },
+                {
+                  "label": "ガードレイジ",
+                  "url": "http://wiki.mhxg.org/data/1847.html#id268629"
+                },
+                {
+                  "label": "覇山竜撃砲",
+                  "url": "http://wiki.mhxg.org/data/1847.html#id268632"
+                },
+                {
+                  "label": "剣鬼形態",
+                  "url": "http://wiki.mhxg.org/data/1847.html#id268644"
+                },
+                {
+                  "label": "ヒーリングボトル",
+                  "url": "http://wiki.mhxg.org/data/1847.html#id268656"
+                },
+                {
+                  "label": "蟲纏い",
+                  "url": "http://wiki.mhxg.org/data/1847.html#id268662"
+                },
+                {
+                  "label": "ラピッドヘブン",
+                  "url": "http://wiki.mhxg.org/data/1847.html#id268674"
+                },
+                {
+                  "label": "スーパーノヴァ",
+                  "url": "http://wiki.mhxg.org/data/1847.html#id268677"
+                },
+                {
+                  "label": "ブレイドワイヤー",
+                  "url": "http://wiki.mhxg.org/data/1847.html#id268692"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "ブランゴ討伐作戦",
+          "recipeUrl": "http://wiki.mhxg.org/ida/220255.html",
+          "detailTitle": "集★2ブランゴ討伐作戦 | 【MHXX】モンハンダブルクロス攻略レシピ",
+          "icons": ["討伐"],
+          "role": "hunter",
+          "tags": ["normal"],
+          "observations": [
+            {
+              "title": "備考",
+              "text": "集★2開放後",
+              "links": []
+            }
+          ]
+        },
+        {
+          "name": "研究サンプル捕獲作戦",
+          "recipeUrl": "http://wiki.mhxg.org/ida/220000.html",
+          "detailTitle": "集★2研究サンプル捕獲作戦 | 【MHXX】モンハンダブルクロス攻略レシピ",
+          "icons": ["捕獲", "キー"],
+          "role": "hunter",
+          "tags": ["key"],
+          "observations": [
+            {
+              "title": "備考",
+              "text": "集★2開放後",
+              "links": []
+            }
+          ]
+        },
+        {
+          "name": "女王、降臨す",
+          "recipeUrl": "http://wiki.mhxg.org/ida/220001.html",
+          "detailTitle": "集★2女王、降臨す | 【MHXX】モンハンダブルクロス攻略レシピ",
+          "icons": ["狩猟", "キー", "フラグ"],
+          "role": "hunter",
+          "tags": ["key"],
+          "observations": [
+            {
+              "title": "備考",
+              "text": "集★2開放後",
+              "links": []
+            },
+            {
+              "title": "他のクエスト発生に必要",
+              "text": "【特殊許可】紫毒姫狩猟依頼１",
+              "links": [
+                {
+                  "label": "【特殊許可】紫毒姫狩猟依頼１",
+                  "url": "http://wiki.mhxg.org/ida/235920.html"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "輸送中！水獣の追従！",
+          "recipeUrl": "http://wiki.mhxg.org/ida/220256.html",
+          "detailTitle": "集★2輸送中！水獣の追従！ | 【MHXX】モンハンダブルクロス攻略レシピ",
+          "icons": ["狩猟", "依頼", "入手", "施設"],
+          "role": "hunter",
+          "tags": ["request"],
+          "observations": [
+            {
+              "title": "依頼",
+              "text": "[受注] ココット村 交易船の船長の依頼1 [依頼出現条件] 集★2解放後 入手 謎の武器の秘伝書 x1 プーギーの服 カエルのマーチ",
+              "links": [
+                {
+                  "label": "交易船の船長の依頼1",
+                  "url": "http://wiki.mhxg.org/ida/243432.html"
+                },
+                {
+                  "label": "謎の武器の秘伝書",
+                  "url": "http://wiki.mhxg.org/ida/229891.html"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "渓流のジャギィノス退治",
+          "recipeUrl": "http://wiki.mhxg.org/ida/220257.html",
+          "detailTitle": "集★2渓流のジャギィノス退治 | 【MHXX】モンハンダブルクロス攻略レシピ",
+          "icons": ["討伐"],
+          "role": "hunter",
+          "tags": ["normal"],
+          "observations": [
+            {
+              "title": "備考",
+              "text": "集★2開放後",
+              "links": []
+            }
+          ]
+        },
+        {
+          "name": "夜鳥の鱗粉を掻い潜れ",
+          "recipeUrl": "http://wiki.mhxg.org/ida/220002.html",
+          "detailTitle": "集★2夜鳥の鱗粉を掻い潜れ | 【MHXX】モンハンダブルクロス攻略レシピ",
+          "icons": ["狩猟", "キー"],
+          "role": "hunter",
+          "tags": ["key"],
+          "observations": [
+            {
+              "title": "備考",
+              "text": "集★2開放後",
+              "links": []
+            }
+          ]
+        },
+        {
+          "name": "疾風の迅竜",
+          "recipeUrl": "http://wiki.mhxg.org/ida/220258.html",
+          "detailTitle": "集★2疾風の迅竜 | 【MHXX】モンハンダブルクロス攻略レシピ",
+          "icons": ["狩猟"],
+          "role": "hunter",
+          "tags": ["normal"],
+          "observations": [
+            {
+              "title": "備考",
+              "text": "集★2開放後",
+              "links": []
+            }
+          ]
+        },
+        {
+          "name": "馬力、怪力、テツカブラ！",
+          "recipeUrl": "http://wiki.mhxg.org/ida/220259.html",
+          "detailTitle": "集★2馬力、怪力、テツカブラ！ | 【MHXX】モンハンダブルクロス攻略レシピ",
+          "icons": ["狩猟"],
+          "role": "hunter",
+          "tags": ["normal"],
+          "observations": [
+            {
+              "title": "備考",
+              "text": "集★2開放後",
+              "links": []
+            }
+          ]
+        },
+        {
+          "name": "孤島の相撲大会！",
+          "recipeUrl": "http://wiki.mhxg.org/ida/220260.html",
+          "detailTitle": "集★2孤島の相撲大会！ | 【MHXX】モンハンダブルクロス攻略レシピ",
+          "icons": ["狩猟"],
+          "role": "hunter",
+          "tags": ["normal"],
+          "observations": [
+            {
+              "title": "備考",
+              "text": "集★2開放後",
+              "links": []
+            }
+          ]
+        },
+        {
+          "name": "飛甲虫たちの饗宴",
+          "recipeUrl": "http://wiki.mhxg.org/ida/220261.html",
+          "detailTitle": "集★2飛甲虫たちの饗宴 | 【MHXX】モンハンダブルクロス攻略レシピ",
+          "icons": ["討伐"],
+          "role": "hunter",
+          "tags": ["normal"],
+          "observations": [
+            {
+              "title": "備考",
+              "text": "集★2開放後",
+              "links": []
+            }
+          ]
+        },
+        {
+          "name": "ドスイーオスの毒牙",
+          "recipeUrl": "http://wiki.mhxg.org/ida/220262.html",
+          "detailTitle": "集★2ドスイーオスの毒牙 | 【MHXX】モンハンダブルクロス攻略レシピ",
+          "icons": ["狩猟"],
+          "role": "hunter",
+          "tags": ["normal"],
+          "observations": [
+            {
+              "title": "備考",
+              "text": "集★2開放後",
+              "links": []
+            }
+          ]
+        },
+        {
+          "name": "空を切り裂く鎌",
+          "recipeUrl": "http://wiki.mhxg.org/ida/220263.html",
+          "detailTitle": "集★2空を切り裂く鎌 | 【MHXX】モンハンダブルクロス攻略レシピ",
+          "icons": ["狩猟"],
+          "role": "hunter",
+          "tags": ["normal"],
+          "observations": [
+            {
+              "title": "備考",
+              "text": "集★2開放後",
+              "links": []
+            }
+          ]
+        },
+        {
+          "name": "絞蛇竜は踊り奏でる",
+          "recipeUrl": "http://wiki.mhxg.org/ida/220264.html",
+          "detailTitle": "集★2絞蛇竜は踊り奏でる | 【MHXX】モンハンダブルクロス攻略レシピ",
+          "icons": ["狩猟"],
+          "role": "hunter",
+          "tags": ["normal"],
+          "observations": [
+            {
+              "title": "備考",
+              "text": "集★2開放後",
+              "links": []
+            }
+          ]
+        },
+        {
+          "name": "イーオス討伐作戦！",
+          "recipeUrl": "http://wiki.mhxg.org/ida/220265.html",
+          "detailTitle": "集★2イーオス討伐作戦！ | 【MHXX】モンハンダブルクロス攻略レシピ",
+          "icons": ["討伐"],
+          "role": "hunter",
+          "tags": ["normal"],
+          "observations": [
+            {
+              "title": "備考",
+              "text": "集★2開放後",
+              "links": []
+            }
+          ]
+        },
+        {
+          "name": "巨大昆虫、発生！",
+          "recipeUrl": "http://wiki.mhxg.org/ida/220266.html",
+          "detailTitle": "集★2巨大昆虫、発生！ | 【MHXX】モンハンダブルクロス攻略レシピ",
+          "icons": ["討伐"],
+          "role": "hunter",
+          "tags": ["normal"],
+          "observations": [
+            {
+              "title": "備考",
+              "text": "集★2開放後",
+              "links": []
+            }
+          ]
+        },
+        {
+          "name": "調合素材を採取せよ！",
+          "recipeUrl": "http://wiki.mhxg.org/ida/220267.html",
+          "detailTitle": "集★2調合素材を採取せよ！ | 【MHXX】モンハンダブルクロス攻略レシピ",
+          "icons": ["採集"],
+          "role": "hunter",
+          "tags": ["normal"],
+          "observations": [
+            {
+              "title": "備考",
+              "text": "集★2開放後",
+              "links": []
+            }
+          ]
+        },
+        {
+          "name": "闇夜を駆けるリノプロス",
+          "recipeUrl": "http://wiki.mhxg.org/ida/238219.html",
+          "detailTitle": "集★2闇夜を駆けるリノプロス | 【MHXX】モンハンダブルクロス攻略レシピ",
+          "icons": ["ニャンター"],
+          "role": "prowler",
+          "tags": ["normal"],
+          "observations": [
+            {
+              "title": "備考",
+              "text": "集★2開放後",
+              "links": []
+            }
+          ]
+        },
+        {
+          "name": "孤島のコオロギ恋い焦がれ",
+          "recipeUrl": "http://wiki.mhxg.org/ida/238220.html",
+          "detailTitle": "集★2孤島のコオロギ恋い焦がれ | 【MHXX】モンハンダブルクロス攻略レシピ",
+          "icons": ["ニャンター"],
+          "role": "prowler",
+          "tags": ["normal"],
+          "observations": [
+            {
+              "title": "備考",
+              "text": "集★2開放後",
+              "links": []
+            }
+          ]
+        },
+        {
+          "name": "絢爛豪華な武闘会",
+          "recipeUrl": "http://wiki.mhxg.org/ida/238221.html",
+          "detailTitle": "集★2絢爛豪華な武闘会 | 【MHXX】モンハンダブルクロス攻略レシピ",
+          "icons": ["ニャンター"],
+          "role": "prowler",
+          "tags": ["normal"],
+          "observations": [
+            {
+              "title": "備考",
+              "text": "集★2開放後",
+              "links": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "rank": "3",
+      "recipeListUrl": "http://wiki.mhxg.org/data/2023.html",
+      "observedCount": 38,
+      "entries": [
+        {
+          "name": "火山の採集ツアー",
+          "recipeUrl": "http://wiki.mhxg.org/ida/220268.html",
+          "detailTitle": "集★3火山の採集ツアー | 【MHXX】モンハンダブルクロス攻略レシピ",
+          "icons": ["採集"],
+          "role": "hunter",
+          "tags": ["normal"],
+          "observations": [
+            {
+              "title": "備考",
+              "text": "集★3開放後",
+              "links": []
+            }
+          ]
+        },
+        {
+          "name": "心火の斬竜炉",
+          "recipeUrl": "http://wiki.mhxg.org/ida/220269.html",
+          "detailTitle": "集★3心火の斬竜炉 | 【MHXX】モンハンダブルクロス攻略レシピ",
+          "icons": ["狩猟"],
+          "role": "hunter",
+          "tags": ["normal"],
+          "observations": [
+            {
+              "title": "備考",
+              "text": "集★3開放後",
+              "links": []
+            }
+          ]
+        },
+        {
+          "name": "轟竜ティガレックス",
+          "recipeUrl": "http://wiki.mhxg.org/ida/220270.html",
+          "detailTitle": "集★3轟竜ティガレックス | 【MHXX】モンハンダブルクロス攻略レシピ",
+          "icons": ["狩猟", "狩技"],
+          "role": "hunter",
+          "tags": ["normal"],
+          "observations": [
+            {
+              "title": "備考",
+              "text": "集★3開放後",
+              "links": []
+            },
+            {
+              "title": "狩技開放",
+              "text": "練気解放円月斬り LV2",
+              "links": [
+                {
+                  "label": "練気解放円月斬り",
+                  "url": "http://wiki.mhxg.org/data/1847.html#id268582"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "黒き衣を纏う竜",
+          "recipeUrl": "http://wiki.mhxg.org/ida/220271.html",
+          "detailTitle": "集★3黒き衣を纏う竜 | 【MHXX】モンハンダブルクロス攻略レシピ",
+          "icons": ["狩猟", "キー"],
+          "role": "hunter",
+          "tags": ["key"],
+          "observations": [
+            {
+              "title": "備考",
+              "text": "集★3開放後",
+              "links": []
+            }
+          ]
+        },
+        {
+          "name": "化石に眠る太古の記憶",
+          "recipeUrl": "http://wiki.mhxg.org/ida/220272.html",
+          "detailTitle": "集★3化石に眠る太古の記憶 | 【MHXX】モンハンダブルクロス攻略レシピ",
+          "icons": ["採集", "依頼"],
+          "role": "hunter",
+          "tags": ["request"],
+          "observations": [
+            {
+              "title": "依頼",
+              "text": "[受注] ココット村 キャラバンの竜人商人の依頼2 [依頼出現条件] 依頼★キャラバンの竜人商人の依頼1 クリア後集★3解放後",
+              "links": [
+                {
+                  "label": "キャラバンの竜人商人の依頼2",
+                  "url": "http://wiki.mhxg.org/ida/243430.html"
+                },
+                {
+                  "label": "依頼★キャラバンの竜人商人の依頼1",
+                  "url": "http://wiki.mhxg.org/ida/243429.html"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "千刃、襲来",
+          "recipeUrl": "http://wiki.mhxg.org/ida/220273.html",
+          "detailTitle": "集★3千刃、襲来 | 【MHXX】モンハンダブルクロス攻略レシピ",
+          "icons": ["狩猟", "キー"],
+          "role": "hunter",
+          "tags": ["key"],
+          "observations": [
+            {
+              "title": "備考",
+              "text": "集★3開放後",
+              "links": []
+            }
+          ]
+        },
+        {
+          "name": "電の反逆者",
+          "recipeUrl": "http://wiki.mhxg.org/ida/220003.html",
+          "detailTitle": "集★3電の反逆者 | 【MHXX】モンハンダブルクロス攻略レシピ",
+          "icons": ["狩猟", "緊急", "狩技", "施設"],
+          "role": "hunter",
+          "tags": ["urgent"],
+          "observations": [
+            {
+              "title": "備考",
+              "text": "集★2のキークエスト全てクリア後",
+              "links": []
+            },
+            {
+              "title": "狩技開放",
+              "text": "ヒールゲイン (共通) 地衝斬 LV2 震怒竜怨斬 LV1 桜花気刃斬 LV2 練気解放円月斬り LV1 ブレイドダンス LV1 ラウンドフォース LV2 血風独楽 LV2 獣宿し【餓狼】 LV1 スピニングメテオ LV2 タイフーントリガー LV1 オルケスタソウル LV2 音撃震 LV1 シールドアサルト LV2 スクリュースラスト LV1 ブラストダッシュ LV2 竜の息吹 LV1 トランスラッシュ LV2 エネルギーチャージ LV1 エネルギーブレイド LV1 オーバーリミット LV2 エキスハンター LV2 飛翔蟲斬破 LV1 バレットゲイザー LV1 全弾装填 LV2 アクセルシャワー LV1 火薬装填 LV2 トリニティレイヴン LV2 アクセルレイン LV1",
+              "links": [
+                {
+                  "label": "ヒールゲイン",
+                  "url": "http://wiki.mhxg.org/data/1847.html#id268561"
+                },
+                {
+                  "label": "地衝斬",
+                  "url": "http://wiki.mhxg.org/data/1847.html#id268570"
+                },
+                {
+                  "label": "震怒竜怨斬",
+                  "url": "http://wiki.mhxg.org/data/1847.html#id268575"
+                },
+                {
+                  "label": "桜花気刃斬",
+                  "url": "http://wiki.mhxg.org/data/1847.html#id268579"
+                },
+                {
+                  "label": "練気解放円月斬り",
+                  "url": "http://wiki.mhxg.org/data/1847.html#id268581"
+                },
+                {
+                  "label": "ブレイドダンス",
+                  "url": "http://wiki.mhxg.org/data/1847.html#id268587"
+                },
+                {
+                  "label": "ラウンドフォース",
+                  "url": "http://wiki.mhxg.org/data/1847.html#id268591"
+                },
+                {
+                  "label": "血風独楽",
+                  "url": "http://wiki.mhxg.org/data/1847.html#id268597"
+                },
+                {
+                  "label": "獣宿し【餓狼】",
+                  "url": "http://wiki.mhxg.org/data/1847.html#id268602"
+                },
+                {
+                  "label": "スピニングメテオ",
+                  "url": "http://wiki.mhxg.org/data/1847.html#id268606"
+                },
+                {
+                  "label": "タイフーントリガー",
+                  "url": "http://wiki.mhxg.org/data/1847.html#id268611"
+                },
+                {
+                  "label": "オルケスタソウル",
+                  "url": "http://wiki.mhxg.org/data/1847.html#id268615"
+                },
+                {
+                  "label": "音撃震",
+                  "url": "http://wiki.mhxg.org/data/1847.html#id268617"
+                },
+                {
+                  "label": "シールドアサルト",
+                  "url": "http://wiki.mhxg.org/data/1847.html#id268624"
+                },
+                {
+                  "label": "スクリュースラスト",
+                  "url": "http://wiki.mhxg.org/data/1847.html#id268626"
+                },
+                {
+                  "label": "ブラストダッシュ",
+                  "url": "http://wiki.mhxg.org/data/1847.html#id268636"
+                },
+                {
+                  "label": "竜の息吹",
+                  "url": "http://wiki.mhxg.org/data/1847.html#id268638"
+                },
+                {
+                  "label": "トランスラッシュ",
+                  "url": "http://wiki.mhxg.org/data/1847.html#id268642"
+                },
+                {
+                  "label": "エネルギーチャージ",
+                  "url": "http://wiki.mhxg.org/data/1847.html#id268647"
+                },
+                {
+                  "label": "エネルギーブレイド",
+                  "url": "http://wiki.mhxg.org/data/1847.html#id268650"
+                },
+                {
+                  "label": "オーバーリミット",
+                  "url": "http://wiki.mhxg.org/data/1847.html#id268654"
+                },
+                {
+                  "label": "エキスハンター",
+                  "url": "http://wiki.mhxg.org/data/1847.html#id268660"
+                },
+                {
+                  "label": "飛翔蟲斬破",
+                  "url": "http://wiki.mhxg.org/data/1847.html#id268665"
+                },
+                {
+                  "label": "バレットゲイザー",
+                  "url": "http://wiki.mhxg.org/data/1847.html#id268668"
+                },
+                {
+                  "label": "全弾装填",
+                  "url": "http://wiki.mhxg.org/data/1847.html#id268672"
+                },
+                {
+                  "label": "アクセルシャワー",
+                  "url": "http://wiki.mhxg.org/data/1847.html#id268680"
+                },
+                {
+                  "label": "火薬装填",
+                  "url": "http://wiki.mhxg.org/data/1847.html#id268684"
+                },
+                {
+                  "label": "トリニティレイヴン",
+                  "url": "http://wiki.mhxg.org/data/1847.html#id268687"
+                },
+                {
+                  "label": "アクセルレイン",
+                  "url": "http://wiki.mhxg.org/data/1847.html#id268689"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "王の領域",
+          "recipeUrl": "http://wiki.mhxg.org/ida/220274.html",
+          "detailTitle": "集★3王の領域 | 【MHXX】モンハンダブルクロス攻略レシピ",
+          "icons": ["狩猟"],
+          "role": "hunter",
+          "tags": ["normal"],
+          "observations": [
+            {
+              "title": "備考",
+              "text": "集★3開放後",
+              "links": []
+            }
+          ]
+        },
+        {
+          "name": "憤激する巨獣",
+          "recipeUrl": "http://wiki.mhxg.org/ida/220275.html",
+          "detailTitle": "集★3憤激する巨獣 | 【MHXX】モンハンダブルクロス攻略レシピ",
+          "icons": ["狩猟", "キー"],
+          "role": "hunter",
+          "tags": ["key"],
+          "observations": [
+            {
+              "title": "備考",
+              "text": "集★3開放後",
+              "links": []
+            }
+          ]
+        },
+        {
+          "name": "驚浪雷奔ラギアクルス",
+          "recipeUrl": "http://wiki.mhxg.org/ida/220276.html",
+          "detailTitle": "集★3驚浪雷奔ラギアクルス | 【MHXX】モンハンダブルクロス攻略レシピ",
+          "icons": ["狩猟"],
+          "role": "hunter",
+          "tags": ["normal"],
+          "observations": [
+            {
+              "title": "備考",
+              "text": "集★3開放後",
+              "links": []
+            }
+          ]
+        },
+        {
+          "name": "月夜に映える泡の華",
+          "recipeUrl": "http://wiki.mhxg.org/ida/220277.html",
+          "detailTitle": "集★3月夜に映える泡の華 | 【MHXX】モンハンダブルクロス攻略レシピ",
+          "icons": ["狩猟", "キー"],
+          "role": "hunter",
+          "tags": ["key"],
+          "observations": [
+            {
+              "title": "備考",
+              "text": "集★3開放後",
+              "links": []
+            }
+          ]
+        },
+        {
+          "name": "狩られる前に狩れ！",
+          "recipeUrl": "http://wiki.mhxg.org/ida/220278.html",
+          "detailTitle": "集★3狩られる前に狩れ！ | 【MHXX】モンハンダブルクロス攻略レシピ",
+          "icons": ["狩猟", "狩技"],
+          "role": "hunter",
+          "tags": ["normal"],
+          "observations": [
+            {
+              "title": "備考",
+              "text": "集★3開放後",
+              "links": []
+            },
+            {
+              "title": "狩技開放",
+              "text": "蟲纏い LV2",
+              "links": [
+                {
+                  "label": "蟲纏い",
+                  "url": "http://wiki.mhxg.org/data/1847.html#id268663"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "孤島に渦巻く恐怖",
+          "recipeUrl": "http://wiki.mhxg.org/ida/220279.html",
+          "detailTitle": "集★3孤島に渦巻く恐怖 | 【MHXX】モンハンダブルクロス攻略レシピ",
+          "icons": ["狩猟", "依頼"],
+          "role": "hunter",
+          "tags": ["request"],
+          "observations": [
+            {
+              "title": "依頼",
+              "text": "[受注] ユクモ村 モガの村長の息子の依頼3 [依頼出現条件] 依頼★モガの村長の息子の依頼2 クリア後集★3解放後",
+              "links": [
+                {
+                  "label": "モガの村長の息子の依頼3",
+                  "url": "http://wiki.mhxg.org/ida/243468.html"
+                },
+                {
+                  "label": "依頼★モガの村長の息子の依頼2",
+                  "url": "http://wiki.mhxg.org/ida/243467.html"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "縄張りに進入するべからず",
+          "recipeUrl": "http://wiki.mhxg.org/ida/220280.html",
+          "detailTitle": "集★3縄張りに進入するべからず | 【MHXX】モンハンダブルクロス攻略レシピ",
+          "icons": ["捕獲"],
+          "role": "hunter",
+          "tags": ["normal"],
+          "observations": [
+            {
+              "title": "備考",
+              "text": "集★3開放後",
+              "links": []
+            }
+          ]
+        },
+        {
+          "name": "孤島を揺るがす剛音",
+          "recipeUrl": "http://wiki.mhxg.org/ida/220281.html",
+          "detailTitle": "集★3孤島を揺るがす剛音 | 【MHXX】モンハンダブルクロス攻略レシピ",
+          "icons": ["狩猟", "依頼"],
+          "role": "hunter",
+          "tags": ["request"],
+          "observations": [
+            {
+              "title": "依頼",
+              "text": "[受注] ユクモ村 モガの村長の息子の依頼4 [依頼出現条件] 依頼★モガの村長の息子の依頼3 クリア後",
+              "links": [
+                {
+                  "label": "モガの村長の息子の依頼4",
+                  "url": "http://wiki.mhxg.org/ida/243469.html"
+                },
+                {
+                  "label": "依頼★モガの村長の息子の依頼3",
+                  "url": "http://wiki.mhxg.org/ida/243468.html"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "天と地の領域！",
+          "recipeUrl": "http://wiki.mhxg.org/ida/220282.html",
+          "detailTitle": "集★3天と地の領域！ | 【MHXX】モンハンダブルクロス攻略レシピ",
+          "icons": ["狩猟", "キー"],
+          "role": "hunter",
+          "tags": ["key"],
+          "observations": [
+            {
+              "title": "備考",
+              "text": "集★3開放後",
+              "links": []
+            }
+          ]
+        },
+        {
+          "name": "パッション炸裂☆究極アフロ",
+          "recipeUrl": "http://wiki.mhxg.org/ida/220283.html",
+          "detailTitle": "集★3パッション炸裂☆究極アフロ | 【MHXX】モンハンダブルクロス攻略レシピ",
+          "icons": ["狩猟", "依頼", "施設"],
+          "role": "hunter",
+          "tags": ["request"],
+          "observations": [
+            {
+              "title": "依頼",
+              "text": "[受注] ポッケ村 カリスマ美容師ネコの依頼1 [依頼出現条件] 集★3解放後 プーギーの服 ひよっこアフロ",
+              "links": [
+                {
+                  "label": "カリスマ美容師ネコの依頼1",
+                  "url": "http://wiki.mhxg.org/ida/243448.html"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "ブレイド・ディノバルド",
+          "recipeUrl": "http://wiki.mhxg.org/ida/220284.html",
+          "detailTitle": "集★3ブレイド・ディノバルド | 【MHXX】モンハンダブルクロス攻略レシピ",
+          "icons": ["捕獲", "キー"],
+          "role": "hunter",
+          "tags": ["key"],
+          "observations": [
+            {
+              "title": "備考",
+              "text": "集★3開放後",
+              "links": []
+            }
+          ]
+        },
+        {
+          "name": "脅威！火山の鉄槌！",
+          "recipeUrl": "http://wiki.mhxg.org/ida/220285.html",
+          "detailTitle": "集★3脅威！火山の鉄槌！ | 【MHXX】モンハンダブルクロス攻略レシピ",
+          "icons": ["狩猟"],
+          "role": "hunter",
+          "tags": ["normal"],
+          "observations": [
+            {
+              "title": "備考",
+              "text": "集★3開放後",
+              "links": []
+            }
+          ]
+        },
+        {
+          "name": "鎌将軍の包囲陣",
+          "recipeUrl": "http://wiki.mhxg.org/ida/220286.html",
+          "detailTitle": "集★3鎌将軍の包囲陣 | 【MHXX】モンハンダブルクロス攻略レシピ",
+          "icons": ["狩猟", "狩技"],
+          "role": "hunter",
+          "tags": ["normal"],
+          "observations": [
+            {
+              "title": "備考",
+              "text": "集★3開放後",
+              "links": []
+            },
+            {
+              "title": "狩技開放",
+              "text": "ガードレイジ LV2",
+              "links": [
+                {
+                  "label": "ガードレイジ",
+                  "url": "http://wiki.mhxg.org/data/1847.html#id268630"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "ガミザミの群れを掃討せよ！",
+          "recipeUrl": "http://wiki.mhxg.org/ida/220287.html",
+          "detailTitle": "集★3ガミザミの群れを掃討せよ！ | 【MHXX】モンハンダブルクロス攻略レシピ",
+          "icons": ["討伐"],
+          "role": "hunter",
+          "tags": ["normal"],
+          "observations": [
+            {
+              "title": "備考",
+              "text": "集★3開放後",
+              "links": []
+            }
+          ]
+        },
+        {
+          "name": "スカヴェンジャーズ軍団！",
+          "recipeUrl": "http://wiki.mhxg.org/ida/220288.html",
+          "detailTitle": "集★3スカヴェンジャーズ軍団！ | 【MHXX】モンハンダブルクロス攻略レシピ",
+          "icons": ["討伐"],
+          "role": "hunter",
+          "tags": ["normal"],
+          "observations": [
+            {
+              "title": "備考",
+              "text": "集★3開放後",
+              "links": []
+            }
+          ]
+        },
+        {
+          "name": "燃石炭採掘指令",
+          "recipeUrl": "http://wiki.mhxg.org/ida/220289.html",
+          "detailTitle": "集★3燃石炭採掘指令 | 【MHXX】モンハンダブルクロス攻略レシピ",
+          "icons": ["採集"],
+          "role": "hunter",
+          "tags": ["normal"],
+          "observations": [
+            {
+              "title": "備考",
+              "text": "集★3開放後",
+              "links": []
+            }
+          ]
+        },
+        {
+          "name": "ドス来い！真昼の古代林",
+          "recipeUrl": "http://wiki.mhxg.org/ida/220290.html",
+          "detailTitle": "集★3ドス来い！真昼の古代林 | 【MHXX】モンハンダブルクロス攻略レシピ",
+          "icons": ["連続狩猟"],
+          "role": "hunter",
+          "tags": ["normal"],
+          "observations": [
+            {
+              "title": "備考",
+              "text": "集★3開放後",
+              "links": []
+            }
+          ]
+        },
+        {
+          "name": "砂上の竜脚",
+          "recipeUrl": "http://wiki.mhxg.org/ida/220291.html",
+          "detailTitle": "集★3砂上の竜脚 | 【MHXX】モンハンダブルクロス攻略レシピ",
+          "icons": ["連続狩猟", "狩技"],
+          "role": "hunter",
+          "tags": ["normal"],
+          "observations": [
+            {
+              "title": "備考",
+              "text": "集★3開放後",
+              "links": []
+            },
+            {
+              "title": "狩技開放",
+              "text": "絶対回避【臨戦】 (共通)",
+              "links": [
+                {
+                  "label": "絶対回避【臨戦】",
+                  "url": "http://wiki.mhxg.org/data/1847.html#id268560"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "雷狼の尾を踏む青熊",
+          "recipeUrl": "http://wiki.mhxg.org/ida/220292.html",
+          "detailTitle": "集★3雷狼の尾を踏む青熊 | 【MHXX】モンハンダブルクロス攻略レシピ",
+          "icons": ["連続狩猟"],
+          "role": "hunter",
+          "tags": ["normal"],
+          "observations": [
+            {
+              "title": "備考",
+              "text": "集★3開放後",
+              "links": []
+            }
+          ]
+        },
+        {
+          "name": "沼地をめぐる攻防",
+          "recipeUrl": "http://wiki.mhxg.org/ida/220293.html",
+          "detailTitle": "集★3沼地をめぐる攻防 | 【MHXX】モンハンダブルクロス攻略レシピ",
+          "icons": ["連続狩猟"],
+          "role": "hunter",
+          "tags": ["normal"],
+          "observations": [
+            {
+              "title": "備考",
+              "text": "集★3開放後",
+              "links": []
+            }
+          ]
+        },
+        {
+          "name": "ボルケーノブロー",
+          "recipeUrl": "http://wiki.mhxg.org/ida/220294.html",
+          "detailTitle": "集★3ボルケーノブロー | 【MHXX】モンハンダブルクロス攻略レシピ",
+          "icons": ["連続狩猟"],
+          "role": "hunter",
+          "tags": ["normal"],
+          "observations": [
+            {
+              "title": "備考",
+              "text": "集★3開放後",
+              "links": []
+            }
+          ]
+        },
+        {
+          "name": "雷電",
+          "recipeUrl": "http://wiki.mhxg.org/ida/220295.html",
+          "detailTitle": "集★3雷電 | 【MHXX】モンハンダブルクロス攻略レシピ",
+          "icons": ["討伐"],
+          "role": "hunter",
+          "tags": ["normal"],
+          "observations": [
+            {
+              "title": "備考",
+              "text": "集★3開放後",
+              "links": []
+            }
+          ]
+        },
+        {
+          "name": "白き霊獣",
+          "recipeUrl": "http://wiki.mhxg.org/ida/220296.html",
+          "detailTitle": "集★3白き霊獣 | 【MHXX】モンハンダブルクロス攻略レシピ",
+          "icons": ["討伐"],
+          "role": "hunter",
+          "tags": ["normal"],
+          "observations": [
+            {
+              "title": "備考",
+              "text": "集★3開放後",
+              "links": []
+            }
+          ]
+        },
+        {
+          "name": "氷点下の支配者",
+          "recipeUrl": "http://wiki.mhxg.org/ida/220297.html",
+          "detailTitle": "集★3氷点下の支配者 | 【MHXX】モンハンダブルクロス攻略レシピ",
+          "icons": ["討伐"],
+          "role": "hunter",
+          "tags": ["normal"],
+          "observations": [
+            {
+              "title": "備考",
+              "text": "集★3開放後",
+              "links": []
+            }
+          ]
+        },
+        {
+          "name": "古の霞龍、オオナズチ",
+          "recipeUrl": "http://wiki.mhxg.org/ida/220298.html",
+          "detailTitle": "集★3古の霞龍、オオナズチ | 【MHXX】モンハンダブルクロス攻略レシピ",
+          "icons": ["討伐"],
+          "role": "hunter",
+          "tags": ["normal"],
+          "observations": [
+            {
+              "title": "備考",
+              "text": "集★3開放後",
+              "links": []
+            }
+          ]
+        },
+        {
+          "name": "煉獄の主、怒れる炎帝",
+          "recipeUrl": "http://wiki.mhxg.org/ida/220299.html",
+          "detailTitle": "集★3煉獄の主、怒れる炎帝 | 【MHXX】モンハンダブルクロス攻略レシピ",
+          "icons": ["討伐", "狩技"],
+          "role": "hunter",
+          "tags": ["normal"],
+          "observations": [
+            {
+              "title": "備考",
+              "text": "集★3開放後",
+              "links": []
+            },
+            {
+              "title": "狩技開放",
+              "text": "覇山竜撃砲 LV2",
+              "links": [
+                {
+                  "label": "覇山竜撃砲",
+                  "url": "http://wiki.mhxg.org/data/1847.html#id268633"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "廻り集いて回帰せん",
+          "recipeUrl": "http://wiki.mhxg.org/ida/220300.html",
+          "detailTitle": "集★3廻り集いて回帰せん | 【MHXX】モンハンダブルクロス攻略レシピ",
+          "icons": ["討伐", "狩技"],
+          "role": "hunter",
+          "tags": ["normal"],
+          "observations": [
+            {
+              "title": "備考",
+              "text": "集★3開放後",
+              "links": []
+            },
+            {
+              "title": "狩技開放",
+              "text": "ラピッドヘブン LV2",
+              "links": [
+                {
+                  "label": "ラピッドヘブン",
+                  "url": "http://wiki.mhxg.org/data/1847.html#id268675"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "双頭の骸",
+          "recipeUrl": "http://wiki.mhxg.org/ida/220429.html",
+          "detailTitle": "集★3双頭の骸 | 【MHXX】モンハンダブルクロス攻略レシピ",
+          "icons": ["討伐", "緊急", "狩技", "施設"],
+          "role": "hunter",
+          "tags": ["urgent"],
+          "observations": [
+            {
+              "title": "備考",
+              "text": "集★3のキークエスト全てクリア後",
+              "links": []
+            },
+            {
+              "title": "狩技開放",
+              "text": "ブレイドダンス LV2",
+              "links": [
+                {
+                  "label": "ブレイドダンス",
+                  "url": "http://wiki.mhxg.org/data/1847.html#id268588"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "熱いウロコと鋭いハサミ",
+          "recipeUrl": "http://wiki.mhxg.org/ida/238222.html",
+          "detailTitle": "集★3熱いウロコと鋭いハサミ | 【MHXX】モンハンダブルクロス攻略レシピ",
+          "icons": ["ニャンター"],
+          "role": "prowler",
+          "tags": ["normal"],
+          "observations": [
+            {
+              "title": "備考",
+              "text": "集★3開放後",
+              "links": []
+            }
+          ]
+        },
+        {
+          "name": "サカニャが食べたい腹いっぱい",
+          "recipeUrl": "http://wiki.mhxg.org/ida/238223.html",
+          "detailTitle": "集★3サカニャが食べたい腹いっぱい | 【MHXX】モンハンダブルクロス攻略レシピ",
+          "icons": ["ニャンター"],
+          "role": "prowler",
+          "tags": ["normal"],
+          "observations": [
+            {
+              "title": "備考",
+              "text": "集★3開放後",
+              "links": []
+            }
+          ]
+        },
+        {
+          "name": "闘技場の牙獣と牙獣",
+          "recipeUrl": "http://wiki.mhxg.org/ida/238224.html",
+          "detailTitle": "集★3闘技場の牙獣と牙獣 | 【MHXX】モンハンダブルクロス攻略レシピ",
+          "icons": ["ニャンター"],
+          "role": "prowler",
+          "tags": ["normal"],
+          "observations": [
+            {
+              "title": "備考",
+              "text": "集★3開放後",
+              "links": []
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "previousRequests": {
+    "http://wiki.mhxg.org/ida/243461.html": {
+      "name": "オトモ武具屋の依頼1",
+      "fields": {
+        "出現条件": {
+          "text": "村★3解放後",
+          "links": []
+        },
+        "達成条件": {
+          "text": "納品 マカライト鉱石 x2大猪の皮 x1",
+          "links": [
+            {
+              "label": "マカライト鉱石",
+              "url": "http://wiki.mhxg.org/ida/218409.html"
+            },
+            {
+              "label": "大猪の皮",
+              "url": "http://wiki.mhxg.org/ida/219756.html"
+            }
+          ]
+        }
+      }
+    }
+  },
+  "sourcePolicy": "実機 > MHXX攻略レシピ > 専門Wiki > 企業系Wiki。最初からと明記された場合のみnone。"
+}

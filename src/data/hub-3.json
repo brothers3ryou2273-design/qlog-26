@@ -1,0 +1,1591 @@
+[
+  {
+    "id": "hub-3-recipe-220268",
+    "name": "火山の採集ツアー",
+    "category": "hub",
+    "rank": "3",
+    "order": 0,
+    "role": "hunter",
+    "tags": ["normal"],
+    "condition": {
+      "kind": "hr_at_least",
+      "value": 3
+    },
+    "npcNotes": [],
+    "unlocks": [],
+    "sources": [
+      {
+        "site": "MHXX攻略レシピ",
+        "url": "http://wiki.mhxg.org/ida/220268.html",
+        "kind": "detail",
+        "checkedAt": "2026-10-16"
+      },
+      {
+        "site": "MHXX攻略レシピ（ランク一覧）",
+        "url": "http://wiki.mhxg.org/data/2023.html",
+        "kind": "list",
+        "checkedAt": "2026-10-16"
+      }
+    ],
+    "verification": "partial",
+    "verificationNote": "攻略レシピの一覧・個別ページを照合。条件と解放要素の完全確認を意味しません。記録上の前提達成とゲーム内での受注・受領状態を区別します。",
+    "warnings": []
+  },
+  {
+    "id": "hub-3-recipe-220269",
+    "name": "心火の斬竜炉",
+    "category": "hub",
+    "rank": "3",
+    "order": 1,
+    "role": "hunter",
+    "tags": ["normal"],
+    "condition": {
+      "kind": "hr_at_least",
+      "value": 3
+    },
+    "npcNotes": [],
+    "unlocks": [],
+    "sources": [
+      {
+        "site": "MHXX攻略レシピ",
+        "url": "http://wiki.mhxg.org/ida/220269.html",
+        "kind": "detail",
+        "checkedAt": "2026-10-16"
+      },
+      {
+        "site": "MHXX攻略レシピ（ランク一覧）",
+        "url": "http://wiki.mhxg.org/data/2023.html",
+        "kind": "list",
+        "checkedAt": "2026-10-16"
+      }
+    ],
+    "verification": "partial",
+    "verificationNote": "攻略レシピの一覧・個別ページを照合。条件と解放要素の完全確認を意味しません。記録上の前提達成とゲーム内での受注・受領状態を区別します。",
+    "warnings": []
+  },
+  {
+    "id": "hub-3-recipe-220270",
+    "name": "轟竜ティガレックス",
+    "category": "hub",
+    "rank": "3",
+    "order": 2,
+    "role": "hunter",
+    "tags": ["normal"],
+    "condition": {
+      "kind": "hr_at_least",
+      "value": 3
+    },
+    "npcNotes": [],
+    "unlocks": [
+      {
+        "kind": "hunter_art",
+        "label": "練気解放円月斬り LV2"
+      }
+    ],
+    "sources": [
+      {
+        "site": "MHXX攻略レシピ",
+        "url": "http://wiki.mhxg.org/ida/220270.html",
+        "kind": "detail",
+        "checkedAt": "2026-10-16"
+      },
+      {
+        "site": "MHXX攻略レシピ（ランク一覧）",
+        "url": "http://wiki.mhxg.org/data/2023.html",
+        "kind": "list",
+        "checkedAt": "2026-10-16"
+      },
+      {
+        "site": "MHXX攻略Wiki（狩技）",
+        "url": "https://mhx-wiki.com/?MHXX%E3%81%AE%E7%8B%A9%E6%8A%80%E7%BF%92%E5%BE%97%E3%82%AF%E3%82%A8%E3%82%B9%E3%83%88%E3%81%BE%E3%81%A8%E3%82%81",
+        "kind": "list",
+        "checkedAt": "2026-10-16"
+      }
+    ],
+    "verification": "partial",
+    "verificationNote": "攻略レシピの一覧・個別ページを照合。条件と解放要素の完全確認を意味しません。記録上の前提達成とゲーム内での受注・受領状態を区別します。",
+    "warnings": []
+  },
+  {
+    "id": "hub-3-recipe-220271",
+    "name": "黒き衣を纏う竜",
+    "category": "hub",
+    "rank": "3",
+    "order": 3,
+    "role": "hunter",
+    "tags": ["key"],
+    "condition": {
+      "kind": "hr_at_least",
+      "value": 3
+    },
+    "npcNotes": [],
+    "unlocks": [],
+    "sources": [
+      {
+        "site": "MHXX攻略レシピ",
+        "url": "http://wiki.mhxg.org/ida/220271.html",
+        "kind": "detail",
+        "checkedAt": "2026-10-16"
+      },
+      {
+        "site": "MHXX攻略レシピ（ランク一覧）",
+        "url": "http://wiki.mhxg.org/data/2023.html",
+        "kind": "list",
+        "checkedAt": "2026-10-16"
+      }
+    ],
+    "verification": "partial",
+    "verificationNote": "攻略レシピの一覧・個別ページを照合。条件と解放要素の完全確認を意味しません。記録上の前提達成とゲーム内での受注・受領状態を区別します。",
+    "warnings": []
+  },
+  {
+    "id": "hub-3-recipe-220272",
+    "name": "化石に眠る太古の記憶",
+    "category": "hub",
+    "rank": "3",
+    "order": 4,
+    "role": "hunter",
+    "tags": ["request"],
+    "condition": {
+      "kind": "all",
+      "rules": [
+        {
+          "kind": "quest_cleared",
+          "questId": "village-5-recipe-220230"
+        },
+        {
+          "kind": "hr_at_least",
+          "value": 3
+        }
+      ]
+    },
+    "npcNotes": [
+      "キャラバンの竜人商人の依頼1を達成し、必要な報告を行う。",
+      "ココット村 キャラバンの竜人商人の依頼2を受注し、達成後に依頼主へ報告する。"
+    ],
+    "unlocks": [],
+    "sources": [
+      {
+        "site": "MHXX攻略レシピ",
+        "url": "http://wiki.mhxg.org/ida/220272.html",
+        "kind": "detail",
+        "checkedAt": "2026-10-16"
+      },
+      {
+        "site": "MHXX攻略レシピ（ランク一覧）",
+        "url": "http://wiki.mhxg.org/data/2023.html",
+        "kind": "list",
+        "checkedAt": "2026-10-16"
+      }
+    ],
+    "verification": "partial",
+    "verificationNote": "攻略レシピの一覧・個別ページを照合。条件と解放要素の完全確認を意味しません。記録上の前提達成とゲーム内での受注・受領状態を区別します。",
+    "warnings": []
+  },
+  {
+    "id": "hub-3-recipe-220273",
+    "name": "千刃、襲来",
+    "category": "hub",
+    "rank": "3",
+    "order": 5,
+    "role": "hunter",
+    "tags": ["key"],
+    "condition": {
+      "kind": "hr_at_least",
+      "value": 3
+    },
+    "npcNotes": [],
+    "unlocks": [],
+    "sources": [
+      {
+        "site": "MHXX攻略レシピ",
+        "url": "http://wiki.mhxg.org/ida/220273.html",
+        "kind": "detail",
+        "checkedAt": "2026-10-16"
+      },
+      {
+        "site": "MHXX攻略レシピ（ランク一覧）",
+        "url": "http://wiki.mhxg.org/data/2023.html",
+        "kind": "list",
+        "checkedAt": "2026-10-16"
+      }
+    ],
+    "verification": "partial",
+    "verificationNote": "攻略レシピの一覧・個別ページを照合。条件と解放要素の完全確認を意味しません。記録上の前提達成とゲーム内での受注・受領状態を区別します。",
+    "warnings": []
+  },
+  {
+    "id": "hub-3-recipe-220003",
+    "name": "電の反逆者",
+    "category": "hub",
+    "rank": "3",
+    "order": 6,
+    "role": "hunter",
+    "tags": ["urgent"],
+    "condition": {
+      "kind": "all",
+      "rules": [
+        {
+          "kind": "quest_cleared",
+          "questId": "hub-2-recipe-219997"
+        },
+        {
+          "kind": "quest_cleared",
+          "questId": "hub-2-recipe-219998"
+        },
+        {
+          "kind": "quest_cleared",
+          "questId": "hub-2-recipe-219999"
+        },
+        {
+          "kind": "quest_cleared",
+          "questId": "hub-2-recipe-220000"
+        },
+        {
+          "kind": "quest_cleared",
+          "questId": "hub-2-recipe-220001"
+        },
+        {
+          "kind": "quest_cleared",
+          "questId": "hub-2-recipe-220002"
+        }
+      ]
+    },
+    "npcNotes": ["ギルドマネージャーと話して緊急クエストを出現させる。"],
+    "unlocks": [
+      {
+        "kind": "hunter_art",
+        "label": "ヒールゲイン (共通)",
+        "note": "同じ狩技の村側の解放経路：村★3「鬼面狩人を威す」。集会所と村のクリアを両方要求する条件ではありません（OR）。"
+      },
+      {
+        "kind": "hunter_art",
+        "label": "地衝斬 LV2",
+        "note": "同じ狩技の村側の解放経路：村★4「幻惑の魔術師」。集会所と村のクリアを両方要求する条件ではありません（OR）。"
+      },
+      {
+        "kind": "hunter_art",
+        "label": "震怒竜怨斬 LV1",
+        "note": "同じ狩技の村側の解放経路：村★3「鬼面狩人を威す」。集会所と村のクリアを両方要求する条件ではありません（OR）。"
+      },
+      {
+        "kind": "hunter_art",
+        "label": "桜花気刃斬 LV2",
+        "note": "同じ狩技の村側の解放経路：村★4「幻惑の魔術師」。集会所と村のクリアを両方要求する条件ではありません（OR）。"
+      },
+      {
+        "kind": "hunter_art",
+        "label": "練気解放円月斬り LV1",
+        "note": "同じ狩技の村側の解放経路：村★3「鬼面狩人を威す」。集会所と村のクリアを両方要求する条件ではありません（OR）。"
+      },
+      {
+        "kind": "hunter_art",
+        "label": "ブレイドダンス LV1",
+        "note": "同じ狩技の村側の解放経路：村★3「鬼面狩人を威す」。集会所と村のクリアを両方要求する条件ではありません（OR）。"
+      },
+      {
+        "kind": "hunter_art",
+        "label": "ラウンドフォース LV2",
+        "note": "同じ狩技の村側の解放経路：村★4「幻惑の魔術師」。集会所と村のクリアを両方要求する条件ではありません（OR）。"
+      },
+      {
+        "kind": "hunter_art",
+        "label": "血風独楽 LV2",
+        "note": "同じ狩技の村側の解放経路：村★4「幻惑の魔術師」。集会所と村のクリアを両方要求する条件ではありません（OR）。"
+      },
+      {
+        "kind": "hunter_art",
+        "label": "獣宿し【餓狼】 LV1",
+        "note": "同じ狩技の村側の解放経路：村★3「鬼面狩人を威す」。集会所と村のクリアを両方要求する条件ではありません（OR）。"
+      },
+      {
+        "kind": "hunter_art",
+        "label": "スピニングメテオ LV2",
+        "note": "同じ狩技の村側の解放経路：村★4「幻惑の魔術師」。集会所と村のクリアを両方要求する条件ではありません（OR）。"
+      },
+      {
+        "kind": "hunter_art",
+        "label": "タイフーントリガー LV1",
+        "note": "同じ狩技の村側の解放経路：村★3「鬼面狩人を威す」。集会所と村のクリアを両方要求する条件ではありません（OR）。"
+      },
+      {
+        "kind": "hunter_art",
+        "label": "オルケスタソウル LV2",
+        "note": "同じ狩技の村側の解放経路：村★4「幻惑の魔術師」。集会所と村のクリアを両方要求する条件ではありません（OR）。"
+      },
+      {
+        "kind": "hunter_art",
+        "label": "音撃震 LV1",
+        "note": "同じ狩技の村側の解放経路：村★3「鬼面狩人を威す」。集会所と村のクリアを両方要求する条件ではありません（OR）。"
+      },
+      {
+        "kind": "hunter_art",
+        "label": "シールドアサルト LV2",
+        "note": "同じ狩技の村側の解放経路：村★4「幻惑の魔術師」。集会所と村のクリアを両方要求する条件ではありません（OR）。"
+      },
+      {
+        "kind": "hunter_art",
+        "label": "スクリュースラスト LV1",
+        "note": "同じ狩技の村側の解放経路：村★3「鬼面狩人を威す」。集会所と村のクリアを両方要求する条件ではありません（OR）。"
+      },
+      {
+        "kind": "hunter_art",
+        "label": "ブラストダッシュ LV2",
+        "note": "同じ狩技の村側の解放経路：村★4「幻惑の魔術師」。集会所と村のクリアを両方要求する条件ではありません（OR）。"
+      },
+      {
+        "kind": "hunter_art",
+        "label": "竜の息吹 LV1",
+        "note": "同じ狩技の村側の解放経路：村★3「鬼面狩人を威す」。集会所と村のクリアを両方要求する条件ではありません（OR）。"
+      },
+      {
+        "kind": "hunter_art",
+        "label": "トランスラッシュ LV2",
+        "note": "同じ狩技の村側の解放経路：村★4「幻惑の魔術師」。集会所と村のクリアを両方要求する条件ではありません（OR）。"
+      },
+      {
+        "kind": "hunter_art",
+        "label": "エネルギーチャージ LV1",
+        "note": "同じ狩技の村側の解放経路：村★3「鬼面狩人を威す」。集会所と村のクリアを両方要求する条件ではありません（OR）。"
+      },
+      {
+        "kind": "hunter_art",
+        "label": "エネルギーブレイド LV1",
+        "note": "同じ狩技の村側の解放経路：村★3「鬼面狩人を威す」。集会所と村のクリアを両方要求する条件ではありません（OR）。"
+      },
+      {
+        "kind": "hunter_art",
+        "label": "オーバーリミット LV2",
+        "note": "同じ狩技の村側の解放経路：村★4「幻惑の魔術師」。集会所と村のクリアを両方要求する条件ではありません（OR）。"
+      },
+      {
+        "kind": "hunter_art",
+        "label": "エキスハンター LV2",
+        "note": "同じ狩技の村側の解放経路：村★4「幻惑の魔術師」。集会所と村のクリアを両方要求する条件ではありません（OR）。"
+      },
+      {
+        "kind": "hunter_art",
+        "label": "飛翔蟲斬破 LV1",
+        "note": "同じ狩技の村側の解放経路：村★3「鬼面狩人を威す」。集会所と村のクリアを両方要求する条件ではありません（OR）。"
+      },
+      {
+        "kind": "hunter_art",
+        "label": "バレットゲイザー LV1",
+        "note": "同じ狩技の村側の解放経路：村★3「鬼面狩人を威す」。集会所と村のクリアを両方要求する条件ではありません（OR）。"
+      },
+      {
+        "kind": "hunter_art",
+        "label": "全弾装填 LV2",
+        "note": "同じ狩技の村側の解放経路：村★4「幻惑の魔術師」。集会所と村のクリアを両方要求する条件ではありません（OR）。"
+      },
+      {
+        "kind": "hunter_art",
+        "label": "アクセルシャワー LV1",
+        "note": "同じ狩技の村側の解放経路：村★3「鬼面狩人を威す」。集会所と村のクリアを両方要求する条件ではありません（OR）。"
+      },
+      {
+        "kind": "hunter_art",
+        "label": "火薬装填 LV2",
+        "note": "同じ狩技の村側の解放経路：村★4「幻惑の魔術師」。集会所と村のクリアを両方要求する条件ではありません（OR）。"
+      },
+      {
+        "kind": "hunter_art",
+        "label": "トリニティレイヴン LV2",
+        "note": "同じ狩技の村側の解放経路：村★4「幻惑の魔術師」。集会所と村のクリアを両方要求する条件ではありません（OR）。"
+      },
+      {
+        "kind": "hunter_art",
+        "label": "アクセルレイン LV1",
+        "note": "同じ狩技の村側の解放経路：村★3「鬼面狩人を威す」。集会所と村のクリアを両方要求する条件ではありません（OR）。"
+      },
+      {
+        "kind": "other",
+        "label": "集会所★3（HR3）への進行",
+        "note": "全キークエスト後の緊急クエスト。ランク進行の反映はゲーム内で確認してください。"
+      }
+    ],
+    "sources": [
+      {
+        "site": "MHXX攻略レシピ",
+        "url": "http://wiki.mhxg.org/ida/220003.html",
+        "kind": "detail",
+        "checkedAt": "2026-10-16"
+      },
+      {
+        "site": "MHXX攻略レシピ（ランク一覧）",
+        "url": "http://wiki.mhxg.org/data/2023.html",
+        "kind": "list",
+        "checkedAt": "2026-10-16"
+      },
+      {
+        "site": "MHXX攻略Wiki（狩技）",
+        "url": "https://mhx-wiki.com/?MHXX%E3%81%AE%E7%8B%A9%E6%8A%80%E7%BF%92%E5%BE%97%E3%82%AF%E3%82%A8%E3%82%B9%E3%83%88%E3%81%BE%E3%81%A8%E3%82%81",
+        "kind": "list",
+        "checkedAt": "2026-10-16"
+      },
+      {
+        "site": "Game8 MHXX（緊急）",
+        "url": "https://game8.jp/mh-xx/823397",
+        "kind": "detail",
+        "checkedAt": "2026-10-16"
+      },
+      {
+        "site": "MHXX攻略Wiki（集会所の進行）",
+        "url": "https://mhx-wiki.com/?MHXX%E3%81%AE%E9%9B%86%E4%BC%9A%E6%89%80%E3%82%AD%E3%83%BC%E3%82%AF%E3%82%A8%E3%82%B9%E3%83%88%E4%B8%80%E8%A6%A7",
+        "kind": "list",
+        "checkedAt": "2026-10-16"
+      }
+    ],
+    "verification": "partial",
+    "verificationNote": "攻略レシピの一覧・個別ページを照合。条件と解放要素の完全確認を意味しません。記録上の前提達成とゲーム内での受注・受領状態を区別します。",
+    "warnings": [
+      "施設の印のうち、ランク進行以外の具体的な施設強化内容は専門資料調査後も対応を確定できていません。"
+    ]
+  },
+  {
+    "id": "hub-3-recipe-220274",
+    "name": "王の領域",
+    "category": "hub",
+    "rank": "3",
+    "order": 7,
+    "role": "hunter",
+    "tags": ["normal"],
+    "condition": {
+      "kind": "hr_at_least",
+      "value": 3
+    },
+    "npcNotes": [],
+    "unlocks": [],
+    "sources": [
+      {
+        "site": "MHXX攻略レシピ",
+        "url": "http://wiki.mhxg.org/ida/220274.html",
+        "kind": "detail",
+        "checkedAt": "2026-10-16"
+      },
+      {
+        "site": "MHXX攻略レシピ（ランク一覧）",
+        "url": "http://wiki.mhxg.org/data/2023.html",
+        "kind": "list",
+        "checkedAt": "2026-10-16"
+      }
+    ],
+    "verification": "partial",
+    "verificationNote": "攻略レシピの一覧・個別ページを照合。条件と解放要素の完全確認を意味しません。記録上の前提達成とゲーム内での受注・受領状態を区別します。",
+    "warnings": []
+  },
+  {
+    "id": "hub-3-recipe-220275",
+    "name": "憤激する巨獣",
+    "category": "hub",
+    "rank": "3",
+    "order": 8,
+    "role": "hunter",
+    "tags": ["key"],
+    "condition": {
+      "kind": "hr_at_least",
+      "value": 3
+    },
+    "npcNotes": [],
+    "unlocks": [],
+    "sources": [
+      {
+        "site": "MHXX攻略レシピ",
+        "url": "http://wiki.mhxg.org/ida/220275.html",
+        "kind": "detail",
+        "checkedAt": "2026-10-16"
+      },
+      {
+        "site": "MHXX攻略レシピ（ランク一覧）",
+        "url": "http://wiki.mhxg.org/data/2023.html",
+        "kind": "list",
+        "checkedAt": "2026-10-16"
+      }
+    ],
+    "verification": "partial",
+    "verificationNote": "攻略レシピの一覧・個別ページを照合。条件と解放要素の完全確認を意味しません。記録上の前提達成とゲーム内での受注・受領状態を区別します。",
+    "warnings": []
+  },
+  {
+    "id": "hub-3-recipe-220276",
+    "name": "驚浪雷奔ラギアクルス",
+    "category": "hub",
+    "rank": "3",
+    "order": 9,
+    "role": "hunter",
+    "tags": ["normal"],
+    "condition": {
+      "kind": "hr_at_least",
+      "value": 3
+    },
+    "npcNotes": [],
+    "unlocks": [],
+    "sources": [
+      {
+        "site": "MHXX攻略レシピ",
+        "url": "http://wiki.mhxg.org/ida/220276.html",
+        "kind": "detail",
+        "checkedAt": "2026-10-16"
+      },
+      {
+        "site": "MHXX攻略レシピ（ランク一覧）",
+        "url": "http://wiki.mhxg.org/data/2023.html",
+        "kind": "list",
+        "checkedAt": "2026-10-16"
+      }
+    ],
+    "verification": "partial",
+    "verificationNote": "攻略レシピの一覧・個別ページを照合。条件と解放要素の完全確認を意味しません。記録上の前提達成とゲーム内での受注・受領状態を区別します。",
+    "warnings": []
+  },
+  {
+    "id": "hub-3-recipe-220277",
+    "name": "月夜に映える泡の華",
+    "category": "hub",
+    "rank": "3",
+    "order": 10,
+    "role": "hunter",
+    "tags": ["key"],
+    "condition": {
+      "kind": "hr_at_least",
+      "value": 3
+    },
+    "npcNotes": [],
+    "unlocks": [],
+    "sources": [
+      {
+        "site": "MHXX攻略レシピ",
+        "url": "http://wiki.mhxg.org/ida/220277.html",
+        "kind": "detail",
+        "checkedAt": "2026-10-16"
+      },
+      {
+        "site": "MHXX攻略レシピ（ランク一覧）",
+        "url": "http://wiki.mhxg.org/data/2023.html",
+        "kind": "list",
+        "checkedAt": "2026-10-16"
+      }
+    ],
+    "verification": "partial",
+    "verificationNote": "攻略レシピの一覧・個別ページを照合。条件と解放要素の完全確認を意味しません。記録上の前提達成とゲーム内での受注・受領状態を区別します。",
+    "warnings": []
+  },
+  {
+    "id": "hub-3-recipe-220278",
+    "name": "狩られる前に狩れ！",
+    "category": "hub",
+    "rank": "3",
+    "order": 11,
+    "role": "hunter",
+    "tags": ["normal"],
+    "condition": {
+      "kind": "hr_at_least",
+      "value": 3
+    },
+    "npcNotes": [],
+    "unlocks": [
+      {
+        "kind": "hunter_art",
+        "label": "蟲纏い LV2"
+      }
+    ],
+    "sources": [
+      {
+        "site": "MHXX攻略レシピ",
+        "url": "http://wiki.mhxg.org/ida/220278.html",
+        "kind": "detail",
+        "checkedAt": "2026-10-16"
+      },
+      {
+        "site": "MHXX攻略レシピ（ランク一覧）",
+        "url": "http://wiki.mhxg.org/data/2023.html",
+        "kind": "list",
+        "checkedAt": "2026-10-16"
+      },
+      {
+        "site": "MHXX攻略Wiki（狩技）",
+        "url": "https://mhx-wiki.com/?MHXX%E3%81%AE%E7%8B%A9%E6%8A%80%E7%BF%92%E5%BE%97%E3%82%AF%E3%82%A8%E3%82%B9%E3%83%88%E3%81%BE%E3%81%A8%E3%82%81",
+        "kind": "list",
+        "checkedAt": "2026-10-16"
+      }
+    ],
+    "verification": "partial",
+    "verificationNote": "攻略レシピの一覧・個別ページを照合。条件と解放要素の完全確認を意味しません。記録上の前提達成とゲーム内での受注・受領状態を区別します。",
+    "warnings": []
+  },
+  {
+    "id": "hub-3-recipe-220279",
+    "name": "孤島に渦巻く恐怖",
+    "category": "hub",
+    "rank": "3",
+    "order": 12,
+    "role": "hunter",
+    "tags": ["request"],
+    "condition": {
+      "kind": "all",
+      "rules": [
+        {
+          "kind": "quest_cleared",
+          "questId": "village-4-recipe-220211"
+        },
+        {
+          "kind": "hr_at_least",
+          "value": 3
+        }
+      ]
+    },
+    "npcNotes": [
+      "モガの村長の息子の依頼2を達成し、必要な報告を行う。",
+      "ユクモ村 モガの村長の息子の依頼3を受注し、達成後に依頼主へ報告する。"
+    ],
+    "unlocks": [],
+    "sources": [
+      {
+        "site": "MHXX攻略レシピ",
+        "url": "http://wiki.mhxg.org/ida/220279.html",
+        "kind": "detail",
+        "checkedAt": "2026-10-16"
+      },
+      {
+        "site": "MHXX攻略レシピ（ランク一覧）",
+        "url": "http://wiki.mhxg.org/data/2023.html",
+        "kind": "list",
+        "checkedAt": "2026-10-16"
+      }
+    ],
+    "verification": "partial",
+    "verificationNote": "攻略レシピの一覧・個別ページを照合。条件と解放要素の完全確認を意味しません。記録上の前提達成とゲーム内での受注・受領状態を区別します。",
+    "warnings": []
+  },
+  {
+    "id": "hub-3-recipe-220280",
+    "name": "縄張りに進入するべからず",
+    "category": "hub",
+    "rank": "3",
+    "order": 13,
+    "role": "hunter",
+    "tags": ["normal"],
+    "condition": {
+      "kind": "hr_at_least",
+      "value": 3
+    },
+    "npcNotes": [],
+    "unlocks": [],
+    "sources": [
+      {
+        "site": "MHXX攻略レシピ",
+        "url": "http://wiki.mhxg.org/ida/220280.html",
+        "kind": "detail",
+        "checkedAt": "2026-10-16"
+      },
+      {
+        "site": "MHXX攻略レシピ（ランク一覧）",
+        "url": "http://wiki.mhxg.org/data/2023.html",
+        "kind": "list",
+        "checkedAt": "2026-10-16"
+      }
+    ],
+    "verification": "partial",
+    "verificationNote": "攻略レシピの一覧・個別ページを照合。条件と解放要素の完全確認を意味しません。記録上の前提達成とゲーム内での受注・受領状態を区別します。",
+    "warnings": []
+  },
+  {
+    "id": "hub-3-recipe-220281",
+    "name": "孤島を揺るがす剛音",
+    "category": "hub",
+    "rank": "3",
+    "order": 14,
+    "role": "hunter",
+    "tags": ["request"],
+    "condition": {
+      "kind": "quest_cleared",
+      "questId": "hub-3-recipe-220279"
+    },
+    "npcNotes": [
+      "モガの村長の息子の依頼3を達成し、必要な報告を行う。",
+      "ユクモ村 モガの村長の息子の依頼4を受注し、達成後に依頼主へ報告する。"
+    ],
+    "unlocks": [],
+    "sources": [
+      {
+        "site": "MHXX攻略レシピ",
+        "url": "http://wiki.mhxg.org/ida/220281.html",
+        "kind": "detail",
+        "checkedAt": "2026-10-16"
+      },
+      {
+        "site": "MHXX攻略レシピ（ランク一覧）",
+        "url": "http://wiki.mhxg.org/data/2023.html",
+        "kind": "list",
+        "checkedAt": "2026-10-16"
+      }
+    ],
+    "verification": "partial",
+    "verificationNote": "攻略レシピの一覧・個別ページを照合。条件と解放要素の完全確認を意味しません。記録上の前提達成とゲーム内での受注・受領状態を区別します。",
+    "warnings": []
+  },
+  {
+    "id": "hub-3-recipe-220282",
+    "name": "天と地の領域！",
+    "category": "hub",
+    "rank": "3",
+    "order": 15,
+    "role": "hunter",
+    "tags": ["key"],
+    "condition": {
+      "kind": "hr_at_least",
+      "value": 3
+    },
+    "npcNotes": [],
+    "unlocks": [],
+    "sources": [
+      {
+        "site": "MHXX攻略レシピ",
+        "url": "http://wiki.mhxg.org/ida/220282.html",
+        "kind": "detail",
+        "checkedAt": "2026-10-16"
+      },
+      {
+        "site": "MHXX攻略レシピ（ランク一覧）",
+        "url": "http://wiki.mhxg.org/data/2023.html",
+        "kind": "list",
+        "checkedAt": "2026-10-16"
+      }
+    ],
+    "verification": "partial",
+    "verificationNote": "攻略レシピの一覧・個別ページを照合。条件と解放要素の完全確認を意味しません。記録上の前提達成とゲーム内での受注・受領状態を区別します。",
+    "warnings": []
+  },
+  {
+    "id": "hub-3-recipe-220283",
+    "name": "パッション炸裂☆究極アフロ",
+    "category": "hub",
+    "rank": "3",
+    "order": 16,
+    "role": "hunter",
+    "tags": ["request"],
+    "condition": {
+      "kind": "hr_at_least",
+      "value": 3
+    },
+    "npcNotes": [
+      "ポッケ村 カリスマ美容師ネコの依頼1を受注し、達成後に依頼主へ報告する。"
+    ],
+    "unlocks": [
+      {
+        "kind": "other",
+        "label": "プーギーの服 ひよっこアフロ",
+        "note": "依頼達成・報告後に利用。"
+      }
+    ],
+    "sources": [
+      {
+        "site": "MHXX攻略レシピ",
+        "url": "http://wiki.mhxg.org/ida/220283.html",
+        "kind": "detail",
+        "checkedAt": "2026-10-16"
+      },
+      {
+        "site": "MHXX攻略レシピ（ランク一覧）",
+        "url": "http://wiki.mhxg.org/data/2023.html",
+        "kind": "list",
+        "checkedAt": "2026-10-16"
+      }
+    ],
+    "verification": "partial",
+    "verificationNote": "攻略レシピの一覧・個別ページを照合。条件と解放要素の完全確認を意味しません。記録上の前提達成とゲーム内での受注・受領状態を区別します。",
+    "warnings": []
+  },
+  {
+    "id": "hub-3-recipe-220284",
+    "name": "ブレイド・ディノバルド",
+    "category": "hub",
+    "rank": "3",
+    "order": 17,
+    "role": "hunter",
+    "tags": ["key"],
+    "condition": {
+      "kind": "hr_at_least",
+      "value": 3
+    },
+    "npcNotes": [],
+    "unlocks": [],
+    "sources": [
+      {
+        "site": "MHXX攻略レシピ",
+        "url": "http://wiki.mhxg.org/ida/220284.html",
+        "kind": "detail",
+        "checkedAt": "2026-10-16"
+      },
+      {
+        "site": "MHXX攻略レシピ（ランク一覧）",
+        "url": "http://wiki.mhxg.org/data/2023.html",
+        "kind": "list",
+        "checkedAt": "2026-10-16"
+      }
+    ],
+    "verification": "partial",
+    "verificationNote": "攻略レシピの一覧・個別ページを照合。条件と解放要素の完全確認を意味しません。記録上の前提達成とゲーム内での受注・受領状態を区別します。",
+    "warnings": []
+  },
+  {
+    "id": "hub-3-recipe-220285",
+    "name": "脅威！火山の鉄槌！",
+    "category": "hub",
+    "rank": "3",
+    "order": 18,
+    "role": "hunter",
+    "tags": ["normal"],
+    "condition": {
+      "kind": "hr_at_least",
+      "value": 3
+    },
+    "npcNotes": [],
+    "unlocks": [],
+    "sources": [
+      {
+        "site": "MHXX攻略レシピ",
+        "url": "http://wiki.mhxg.org/ida/220285.html",
+        "kind": "detail",
+        "checkedAt": "2026-10-16"
+      },
+      {
+        "site": "MHXX攻略レシピ（ランク一覧）",
+        "url": "http://wiki.mhxg.org/data/2023.html",
+        "kind": "list",
+        "checkedAt": "2026-10-16"
+      }
+    ],
+    "verification": "partial",
+    "verificationNote": "攻略レシピの一覧・個別ページを照合。条件と解放要素の完全確認を意味しません。記録上の前提達成とゲーム内での受注・受領状態を区別します。",
+    "warnings": []
+  },
+  {
+    "id": "hub-3-recipe-220286",
+    "name": "鎌将軍の包囲陣",
+    "category": "hub",
+    "rank": "3",
+    "order": 19,
+    "role": "hunter",
+    "tags": ["normal"],
+    "condition": {
+      "kind": "hr_at_least",
+      "value": 3
+    },
+    "npcNotes": [],
+    "unlocks": [
+      {
+        "kind": "hunter_art",
+        "label": "ガードレイジ LV2"
+      }
+    ],
+    "sources": [
+      {
+        "site": "MHXX攻略レシピ",
+        "url": "http://wiki.mhxg.org/ida/220286.html",
+        "kind": "detail",
+        "checkedAt": "2026-10-16"
+      },
+      {
+        "site": "MHXX攻略レシピ（ランク一覧）",
+        "url": "http://wiki.mhxg.org/data/2023.html",
+        "kind": "list",
+        "checkedAt": "2026-10-16"
+      },
+      {
+        "site": "MHXX攻略Wiki（狩技）",
+        "url": "https://mhx-wiki.com/?MHXX%E3%81%AE%E7%8B%A9%E6%8A%80%E7%BF%92%E5%BE%97%E3%82%AF%E3%82%A8%E3%82%B9%E3%83%88%E3%81%BE%E3%81%A8%E3%82%81",
+        "kind": "list",
+        "checkedAt": "2026-10-16"
+      }
+    ],
+    "verification": "partial",
+    "verificationNote": "攻略レシピの一覧・個別ページを照合。条件と解放要素の完全確認を意味しません。記録上の前提達成とゲーム内での受注・受領状態を区別します。",
+    "warnings": []
+  },
+  {
+    "id": "hub-3-recipe-220287",
+    "name": "ガミザミの群れを掃討せよ！",
+    "category": "hub",
+    "rank": "3",
+    "order": 20,
+    "role": "hunter",
+    "tags": ["normal"],
+    "condition": {
+      "kind": "hr_at_least",
+      "value": 3
+    },
+    "npcNotes": [],
+    "unlocks": [],
+    "sources": [
+      {
+        "site": "MHXX攻略レシピ",
+        "url": "http://wiki.mhxg.org/ida/220287.html",
+        "kind": "detail",
+        "checkedAt": "2026-10-16"
+      },
+      {
+        "site": "MHXX攻略レシピ（ランク一覧）",
+        "url": "http://wiki.mhxg.org/data/2023.html",
+        "kind": "list",
+        "checkedAt": "2026-10-16"
+      }
+    ],
+    "verification": "partial",
+    "verificationNote": "攻略レシピの一覧・個別ページを照合。条件と解放要素の完全確認を意味しません。記録上の前提達成とゲーム内での受注・受領状態を区別します。",
+    "warnings": []
+  },
+  {
+    "id": "hub-3-recipe-220288",
+    "name": "スカヴェンジャーズ軍団！",
+    "category": "hub",
+    "rank": "3",
+    "order": 21,
+    "role": "hunter",
+    "tags": ["normal"],
+    "condition": {
+      "kind": "hr_at_least",
+      "value": 3
+    },
+    "npcNotes": [],
+    "unlocks": [],
+    "sources": [
+      {
+        "site": "MHXX攻略レシピ",
+        "url": "http://wiki.mhxg.org/ida/220288.html",
+        "kind": "detail",
+        "checkedAt": "2026-10-16"
+      },
+      {
+        "site": "MHXX攻略レシピ（ランク一覧）",
+        "url": "http://wiki.mhxg.org/data/2023.html",
+        "kind": "list",
+        "checkedAt": "2026-10-16"
+      }
+    ],
+    "verification": "partial",
+    "verificationNote": "攻略レシピの一覧・個別ページを照合。条件と解放要素の完全確認を意味しません。記録上の前提達成とゲーム内での受注・受領状態を区別します。",
+    "warnings": []
+  },
+  {
+    "id": "hub-3-recipe-220289",
+    "name": "燃石炭採掘指令",
+    "category": "hub",
+    "rank": "3",
+    "order": 22,
+    "role": "hunter",
+    "tags": ["normal"],
+    "condition": {
+      "kind": "hr_at_least",
+      "value": 3
+    },
+    "npcNotes": [],
+    "unlocks": [],
+    "sources": [
+      {
+        "site": "MHXX攻略レシピ",
+        "url": "http://wiki.mhxg.org/ida/220289.html",
+        "kind": "detail",
+        "checkedAt": "2026-10-16"
+      },
+      {
+        "site": "MHXX攻略レシピ（ランク一覧）",
+        "url": "http://wiki.mhxg.org/data/2023.html",
+        "kind": "list",
+        "checkedAt": "2026-10-16"
+      }
+    ],
+    "verification": "partial",
+    "verificationNote": "攻略レシピの一覧・個別ページを照合。条件と解放要素の完全確認を意味しません。記録上の前提達成とゲーム内での受注・受領状態を区別します。",
+    "warnings": []
+  },
+  {
+    "id": "hub-3-recipe-220290",
+    "name": "ドス来い！真昼の古代林",
+    "category": "hub",
+    "rank": "3",
+    "order": 23,
+    "role": "hunter",
+    "tags": ["normal"],
+    "condition": {
+      "kind": "hr_at_least",
+      "value": 3
+    },
+    "npcNotes": [],
+    "unlocks": [],
+    "sources": [
+      {
+        "site": "MHXX攻略レシピ",
+        "url": "http://wiki.mhxg.org/ida/220290.html",
+        "kind": "detail",
+        "checkedAt": "2026-10-16"
+      },
+      {
+        "site": "MHXX攻略レシピ（ランク一覧）",
+        "url": "http://wiki.mhxg.org/data/2023.html",
+        "kind": "list",
+        "checkedAt": "2026-10-16"
+      }
+    ],
+    "verification": "partial",
+    "verificationNote": "攻略レシピの一覧・個別ページを照合。条件と解放要素の完全確認を意味しません。記録上の前提達成とゲーム内での受注・受領状態を区別します。",
+    "warnings": []
+  },
+  {
+    "id": "hub-3-recipe-220291",
+    "name": "砂上の竜脚",
+    "category": "hub",
+    "rank": "3",
+    "order": 24,
+    "role": "hunter",
+    "tags": ["normal"],
+    "condition": {
+      "kind": "hr_at_least",
+      "value": 3
+    },
+    "npcNotes": [],
+    "unlocks": [
+      {
+        "kind": "hunter_art",
+        "label": "絶対回避【臨戦】 (共通)"
+      }
+    ],
+    "sources": [
+      {
+        "site": "MHXX攻略レシピ",
+        "url": "http://wiki.mhxg.org/ida/220291.html",
+        "kind": "detail",
+        "checkedAt": "2026-10-16"
+      },
+      {
+        "site": "MHXX攻略レシピ（ランク一覧）",
+        "url": "http://wiki.mhxg.org/data/2023.html",
+        "kind": "list",
+        "checkedAt": "2026-10-16"
+      },
+      {
+        "site": "MHXX攻略Wiki（狩技）",
+        "url": "https://mhx-wiki.com/?MHXX%E3%81%AE%E7%8B%A9%E6%8A%80%E7%BF%92%E5%BE%97%E3%82%AF%E3%82%A8%E3%82%B9%E3%83%88%E3%81%BE%E3%81%A8%E3%82%81",
+        "kind": "list",
+        "checkedAt": "2026-10-16"
+      }
+    ],
+    "verification": "partial",
+    "verificationNote": "攻略レシピの一覧・個別ページを照合。条件と解放要素の完全確認を意味しません。記録上の前提達成とゲーム内での受注・受領状態を区別します。",
+    "warnings": []
+  },
+  {
+    "id": "hub-3-recipe-220292",
+    "name": "雷狼の尾を踏む青熊",
+    "category": "hub",
+    "rank": "3",
+    "order": 25,
+    "role": "hunter",
+    "tags": ["normal"],
+    "condition": {
+      "kind": "hr_at_least",
+      "value": 3
+    },
+    "npcNotes": [],
+    "unlocks": [],
+    "sources": [
+      {
+        "site": "MHXX攻略レシピ",
+        "url": "http://wiki.mhxg.org/ida/220292.html",
+        "kind": "detail",
+        "checkedAt": "2026-10-16"
+      },
+      {
+        "site": "MHXX攻略レシピ（ランク一覧）",
+        "url": "http://wiki.mhxg.org/data/2023.html",
+        "kind": "list",
+        "checkedAt": "2026-10-16"
+      }
+    ],
+    "verification": "partial",
+    "verificationNote": "攻略レシピの一覧・個別ページを照合。条件と解放要素の完全確認を意味しません。記録上の前提達成とゲーム内での受注・受領状態を区別します。",
+    "warnings": []
+  },
+  {
+    "id": "hub-3-recipe-220293",
+    "name": "沼地をめぐる攻防",
+    "category": "hub",
+    "rank": "3",
+    "order": 26,
+    "role": "hunter",
+    "tags": ["normal"],
+    "condition": {
+      "kind": "hr_at_least",
+      "value": 3
+    },
+    "npcNotes": [],
+    "unlocks": [],
+    "sources": [
+      {
+        "site": "MHXX攻略レシピ",
+        "url": "http://wiki.mhxg.org/ida/220293.html",
+        "kind": "detail",
+        "checkedAt": "2026-10-16"
+      },
+      {
+        "site": "MHXX攻略レシピ（ランク一覧）",
+        "url": "http://wiki.mhxg.org/data/2023.html",
+        "kind": "list",
+        "checkedAt": "2026-10-16"
+      }
+    ],
+    "verification": "partial",
+    "verificationNote": "攻略レシピの一覧・個別ページを照合。条件と解放要素の完全確認を意味しません。記録上の前提達成とゲーム内での受注・受領状態を区別します。",
+    "warnings": []
+  },
+  {
+    "id": "hub-3-recipe-220294",
+    "name": "ボルケーノブロー",
+    "category": "hub",
+    "rank": "3",
+    "order": 27,
+    "role": "hunter",
+    "tags": ["normal"],
+    "condition": {
+      "kind": "hr_at_least",
+      "value": 3
+    },
+    "npcNotes": [],
+    "unlocks": [],
+    "sources": [
+      {
+        "site": "MHXX攻略レシピ",
+        "url": "http://wiki.mhxg.org/ida/220294.html",
+        "kind": "detail",
+        "checkedAt": "2026-10-16"
+      },
+      {
+        "site": "MHXX攻略レシピ（ランク一覧）",
+        "url": "http://wiki.mhxg.org/data/2023.html",
+        "kind": "list",
+        "checkedAt": "2026-10-16"
+      }
+    ],
+    "verification": "partial",
+    "verificationNote": "攻略レシピの一覧・個別ページを照合。条件と解放要素の完全確認を意味しません。記録上の前提達成とゲーム内での受注・受領状態を区別します。",
+    "warnings": []
+  },
+  {
+    "id": "hub-3-recipe-220295",
+    "name": "雷電",
+    "category": "hub",
+    "rank": "3",
+    "order": 28,
+    "role": "hunter",
+    "tags": ["normal"],
+    "condition": {
+      "kind": "hr_at_least",
+      "value": 3
+    },
+    "npcNotes": [],
+    "unlocks": [],
+    "sources": [
+      {
+        "site": "MHXX攻略レシピ",
+        "url": "http://wiki.mhxg.org/ida/220295.html",
+        "kind": "detail",
+        "checkedAt": "2026-10-16"
+      },
+      {
+        "site": "MHXX攻略レシピ（ランク一覧）",
+        "url": "http://wiki.mhxg.org/data/2023.html",
+        "kind": "list",
+        "checkedAt": "2026-10-16"
+      }
+    ],
+    "verification": "partial",
+    "verificationNote": "攻略レシピの一覧・個別ページを照合。条件と解放要素の完全確認を意味しません。記録上の前提達成とゲーム内での受注・受領状態を区別します。",
+    "warnings": []
+  },
+  {
+    "id": "hub-3-recipe-220296",
+    "name": "白き霊獣",
+    "category": "hub",
+    "rank": "3",
+    "order": 29,
+    "role": "hunter",
+    "tags": ["normal"],
+    "condition": {
+      "kind": "hr_at_least",
+      "value": 3
+    },
+    "npcNotes": [],
+    "unlocks": [],
+    "sources": [
+      {
+        "site": "MHXX攻略レシピ",
+        "url": "http://wiki.mhxg.org/ida/220296.html",
+        "kind": "detail",
+        "checkedAt": "2026-10-16"
+      },
+      {
+        "site": "MHXX攻略レシピ（ランク一覧）",
+        "url": "http://wiki.mhxg.org/data/2023.html",
+        "kind": "list",
+        "checkedAt": "2026-10-16"
+      }
+    ],
+    "verification": "partial",
+    "verificationNote": "攻略レシピの一覧・個別ページを照合。条件と解放要素の完全確認を意味しません。記録上の前提達成とゲーム内での受注・受領状態を区別します。",
+    "warnings": []
+  },
+  {
+    "id": "hub-3-recipe-220297",
+    "name": "氷点下の支配者",
+    "category": "hub",
+    "rank": "3",
+    "order": 30,
+    "role": "hunter",
+    "tags": ["normal"],
+    "condition": {
+      "kind": "hr_at_least",
+      "value": 3
+    },
+    "npcNotes": [],
+    "unlocks": [],
+    "sources": [
+      {
+        "site": "MHXX攻略レシピ",
+        "url": "http://wiki.mhxg.org/ida/220297.html",
+        "kind": "detail",
+        "checkedAt": "2026-10-16"
+      },
+      {
+        "site": "MHXX攻略レシピ（ランク一覧）",
+        "url": "http://wiki.mhxg.org/data/2023.html",
+        "kind": "list",
+        "checkedAt": "2026-10-16"
+      }
+    ],
+    "verification": "partial",
+    "verificationNote": "攻略レシピの一覧・個別ページを照合。条件と解放要素の完全確認を意味しません。記録上の前提達成とゲーム内での受注・受領状態を区別します。",
+    "warnings": []
+  },
+  {
+    "id": "hub-3-recipe-220298",
+    "name": "古の霞龍、オオナズチ",
+    "category": "hub",
+    "rank": "3",
+    "order": 31,
+    "role": "hunter",
+    "tags": ["normal"],
+    "condition": {
+      "kind": "hr_at_least",
+      "value": 3
+    },
+    "npcNotes": [],
+    "unlocks": [],
+    "sources": [
+      {
+        "site": "MHXX攻略レシピ",
+        "url": "http://wiki.mhxg.org/ida/220298.html",
+        "kind": "detail",
+        "checkedAt": "2026-10-16"
+      },
+      {
+        "site": "MHXX攻略レシピ（ランク一覧）",
+        "url": "http://wiki.mhxg.org/data/2023.html",
+        "kind": "list",
+        "checkedAt": "2026-10-16"
+      }
+    ],
+    "verification": "partial",
+    "verificationNote": "攻略レシピの一覧・個別ページを照合。条件と解放要素の完全確認を意味しません。記録上の前提達成とゲーム内での受注・受領状態を区別します。",
+    "warnings": []
+  },
+  {
+    "id": "hub-3-recipe-220299",
+    "name": "煉獄の主、怒れる炎帝",
+    "category": "hub",
+    "rank": "3",
+    "order": 32,
+    "role": "hunter",
+    "tags": ["normal"],
+    "condition": {
+      "kind": "hr_at_least",
+      "value": 3
+    },
+    "npcNotes": [],
+    "unlocks": [
+      {
+        "kind": "hunter_art",
+        "label": "覇山竜撃砲 LV2"
+      }
+    ],
+    "sources": [
+      {
+        "site": "MHXX攻略レシピ",
+        "url": "http://wiki.mhxg.org/ida/220299.html",
+        "kind": "detail",
+        "checkedAt": "2026-10-16"
+      },
+      {
+        "site": "MHXX攻略レシピ（ランク一覧）",
+        "url": "http://wiki.mhxg.org/data/2023.html",
+        "kind": "list",
+        "checkedAt": "2026-10-16"
+      },
+      {
+        "site": "MHXX攻略Wiki（狩技）",
+        "url": "https://mhx-wiki.com/?MHXX%E3%81%AE%E7%8B%A9%E6%8A%80%E7%BF%92%E5%BE%97%E3%82%AF%E3%82%A8%E3%82%B9%E3%83%88%E3%81%BE%E3%81%A8%E3%82%81",
+        "kind": "list",
+        "checkedAt": "2026-10-16"
+      }
+    ],
+    "verification": "partial",
+    "verificationNote": "攻略レシピの一覧・個別ページを照合。条件と解放要素の完全確認を意味しません。記録上の前提達成とゲーム内での受注・受領状態を区別します。",
+    "warnings": []
+  },
+  {
+    "id": "hub-3-recipe-220300",
+    "name": "廻り集いて回帰せん",
+    "category": "hub",
+    "rank": "3",
+    "order": 33,
+    "role": "hunter",
+    "tags": ["normal"],
+    "condition": {
+      "kind": "hr_at_least",
+      "value": 3
+    },
+    "npcNotes": [],
+    "unlocks": [
+      {
+        "kind": "hunter_art",
+        "label": "ラピッドヘブン LV2"
+      }
+    ],
+    "sources": [
+      {
+        "site": "MHXX攻略レシピ",
+        "url": "http://wiki.mhxg.org/ida/220300.html",
+        "kind": "detail",
+        "checkedAt": "2026-10-16"
+      },
+      {
+        "site": "MHXX攻略レシピ（ランク一覧）",
+        "url": "http://wiki.mhxg.org/data/2023.html",
+        "kind": "list",
+        "checkedAt": "2026-10-16"
+      },
+      {
+        "site": "MHXX攻略Wiki（狩技）",
+        "url": "https://mhx-wiki.com/?MHXX%E3%81%AE%E7%8B%A9%E6%8A%80%E7%BF%92%E5%BE%97%E3%82%AF%E3%82%A8%E3%82%B9%E3%83%88%E3%81%BE%E3%81%A8%E3%82%81",
+        "kind": "list",
+        "checkedAt": "2026-10-16"
+      }
+    ],
+    "verification": "partial",
+    "verificationNote": "攻略レシピの一覧・個別ページを照合。条件と解放要素の完全確認を意味しません。記録上の前提達成とゲーム内での受注・受領状態を区別します。",
+    "warnings": []
+  },
+  {
+    "id": "hub-3-recipe-220429",
+    "name": "双頭の骸",
+    "category": "hub",
+    "rank": "3",
+    "order": 34,
+    "role": "hunter",
+    "tags": ["urgent"],
+    "condition": {
+      "kind": "all",
+      "rules": [
+        {
+          "kind": "all",
+          "rules": [
+            {
+              "kind": "quest_cleared",
+              "questId": "hub-3-recipe-220271"
+            },
+            {
+              "kind": "quest_cleared",
+              "questId": "hub-3-recipe-220273"
+            },
+            {
+              "kind": "quest_cleared",
+              "questId": "hub-3-recipe-220275"
+            },
+            {
+              "kind": "quest_cleared",
+              "questId": "hub-3-recipe-220277"
+            },
+            {
+              "kind": "quest_cleared",
+              "questId": "hub-3-recipe-220282"
+            },
+            {
+              "kind": "quest_cleared",
+              "questId": "hub-3-recipe-220284"
+            }
+          ]
+        },
+        {
+          "kind": "hr_at_least",
+          "value": 3
+        }
+      ]
+    },
+    "npcNotes": ["ギルドマネージャーと話して緊急クエストを出現させる。"],
+    "unlocks": [
+      {
+        "kind": "hunter_art",
+        "label": "ブレイドダンス LV2",
+        "note": "同じ狩技の村側の解放経路：村★5「怪鳥の頭部破壊に挑戦！」。集会所と村のクリアを両方要求する条件ではありません（OR）。"
+      },
+      {
+        "kind": "other",
+        "label": "集会所★4（HR4）への進行",
+        "note": "全キークエスト後の緊急クエスト。ランク進行の反映はゲーム内で確認してください。"
+      },
+      {
+        "kind": "facility",
+        "label": "オトモの初期雇用レベル5〜7の解放経路",
+        "note": "この緊急によるHR4到達、または村★4「雪山のポイント捜索隊！」クリア（OR）。より高い初期雇用レベルが既に解放されている場合に下げる意味ではありません。育成上限とは別です。"
+      }
+    ],
+    "sources": [
+      {
+        "site": "MHXX攻略レシピ",
+        "url": "http://wiki.mhxg.org/ida/220429.html",
+        "kind": "detail",
+        "checkedAt": "2026-10-16"
+      },
+      {
+        "site": "MHXX攻略レシピ（ランク一覧）",
+        "url": "http://wiki.mhxg.org/data/2023.html",
+        "kind": "list",
+        "checkedAt": "2026-10-16"
+      },
+      {
+        "site": "MHXX攻略Wiki（狩技）",
+        "url": "https://mhx-wiki.com/?MHXX%E3%81%AE%E7%8B%A9%E6%8A%80%E7%BF%92%E5%BE%97%E3%82%AF%E3%82%A8%E3%82%B9%E3%83%88%E3%81%BE%E3%81%A8%E3%82%81",
+        "kind": "list",
+        "checkedAt": "2026-10-16"
+      },
+      {
+        "site": "Game8 MHXX（緊急）",
+        "url": "https://game8.jp/mh-xx/823425",
+        "kind": "detail",
+        "checkedAt": "2026-10-16"
+      },
+      {
+        "site": "MHXX攻略Wiki（集会所の進行）",
+        "url": "https://mhx-wiki.com/?MHXX%E3%81%AE%E9%9B%86%E4%BC%9A%E6%89%80%E3%82%AD%E3%83%BC%E3%82%AF%E3%82%A8%E3%82%B9%E3%83%88%E4%B8%80%E8%A6%A7",
+        "kind": "list",
+        "checkedAt": "2026-10-16"
+      },
+      {
+        "site": "MHXXニャンターwiki（オトモ）",
+        "url": "https://w.atwiki.jp/mhxxnyanter/pages/20.html",
+        "kind": "list",
+        "checkedAt": "2026-10-16"
+      }
+    ],
+    "verification": "partial",
+    "verificationNote": "攻略レシピの一覧・個別ページを照合。条件と解放要素の完全確認を意味しません。記録上の前提達成とゲーム内での受注・受領状態を区別します。",
+    "warnings": [
+      "施設の印のうち、ランク進行以外の具体的な施設強化内容は専門資料調査後も対応を確定できていません。"
+    ]
+  },
+  {
+    "id": "hub-3-recipe-238222",
+    "name": "熱いウロコと鋭いハサミ",
+    "category": "hub",
+    "rank": "3",
+    "order": 35,
+    "role": "prowler",
+    "tags": ["normal"],
+    "condition": {
+      "kind": "hr_at_least",
+      "value": 3
+    },
+    "npcNotes": [],
+    "unlocks": [],
+    "sources": [
+      {
+        "site": "MHXX攻略レシピ",
+        "url": "http://wiki.mhxg.org/ida/238222.html",
+        "kind": "detail",
+        "checkedAt": "2026-10-16"
+      },
+      {
+        "site": "MHXX攻略レシピ（ランク一覧）",
+        "url": "http://wiki.mhxg.org/data/2023.html",
+        "kind": "list",
+        "checkedAt": "2026-10-16"
+      }
+    ],
+    "verification": "partial",
+    "verificationNote": "攻略レシピの一覧・個別ページを照合。条件と解放要素の完全確認を意味しません。記録上の前提達成とゲーム内での受注・受領状態を区別します。",
+    "warnings": []
+  },
+  {
+    "id": "hub-3-recipe-238223",
+    "name": "サカニャが食べたい腹いっぱい",
+    "category": "hub",
+    "rank": "3",
+    "order": 36,
+    "role": "prowler",
+    "tags": ["normal"],
+    "condition": {
+      "kind": "hr_at_least",
+      "value": 3
+    },
+    "npcNotes": [],
+    "unlocks": [],
+    "sources": [
+      {
+        "site": "MHXX攻略レシピ",
+        "url": "http://wiki.mhxg.org/ida/238223.html",
+        "kind": "detail",
+        "checkedAt": "2026-10-16"
+      },
+      {
+        "site": "MHXX攻略レシピ（ランク一覧）",
+        "url": "http://wiki.mhxg.org/data/2023.html",
+        "kind": "list",
+        "checkedAt": "2026-10-16"
+      }
+    ],
+    "verification": "partial",
+    "verificationNote": "攻略レシピの一覧・個別ページを照合。条件と解放要素の完全確認を意味しません。記録上の前提達成とゲーム内での受注・受領状態を区別します。",
+    "warnings": []
+  },
+  {
+    "id": "hub-3-recipe-238224",
+    "name": "闘技場の牙獣と牙獣",
+    "category": "hub",
+    "rank": "3",
+    "order": 37,
+    "role": "prowler",
+    "tags": ["normal"],
+    "condition": {
+      "kind": "hr_at_least",
+      "value": 3
+    },
+    "npcNotes": [],
+    "unlocks": [],
+    "sources": [
+      {
+        "site": "MHXX攻略レシピ",
+        "url": "http://wiki.mhxg.org/ida/238224.html",
+        "kind": "detail",
+        "checkedAt": "2026-10-16"
+      },
+      {
+        "site": "MHXX攻略レシピ（ランク一覧）",
+        "url": "http://wiki.mhxg.org/data/2023.html",
+        "kind": "list",
+        "checkedAt": "2026-10-16"
+      }
+    ],
+    "verification": "partial",
+    "verificationNote": "攻略レシピの一覧・個別ページを照合。条件と解放要素の完全確認を意味しません。記録上の前提達成とゲーム内での受注・受領状態を区別します。",
+    "warnings": []
+  }
+]

@@ -785,6 +785,31 @@ export default function App() {
                 )}
               </tbody>
             </table>
+            <table>
+              <caption>集会所下位★1〜3の収録状況</caption>
+              <thead>
+                <tr>
+                  <th>ランク</th>
+                  <th>収録済み</th>
+                  <th>網羅確認</th>
+                </tr>
+              </thead>
+              <tbody>
+                {["1", "2", "3"].map((rank) => (
+                  <tr key={rank}>
+                    <th>集会所★{rank}</th>
+                    <td>
+                      {
+                        items.filter(
+                          (q) => q.category === "hub" && q.rank === rank,
+                        ).length
+                      }
+                    </td>
+                    <td>一覧照合済み</td>
+                  </tr>
+                ))}
+              </tbody>
+            </table>
           </div>
           <p className="small">
             第一参照元：
