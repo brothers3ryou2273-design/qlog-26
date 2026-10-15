@@ -2,8 +2,8 @@
   {
     "id": "village-1-g8-822831",
     "name": "古代林の特産ゼンマイ",
-    "category": "village",
     "rank": "1",
+    "category": "village",
     "order": 0,
     "role": "hunter",
     "tags": [
@@ -12,6 +12,7 @@
     "condition": {
       "kind": "none"
     },
+    "npcNotes": [],
     "unlocks": [],
     "sources": [
       {
@@ -34,7 +35,8 @@
       }
     ],
     "verification": "partial",
-    "verificationNote": "攻略レシピの一覧・個別ページで名称・分類・前提を確認し、Game8で会話等を補完。食材・施設・交易等の解放要素は未記載を「なし」と断定せず、調査継続中です。"
+    "verificationNote": "攻略レシピの明記を採用。通常の会話・報告は補足に分離。解放要素の未記載は「なし」と断定していません。",
+    "warnings": []
   },
   {
     "id": "village-1-recipe-219134",
@@ -46,6 +48,11 @@
     "tags": [
       "normal"
     ],
+    "condition": {
+      "kind": "none"
+    },
+    "npcNotes": [],
+    "unlocks": [],
     "sources": [
       {
         "site": "MHXX攻略レシピ",
@@ -66,12 +73,9 @@
         "checkedAt": "2026-10-15"
       }
     ],
-    "condition": {
-      "kind": "none"
-    },
-    "unlocks": [],
     "verification": "partial",
-    "verificationNote": "攻略レシピの一覧・個別ページで名称・分類・前提を確認し、Game8で会話等を補完。食材・施設・交易等の解放要素は未記載を「なし」と断定せず、調査継続中です。"
+    "verificationNote": "攻略レシピの明記を採用。通常の会話・報告は補足に分離。解放要素の未記載は「なし」と断定していません。",
+    "warnings": []
   },
   {
     "id": "village-1-recipe-219135",
@@ -83,6 +87,11 @@
     "tags": [
       "normal"
     ],
+    "condition": {
+      "kind": "none"
+    },
+    "npcNotes": [],
+    "unlocks": [],
     "sources": [
       {
         "site": "MHXX攻略レシピ",
@@ -103,12 +112,9 @@
         "checkedAt": "2026-10-15"
       }
     ],
-    "condition": {
-      "kind": "none"
-    },
-    "unlocks": [],
     "verification": "partial",
-    "verificationNote": "攻略レシピの一覧・個別ページで名称・分類・前提を確認し、Game8で会話等を補完。食材・施設・交易等の解放要素は未記載を「なし」と断定せず、調査継続中です。"
+    "verificationNote": "攻略レシピの明記を採用。通常の会話・報告は補足に分離。解放要素の未記載は「なし」と断定していません。",
+    "warnings": []
   },
   {
     "id": "village-1-recipe-219136",
@@ -120,6 +126,11 @@
     "tags": [
       "normal"
     ],
+    "condition": {
+      "kind": "none"
+    },
+    "npcNotes": [],
+    "unlocks": [],
     "sources": [
       {
         "site": "MHXX攻略レシピ",
@@ -140,18 +151,15 @@
         "checkedAt": "2026-10-15"
       }
     ],
-    "condition": {
-      "kind": "none"
-    },
-    "unlocks": [],
     "verification": "partial",
-    "verificationNote": "攻略レシピの一覧・個別ページで名称・分類・前提を確認し、Game8で会話等を補完。食材・施設・交易等の解放要素は未記載を「なし」と断定せず、調査継続中です。"
+    "verificationNote": "攻略レシピの明記を採用。通常の会話・報告は補足に分離。解放要素の未記載は「なし」と断定していません。",
+    "warnings": []
   },
   {
     "id": "village-1-g8-822835",
     "name": "古代の森でシメジ狩り",
-    "category": "village",
     "rank": "1",
+    "category": "village",
     "order": 4,
     "role": "hunter",
     "tags": [
@@ -161,6 +169,7 @@
       "kind": "quest_cleared",
       "questId": "village-1-g8-822831"
     },
+    "npcNotes": [],
     "unlocks": [],
     "sources": [
       {
@@ -183,13 +192,14 @@
       }
     ],
     "verification": "partial",
-    "verificationNote": "攻略レシピの一覧・個別ページで名称・分類・前提を確認し、Game8で会話等を補完。食材・施設・交易等の解放要素は未記載を「なし」と断定せず、調査継続中です。"
+    "verificationNote": "攻略レシピの明記を採用。通常の会話・報告は補足に分離。解放要素の未記載は「なし」と断定していません。",
+    "warnings": []
   },
   {
     "id": "village-1-g8-822836",
     "name": "マッカォの群れを討伐せよ！",
-    "category": "village",
     "rank": "1",
+    "category": "village",
     "order": 5,
     "role": "hunter",
     "tags": [
@@ -198,6 +208,7 @@
     "condition": {
       "kind": "none"
     },
+    "npcNotes": [],
     "unlocks": [],
     "sources": [
       {
@@ -220,13 +231,14 @@
       }
     ],
     "verification": "partial",
-    "verificationNote": "攻略レシピの一覧・個別ページで名称・分類・前提を確認し、Game8で会話等を補完。食材・施設・交易等の解放要素は未記載を「なし」と断定せず、調査継続中です。"
+    "verificationNote": "攻略レシピの明記を採用。通常の会話・報告は補足に分離。解放要素の未記載は「なし」と断定していません。",
+    "warnings": []
   },
   {
     "id": "village-1-g8-822837",
     "name": "ネコ嬢のジャギィ討伐依頼",
-    "category": "village",
     "rank": "1",
+    "category": "village",
     "order": 6,
     "role": "hunter",
     "tags": [
@@ -234,22 +246,13 @@
       "request"
     ],
     "condition": {
-      "kind": "all",
-      "rules": [
-        {
-          "kind": "quest_cleared",
-          "questId": "village-1-g8-822836"
-        },
-        {
-          "kind": "external_flag",
-          "label": "ベルナ村 ネコ嬢の依頼1の受注・必要な会話"
-        },
-        {
-          "kind": "external_flag",
-          "label": "ベルナ村の村長、ネコ嬢の順に話す"
-        }
-      ]
+      "kind": "quest_cleared",
+      "questId": "village-1-g8-822836"
     },
+    "npcNotes": [
+      "ベルナ村 ネコ嬢の依頼1を受注する。",
+      "ベルナ村の村長、ネコ嬢の順に話す。"
+    ],
     "unlocks": [],
     "sources": [
       {
@@ -272,6 +275,7 @@
       }
     ],
     "verification": "partial",
-    "verificationNote": "攻略レシピの一覧・個別ページで名称・分類・前提を確認し、Game8で会話等を補完。食材・施設・交易等の解放要素は未記載を「なし」と断定せず、調査継続中です。"
+    "verificationNote": "攻略レシピの明記を採用。通常の会話・報告は補足に分離。解放要素の未記載は「なし」と断定していません。",
+    "warnings": []
   }
 ]

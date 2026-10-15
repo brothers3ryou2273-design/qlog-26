@@ -1,0 +1,1604 @@
+[
+  {
+    "id": "village-4-recipe-220197",
+    "name": "火山の採集ツアー",
+    "rank": "4",
+    "category": "village",
+    "order": 0,
+    "role": "hunter",
+    "tags": [
+      "normal"
+    ],
+    "condition": {
+      "kind": "quest_cleared",
+      "questId": "village-4-recipe-219987"
+    },
+    "npcNotes": [],
+    "unlocks": [],
+    "sources": [
+      {
+        "site": "MHXX攻略レシピ",
+        "url": "http://wiki.mhxg.org/ida/220197.html",
+        "kind": "detail",
+        "checkedAt": "2026-10-15"
+      },
+      {
+        "site": "MHXX攻略レシピ（ランク一覧）",
+        "url": "http://wiki.mhxg.org/data/2014.html",
+        "kind": "list",
+        "checkedAt": "2026-10-15"
+      }
+    ],
+    "verification": "partial",
+    "verificationNote": "攻略レシピの明記を採用。通常の会話・報告は補足に分離。解放要素の未記載は「なし」と断定していません。",
+    "warnings": []
+  },
+  {
+    "id": "village-4-recipe-219987",
+    "name": "幻惑の魔術師",
+    "rank": "4",
+    "category": "village",
+    "order": 1,
+    "role": "hunter",
+    "tags": [
+      "urgent"
+    ],
+    "condition": {
+      "kind": "all",
+      "rules": [
+        {
+          "kind": "quest_cleared",
+          "questId": "village-3-g8-822878"
+        },
+        {
+          "kind": "quest_cleared",
+          "questId": "village-3-recipe-220173"
+        },
+        {
+          "kind": "quest_cleared",
+          "questId": "village-3-g8-822884"
+        },
+        {
+          "kind": "quest_cleared",
+          "questId": "village-3-g8-822885"
+        },
+        {
+          "kind": "quest_cleared",
+          "questId": "village-3-recipe-219985"
+        },
+        {
+          "kind": "quest_cleared",
+          "questId": "village-3-recipe-219986"
+        }
+      ]
+    },
+    "npcNotes": [],
+    "unlocks": [
+      {
+        "kind": "hunter_art",
+        "label": "地衝斬 LV2"
+      },
+      {
+        "kind": "hunter_art",
+        "label": "桜花気刃斬 LV2"
+      },
+      {
+        "kind": "hunter_art",
+        "label": "ラウンドフォース LV2"
+      },
+      {
+        "kind": "hunter_art",
+        "label": "血風独楽 LV2"
+      },
+      {
+        "kind": "hunter_art",
+        "label": "スピニングメテオ LV2"
+      },
+      {
+        "kind": "hunter_art",
+        "label": "オルケスタソウル LV2"
+      },
+      {
+        "kind": "hunter_art",
+        "label": "シールドアサルト LV2"
+      },
+      {
+        "kind": "hunter_art",
+        "label": "ブラストダッシュ LV2"
+      },
+      {
+        "kind": "hunter_art",
+        "label": "トランスラッシュ LV2"
+      },
+      {
+        "kind": "hunter_art",
+        "label": "オーバーリミット LV2"
+      },
+      {
+        "kind": "hunter_art",
+        "label": "エキスハンター LV2"
+      },
+      {
+        "kind": "hunter_art",
+        "label": "全弾装填 LV2"
+      },
+      {
+        "kind": "hunter_art",
+        "label": "火薬装填 LV2"
+      },
+      {
+        "kind": "hunter_art",
+        "label": "トリニティレイヴン LV2"
+      },
+      {
+        "kind": "food",
+        "label": "ホロロース",
+        "note": "緊急クエストのクリアで追加（専門Wikiで補完）。"
+      }
+    ],
+    "sources": [
+      {
+        "site": "MHXX攻略レシピ",
+        "url": "http://wiki.mhxg.org/ida/219987.html",
+        "kind": "detail",
+        "checkedAt": "2026-10-15"
+      },
+      {
+        "site": "MHXX攻略レシピ（ランク一覧）",
+        "url": "http://wiki.mhxg.org/data/2014.html",
+        "kind": "list",
+        "checkedAt": "2026-10-15"
+      },
+      {
+        "site": "MHXX攻略Wiki（食材）",
+        "url": "https://mhx-wiki.com/?%E9%A3%9F%E6%9D%90%E3%82%AF%E3%82%A8%E3%82%B9%E3%83%88%E4%B8%80%E8%A6%A7",
+        "kind": "list",
+        "checkedAt": "2026-10-15"
+      }
+    ],
+    "verification": "partial",
+    "verificationNote": "攻略レシピの明記を採用。通常の会話・報告は補足に分離。解放要素の未記載は「なし」と断定していません。",
+    "warnings": [
+      "具体的な施設・交易の解放内容と追加条件は未確認です。"
+    ]
+  },
+  {
+    "id": "village-4-recipe-220198",
+    "name": "疾風の迅竜",
+    "rank": "4",
+    "category": "village",
+    "order": 2,
+    "role": "hunter",
+    "tags": [
+      "normal"
+    ],
+    "condition": {
+      "kind": "quest_cleared",
+      "questId": "village-4-recipe-219989"
+    },
+    "npcNotes": [],
+    "unlocks": [],
+    "sources": [
+      {
+        "site": "MHXX攻略レシピ",
+        "url": "http://wiki.mhxg.org/ida/220198.html",
+        "kind": "detail",
+        "checkedAt": "2026-10-15"
+      },
+      {
+        "site": "MHXX攻略レシピ（ランク一覧）",
+        "url": "http://wiki.mhxg.org/data/2014.html",
+        "kind": "list",
+        "checkedAt": "2026-10-15"
+      }
+    ],
+    "verification": "partial",
+    "verificationNote": "攻略レシピの明記を採用。通常の会話・報告は補足に分離。解放要素の未記載は「なし」と断定していません。",
+    "warnings": []
+  },
+  {
+    "id": "village-4-recipe-220199",
+    "name": "古代林のトレジャー！虫の巻",
+    "rank": "4",
+    "category": "village",
+    "order": 3,
+    "role": "hunter",
+    "tags": [
+      "request"
+    ],
+    "condition": {
+      "kind": "all",
+      "rules": [
+        {
+          "kind": "quest_cleared",
+          "questId": "village-3-recipe-220171"
+        },
+        {
+          "kind": "quest_cleared",
+          "questId": "village-4-recipe-220216"
+        }
+      ]
+    },
+    "npcNotes": [
+      "トレジィの依頼1を達成し、必要な報告を行う。",
+      "ココット村 トレジィの依頼2を受注する。"
+    ],
+    "unlocks": [],
+    "sources": [
+      {
+        "site": "MHXX攻略レシピ",
+        "url": "http://wiki.mhxg.org/ida/220199.html",
+        "kind": "detail",
+        "checkedAt": "2026-10-15"
+      },
+      {
+        "site": "MHXX攻略レシピ（ランク一覧）",
+        "url": "http://wiki.mhxg.org/data/2014.html",
+        "kind": "list",
+        "checkedAt": "2026-10-15"
+      }
+    ],
+    "verification": "partial",
+    "verificationNote": "攻略レシピの明記を採用。通常の会話・報告は補足に分離。解放要素の未記載は「なし」と断定していません。",
+    "warnings": []
+  },
+  {
+    "id": "village-4-recipe-220200",
+    "name": "化石のロマンは永遠に",
+    "rank": "4",
+    "category": "village",
+    "order": 4,
+    "role": "hunter",
+    "tags": [
+      "normal"
+    ],
+    "condition": {
+      "kind": "quest_cleared",
+      "questId": "village-4-recipe-219987"
+    },
+    "npcNotes": [],
+    "unlocks": [],
+    "sources": [
+      {
+        "site": "MHXX攻略レシピ",
+        "url": "http://wiki.mhxg.org/ida/220200.html",
+        "kind": "detail",
+        "checkedAt": "2026-10-15"
+      },
+      {
+        "site": "MHXX攻略レシピ（ランク一覧）",
+        "url": "http://wiki.mhxg.org/data/2014.html",
+        "kind": "list",
+        "checkedAt": "2026-10-15"
+      }
+    ],
+    "verification": "partial",
+    "verificationNote": "攻略レシピの明記を採用。通常の会話・報告は補足に分離。解放要素の未記載は「なし」と断定していません。",
+    "warnings": []
+  },
+  {
+    "id": "village-4-recipe-220201",
+    "name": "とびきりのゼンマイティー作り",
+    "rank": "4",
+    "category": "village",
+    "order": 5,
+    "role": "hunter",
+    "tags": [
+      "request"
+    ],
+    "condition": {
+      "kind": "all",
+      "rules": [
+        {
+          "kind": "quest_cleared",
+          "questId": "village-3-recipe-218331"
+        },
+        {
+          "kind": "quest_cleared",
+          "questId": "village-4-recipe-219987"
+        }
+      ]
+    },
+    "npcNotes": [
+      "ベルナ村の受付嬢の依頼1を達成し、必要な報告を行う。",
+      "ベルナ村 ベルナ村の受付嬢の依頼2を受注する。"
+    ],
+    "unlocks": [
+      {
+        "kind": "food",
+        "label": "ゼンマイ米",
+        "note": "依頼達成・報告後に追加。実際の追加状態はゲーム内で確認。"
+      }
+    ],
+    "sources": [
+      {
+        "site": "MHXX攻略レシピ",
+        "url": "http://wiki.mhxg.org/ida/220201.html",
+        "kind": "detail",
+        "checkedAt": "2026-10-15"
+      },
+      {
+        "site": "MHXX攻略レシピ（ランク一覧）",
+        "url": "http://wiki.mhxg.org/data/2014.html",
+        "kind": "list",
+        "checkedAt": "2026-10-15"
+      }
+    ],
+    "verification": "partial",
+    "verificationNote": "攻略レシピの明記を採用。通常の会話・報告は補足に分離。解放要素の未記載は「なし」と断定していません。",
+    "warnings": []
+  },
+  {
+    "id": "village-4-recipe-220202",
+    "name": "厄介者のドスゲネポス",
+    "rank": "4",
+    "category": "village",
+    "order": 6,
+    "role": "hunter",
+    "tags": [
+      "request"
+    ],
+    "condition": {
+      "kind": "quest_cleared",
+      "questId": "village-4-recipe-219987"
+    },
+    "npcNotes": [
+      "ベルナ村 キャラバンの団長の依頼1を受注する。"
+    ],
+    "unlocks": [
+      {
+        "kind": "other",
+        "label": "ブレイブシリーズ（製法）",
+        "note": "依頼達成・報告後の製法解放。装備そのものの入手ではありません。"
+      },
+      {
+        "kind": "other",
+        "label": "ブレイブネコランス（製法）",
+        "note": "依頼達成・報告後の製法解放。装備そのものの入手ではありません。"
+      },
+      {
+        "kind": "other",
+        "label": "ブレイブネコガレア（製法）",
+        "note": "依頼達成・報告後の製法解放。装備そのものの入手ではありません。"
+      },
+      {
+        "kind": "other",
+        "label": "ブレイブネコロリカ（製法）",
+        "note": "依頼達成・報告後の製法解放。装備そのものの入手ではありません。"
+      },
+      {
+        "kind": "other",
+        "label": "プーギーの服 夢追いアミーゴ",
+        "note": "依頼達成・報告後に利用。"
+      }
+    ],
+    "sources": [
+      {
+        "site": "MHXX攻略レシピ",
+        "url": "http://wiki.mhxg.org/ida/220202.html",
+        "kind": "detail",
+        "checkedAt": "2026-10-15"
+      },
+      {
+        "site": "MHXX攻略レシピ（ランク一覧）",
+        "url": "http://wiki.mhxg.org/data/2014.html",
+        "kind": "list",
+        "checkedAt": "2026-10-15"
+      }
+    ],
+    "verification": "partial",
+    "verificationNote": "攻略レシピの明記を採用。通常の会話・報告は補足に分離。解放要素の未記載は「なし」と断定していません。",
+    "warnings": []
+  },
+  {
+    "id": "village-4-recipe-220203",
+    "name": "未知なる鉱石採掘依頼",
+    "rank": "4",
+    "category": "village",
+    "order": 7,
+    "role": "hunter",
+    "tags": [
+      "normal"
+    ],
+    "condition": {
+      "kind": "quest_cleared",
+      "questId": "village-4-recipe-219987"
+    },
+    "npcNotes": [],
+    "unlocks": [],
+    "sources": [
+      {
+        "site": "MHXX攻略レシピ",
+        "url": "http://wiki.mhxg.org/ida/220203.html",
+        "kind": "detail",
+        "checkedAt": "2026-10-15"
+      },
+      {
+        "site": "MHXX攻略レシピ（ランク一覧）",
+        "url": "http://wiki.mhxg.org/data/2014.html",
+        "kind": "list",
+        "checkedAt": "2026-10-15"
+      }
+    ],
+    "verification": "partial",
+    "verificationNote": "攻略レシピの明記を採用。通常の会話・報告は補足に分離。解放要素の未記載は「なし」と断定していません。",
+    "warnings": []
+  },
+  {
+    "id": "village-4-recipe-219988",
+    "name": "激闘！雌火竜リオレイア",
+    "rank": "4",
+    "category": "village",
+    "order": 8,
+    "role": "hunter",
+    "tags": [
+      "key"
+    ],
+    "condition": {
+      "kind": "quest_cleared",
+      "questId": "village-4-recipe-219987"
+    },
+    "npcNotes": [],
+    "unlocks": [],
+    "sources": [
+      {
+        "site": "MHXX攻略レシピ",
+        "url": "http://wiki.mhxg.org/ida/219988.html",
+        "kind": "detail",
+        "checkedAt": "2026-10-15"
+      },
+      {
+        "site": "MHXX攻略レシピ（ランク一覧）",
+        "url": "http://wiki.mhxg.org/data/2014.html",
+        "kind": "list",
+        "checkedAt": "2026-10-15"
+      }
+    ],
+    "verification": "partial",
+    "verificationNote": "攻略レシピの明記を採用。通常の会話・報告は補足に分離。解放要素の未記載は「なし」と断定していません。",
+    "warnings": []
+  },
+  {
+    "id": "village-4-recipe-220204",
+    "name": "ガララアジャラの狩猟",
+    "rank": "4",
+    "category": "village",
+    "order": 9,
+    "role": "hunter",
+    "tags": [
+      "normal"
+    ],
+    "condition": {
+      "kind": "quest_cleared",
+      "questId": "village-4-recipe-219990"
+    },
+    "npcNotes": [],
+    "unlocks": [],
+    "sources": [
+      {
+        "site": "MHXX攻略レシピ",
+        "url": "http://wiki.mhxg.org/ida/220204.html",
+        "kind": "detail",
+        "checkedAt": "2026-10-15"
+      },
+      {
+        "site": "MHXX攻略レシピ（ランク一覧）",
+        "url": "http://wiki.mhxg.org/data/2014.html",
+        "kind": "list",
+        "checkedAt": "2026-10-15"
+      }
+    ],
+    "verification": "partial",
+    "verificationNote": "攻略レシピの明記を採用。通常の会話・報告は補足に分離。解放要素の未記載は「なし」と断定していません。",
+    "warnings": []
+  },
+  {
+    "id": "village-4-recipe-220205",
+    "name": "怪鳥達の運動会",
+    "rank": "4",
+    "category": "village",
+    "order": 10,
+    "role": "hunter",
+    "tags": [
+      "normal"
+    ],
+    "condition": {
+      "kind": "quest_cleared",
+      "questId": "village-4-recipe-219987"
+    },
+    "npcNotes": [],
+    "unlocks": [],
+    "sources": [
+      {
+        "site": "MHXX攻略レシピ",
+        "url": "http://wiki.mhxg.org/ida/220205.html",
+        "kind": "detail",
+        "checkedAt": "2026-10-15"
+      },
+      {
+        "site": "MHXX攻略レシピ（ランク一覧）",
+        "url": "http://wiki.mhxg.org/data/2014.html",
+        "kind": "list",
+        "checkedAt": "2026-10-15"
+      }
+    ],
+    "verification": "partial",
+    "verificationNote": "攻略レシピの明記を採用。通常の会話・報告は補足に分離。解放要素の未記載は「なし」と断定していません。",
+    "warnings": []
+  },
+  {
+    "id": "village-4-recipe-220206",
+    "name": "森丘の静寂を守るのニャ！！",
+    "rank": "4",
+    "category": "village",
+    "order": 11,
+    "role": "hunter",
+    "tags": [
+      "request"
+    ],
+    "condition": {
+      "kind": "all",
+      "rules": [
+        {
+          "kind": "quest_cleared",
+          "questId": "village-3-recipe-220176"
+        },
+        {
+          "kind": "quest_cleared",
+          "questId": "village-4-recipe-219987"
+        }
+      ]
+    },
+    "npcNotes": [
+      "トレニャーの依頼1を達成し、必要な報告を行う。",
+      "ポッケ村 トレニャーの依頼2を受注する。"
+    ],
+    "unlocks": [],
+    "sources": [
+      {
+        "site": "MHXX攻略レシピ",
+        "url": "http://wiki.mhxg.org/ida/220206.html",
+        "kind": "detail",
+        "checkedAt": "2026-10-15"
+      },
+      {
+        "site": "MHXX攻略レシピ（ランク一覧）",
+        "url": "http://wiki.mhxg.org/data/2014.html",
+        "kind": "list",
+        "checkedAt": "2026-10-15"
+      }
+    ],
+    "verification": "partial",
+    "verificationNote": "攻略レシピの明記を採用。通常の会話・報告は補足に分離。解放要素の未記載は「なし」と断定していません。",
+    "warnings": []
+  },
+  {
+    "id": "village-4-recipe-220207",
+    "name": "雪山の主、ドドブランゴ",
+    "rank": "4",
+    "category": "village",
+    "order": 12,
+    "role": "hunter",
+    "tags": [
+      "normal"
+    ],
+    "condition": {
+      "kind": "quest_cleared",
+      "questId": "village-4-recipe-219987"
+    },
+    "npcNotes": [],
+    "unlocks": [],
+    "sources": [
+      {
+        "site": "MHXX攻略レシピ",
+        "url": "http://wiki.mhxg.org/ida/220207.html",
+        "kind": "detail",
+        "checkedAt": "2026-10-15"
+      },
+      {
+        "site": "MHXX攻略レシピ（ランク一覧）",
+        "url": "http://wiki.mhxg.org/data/2014.html",
+        "kind": "list",
+        "checkedAt": "2026-10-15"
+      }
+    ],
+    "verification": "partial",
+    "verificationNote": "攻略レシピの明記を採用。通常の会話・報告は補足に分離。解放要素の未記載は「なし」と断定していません。",
+    "warnings": []
+  },
+  {
+    "id": "village-4-recipe-220208",
+    "name": "月光アイスダンス",
+    "rank": "4",
+    "category": "village",
+    "order": 13,
+    "role": "hunter",
+    "tags": [
+      "normal"
+    ],
+    "condition": {
+      "kind": "quest_cleared",
+      "questId": "village-4-recipe-219987"
+    },
+    "npcNotes": [],
+    "unlocks": [],
+    "sources": [
+      {
+        "site": "MHXX攻略レシピ",
+        "url": "http://wiki.mhxg.org/ida/220208.html",
+        "kind": "detail",
+        "checkedAt": "2026-10-15"
+      },
+      {
+        "site": "MHXX攻略レシピ（ランク一覧）",
+        "url": "http://wiki.mhxg.org/data/2014.html",
+        "kind": "list",
+        "checkedAt": "2026-10-15"
+      }
+    ],
+    "verification": "partial",
+    "verificationNote": "攻略レシピの明記を採用。通常の会話・報告は補足に分離。解放要素の未記載は「なし」と断定していません。",
+    "warnings": []
+  },
+  {
+    "id": "village-4-recipe-219989",
+    "name": "紅煌流星",
+    "rank": "4",
+    "category": "village",
+    "order": 14,
+    "role": "hunter",
+    "tags": [
+      "key"
+    ],
+    "condition": {
+      "kind": "quest_cleared",
+      "questId": "village-4-recipe-219987"
+    },
+    "npcNotes": [],
+    "unlocks": [],
+    "sources": [
+      {
+        "site": "MHXX攻略レシピ",
+        "url": "http://wiki.mhxg.org/ida/219989.html",
+        "kind": "detail",
+        "checkedAt": "2026-10-15"
+      },
+      {
+        "site": "MHXX攻略レシピ（ランク一覧）",
+        "url": "http://wiki.mhxg.org/data/2014.html",
+        "kind": "list",
+        "checkedAt": "2026-10-15"
+      }
+    ],
+    "verification": "partial",
+    "verificationNote": "攻略レシピの明記を採用。通常の会話・報告は補足に分離。解放要素の未記載は「なし」と断定していません。",
+    "warnings": []
+  },
+  {
+    "id": "village-4-recipe-220209",
+    "name": "スプラッシュ・ストリーム",
+    "rank": "4",
+    "category": "village",
+    "order": 15,
+    "role": "hunter",
+    "tags": [
+      "request"
+    ],
+    "condition": {
+      "kind": "all",
+      "rules": [
+        {
+          "kind": "quest_cleared",
+          "questId": "village-3-recipe-220190"
+        },
+        {
+          "kind": "quest_cleared",
+          "questId": "village-4-recipe-219987"
+        }
+      ]
+    },
+    "npcNotes": [
+      "モガの村の農場長の依頼1を達成し、必要な報告を行う。",
+      "ユクモ村 モガの村の農場長の依頼2を受注する。"
+    ],
+    "unlocks": [],
+    "sources": [
+      {
+        "site": "MHXX攻略レシピ",
+        "url": "http://wiki.mhxg.org/ida/220209.html",
+        "kind": "detail",
+        "checkedAt": "2026-10-15"
+      },
+      {
+        "site": "MHXX攻略レシピ（ランク一覧）",
+        "url": "http://wiki.mhxg.org/data/2014.html",
+        "kind": "list",
+        "checkedAt": "2026-10-15"
+      }
+    ],
+    "verification": "partial",
+    "verificationNote": "攻略レシピの明記を採用。通常の会話・報告は補足に分離。解放要素の未記載は「なし」と断定していません。",
+    "warnings": []
+  },
+  {
+    "id": "village-4-recipe-220210",
+    "name": "ぎょーしょーしゅぎょー",
+    "rank": "4",
+    "category": "village",
+    "order": 16,
+    "role": "hunter",
+    "tags": [
+      "request"
+    ],
+    "condition": {
+      "kind": "all",
+      "rules": [
+        {
+          "kind": "quest_cleared",
+          "questId": "village-2-recipe-220164"
+        },
+        {
+          "kind": "quest_cleared",
+          "questId": "village-4-recipe-219987"
+        }
+      ]
+    },
+    "npcNotes": [
+      "ユクモ村 シナト村の女の子の依頼を受注する。"
+    ],
+    "unlocks": [
+      {
+        "kind": "food",
+        "label": "完熟シナトマト",
+        "note": "依頼達成・報告後に追加。実際の追加状態はゲーム内で確認。"
+      }
+    ],
+    "sources": [
+      {
+        "site": "MHXX攻略レシピ",
+        "url": "http://wiki.mhxg.org/ida/220210.html",
+        "kind": "detail",
+        "checkedAt": "2026-10-15"
+      },
+      {
+        "site": "MHXX攻略レシピ（ランク一覧）",
+        "url": "http://wiki.mhxg.org/data/2014.html",
+        "kind": "list",
+        "checkedAt": "2026-10-15"
+      }
+    ],
+    "verification": "partial",
+    "verificationNote": "攻略レシピの明記を採用。通常の会話・報告は補足に分離。解放要素の未記載は「なし」と断定していません。",
+    "warnings": []
+  },
+  {
+    "id": "village-4-recipe-220211",
+    "name": "孤島の鳥",
+    "rank": "4",
+    "category": "village",
+    "order": 17,
+    "role": "hunter",
+    "tags": [
+      "request"
+    ],
+    "condition": {
+      "kind": "all",
+      "rules": [
+        {
+          "kind": "quest_cleared",
+          "questId": "village-2-recipe-220164"
+        },
+        {
+          "kind": "external_flag",
+          "label": "モガの村長の息子の依頼1：生肉3個の納品済み状態"
+        },
+        {
+          "kind": "quest_cleared",
+          "questId": "village-4-recipe-219987"
+        }
+      ]
+    },
+    "npcNotes": [
+      "ユクモ村 モガの村長の息子の依頼2を受注する。"
+    ],
+    "unlocks": [],
+    "sources": [
+      {
+        "site": "MHXX攻略レシピ",
+        "url": "http://wiki.mhxg.org/ida/220211.html",
+        "kind": "detail",
+        "checkedAt": "2026-10-15"
+      },
+      {
+        "site": "MHXX攻略レシピ（ランク一覧）",
+        "url": "http://wiki.mhxg.org/data/2014.html",
+        "kind": "list",
+        "checkedAt": "2026-10-15"
+      },
+      {
+        "site": "MHXX攻略レシピ（前提依頼）",
+        "url": "http://wiki.mhxg.org/ida/243466.html",
+        "kind": "detail",
+        "checkedAt": "2026-10-15"
+      }
+    ],
+    "verification": "partial",
+    "verificationNote": "攻略レシピの明記を採用。通常の会話・報告は補足に分離。解放要素の未記載は「なし」と断定していません。",
+    "warnings": []
+  },
+  {
+    "id": "village-4-recipe-220212",
+    "name": "鬼達も引っくりかえる晩餐？",
+    "rank": "4",
+    "category": "village",
+    "order": 18,
+    "role": "hunter",
+    "tags": [
+      "normal"
+    ],
+    "condition": {
+      "kind": "quest_cleared",
+      "questId": "village-4-recipe-219987"
+    },
+    "npcNotes": [],
+    "unlocks": [],
+    "sources": [
+      {
+        "site": "MHXX攻略レシピ",
+        "url": "http://wiki.mhxg.org/ida/220212.html",
+        "kind": "detail",
+        "checkedAt": "2026-10-15"
+      },
+      {
+        "site": "MHXX攻略レシピ（ランク一覧）",
+        "url": "http://wiki.mhxg.org/data/2014.html",
+        "kind": "list",
+        "checkedAt": "2026-10-15"
+      }
+    ],
+    "verification": "partial",
+    "verificationNote": "攻略レシピの明記を採用。通常の会話・報告は補足に分離。解放要素の未記載は「なし」と断定していません。",
+    "warnings": []
+  },
+  {
+    "id": "village-4-recipe-220213",
+    "name": "チコ村のヒーロー伝説",
+    "rank": "4",
+    "category": "village",
+    "order": 19,
+    "role": "hunter",
+    "tags": [
+      "request"
+    ],
+    "condition": {
+      "kind": "all",
+      "rules": [
+        {
+          "kind": "quest_cleared",
+          "questId": "village-3-recipe-220174"
+        },
+        {
+          "kind": "quest_cleared",
+          "questId": "village-4-recipe-219987"
+        }
+      ]
+    },
+    "npcNotes": [
+      "チコ村の村長の依頼1を達成し、必要な報告を行う。",
+      "ベルナ村 チコ村の村長の依頼2を受注する。"
+    ],
+    "unlocks": [
+      {
+        "kind": "other",
+        "label": "アイルーラグドール（製法）",
+        "note": "依頼達成・報告後の製法解放。装備そのものの入手ではありません。"
+      },
+      {
+        "kind": "other",
+        "label": "メラルーラグドール（製法）",
+        "note": "依頼達成・報告後の製法解放。装備そのものの入手ではありません。"
+      }
+    ],
+    "sources": [
+      {
+        "site": "MHXX攻略レシピ",
+        "url": "http://wiki.mhxg.org/ida/220213.html",
+        "kind": "detail",
+        "checkedAt": "2026-10-15"
+      },
+      {
+        "site": "MHXX攻略レシピ（ランク一覧）",
+        "url": "http://wiki.mhxg.org/data/2014.html",
+        "kind": "list",
+        "checkedAt": "2026-10-15"
+      }
+    ],
+    "verification": "partial",
+    "verificationNote": "攻略レシピの明記を採用。通常の会話・報告は補足に分離。解放要素の未記載は「なし」と断定していません。",
+    "warnings": []
+  },
+  {
+    "id": "village-4-recipe-220214",
+    "name": "湿地帯の鎌蟹",
+    "rank": "4",
+    "category": "village",
+    "order": 20,
+    "role": "hunter",
+    "tags": [
+      "normal"
+    ],
+    "condition": {
+      "kind": "quest_cleared",
+      "questId": "village-4-recipe-219992"
+    },
+    "npcNotes": [],
+    "unlocks": [],
+    "sources": [
+      {
+        "site": "MHXX攻略レシピ",
+        "url": "http://wiki.mhxg.org/ida/220214.html",
+        "kind": "detail",
+        "checkedAt": "2026-10-15"
+      },
+      {
+        "site": "MHXX攻略レシピ（ランク一覧）",
+        "url": "http://wiki.mhxg.org/data/2014.html",
+        "kind": "list",
+        "checkedAt": "2026-10-15"
+      }
+    ],
+    "verification": "partial",
+    "verificationNote": "攻略レシピの明記を採用。通常の会話・報告は補足に分離。解放要素の未記載は「なし」と断定していません。",
+    "warnings": []
+  },
+  {
+    "id": "village-4-recipe-219990",
+    "name": "絞蛇竜は踊り奏でる",
+    "rank": "4",
+    "category": "village",
+    "order": 21,
+    "role": "hunter",
+    "tags": [
+      "key"
+    ],
+    "condition": {
+      "kind": "quest_cleared",
+      "questId": "village-4-recipe-219987"
+    },
+    "npcNotes": [],
+    "unlocks": [],
+    "sources": [
+      {
+        "site": "MHXX攻略レシピ",
+        "url": "http://wiki.mhxg.org/ida/219990.html",
+        "kind": "detail",
+        "checkedAt": "2026-10-15"
+      },
+      {
+        "site": "MHXX攻略レシピ（ランク一覧）",
+        "url": "http://wiki.mhxg.org/data/2014.html",
+        "kind": "list",
+        "checkedAt": "2026-10-15"
+      }
+    ],
+    "verification": "partial",
+    "verificationNote": "攻略レシピの明記を採用。通常の会話・報告は補足に分離。解放要素の未記載は「なし」と断定していません。",
+    "warnings": []
+  },
+  {
+    "id": "village-4-recipe-219991",
+    "name": "恐怖…！沼地の怪談",
+    "rank": "4",
+    "category": "village",
+    "order": 22,
+    "role": "hunter",
+    "tags": [
+      "key"
+    ],
+    "condition": {
+      "kind": "quest_cleared",
+      "questId": "village-4-recipe-219987"
+    },
+    "npcNotes": [],
+    "unlocks": [],
+    "sources": [
+      {
+        "site": "MHXX攻略レシピ",
+        "url": "http://wiki.mhxg.org/ida/219991.html",
+        "kind": "detail",
+        "checkedAt": "2026-10-15"
+      },
+      {
+        "site": "MHXX攻略レシピ（ランク一覧）",
+        "url": "http://wiki.mhxg.org/data/2014.html",
+        "kind": "list",
+        "checkedAt": "2026-10-15"
+      }
+    ],
+    "verification": "partial",
+    "verificationNote": "攻略レシピの明記を採用。通常の会話・報告は補足に分離。解放要素の未記載は「なし」と断定していません。",
+    "warnings": []
+  },
+  {
+    "id": "village-4-recipe-220215",
+    "name": "ガミザミの群れを掃討せよ！",
+    "rank": "4",
+    "category": "village",
+    "order": 23,
+    "role": "hunter",
+    "tags": [
+      "normal"
+    ],
+    "condition": {
+      "kind": "quest_cleared",
+      "questId": "village-4-recipe-219987"
+    },
+    "npcNotes": [],
+    "unlocks": [],
+    "sources": [
+      {
+        "site": "MHXX攻略レシピ",
+        "url": "http://wiki.mhxg.org/ida/220215.html",
+        "kind": "detail",
+        "checkedAt": "2026-10-15"
+      },
+      {
+        "site": "MHXX攻略レシピ（ランク一覧）",
+        "url": "http://wiki.mhxg.org/data/2014.html",
+        "kind": "list",
+        "checkedAt": "2026-10-15"
+      }
+    ],
+    "verification": "partial",
+    "verificationNote": "攻略レシピの明記を採用。通常の会話・報告は補足に分離。解放要素の未記載は「なし」と断定していません。",
+    "warnings": []
+  },
+  {
+    "id": "village-4-recipe-220216",
+    "name": "落石注意！？",
+    "rank": "4",
+    "category": "village",
+    "order": 24,
+    "role": "hunter",
+    "tags": [
+      "normal"
+    ],
+    "condition": {
+      "kind": "quest_cleared",
+      "questId": "village-4-recipe-219987"
+    },
+    "npcNotes": [],
+    "unlocks": [],
+    "sources": [
+      {
+        "site": "MHXX攻略レシピ",
+        "url": "http://wiki.mhxg.org/ida/220216.html",
+        "kind": "detail",
+        "checkedAt": "2026-10-15"
+      },
+      {
+        "site": "MHXX攻略レシピ（ランク一覧）",
+        "url": "http://wiki.mhxg.org/data/2014.html",
+        "kind": "list",
+        "checkedAt": "2026-10-15"
+      }
+    ],
+    "verification": "partial",
+    "verificationNote": "攻略レシピの明記を採用。通常の会話・報告は補足に分離。解放要素の未記載は「なし」と断定していません。",
+    "warnings": []
+  },
+  {
+    "id": "village-4-recipe-219992",
+    "name": "ショウグンギザミを愛でたくて",
+    "rank": "4",
+    "category": "village",
+    "order": 25,
+    "role": "hunter",
+    "tags": [
+      "key"
+    ],
+    "condition": {
+      "kind": "quest_cleared",
+      "questId": "village-4-recipe-219987"
+    },
+    "npcNotes": [],
+    "unlocks": [],
+    "sources": [
+      {
+        "site": "MHXX攻略レシピ",
+        "url": "http://wiki.mhxg.org/ida/219992.html",
+        "kind": "detail",
+        "checkedAt": "2026-10-15"
+      },
+      {
+        "site": "MHXX攻略レシピ（ランク一覧）",
+        "url": "http://wiki.mhxg.org/data/2014.html",
+        "kind": "list",
+        "checkedAt": "2026-10-15"
+      }
+    ],
+    "verification": "partial",
+    "verificationNote": "攻略レシピの明記を採用。通常の会話・報告は補足に分離。解放要素の未記載は「なし」と断定していません。",
+    "warnings": []
+  },
+  {
+    "id": "village-4-recipe-220217",
+    "name": "溶岩獣を討伐せよ",
+    "rank": "4",
+    "category": "village",
+    "order": 26,
+    "role": "hunter",
+    "tags": [
+      "normal"
+    ],
+    "condition": {
+      "kind": "quest_cleared",
+      "questId": "village-4-recipe-219987"
+    },
+    "npcNotes": [],
+    "unlocks": [],
+    "sources": [
+      {
+        "site": "MHXX攻略レシピ",
+        "url": "http://wiki.mhxg.org/ida/220217.html",
+        "kind": "detail",
+        "checkedAt": "2026-10-15"
+      },
+      {
+        "site": "MHXX攻略レシピ（ランク一覧）",
+        "url": "http://wiki.mhxg.org/data/2014.html",
+        "kind": "list",
+        "checkedAt": "2026-10-15"
+      }
+    ],
+    "verification": "partial",
+    "verificationNote": "攻略レシピの明記を採用。通常の会話・報告は補足に分離。解放要素の未記載は「なし」と断定していません。",
+    "warnings": []
+  },
+  {
+    "id": "village-4-recipe-220218",
+    "name": "大鉱脈、発見さる！",
+    "rank": "4",
+    "category": "village",
+    "order": 27,
+    "role": "hunter",
+    "tags": [
+      "normal"
+    ],
+    "condition": {
+      "kind": "quest_cleared",
+      "questId": "village-4-recipe-219987"
+    },
+    "npcNotes": [],
+    "unlocks": [],
+    "sources": [
+      {
+        "site": "MHXX攻略レシピ",
+        "url": "http://wiki.mhxg.org/ida/220218.html",
+        "kind": "detail",
+        "checkedAt": "2026-10-15"
+      },
+      {
+        "site": "MHXX攻略レシピ（ランク一覧）",
+        "url": "http://wiki.mhxg.org/data/2014.html",
+        "kind": "list",
+        "checkedAt": "2026-10-15"
+      }
+    ],
+    "verification": "partial",
+    "verificationNote": "攻略レシピの明記を採用。通常の会話・報告は補足に分離。解放要素の未記載は「なし」と断定していません。",
+    "warnings": []
+  },
+  {
+    "id": "village-4-recipe-220219",
+    "name": "火山の精算アイテム納品",
+    "rank": "4",
+    "category": "village",
+    "order": 28,
+    "role": "hunter",
+    "tags": [
+      "normal"
+    ],
+    "condition": {
+      "kind": "quest_cleared",
+      "questId": "village-4-recipe-219987"
+    },
+    "npcNotes": [],
+    "unlocks": [],
+    "sources": [
+      {
+        "site": "MHXX攻略レシピ",
+        "url": "http://wiki.mhxg.org/ida/220219.html",
+        "kind": "detail",
+        "checkedAt": "2026-10-15"
+      },
+      {
+        "site": "MHXX攻略レシピ（ランク一覧）",
+        "url": "http://wiki.mhxg.org/data/2014.html",
+        "kind": "list",
+        "checkedAt": "2026-10-15"
+      }
+    ],
+    "verification": "partial",
+    "verificationNote": "攻略レシピの明記を採用。通常の会話・報告は補足に分離。解放要素の未記載は「なし」と断定していません。",
+    "warnings": []
+  },
+  {
+    "id": "village-4-recipe-238187",
+    "name": "跳狗竜の頭部破壊に挑戦！",
+    "rank": "4",
+    "category": "village",
+    "order": 29,
+    "role": "prowler",
+    "tags": [
+      "normal"
+    ],
+    "condition": {
+      "kind": "quest_cleared",
+      "questId": "village-3-recipe-238186"
+    },
+    "npcNotes": [],
+    "unlocks": [],
+    "sources": [
+      {
+        "site": "MHXX攻略レシピ",
+        "url": "http://wiki.mhxg.org/ida/238187.html",
+        "kind": "detail",
+        "checkedAt": "2026-10-15"
+      },
+      {
+        "site": "MHXX攻略レシピ（ランク一覧）",
+        "url": "http://wiki.mhxg.org/data/2014.html",
+        "kind": "list",
+        "checkedAt": "2026-10-15"
+      }
+    ],
+    "verification": "partial",
+    "verificationNote": "攻略レシピの明記を採用。通常の会話・報告は補足に分離。解放要素の未記載は「なし」と断定していません。",
+    "warnings": [
+      "具体的な施設・交易の解放内容と追加条件は未確認です。"
+    ]
+  },
+  {
+    "id": "village-4-recipe-238188",
+    "name": "高速突進の交差点",
+    "rank": "4",
+    "category": "village",
+    "order": 30,
+    "role": "prowler",
+    "tags": [
+      "normal"
+    ],
+    "condition": {
+      "kind": "quest_cleared",
+      "questId": "village-4-recipe-238187"
+    },
+    "npcNotes": [],
+    "unlocks": [],
+    "sources": [
+      {
+        "site": "MHXX攻略レシピ",
+        "url": "http://wiki.mhxg.org/ida/238188.html",
+        "kind": "detail",
+        "checkedAt": "2026-10-15"
+      },
+      {
+        "site": "MHXX攻略レシピ（ランク一覧）",
+        "url": "http://wiki.mhxg.org/data/2014.html",
+        "kind": "list",
+        "checkedAt": "2026-10-15"
+      }
+    ],
+    "verification": "partial",
+    "verificationNote": "攻略レシピの明記を採用。通常の会話・報告は補足に分離。解放要素の未記載は「なし」と断定していません。",
+    "warnings": []
+  },
+  {
+    "id": "village-4-recipe-238189",
+    "name": "アヤシイお仕事",
+    "rank": "4",
+    "category": "village",
+    "order": 31,
+    "role": "prowler",
+    "tags": [
+      "normal"
+    ],
+    "condition": {
+      "kind": "quest_cleared",
+      "questId": "village-4-recipe-238187"
+    },
+    "npcNotes": [],
+    "unlocks": [],
+    "sources": [
+      {
+        "site": "MHXX攻略レシピ",
+        "url": "http://wiki.mhxg.org/ida/238189.html",
+        "kind": "detail",
+        "checkedAt": "2026-10-15"
+      },
+      {
+        "site": "MHXX攻略レシピ（ランク一覧）",
+        "url": "http://wiki.mhxg.org/data/2014.html",
+        "kind": "list",
+        "checkedAt": "2026-10-15"
+      }
+    ],
+    "verification": "partial",
+    "verificationNote": "攻略レシピの明記を採用。通常の会話・報告は補足に分離。解放要素の未記載は「なし」と断定していません。",
+    "warnings": []
+  },
+  {
+    "id": "village-4-recipe-238190",
+    "name": "ザザミソは隠し味",
+    "rank": "4",
+    "category": "village",
+    "order": 32,
+    "role": "prowler",
+    "tags": [
+      "normal"
+    ],
+    "condition": {
+      "kind": "quest_cleared",
+      "questId": "village-4-recipe-238187"
+    },
+    "npcNotes": [],
+    "unlocks": [],
+    "sources": [
+      {
+        "site": "MHXX攻略レシピ",
+        "url": "http://wiki.mhxg.org/ida/238190.html",
+        "kind": "detail",
+        "checkedAt": "2026-10-15"
+      },
+      {
+        "site": "MHXX攻略レシピ（ランク一覧）",
+        "url": "http://wiki.mhxg.org/data/2014.html",
+        "kind": "list",
+        "checkedAt": "2026-10-15"
+      }
+    ],
+    "verification": "partial",
+    "verificationNote": "攻略レシピの明記を採用。通常の会話・報告は補足に分離。解放要素の未記載は「なし」と断定していません。",
+    "warnings": []
+  },
+  {
+    "id": "village-4-recipe-238191",
+    "name": "沼地は釣りの穴場？",
+    "rank": "4",
+    "category": "village",
+    "order": 33,
+    "role": "prowler",
+    "tags": [
+      "normal"
+    ],
+    "condition": {
+      "kind": "any",
+      "rules": [
+        {
+          "kind": "all",
+          "rules": [
+            {
+              "kind": "quest_cleared",
+              "questId": "village-4-recipe-238187"
+            },
+            {
+              "kind": "quest_cleared",
+              "questId": "village-4-recipe-238188"
+            }
+          ]
+        },
+        {
+          "kind": "all",
+          "rules": [
+            {
+              "kind": "quest_cleared",
+              "questId": "village-4-recipe-238187"
+            },
+            {
+              "kind": "quest_cleared",
+              "questId": "village-4-recipe-238189"
+            }
+          ]
+        },
+        {
+          "kind": "all",
+          "rules": [
+            {
+              "kind": "quest_cleared",
+              "questId": "village-4-recipe-238187"
+            },
+            {
+              "kind": "quest_cleared",
+              "questId": "village-4-recipe-238190"
+            }
+          ]
+        },
+        {
+          "kind": "all",
+          "rules": [
+            {
+              "kind": "quest_cleared",
+              "questId": "village-4-recipe-238188"
+            },
+            {
+              "kind": "quest_cleared",
+              "questId": "village-4-recipe-238189"
+            }
+          ]
+        },
+        {
+          "kind": "all",
+          "rules": [
+            {
+              "kind": "quest_cleared",
+              "questId": "village-4-recipe-238188"
+            },
+            {
+              "kind": "quest_cleared",
+              "questId": "village-4-recipe-238190"
+            }
+          ]
+        },
+        {
+          "kind": "all",
+          "rules": [
+            {
+              "kind": "quest_cleared",
+              "questId": "village-4-recipe-238189"
+            },
+            {
+              "kind": "quest_cleared",
+              "questId": "village-4-recipe-238190"
+            }
+          ]
+        }
+      ]
+    },
+    "npcNotes": [],
+    "unlocks": [
+      {
+        "kind": "trade",
+        "label": "タンジア鮮魚市での交易",
+        "note": "このクエストのクリア、または専門Wikiが記す「集会所★3緊急クリア」で利用できる経路。別経路の達成はこのチェックでは判定しません。"
+      }
+    ],
+    "sources": [
+      {
+        "site": "MHXX攻略レシピ",
+        "url": "http://wiki.mhxg.org/ida/238191.html",
+        "kind": "detail",
+        "checkedAt": "2026-10-15"
+      },
+      {
+        "site": "MHXX攻略レシピ（ランク一覧）",
+        "url": "http://wiki.mhxg.org/data/2014.html",
+        "kind": "list",
+        "checkedAt": "2026-10-15"
+      },
+      {
+        "site": "MHXX攻略Wiki（交易）",
+        "url": "https://mhx-wiki.com/?cmd=read&page=%E3%81%82%E3%81%AE%E7%B4%A0%E6%9D%90%E3%81%A9%E3%81%93%E3%81%A7%E5%85%A5%E6%89%8B%E3%81%A7%E3%81%8D%E3%82%8B%EF%BC%9F&word=%E5%8F%A4%E4%BB%A3%E6%9E%97%E3%81%AE%E3%82%AD%E3%83%8E%E3%82%B3%E7%94%9F%E6%85%8B%E8%AA%BF%E6%9F%BB",
+        "kind": "detail",
+        "checkedAt": "2026-10-15"
+      }
+    ],
+    "verification": "partial",
+    "verificationNote": "攻略レシピの明記を採用。通常の会話・報告は補足に分離。解放要素の未記載は「なし」と断定していません。",
+    "warnings": []
+  },
+  {
+    "id": "village-4-recipe-238192",
+    "name": "雪山のポイント捜索隊！",
+    "rank": "4",
+    "category": "village",
+    "order": 34,
+    "role": "prowler",
+    "tags": [
+      "normal"
+    ],
+    "condition": {
+      "kind": "any",
+      "rules": [
+        {
+          "kind": "all",
+          "rules": [
+            {
+              "kind": "quest_cleared",
+              "questId": "village-4-recipe-238187"
+            },
+            {
+              "kind": "quest_cleared",
+              "questId": "village-4-recipe-238188"
+            }
+          ]
+        },
+        {
+          "kind": "all",
+          "rules": [
+            {
+              "kind": "quest_cleared",
+              "questId": "village-4-recipe-238187"
+            },
+            {
+              "kind": "quest_cleared",
+              "questId": "village-4-recipe-238189"
+            }
+          ]
+        },
+        {
+          "kind": "all",
+          "rules": [
+            {
+              "kind": "quest_cleared",
+              "questId": "village-4-recipe-238187"
+            },
+            {
+              "kind": "quest_cleared",
+              "questId": "village-4-recipe-238190"
+            }
+          ]
+        },
+        {
+          "kind": "all",
+          "rules": [
+            {
+              "kind": "quest_cleared",
+              "questId": "village-4-recipe-238188"
+            },
+            {
+              "kind": "quest_cleared",
+              "questId": "village-4-recipe-238189"
+            }
+          ]
+        },
+        {
+          "kind": "all",
+          "rules": [
+            {
+              "kind": "quest_cleared",
+              "questId": "village-4-recipe-238188"
+            },
+            {
+              "kind": "quest_cleared",
+              "questId": "village-4-recipe-238190"
+            }
+          ]
+        },
+        {
+          "kind": "all",
+          "rules": [
+            {
+              "kind": "quest_cleared",
+              "questId": "village-4-recipe-238189"
+            },
+            {
+              "kind": "quest_cleared",
+              "questId": "village-4-recipe-238190"
+            }
+          ]
+        }
+      ]
+    },
+    "npcNotes": [],
+    "unlocks": [],
+    "sources": [
+      {
+        "site": "MHXX攻略レシピ",
+        "url": "http://wiki.mhxg.org/ida/238192.html",
+        "kind": "detail",
+        "checkedAt": "2026-10-15"
+      },
+      {
+        "site": "MHXX攻略レシピ（ランク一覧）",
+        "url": "http://wiki.mhxg.org/data/2014.html",
+        "kind": "list",
+        "checkedAt": "2026-10-15"
+      }
+    ],
+    "verification": "partial",
+    "verificationNote": "攻略レシピの明記を採用。通常の会話・報告は補足に分離。解放要素の未記載は「なし」と断定していません。",
+    "warnings": [
+      "具体的な施設・交易の解放内容と追加条件は未確認です。"
+    ]
+  }
+]

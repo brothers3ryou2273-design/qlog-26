@@ -17,6 +17,10 @@ export type Quest = {
   role: "hunter" | "prowler" | "either";
   tags: QuestTag[];
   condition: Rule;
+  /** Ordinary NPC operations are instructions, not automatic eligibility gates. */
+  npcNotes?: string[];
+  /** Important unresolved facts, shown separately from internal verification status. */
+  warnings?: string[];
   unlocks: {
     kind: "food" | "hunter_art" | "trade" | "facility" | "other";
     label: string;
