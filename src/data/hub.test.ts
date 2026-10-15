@@ -46,7 +46,10 @@ describe("observed hub rosters and cross-category dependencies", () => {
                 p.sources[0].url === owner?.recipeUrl ||
                 p.sources[0].url ===
                   villageAudit.ranks
-                    .flatMap((r) => r.entries)
+                    .flatMap<{
+                      recipeUrl: string;
+                      requestUrlFromDetail: string | null;
+                    }>((r) => r.entries)
                     .find((e) => e.requestUrlFromDetail === link.url)
                     ?.recipeUrl,
             );
@@ -60,7 +63,7 @@ describe("observed hub rosters and cross-category dependencies", () => {
       expect(validateQuests(quests)).toEqual([]);
     });
   }
-  it("preserves every village ID and unlock, including prior research", () => {
+  it("preserves every village ID and unlock, including prior research", async () => {
     expect(baseline).toHaveLength(370);
     expect(
       quests.filter((q) => q.category === "village").map((q) => q.id),
@@ -69,6 +72,25 @@ describe("observed hub rosters and cross-category dependencies", () => {
       const q = quests.find((q) => q.id === b.id)!;
       expect([q.name, q.rank]).toEqual([b.name, b.rank]);
       expect(q.unlocks).toEqual(expect.arrayContaining(b.unlocks));
+      if (!connections.changes.some((c) => c.questId === b.id)) {
+        const canonical = JSON.stringify(q.condition, [
+          "kind",
+          "label",
+          "note",
+          "questId",
+          "rules",
+          "value",
+        ]);
+        const digest = await crypto.subtle.digest(
+          "SHA-256",
+          new TextEncoder().encode(canonical),
+        );
+        expect(
+          Array.from(new Uint8Array(digest), (b) =>
+            b.toString(16).padStart(2, "0"),
+          ).join(""),
+        ).toBe(b.conditionSha256);
+      }
     }
   });
   it("connects audited village prerequisites in both directions, preserving every other gate", () => {
@@ -211,4 +233,49 @@ it("partly resolves the village-10 chain without erasing hub-5, HR5 or other vil
     evaluate(q.condition, { schemaVersion: 1, completedQuestIds, hr: 5 }),
   ).toBe("unknown");
   expect(dependents(hub.id, quests)).toContain(q);
+});
+
+it("registers exact primary art releases, foods, recipes, and conservative facility findings", () => {
+  const hub = quests.filter((q) => q.category === "hub");
+  const arts = hub.flatMap((q) =>
+    q.unlocks.filter((u) => u.kind === "hunter_art"),
+  );
+  expect(arts).toHaveLength(50);
+  const foods = hub.flatMap((q) => q.unlocks.filter((u) => u.kind === "food"));
+  expect(foods.map((u) => u.label)).toEqual([
+    "チココーン",
+    "モグモガーリック",
+    "サイコロミート",
+  ]);
+  expect(foods.every((u) => u.note?.includes("報告"))).toBe(true);
+  const sameNameVillage = quests.find(
+    (q) => q.category === "village" && q.name === "廻り集いて回帰せん",
+  )!;
+  const sameNameHub = hub.find((q) => q.name === "廻り集いて回帰せん")!;
+  expect(sameNameVillage.id).not.toBe(sameNameHub.id);
+  expect(sameNameHub.unlocks).toContainEqual(
+    expect.objectContaining({
+      kind: "hunter_art",
+      label: "ラピッドヘブン LV2",
+    }),
+  );
+  expect(
+    sameNameHub.unlocks.some((u) => u.label === "バレットゲイザー LV2"),
+  ).toBe(false);
+  expect(hub.filter((q) => q.warnings?.length).map((q) => q.name)).toEqual([
+    "雪山の主、ドドブランゴ",
+    "電の反逆者",
+    "双頭の骸",
+  ]);
+  const skull = hub.find((q) => q.name === "双頭の骸")!;
+  expect(skull.unlocks).toContainEqual(
+    expect.objectContaining({
+      kind: "facility",
+      label: "オトモの初期雇用レベル5〜7の解放経路",
+      note: expect.stringContaining("（OR）"),
+    }),
+  );
+  expect(hub.flatMap((q) => q.unlocks).some((u) => u.kind === "trade")).toBe(
+    false,
+  ); // Ambiguous ★3 urgent must not become a fabricated route.
 });

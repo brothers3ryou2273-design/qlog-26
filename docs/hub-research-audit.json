@@ -1,0 +1,933 @@
+{
+  "checkedAt": "2026-10-16",
+  "sourcePriority": [
+    "実機で確認された情報（今回は未実施）",
+    "MHXX攻略レシピ",
+    "MHXX専門Wiki",
+    "Game8等企業系Wiki"
+  ],
+  "rosterComparisons": [
+    {
+      "rank": "1",
+      "primaryCount": 31,
+      "game8Count": 31,
+      "game8ListUrl": "https://game8.jp/mh-xx/824266",
+      "matches": [
+        {
+          "primaryName": "古代林の採集ツアー",
+          "primaryUrl": "http://wiki.mhxg.org/ida/218337.html",
+          "game8Name": "古代林の採集ツアー",
+          "game8Url": "https://game8.jp/mh-xx/823264"
+        },
+        {
+          "primaryName": "旧砂漠の採集ツアー",
+          "primaryUrl": "http://wiki.mhxg.org/ida/219138.html",
+          "game8Name": "旧砂漠の採集ツアー",
+          "game8Url": "https://game8.jp/mh-xx/823265"
+        },
+        {
+          "primaryName": "森丘の採集ツアー",
+          "primaryUrl": "http://wiki.mhxg.org/ida/219139.html",
+          "game8Name": "森丘の採集ツアー",
+          "game8Url": "https://game8.jp/mh-xx/823266"
+        },
+        {
+          "primaryName": "雪山の採集ツアー",
+          "primaryUrl": "http://wiki.mhxg.org/ida/219140.html",
+          "game8Name": "雪山の採集ツアー",
+          "game8Url": "https://game8.jp/mh-xx/823267"
+        },
+        {
+          "primaryName": "渓流の採集ツアー",
+          "primaryUrl": "http://wiki.mhxg.org/ida/219141.html",
+          "game8Name": "渓流の採集ツアー",
+          "game8Url": "https://game8.jp/mh-xx/823268"
+        },
+        {
+          "primaryName": "スピードキッカー",
+          "primaryUrl": "http://wiki.mhxg.org/ida/219142.html",
+          "game8Name": "スピードキッカー",
+          "game8Url": "https://game8.jp/mh-xx/823269"
+        },
+        {
+          "primaryName": "鬼蛙テツカブラの狩猟",
+          "primaryUrl": "http://wiki.mhxg.org/ida/219143.html",
+          "game8Name": "鬼蛙テツカブラの狩猟",
+          "game8Url": "https://game8.jp/mh-xx/823270"
+        },
+        {
+          "primaryName": "盗まれて古代林！",
+          "primaryUrl": "http://wiki.mhxg.org/ida/219144.html",
+          "game8Name": "盗まれて古代林！",
+          "game8Url": "https://game8.jp/mh-xx/823271"
+        },
+        {
+          "primaryName": "真っ赤な顔の荒くれ者",
+          "primaryUrl": "http://wiki.mhxg.org/ida/219145.html",
+          "game8Name": "真っ赤な顔の荒くれ者",
+          "game8Url": "https://game8.jp/mh-xx/823272"
+        },
+        {
+          "primaryName": "ゼンマイ肴に古代を感じて",
+          "primaryUrl": "http://wiki.mhxg.org/ida/219146.html",
+          "game8Name": "ゼンマイ肴に古代を感じて",
+          "game8Url": "https://game8.jp/mh-xx/823273"
+        },
+        {
+          "primaryName": "ドスゲネポスを狩れ！",
+          "primaryUrl": "http://wiki.mhxg.org/ida/219147.html",
+          "game8Name": "ドスゲネポスを狩れ！",
+          "game8Url": "https://game8.jp/mh-xx/823274"
+        },
+        {
+          "primaryName": "砂の竜を追跡せよ！",
+          "primaryUrl": "http://wiki.mhxg.org/ida/219148.html",
+          "game8Name": "砂の竜を追跡せよ！",
+          "game8Url": "https://game8.jp/mh-xx/823336"
+        },
+        {
+          "primaryName": "鉄壁の盾蟹",
+          "primaryUrl": "http://wiki.mhxg.org/ida/219149.html",
+          "game8Name": "鉄壁の盾蟹",
+          "game8Url": "https://game8.jp/mh-xx/823337"
+        },
+        {
+          "primaryName": "盾蟹たちの集い",
+          "primaryUrl": "http://wiki.mhxg.org/ida/219150.html",
+          "game8Name": "盾蟹たちの集い",
+          "game8Url": "https://game8.jp/mh-xx/823338"
+        },
+        {
+          "primaryName": "新たな食材ハンターの誕生！？",
+          "primaryUrl": "http://wiki.mhxg.org/ida/220241.html",
+          "game8Name": "新たな食材ハンターの誕生！？",
+          "game8Url": "https://game8.jp/mh-xx/823339"
+        },
+        {
+          "primaryName": "ドスランポスを狩猟せよ！",
+          "primaryUrl": "http://wiki.mhxg.org/ida/219151.html",
+          "game8Name": "ドスランポスを狩猟せよ！",
+          "game8Url": "https://game8.jp/mh-xx/823340"
+        },
+        {
+          "primaryName": "大怪鳥イャンクックを倒せ！",
+          "primaryUrl": "http://wiki.mhxg.org/ida/219152.html",
+          "game8Name": "大怪鳥イャンクックを倒せ！",
+          "game8Url": "https://game8.jp/mh-xx/823341"
+        },
+        {
+          "primaryName": "キノコ探しで大もうけ！？",
+          "primaryUrl": "http://wiki.mhxg.org/ida/219153.html",
+          "game8Name": "キノコ探しで大もうけ！？",
+          "game8Url": "https://game8.jp/mh-xx/823342"
+        },
+        {
+          "primaryName": "狡猾な襲撃者たち",
+          "primaryUrl": "http://wiki.mhxg.org/ida/219154.html",
+          "game8Name": "狡猾な襲撃者たち",
+          "game8Url": "https://game8.jp/mh-xx/823343"
+        },
+        {
+          "primaryName": "雪のちウルクスス",
+          "primaryUrl": "http://wiki.mhxg.org/ida/219155.html",
+          "game8Name": "雪のちウルクスス",
+          "game8Url": "https://game8.jp/mh-xx/823344"
+        },
+        {
+          "primaryName": "肉食竜の討伐！",
+          "primaryUrl": "http://wiki.mhxg.org/ida/219156.html",
+          "game8Name": "肉食竜の討伐！",
+          "game8Url": "https://game8.jp/mh-xx/823345"
+        },
+        {
+          "primaryName": "雪山草を探せ！",
+          "primaryUrl": "http://wiki.mhxg.org/ida/219157.html",
+          "game8Name": "雪山草を探せ！",
+          "game8Url": "https://game8.jp/mh-xx/823346"
+        },
+        {
+          "primaryName": "渓流の頭、ドスファンゴ",
+          "primaryUrl": "http://wiki.mhxg.org/ida/219158.html",
+          "game8Name": "渓流の頭、ドスファンゴ",
+          "game8Url": "https://game8.jp/mh-xx/823347"
+        },
+        {
+          "primaryName": "伝説のメニューに不可欠なモノ",
+          "primaryUrl": "http://wiki.mhxg.org/ida/220242.html",
+          "game8Name": "伝説のメニューに不可欠なモノ",
+          "game8Url": "https://game8.jp/mh-xx/823348"
+        },
+        {
+          "primaryName": "ロアルドロスを狩猟せよ！",
+          "primaryUrl": "http://wiki.mhxg.org/ida/219159.html",
+          "game8Name": "ロアルドロスを狩猟せよ！",
+          "game8Url": "https://game8.jp/mh-xx/823349"
+        },
+        {
+          "primaryName": "ルドロス討伐作戦！",
+          "primaryUrl": "http://wiki.mhxg.org/ida/219160.html",
+          "game8Name": "ルドロス討伐作戦！",
+          "game8Url": "https://game8.jp/mh-xx/823350"
+        },
+        {
+          "primaryName": "渓流のジャギィ討伐作戦",
+          "primaryUrl": "http://wiki.mhxg.org/ida/219161.html",
+          "game8Name": "渓流のジャギィ討伐作戦",
+          "game8Url": "https://game8.jp/mh-xx/823351"
+        },
+        {
+          "primaryName": "花の香りを掘り当てて",
+          "primaryUrl": "http://wiki.mhxg.org/ida/219162.html",
+          "game8Name": "花の香りを掘り当てて",
+          "game8Url": "https://game8.jp/mh-xx/823352"
+        },
+        {
+          "primaryName": "古代林のダンスパーティ",
+          "primaryUrl": "http://wiki.mhxg.org/ida/219163.html",
+          "game8Name": "古代林のダンスパーティ",
+          "game8Url": "https://game8.jp/mh-xx/823353"
+        },
+        {
+          "primaryName": "薬膳スープは雪山草仕立て",
+          "primaryUrl": "http://wiki.mhxg.org/ida/219164.html",
+          "game8Name": "薬膳スープは雪山草仕立て",
+          "game8Url": "https://game8.jp/mh-xx/823354"
+        },
+        {
+          "primaryName": "渓流のポイント招きネコ",
+          "primaryUrl": "http://wiki.mhxg.org/ida/219165.html",
+          "game8Name": "渓流のポイント招きネコ",
+          "game8Url": "https://game8.jp/mh-xx/823355"
+        }
+      ],
+      "primaryOnly": [],
+      "game8Only": []
+    },
+    {
+      "rank": "2",
+      "primaryCount": 35,
+      "game8Count": 35,
+      "game8ListUrl": "https://game8.jp/mh-xx/824266",
+      "matches": [
+        {
+          "primaryName": "孤島の採集ツアー",
+          "primaryUrl": "http://wiki.mhxg.org/ida/220243.html",
+          "game8Name": "孤島の採集ツアー",
+          "game8Url": "https://game8.jp/mh-xx/823356"
+        },
+        {
+          "primaryName": "沼地の採集ツアー",
+          "primaryUrl": "http://wiki.mhxg.org/ida/220244.html",
+          "game8Name": "沼地の採集ツアー",
+          "game8Url": "https://game8.jp/mh-xx/823357"
+        },
+        {
+          "primaryName": "不眠のあなたに催眠療法",
+          "primaryUrl": "http://wiki.mhxg.org/ida/220245.html",
+          "game8Name": "不眠のあなたに催眠療法",
+          "game8Url": "https://game8.jp/mh-xx/823358"
+        },
+        {
+          "primaryName": "赤甲獣ラングロトラ現る！",
+          "primaryUrl": "http://wiki.mhxg.org/ida/220246.html",
+          "game8Name": "赤甲獣ラングロトラ現る！",
+          "game8Url": "https://game8.jp/mh-xx/823359"
+        },
+        {
+          "primaryName": "草食竜と戯れて",
+          "primaryUrl": "http://wiki.mhxg.org/ida/220247.html",
+          "game8Name": "草食竜と戯れて",
+          "game8Url": "https://game8.jp/mh-xx/823360"
+        },
+        {
+          "primaryName": "砂上のテーブルマナー",
+          "primaryUrl": "http://wiki.mhxg.org/ida/219997.html",
+          "game8Name": "砂上のテーブルマナー",
+          "game8Url": "https://game8.jp/mh-xx/823361"
+        },
+        {
+          "primaryName": "マジヤベェ！舌！",
+          "primaryUrl": "http://wiki.mhxg.org/ida/220248.html",
+          "game8Name": "マジヤベェ！ 舌！",
+          "game8Url": "https://game8.jp/mh-xx/823362"
+        },
+        {
+          "primaryName": "２対の麻痺牙",
+          "primaryUrl": "http://wiki.mhxg.org/ida/220249.html",
+          "game8Name": "2対の麻痺牙",
+          "game8Url": "https://game8.jp/mh-xx/823363"
+        },
+        {
+          "primaryName": "クンチュウの行動研究",
+          "primaryUrl": "http://wiki.mhxg.org/ida/220250.html",
+          "game8Name": "クンチュウの行動研究",
+          "game8Url": "https://game8.jp/mh-xx/823364"
+        },
+        {
+          "primaryName": "幻のキモを追え！",
+          "primaryUrl": "http://wiki.mhxg.org/ida/220251.html",
+          "game8Name": "幻のキモを追え！",
+          "game8Url": "https://game8.jp/mh-xx/823365"
+        },
+        {
+          "primaryName": "ガララアジャラの狩猟",
+          "primaryUrl": "http://wiki.mhxg.org/ida/219998.html",
+          "game8Name": "ガララアジャラの狩猟",
+          "game8Url": "https://game8.jp/mh-xx/823366"
+        },
+        {
+          "primaryName": "失われた黒狼を求めて",
+          "primaryUrl": "http://wiki.mhxg.org/ida/219999.html",
+          "game8Name": "失われた黒狼を求めて",
+          "game8Url": "https://game8.jp/mh-xx/823367"
+        },
+        {
+          "primaryName": "無謀な弟子の、後始末",
+          "primaryUrl": "http://wiki.mhxg.org/ida/220252.html",
+          "game8Name": "無謀な弟子の、後始末",
+          "game8Url": "https://game8.jp/mh-xx/823368"
+        },
+        {
+          "primaryName": "食材の価値は鮮度なり",
+          "primaryUrl": "http://wiki.mhxg.org/ida/220253.html",
+          "game8Name": "食材の価値は鮮度なり",
+          "game8Url": "https://game8.jp/mh-xx/823369"
+        },
+        {
+          "primaryName": "雪山に潜む影",
+          "primaryUrl": "http://wiki.mhxg.org/ida/220254.html",
+          "game8Name": "雪山に潜む影",
+          "game8Url": "https://game8.jp/mh-xx/823370"
+        },
+        {
+          "primaryName": "雪山の主、ドドブランゴ",
+          "primaryUrl": "http://wiki.mhxg.org/ida/219996.html",
+          "game8Name": "雪山の主、ドドブランゴ",
+          "game8Url": "https://game8.jp/mh-xx/823371"
+        },
+        {
+          "primaryName": "ブランゴ討伐作戦",
+          "primaryUrl": "http://wiki.mhxg.org/ida/220255.html",
+          "game8Name": "ブランゴ討伐作戦",
+          "game8Url": "https://game8.jp/mh-xx/823372"
+        },
+        {
+          "primaryName": "研究サンプル捕獲作戦",
+          "primaryUrl": "http://wiki.mhxg.org/ida/220000.html",
+          "game8Name": "研究サンプル捕獲作戦",
+          "game8Url": "https://game8.jp/mh-xx/823373"
+        },
+        {
+          "primaryName": "女王、降臨す",
+          "primaryUrl": "http://wiki.mhxg.org/ida/220001.html",
+          "game8Name": "女王、降臨す",
+          "game8Url": "https://game8.jp/mh-xx/823374"
+        },
+        {
+          "primaryName": "輸送中！水獣の追従！",
+          "primaryUrl": "http://wiki.mhxg.org/ida/220256.html",
+          "game8Name": "輸送中！ 水獣の追従！",
+          "game8Url": "https://game8.jp/mh-xx/823375"
+        },
+        {
+          "primaryName": "渓流のジャギィノス退治",
+          "primaryUrl": "http://wiki.mhxg.org/ida/220257.html",
+          "game8Name": "渓流のジャギィノス退治",
+          "game8Url": "https://game8.jp/mh-xx/823376"
+        },
+        {
+          "primaryName": "夜鳥の鱗粉を掻い潜れ",
+          "primaryUrl": "http://wiki.mhxg.org/ida/220002.html",
+          "game8Name": "夜鳥の鱗粉を掻い潜れ",
+          "game8Url": "https://game8.jp/mh-xx/823377"
+        },
+        {
+          "primaryName": "疾風の迅竜",
+          "primaryUrl": "http://wiki.mhxg.org/ida/220258.html",
+          "game8Name": "疾風の迅竜",
+          "game8Url": "https://game8.jp/mh-xx/823378"
+        },
+        {
+          "primaryName": "馬力、怪力、テツカブラ！",
+          "primaryUrl": "http://wiki.mhxg.org/ida/220259.html",
+          "game8Name": "馬力、怪力、テツカブラ！",
+          "game8Url": "https://game8.jp/mh-xx/823379"
+        },
+        {
+          "primaryName": "孤島の相撲大会！",
+          "primaryUrl": "http://wiki.mhxg.org/ida/220260.html",
+          "game8Name": "孤島の相撲大会！",
+          "game8Url": "https://game8.jp/mh-xx/823380"
+        },
+        {
+          "primaryName": "飛甲虫たちの饗宴",
+          "primaryUrl": "http://wiki.mhxg.org/ida/220261.html",
+          "game8Name": "飛甲虫たちの饗宴",
+          "game8Url": "https://game8.jp/mh-xx/823381"
+        },
+        {
+          "primaryName": "ドスイーオスの毒牙",
+          "primaryUrl": "http://wiki.mhxg.org/ida/220262.html",
+          "game8Name": "ドスイーオスの毒牙",
+          "game8Url": "https://game8.jp/mh-xx/823382"
+        },
+        {
+          "primaryName": "空を切り裂く鎌",
+          "primaryUrl": "http://wiki.mhxg.org/ida/220263.html",
+          "game8Name": "空を切り裂く鎌",
+          "game8Url": "https://game8.jp/mh-xx/823383"
+        },
+        {
+          "primaryName": "絞蛇竜は踊り奏でる",
+          "primaryUrl": "http://wiki.mhxg.org/ida/220264.html",
+          "game8Name": "絞蛇竜は踊り奏でる",
+          "game8Url": "https://game8.jp/mh-xx/823384"
+        },
+        {
+          "primaryName": "イーオス討伐作戦！",
+          "primaryUrl": "http://wiki.mhxg.org/ida/220265.html",
+          "game8Name": "イーオス討伐作戦！",
+          "game8Url": "https://game8.jp/mh-xx/823385"
+        },
+        {
+          "primaryName": "巨大昆虫、発生！",
+          "primaryUrl": "http://wiki.mhxg.org/ida/220266.html",
+          "game8Name": "巨大昆虫、発生！",
+          "game8Url": "https://game8.jp/mh-xx/823386"
+        },
+        {
+          "primaryName": "調合素材を採取せよ！",
+          "primaryUrl": "http://wiki.mhxg.org/ida/220267.html",
+          "game8Name": "調合素材を採取せよ！",
+          "game8Url": "https://game8.jp/mh-xx/823387"
+        },
+        {
+          "primaryName": "闇夜を駆けるリノプロス",
+          "primaryUrl": "http://wiki.mhxg.org/ida/238219.html",
+          "game8Name": "闇夜を駆けるリノプロス",
+          "game8Url": "https://game8.jp/mh-xx/823388"
+        },
+        {
+          "primaryName": "孤島のコオロギ恋い焦がれ",
+          "primaryUrl": "http://wiki.mhxg.org/ida/238220.html",
+          "game8Name": "孤島のコオロギ恋い焦がれ",
+          "game8Url": "https://game8.jp/mh-xx/823389"
+        },
+        {
+          "primaryName": "絢爛豪華な武闘会",
+          "primaryUrl": "http://wiki.mhxg.org/ida/238221.html",
+          "game8Name": "絢爛豪華な武闘会",
+          "game8Url": "https://game8.jp/mh-xx/823390"
+        }
+      ],
+      "primaryOnly": [],
+      "game8Only": []
+    },
+    {
+      "rank": "3",
+      "primaryCount": 38,
+      "game8Count": 38,
+      "game8ListUrl": "https://game8.jp/mh-xx/824266",
+      "matches": [
+        {
+          "primaryName": "火山の採集ツアー",
+          "primaryUrl": "http://wiki.mhxg.org/ida/220268.html",
+          "game8Name": "火山の採集ツアー",
+          "game8Url": "https://game8.jp/mh-xx/823391"
+        },
+        {
+          "primaryName": "心火の斬竜炉",
+          "primaryUrl": "http://wiki.mhxg.org/ida/220269.html",
+          "game8Name": "心火の斬竜炉",
+          "game8Url": "https://game8.jp/mh-xx/823392"
+        },
+        {
+          "primaryName": "轟竜ティガレックス",
+          "primaryUrl": "http://wiki.mhxg.org/ida/220270.html",
+          "game8Name": "轟竜ティガレックス",
+          "game8Url": "https://game8.jp/mh-xx/823393"
+        },
+        {
+          "primaryName": "黒き衣を纏う竜",
+          "primaryUrl": "http://wiki.mhxg.org/ida/220271.html",
+          "game8Name": "黒き衣を纏う竜",
+          "game8Url": "https://game8.jp/mh-xx/823394"
+        },
+        {
+          "primaryName": "化石に眠る太古の記憶",
+          "primaryUrl": "http://wiki.mhxg.org/ida/220272.html",
+          "game8Name": "化石に眠る太古の記憶",
+          "game8Url": "https://game8.jp/mh-xx/823395"
+        },
+        {
+          "primaryName": "千刃、襲来",
+          "primaryUrl": "http://wiki.mhxg.org/ida/220273.html",
+          "game8Name": "千刃、襲来",
+          "game8Url": "https://game8.jp/mh-xx/823396"
+        },
+        {
+          "primaryName": "電の反逆者",
+          "primaryUrl": "http://wiki.mhxg.org/ida/220003.html",
+          "game8Name": "電の反逆者",
+          "game8Url": "https://game8.jp/mh-xx/823397"
+        },
+        {
+          "primaryName": "王の領域",
+          "primaryUrl": "http://wiki.mhxg.org/ida/220274.html",
+          "game8Name": "王の領域",
+          "game8Url": "https://game8.jp/mh-xx/823398"
+        },
+        {
+          "primaryName": "憤激する巨獣",
+          "primaryUrl": "http://wiki.mhxg.org/ida/220275.html",
+          "game8Name": "憤激する巨獣",
+          "game8Url": "https://game8.jp/mh-xx/823399"
+        },
+        {
+          "primaryName": "驚浪雷奔ラギアクルス",
+          "primaryUrl": "http://wiki.mhxg.org/ida/220276.html",
+          "game8Name": "驚浪雷奔ラギアクルス",
+          "game8Url": "https://game8.jp/mh-xx/823400"
+        },
+        {
+          "primaryName": "月夜に映える泡の華",
+          "primaryUrl": "http://wiki.mhxg.org/ida/220277.html",
+          "game8Name": "月夜に映える泡の華",
+          "game8Url": "https://game8.jp/mh-xx/823401"
+        },
+        {
+          "primaryName": "狩られる前に狩れ！",
+          "primaryUrl": "http://wiki.mhxg.org/ida/220278.html",
+          "game8Name": "狩られる前に狩れ！",
+          "game8Url": "https://game8.jp/mh-xx/823402"
+        },
+        {
+          "primaryName": "孤島に渦巻く恐怖",
+          "primaryUrl": "http://wiki.mhxg.org/ida/220279.html",
+          "game8Name": "孤島に渦巻く恐怖",
+          "game8Url": "https://game8.jp/mh-xx/823403"
+        },
+        {
+          "primaryName": "縄張りに進入するべからず",
+          "primaryUrl": "http://wiki.mhxg.org/ida/220280.html",
+          "game8Name": "縄張りに進入するべからず",
+          "game8Url": "https://game8.jp/mh-xx/823404"
+        },
+        {
+          "primaryName": "孤島を揺るがす剛音",
+          "primaryUrl": "http://wiki.mhxg.org/ida/220281.html",
+          "game8Name": "孤島を揺るがす剛音",
+          "game8Url": "https://game8.jp/mh-xx/823405"
+        },
+        {
+          "primaryName": "天と地の領域！",
+          "primaryUrl": "http://wiki.mhxg.org/ida/220282.html",
+          "game8Name": "天と地の領域！",
+          "game8Url": "https://game8.jp/mh-xx/823406"
+        },
+        {
+          "primaryName": "パッション炸裂☆究極アフロ",
+          "primaryUrl": "http://wiki.mhxg.org/ida/220283.html",
+          "game8Name": "パッション炸裂☆究極アフロ",
+          "game8Url": "https://game8.jp/mh-xx/823407"
+        },
+        {
+          "primaryName": "ブレイド・ディノバルド",
+          "primaryUrl": "http://wiki.mhxg.org/ida/220284.html",
+          "game8Name": "ブレイド・ディノバルド",
+          "game8Url": "https://game8.jp/mh-xx/823408"
+        },
+        {
+          "primaryName": "脅威！火山の鉄槌！",
+          "primaryUrl": "http://wiki.mhxg.org/ida/220285.html",
+          "game8Name": "脅威！ 火山の鉄槌！",
+          "game8Url": "https://game8.jp/mh-xx/823409"
+        },
+        {
+          "primaryName": "鎌将軍の包囲陣",
+          "primaryUrl": "http://wiki.mhxg.org/ida/220286.html",
+          "game8Name": "鎌将軍の包囲陣",
+          "game8Url": "https://game8.jp/mh-xx/823410"
+        },
+        {
+          "primaryName": "ガミザミの群れを掃討せよ！",
+          "primaryUrl": "http://wiki.mhxg.org/ida/220287.html",
+          "game8Name": "ガミザミの群れを掃討せよ！",
+          "game8Url": "https://game8.jp/mh-xx/823411"
+        },
+        {
+          "primaryName": "スカヴェンジャーズ軍団！",
+          "primaryUrl": "http://wiki.mhxg.org/ida/220288.html",
+          "game8Name": "スカヴェンジャーズ軍団！",
+          "game8Url": "https://game8.jp/mh-xx/823412"
+        },
+        {
+          "primaryName": "燃石炭採掘指令",
+          "primaryUrl": "http://wiki.mhxg.org/ida/220289.html",
+          "game8Name": "燃石炭採掘指令",
+          "game8Url": "https://game8.jp/mh-xx/823413"
+        },
+        {
+          "primaryName": "ドス来い！真昼の古代林",
+          "primaryUrl": "http://wiki.mhxg.org/ida/220290.html",
+          "game8Name": "ドス来い！ 真昼の古代林",
+          "game8Url": "https://game8.jp/mh-xx/823414"
+        },
+        {
+          "primaryName": "砂上の竜脚",
+          "primaryUrl": "http://wiki.mhxg.org/ida/220291.html",
+          "game8Name": "砂上の竜脚",
+          "game8Url": "https://game8.jp/mh-xx/823415"
+        },
+        {
+          "primaryName": "雷狼の尾を踏む青熊",
+          "primaryUrl": "http://wiki.mhxg.org/ida/220292.html",
+          "game8Name": "雷狼の尾を踏む青熊",
+          "game8Url": "https://game8.jp/mh-xx/823416"
+        },
+        {
+          "primaryName": "沼地をめぐる攻防",
+          "primaryUrl": "http://wiki.mhxg.org/ida/220293.html",
+          "game8Name": "沼地をめぐる攻防",
+          "game8Url": "https://game8.jp/mh-xx/823417"
+        },
+        {
+          "primaryName": "ボルケーノブロー",
+          "primaryUrl": "http://wiki.mhxg.org/ida/220294.html",
+          "game8Name": "ボルケーノブロー",
+          "game8Url": "https://game8.jp/mh-xx/823418"
+        },
+        {
+          "primaryName": "雷電",
+          "primaryUrl": "http://wiki.mhxg.org/ida/220295.html",
+          "game8Name": "雷電",
+          "game8Url": "https://game8.jp/mh-xx/823419"
+        },
+        {
+          "primaryName": "白き霊獣",
+          "primaryUrl": "http://wiki.mhxg.org/ida/220296.html",
+          "game8Name": "白き霊獣",
+          "game8Url": "https://game8.jp/mh-xx/823420"
+        },
+        {
+          "primaryName": "氷点下の支配者",
+          "primaryUrl": "http://wiki.mhxg.org/ida/220297.html",
+          "game8Name": "氷点下の支配者",
+          "game8Url": "https://game8.jp/mh-xx/823421"
+        },
+        {
+          "primaryName": "古の霞龍、オオナズチ",
+          "primaryUrl": "http://wiki.mhxg.org/ida/220298.html",
+          "game8Name": "古の霞龍、オオナズチ",
+          "game8Url": "https://game8.jp/mh-xx/823422"
+        },
+        {
+          "primaryName": "煉獄の主、怒れる炎帝",
+          "primaryUrl": "http://wiki.mhxg.org/ida/220299.html",
+          "game8Name": "煉獄の主、怒れる炎帝",
+          "game8Url": "https://game8.jp/mh-xx/823423"
+        },
+        {
+          "primaryName": "廻り集いて回帰せん",
+          "primaryUrl": "http://wiki.mhxg.org/ida/220300.html",
+          "game8Name": "廻り集いて回帰せん",
+          "game8Url": "https://game8.jp/mh-xx/823424"
+        },
+        {
+          "primaryName": "双頭の骸",
+          "primaryUrl": "http://wiki.mhxg.org/ida/220429.html",
+          "game8Name": "双頭の骸",
+          "game8Url": "https://game8.jp/mh-xx/823425"
+        },
+        {
+          "primaryName": "熱いウロコと鋭いハサミ",
+          "primaryUrl": "http://wiki.mhxg.org/ida/238222.html",
+          "game8Name": "熱いウロコと鋭いハサミ",
+          "game8Url": "https://game8.jp/mh-xx/823426"
+        },
+        {
+          "primaryName": "サカニャが食べたい腹いっぱい",
+          "primaryUrl": "http://wiki.mhxg.org/ida/238223.html",
+          "game8Name": "サカニャが食べたい腹いっぱい",
+          "game8Url": "https://game8.jp/mh-xx/823427"
+        },
+        {
+          "primaryName": "闘技場の牙獣と牙獣",
+          "primaryUrl": "http://wiki.mhxg.org/ida/238224.html",
+          "game8Name": "闘技場の牙獣と牙獣",
+          "game8Url": "https://game8.jp/mh-xx/823428"
+        }
+      ],
+      "primaryOnly": [],
+      "game8Only": []
+    }
+  ],
+  "specialistResearch": [
+    {
+      "url": "https://w.atwiki.jp/mhxxnyanter/pages/20.html",
+      "topic": "nyanter-basic",
+      "status": "fetched",
+      "observations": [
+        "99 7 9 8 5 集会所★G4「モンスターニャンターXX」(参加条件：HR13以上)or HR35",
+        "5 村★4「雪山のポイント捜索隊!」or HR4",
+        "60 G★4「海竜の頭部破壊に挑戦!」or HR35",
+        "48 村★3「森丘の悪戯っ子」or HR4",
+        "60 村★4「跳狗竜の頭部破壊に挑戦!」or HR4"
+      ],
+      "note": "攻略レシピの明確な記載を優先。資料間の差を多数決で決定しない。"
+    },
+    {
+      "url": "https://w.atwiki.jp/mhxxnyanter/pages/24.html",
+      "topic": "nyanter-quests",
+      "status": "fetched",
+      "observations": [],
+      "note": "必要な解放条件の事実のみを抽出。ニャンター9件は専用表でも施設追加の具体名記載なし。食事表は下位緊急との対応記載なし。"
+    },
+    {
+      "url": "https://mhx-wiki.com/?MHXX%E3%81%AE%E7%8B%A9%E6%8A%80%E7%BF%92%E5%BE%97%E3%82%AF%E3%82%A8%E3%82%B9%E3%83%88%E3%81%BE%E3%81%A8%E3%82%81",
+      "topic": "arts",
+      "status": "fetched",
+      "observations": [
+        "地衝斬Ⅱ村★4または集★3解放",
+        "獣宿し【獅子】Ⅰ村★2または集★2解放",
+        "震怒竜怨斬Ⅰ村★3または集★3解放",
+        "桜花気刃斬Ⅱ村★4または集★3解放",
+        "鏡花の構えⅠ村★2または集★2解放",
+        "錬気解放円月斬りⅠ村★3または集★3解放",
+        "錬気解放円月斬りⅡ集★3轟竜ティガレックスクリア",
+        "ラウンドフォースⅡ村★4または集★3解放",
+        "昇竜撃Ⅰ村★2または集★2解放",
+        "昇竜撃Ⅱ村★4または集★3解放",
+        "ブレイドダンスⅠ村★3または集★3解放",
+        "ブレイドダンスⅡ集★4双頭の骸クリア",
+        "血風独楽Ⅱ村★4または集★3解放",
+        "天翔空破断Ⅰ村★2または集★2解放",
+        "獣宿し【餓狼】Ⅰ村★3または集★3解放",
+        "スピニングメテオⅡ村★4または集★3解放",
+        "大挑発Ⅰ村★2または集★2解放",
+        "タイフーントリガーⅠ村★3または集★3解放",
+        "オルケスタソウルⅡ村★4または集★3解放",
+        "奏纏Ⅰ村★2または集★2解放",
+        "音撃震Ⅰ村★3または集★3解放",
+        "シールドアサルトⅡ村★4または集★3解放",
+        "ガードレイジⅠ村★2または集★2解放",
+        "ガードレイジⅡ集★3鎌将軍の包囲網クリア",
+        "スクリュースラストⅠ村★3または集★3解放",
+        "ブラストダッシュⅡ村★4または集★3解放",
+        "覇山竜撃砲Ⅰ村★2または集★2解放",
+        "覇山竜撃砲Ⅱ集★3煉獄の主、怒れる炎帝クリア",
+        "竜の息吹Ⅰ村★3または集★3解放",
+        "トランスラッシュⅡ村★4または集★3解放",
+        "剣鬼形態Ⅰ村★2または集★2解放",
+        "オーバーリミットⅡ村★4または集★3解放",
+        "ヒーリングボトルⅠ村★2または集★2解放",
+        "エネルギーブレイドⅠ村★3または集★3解放",
+        "エキスハンターⅡ村★4または集★3解放",
+        "蟲纏いⅠ村★2または集★2解放",
+        "飛翔蟲斬破Ⅰ村★3または集★3解放",
+        "トリニティレイヴンⅡ村★4または集★3解放",
+        "ブレイドワイヤーⅠ村★2または集★2解放",
+        "アクセルレインⅠ村★3または集★3解放",
+        "全弾装填Ⅱ村★4または集★3解放",
+        "バレットゲイザーⅠ村★2または集★2解放",
+        "バレットゲイザーⅡ集★3廻り集いて回帰せんクリア",
+        "ラピッドヘブンⅠ村★3または集★3解放",
+        "火薬装填Ⅱ村★4または集★3解放",
+        "スーパーノヴァⅠ村★2または集★2解放",
+        "アクセルシャワーⅠ村★3または集★3解放"
+      ],
+      "note": "攻略レシピの明確な記載を優先。資料間の差を多数決で決定しない。"
+    },
+    {
+      "url": "https://mhx-wiki.com/?MHXX%E3%81%AE%E9%9B%86%E4%BC%9A%E6%89%80%E3%82%AD%E3%83%BC%E3%82%AF%E3%82%A8%E3%82%B9%E3%83%88%E4%B8%80%E8%A6%A7",
+      "topic": "keys",
+      "status": "fetched",
+      "observations": [
+        "緊急雪山の主、ドドブランゴドドブランゴ",
+        "緊急電の反逆者4ライゼクス",
+        "緊急双頭の骸オストガロア"
+      ],
+      "note": "攻略レシピの明確な記載を優先。資料間の差を多数決で決定しない。"
+    },
+    {
+      "url": "https://mhx-wiki.com/?%E3%81%82%E3%81%AE%E7%B4%A0%E6%9D%90%E3%81%A9%E3%81%93%E3%81%A7%E5%85%A5%E6%89%8B%E3%81%A7%E3%81%8D%E3%82%8B%EF%BC%9F",
+      "topic": "あの素材どこで入手できる？",
+      "status": "fetched",
+      "observations": [
+        "混沌茸集会所★3緊急クリア後、もしくは村★2「古代林のキノコ生態調査」クリア後に、ジャンボキノコ山で交易",
+        "オオマヒシメジ集会所★3緊急クリア後、もしくは村★2「古代林のキノコ生態調査」クリア後に、ジャンボキノコ山で交易",
+        "オオツノアゲハ集会所★3緊急クリア後、もしくは村★3「沼地に異常事態発生虫？」クリア後に、モガ養蜂組合で交易",
+        "オオクワアゲハ集会所★3緊急クリア後、もしくは村★3「沼地に異常事態発生虫？」クリア後に、モガ養蜂組合で交易",
+        "春夜鯉集会所★3緊急クリア後、もしくは村★4「沼地は釣りの穴場？」クリア後に、タンジア鮮魚市で交易",
+        "ヨロイシダイ集会所★3緊急クリア後、もしくは村★4「沼地は釣りの穴場？」クリア後に、タンジア鮮魚市で交易"
+      ],
+      "note": "攻略レシピの明確な記載を優先。資料間の差を多数決で決定しない。"
+    },
+    {
+      "url": "https://mhx-wiki.com/?%E9%A3%9F%E4%BA%8B%E5%8A%B9%E6%9E%9C%E4%B8%80%E8%A6%A7",
+      "topic": "食事効果一覧",
+      "status": "fetched",
+      "observations": [],
+      "note": "必要な解放条件の事実のみを抽出。ニャンター9件は専用表でも施設追加の具体名記載なし。食事表は下位緊急との対応記載なし。"
+    },
+    {
+      "url": "https://mhx-wiki.com/?%E9%A3%9F%E6%9D%90%E3%82%AF%E3%82%A8%E3%82%B9%E3%83%88%E4%B8%80%E8%A6%A7",
+      "topic": "食材",
+      "status": "fetched",
+      "observations": [
+        "サイコロミート集会所★2「食材の価値は鮮度なり」ユクモ村・食材屋の女将の依頼",
+        "チココーン集会所★1「新たな食材ハンターの誕生！？」ココット村・キャラバンの料理長の依頼",
+        "モグモガーリック集会所★1「伝説のメニューに不可欠なモノ」ポッケ村・さすらいのコックの依頼"
+      ]
+    }
+  ],
+  "sourceDifferences": [
+    {
+      "topic": "名称表記",
+      "primary": "２対の麻痺牙",
+      "other": "2対の麻痺牙",
+      "decision": "攻略レシピの全角２を保持。その他の名称差は空白のみ。"
+    },
+    {
+      "topic": "双頭の骸の掲載ランク",
+      "primary": "集★3の個別ページと一覧",
+      "other": "狩技専門表は集★4双頭の骸",
+      "decision": "攻略レシピの掲載ランク3を採用。進行先は集★4。個別URLを変えない。"
+    },
+    {
+      "topic": "ラピッドヘブン LV1",
+      "primary": "集★2雪山の主、ドドブランゴで開放",
+      "other": "狩技専門表は村★3または集★3解放",
+      "decision": "明記された攻略レシピを採用。未確認化しない。"
+    },
+    {
+      "topic": "廻り集いて回帰せんの狩技",
+      "primary": "ラピッドヘブン LV2",
+      "other": "狩技専門表はバレットゲイザーⅡ",
+      "decision": "攻略レシピの個別欄を採用。"
+    },
+    {
+      "topic": "鎌将軍のクエスト名",
+      "primary": "鎌将軍の包囲陣",
+      "other": "狩技専門表は鎌将軍の包囲網",
+      "decision": "実在する攻略レシピの名称・URLを採用。"
+    },
+    {
+      "topic": "練気解放円月斬り",
+      "primary": "練気",
+      "other": "狩技専門表は錬気",
+      "decision": "攻略レシピの正式欄を保持。"
+    }
+  ],
+  "villageRechecks": [
+    {
+      "questName": "予想外！つがいの妨害！",
+      "url": "http://wiki.mhxg.org/ida/238197.html",
+      "status": "fetched",
+      "observations": [
+        "依頼 [受注] ココット村 交易船の船長の依頼2 [依頼出現条件] 依頼★交易船の船長の依頼1 クリア後村★6解放後 入手 謎の重弩の秘伝書 x1"
+      ]
+    },
+    {
+      "questName": "予想外！つがいの妨害！",
+      "url": "http://wiki.mhxg.org/ida/243432.html",
+      "status": "fetched",
+      "observations": [
+        "出現条件：集★2解放後",
+        "達成条件：集★2輸送中！水獣の追従！"
+      ]
+    },
+    {
+      "questName": "旬な食材を採らせておくれ！",
+      "url": "http://wiki.mhxg.org/ida/286169.html",
+      "status": "fetched",
+      "observations": [
+        "備考 村★7渓流に棲む水獣 クリア後",
+        "依頼 [受注] ユクモ村 食材屋の女将の依頼2 [依頼出現条件] 依頼★食材屋の女将の依頼1 クリア後村★7渓流に棲む水獣 クリア後ユクモノ足湯で会話 食材 リュウノテール"
+      ]
+    },
+    {
+      "questName": "旬な食材を採らせておくれ！",
+      "url": "http://wiki.mhxg.org/ida/243481.html",
+      "status": "fetched",
+      "observations": [
+        "出現条件：依頼★ユクモ村の村長の依頼2 クリア後集★2解放後村★3解放後",
+        "達成条件：集★2食材の価値は鮮度なり"
+      ]
+    },
+    {
+      "questName": "雪山、雪玉、雪合戦！！",
+      "url": "http://wiki.mhxg.org/ida/286236.html",
+      "status": "fetched",
+      "observations": [
+        "依頼 [受注] ココット村 キャラバンの料理長の依頼2 [依頼出現条件] 依頼★キャラバンの料理長の依頼1 クリア後村★9彗星の前にあらわる鎧竜 クリア後 食材 大吟醸・龍ころし"
+      ]
+    },
+    {
+      "questName": "雪山、雪玉、雪合戦！！",
+      "url": "http://wiki.mhxg.org/ida/243427.html",
+      "status": "fetched",
+      "observations": [
+        "出現条件：依頼★ココット村の村長の依頼2 クリア後",
+        "達成条件：集★1新たな食材ハンターの誕生！？"
+      ]
+    },
+    {
+      "questName": "遺群嶺を塞ぐ恐暴竜",
+      "url": "http://wiki.mhxg.org/ida/298960.html",
+      "status": "fetched",
+      "observations": [
+        "依頼 [受注] ココット村 キャラバンの竜人商人の依頼4 [依頼出現条件] 依頼★キャラバンの竜人商人の依頼3村★10千刃狂騒 クリア後 装備開放(製法) エルドラジェズルエルドラカノーネジャギィフェイクジャギィＸフェイク"
+      ]
+    },
+    {
+      "questName": "遺群嶺を塞ぐ恐暴竜",
+      "url": "http://wiki.mhxg.org/ida/243431.html",
+      "status": "fetched",
+      "observations": [
+        "出現条件：依頼★キャラバンの竜人商人の依頼2 クリア後集★5解放後",
+        "達成条件：集★5雪山の主、ドドブランゴ"
+      ]
+    },
+    {
+      "questName": "遺群嶺を塞ぐ恐暴竜",
+      "url": "http://wiki.mhxg.org/ida/243430.html",
+      "status": "fetched",
+      "observations": [
+        "出現条件：依頼★キャラバンの竜人商人の依頼1 クリア後集★3解放後",
+        "達成条件：集★3化石に眠る太古の記憶"
+      ]
+    }
+  ],
+  "unresolved": [
+    {
+      "topic": "緊急3件の施設印",
+      "names": ["雪山の主、ドドブランゴ", "電の反逆者", "双頭の骸"],
+      "status": "partial",
+      "reason": "進行・HR4のオトモ初期雇用経路は確認。食事・交易・オトモ・施設専門資料を調査したが、施設印すべての対応は未特定。"
+    },
+    {
+      "topic": "交易先の集会所別経路",
+      "status": "ambiguous",
+      "reason": "専門資料の「集会所★3緊急クリア後」は電の反逆者／双頭の骸のどちらかを名指ししていない。既存の村3経路の注記を保持し、集会所の特定クエストには推測で登録しない。"
+    },
+    {
+      "topic": "オトモ雇用枠の上限数",
+      "status": "conflict",
+      "reason": "HR4等による別経路はあるが、基本表とクエスト表の村下位3件に数の矛盾がある。前回の警告と調査結果を維持。"
+    },
+    {
+      "topic": "納品",
+      "status": "untracked",
+      "reason": "オトモ武具屋の依頼1の納品済み状態は保存していないため要確認を維持。"
+    }
+  ],
+  "browserLinkCheck": {
+    "url": "http://wiki.mhxg.org/ida/220241.html",
+    "method": "アプリの外部リンクをChromiumで実際にクリック",
+    "status": "opened",
+    "observedUrl": "http://wiki.mhxg.org/ida/220241.html",
+    "observedTitle": "集★1新たな食材ハンターの誕生！？ | 【MHXX】モンハンダブルクロス攻略レシピ",
+    "httpsUpgrade": false
+  }
+}

@@ -25,9 +25,9 @@ test("production shows partial coverage and noindex", async ({ page }) => {
   ).toBeVisible();
   await expect(page.locator(".quest-card")).toHaveCount(45);
   await expect(
-    page.getByText("データ整備中 · 実クエスト370件収録"),
+    page.getByText("データ整備中 · 実クエスト474件収録"),
   ).toBeVisible();
-  await page.getByRole("button", { name: "集会所", exact: true }).click();
+  await page.getByRole("button", { name: "G級", exact: true }).click();
   await expect(
     page.getByRole("heading", { name: "このランクは、これから収録します" }),
   ).toBeVisible();
@@ -1039,4 +1039,235 @@ test("upper final conditions distinguish HR, the bounded all-clear set, and rand
       () => document.documentElement.scrollWidth <= innerWidth,
     ),
   ).toBe(true);
+});
+
+test("hub rosters, roles and key flags match each audited rank and coverage", async ({
+  page,
+}) => {
+  await page.goto("./");
+  await page.getByRole("button", { name: "集会所", exact: true }).click();
+  for (const [rank, count, keys] of [
+    ["1", 31, 5],
+    ["2", 35, 6],
+    ["3", 38, 6],
+  ] as const) {
+    await page
+      .getByRole("combobox", { name: "ランク", exact: true })
+      .selectOption(rank);
+    await expect(page.locator(".quest-card")).toHaveCount(count);
+    await expect(page.getByRole("progressbar")).toHaveAttribute(
+      "max",
+      String(count),
+    );
+    await page
+      .getByRole("combobox", { name: "プレイ種別", exact: true })
+      .selectOption("prowler");
+    await expect(page.locator(".quest-card")).toHaveCount(3);
+    await page
+      .getByRole("combobox", { name: "プレイ種別", exact: true })
+      .selectOption("");
+    await page
+      .getByRole("combobox", { name: "種別", exact: true })
+      .selectOption("key");
+    await expect(page.locator(".quest-card")).toHaveCount(keys);
+    await page
+      .getByRole("combobox", { name: "種別", exact: true })
+      .selectOption("");
+  }
+  await page.getByText("収録状況と出典について", { exact: true }).click();
+  const table = page
+    .getByRole("table")
+    .filter({
+      has: page.getByText("集会所下位★1〜3の収録状況", { exact: true }),
+    });
+  await expect(table).toContainText("31");
+  await expect(table).toContainText("35");
+  await expect(table).toContainText("38");
+  expect(
+    await page.evaluate(
+      () => document.documentElement.scrollWidth <= innerWidth,
+    ),
+  ).toBe(true);
+});
+
+test("legacy 370-check backups merge with new hub progress and preserve HR and unknown IDs", async ({
+  page,
+}) => {
+  const ids = (
+    JSON.parse(await readFile("docs/progress-baseline-370.json", "utf8")) as {
+      id: string;
+    }[]
+  ).map((q) => q.id);
+  await page.goto("./");
+  await page
+    .getByLabel("バックアップファイル")
+    .setInputFiles(
+      backup({
+        schemaVersion: 1,
+        completedQuestIds: [...ids, "future-hub-id"],
+        hr: 6,
+      }),
+    );
+  await expect(
+    page.getByText("未収録のID：1件（削除せず保持します）"),
+  ).toBeVisible();
+  await page
+    .getByRole("checkbox", { name: "現在の進捗をファイルで置き換える" })
+    .check();
+  await page.getByRole("button", { name: "置き換えて復元" }).click();
+  await page.getByRole("button", { name: "集会所", exact: true }).click();
+  await page
+    .getByRole("combobox", { name: "ランク", exact: true })
+    .selectOption("1");
+  await page.getByRole("searchbox").fill("古代林の採集ツアー");
+  await page
+    .getByRole("checkbox", { name: "古代林の採集ツアーをクリア", exact: true })
+    .check();
+  await page.reload();
+  await page.getByRole("button", { name: "集会所", exact: true }).click();
+  await page
+    .getByRole("combobox", { name: "ランク", exact: true })
+    .selectOption("1");
+  await expect(
+    page.getByRole("checkbox", {
+      name: "古代林の採集ツアーをクリア",
+      exact: true,
+    }),
+  ).toBeChecked();
+  await expect(page.getByLabel("現在のHR")).toHaveValue("6");
+  const pending = page.waitForEvent("download");
+  await page.getByRole("button", { name: "JSONを書き出す" }).click();
+  const exported = JSON.parse(
+    await readFile((await (await pending).path())!, "utf8"),
+  );
+  expect(exported.schemaVersion).toBe(1);
+  expect(exported.hr).toBe(6);
+  expect(exported.completedQuestIds).toHaveLength(372);
+  expect(exported.completedQuestIds).toEqual(
+    expect.arrayContaining([...ids, "future-hub-id", "hub-1-recipe-218337"]),
+  );
+});
+
+test("village and hub prerequisite navigation works in both directions and reports do not block known gates", async ({
+  page,
+}) => {
+  const ids = (
+    JSON.parse(await readFile("docs/progress-baseline-370.json", "utf8")) as {
+      id: string;
+    }[]
+  ).map((q) => q.id);
+  await page.addInitScript((ids) => {
+    if (!localStorage.getItem("qlog.mhxx.progress.v1"))
+      localStorage.setItem(
+        "qlog.mhxx.progress.v1",
+        JSON.stringify({ schemaVersion: 1, completedQuestIds: ids, hr: 6 }),
+      );
+  }, ids);
+  await page.goto("./");
+  await page
+    .getByRole("combobox", { name: "ランク", exact: true })
+    .selectOption("9");
+  await page.getByRole("searchbox").fill("雪山、雪玉、雪合戦");
+  await page.getByRole("button", { name: /雪山、雪玉、雪合戦/ }).click();
+  await expect(page.locator(".state")).toHaveText("未達成");
+  await page
+    .getByRole("button", {
+      name: "集会所 ★1（下位） / 新たな食材ハンターの誕生！？",
+      exact: true,
+    })
+    .click();
+  await expect(
+    page.getByRole("heading", { name: "集会所 ★1（下位）", exact: true }),
+  ).toBeVisible();
+  await expect(page.locator(".state")).toHaveText("記録上の前提達成");
+  await expect(page.getByText("チココーン", { exact: false })).toBeVisible();
+  const link = page.getByRole("link", {
+    name: /MHXX攻略レシピ（該当クエスト詳細）/,
+  });
+  await expect(link).toHaveAttribute(
+    "href",
+    "http://wiki.mhxg.org/ida/220241.html",
+  );
+  await expect(link).toHaveAttribute("target", "_blank");
+  await expect(link).toHaveAttribute("rel", "noopener noreferrer");
+  await page
+    .getByRole("checkbox", {
+      name: "新たな食材ハンターの誕生！？をクリア",
+      exact: true,
+    })
+    .check();
+  await page
+    .getByRole("button", {
+      name: "村 ★9 / 雪山、雪玉、雪合戦！！",
+      exact: true,
+    })
+    .click();
+  await expect(page.locator(".state")).toHaveText("記録上の前提達成");
+  await expect(
+    page.getByText("キャラバンの料理長の依頼1を達成後、依頼主へ報告する。", {
+      exact: true,
+    }),
+  ).toBeVisible();
+  expect(
+    await page.evaluate(
+      () => document.documentElement.scrollWidth <= innerWidth,
+    ),
+  ).toBe(true);
+});
+
+test("collected hub prerequisites leave unrecorded delivery and the uncollected hub-5 gate visible", async ({
+  page,
+}) => {
+  const ids = (
+    JSON.parse(await readFile("docs/progress-baseline-370.json", "utf8")) as {
+      id: string;
+    }[]
+  ).map((q) => q.id);
+  for (const rank of [1, 2, 3])
+    ids.push(
+      ...(
+        JSON.parse(await readFile(`src/data/hub-${rank}.json`, "utf8")) as {
+          id: string;
+        }[]
+      ).map((q) => q.id),
+    );
+  await page.addInitScript(
+    (ids) =>
+      localStorage.setItem(
+        "qlog.mhxx.progress.v1",
+        JSON.stringify({ schemaVersion: 1, completedQuestIds: ids, hr: 5 }),
+      ),
+    ids,
+  );
+  await page.goto("./");
+  await page
+    .getByRole("combobox", { name: "ランク", exact: true })
+    .selectOption("10");
+  await page.getByRole("searchbox").fill("遺群嶺を塞ぐ恐暴竜");
+  await page.getByRole("button", { name: /遺群嶺を塞ぐ恐暴竜/ }).click();
+  await expect(page.locator(".state")).toHaveText("要確認");
+  await expect(
+    page.getByText(
+      "未収録：集★5雪山の主、ドドブランゴのクリア（キャラバンの竜人商人の依頼3）",
+      { exact: true },
+    ),
+  ).toBeVisible();
+  await expect(
+    page.getByRole("button", {
+      name: "集会所 ★3（下位） / 化石に眠る太古の記憶",
+      exact: true,
+    }),
+  ).toBeVisible();
+  await page.getByRole("button", { name: "集会所", exact: true }).click();
+  await page
+    .getByRole("combobox", { name: "ランク", exact: true })
+    .selectOption("2");
+  await page.getByRole("searchbox").fill("無謀な弟子");
+  await page.getByRole("button", { name: /無謀な弟子/ }).click();
+  await expect(page.locator(".state")).toHaveText("要確認");
+  await expect(
+    page.getByText("オトモ武具屋の依頼1：納品 マカライト鉱石 x2大猪の皮 x1", {
+      exact: true,
+    }),
+  ).toBeVisible();
 });
