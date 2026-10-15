@@ -823,6 +823,12 @@
         "url": "http://wiki.mhxg.org/data/2024.html",
         "kind": "list",
         "checkedAt": "2026-10-16"
+      },
+      {
+        "site": "Game8 MHXX（受注HR・補完）",
+        "url": "https://game8.jp/mh-xx/823449",
+        "kind": "detail",
+        "checkedAt": "2026-10-16"
       }
     ],
     "verification": "partial",
@@ -1040,6 +1046,12 @@
         "site": "Game8 MHXX（受注HR・補完）",
         "url": "https://game8.jp/mh-xx/823454",
         "kind": "detail",
+        "checkedAt": "2026-10-16"
+      },
+      {
+        "site": "MHXX攻略Wiki（食材）",
+        "url": "https://mhx-wiki.com/?%E9%A3%9F%E6%9D%90%E3%82%AF%E3%82%A8%E3%82%B9%E3%83%88%E4%B8%80%E8%A6%A7",
+        "kind": "list",
         "checkedAt": "2026-10-16"
       }
     ],
@@ -1411,11 +1423,6 @@
         "kind": "facility",
         "label": "オトモの育成レベル上限35",
         "note": "このクエスト、村★7「ニャンター、お使い再び」、集★6「妖艶なる舞」＋「不動の山神」、村★10「恐れ見よ、赤き災厄の彗星を」のいずれかの経路（OR）。集★6経路内の2件はAND。初期雇用レベルとは別です。"
-      },
-      {
-        "kind": "other",
-        "label": "集★5冷徹な吸血鮫（出現前提）",
-        "note": "未収録クエストの出現前提の一つ。その他の受注条件・実際の出現はゲーム内で確認してください。"
       }
     ],
     "sources": [

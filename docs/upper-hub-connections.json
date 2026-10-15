@@ -1,0 +1,129 @@
+{
+  "checkedAt": "2026-10-16",
+  "changes": [
+    {
+      "questId": "village-6-recipe-238203",
+      "name": "高難度：食は渓流にあり！",
+      "before": {
+        "kind": "all",
+        "rules": [
+          {
+            "kind": "hr_at_least",
+            "value": 5
+          },
+          {
+            "kind": "quest_cleared",
+            "questId": "village-2-recipe-220164"
+          },
+          {
+            "kind": "external_flag",
+            "label": "未収録：集★5キモ・キモ・キモ！！！のクリアとタンジアの港の看板娘の依頼1の達成"
+          },
+          {
+            "kind": "quest_cleared",
+            "questId": "village-6-recipe-220240"
+          }
+        ]
+      },
+      "after": {
+        "kind": "all",
+        "rules": [
+          {
+            "kind": "hr_at_least",
+            "value": 5
+          },
+          {
+            "kind": "quest_cleared",
+            "questId": "village-2-recipe-220164"
+          },
+          {
+            "kind": "quest_cleared",
+            "questId": "hub-5-recipe-238232"
+          },
+          {
+            "kind": "quest_cleared",
+            "questId": "village-6-recipe-220240"
+          }
+        ]
+      },
+      "sources": [
+        "http://wiki.mhxg.org/ida/238203.html",
+        "http://wiki.mhxg.org/ida/238232.html",
+        "http://wiki.mhxg.org/ida/243473.html"
+      ],
+      "reason": "実在する前提クエストを収録し外部条件のクリア部分を固定IDへ置換。ネコートの依頼1は別のクリア参照も残す。その他の未知・HR・納品・G級等は保持。",
+      "addedNpcNotes": ["前提の依頼達成後、必要な報告を行う。"]
+    },
+    {
+      "questId": "village-10-recipe-298960",
+      "name": "遺群嶺を塞ぐ恐暴竜",
+      "before": {
+        "kind": "all",
+        "rules": [
+          {
+            "kind": "quest_cleared",
+            "questId": "village-5-recipe-220230"
+          },
+          {
+            "kind": "hr_at_least",
+            "value": 3
+          },
+          {
+            "kind": "quest_cleared",
+            "questId": "hub-3-recipe-220272"
+          },
+          {
+            "kind": "hr_at_least",
+            "value": 5
+          },
+          {
+            "kind": "external_flag",
+            "label": "未収録：集★5雪山の主、ドドブランゴのクリア（キャラバンの竜人商人の依頼3）"
+          },
+          {
+            "kind": "quest_cleared",
+            "questId": "village-10-recipe-298961"
+          }
+        ]
+      },
+      "after": {
+        "kind": "all",
+        "rules": [
+          {
+            "kind": "quest_cleared",
+            "questId": "village-5-recipe-220230"
+          },
+          {
+            "kind": "hr_at_least",
+            "value": 3
+          },
+          {
+            "kind": "quest_cleared",
+            "questId": "hub-3-recipe-220272"
+          },
+          {
+            "kind": "hr_at_least",
+            "value": 5
+          },
+          {
+            "kind": "quest_cleared",
+            "questId": "hub-5-recipe-238236"
+          },
+          {
+            "kind": "quest_cleared",
+            "questId": "village-10-recipe-298961"
+          }
+        ]
+      },
+      "sources": [
+        "http://wiki.mhxg.org/ida/298960.html",
+        "http://wiki.mhxg.org/ida/238236.html",
+        "http://wiki.mhxg.org/ida/243431.html",
+        "http://wiki.mhxg.org/ida/243430.html"
+      ],
+      "reason": "実在する前提クエストを収録し外部条件のクリア部分を固定IDへ置換。ネコートの依頼1は別のクリア参照も残す。その他の未知・HR・納品・G級等は保持。",
+      "addedNpcNotes": ["前提の依頼達成後、必要な報告を行う。"]
+    }
+  ],
+  "unlockNoteChanges": []
+}

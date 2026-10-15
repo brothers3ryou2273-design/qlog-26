@@ -95,3 +95,53 @@ describe("upper hub primary rosters and released progress", () => {
     ).toBe("met");
   });
 });
+
+for (const rank of audit.ranks.filter((r) => r.rank === "5")) {
+  it("rank-5 urgent requires exactly all four rank-4 keys", () => {
+    const q = quests.find(
+      (q) => q.category === "hub" && q.name === "渓流の水竜",
+    )!;
+    const keys = quests.filter(
+      (q) => q.category === "hub" && q.rank === "4" && q.tags.includes("key"),
+    );
+    expect(keys).toHaveLength(4);
+    expect(references(q.condition)).toEqual(keys.map((q) => q.id));
+    for (let mask = 0; mask < 16; mask++) {
+      const completedQuestIds = keys
+        .filter((_, i) => mask & (1 << i))
+        .map((q) => q.id);
+      expect(
+        evaluate(q.condition, { schemaVersion: 1, completedQuestIds, hr: 999 }),
+      ).toBe(mask === 15 ? "met" : "unmet");
+    }
+    expect(rank.observedCount).toBe(51);
+  });
+  it("rank-5 prowler reward uses any two of the other four quests and keeps hiring distinct from growth", () => {
+    const q = quests.find(
+      (q) => q.category === "hub" && q.name === "炎天下の麻痺牙",
+    )!;
+    const candidates = quests.filter(
+      (x) =>
+        x.category === "hub" &&
+        x.rank === "5" &&
+        x.role === "prowler" &&
+        x.id !== q.id,
+    );
+    expect(candidates).toHaveLength(4);
+    for (let mask = 0; mask < 16; mask++) {
+      const completedQuestIds = candidates
+        .filter((_, i) => mask & (1 << i))
+        .map((q) => q.id);
+      expect(
+        evaluate(q.condition, { schemaVersion: 1, completedQuestIds, hr: 999 }),
+      ).toBe(completedQuestIds.length >= 2 ? "met" : "unmet");
+    }
+    expect(q.unlocks).toContainEqual(
+      expect.objectContaining({
+        kind: "facility",
+        label: "オトモの初期雇用レベル20〜22",
+        note: expect.stringContaining("（OR）"),
+      }),
+    );
+  });
+}

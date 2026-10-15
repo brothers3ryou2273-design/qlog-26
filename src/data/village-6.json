@@ -878,8 +878,8 @@
           "questId": "village-2-recipe-220164"
         },
         {
-          "kind": "external_flag",
-          "label": "未収録：集★5キモ・キモ・キモ！！！のクリアとタンジアの港の看板娘の依頼1の達成"
+          "kind": "quest_cleared",
+          "questId": "hub-5-recipe-238232"
         },
         {
           "kind": "quest_cleared",
@@ -888,7 +888,8 @@
       ]
     },
     "npcNotes": [
-      "ユクモ村 タンジアの港の看板娘の依頼2を受注する。"
+      "ユクモ村 タンジアの港の看板娘の依頼2を受注する。",
+      "前提の依頼達成後、必要な報告を行う。"
     ],
     "unlocks": [
       {
@@ -915,6 +916,12 @@
         "url": "http://wiki.mhxg.org/ida/243473.html",
         "kind": "detail",
         "checkedAt": "2026-10-15"
+      },
+      {
+        "site": "MHXX攻略レシピ",
+        "url": "http://wiki.mhxg.org/ida/238232.html",
+        "kind": "detail",
+        "checkedAt": "2026-10-16"
       }
     ],
     "verification": "partial",
