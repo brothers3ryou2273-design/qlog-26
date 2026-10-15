@@ -1,0 +1,289 @@
+{
+  "checkedAt": "2026-10-16",
+  "scope": "PR #3で具体名が未確認だった13件。resolvedは具体的な施設解放を補完できた範囲の判定。全施設・全追加条件の実機での完全確認ではない。",
+  "primaryListUrl": "http://wiki.mhxg.org/data/2951.html",
+  "records": [
+    {
+      "questId": "village-2-g8-822843",
+      "name": "跳躍のアウトロー",
+      "rank": "2",
+      "primaryUrl": "http://wiki.mhxg.org/ida/219257.html",
+      "checkedAt": "2026-10-16",
+      "primaryFinding": "施設強化一覧に掲載。個別ページに具体的な施設拡張内容の記載なし。",
+      "status": "resolved",
+      "adoptedUnlocks": [
+        {
+          "kind": "facility",
+          "label": "屋台の情熱まかない飯",
+          "note": "食事施設のメニュー追加。専門Wikiの開放条件欄はこのクエストを指定しています。追加の納品・報告条件の記載はありません。"
+        }
+      ],
+      "supplementalUrls": [
+        "https://mhx-wiki.com/?%E9%A3%9F%E4%BA%8B%E5%8A%B9%E6%9E%9C%E4%B8%80%E8%A6%A7"
+      ],
+      "reason": "第一資料の施設印では具体名が不明なため、専門Wikiの料理表が指定するメニュー名・クエストを採用。追加の納品・報告条件は記載なし。"
+    },
+    {
+      "questId": "village-2-recipe-220164",
+      "name": "青熊獣アオアシラ",
+      "rank": "2",
+      "primaryUrl": "http://wiki.mhxg.org/ida/220164.html",
+      "checkedAt": "2026-10-16",
+      "primaryFinding": "施設強化一覧に掲載。個別ページに具体的な施設拡張内容の記載なし。",
+      "status": "unresolved",
+      "adoptedUnlocks": [],
+      "supplementalUrls": [],
+      "reason": "攻略レシピ・取得した専門資料では具体的な施設内容と追加条件を特定できず。"
+    },
+    {
+      "questId": "village-3-g8-822877",
+      "name": "鬼面狩人を威す",
+      "rank": "3",
+      "primaryUrl": "http://wiki.mhxg.org/ida/219318.html",
+      "checkedAt": "2026-10-16",
+      "primaryFinding": "施設強化一覧に掲載。個別ページに具体的な施設拡張内容の記載なし。",
+      "status": "unresolved",
+      "adoptedUnlocks": [],
+      "supplementalUrls": [],
+      "reason": "攻略レシピ・取得した専門資料では具体的な施設内容と追加条件を特定できず。"
+    },
+    {
+      "questId": "village-3-recipe-218333",
+      "name": "森丘の悪戯っ子",
+      "rank": "3",
+      "primaryUrl": "http://wiki.mhxg.org/ida/218333.html",
+      "checkedAt": "2026-10-16",
+      "primaryFinding": "施設強化一覧に掲載。個別ページに具体的な施設拡張内容の記載なし。",
+      "status": "partial",
+      "adoptedUnlocks": [
+        {
+          "kind": "facility",
+          "label": "オトモ雇用枠の拡張（上限数は未確定）",
+          "note": "このクエストのクリアで拡張。基本情報表は別経路としてHR4以上も記載（OR）。追加の納品・報告条件の記載はありません。上限数の相違は注記を参照してください。"
+        }
+      ],
+      "supplementalUrls": [
+        "https://w.atwiki.jp/mhxxnyanter/pages/20.html",
+        "https://w.atwiki.jp/mhxxnyanter/pages/24.html"
+      ],
+      "reason": "オトモ雇用枠の上限数が出典内で不一致です（基本情報：48匹、専用クエスト表：36匹）。拡張自体は確認済み、数値は未確定です。",
+      "conflict": {
+        "basicCount": 48,
+        "questTableCount": 36
+      },
+      "alternateHr": 4
+    },
+    {
+      "questId": "village-4-recipe-219987",
+      "name": "幻惑の魔術師",
+      "rank": "4",
+      "primaryUrl": "http://wiki.mhxg.org/ida/219987.html",
+      "checkedAt": "2026-10-16",
+      "primaryFinding": "施設強化一覧に掲載。個別ページに具体的な施設拡張内容の記載なし。",
+      "status": "resolved",
+      "adoptedUnlocks": [
+        {
+          "kind": "facility",
+          "label": "屋台の闘魂まかない飯",
+          "note": "食事施設のメニュー追加。専門Wikiの開放条件欄はこのクエストを指定しています。追加の納品・報告条件の記載はありません。"
+        }
+      ],
+      "supplementalUrls": [
+        "https://mhx-wiki.com/?%E9%A3%9F%E4%BA%8B%E5%8A%B9%E6%9E%9C%E4%B8%80%E8%A6%A7"
+      ],
+      "reason": "第一資料の施設印では具体名が不明なため、専門Wikiの料理表が指定するメニュー名・クエストを採用。追加の納品・報告条件は記載なし。"
+    },
+    {
+      "questId": "village-4-recipe-238187",
+      "name": "跳狗竜の頭部破壊に挑戦！",
+      "rank": "4",
+      "primaryUrl": "http://wiki.mhxg.org/ida/238187.html",
+      "checkedAt": "2026-10-16",
+      "primaryFinding": "施設強化一覧に掲載。個別ページに具体的な施設拡張内容の記載なし。",
+      "status": "partial",
+      "adoptedUnlocks": [
+        {
+          "kind": "facility",
+          "label": "オトモ雇用枠の拡張（上限数は未確定）",
+          "note": "このクエストのクリアで拡張。基本情報表は別経路としてHR4以上も記載（OR）。追加の納品・報告条件の記載はありません。上限数の相違は注記を参照してください。"
+        }
+      ],
+      "supplementalUrls": [
+        "https://w.atwiki.jp/mhxxnyanter/pages/20.html",
+        "https://w.atwiki.jp/mhxxnyanter/pages/24.html"
+      ],
+      "reason": "オトモ雇用枠の上限数が出典内で不一致です（基本情報：60匹、専用クエスト表：48匹）。拡張自体は確認済み、数値は未確定です。",
+      "conflict": {
+        "basicCount": 60,
+        "questTableCount": 48
+      },
+      "alternateHr": 4
+    },
+    {
+      "questId": "village-4-recipe-238192",
+      "name": "雪山のポイント捜索隊！",
+      "rank": "4",
+      "primaryUrl": "http://wiki.mhxg.org/ida/238192.html",
+      "checkedAt": "2026-10-16",
+      "primaryFinding": "施設強化一覧に掲載。個別ページに具体的な施設拡張内容の記載なし。",
+      "status": "resolved",
+      "adoptedUnlocks": [
+        {
+          "kind": "facility",
+          "label": "オトモの初期雇用レベル5〜7",
+          "note": "このクエストのクリア、またはHR4以上（OR）で解放。基本情報表の雇用レベルと専用クエスト表のレベル範囲を併記したものです。育成レベルの上限解放ではありません。追加の納品・報告条件の記載はありません。"
+        }
+      ],
+      "supplementalUrls": [
+        "https://w.atwiki.jp/mhxxnyanter/pages/20.html",
+        "https://w.atwiki.jp/mhxxnyanter/pages/24.html"
+      ],
+      "reason": "基本情報表がクエストまたはHRのORを明記。専用クエスト表が実際の初期レベル範囲を記載。育成レベル上限とは区別。",
+      "alternateHr": 4
+    },
+    {
+      "questId": "village-5-recipe-219993",
+      "name": "黒き禍",
+      "rank": "5",
+      "primaryUrl": "http://wiki.mhxg.org/ida/219993.html",
+      "checkedAt": "2026-10-16",
+      "primaryFinding": "施設強化一覧に掲載。個別ページに具体的な施設拡張内容の記載なし。",
+      "status": "resolved",
+      "adoptedUnlocks": [
+        {
+          "kind": "facility",
+          "label": "屋台の愛情まかない飯",
+          "note": "食事施設のメニュー追加。専門Wikiの開放条件欄はこのクエストを指定しています。追加の納品・報告条件の記載はありません。"
+        }
+      ],
+      "supplementalUrls": [
+        "https://mhx-wiki.com/?%E9%A3%9F%E4%BA%8B%E5%8A%B9%E6%9E%9C%E4%B8%80%E8%A6%A7"
+      ],
+      "reason": "第一資料の施設印では具体名が不明なため、専門Wikiの料理表が指定するメニュー名・クエストを採用。追加の納品・報告条件は記載なし。"
+    },
+    {
+      "questId": "village-5-recipe-220428",
+      "name": "怪鳥の頭部破壊に挑戦！",
+      "rank": "5",
+      "primaryUrl": "http://wiki.mhxg.org/ida/220428.html",
+      "checkedAt": "2026-10-16",
+      "primaryFinding": "施設強化一覧に掲載。個別ページに具体的な施設拡張内容の記載なし。",
+      "status": "resolved",
+      "adoptedUnlocks": [
+        {
+          "kind": "trade",
+          "label": "交易窓口の荷車2台目",
+          "note": "クエストクリアで解放。専用クエスト表に明記されています。追加の納品・報告条件やHRによる別経路は、今回確認した資料では特定していません。"
+        }
+      ],
+      "supplementalUrls": [
+        "https://w.atwiki.jp/mhxxnyanter/pages/24.html"
+      ],
+      "reason": "ニャンター専用クエスト表がクリア後の荷車解放を明記。3台目は専門Wikiの勲章条件でも同じクエストを確認。"
+    },
+    {
+      "questId": "village-6-recipe-220240",
+      "name": "灼熱の刃",
+      "rank": "6",
+      "primaryUrl": "http://wiki.mhxg.org/ida/220240.html",
+      "checkedAt": "2026-10-16",
+      "primaryFinding": "施設強化一覧に掲載。個別ページに具体的な施設拡張内容の記載なし。",
+      "status": "unresolved",
+      "adoptedUnlocks": [],
+      "supplementalUrls": [],
+      "reason": "攻略レシピ・取得した専門資料では具体的な施設内容と追加条件を特定できず。"
+    },
+    {
+      "questId": "village-6-recipe-238216",
+      "name": "盾蟹のヤド破壊に挑戦！",
+      "rank": "6",
+      "primaryUrl": "http://wiki.mhxg.org/ida/238216.html",
+      "checkedAt": "2026-10-16",
+      "primaryFinding": "施設強化一覧に掲載。個別ページに具体的な施設拡張内容の記載なし。",
+      "status": "partial",
+      "adoptedUnlocks": [
+        {
+          "kind": "facility",
+          "label": "オトモ雇用枠の拡張（上限数は未確定）",
+          "note": "このクエストのクリアで拡張。基本情報表は別経路としてHR5以上も記載（OR）。追加の納品・報告条件の記載はありません。上限数の相違は注記を参照してください。"
+        }
+      ],
+      "supplementalUrls": [
+        "https://w.atwiki.jp/mhxxnyanter/pages/20.html",
+        "https://w.atwiki.jp/mhxxnyanter/pages/24.html"
+      ],
+      "reason": "オトモ雇用枠の上限数が出典内で不一致です（基本情報：72匹、専用クエスト表：60匹）。拡張自体は確認済み、数値は未確定です。",
+      "conflict": {
+        "basicCount": 72,
+        "questTableCount": 60
+      },
+      "alternateHr": 5
+    },
+    {
+      "questId": "village-6-recipe-238217",
+      "name": "青と緑の波状包囲網",
+      "rank": "6",
+      "primaryUrl": "http://wiki.mhxg.org/ida/238217.html",
+      "checkedAt": "2026-10-16",
+      "primaryFinding": "施設強化一覧に掲載。個別ページに具体的な施設拡張内容の記載なし。",
+      "status": "resolved",
+      "adoptedUnlocks": [
+        {
+          "kind": "trade",
+          "label": "交易窓口の荷車3台目",
+          "note": "クエストクリアで解放。専用クエスト表に明記されています。追加の納品・報告条件やHRによる別経路は、今回確認した資料では特定していません。"
+        }
+      ],
+      "supplementalUrls": [
+        "https://w.atwiki.jp/mhxxnyanter/pages/24.html",
+        "https://mhx-wiki.com/?cmd=read&page=%E5%8B%B2%E7%AB%A0%E4%B8%80%E8%A6%A7&word=%E8%8D%B7%E8%BB%8A"
+      ],
+      "reason": "ニャンター専用クエスト表がクリア後の荷車解放を明記。3台目は専門Wikiの勲章条件でも同じクエストを確認。"
+    },
+    {
+      "questId": "village-6-recipe-238218",
+      "name": "牙と毒の沼地",
+      "rank": "6",
+      "primaryUrl": "http://wiki.mhxg.org/ida/238218.html",
+      "checkedAt": "2026-10-16",
+      "primaryFinding": "施設強化一覧に掲載。個別ページに具体的な施設拡張内容の記載なし。",
+      "status": "resolved",
+      "adoptedUnlocks": [
+        {
+          "kind": "facility",
+          "label": "オトモの初期雇用レベル10〜12",
+          "note": "このクエストのクリア、またはHR5以上（OR）で解放。基本情報表の雇用レベルと専用クエスト表のレベル範囲を併記したものです。育成レベルの上限解放ではありません。追加の納品・報告条件の記載はありません。"
+        }
+      ],
+      "supplementalUrls": [
+        "https://w.atwiki.jp/mhxxnyanter/pages/20.html",
+        "https://w.atwiki.jp/mhxxnyanter/pages/24.html"
+      ],
+      "reason": "基本情報表がクエストまたはHRのORを明記。専用クエスト表が実際の初期レベル範囲を記載。育成レベル上限とは区別。",
+      "alternateHr": 5
+    }
+  ],
+  "accessNotes": "環境の許可ドメイン追加後にニャンターwikiを正常取得。wikiwiki.jpはサイト側Cloudflare拒否、GoogleはJS案内画面のため採用情報なし。制限解除前の403を未確認の原因として残していない。",
+  "supplementalPagesChecked": [
+    {
+      "url": "https://mhx-wiki.com/?%E9%A3%9F%E4%BA%8B%E5%8A%B9%E6%9E%9C%E4%B8%80%E8%A6%A7",
+      "finding": "3メニューを確認。特上まかない飯は村★5キー任意5つ（緊急除く）。灼熱の刃に結び付けない。"
+    },
+    {
+      "url": "https://w.atwiki.jp/mhxxnyanter/pages/20.html",
+      "finding": "雇用枠48/60/72と、雇用レベル5/10、それぞれのHR別経路。"
+    },
+    {
+      "url": "https://w.atwiki.jp/mhxxnyanter/pages/24.html",
+      "finding": "雇用枠36/48/60（基本情報と不一致）、初期レベル5〜7/10〜12、荷車2/3台目。"
+    },
+    {
+      "url": "https://mhx-wiki.com/?cmd=read&page=%E5%8B%B2%E7%AB%A0%E4%B8%80%E8%A6%A7&word=%E8%8D%B7%E8%BB%8A",
+      "finding": "荷車3台の勲章条件が青と緑の波状包囲網のクリア。"
+    },
+    {
+      "url": "https://game8.jp/mh-xx/827036",
+      "finding": "一般的なオトモの説明。対象13件の施設解放内容は確認できず。"
+    }
+  ]
+}

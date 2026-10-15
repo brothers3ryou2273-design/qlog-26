@@ -134,6 +134,11 @@
         "kind": "food",
         "label": "ホロロース",
         "note": "緊急クエストのクリアで追加（専門Wikiで補完）。"
+      },
+      {
+        "kind": "facility",
+        "label": "屋台の闘魂まかない飯",
+        "note": "食事施設のメニュー追加。専門Wikiの開放条件欄はこのクエストを指定しています。追加の納品・報告条件の記載はありません。"
       }
     ],
     "sources": [
@@ -154,13 +159,17 @@
         "url": "https://mhx-wiki.com/?%E9%A3%9F%E6%9D%90%E3%82%AF%E3%82%A8%E3%82%B9%E3%83%88%E4%B8%80%E8%A6%A7",
         "kind": "list",
         "checkedAt": "2026-10-15"
+      },
+      {
+        "site": "MHXX攻略Wiki（食事施設）",
+        "url": "https://mhx-wiki.com/?%E9%A3%9F%E4%BA%8B%E5%8A%B9%E6%9E%9C%E4%B8%80%E8%A6%A7",
+        "kind": "list",
+        "checkedAt": "2026-10-16"
       }
     ],
     "verification": "partial",
-    "verificationNote": "攻略レシピの明記を採用。通常の会話・報告は補足に分離。解放要素の未記載は「なし」と断定していません。",
-    "warnings": [
-      "具体的な施設・交易の解放内容と追加条件は未確認です。"
-    ]
+    "verificationNote": "攻略レシピの明記を採用。通常の会話・報告は補足に分離。解放要素の未記載は「なし」と断定していません。 施設再調査：第一資料の施設印では具体名が不明なため、専門Wikiの料理表が指定するメニュー名・クエストを採用。追加の納品・報告条件は記載なし。 全施設の網羅確認を意味しません。",
+    "warnings": []
   },
   {
     "id": "village-4-recipe-220198",
@@ -1238,7 +1247,13 @@
       "questId": "village-3-recipe-238186"
     },
     "npcNotes": [],
-    "unlocks": [],
+    "unlocks": [
+      {
+        "kind": "facility",
+        "label": "オトモ雇用枠の拡張（上限数は未確定）",
+        "note": "このクエストのクリアで拡張。基本情報表は別経路としてHR4以上も記載（OR）。追加の納品・報告条件の記載はありません。上限数の相違は注記を参照してください。"
+      }
+    ],
     "sources": [
       {
         "site": "MHXX攻略レシピ",
@@ -1251,12 +1266,24 @@
         "url": "http://wiki.mhxg.org/data/2014.html",
         "kind": "list",
         "checkedAt": "2026-10-15"
+      },
+      {
+        "site": "MHXXニャンターwiki（基本情報）",
+        "url": "https://w.atwiki.jp/mhxxnyanter/pages/20.html",
+        "kind": "list",
+        "checkedAt": "2026-10-16"
+      },
+      {
+        "site": "MHXXニャンターwiki（専用クエスト）",
+        "url": "https://w.atwiki.jp/mhxxnyanter/pages/24.html",
+        "kind": "list",
+        "checkedAt": "2026-10-16"
       }
     ],
     "verification": "partial",
-    "verificationNote": "攻略レシピの明記を採用。通常の会話・報告は補足に分離。解放要素の未記載は「なし」と断定していません。",
+    "verificationNote": "攻略レシピの明記を採用。通常の会話・報告は補足に分離。解放要素の未記載は「なし」と断定していません。 施設再調査：オトモ雇用枠の上限数が出典内で不一致です（基本情報：60匹、専用クエスト表：48匹）。拡張自体は確認済み、数値は未確定です。 全施設の網羅確認を意味しません。",
     "warnings": [
-      "具体的な施設・交易の解放内容と追加条件は未確認です。"
+      "オトモ雇用枠の上限数が出典内で不一致です（基本情報：60匹、専用クエスト表：48匹）。拡張自体は確認済み、数値は未確定です。"
     ]
   },
   {
@@ -1580,7 +1607,13 @@
       ]
     },
     "npcNotes": [],
-    "unlocks": [],
+    "unlocks": [
+      {
+        "kind": "facility",
+        "label": "オトモの初期雇用レベル5〜7",
+        "note": "このクエストのクリア、またはHR4以上（OR）で解放。基本情報表の雇用レベルと専用クエスト表のレベル範囲を併記したものです。育成レベルの上限解放ではありません。追加の納品・報告条件の記載はありません。"
+      }
+    ],
     "sources": [
       {
         "site": "MHXX攻略レシピ",
@@ -1593,12 +1626,22 @@
         "url": "http://wiki.mhxg.org/data/2014.html",
         "kind": "list",
         "checkedAt": "2026-10-15"
+      },
+      {
+        "site": "MHXXニャンターwiki（基本情報）",
+        "url": "https://w.atwiki.jp/mhxxnyanter/pages/20.html",
+        "kind": "list",
+        "checkedAt": "2026-10-16"
+      },
+      {
+        "site": "MHXXニャンターwiki（専用クエスト）",
+        "url": "https://w.atwiki.jp/mhxxnyanter/pages/24.html",
+        "kind": "list",
+        "checkedAt": "2026-10-16"
       }
     ],
     "verification": "partial",
-    "verificationNote": "攻略レシピの明記を採用。通常の会話・報告は補足に分離。解放要素の未記載は「なし」と断定していません。",
-    "warnings": [
-      "具体的な施設・交易の解放内容と追加条件は未確認です。"
-    ]
+    "verificationNote": "攻略レシピの明記を採用。通常の会話・報告は補足に分離。解放要素の未記載は「なし」と断定していません。 施設再調査：基本情報表がクエストまたはHRのORを明記。専用クエスト表が実際の初期レベル範囲を記載。育成レベル上限とは区別。 全施設の網羅確認を意味しません。",
+    "warnings": []
   }
 ]

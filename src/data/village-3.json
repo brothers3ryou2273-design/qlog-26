@@ -1906,7 +1906,13 @@
       "questId": "village-2-recipe-218327"
     },
     "npcNotes": [],
-    "unlocks": [],
+    "unlocks": [
+      {
+        "kind": "facility",
+        "label": "オトモ雇用枠の拡張（上限数は未確定）",
+        "note": "このクエストのクリアで拡張。基本情報表は別経路としてHR4以上も記載（OR）。追加の納品・報告条件の記載はありません。上限数の相違は注記を参照してください。"
+      }
+    ],
     "sources": [
       {
         "site": "MHXX攻略レシピ",
@@ -1925,12 +1931,24 @@
         "url": "https://game8.jp/mh-xx/822915",
         "kind": "detail",
         "checkedAt": "2026-10-15"
+      },
+      {
+        "site": "MHXXニャンターwiki（基本情報）",
+        "url": "https://w.atwiki.jp/mhxxnyanter/pages/20.html",
+        "kind": "list",
+        "checkedAt": "2026-10-16"
+      },
+      {
+        "site": "MHXXニャンターwiki（専用クエスト）",
+        "url": "https://w.atwiki.jp/mhxxnyanter/pages/24.html",
+        "kind": "list",
+        "checkedAt": "2026-10-16"
       }
     ],
     "verification": "partial",
-    "verificationNote": "攻略レシピの明記を採用。通常の会話・報告は補足に分離。解放要素の未記載は「なし」と断定していません。",
+    "verificationNote": "攻略レシピの明記を採用。通常の会話・報告は補足に分離。解放要素の未記載は「なし」と断定していません。 施設再調査：オトモ雇用枠の上限数が出典内で不一致です（基本情報：48匹、専用クエスト表：36匹）。拡張自体は確認済み、数値は未確定です。 全施設の網羅確認を意味しません。",
     "warnings": [
-      "具体的な施設・交易の解放内容と追加条件は未確認です。"
+      "オトモ雇用枠の上限数が出典内で不一致です（基本情報：48匹、専用クエスト表：36匹）。拡張自体は確認済み、数値は未確定です。"
     ]
   },
   {
