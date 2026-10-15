@@ -824,8 +824,8 @@
           "questId": "village-6-recipe-228573"
         },
         {
-          "kind": "unknown",
-          "note": "未収録の前提：村★7調査隊初陣！遺群嶺の桃毛獣"
+          "kind": "quest_cleared",
+          "questId": "village-7-recipe-285740"
         }
       ]
     },

@@ -25,11 +25,9 @@ test("production shows partial coverage and noindex", async ({ page }) => {
   ).toBeVisible();
   await expect(page.locator(".quest-card")).toHaveCount(45);
   await expect(
-    page.getByText("データ整備中 · 実クエスト197件収録"),
+    page.getByText("データ整備中 · 実クエスト370件収録"),
   ).toBeVisible();
-  await page
-    .getByRole("combobox", { name: "ランク", exact: true })
-    .selectOption("7");
+  await page.getByRole("button", { name: "集会所", exact: true }).click();
   await expect(
     page.getByRole("heading", { name: "このランクは、これから収録します" }),
   ).toBeVisible();
@@ -628,7 +626,7 @@ test("all 89 existing checks and backups survive and NPC notes do not block a ne
   );
 });
 
-test("HR gates auto-evaluate while the uncollected rank-7 prerequisite stays unknown", async ({
+test("HR gates auto-evaluate and the collected rank-7 prerequisite resolves 宿命", async ({
   page,
 }) => {
   await page.goto("./");
@@ -660,10 +658,23 @@ test("HR gates auto-evaluate while the uncollected rank-7 prerequisite stays unk
     .check();
   await page.getByRole("searchbox").fill("宿命の四天王");
   await page.getByRole("button", { name: /宿命の四天王/ }).click();
-  await expect(page.locator(".state")).toHaveText("要確認");
-  await expect(
-    page.getByText(/未収録の前提：村★7調査隊初陣！遺群嶺の桃毛獣/),
-  ).toBeVisible();
+  await expect(page.locator(".state")).toHaveText("未達成");
+  await page
+    .getByRole("button", {
+      name: "村 ★7 / 調査隊初陣！遺群嶺の桃毛獣",
+      exact: true,
+    })
+    .click();
+  await page
+    .getByRole("checkbox", {
+      name: "調査隊初陣！遺群嶺の桃毛獣をクリア",
+      exact: true,
+    })
+    .check();
+  await page
+    .getByRole("button", { name: "村 ★6 / 宿命の四天王", exact: true })
+    .click();
+  await expect(page.locator(".state")).toHaveText("記録上の前提達成");
 });
 
 test("confirmed facility meals replace warnings while unresolved facilities stay visible", async ({
@@ -720,7 +731,7 @@ test("all 197 released checks survive facility changes and remain in version-1 b
   const ids = [
     ...released.map((q) => q.id),
     ...roster.ranks
-      .filter((r) => Number(r.rank) >= 4)
+      .filter((r) => Number(r.rank) >= 4 && Number(r.rank) <= 6)
       .flatMap((r) =>
         r.entries.map(
           (q) =>
@@ -810,4 +821,222 @@ test("otomo and cart unlocks show HR alternatives and preserve conflicting slot-
   await expect(
     page.getByRole("link", { name: /MHXXニャンターwiki（基本情報）/ }),
   ).toHaveAttribute("href", "https://w.atwiki.jp/mhxxnyanter/pages/20.html");
+});
+
+test("upper village rosters show every observed rank and role without verification badges", async ({
+  page,
+}) => {
+  await page.goto("./");
+  for (const [rank, count, prowlers] of [
+    ["7", 37, 3],
+    ["8", 42, 4],
+    ["9", 44, 4],
+    ["10", 50, 5],
+  ] as const) {
+    await page
+      .getByRole("combobox", { name: "ランク", exact: true })
+      .selectOption(rank);
+    await expect(page.locator(".quest-card")).toHaveCount(count);
+    await expect(page.getByRole("progressbar")).toHaveAttribute(
+      "max",
+      String(count),
+    );
+    await expect(
+      page
+        .locator(".quest-meta")
+        .filter({ hasText: /一部確認|データ確認済み|データ未確認/ }),
+    ).toHaveCount(0);
+    await page
+      .getByRole("combobox", { name: "プレイ種別", exact: true })
+      .selectOption("prowler");
+    await expect(page.locator(".quest-card")).toHaveCount(prowlers);
+    await page
+      .getByRole("combobox", { name: "プレイ種別", exact: true })
+      .selectOption("");
+  }
+  expect(
+    await page.evaluate(
+      () => document.documentElement.scrollWidth <= innerWidth,
+    ),
+  ).toBe(true);
+});
+
+test("197 released checks coexist with new upper progress and version-1 backup exports", async ({
+  page,
+}) => {
+  const released: { id: string }[] = JSON.parse(
+    await readFile("docs/progress-baseline-197.json", "utf8"),
+  );
+  const ids = released.map((q) => q.id);
+  await page.addInitScript((ids) => {
+    // Seed once: a reload must exercise saved changes, not restore the fixture.
+    if (localStorage.getItem("qlog.mhxx.progress.v1")) return;
+    localStorage.setItem(
+      "qlog.mhxx.progress.v1",
+      JSON.stringify({
+        schemaVersion: 1,
+        completedQuestIds: [...ids, "future-id"],
+        hr: 7,
+      }),
+    );
+  }, ids);
+  await page.goto("./");
+  await page
+    .getByRole("combobox", { name: "ランク", exact: true })
+    .selectOption("7");
+  await expect(page.getByRole("progressbar")).toHaveAttribute("value", "0");
+  await page.getByRole("searchbox").fill("調査隊初陣");
+  await page
+    .getByRole("button", { name: /調査隊初陣！遺群嶺の桃毛獣/ })
+    .click();
+  await expect(page.locator(".state")).toHaveText("記録上の前提達成");
+  await expect(
+    page.getByRole("link", { name: /MHXX攻略レシピ（該当クエスト詳細）/ }),
+  ).toHaveAttribute("href", "http://wiki.mhxg.org/ida/285740.html");
+  await page
+    .getByRole("checkbox", {
+      name: "調査隊初陣！遺群嶺の桃毛獣をクリア",
+      exact: true,
+    })
+    .check();
+  await page
+    .getByRole("button", { name: "村 ★6 / 宿命の四天王", exact: true })
+    .click();
+  await expect(page.locator(".state")).toHaveText("記録上の前提達成");
+  await expect(
+    page.getByRole("checkbox", { name: "宿命の四天王をクリア", exact: true }),
+  ).toBeChecked();
+  await page
+    .getByRole("combobox", { name: "ランク", exact: true })
+    .selectOption("8");
+  await page.getByRole("searchbox").fill("冷血なるドスギアノス");
+  await page
+    .getByRole("checkbox", {
+      name: "冷血なるドスギアノス！をクリア",
+      exact: true,
+    })
+    .check();
+  await page.getByRole("searchbox").fill("桃毛獣のトサカ");
+  await page
+    .getByRole("button", { name: /桃毛獣のトサカ破壊に挑戦！/ })
+    .click();
+  await expect(page.locator(".state")).toHaveText("記録上の前提達成");
+  await expect(
+    page.getByText("オトモの初期雇用レベル30〜32", { exact: false }),
+  ).toBeVisible();
+  await page
+    .getByRole("checkbox", {
+      name: "桃毛獣のトサカ破壊に挑戦！をクリア",
+      exact: true,
+    })
+    .check();
+  await expect
+    .poll(() =>
+      page.evaluate(
+        () =>
+          JSON.parse(localStorage.getItem("qlog.mhxx.progress.v1")!)
+            .completedQuestIds as string[],
+      ),
+    )
+    .toContain("village-8-recipe-288228");
+  await page.reload();
+  await page
+    .getByRole("combobox", { name: "ランク", exact: true })
+    .selectOption("8");
+  await page.getByRole("searchbox").fill("桃毛獣のトサカ");
+  await expect(
+    page.getByRole("checkbox", {
+      name: "桃毛獣のトサカ破壊に挑戦！をクリア",
+      exact: true,
+    }),
+  ).toBeChecked();
+  const pending = page.waitForEvent("download");
+  await page.getByRole("button", { name: "JSONを書き出す" }).click();
+  const exported = JSON.parse(
+    await readFile((await (await pending).path())!, "utf8"),
+  );
+  expect(exported.schemaVersion).toBe(1);
+  expect(exported.hr).toBe(7);
+  expect(exported.completedQuestIds).toHaveLength(201);
+  expect(exported.completedQuestIds).toEqual(
+    expect.arrayContaining([
+      ...ids,
+      "future-id",
+      "village-7-recipe-285740",
+      "village-8-recipe-288226",
+      "village-8-recipe-288228",
+    ]),
+  );
+});
+
+test("upper final conditions distinguish HR, the bounded all-clear set, and random appearance", async ({
+  page,
+}) => {
+  const baseline: { id: string }[] = JSON.parse(
+    await readFile("docs/progress-baseline-197.json", "utf8"),
+  );
+  const roster = JSON.parse(await readFile("docs/data-audit.json", "utf8")) as {
+    ranks: { rank: string; entries: { recipeUrl: string }[] }[];
+  };
+  const ids = [
+    ...baseline.map((q) => q.id),
+    ...roster.ranks
+      .filter((r) => Number(r.rank) >= 7)
+      .flatMap((r) =>
+        r.entries.map(
+          (q) =>
+            `village-${r.rank}-recipe-${q.recipeUrl.split("/").pop()!.replace(".html", "")}`,
+        ),
+      ),
+  ];
+  await page.addInitScript((ids) => {
+    localStorage.setItem(
+      "qlog.mhxx.progress.v1",
+      JSON.stringify({ schemaVersion: 1, completedQuestIds: ids, hr: 9 }),
+    );
+  }, ids);
+  await page.goto("./");
+  await page
+    .getByRole("combobox", { name: "ランク", exact: true })
+    .selectOption("10");
+  await page.getByRole("searchbox").fill("怨嗟の骸");
+  await page.getByRole("button", { name: /怨嗟の骸/ }).click();
+  await expect(page.locator(".state")).toHaveText("記録上の前提達成");
+  await page.getByLabel("現在のHR").fill("8");
+  await page.getByRole("button", { name: "HRを保存" }).click();
+  await expect(page.locator(".state")).toHaveText("未達成");
+  await page.getByLabel("現在のHR").fill("9");
+  await page.getByRole("button", { name: "HRを保存" }).click();
+  await expect(page.locator(".state")).toHaveText("記録上の前提達成");
+  await page.getByRole("searchbox").fill("高難度：モンスターハンター");
+  await page
+    .getByRole("button", { name: /高難度：モンスターハンター/ })
+    .click();
+  await expect(page.locator(".state")).toHaveText("記録上の前提達成");
+  await page
+    .getByText("対象の前提クエストを表示（141条件）", { exact: true })
+    .click();
+  await expect(
+    page.getByRole("button", {
+      name: "村 ★7 / 調査隊初陣！遺群嶺の桃毛獣",
+      exact: true,
+    }),
+  ).toBeVisible();
+  await expect(
+    page.getByText("ポッケ・ネーヴェ（特別入手）", { exact: false }),
+  ).toBeVisible();
+  await page.getByRole("searchbox").fill("高難度：宵闇に消ゆ");
+  await page.getByRole("button", { name: /高難度：宵闇に消ゆ/ }).click();
+  await expect(page.locator(".state")).toHaveText("要確認");
+  await expect(
+    page.getByText(
+      "ランダム出現（現在の出現状態は保存記録から判定できません）",
+      { exact: true },
+    ),
+  ).toBeVisible();
+  expect(
+    await page.evaluate(
+      () => document.documentElement.scrollWidth <= innerWidth,
+    ),
+  ).toBe(true);
 });

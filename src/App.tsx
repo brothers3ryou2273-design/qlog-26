@@ -759,7 +759,7 @@ export default function App() {
               </tbody>
             </table>
             <table>
-              <caption>村★1〜6の収録状況</caption>
+              <caption>村★1〜10の収録状況</caption>
               <thead>
                 <tr>
                   <th>ランク</th>
@@ -768,19 +768,21 @@ export default function App() {
                 </tr>
               </thead>
               <tbody>
-                {["1", "2", "3", "4", "5", "6"].map((rank) => (
-                  <tr key={rank}>
-                    <th>村★{rank}</th>
-                    <td>
-                      {
-                        items.filter(
-                          (q) => q.category === "village" && q.rank === rank,
-                        ).length
-                      }
-                    </td>
-                    <td>一覧照合済み</td>
-                  </tr>
-                ))}
+                {["1", "2", "3", "4", "5", "6", "7", "8", "9", "10"].map(
+                  (rank) => (
+                    <tr key={rank}>
+                      <th>村★{rank}</th>
+                      <td>
+                        {
+                          items.filter(
+                            (q) => q.category === "village" && q.rank === rank,
+                          ).length
+                        }
+                      </td>
+                      <td>一覧照合済み</td>
+                    </tr>
+                  ),
+                )}
               </tbody>
             </table>
           </div>

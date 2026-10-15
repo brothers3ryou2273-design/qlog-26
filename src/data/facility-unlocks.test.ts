@@ -49,7 +49,9 @@ describe("facility re-investigation", () => {
     expect(audit.records.filter((r) => r.status === "unresolved")).toHaveLength(
       3,
     );
-    expect(quests.filter((q) => q.warnings?.length)).toHaveLength(6);
+    expect(
+      quests.filter((q) => Number(q.rank) <= 6 && q.warnings?.length),
+    ).toHaveLength(6);
     for (const r of audit.records.filter((r) => r.status === "partial")) {
       expect(r.conflict?.basicCount).not.toBe(r.conflict?.questTableCount);
       expect(r.supplementalUrls).toHaveLength(2);
@@ -59,7 +61,7 @@ describe("facility re-investigation", () => {
     const expected = [
       ...released.map((q) => q.id),
       ...roster.ranks
-        .filter((r) => Number(r.rank) >= 4)
+        .filter((r) => Number(r.rank) >= 4 && Number(r.rank) <= 6)
         .flatMap((r) =>
           r.entries.map(
             (q) =>
@@ -68,7 +70,9 @@ describe("facility re-investigation", () => {
         ),
     ];
     expect(expected).toHaveLength(197);
-    expect(quests.map((q) => q.id)).toEqual(expected);
+    expect(quests.filter((q) => Number(q.rank) <= 6).map((q) => q.id)).toEqual(
+      expected,
+    );
     expect(SAVE_KEY).toBe("qlog.mhxx.progress.v1");
     const old = {
       schemaVersion: 1,
