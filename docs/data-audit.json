@@ -4199,8 +4199,8 @@
         {
           "name": "領主の依頼～大連続篇～",
           "recipeUrl": "http://wiki.mhxg.org/ida/298975.html",
-          "game8Url": null,
-          "game8Name": null,
+          "game8Url": "https://game8.jp/mh-xx/823234",
+          "game8Name": "領主の依頼〜大連続篇〜",
           "role": "hunter",
           "tags": ["normal"],
           "prerequisiteUrls": [],
@@ -4210,8 +4210,8 @@
         {
           "name": "狩人のための舞台～森丘～",
           "recipeUrl": "http://wiki.mhxg.org/ida/298976.html",
-          "game8Url": null,
-          "game8Name": null,
+          "game8Url": "https://game8.jp/mh-xx/823235",
+          "game8Name": "狩人のための舞台〜森丘〜",
           "role": "hunter",
           "tags": ["normal"],
           "prerequisiteUrls": [],

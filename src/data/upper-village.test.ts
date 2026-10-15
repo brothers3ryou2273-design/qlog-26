@@ -301,9 +301,26 @@ it("retains the full primary rank-10 roster despite the smaller observed corpora
     .default;
   const rank10 = observed.rosterComparisons.find((r) => r.rank === "10")!;
   expect([rank10.primaryCount, rank10.game8Count]).toEqual([50, 33]);
+  expect(rank10.primaryOnlyAfterWaveDashNormalization).toHaveLength(17);
   expect(quests.filter((q) => q.rank === "10")).toHaveLength(50);
   expect(named("黒き光を放つ神", "10")).toBeDefined();
   expect(
     quests.filter((q) => q.rank === "10" && q.name.startsWith("高難度：")),
   ).toHaveLength(16);
+});
+
+it("uses the fetched corporate pages to fill two wave-dash spelling variants instead of leaving generic unknowns", () => {
+  for (const name of ["領主の依頼～大連続篇～", "狩人のための舞台～森丘～"]) {
+    const q = named(name, "10");
+    expect(references(q.condition)).toEqual([
+      named("恐れ見よ、赤き災厄の彗星を", "10").id,
+    ]);
+    expect(
+      q.sources.some((s) => s.site.startsWith("Game8") && s.checkedAt),
+    ).toBe(true);
+  }
+  for (const q of quests.filter((q) => Number(q.rank) >= 7))
+    expect(JSON.stringify(q.condition)).not.toContain(
+      "出現前提を出典から特定できませんでした",
+    );
 });

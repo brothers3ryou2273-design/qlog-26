@@ -978,10 +978,12 @@
       "normal"
     ],
     "condition": {
-      "kind": "unknown",
-      "note": "出現前提を出典から特定できませんでした。"
+      "kind": "quest_cleared",
+      "questId": "village-10-recipe-286240"
     },
-    "npcNotes": [],
+    "npcNotes": [
+      "調査隊の隊長と話す。"
+    ],
     "unlocks": [],
     "sources": [
       {
@@ -994,6 +996,12 @@
         "site": "MHXX攻略レシピ（ランク一覧）",
         "url": "http://wiki.mhxg.org/data/2020.html",
         "kind": "list",
+        "checkedAt": "2026-10-16"
+      },
+      {
+        "site": "Game8 MHXX（前提補完）",
+        "url": "https://game8.jp/mh-xx/823234",
+        "kind": "detail",
         "checkedAt": "2026-10-16"
       }
     ],
@@ -1012,10 +1020,12 @@
       "normal"
     ],
     "condition": {
-      "kind": "unknown",
-      "note": "出現前提を出典から特定できませんでした。"
+      "kind": "quest_cleared",
+      "questId": "village-10-recipe-286240"
     },
-    "npcNotes": [],
+    "npcNotes": [
+      "調査隊の隊長と話す。"
+    ],
     "unlocks": [],
     "sources": [
       {
@@ -1028,6 +1038,12 @@
         "site": "MHXX攻略レシピ（ランク一覧）",
         "url": "http://wiki.mhxg.org/data/2020.html",
         "kind": "list",
+        "checkedAt": "2026-10-16"
+      },
+      {
+        "site": "Game8 MHXX（前提補完）",
+        "url": "https://game8.jp/mh-xx/823235",
+        "kind": "detail",
         "checkedAt": "2026-10-16"
       }
     ],

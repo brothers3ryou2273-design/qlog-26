@@ -26,7 +26,9 @@
       "primaryOnlyNames": [],
       "game8OnlyNames": [],
       "game8ListUrl": "https://game8.jp/mh-xx/824265",
-      "checkedAt": "2026-10-16"
+      "checkedAt": "2026-10-16",
+      "primaryOnlyAfterWaveDashNormalization": [],
+      "game8OnlyAfterWaveDashNormalization": []
     },
     {
       "rank": "8",
@@ -41,7 +43,9 @@
         "狩人のための舞台〜氷海〜"
       ],
       "game8ListUrl": "https://game8.jp/mh-xx/824265",
-      "checkedAt": "2026-10-16"
+      "checkedAt": "2026-10-16",
+      "primaryOnlyAfterWaveDashNormalization": ["ぷくぅーっ！ザボアザギル！"],
+      "game8OnlyAfterWaveDashNormalization": ["ぶくぅーっ！ザボアザギル！"]
     },
     {
       "rank": "9",
@@ -53,7 +57,9 @@
       ],
       "game8OnlyNames": ["狩人のための舞台〜密林〜", "領主の命令〜泡狐竜篇〜"],
       "game8ListUrl": "https://game8.jp/mh-xx/824265",
-      "checkedAt": "2026-10-16"
+      "checkedAt": "2026-10-16",
+      "primaryOnlyAfterWaveDashNormalization": [],
+      "game8OnlyAfterWaveDashNormalization": []
     },
     {
       "rank": "10",
@@ -82,7 +88,27 @@
       ],
       "game8OnlyNames": ["狩人のための舞台〜森丘〜", "領主の依頼〜大連続篇〜"],
       "game8ListUrl": "https://game8.jp/mh-xx/824265",
-      "checkedAt": "2026-10-16"
+      "checkedAt": "2026-10-16",
+      "primaryOnlyAfterWaveDashNormalization": [
+        "高難度：ギルドからの試練",
+        "高難度：ダブルクロス",
+        "高難度：モンスターハンター",
+        "高難度：古代林に現る２頭の影",
+        "高難度：喧嘩の仲裁は村を救う",
+        "高難度：宵闇に消ゆ",
+        "高難度：彼女は輝く金火竜",
+        "高難度：月夜を仰ぐ雷狼竜",
+        "高難度：森丘にて火竜は旋廻す",
+        "高難度：禍は鋼鉄よりも硬し",
+        "高難度：覇者の証明",
+        "高難度：遺群嶺の試練",
+        "高難度：銀陽は沈まない",
+        "高難度：陽炎の帝国",
+        "高難度：雪山に佇む轟竜",
+        "高難度：龍歴院からの挑戦状",
+        "黒き光を放つ神"
+      ],
+      "game8OnlyAfterWaveDashNormalization": []
     }
   ],
   "supplementalPrerequisites": [
@@ -1058,6 +1084,36 @@
       "name": "時を廻りて戻り来よ",
       "rank": "10",
       "url": "https://game8.jp/mh-xx/823233",
+      "checkedAt": "2026-10-16",
+      "observedAppearanceCondition": {
+        "text": "恐れ見よ、赤き災厄の彗星を （村★10緊急クエスト）をクリア後、調査隊の隊長と話す",
+        "links": [
+          {
+            "label": "恐れ見よ、赤き災厄の彗星を",
+            "url": "https://game8.jp/mh-xx/823215"
+          }
+        ]
+      }
+    },
+    {
+      "name": "領主の依頼〜大連続篇〜",
+      "rank": "10",
+      "url": "https://game8.jp/mh-xx/823234",
+      "checkedAt": "2026-10-16",
+      "observedAppearanceCondition": {
+        "text": "恐れ見よ、赤き災厄の彗星を （村★10緊急クエスト）をクリア後、調査隊の隊長と話す",
+        "links": [
+          {
+            "label": "恐れ見よ、赤き災厄の彗星を",
+            "url": "https://game8.jp/mh-xx/823215"
+          }
+        ]
+      }
+    },
+    {
+      "name": "狩人のための舞台〜森丘〜",
+      "rank": "10",
+      "url": "https://game8.jp/mh-xx/823235",
       "checkedAt": "2026-10-16",
       "observedAppearanceCondition": {
         "text": "恐れ見よ、赤き災厄の彗星を （村★10緊急クエスト）をクリア後、調査隊の隊長と話す",
