@@ -1,0 +1,277 @@
+[
+  {
+    "id": "village-1-g8-822831",
+    "name": "古代林の特産ゼンマイ",
+    "category": "village",
+    "rank": "1",
+    "order": 0,
+    "role": "hunter",
+    "tags": [
+      "key"
+    ],
+    "condition": {
+      "kind": "none"
+    },
+    "unlocks": [],
+    "sources": [
+      {
+        "site": "MHXX攻略レシピ",
+        "url": "http://wiki.mhxg.org/ida/219133.html",
+        "kind": "detail",
+        "checkedAt": "2026-10-15"
+      },
+      {
+        "site": "MHXX攻略レシピ（ランク一覧）",
+        "url": "http://wiki.mhxg.org/data/2011.html",
+        "kind": "list",
+        "checkedAt": "2026-10-15"
+      },
+      {
+        "site": "Game8 MHXX",
+        "url": "https://game8.jp/mh-xx/822831",
+        "kind": "detail",
+        "checkedAt": "2026-10-15"
+      }
+    ],
+    "verification": "partial",
+    "verificationNote": "攻略レシピの一覧・個別ページで名称・分類・前提を確認し、Game8で会話等を補完。食材・施設・交易等の解放要素は未記載を「なし」と断定せず、調査継続中です。"
+  },
+  {
+    "id": "village-1-recipe-219134",
+    "name": "悠久が眠る竜琥珀",
+    "rank": "1",
+    "category": "village",
+    "order": 1,
+    "role": "hunter",
+    "tags": [
+      "normal"
+    ],
+    "sources": [
+      {
+        "site": "MHXX攻略レシピ",
+        "url": "http://wiki.mhxg.org/ida/219134.html",
+        "kind": "detail",
+        "checkedAt": "2026-10-15"
+      },
+      {
+        "site": "MHXX攻略レシピ（ランク一覧）",
+        "url": "http://wiki.mhxg.org/data/2011.html",
+        "kind": "list",
+        "checkedAt": "2026-10-15"
+      },
+      {
+        "site": "Game8 MHXX",
+        "url": "https://game8.jp/mh-xx/822832",
+        "kind": "detail",
+        "checkedAt": "2026-10-15"
+      }
+    ],
+    "condition": {
+      "kind": "none"
+    },
+    "unlocks": [],
+    "verification": "partial",
+    "verificationNote": "攻略レシピの一覧・個別ページで名称・分類・前提を確認し、Game8で会話等を補完。食材・施設・交易等の解放要素は未記載を「なし」と断定せず、調査継続中です。"
+  },
+  {
+    "id": "village-1-recipe-219135",
+    "name": "滋養強壮不老の蛾",
+    "rank": "1",
+    "category": "village",
+    "order": 2,
+    "role": "hunter",
+    "tags": [
+      "normal"
+    ],
+    "sources": [
+      {
+        "site": "MHXX攻略レシピ",
+        "url": "http://wiki.mhxg.org/ida/219135.html",
+        "kind": "detail",
+        "checkedAt": "2026-10-15"
+      },
+      {
+        "site": "MHXX攻略レシピ（ランク一覧）",
+        "url": "http://wiki.mhxg.org/data/2011.html",
+        "kind": "list",
+        "checkedAt": "2026-10-15"
+      },
+      {
+        "site": "Game8 MHXX",
+        "url": "https://game8.jp/mh-xx/822833",
+        "kind": "detail",
+        "checkedAt": "2026-10-15"
+      }
+    ],
+    "condition": {
+      "kind": "none"
+    },
+    "unlocks": [],
+    "verification": "partial",
+    "verificationNote": "攻略レシピの一覧・個別ページで名称・分類・前提を確認し、Game8で会話等を補完。食材・施設・交易等の解放要素は未記載を「なし」と断定せず、調査継続中です。"
+  },
+  {
+    "id": "village-1-recipe-219136",
+    "name": "森の中のケルビ",
+    "rank": "1",
+    "category": "village",
+    "order": 3,
+    "role": "hunter",
+    "tags": [
+      "normal"
+    ],
+    "sources": [
+      {
+        "site": "MHXX攻略レシピ",
+        "url": "http://wiki.mhxg.org/ida/219136.html",
+        "kind": "detail",
+        "checkedAt": "2026-10-15"
+      },
+      {
+        "site": "MHXX攻略レシピ（ランク一覧）",
+        "url": "http://wiki.mhxg.org/data/2011.html",
+        "kind": "list",
+        "checkedAt": "2026-10-15"
+      },
+      {
+        "site": "Game8 MHXX",
+        "url": "https://game8.jp/mh-xx/822834",
+        "kind": "detail",
+        "checkedAt": "2026-10-15"
+      }
+    ],
+    "condition": {
+      "kind": "none"
+    },
+    "unlocks": [],
+    "verification": "partial",
+    "verificationNote": "攻略レシピの一覧・個別ページで名称・分類・前提を確認し、Game8で会話等を補完。食材・施設・交易等の解放要素は未記載を「なし」と断定せず、調査継続中です。"
+  },
+  {
+    "id": "village-1-g8-822835",
+    "name": "古代の森でシメジ狩り",
+    "category": "village",
+    "rank": "1",
+    "order": 4,
+    "role": "hunter",
+    "tags": [
+      "key"
+    ],
+    "condition": {
+      "kind": "quest_cleared",
+      "questId": "village-1-g8-822831"
+    },
+    "unlocks": [],
+    "sources": [
+      {
+        "site": "MHXX攻略レシピ",
+        "url": "http://wiki.mhxg.org/ida/218316.html",
+        "kind": "detail",
+        "checkedAt": "2026-10-15"
+      },
+      {
+        "site": "MHXX攻略レシピ（ランク一覧）",
+        "url": "http://wiki.mhxg.org/data/2011.html",
+        "kind": "list",
+        "checkedAt": "2026-10-15"
+      },
+      {
+        "site": "Game8 MHXX",
+        "url": "https://game8.jp/mh-xx/822835",
+        "kind": "detail",
+        "checkedAt": "2026-10-15"
+      }
+    ],
+    "verification": "partial",
+    "verificationNote": "攻略レシピの一覧・個別ページで名称・分類・前提を確認し、Game8で会話等を補完。食材・施設・交易等の解放要素は未記載を「なし」と断定せず、調査継続中です。"
+  },
+  {
+    "id": "village-1-g8-822836",
+    "name": "マッカォの群れを討伐せよ！",
+    "category": "village",
+    "rank": "1",
+    "order": 5,
+    "role": "hunter",
+    "tags": [
+      "key"
+    ],
+    "condition": {
+      "kind": "none"
+    },
+    "unlocks": [],
+    "sources": [
+      {
+        "site": "MHXX攻略レシピ",
+        "url": "http://wiki.mhxg.org/ida/218315.html",
+        "kind": "detail",
+        "checkedAt": "2026-10-15"
+      },
+      {
+        "site": "MHXX攻略レシピ（ランク一覧）",
+        "url": "http://wiki.mhxg.org/data/2011.html",
+        "kind": "list",
+        "checkedAt": "2026-10-15"
+      },
+      {
+        "site": "Game8 MHXX",
+        "url": "https://game8.jp/mh-xx/822836",
+        "kind": "detail",
+        "checkedAt": "2026-10-15"
+      }
+    ],
+    "verification": "partial",
+    "verificationNote": "攻略レシピの一覧・個別ページで名称・分類・前提を確認し、Game8で会話等を補完。食材・施設・交易等の解放要素は未記載を「なし」と断定せず、調査継続中です。"
+  },
+  {
+    "id": "village-1-g8-822837",
+    "name": "ネコ嬢のジャギィ討伐依頼",
+    "category": "village",
+    "rank": "1",
+    "order": 6,
+    "role": "hunter",
+    "tags": [
+      "key",
+      "request"
+    ],
+    "condition": {
+      "kind": "all",
+      "rules": [
+        {
+          "kind": "quest_cleared",
+          "questId": "village-1-g8-822836"
+        },
+        {
+          "kind": "external_flag",
+          "label": "ベルナ村 ネコ嬢の依頼1の受注・必要な会話"
+        },
+        {
+          "kind": "external_flag",
+          "label": "ベルナ村の村長、ネコ嬢の順に話す"
+        }
+      ]
+    },
+    "unlocks": [],
+    "sources": [
+      {
+        "site": "MHXX攻略レシピ",
+        "url": "http://wiki.mhxg.org/ida/219137.html",
+        "kind": "detail",
+        "checkedAt": "2026-10-15"
+      },
+      {
+        "site": "MHXX攻略レシピ（ランク一覧）",
+        "url": "http://wiki.mhxg.org/data/2011.html",
+        "kind": "list",
+        "checkedAt": "2026-10-15"
+      },
+      {
+        "site": "Game8 MHXX",
+        "url": "https://game8.jp/mh-xx/822837",
+        "kind": "detail",
+        "checkedAt": "2026-10-15"
+      }
+    ],
+    "verification": "partial",
+    "verificationNote": "攻略レシピの一覧・個別ページで名称・分類・前提を確認し、Game8で会話等を補完。食材・施設・交易等の解放要素は未記載を「なし」と断定せず、調査継続中です。"
+  }
+]

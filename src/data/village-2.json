@@ -1,0 +1,1972 @@
+[
+  {
+    "id": "village-2-recipe-219308",
+    "name": "古代林の採集ツアー",
+    "rank": "2",
+    "category": "village",
+    "order": 0,
+    "role": "hunter",
+    "tags": [
+      "normal"
+    ],
+    "sources": [
+      {
+        "site": "MHXX攻略レシピ",
+        "url": "http://wiki.mhxg.org/ida/219308.html",
+        "kind": "detail",
+        "checkedAt": "2026-10-15"
+      },
+      {
+        "site": "MHXX攻略レシピ（ランク一覧）",
+        "url": "http://wiki.mhxg.org/data/2012.html",
+        "kind": "list",
+        "checkedAt": "2026-10-15"
+      },
+      {
+        "site": "Game8 MHXX",
+        "url": "https://game8.jp/mh-xx/822838",
+        "kind": "detail",
+        "checkedAt": "2026-10-15"
+      }
+    ],
+    "condition": {
+      "kind": "all",
+      "rules": [
+        {
+          "kind": "quest_cleared",
+          "questId": "village-2-g8-822843"
+        },
+        {
+          "kind": "external_flag",
+          "label": "ベルナ村の村長、龍歴院の主席研究員と話す"
+        }
+      ]
+    },
+    "unlocks": [],
+    "verification": "partial",
+    "verificationNote": "攻略レシピの一覧・個別ページで名称・分類・前提を確認し、Game8で会話等を補完。食材・施設・交易等の解放要素は未記載を「なし」と断定せず、調査継続中です。"
+  },
+  {
+    "id": "village-2-recipe-219309",
+    "name": "旧砂漠の採集ツアー",
+    "rank": "2",
+    "category": "village",
+    "order": 1,
+    "role": "hunter",
+    "tags": [
+      "normal"
+    ],
+    "sources": [
+      {
+        "site": "MHXX攻略レシピ",
+        "url": "http://wiki.mhxg.org/ida/219309.html",
+        "kind": "detail",
+        "checkedAt": "2026-10-15"
+      },
+      {
+        "site": "MHXX攻略レシピ（ランク一覧）",
+        "url": "http://wiki.mhxg.org/data/2012.html",
+        "kind": "list",
+        "checkedAt": "2026-10-15"
+      },
+      {
+        "site": "Game8 MHXX",
+        "url": "https://game8.jp/mh-xx/822839",
+        "kind": "detail",
+        "checkedAt": "2026-10-15"
+      }
+    ],
+    "condition": {
+      "kind": "all",
+      "rules": [
+        {
+          "kind": "quest_cleared",
+          "questId": "village-2-g8-822843"
+        },
+        {
+          "kind": "external_flag",
+          "label": "ベルナ村の村長、龍歴院の主席研究員と話す"
+        }
+      ]
+    },
+    "unlocks": [],
+    "verification": "partial",
+    "verificationNote": "攻略レシピの一覧・個別ページで名称・分類・前提を確認し、Game8で会話等を補完。食材・施設・交易等の解放要素は未記載を「なし」と断定せず、調査継続中です。"
+  },
+  {
+    "id": "village-2-recipe-219310",
+    "name": "森丘の採集ツアー",
+    "rank": "2",
+    "category": "village",
+    "order": 2,
+    "role": "hunter",
+    "tags": [
+      "normal"
+    ],
+    "sources": [
+      {
+        "site": "MHXX攻略レシピ",
+        "url": "http://wiki.mhxg.org/ida/219310.html",
+        "kind": "detail",
+        "checkedAt": "2026-10-15"
+      },
+      {
+        "site": "MHXX攻略レシピ（ランク一覧）",
+        "url": "http://wiki.mhxg.org/data/2012.html",
+        "kind": "list",
+        "checkedAt": "2026-10-15"
+      },
+      {
+        "site": "Game8 MHXX",
+        "url": "https://game8.jp/mh-xx/822840",
+        "kind": "detail",
+        "checkedAt": "2026-10-15"
+      }
+    ],
+    "condition": {
+      "kind": "all",
+      "rules": [
+        {
+          "kind": "quest_cleared",
+          "questId": "village-2-recipe-220154"
+        },
+        {
+          "kind": "external_flag",
+          "label": "ココット村の村長と話す"
+        }
+      ]
+    },
+    "unlocks": [],
+    "verification": "partial",
+    "verificationNote": "攻略レシピの一覧・個別ページで名称・分類・前提を確認し、Game8で会話等を補完。食材・施設・交易等の解放要素は未記載を「なし」と断定せず、調査継続中です。"
+  },
+  {
+    "id": "village-2-recipe-219311",
+    "name": "雪山の採集ツアー",
+    "rank": "2",
+    "category": "village",
+    "order": 3,
+    "role": "hunter",
+    "tags": [
+      "normal"
+    ],
+    "sources": [
+      {
+        "site": "MHXX攻略レシピ",
+        "url": "http://wiki.mhxg.org/ida/219311.html",
+        "kind": "detail",
+        "checkedAt": "2026-10-15"
+      },
+      {
+        "site": "MHXX攻略レシピ（ランク一覧）",
+        "url": "http://wiki.mhxg.org/data/2012.html",
+        "kind": "list",
+        "checkedAt": "2026-10-15"
+      },
+      {
+        "site": "Game8 MHXX",
+        "url": "https://game8.jp/mh-xx/822841",
+        "kind": "detail",
+        "checkedAt": "2026-10-15"
+      }
+    ],
+    "condition": {
+      "kind": "all",
+      "rules": [
+        {
+          "kind": "quest_cleared",
+          "questId": "village-2-recipe-220159"
+        },
+        {
+          "kind": "external_flag",
+          "label": "ポッケ村の村長と話す"
+        }
+      ]
+    },
+    "unlocks": [],
+    "verification": "partial",
+    "verificationNote": "攻略レシピの一覧・個別ページで名称・分類・前提を確認し、Game8で会話等を補完。食材・施設・交易等の解放要素は未記載を「なし」と断定せず、調査継続中です。"
+  },
+  {
+    "id": "village-2-recipe-219312",
+    "name": "渓流の採集ツアー",
+    "rank": "2",
+    "category": "village",
+    "order": 4,
+    "role": "hunter",
+    "tags": [
+      "normal"
+    ],
+    "sources": [
+      {
+        "site": "MHXX攻略レシピ",
+        "url": "http://wiki.mhxg.org/ida/219312.html",
+        "kind": "detail",
+        "checkedAt": "2026-10-15"
+      },
+      {
+        "site": "MHXX攻略レシピ（ランク一覧）",
+        "url": "http://wiki.mhxg.org/data/2012.html",
+        "kind": "list",
+        "checkedAt": "2026-10-15"
+      },
+      {
+        "site": "Game8 MHXX",
+        "url": "https://game8.jp/mh-xx/822842",
+        "kind": "detail",
+        "checkedAt": "2026-10-15"
+      }
+    ],
+    "condition": {
+      "kind": "all",
+      "rules": [
+        {
+          "kind": "quest_cleared",
+          "questId": "village-2-recipe-220164"
+        },
+        {
+          "kind": "external_flag",
+          "label": "ユクモ村の村長と話す"
+        }
+      ]
+    },
+    "unlocks": [],
+    "verification": "partial",
+    "verificationNote": "攻略レシピの一覧・個別ページで名称・分類・前提を確認し、Game8で会話等を補完。食材・施設・交易等の解放要素は未記載を「なし」と断定せず、調査継続中です。"
+  },
+  {
+    "id": "village-2-g8-822843",
+    "name": "跳躍のアウトロー",
+    "category": "village",
+    "rank": "2",
+    "order": 5,
+    "role": "hunter",
+    "tags": [
+      "urgent"
+    ],
+    "condition": {
+      "kind": "all",
+      "rules": [
+        {
+          "kind": "quest_cleared",
+          "questId": "village-1-g8-822831"
+        },
+        {
+          "kind": "quest_cleared",
+          "questId": "village-1-g8-822835"
+        },
+        {
+          "kind": "quest_cleared",
+          "questId": "village-1-g8-822836"
+        },
+        {
+          "kind": "quest_cleared",
+          "questId": "village-1-g8-822837"
+        },
+        {
+          "kind": "external_flag",
+          "label": "ネコ嬢、ベルナ村の村長の順に話す"
+        }
+      ]
+    },
+    "unlocks": [
+      {
+        "kind": "hunter_art",
+        "label": "獣宿し【獅子】 LV1",
+        "note": "クエストクリア後の解放。修得・利用可能状態はゲーム内で確認してください。"
+      },
+      {
+        "kind": "hunter_art",
+        "label": "鏡花の構え LV1",
+        "note": "クエストクリア後の解放。修得・利用可能状態はゲーム内で確認してください。"
+      },
+      {
+        "kind": "hunter_art",
+        "label": "昇竜撃 LV1",
+        "note": "クエストクリア後の解放。修得・利用可能状態はゲーム内で確認してください。"
+      },
+      {
+        "kind": "hunter_art",
+        "label": "天翔空破断 LV1",
+        "note": "クエストクリア後の解放。修得・利用可能状態はゲーム内で確認してください。"
+      },
+      {
+        "kind": "hunter_art",
+        "label": "大挑発 LV1",
+        "note": "クエストクリア後の解放。修得・利用可能状態はゲーム内で確認してください。"
+      },
+      {
+        "kind": "hunter_art",
+        "label": "奏纏 LV1",
+        "note": "クエストクリア後の解放。修得・利用可能状態はゲーム内で確認してください。"
+      },
+      {
+        "kind": "hunter_art",
+        "label": "ガードレイジ LV1",
+        "note": "クエストクリア後の解放。修得・利用可能状態はゲーム内で確認してください。"
+      },
+      {
+        "kind": "hunter_art",
+        "label": "覇山竜撃砲 LV1",
+        "note": "クエストクリア後の解放。修得・利用可能状態はゲーム内で確認してください。"
+      },
+      {
+        "kind": "hunter_art",
+        "label": "剣鬼形態 LV1",
+        "note": "クエストクリア後の解放。修得・利用可能状態はゲーム内で確認してください。"
+      },
+      {
+        "kind": "hunter_art",
+        "label": "ヒーリングボトル LV1",
+        "note": "クエストクリア後の解放。修得・利用可能状態はゲーム内で確認してください。"
+      },
+      {
+        "kind": "hunter_art",
+        "label": "蟲纏い LV1",
+        "note": "クエストクリア後の解放。修得・利用可能状態はゲーム内で確認してください。"
+      },
+      {
+        "kind": "hunter_art",
+        "label": "ラピッドヘブン LV1",
+        "note": "クエストクリア後の解放。修得・利用可能状態はゲーム内で確認してください。"
+      },
+      {
+        "kind": "hunter_art",
+        "label": "スーパーノヴァ LV1",
+        "note": "クエストクリア後の解放。修得・利用可能状態はゲーム内で確認してください。"
+      },
+      {
+        "kind": "hunter_art",
+        "label": "ブレイドワイヤー LV1",
+        "note": "クエストクリア後の解放。修得・利用可能状態はゲーム内で確認してください。"
+      }
+    ],
+    "sources": [
+      {
+        "site": "MHXX攻略レシピ",
+        "url": "http://wiki.mhxg.org/ida/219257.html",
+        "kind": "detail",
+        "checkedAt": "2026-10-15"
+      },
+      {
+        "site": "MHXX攻略レシピ（ランク一覧）",
+        "url": "http://wiki.mhxg.org/data/2012.html",
+        "kind": "list",
+        "checkedAt": "2026-10-15"
+      },
+      {
+        "site": "Game8 MHXX",
+        "url": "https://game8.jp/mh-xx/822843",
+        "kind": "detail",
+        "checkedAt": "2026-10-15"
+      }
+    ],
+    "verification": "partial",
+    "verificationNote": "攻略レシピの一覧・個別ページで名称・分類・前提を確認し、Game8で会話等を補完。食材・施設・交易等の解放要素は未記載を「なし」と断定せず、調査継続中です。 一覧に施設の印がありますが、具体的な施設・交易の解放内容と追加条件は未確認です。 一覧に食材の印がありますが、具体的な食材名と追加条件は未確認です。"
+  },
+  {
+    "id": "village-2-g8-822844",
+    "name": "お騒がせのリノプロス",
+    "category": "village",
+    "rank": "2",
+    "order": 6,
+    "role": "hunter",
+    "tags": [
+      "key"
+    ],
+    "condition": {
+      "kind": "all",
+      "rules": [
+        {
+          "kind": "quest_cleared",
+          "questId": "village-2-g8-822843"
+        },
+        {
+          "kind": "external_flag",
+          "label": "ベルナ村の村長、龍歴院の主席研究員と話す"
+        }
+      ]
+    },
+    "unlocks": [],
+    "sources": [
+      {
+        "site": "MHXX攻略レシピ",
+        "url": "http://wiki.mhxg.org/ida/219313.html",
+        "kind": "detail",
+        "checkedAt": "2026-10-15"
+      },
+      {
+        "site": "MHXX攻略レシピ（ランク一覧）",
+        "url": "http://wiki.mhxg.org/data/2012.html",
+        "kind": "list",
+        "checkedAt": "2026-10-15"
+      },
+      {
+        "site": "Game8 MHXX",
+        "url": "https://game8.jp/mh-xx/822844",
+        "kind": "detail",
+        "checkedAt": "2026-10-15"
+      }
+    ],
+    "verification": "partial",
+    "verificationNote": "攻略レシピの一覧・個別ページで名称・分類・前提を確認し、Game8で会話等を補完。食材・施設・交易等の解放要素は未記載を「なし」と断定せず、調査継続中です。"
+  },
+  {
+    "id": "village-2-recipe-219314",
+    "name": "古代林の暴れん坊",
+    "rank": "2",
+    "category": "village",
+    "order": 7,
+    "role": "hunter",
+    "tags": [
+      "request"
+    ],
+    "sources": [
+      {
+        "site": "MHXX攻略レシピ",
+        "url": "http://wiki.mhxg.org/ida/219314.html",
+        "kind": "detail",
+        "checkedAt": "2026-10-15"
+      },
+      {
+        "site": "MHXX攻略レシピ（ランク一覧）",
+        "url": "http://wiki.mhxg.org/data/2012.html",
+        "kind": "list",
+        "checkedAt": "2026-10-15"
+      },
+      {
+        "site": "Game8 MHXX",
+        "url": "https://game8.jp/mh-xx/822845",
+        "kind": "detail",
+        "checkedAt": "2026-10-15"
+      }
+    ],
+    "condition": {
+      "kind": "all",
+      "rules": [
+        {
+          "kind": "quest_cleared",
+          "questId": "village-2-g8-822843"
+        },
+        {
+          "kind": "external_flag",
+          "label": "ベルナ村の村長、龍歴院の主席研究員と話す"
+        },
+        {
+          "kind": "external_flag",
+          "label": "ベルナ村 しっかり者の村人の依頼1の受注・必要な会話"
+        }
+      ]
+    },
+    "unlocks": [],
+    "verification": "partial",
+    "verificationNote": "攻略レシピの一覧・個別ページで名称・分類・前提を確認し、Game8で会話等を補完。食材・施設・交易等の解放要素は未記載を「なし」と断定せず、調査継続中です。"
+  },
+  {
+    "id": "village-2-recipe-219315",
+    "name": "リモセトス採果利用法",
+    "rank": "2",
+    "category": "village",
+    "order": 8,
+    "role": "hunter",
+    "tags": [
+      "normal"
+    ],
+    "sources": [
+      {
+        "site": "MHXX攻略レシピ",
+        "url": "http://wiki.mhxg.org/ida/219315.html",
+        "kind": "detail",
+        "checkedAt": "2026-10-15"
+      },
+      {
+        "site": "MHXX攻略レシピ（ランク一覧）",
+        "url": "http://wiki.mhxg.org/data/2012.html",
+        "kind": "list",
+        "checkedAt": "2026-10-15"
+      },
+      {
+        "site": "Game8 MHXX",
+        "url": "https://game8.jp/mh-xx/822846",
+        "kind": "detail",
+        "checkedAt": "2026-10-15"
+      }
+    ],
+    "condition": {
+      "kind": "all",
+      "rules": [
+        {
+          "kind": "quest_cleared",
+          "questId": "village-2-g8-822843"
+        },
+        {
+          "kind": "external_flag",
+          "label": "ベルナ村の村長、龍歴院の主席研究員と話す"
+        }
+      ]
+    },
+    "unlocks": [],
+    "verification": "partial",
+    "verificationNote": "攻略レシピの一覧・個別ページで名称・分類・前提を確認し、Game8で会話等を補完。食材・施設・交易等の解放要素は未記載を「なし」と断定せず、調査継続中です。"
+  },
+  {
+    "id": "village-2-recipe-219316",
+    "name": "ゼンマイ肴に古代を感じて",
+    "rank": "2",
+    "category": "village",
+    "order": 9,
+    "role": "hunter",
+    "tags": [
+      "normal"
+    ],
+    "sources": [
+      {
+        "site": "MHXX攻略レシピ",
+        "url": "http://wiki.mhxg.org/ida/219316.html",
+        "kind": "detail",
+        "checkedAt": "2026-10-15"
+      },
+      {
+        "site": "MHXX攻略レシピ（ランク一覧）",
+        "url": "http://wiki.mhxg.org/data/2012.html",
+        "kind": "list",
+        "checkedAt": "2026-10-15"
+      },
+      {
+        "site": "Game8 MHXX",
+        "url": "https://game8.jp/mh-xx/822847",
+        "kind": "detail",
+        "checkedAt": "2026-10-15"
+      }
+    ],
+    "condition": {
+      "kind": "all",
+      "rules": [
+        {
+          "kind": "quest_cleared",
+          "questId": "village-2-g8-822843"
+        },
+        {
+          "kind": "external_flag",
+          "label": "ベルナ村の村長、龍歴院の主席研究員と話す"
+        }
+      ]
+    },
+    "unlocks": [],
+    "verification": "partial",
+    "verificationNote": "攻略レシピの一覧・個別ページで名称・分類・前提を確認し、Game8で会話等を補完。食材・施設・交易等の解放要素は未記載を「なし」と断定せず、調査継続中です。"
+  },
+  {
+    "id": "village-2-recipe-219317",
+    "name": "古代林の精算アイテム納品",
+    "rank": "2",
+    "category": "village",
+    "order": 10,
+    "role": "hunter",
+    "tags": [
+      "normal"
+    ],
+    "sources": [
+      {
+        "site": "MHXX攻略レシピ",
+        "url": "http://wiki.mhxg.org/ida/219317.html",
+        "kind": "detail",
+        "checkedAt": "2026-10-15"
+      },
+      {
+        "site": "MHXX攻略レシピ（ランク一覧）",
+        "url": "http://wiki.mhxg.org/data/2012.html",
+        "kind": "list",
+        "checkedAt": "2026-10-15"
+      },
+      {
+        "site": "Game8 MHXX",
+        "url": "https://game8.jp/mh-xx/822848",
+        "kind": "detail",
+        "checkedAt": "2026-10-15"
+      }
+    ],
+    "condition": {
+      "kind": "all",
+      "rules": [
+        {
+          "kind": "quest_cleared",
+          "questId": "village-2-g8-822843"
+        },
+        {
+          "kind": "external_flag",
+          "label": "ベルナ村の村長、龍歴院の主席研究員と話す"
+        }
+      ]
+    },
+    "unlocks": [],
+    "verification": "partial",
+    "verificationNote": "攻略レシピの一覧・個別ページで名称・分類・前提を確認し、Game8で会話等を補完。食材・施設・交易等の解放要素は未記載を「なし」と断定せず、調査継続中です。"
+  },
+  {
+    "id": "village-2-g8-822849",
+    "name": "ドスゲネポスを狩れ！",
+    "category": "village",
+    "rank": "2",
+    "order": 11,
+    "role": "hunter",
+    "tags": [
+      "key"
+    ],
+    "condition": {
+      "kind": "all",
+      "rules": [
+        {
+          "kind": "quest_cleared",
+          "questId": "village-2-g8-822843"
+        },
+        {
+          "kind": "external_flag",
+          "label": "ベルナ村の村長、龍歴院の主席研究員と話す"
+        }
+      ]
+    },
+    "unlocks": [],
+    "sources": [
+      {
+        "site": "MHXX攻略レシピ",
+        "url": "http://wiki.mhxg.org/ida/218317.html",
+        "kind": "detail",
+        "checkedAt": "2026-10-15"
+      },
+      {
+        "site": "MHXX攻略レシピ（ランク一覧）",
+        "url": "http://wiki.mhxg.org/data/2012.html",
+        "kind": "list",
+        "checkedAt": "2026-10-15"
+      },
+      {
+        "site": "Game8 MHXX",
+        "url": "https://game8.jp/mh-xx/822849",
+        "kind": "detail",
+        "checkedAt": "2026-10-15"
+      }
+    ],
+    "verification": "partial",
+    "verificationNote": "攻略レシピの一覧・個別ページで名称・分類・前提を確認し、Game8で会話等を補完。食材・施設・交易等の解放要素は未記載を「なし」と断定せず、調査継続中です。"
+  },
+  {
+    "id": "village-2-g8-822850",
+    "name": "大地を泳ぐモンスター",
+    "category": "village",
+    "rank": "2",
+    "order": 12,
+    "role": "hunter",
+    "tags": [
+      "key"
+    ],
+    "condition": {
+      "kind": "all",
+      "rules": [
+        {
+          "kind": "quest_cleared",
+          "questId": "village-2-g8-822843"
+        },
+        {
+          "kind": "external_flag",
+          "label": "ベルナ村の村長、龍歴院の主席研究員と話す"
+        }
+      ]
+    },
+    "unlocks": [],
+    "sources": [
+      {
+        "site": "MHXX攻略レシピ",
+        "url": "http://wiki.mhxg.org/ida/218318.html",
+        "kind": "detail",
+        "checkedAt": "2026-10-15"
+      },
+      {
+        "site": "MHXX攻略レシピ（ランク一覧）",
+        "url": "http://wiki.mhxg.org/data/2012.html",
+        "kind": "list",
+        "checkedAt": "2026-10-15"
+      },
+      {
+        "site": "Game8 MHXX",
+        "url": "https://game8.jp/mh-xx/822850",
+        "kind": "detail",
+        "checkedAt": "2026-10-15"
+      }
+    ],
+    "verification": "partial",
+    "verificationNote": "攻略レシピの一覧・個別ページで名称・分類・前提を確認し、Game8で会話等を補完。食材・施設・交易等の解放要素は未記載を「なし」と断定せず、調査継続中です。"
+  },
+  {
+    "id": "village-2-recipe-218319",
+    "name": "ゲネポス討伐作戦！",
+    "rank": "2",
+    "category": "village",
+    "order": 13,
+    "role": "hunter",
+    "tags": [
+      "normal"
+    ],
+    "sources": [
+      {
+        "site": "MHXX攻略レシピ",
+        "url": "http://wiki.mhxg.org/ida/218319.html",
+        "kind": "detail",
+        "checkedAt": "2026-10-15"
+      },
+      {
+        "site": "MHXX攻略レシピ（ランク一覧）",
+        "url": "http://wiki.mhxg.org/data/2012.html",
+        "kind": "list",
+        "checkedAt": "2026-10-15"
+      },
+      {
+        "site": "Game8 MHXX",
+        "url": "https://game8.jp/mh-xx/822851",
+        "kind": "detail",
+        "checkedAt": "2026-10-15"
+      }
+    ],
+    "condition": {
+      "kind": "all",
+      "rules": [
+        {
+          "kind": "quest_cleared",
+          "questId": "village-2-g8-822843"
+        },
+        {
+          "kind": "external_flag",
+          "label": "ベルナ村の村長、龍歴院の主席研究員と話す"
+        }
+      ]
+    },
+    "unlocks": [],
+    "verification": "partial",
+    "verificationNote": "攻略レシピの一覧・個別ページで名称・分類・前提を確認し、Game8で会話等を補完。食材・施設・交易等の解放要素は未記載を「なし」と断定せず、調査継続中です。"
+  },
+  {
+    "id": "village-2-g8-822852",
+    "name": "迫るヤオザミ包囲網",
+    "category": "village",
+    "rank": "2",
+    "order": 14,
+    "role": "hunter",
+    "tags": [
+      "key"
+    ],
+    "condition": {
+      "kind": "all",
+      "rules": [
+        {
+          "kind": "quest_cleared",
+          "questId": "village-2-g8-822843"
+        },
+        {
+          "kind": "external_flag",
+          "label": "ベルナ村の村長、龍歴院の主席研究員と話す"
+        }
+      ]
+    },
+    "unlocks": [],
+    "sources": [
+      {
+        "site": "MHXX攻略レシピ",
+        "url": "http://wiki.mhxg.org/ida/218320.html",
+        "kind": "detail",
+        "checkedAt": "2026-10-15"
+      },
+      {
+        "site": "MHXX攻略レシピ（ランク一覧）",
+        "url": "http://wiki.mhxg.org/data/2012.html",
+        "kind": "list",
+        "checkedAt": "2026-10-15"
+      },
+      {
+        "site": "Game8 MHXX",
+        "url": "https://game8.jp/mh-xx/822852",
+        "kind": "detail",
+        "checkedAt": "2026-10-15"
+      }
+    ],
+    "verification": "partial",
+    "verificationNote": "攻略レシピの一覧・個別ページで名称・分類・前提を確認し、Game8で会話等を補完。食材・施設・交易等の解放要素は未記載を「なし」と断定せず、調査継続中です。"
+  },
+  {
+    "id": "village-2-recipe-218321",
+    "name": "砂漠の恵みの納品依頼",
+    "rank": "2",
+    "category": "village",
+    "order": 15,
+    "role": "hunter",
+    "tags": [
+      "normal"
+    ],
+    "sources": [
+      {
+        "site": "MHXX攻略レシピ",
+        "url": "http://wiki.mhxg.org/ida/218321.html",
+        "kind": "detail",
+        "checkedAt": "2026-10-15"
+      },
+      {
+        "site": "MHXX攻略レシピ（ランク一覧）",
+        "url": "http://wiki.mhxg.org/data/2012.html",
+        "kind": "list",
+        "checkedAt": "2026-10-15"
+      },
+      {
+        "site": "Game8 MHXX",
+        "url": "https://game8.jp/mh-xx/822853",
+        "kind": "detail",
+        "checkedAt": "2026-10-15"
+      }
+    ],
+    "condition": {
+      "kind": "all",
+      "rules": [
+        {
+          "kind": "quest_cleared",
+          "questId": "village-2-g8-822843"
+        },
+        {
+          "kind": "external_flag",
+          "label": "ベルナ村の村長、龍歴院の主席研究員と話す"
+        }
+      ]
+    },
+    "unlocks": [],
+    "verification": "partial",
+    "verificationNote": "攻略レシピの一覧・個別ページで名称・分類・前提を確認し、Game8で会話等を補完。食材・施設・交易等の解放要素は未記載を「なし」と断定せず、調査継続中です。"
+  },
+  {
+    "id": "village-2-recipe-218322",
+    "name": "幻のキモを追え！",
+    "rank": "2",
+    "category": "village",
+    "order": 16,
+    "role": "hunter",
+    "tags": [
+      "normal"
+    ],
+    "sources": [
+      {
+        "site": "MHXX攻略レシピ",
+        "url": "http://wiki.mhxg.org/ida/218322.html",
+        "kind": "detail",
+        "checkedAt": "2026-10-15"
+      },
+      {
+        "site": "MHXX攻略レシピ（ランク一覧）",
+        "url": "http://wiki.mhxg.org/data/2012.html",
+        "kind": "list",
+        "checkedAt": "2026-10-15"
+      },
+      {
+        "site": "Game8 MHXX",
+        "url": "https://game8.jp/mh-xx/822854",
+        "kind": "detail",
+        "checkedAt": "2026-10-15"
+      }
+    ],
+    "condition": {
+      "kind": "all",
+      "rules": [
+        {
+          "kind": "quest_cleared",
+          "questId": "village-2-g8-822843"
+        },
+        {
+          "kind": "external_flag",
+          "label": "ベルナ村の村長、龍歴院の主席研究員と話す"
+        }
+      ]
+    },
+    "unlocks": [],
+    "verification": "partial",
+    "verificationNote": "攻略レシピの一覧・個別ページで名称・分類・前提を確認し、Game8で会話等を補完。食材・施設・交易等の解放要素は未記載を「なし」と断定せず、調査継続中です。"
+  },
+  {
+    "id": "village-2-recipe-218323",
+    "name": "旧砂漠の精算アイテム納品",
+    "rank": "2",
+    "category": "village",
+    "order": 17,
+    "role": "hunter",
+    "tags": [
+      "normal"
+    ],
+    "sources": [
+      {
+        "site": "MHXX攻略レシピ",
+        "url": "http://wiki.mhxg.org/ida/218323.html",
+        "kind": "detail",
+        "checkedAt": "2026-10-15"
+      },
+      {
+        "site": "MHXX攻略レシピ（ランク一覧）",
+        "url": "http://wiki.mhxg.org/data/2012.html",
+        "kind": "list",
+        "checkedAt": "2026-10-15"
+      },
+      {
+        "site": "Game8 MHXX",
+        "url": "https://game8.jp/mh-xx/822855",
+        "kind": "detail",
+        "checkedAt": "2026-10-15"
+      }
+    ],
+    "condition": {
+      "kind": "all",
+      "rules": [
+        {
+          "kind": "quest_cleared",
+          "questId": "village-2-g8-822843"
+        },
+        {
+          "kind": "external_flag",
+          "label": "ベルナ村の村長、龍歴院の主席研究員と話す"
+        }
+      ]
+    },
+    "unlocks": [],
+    "verification": "partial",
+    "verificationNote": "攻略レシピの一覧・個別ページで名称・分類・前提を確認し、Game8で会話等を補完。食材・施設・交易等の解放要素は未記載を「なし」と断定せず、調査継続中です。"
+  },
+  {
+    "id": "village-2-recipe-220154",
+    "name": "ドスランポスを狩猟せよ！",
+    "rank": "2",
+    "category": "village",
+    "order": 18,
+    "role": "hunter",
+    "tags": [
+      "request"
+    ],
+    "sources": [
+      {
+        "site": "MHXX攻略レシピ",
+        "url": "http://wiki.mhxg.org/ida/220154.html",
+        "kind": "detail",
+        "checkedAt": "2026-10-15"
+      },
+      {
+        "site": "MHXX攻略レシピ（ランク一覧）",
+        "url": "http://wiki.mhxg.org/data/2012.html",
+        "kind": "list",
+        "checkedAt": "2026-10-15"
+      },
+      {
+        "site": "Game8 MHXX",
+        "url": "https://game8.jp/mh-xx/822856",
+        "kind": "detail",
+        "checkedAt": "2026-10-15"
+      }
+    ],
+    "condition": {
+      "kind": "all",
+      "rules": [
+        {
+          "kind": "quest_cleared",
+          "questId": "village-2-recipe-220155"
+        },
+        {
+          "kind": "external_flag",
+          "label": "ココット村の村長の依頼1の達成状態・必要な報告をゲーム内で確認"
+        },
+        {
+          "kind": "external_flag",
+          "label": "ココット村 ココット村の村長の依頼2の受注・必要な会話"
+        },
+        {
+          "kind": "external_flag",
+          "label": "ココット村の村長と話す"
+        }
+      ]
+    },
+    "unlocks": [
+      {
+        "kind": "other",
+        "label": "ハントシリーズ（製法）",
+        "note": "依頼達成・報告後の製法解放。装備自体の入手を示しません。"
+      },
+      {
+        "kind": "other",
+        "label": "ハントネコナイフ（製法）",
+        "note": "依頼達成・報告後の製法解放。装備自体の入手を示しません。"
+      },
+      {
+        "kind": "other",
+        "label": "ハントネコヘルム（製法）",
+        "note": "依頼達成・報告後の製法解放。装備自体の入手を示しません。"
+      },
+      {
+        "kind": "other",
+        "label": "ハントネコメイル（製法）",
+        "note": "依頼達成・報告後の製法解放。装備自体の入手を示しません。"
+      },
+      {
+        "kind": "other",
+        "label": "後続依頼：シナト村の長老の依頼",
+        "note": "今回の村★1〜3の収録範囲外。出現条件の一部として記載されています。他の前提・会話・受注は未確認です。"
+      }
+    ],
+    "verification": "partial",
+    "verificationNote": "攻略レシピの一覧・個別ページで名称・分類・前提を確認し、Game8で会話等を補完。食材・施設・交易等の解放要素は未記載を「なし」と断定せず、調査継続中です。"
+  },
+  {
+    "id": "village-2-recipe-220155",
+    "name": "ランポスたちを討伐せよ！",
+    "rank": "2",
+    "category": "village",
+    "order": 19,
+    "role": "hunter",
+    "tags": [
+      "request"
+    ],
+    "sources": [
+      {
+        "site": "MHXX攻略レシピ",
+        "url": "http://wiki.mhxg.org/ida/220155.html",
+        "kind": "detail",
+        "checkedAt": "2026-10-15"
+      },
+      {
+        "site": "MHXX攻略レシピ（ランク一覧）",
+        "url": "http://wiki.mhxg.org/data/2012.html",
+        "kind": "list",
+        "checkedAt": "2026-10-15"
+      },
+      {
+        "site": "Game8 MHXX",
+        "url": "https://game8.jp/mh-xx/822857",
+        "kind": "detail",
+        "checkedAt": "2026-10-15"
+      }
+    ],
+    "condition": {
+      "kind": "all",
+      "rules": [
+        {
+          "kind": "quest_cleared",
+          "questId": "village-2-g8-822843"
+        },
+        {
+          "kind": "external_flag",
+          "label": "ベルナ村の村長、龍歴院の主席研究員と話す"
+        },
+        {
+          "kind": "external_flag",
+          "label": "ココット村 ココット村の村長の依頼1の受注・必要な会話"
+        },
+        {
+          "kind": "external_flag",
+          "label": "ココット村の村長と話す"
+        },
+        {
+          "kind": "external_flag",
+          "label": "初めてココット村に入った後、ココット村の村長と話す"
+        }
+      ]
+    },
+    "unlocks": [],
+    "verification": "partial",
+    "verificationNote": "攻略レシピの一覧・個別ページで名称・分類・前提を確認し、Game8で会話等を補完。食材・施設・交易等の解放要素は未記載を「なし」と断定せず、調査継続中です。"
+  },
+  {
+    "id": "village-2-recipe-220156",
+    "name": "森のファンゴたち",
+    "rank": "2",
+    "category": "village",
+    "order": 20,
+    "role": "hunter",
+    "tags": [
+      "normal"
+    ],
+    "sources": [
+      {
+        "site": "MHXX攻略レシピ",
+        "url": "http://wiki.mhxg.org/ida/220156.html",
+        "kind": "detail",
+        "checkedAt": "2026-10-15"
+      },
+      {
+        "site": "MHXX攻略レシピ（ランク一覧）",
+        "url": "http://wiki.mhxg.org/data/2012.html",
+        "kind": "list",
+        "checkedAt": "2026-10-15"
+      },
+      {
+        "site": "Game8 MHXX",
+        "url": "https://game8.jp/mh-xx/822858",
+        "kind": "detail",
+        "checkedAt": "2026-10-15"
+      }
+    ],
+    "condition": {
+      "kind": "all",
+      "rules": [
+        {
+          "kind": "quest_cleared",
+          "questId": "village-2-recipe-220154"
+        },
+        {
+          "kind": "external_flag",
+          "label": "ココット村の村長と話す"
+        }
+      ]
+    },
+    "unlocks": [],
+    "verification": "partial",
+    "verificationNote": "攻略レシピの一覧・個別ページで名称・分類・前提を確認し、Game8で会話等を補完。食材・施設・交易等の解放要素は未記載を「なし」と断定せず、調査継続中です。"
+  },
+  {
+    "id": "village-2-recipe-220157",
+    "name": "森丘のトロサシミウオ",
+    "rank": "2",
+    "category": "village",
+    "order": 21,
+    "role": "hunter",
+    "tags": [
+      "normal"
+    ],
+    "sources": [
+      {
+        "site": "MHXX攻略レシピ",
+        "url": "http://wiki.mhxg.org/ida/220157.html",
+        "kind": "detail",
+        "checkedAt": "2026-10-15"
+      },
+      {
+        "site": "MHXX攻略レシピ（ランク一覧）",
+        "url": "http://wiki.mhxg.org/data/2012.html",
+        "kind": "list",
+        "checkedAt": "2026-10-15"
+      },
+      {
+        "site": "Game8 MHXX",
+        "url": "https://game8.jp/mh-xx/822859",
+        "kind": "detail",
+        "checkedAt": "2026-10-15"
+      }
+    ],
+    "condition": {
+      "kind": "all",
+      "rules": [
+        {
+          "kind": "quest_cleared",
+          "questId": "village-2-recipe-220154"
+        },
+        {
+          "kind": "external_flag",
+          "label": "ココット村の村長と話す"
+        }
+      ]
+    },
+    "unlocks": [],
+    "verification": "partial",
+    "verificationNote": "攻略レシピの一覧・個別ページで名称・分類・前提を確認し、Game8で会話等を補完。食材・施設・交易等の解放要素は未記載を「なし」と断定せず、調査継続中です。"
+  },
+  {
+    "id": "village-2-recipe-220158",
+    "name": "森丘の精算アイテム納品",
+    "rank": "2",
+    "category": "village",
+    "order": 22,
+    "role": "hunter",
+    "tags": [
+      "normal"
+    ],
+    "sources": [
+      {
+        "site": "MHXX攻略レシピ",
+        "url": "http://wiki.mhxg.org/ida/220158.html",
+        "kind": "detail",
+        "checkedAt": "2026-10-15"
+      },
+      {
+        "site": "MHXX攻略レシピ（ランク一覧）",
+        "url": "http://wiki.mhxg.org/data/2012.html",
+        "kind": "list",
+        "checkedAt": "2026-10-15"
+      },
+      {
+        "site": "Game8 MHXX",
+        "url": "https://game8.jp/mh-xx/822860",
+        "kind": "detail",
+        "checkedAt": "2026-10-15"
+      }
+    ],
+    "condition": {
+      "kind": "all",
+      "rules": [
+        {
+          "kind": "quest_cleared",
+          "questId": "village-2-recipe-220154"
+        },
+        {
+          "kind": "external_flag",
+          "label": "ココット村の村長と話す"
+        }
+      ]
+    },
+    "unlocks": [],
+    "verification": "partial",
+    "verificationNote": "攻略レシピの一覧・個別ページで名称・分類・前提を確認し、Game8で会話等を補完。食材・施設・交易等の解放要素は未記載を「なし」と断定せず、調査継続中です。"
+  },
+  {
+    "id": "village-2-recipe-220159",
+    "name": "雪山の荒くれ者",
+    "rank": "2",
+    "category": "village",
+    "order": 23,
+    "role": "hunter",
+    "tags": [
+      "request"
+    ],
+    "sources": [
+      {
+        "site": "MHXX攻略レシピ",
+        "url": "http://wiki.mhxg.org/ida/220159.html",
+        "kind": "detail",
+        "checkedAt": "2026-10-15"
+      },
+      {
+        "site": "MHXX攻略レシピ（ランク一覧）",
+        "url": "http://wiki.mhxg.org/data/2012.html",
+        "kind": "list",
+        "checkedAt": "2026-10-15"
+      },
+      {
+        "site": "Game8 MHXX",
+        "url": "https://game8.jp/mh-xx/822861",
+        "kind": "detail",
+        "checkedAt": "2026-10-15"
+      }
+    ],
+    "condition": {
+      "kind": "all",
+      "rules": [
+        {
+          "kind": "quest_cleared",
+          "questId": "village-2-recipe-220160"
+        },
+        {
+          "kind": "external_flag",
+          "label": "ポッケ村の村長の依頼1の達成状態・必要な報告をゲーム内で確認"
+        },
+        {
+          "kind": "external_flag",
+          "label": "ポッケ村 ポッケ村の村長の依頼2の受注・必要な会話"
+        },
+        {
+          "kind": "external_flag",
+          "label": "ポッケ村の村長と話す"
+        }
+      ]
+    },
+    "unlocks": [
+      {
+        "kind": "other",
+        "label": "マフモフシリーズ（製法）",
+        "note": "依頼達成・報告後の製法解放。装備自体の入手を示しません。"
+      },
+      {
+        "kind": "other",
+        "label": "マフモフネコフード（製法）",
+        "note": "依頼達成・報告後の製法解放。装備自体の入手を示しません。"
+      },
+      {
+        "kind": "other",
+        "label": "マフモフネコベスト（製法）",
+        "note": "依頼達成・報告後の製法解放。装備自体の入手を示しません。"
+      },
+      {
+        "kind": "other",
+        "label": "後続依頼：ポッケ村の看板娘の依頼",
+        "note": "今回の村★1〜3の収録範囲外。出現条件の一部として記載されています。他の前提・会話・受注は未確認です。"
+      }
+    ],
+    "verification": "partial",
+    "verificationNote": "攻略レシピの一覧・個別ページで名称・分類・前提を確認し、Game8で会話等を補完。食材・施設・交易等の解放要素は未記載を「なし」と断定せず、調査継続中です。"
+  },
+  {
+    "id": "village-2-recipe-220160",
+    "name": "ギアノスたちを討伐せよ！",
+    "rank": "2",
+    "category": "village",
+    "order": 24,
+    "role": "hunter",
+    "tags": [
+      "request"
+    ],
+    "sources": [
+      {
+        "site": "MHXX攻略レシピ",
+        "url": "http://wiki.mhxg.org/ida/220160.html",
+        "kind": "detail",
+        "checkedAt": "2026-10-15"
+      },
+      {
+        "site": "MHXX攻略レシピ（ランク一覧）",
+        "url": "http://wiki.mhxg.org/data/2012.html",
+        "kind": "list",
+        "checkedAt": "2026-10-15"
+      },
+      {
+        "site": "Game8 MHXX",
+        "url": "https://game8.jp/mh-xx/822862",
+        "kind": "detail",
+        "checkedAt": "2026-10-15"
+      }
+    ],
+    "condition": {
+      "kind": "all",
+      "rules": [
+        {
+          "kind": "quest_cleared",
+          "questId": "village-2-g8-822843"
+        },
+        {
+          "kind": "external_flag",
+          "label": "ベルナ村の村長、龍歴院の主席研究員と話す"
+        },
+        {
+          "kind": "external_flag",
+          "label": "ポッケ村 ポッケ村の村長の依頼1の受注・必要な会話"
+        },
+        {
+          "kind": "external_flag",
+          "label": "ポッケ村の村長と話す"
+        },
+        {
+          "kind": "external_flag",
+          "label": "初めてポッケ村に入った後、ポッケ村の村長と話す"
+        }
+      ]
+    },
+    "unlocks": [],
+    "verification": "partial",
+    "verificationNote": "攻略レシピの一覧・個別ページで名称・分類・前提を確認し、Game8で会話等を補完。食材・施設・交易等の解放要素は未記載を「なし」と断定せず、調査継続中です。"
+  },
+  {
+    "id": "village-2-recipe-220161",
+    "name": "ブランゴたちの群れ",
+    "rank": "2",
+    "category": "village",
+    "order": 25,
+    "role": "hunter",
+    "tags": [
+      "normal"
+    ],
+    "sources": [
+      {
+        "site": "MHXX攻略レシピ",
+        "url": "http://wiki.mhxg.org/ida/220161.html",
+        "kind": "detail",
+        "checkedAt": "2026-10-15"
+      },
+      {
+        "site": "MHXX攻略レシピ（ランク一覧）",
+        "url": "http://wiki.mhxg.org/data/2012.html",
+        "kind": "list",
+        "checkedAt": "2026-10-15"
+      },
+      {
+        "site": "Game8 MHXX",
+        "url": "https://game8.jp/mh-xx/822863",
+        "kind": "detail",
+        "checkedAt": "2026-10-15"
+      }
+    ],
+    "condition": {
+      "kind": "all",
+      "rules": [
+        {
+          "kind": "quest_cleared",
+          "questId": "village-2-recipe-220159"
+        },
+        {
+          "kind": "external_flag",
+          "label": "ポッケ村の村長と話す"
+        }
+      ]
+    },
+    "unlocks": [],
+    "verification": "partial",
+    "verificationNote": "攻略レシピの一覧・個別ページで名称・分類・前提を確認し、Game8で会話等を補完。食材・施設・交易等の解放要素は未記載を「なし」と断定せず、調査継続中です。"
+  },
+  {
+    "id": "village-2-recipe-220162",
+    "name": "雪山草摘み",
+    "rank": "2",
+    "category": "village",
+    "order": 26,
+    "role": "hunter",
+    "tags": [
+      "normal"
+    ],
+    "sources": [
+      {
+        "site": "MHXX攻略レシピ",
+        "url": "http://wiki.mhxg.org/ida/220162.html",
+        "kind": "detail",
+        "checkedAt": "2026-10-15"
+      },
+      {
+        "site": "MHXX攻略レシピ（ランク一覧）",
+        "url": "http://wiki.mhxg.org/data/2012.html",
+        "kind": "list",
+        "checkedAt": "2026-10-15"
+      },
+      {
+        "site": "Game8 MHXX",
+        "url": "https://game8.jp/mh-xx/822864",
+        "kind": "detail",
+        "checkedAt": "2026-10-15"
+      }
+    ],
+    "condition": {
+      "kind": "all",
+      "rules": [
+        {
+          "kind": "quest_cleared",
+          "questId": "village-2-recipe-220159"
+        },
+        {
+          "kind": "external_flag",
+          "label": "ポッケ村の村長と話す"
+        }
+      ]
+    },
+    "unlocks": [],
+    "verification": "partial",
+    "verificationNote": "攻略レシピの一覧・個別ページで名称・分類・前提を確認し、Game8で会話等を補完。食材・施設・交易等の解放要素は未記載を「なし」と断定せず、調査継続中です。"
+  },
+  {
+    "id": "village-2-recipe-220163",
+    "name": "雪山の精算アイテム納品",
+    "rank": "2",
+    "category": "village",
+    "order": 27,
+    "role": "hunter",
+    "tags": [
+      "normal"
+    ],
+    "sources": [
+      {
+        "site": "MHXX攻略レシピ",
+        "url": "http://wiki.mhxg.org/ida/220163.html",
+        "kind": "detail",
+        "checkedAt": "2026-10-15"
+      },
+      {
+        "site": "MHXX攻略レシピ（ランク一覧）",
+        "url": "http://wiki.mhxg.org/data/2012.html",
+        "kind": "list",
+        "checkedAt": "2026-10-15"
+      },
+      {
+        "site": "Game8 MHXX",
+        "url": "https://game8.jp/mh-xx/822865",
+        "kind": "detail",
+        "checkedAt": "2026-10-15"
+      }
+    ],
+    "condition": {
+      "kind": "all",
+      "rules": [
+        {
+          "kind": "quest_cleared",
+          "questId": "village-2-recipe-220159"
+        },
+        {
+          "kind": "external_flag",
+          "label": "ポッケ村の村長と話す"
+        }
+      ]
+    },
+    "unlocks": [],
+    "verification": "partial",
+    "verificationNote": "攻略レシピの一覧・個別ページで名称・分類・前提を確認し、Game8で会話等を補完。食材・施設・交易等の解放要素は未記載を「なし」と断定せず、調査継続中です。"
+  },
+  {
+    "id": "village-2-recipe-220164",
+    "name": "青熊獣アオアシラ",
+    "rank": "2",
+    "category": "village",
+    "order": 28,
+    "role": "hunter",
+    "tags": [
+      "request"
+    ],
+    "sources": [
+      {
+        "site": "MHXX攻略レシピ",
+        "url": "http://wiki.mhxg.org/ida/220164.html",
+        "kind": "detail",
+        "checkedAt": "2026-10-15"
+      },
+      {
+        "site": "MHXX攻略レシピ（ランク一覧）",
+        "url": "http://wiki.mhxg.org/data/2012.html",
+        "kind": "list",
+        "checkedAt": "2026-10-15"
+      },
+      {
+        "site": "Game8 MHXX",
+        "url": "https://game8.jp/mh-xx/822866",
+        "kind": "detail",
+        "checkedAt": "2026-10-15"
+      }
+    ],
+    "condition": {
+      "kind": "all",
+      "rules": [
+        {
+          "kind": "quest_cleared",
+          "questId": "village-2-recipe-220165"
+        },
+        {
+          "kind": "external_flag",
+          "label": "ユクモ村の村長の依頼1の達成状態・必要な報告をゲーム内で確認"
+        },
+        {
+          "kind": "external_flag",
+          "label": "ユクモ村 ユクモ村の村長の依頼2の受注・必要な会話"
+        },
+        {
+          "kind": "external_flag",
+          "label": "ユクモ村の村長と話す"
+        }
+      ]
+    },
+    "unlocks": [
+      {
+        "kind": "other",
+        "label": "ユクモノシリーズ（製法）",
+        "note": "依頼達成・報告後の製法解放。装備自体の入手を示しません。"
+      },
+      {
+        "kind": "other",
+        "label": "ユクモノネコ木刀（製法）",
+        "note": "依頼達成・報告後の製法解放。装備自体の入手を示しません。"
+      },
+      {
+        "kind": "other",
+        "label": "ユクモノネコカサ（製法）",
+        "note": "依頼達成・報告後の製法解放。装備自体の入手を示しません。"
+      },
+      {
+        "kind": "other",
+        "label": "ユクモノネコドウギ（製法）",
+        "note": "依頼達成・報告後の製法解放。装備自体の入手を示しません。"
+      },
+      {
+        "kind": "other",
+        "label": "後続依頼：タンジアの港の看板娘の依頼1",
+        "note": "今回の村★1〜3の収録範囲外。出現条件の一部として記載されています。他の前提・会話・受注は未確認です。"
+      },
+      {
+        "kind": "other",
+        "label": "後続依頼：シナト村の女の子の依頼",
+        "note": "今回の村★1〜3の収録範囲外。出現条件の一部として記載されています。他の前提・会話・受注は未確認です。"
+      },
+      {
+        "kind": "other",
+        "label": "後続依頼：まったりアイルーの依頼",
+        "note": "今回の村★1〜3の収録範囲外。出現条件の一部として記載されています。他の前提・会話・受注は未確認です。"
+      }
+    ],
+    "verification": "partial",
+    "verificationNote": "攻略レシピの一覧・個別ページで名称・分類・前提を確認し、Game8で会話等を補完。食材・施設・交易等の解放要素は未記載を「なし」と断定せず、調査継続中です。 一覧に施設の印がありますが、具体的な施設・交易の解放内容と追加条件は未確認です。"
+  },
+  {
+    "id": "village-2-recipe-220165",
+    "name": "渓流のジャギィノス退治",
+    "rank": "2",
+    "category": "village",
+    "order": 29,
+    "role": "hunter",
+    "tags": [
+      "request"
+    ],
+    "sources": [
+      {
+        "site": "MHXX攻略レシピ",
+        "url": "http://wiki.mhxg.org/ida/220165.html",
+        "kind": "detail",
+        "checkedAt": "2026-10-15"
+      },
+      {
+        "site": "MHXX攻略レシピ（ランク一覧）",
+        "url": "http://wiki.mhxg.org/data/2012.html",
+        "kind": "list",
+        "checkedAt": "2026-10-15"
+      },
+      {
+        "site": "Game8 MHXX",
+        "url": "https://game8.jp/mh-xx/822867",
+        "kind": "detail",
+        "checkedAt": "2026-10-15"
+      }
+    ],
+    "condition": {
+      "kind": "all",
+      "rules": [
+        {
+          "kind": "quest_cleared",
+          "questId": "village-2-g8-822843"
+        },
+        {
+          "kind": "external_flag",
+          "label": "ベルナ村の村長、龍歴院の主席研究員と話す"
+        },
+        {
+          "kind": "external_flag",
+          "label": "ユクモ村 ユクモ村の村長の依頼1の受注・必要な会話"
+        },
+        {
+          "kind": "external_flag",
+          "label": "ユクモ村の村長と話す"
+        },
+        {
+          "kind": "external_flag",
+          "label": "初めてユクモ村に入った後、ユクモ村の村長と話す"
+        }
+      ]
+    },
+    "unlocks": [],
+    "verification": "partial",
+    "verificationNote": "攻略レシピの一覧・個別ページで名称・分類・前提を確認し、Game8で会話等を補完。食材・施設・交易等の解放要素は未記載を「なし」と断定せず、調査継続中です。"
+  },
+  {
+    "id": "village-2-recipe-220166",
+    "name": "真夜中のジャギィ達",
+    "rank": "2",
+    "category": "village",
+    "order": 30,
+    "role": "hunter",
+    "tags": [
+      "normal"
+    ],
+    "sources": [
+      {
+        "site": "MHXX攻略レシピ",
+        "url": "http://wiki.mhxg.org/ida/220166.html",
+        "kind": "detail",
+        "checkedAt": "2026-10-15"
+      },
+      {
+        "site": "MHXX攻略レシピ（ランク一覧）",
+        "url": "http://wiki.mhxg.org/data/2012.html",
+        "kind": "list",
+        "checkedAt": "2026-10-15"
+      },
+      {
+        "site": "Game8 MHXX",
+        "url": "https://game8.jp/mh-xx/822868",
+        "kind": "detail",
+        "checkedAt": "2026-10-15"
+      }
+    ],
+    "condition": {
+      "kind": "all",
+      "rules": [
+        {
+          "kind": "quest_cleared",
+          "questId": "village-2-recipe-220164"
+        },
+        {
+          "kind": "external_flag",
+          "label": "ユクモ村の村長と話す"
+        }
+      ]
+    },
+    "unlocks": [],
+    "verification": "partial",
+    "verificationNote": "攻略レシピの一覧・個別ページで名称・分類・前提を確認し、Game8で会話等を補完。食材・施設・交易等の解放要素は未記載を「なし」と断定せず、調査継続中です。"
+  },
+  {
+    "id": "village-2-recipe-220167",
+    "name": "夢のキノコジュース",
+    "rank": "2",
+    "category": "village",
+    "order": 31,
+    "role": "hunter",
+    "tags": [
+      "normal"
+    ],
+    "sources": [
+      {
+        "site": "MHXX攻略レシピ",
+        "url": "http://wiki.mhxg.org/ida/220167.html",
+        "kind": "detail",
+        "checkedAt": "2026-10-15"
+      },
+      {
+        "site": "MHXX攻略レシピ（ランク一覧）",
+        "url": "http://wiki.mhxg.org/data/2012.html",
+        "kind": "list",
+        "checkedAt": "2026-10-15"
+      },
+      {
+        "site": "Game8 MHXX",
+        "url": "https://game8.jp/mh-xx/822869",
+        "kind": "detail",
+        "checkedAt": "2026-10-15"
+      }
+    ],
+    "condition": {
+      "kind": "all",
+      "rules": [
+        {
+          "kind": "quest_cleared",
+          "questId": "village-2-recipe-220164"
+        },
+        {
+          "kind": "external_flag",
+          "label": "ユクモ村の村長と話す"
+        }
+      ]
+    },
+    "unlocks": [],
+    "verification": "partial",
+    "verificationNote": "攻略レシピの一覧・個別ページで名称・分類・前提を確認し、Game8で会話等を補完。食材・施設・交易等の解放要素は未記載を「なし」と断定せず、調査継続中です。"
+  },
+  {
+    "id": "village-2-recipe-218324",
+    "name": "ぽかぽかタケノコ納品",
+    "rank": "2",
+    "category": "village",
+    "order": 32,
+    "role": "hunter",
+    "tags": [
+      "request"
+    ],
+    "sources": [
+      {
+        "site": "MHXX攻略レシピ",
+        "url": "http://wiki.mhxg.org/ida/218324.html",
+        "kind": "detail",
+        "checkedAt": "2026-10-15"
+      },
+      {
+        "site": "MHXX攻略レシピ（ランク一覧）",
+        "url": "http://wiki.mhxg.org/data/2012.html",
+        "kind": "list",
+        "checkedAt": "2026-10-15"
+      },
+      {
+        "site": "Game8 MHXX",
+        "url": "https://game8.jp/mh-xx/822870",
+        "kind": "detail",
+        "checkedAt": "2026-10-15"
+      }
+    ],
+    "condition": {
+      "kind": "all",
+      "rules": [
+        {
+          "kind": "quest_cleared",
+          "questId": "village-2-recipe-220164"
+        },
+        {
+          "kind": "external_flag",
+          "label": "ユクモ村の村長の依頼2の達成状態・必要な報告をゲーム内で確認"
+        },
+        {
+          "kind": "external_flag",
+          "label": "ユクモ村 ぽかぽか島の管理人の依頼1の受注・必要な会話"
+        }
+      ]
+    },
+    "unlocks": [
+      {
+        "kind": "food",
+        "label": "ツチタケノコ",
+        "note": "依頼達成後の解放。依頼主への報告・会話や実際の追加はゲーム内で確認してください。"
+      }
+    ],
+    "verification": "partial",
+    "verificationNote": "攻略レシピの一覧・個別ページで名称・分類・前提を確認し、Game8で会話等を補完。食材・施設・交易等の解放要素は未記載を「なし」と断定せず、調査継続中です。"
+  },
+  {
+    "id": "village-2-recipe-218325",
+    "name": "渓流の精算アイテム納品",
+    "rank": "2",
+    "category": "village",
+    "order": 33,
+    "role": "hunter",
+    "tags": [
+      "normal"
+    ],
+    "sources": [
+      {
+        "site": "MHXX攻略レシピ",
+        "url": "http://wiki.mhxg.org/ida/218325.html",
+        "kind": "detail",
+        "checkedAt": "2026-10-15"
+      },
+      {
+        "site": "MHXX攻略レシピ（ランク一覧）",
+        "url": "http://wiki.mhxg.org/data/2012.html",
+        "kind": "list",
+        "checkedAt": "2026-10-15"
+      },
+      {
+        "site": "Game8 MHXX",
+        "url": "https://game8.jp/mh-xx/822871",
+        "kind": "detail",
+        "checkedAt": "2026-10-15"
+      }
+    ],
+    "condition": {
+      "kind": "all",
+      "rules": [
+        {
+          "kind": "quest_cleared",
+          "questId": "village-2-recipe-220164"
+        },
+        {
+          "kind": "external_flag",
+          "label": "ユクモ村の村長と話す"
+        }
+      ]
+    },
+    "unlocks": [],
+    "verification": "partial",
+    "verificationNote": "攻略レシピの一覧・個別ページで名称・分類・前提を確認し、Game8で会話等を補完。食材・施設・交易等の解放要素は未記載を「なし」と断定せず、調査継続中です。"
+  },
+  {
+    "id": "village-2-g8-822872",
+    "name": "ニャンター、はじめてのお使い",
+    "category": "village",
+    "rank": "2",
+    "order": 34,
+    "role": "prowler",
+    "tags": [
+      "normal"
+    ],
+    "condition": {
+      "kind": "all",
+      "rules": [
+        {
+          "kind": "quest_cleared",
+          "questId": "village-2-g8-822843"
+        },
+        {
+          "kind": "external_flag",
+          "label": "ベルナ村の村長、龍歴院の主席研究員と話す"
+        }
+      ]
+    },
+    "unlocks": [],
+    "sources": [
+      {
+        "site": "MHXX攻略レシピ",
+        "url": "http://wiki.mhxg.org/ida/218326.html",
+        "kind": "detail",
+        "checkedAt": "2026-10-15"
+      },
+      {
+        "site": "MHXX攻略レシピ（ランク一覧）",
+        "url": "http://wiki.mhxg.org/data/2012.html",
+        "kind": "list",
+        "checkedAt": "2026-10-15"
+      },
+      {
+        "site": "Game8 MHXX",
+        "url": "https://game8.jp/mh-xx/822872",
+        "kind": "detail",
+        "checkedAt": "2026-10-15"
+      }
+    ],
+    "verification": "partial",
+    "verificationNote": "攻略レシピの一覧・個別ページで名称・分類・前提を確認し、Game8で会話等を補完。食材・施設・交易等の解放要素は未記載を「なし」と断定せず、調査継続中です。"
+  },
+  {
+    "id": "village-2-recipe-218327",
+    "name": "古代林のキノコ生態調査",
+    "rank": "2",
+    "category": "village",
+    "order": 35,
+    "role": "prowler",
+    "tags": [
+      "normal"
+    ],
+    "sources": [
+      {
+        "site": "MHXX攻略レシピ",
+        "url": "http://wiki.mhxg.org/ida/218327.html",
+        "kind": "detail",
+        "checkedAt": "2026-10-15"
+      },
+      {
+        "site": "MHXX攻略レシピ（ランク一覧）",
+        "url": "http://wiki.mhxg.org/data/2012.html",
+        "kind": "list",
+        "checkedAt": "2026-10-15"
+      },
+      {
+        "site": "Game8 MHXX",
+        "url": "https://game8.jp/mh-xx/822873",
+        "kind": "detail",
+        "checkedAt": "2026-10-15"
+      }
+    ],
+    "condition": {
+      "kind": "quest_cleared",
+      "questId": "village-2-g8-822872"
+    },
+    "unlocks": [],
+    "verification": "partial",
+    "verificationNote": "攻略レシピの一覧・個別ページで名称・分類・前提を確認し、Game8で会話等を補完。食材・施設・交易等の解放要素は未記載を「なし」と断定せず、調査継続中です。 一覧に施設の印がありますが、具体的な施設・交易の解放内容と追加条件は未確認です。"
+  },
+  {
+    "id": "village-2-recipe-218328",
+    "name": "古代林のポイント招きネコ",
+    "rank": "2",
+    "category": "village",
+    "order": 36,
+    "role": "prowler",
+    "tags": [
+      "normal"
+    ],
+    "sources": [
+      {
+        "site": "MHXX攻略レシピ",
+        "url": "http://wiki.mhxg.org/ida/218328.html",
+        "kind": "detail",
+        "checkedAt": "2026-10-15"
+      },
+      {
+        "site": "MHXX攻略レシピ（ランク一覧）",
+        "url": "http://wiki.mhxg.org/data/2012.html",
+        "kind": "list",
+        "checkedAt": "2026-10-15"
+      },
+      {
+        "site": "Game8 MHXX",
+        "url": "https://game8.jp/mh-xx/822874",
+        "kind": "detail",
+        "checkedAt": "2026-10-15"
+      }
+    ],
+    "condition": {
+      "kind": "all",
+      "rules": [
+        {
+          "kind": "quest_cleared",
+          "questId": "village-2-g8-822872"
+        },
+        {
+          "kind": "unknown",
+          "note": "攻略レシピは「ニャンター、はじめてのお使い」クリア後、Game8は「古代林のキノコ生態調査」クリア後と記載が異なります。追加条件は未確認です。"
+        }
+      ]
+    },
+    "unlocks": [],
+    "verification": "partial",
+    "verificationNote": "攻略レシピの一覧・個別ページで名称・分類・前提を確認し、Game8で会話等を補完。食材・施設・交易等の解放要素は未記載を「なし」と断定せず、調査継続中です。 出現前提に出典間の不一致があります。"
+  }
+]

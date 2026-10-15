@@ -165,7 +165,9 @@ describe("source URL protocol boundary", () => {
     ).toContain("無効URL: x");
   });
   it("keeps every existing progress ID when switching primary sources", () => {
-    expect(quests.map((q) => q.id)).toEqual([
+    expect(
+      quests.filter((q) => q.id.includes("-g8-")).map((q) => q.id),
+    ).toEqual([
       "village-1-g8-822831",
       "village-1-g8-822835",
       "village-1-g8-822836",

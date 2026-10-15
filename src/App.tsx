@@ -739,7 +739,7 @@ export default function App() {
                         ).length
                       }
                     </td>
-                    <td>未完了</td>
+                    <td>一覧照合済み・条件等は一部未確認</td>
                   </tr>
                 ))}
               </tbody>
