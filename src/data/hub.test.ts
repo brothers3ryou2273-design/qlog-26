@@ -1,5 +1,6 @@
 import { describe, expect, it } from "vitest";
 import audit from "../../docs/hub-audit.json";
+import villageAudit from "../../docs/data-audit.json";
 import baseline from "../../docs/progress-baseline-370.json";
 import connections from "../../docs/hub-village-connections.json";
 import { quests } from "./quests";
@@ -42,7 +43,12 @@ describe("observed hub rosters and cross-category dependencies", () => {
             const prior = quests.find(
               (p) =>
                 p.sources[0].url === link.url ||
-                p.sources[0].url === owner?.recipeUrl,
+                p.sources[0].url === owner?.recipeUrl ||
+                p.sources[0].url ===
+                  villageAudit.ranks
+                    .flatMap((r) => r.entries)
+                    .find((e) => e.requestUrlFromDetail === link.url)
+                    ?.recipeUrl,
             );
             if (prior && prior.id !== q.id)
               expect(references(q.condition)).toContain(prior.id);
@@ -154,3 +160,55 @@ for (const rank of audit.ranks.filter((r) => r.rank === "2")) {
     expect(rank.observedCount).toBe(35);
   });
 }
+
+it("hub-3 urgents use the correct six-key sets and preserve the separate HR3 gate", () => {
+  for (const [name, keyRank, hr] of [
+    ["電の反逆者", "2", undefined],
+    ["双頭の骸", "3", 3],
+  ] as const) {
+    const q = quests.find((q) => q.category === "hub" && q.name === name)!;
+    const keys = quests.filter(
+      (q) =>
+        q.category === "hub" && q.rank === keyRank && q.tags.includes("key"),
+    );
+    expect(keys).toHaveLength(6);
+    expect(references(q.condition)).toEqual(keys.map((q) => q.id));
+    for (let mask = 0; mask < 64; mask++) {
+      const completedQuestIds = keys
+        .filter((_, i) => mask & (1 << i))
+        .map((q) => q.id);
+      expect(
+        evaluate(q.condition, { schemaVersion: 1, completedQuestIds, hr }),
+      ).toBe(mask === 63 ? "met" : "unmet");
+    }
+    if (hr) {
+      const completedQuestIds = keys.map((q) => q.id);
+      expect(
+        evaluate(q.condition, { schemaVersion: 1, completedQuestIds }),
+      ).toBe("unknown");
+      expect(
+        evaluate(q.condition, { schemaVersion: 1, completedQuestIds, hr: 2 }),
+      ).toBe("unmet");
+    }
+  }
+});
+
+it("partly resolves the village-10 chain without erasing hub-5, HR5 or other village prerequisites", () => {
+  const q = quests.find(
+    (q) => q.category === "village" && q.name === "遺群嶺を塞ぐ恐暴竜",
+  )!;
+  const hub = quests.find(
+    (q) => q.category === "hub" && q.name === "化石に眠る太古の記憶",
+  )!;
+  expect(references(q.condition)).toContain(hub.id);
+  expect(JSON.stringify(q.condition)).toContain("集★5雪山の主、ドドブランゴ");
+  expect(nodes(q.condition)).toContainEqual({ kind: "hr_at_least", value: 5 });
+  const completedQuestIds = quests.map((q) => q.id);
+  expect(
+    evaluate(q.condition, { schemaVersion: 1, completedQuestIds, hr: 4 }),
+  ).toBe("unmet");
+  expect(
+    evaluate(q.condition, { schemaVersion: 1, completedQuestIds, hr: 5 }),
+  ).toBe("unknown");
+  expect(dependents(hub.id, quests)).toContain(q);
+});

@@ -154,6 +154,77 @@
         "http://wiki.mhxg.org/ida/220253.html"
       ],
       "reason": "攻略レシピの前提依頼と達成クエストを照合。通常の依頼達成報告はnpcNotesへ。今回対象外の集★5条件・HR・村前提はそのまま保持。"
+    },
+    {
+      "questId": "village-10-recipe-298960",
+      "name": "遺群嶺を塞ぐ恐暴竜",
+      "before": {
+        "kind": "all",
+        "rules": [
+          {
+            "kind": "quest_cleared",
+            "questId": "village-5-recipe-220230"
+          },
+          {
+            "kind": "hr_at_least",
+            "value": 3
+          },
+          {
+            "kind": "external_flag",
+            "label": "未収録：集★3化石に眠る太古の記憶のクリア（キャラバンの竜人商人の依頼2）"
+          },
+          {
+            "kind": "hr_at_least",
+            "value": 5
+          },
+          {
+            "kind": "external_flag",
+            "label": "未収録：集★5雪山の主、ドドブランゴのクリア（キャラバンの竜人商人の依頼3）"
+          },
+          {
+            "kind": "quest_cleared",
+            "questId": "village-10-recipe-298961"
+          }
+        ]
+      },
+      "after": {
+        "kind": "all",
+        "rules": [
+          {
+            "kind": "quest_cleared",
+            "questId": "village-5-recipe-220230"
+          },
+          {
+            "kind": "hr_at_least",
+            "value": 3
+          },
+          {
+            "kind": "quest_cleared",
+            "questId": "hub-3-recipe-220272"
+          },
+          {
+            "kind": "hr_at_least",
+            "value": 5
+          },
+          {
+            "kind": "external_flag",
+            "label": "未収録：集★5雪山の主、ドドブランゴのクリア（キャラバンの竜人商人の依頼3）"
+          },
+          {
+            "kind": "quest_cleared",
+            "questId": "village-10-recipe-298961"
+          }
+        ]
+      },
+      "addedNpcNote": "キャラバンの竜人商人の依頼2を達成後、依頼主へ報告する。",
+      "sources": [
+        "http://wiki.mhxg.org/ida/298960.html",
+        "http://wiki.mhxg.org/data/2020.html",
+        "http://wiki.mhxg.org/ida/243431.html",
+        "http://wiki.mhxg.org/ida/243430.html",
+        "http://wiki.mhxg.org/ida/220272.html"
+      ],
+      "reason": "攻略レシピの前提依頼と達成クエストを照合。通常の依頼達成報告はnpcNotesへ。今回対象外の集★5条件・HR・村前提はそのまま保持。"
     }
   ]
 }
