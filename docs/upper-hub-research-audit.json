@@ -7824,5 +7824,14 @@
       "adopted": "実在する個別ページの掲載ランク・条件を照合し、攻略レシピの名称を保持。",
       "supplementalUrl": "https://game8.jp/mh-xx/823696"
     }
-  ]
+  ],
+  "gRankTransitionCrosscheck": {
+    "url": "https://game8.jp/mh-xx/823723",
+    "checkedAt": "2026-10-16",
+    "status": "fetched",
+    "observedQuest": "集★G1遺群嶺の採集ツアー",
+    "observedParticipation": "HR9以上",
+    "observedAppearance": "その腕前、噂通りかしら…？をクリア後、酒場のマスターと話す",
+    "decision": "G★1・HR9への進行注記を照合。G級クエスト本体や固定IDは追加していません。"
+  }
 }
