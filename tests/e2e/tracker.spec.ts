@@ -665,3 +665,149 @@ test("HR gates auto-evaluate while the uncollected rank-7 prerequisite stays unk
     page.getByText(/未収録の前提：村★7調査隊初陣！遺群嶺の桃毛獣/),
   ).toBeVisible();
 });
+
+test("confirmed facility meals replace warnings while unresolved facilities stay visible", async ({
+  page,
+}) => {
+  await page.goto("./");
+  for (const [rank, name, menu] of [
+    ["2", "跳躍のアウトロー", "屋台の情熱まかない飯"],
+    ["4", "幻惑の魔術師", "屋台の闘魂まかない飯"],
+    ["5", "黒き禍", "屋台の愛情まかない飯"],
+  ]) {
+    await page
+      .getByRole("combobox", { name: "ランク", exact: true })
+      .selectOption(rank);
+    await page.getByRole("searchbox").fill(name);
+    await page.getByRole("button", { name: new RegExp(name) }).click();
+    await expect(page.getByText(menu, { exact: false })).toBeVisible();
+    await expect(
+      page.getByText("具体的な施設・交易の解放内容と追加条件は未確認です。", {
+        exact: true,
+      }),
+    ).toHaveCount(0);
+    await expect(
+      page.getByRole("link", { name: /MHXX攻略Wiki（食事施設）/ }),
+    ).toHaveAttribute(
+      "href",
+      "https://mhx-wiki.com/?%E9%A3%9F%E4%BA%8B%E5%8A%B9%E6%9E%9C%E4%B8%80%E8%A6%A7",
+    );
+  }
+  await page
+    .getByRole("combobox", { name: "ランク", exact: true })
+    .selectOption("3");
+  await page.getByRole("searchbox").fill("鬼面狩人を威す");
+  await page.getByRole("button", { name: /鬼面狩人を威す/ }).click();
+  await expect(
+    page.getByText("具体的な施設・交易の解放内容と追加条件は未確認です。", {
+      exact: true,
+    }),
+  ).toBeVisible();
+  await expect(
+    page.getByText("リノプロシュート", { exact: false }),
+  ).toBeVisible();
+});
+
+test("all 197 released checks survive facility changes and remain in version-1 backups", async ({
+  page,
+}) => {
+  const released: { id: string }[] = JSON.parse(
+    await readFile("docs/progress-id-baseline.json", "utf8"),
+  );
+  const roster = JSON.parse(await readFile("docs/data-audit.json", "utf8")) as {
+    ranks: { rank: string; entries: { recipeUrl: string }[] }[];
+  };
+  const ids = [
+    ...released.map((q) => q.id),
+    ...roster.ranks
+      .filter((r) => Number(r.rank) >= 4)
+      .flatMap((r) =>
+        r.entries.map(
+          (q) =>
+            `village-${r.rank}-recipe-${q.recipeUrl.split("/").pop()!.replace(".html", "")}`,
+        ),
+      ),
+  ];
+  await page.addInitScript((ids) => {
+    localStorage.setItem(
+      "qlog.mhxx.progress.v1",
+      JSON.stringify({
+        schemaVersion: 1,
+        completedQuestIds: [...ids, "future-id"],
+        hr: 7,
+      }),
+    );
+  }, ids);
+  await page.goto("./");
+  for (const [rank, count] of [
+    ["1", 7],
+    ["2", 37],
+    ["3", 45],
+    ["4", 35],
+    ["5", 28],
+    ["6", 45],
+  ] as const) {
+    await page
+      .getByRole("combobox", { name: "ランク", exact: true })
+      .selectOption(rank);
+    await expect(page.getByRole("progressbar")).toHaveAttribute(
+      "value",
+      String(count),
+    );
+  }
+  const pending = page.waitForEvent("download");
+  await page.getByRole("button", { name: "JSONを書き出す" }).click();
+  const file = await pending;
+  const exported = JSON.parse(await readFile((await file.path())!, "utf8"));
+  expect(exported.schemaVersion).toBe(1);
+  expect(exported.hr).toBe(7);
+  expect(exported.completedQuestIds).toHaveLength(198);
+  expect(exported.completedQuestIds).toEqual(
+    expect.arrayContaining([...ids, "future-id"]),
+  );
+});
+
+test("otomo and cart unlocks show HR alternatives and preserve conflicting slot-count warnings", async ({
+  page,
+}) => {
+  await page.goto("./");
+  for (const [rank, name, label] of [
+    ["4", "雪山のポイント捜索隊！", "オトモの初期雇用レベル5〜7"],
+    ["6", "牙と毒の沼地", "オトモの初期雇用レベル10〜12"],
+    ["5", "怪鳥の頭部破壊に挑戦！", "交易窓口の荷車2台目"],
+    ["6", "青と緑の波状包囲網", "交易窓口の荷車3台目"],
+  ]) {
+    await page
+      .getByRole("combobox", { name: "ランク", exact: true })
+      .selectOption(rank);
+    await page.getByRole("searchbox").fill(name);
+    await page.getByRole("button", { name: new RegExp(name) }).click();
+    await expect(page.getByText(label, { exact: false })).toBeVisible();
+    await expect(
+      page.getByText("具体的な施設・交易の解放内容と追加条件は未確認です。", {
+        exact: true,
+      }),
+    ).toHaveCount(0);
+    if (name === "牙と毒の沼地")
+      await expect(
+        page.getByText(/このクエストのクリア、またはHR5以上（OR）で解放/),
+      ).toBeVisible();
+  }
+  await page
+    .getByRole("combobox", { name: "ランク", exact: true })
+    .selectOption("3");
+  await page.getByRole("searchbox").fill("森丘の悪戯っ子");
+  await page.getByRole("button", { name: /森丘の悪戯っ子/ }).click();
+  await expect(
+    page.getByText("オトモ雇用枠の拡張（上限数は未確定）", { exact: false }),
+  ).toBeVisible();
+  await expect(
+    page
+      .locator(".quest-details")
+      .getByText(/基本情報：48匹、専用クエスト表：36匹/)
+      .first(),
+  ).toBeVisible();
+  await expect(
+    page.getByRole("link", { name: /MHXXニャンターwiki（基本情報）/ }),
+  ).toHaveAttribute("href", "https://w.atwiki.jp/mhxxnyanter/pages/20.html");
+});

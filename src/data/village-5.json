@@ -35,7 +35,13 @@
       ]
     },
     "npcNotes": [],
-    "unlocks": [],
+    "unlocks": [
+      {
+        "kind": "facility",
+        "label": "屋台の愛情まかない飯",
+        "note": "食事施設のメニュー追加。専門Wikiの開放条件欄はこのクエストを指定しています。追加の納品・報告条件の記載はありません。"
+      }
+    ],
     "sources": [
       {
         "site": "MHXX攻略レシピ",
@@ -48,13 +54,17 @@
         "url": "http://wiki.mhxg.org/data/2015.html",
         "kind": "list",
         "checkedAt": "2026-10-15"
+      },
+      {
+        "site": "MHXX攻略Wiki（食事施設）",
+        "url": "https://mhx-wiki.com/?%E9%A3%9F%E4%BA%8B%E5%8A%B9%E6%9E%9C%E4%B8%80%E8%A6%A7",
+        "kind": "list",
+        "checkedAt": "2026-10-16"
       }
     ],
     "verification": "partial",
-    "verificationNote": "攻略レシピの明記を採用。通常の会話・報告は補足に分離。解放要素の未記載は「なし」と断定していません。",
-    "warnings": [
-      "具体的な施設・交易の解放内容と追加条件は未確認です。"
-    ]
+    "verificationNote": "攻略レシピの明記を採用。通常の会話・報告は補足に分離。解放要素の未記載は「なし」と断定していません。 施設再調査：第一資料の施設印では具体名が不明なため、専門Wikiの料理表が指定するメニュー名・クエストを採用。追加の納品・報告条件は記載なし。 全施設の網羅確認を意味しません。",
+    "warnings": []
   },
   {
     "id": "village-5-recipe-220220",
@@ -1174,6 +1184,11 @@
       {
         "kind": "hunter_art",
         "label": "ブレイドダンス LV2"
+      },
+      {
+        "kind": "trade",
+        "label": "交易窓口の荷車2台目",
+        "note": "クエストクリアで解放。専用クエスト表に明記されています。追加の納品・報告条件やHRによる別経路は、今回確認した資料では特定していません。"
       }
     ],
     "sources": [
@@ -1188,12 +1203,16 @@
         "url": "http://wiki.mhxg.org/data/2015.html",
         "kind": "list",
         "checkedAt": "2026-10-15"
+      },
+      {
+        "site": "MHXXニャンターwiki（専用クエスト）",
+        "url": "https://w.atwiki.jp/mhxxnyanter/pages/24.html",
+        "kind": "list",
+        "checkedAt": "2026-10-16"
       }
     ],
     "verification": "partial",
-    "verificationNote": "攻略レシピの明記を採用。通常の会話・報告は補足に分離。解放要素の未記載は「なし」と断定していません。",
-    "warnings": [
-      "具体的な施設・交易の解放内容と追加条件は未確認です。"
-    ]
+    "verificationNote": "攻略レシピの明記を採用。通常の会話・報告は補足に分離。解放要素の未記載は「なし」と断定していません。 施設再調査：ニャンター専用クエスト表がクリア後の荷車解放を明記。3台目は専門Wikiの勲章条件でも同じクエストを確認。 全施設の網羅確認を意味しません。",
+    "warnings": []
   }
 ]
