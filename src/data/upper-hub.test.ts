@@ -1,5 +1,7 @@
 import upperConnections from "../../docs/upper-hub-connections.json";
 import { describe, expect, it } from "vitest";
+import villageAudit from "../../docs/data-audit.json";
+import lowerAudit from "../../docs/hub-audit.json";
 import audit from "../../docs/upper-hub-audit.json";
 import baseline from "../../docs/progress-baseline-474.json";
 import { quests } from "./quests";
@@ -27,6 +29,32 @@ describe("upper hub primary rosters and released progress", () => {
             checkedAt: audit.checkedAt,
           }),
         );
+        const owners = new Map<string, string>();
+        for (const rank of villageAudit.ranks)
+          for (const entry of rank.entries)
+            if (entry.requestUrlFromDetail)
+              owners.set(entry.requestUrlFromDetail, entry.recipeUrl);
+        for (const doc of [lowerAudit, audit])
+          for (const rank of doc.ranks)
+            for (const entry of rank.entries) {
+              const own = entry.observations.find((p) => p.title === "依頼")
+                ?.links[0]?.url;
+              if (own) owners.set(own, entry.recipeUrl);
+            }
+        for (const panel of rank.entries[i].observations) {
+          for (const a of panel.links) {
+            const target = quests.find(
+              (x) =>
+                x.sources[0].url === a.url ||
+                x.sources[0].url === owners.get(a.url),
+            );
+            if (!target || target.id === q.id) continue;
+            if (panel.title === "備考" || panel.title === "依頼")
+              expect(references(q.condition)).toContain(target.id);
+            if (panel.title === "他のクエスト発生に必要")
+              expect(dependents(q.id, quests)).toContain(target);
+          }
+        }
         for (const id of references(q.condition))
           expect(dependents(id, quests)).toContain(q);
       });

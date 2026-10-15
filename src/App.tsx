@@ -786,7 +786,7 @@ export default function App() {
               </tbody>
             </table>
             <table>
-              <caption>集会所下位★1〜3の収録状況</caption>
+              <caption>集会所★1〜7の収録状況</caption>
               <thead>
                 <tr>
                   <th>ランク</th>
@@ -795,7 +795,7 @@ export default function App() {
                 </tr>
               </thead>
               <tbody>
-                {["1", "2", "3"].map((rank) => (
+                {["1", "2", "3", "4", "5", "6", "7"].map((rank) => (
                   <tr key={rank}>
                     <th>集会所★{rank}</th>
                     <td>
