@@ -145,3 +145,51 @@ for (const rank of audit.ranks.filter((r) => r.rank === "5")) {
     );
   });
 }
+
+for (const rank of audit.ranks.filter((r) => r.rank === "6")) {
+  it("rank-6 twin urgents use the five rank-5 keys and keep their joint otomo route as AND", () => {
+    const keys = quests.filter(
+      (q) => q.category === "hub" && q.rank === "5" && q.tags.includes("key"),
+    );
+    expect(keys).toHaveLength(5);
+    for (const name of ["妖艶なる舞", "不動の山神"]) {
+      const q = quests.find((q) => q.category === "hub" && q.name === name)!;
+      expect(references(q.condition)).toEqual(keys.map((q) => q.id));
+      for (let mask = 0; mask < 32; mask++)
+        expect(
+          evaluate(q.condition, {
+            schemaVersion: 1,
+            completedQuestIds: keys
+              .filter((_, i) => mask & (1 << i))
+              .map((q) => q.id),
+            hr: 999,
+          }),
+        ).toBe(mask === 31 ? "met" : "unmet");
+      expect(q.unlocks).toContainEqual(
+        expect.objectContaining({
+          kind: "facility",
+          note: expect.stringContaining("両方のクリアが必要（AND）"),
+        }),
+      );
+    }
+    expect(rank.observedCount).toBe(71);
+  });
+  it("rank-6 initial hyper quests require any two of the exact five keys", () => {
+    const keys = quests.filter(
+      (q) => q.category === "hub" && q.rank === "6" && q.tags.includes("key"),
+    );
+    expect(keys).toHaveLength(5);
+    const q = quests.find(
+      (q) => q.category === "hub" && q.name === "どくどくパニック・毒怪鳥！！",
+    )!;
+    expect(references(q.condition)).toEqual(keys.map((q) => q.id));
+    for (let mask = 0; mask < 32; mask++) {
+      const completedQuestIds = keys
+        .filter((_, i) => mask & (1 << i))
+        .map((q) => q.id);
+      expect(
+        evaluate(q.condition, { schemaVersion: 1, completedQuestIds, hr: 999 }),
+      ).toBe(completedQuestIds.length >= 2 ? "met" : "unmet");
+    }
+  });
+}

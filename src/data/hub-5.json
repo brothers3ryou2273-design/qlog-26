@@ -8,19 +8,10 @@
     "role": "hunter",
     "tags": ["normal"],
     "condition": {
-      "kind": "all",
-      "rules": [
-        {
-          "kind": "hr_at_least",
-          "value": 5
-        },
-        {
-          "kind": "hr_at_least",
-          "value": 4
-        }
-      ]
+      "kind": "hr_at_least",
+      "value": 5
     },
-    "npcNotes": [],
+    "npcNotes": ["受注・参加のHR条件：HR4以上（出現前提とは別）。"],
     "unlocks": [],
     "sources": [
       {
@@ -55,19 +46,10 @@
     "role": "hunter",
     "tags": ["normal"],
     "condition": {
-      "kind": "all",
-      "rules": [
-        {
-          "kind": "hr_at_least",
-          "value": 5
-        },
-        {
-          "kind": "hr_at_least",
-          "value": 4
-        }
-      ]
+      "kind": "hr_at_least",
+      "value": 5
     },
-    "npcNotes": [],
+    "npcNotes": ["受注・参加のHR条件：HR4以上（出現前提とは別）。"],
     "unlocks": [],
     "sources": [
       {
@@ -102,19 +84,10 @@
     "role": "hunter",
     "tags": ["normal"],
     "condition": {
-      "kind": "all",
-      "rules": [
-        {
-          "kind": "hr_at_least",
-          "value": 5
-        },
-        {
-          "kind": "hr_at_least",
-          "value": 4
-        }
-      ]
+      "kind": "hr_at_least",
+      "value": 5
     },
-    "npcNotes": [],
+    "npcNotes": ["受注・参加のHR条件：HR4以上（出現前提とは別）。"],
     "unlocks": [],
     "sources": [
       {
@@ -149,19 +122,10 @@
     "role": "hunter",
     "tags": ["normal"],
     "condition": {
-      "kind": "all",
-      "rules": [
-        {
-          "kind": "hr_at_least",
-          "value": 5
-        },
-        {
-          "kind": "hr_at_least",
-          "value": 4
-        }
-      ]
+      "kind": "hr_at_least",
+      "value": 5
     },
-    "npcNotes": [],
+    "npcNotes": ["受注・参加のHR条件：HR4以上（出現前提とは別）。"],
     "unlocks": [],
     "sources": [
       {
@@ -196,19 +160,10 @@
     "role": "hunter",
     "tags": ["normal"],
     "condition": {
-      "kind": "all",
-      "rules": [
-        {
-          "kind": "hr_at_least",
-          "value": 5
-        },
-        {
-          "kind": "hr_at_least",
-          "value": 4
-        }
-      ]
+      "kind": "hr_at_least",
+      "value": 5
     },
-    "npcNotes": [],
+    "npcNotes": ["受注・参加のHR条件：HR4以上（出現前提とは別）。"],
     "unlocks": [],
     "sources": [
       {
@@ -252,16 +207,13 @@
         {
           "kind": "hr_at_least",
           "value": 5
-        },
-        {
-          "kind": "hr_at_least",
-          "value": 4
         }
       ]
     },
     "npcNotes": [
       "キャラバンの看板娘の依頼1を達成し、必要な報告を行う。",
-      "ベルナ村 キャラバンの看板娘の依頼2を受注し、達成後に依頼主へ報告する。"
+      "ベルナ村 キャラバンの看板娘の依頼2を受注し、達成後に依頼主へ報告する。",
+      "受注・参加のHR条件：HR4以上（出現前提とは別）。"
     ],
     "unlocks": [
       {
@@ -308,19 +260,10 @@
     "role": "hunter",
     "tags": ["normal"],
     "condition": {
-      "kind": "all",
-      "rules": [
-        {
-          "kind": "hr_at_least",
-          "value": 5
-        },
-        {
-          "kind": "hr_at_least",
-          "value": 4
-        }
-      ]
+      "kind": "hr_at_least",
+      "value": 5
     },
-    "npcNotes": [],
+    "npcNotes": ["受注・参加のHR条件：HR4以上（出現前提とは別）。"],
     "unlocks": [],
     "sources": [
       {
@@ -367,7 +310,10 @@
         }
       ]
     },
-    "npcNotes": ["ギルドマネージャーと話す。"],
+    "npcNotes": [
+      "受注・参加のHR条件：HR4以上（出現前提とは別）。",
+      "ギルドマネージャーと話す。"
+    ],
     "unlocks": [],
     "sources": [
       {
@@ -402,19 +348,10 @@
     "role": "hunter",
     "tags": ["normal"],
     "condition": {
-      "kind": "all",
-      "rules": [
-        {
-          "kind": "hr_at_least",
-          "value": 5
-        },
-        {
-          "kind": "hr_at_least",
-          "value": 4
-        }
-      ]
+      "kind": "hr_at_least",
+      "value": 5
     },
-    "npcNotes": [],
+    "npcNotes": ["受注・参加のHR条件：HR4以上（出現前提とは別）。"],
     "unlocks": [],
     "sources": [
       {
@@ -449,19 +386,10 @@
     "role": "hunter",
     "tags": ["normal"],
     "condition": {
-      "kind": "all",
-      "rules": [
-        {
-          "kind": "hr_at_least",
-          "value": 5
-        },
-        {
-          "kind": "hr_at_least",
-          "value": 4
-        }
-      ]
+      "kind": "hr_at_least",
+      "value": 5
     },
-    "npcNotes": [],
+    "npcNotes": ["受注・参加のHR条件：HR4以上（出現前提とは別）。"],
     "unlocks": [],
     "sources": [
       {
@@ -496,19 +424,10 @@
     "role": "hunter",
     "tags": ["key"],
     "condition": {
-      "kind": "all",
-      "rules": [
-        {
-          "kind": "hr_at_least",
-          "value": 5
-        },
-        {
-          "kind": "hr_at_least",
-          "value": 4
-        }
-      ]
+      "kind": "hr_at_least",
+      "value": 5
     },
-    "npcNotes": [],
+    "npcNotes": ["受注・参加のHR条件：HR4以上（出現前提とは別）。"],
     "unlocks": [],
     "sources": [
       {
@@ -543,19 +462,10 @@
     "role": "hunter",
     "tags": ["key"],
     "condition": {
-      "kind": "all",
-      "rules": [
-        {
-          "kind": "hr_at_least",
-          "value": 5
-        },
-        {
-          "kind": "hr_at_least",
-          "value": 4
-        }
-      ]
+      "kind": "hr_at_least",
+      "value": 5
     },
-    "npcNotes": [],
+    "npcNotes": ["受注・参加のHR条件：HR4以上（出現前提とは別）。"],
     "unlocks": [
       {
         "kind": "hunter_art",
@@ -617,7 +527,7 @@
         }
       ]
     },
-    "npcNotes": [],
+    "npcNotes": ["受注・参加のHR条件：HR4以上（出現前提とは別）。"],
     "unlocks": [],
     "sources": [
       {
@@ -652,19 +562,10 @@
     "role": "hunter",
     "tags": ["normal"],
     "condition": {
-      "kind": "all",
-      "rules": [
-        {
-          "kind": "hr_at_least",
-          "value": 5
-        },
-        {
-          "kind": "hr_at_least",
-          "value": 4
-        }
-      ]
+      "kind": "hr_at_least",
+      "value": 5
     },
-    "npcNotes": [],
+    "npcNotes": ["受注・参加のHR条件：HR4以上（出現前提とは別）。"],
     "unlocks": [],
     "sources": [
       {
@@ -699,19 +600,10 @@
     "role": "hunter",
     "tags": ["key"],
     "condition": {
-      "kind": "all",
-      "rules": [
-        {
-          "kind": "hr_at_least",
-          "value": 5
-        },
-        {
-          "kind": "hr_at_least",
-          "value": 4
-        }
-      ]
+      "kind": "hr_at_least",
+      "value": 5
     },
-    "npcNotes": [],
+    "npcNotes": ["受注・参加のHR条件：HR4以上（出現前提とは別）。"],
     "unlocks": [],
     "sources": [
       {
@@ -746,19 +638,10 @@
     "role": "hunter",
     "tags": ["normal"],
     "condition": {
-      "kind": "all",
-      "rules": [
-        {
-          "kind": "hr_at_least",
-          "value": 5
-        },
-        {
-          "kind": "hr_at_least",
-          "value": 4
-        }
-      ]
+      "kind": "hr_at_least",
+      "value": 5
     },
-    "npcNotes": [],
+    "npcNotes": ["受注・参加のHR条件：HR4以上（出現前提とは別）。"],
     "unlocks": [
       {
         "kind": "hunter_art",
@@ -804,19 +687,10 @@
     "role": "hunter",
     "tags": ["normal"],
     "condition": {
-      "kind": "all",
-      "rules": [
-        {
-          "kind": "hr_at_least",
-          "value": 5
-        },
-        {
-          "kind": "hr_at_least",
-          "value": 4
-        }
-      ]
+      "kind": "hr_at_least",
+      "value": 5
     },
-    "npcNotes": [],
+    "npcNotes": ["受注・参加のHR条件：HR4以上（出現前提とは別）。"],
     "unlocks": [],
     "sources": [
       {
@@ -851,19 +725,10 @@
     "role": "hunter",
     "tags": ["normal"],
     "condition": {
-      "kind": "all",
-      "rules": [
-        {
-          "kind": "hr_at_least",
-          "value": 5
-        },
-        {
-          "kind": "hr_at_least",
-          "value": 4
-        }
-      ]
+      "kind": "hr_at_least",
+      "value": 5
     },
-    "npcNotes": [],
+    "npcNotes": ["受注・参加のHR条件：HR4以上（出現前提とは別）。"],
     "unlocks": [],
     "sources": [
       {
@@ -898,19 +763,10 @@
     "role": "hunter",
     "tags": ["normal"],
     "condition": {
-      "kind": "all",
-      "rules": [
-        {
-          "kind": "hr_at_least",
-          "value": 5
-        },
-        {
-          "kind": "hr_at_least",
-          "value": 4
-        }
-      ]
+      "kind": "hr_at_least",
+      "value": 5
     },
-    "npcNotes": [],
+    "npcNotes": ["受注・参加のHR条件：HR4以上（出現前提とは別）。"],
     "unlocks": [],
     "sources": [
       {
@@ -954,15 +810,12 @@
         {
           "kind": "hr_at_least",
           "value": 5
-        },
-        {
-          "kind": "hr_at_least",
-          "value": 4
         }
       ]
     },
     "npcNotes": [
-      "ユクモ村 タンジアの港の看板娘の依頼1を受注し、達成後に依頼主へ報告する。"
+      "ユクモ村 タンジアの港の看板娘の依頼1を受注し、達成後に依頼主へ報告する。",
+      "受注・参加のHR条件：HR4以上（出現前提とは別）。"
     ],
     "unlocks": [
       {
@@ -1014,19 +867,10 @@
     "role": "hunter",
     "tags": ["normal"],
     "condition": {
-      "kind": "all",
-      "rules": [
-        {
-          "kind": "hr_at_least",
-          "value": 5
-        },
-        {
-          "kind": "hr_at_least",
-          "value": 4
-        }
-      ]
+      "kind": "hr_at_least",
+      "value": 5
     },
-    "npcNotes": [],
+    "npcNotes": ["受注・参加のHR条件：HR4以上（出現前提とは別）。"],
     "unlocks": [
       {
         "kind": "hunter_art",
@@ -1077,19 +921,10 @@
     "role": "hunter",
     "tags": ["key"],
     "condition": {
-      "kind": "all",
-      "rules": [
-        {
-          "kind": "hr_at_least",
-          "value": 5
-        },
-        {
-          "kind": "hr_at_least",
-          "value": 4
-        }
-      ]
+      "kind": "hr_at_least",
+      "value": 5
     },
-    "npcNotes": [],
+    "npcNotes": ["受注・参加のHR条件：HR4以上（出現前提とは別）。"],
     "unlocks": [
       {
         "kind": "other",
@@ -1130,19 +965,10 @@
     "role": "hunter",
     "tags": ["normal"],
     "condition": {
-      "kind": "all",
-      "rules": [
-        {
-          "kind": "hr_at_least",
-          "value": 5
-        },
-        {
-          "kind": "hr_at_least",
-          "value": 4
-        }
-      ]
+      "kind": "hr_at_least",
+      "value": 5
     },
-    "npcNotes": [],
+    "npcNotes": ["受注・参加のHR条件：HR4以上（出現前提とは別）。"],
     "unlocks": [],
     "sources": [
       {
@@ -1177,19 +1003,10 @@
     "role": "hunter",
     "tags": ["normal"],
     "condition": {
-      "kind": "all",
-      "rules": [
-        {
-          "kind": "hr_at_least",
-          "value": 5
-        },
-        {
-          "kind": "hr_at_least",
-          "value": 4
-        }
-      ]
+      "kind": "hr_at_least",
+      "value": 5
     },
-    "npcNotes": [],
+    "npcNotes": ["受注・参加のHR条件：HR4以上（出現前提とは別）。"],
     "unlocks": [],
     "sources": [
       {
@@ -1233,15 +1050,12 @@
         {
           "kind": "hr_at_least",
           "value": 5
-        },
-        {
-          "kind": "hr_at_least",
-          "value": 4
         }
       ]
     },
     "npcNotes": [
-      "ポッケ村 ポッケ村の看板娘の依頼を受注し、達成後に依頼主へ報告する。"
+      "ポッケ村 ポッケ村の看板娘の依頼を受注し、達成後に依頼主へ報告する。",
+      "受注・参加のHR条件：HR4以上（出現前提とは別）。"
     ],
     "unlocks": [
       {
@@ -1304,19 +1118,10 @@
     "role": "hunter",
     "tags": ["normal"],
     "condition": {
-      "kind": "all",
-      "rules": [
-        {
-          "kind": "hr_at_least",
-          "value": 5
-        },
-        {
-          "kind": "hr_at_least",
-          "value": 4
-        }
-      ]
+      "kind": "hr_at_least",
+      "value": 5
     },
-    "npcNotes": [],
+    "npcNotes": ["受注・参加のHR条件：HR4以上（出現前提とは別）。"],
     "unlocks": [
       {
         "kind": "hunter_art",
@@ -1378,7 +1183,10 @@
         }
       ]
     },
-    "npcNotes": ["ギルドマネージャーと話す。"],
+    "npcNotes": [
+      "受注・参加のHR条件：HR4以上（出現前提とは別）。",
+      "ギルドマネージャーと話す。"
+    ],
     "unlocks": [],
     "sources": [
       {
@@ -1413,19 +1221,10 @@
     "role": "hunter",
     "tags": ["normal"],
     "condition": {
-      "kind": "all",
-      "rules": [
-        {
-          "kind": "hr_at_least",
-          "value": 5
-        },
-        {
-          "kind": "hr_at_least",
-          "value": 4
-        }
-      ]
+      "kind": "hr_at_least",
+      "value": 5
     },
-    "npcNotes": [],
+    "npcNotes": ["受注・参加のHR条件：HR4以上（出現前提とは別）。"],
     "unlocks": [],
     "sources": [
       {
@@ -1472,7 +1271,7 @@
         }
       ]
     },
-    "npcNotes": [],
+    "npcNotes": ["受注・参加のHR条件：HR4以上（出現前提とは別）。"],
     "unlocks": [],
     "sources": [
       {
@@ -1507,19 +1306,10 @@
     "role": "hunter",
     "tags": ["normal"],
     "condition": {
-      "kind": "all",
-      "rules": [
-        {
-          "kind": "hr_at_least",
-          "value": 5
-        },
-        {
-          "kind": "hr_at_least",
-          "value": 4
-        }
-      ]
+      "kind": "hr_at_least",
+      "value": 5
     },
-    "npcNotes": [],
+    "npcNotes": ["受注・参加のHR条件：HR4以上（出現前提とは別）。"],
     "unlocks": [],
     "sources": [
       {
@@ -1563,15 +1353,12 @@
         {
           "kind": "quest_cleared",
           "questId": "village-2-g8-822843"
-        },
-        {
-          "kind": "hr_at_least",
-          "value": 4
         }
       ]
     },
     "npcNotes": [
-      "ベルナ村 筆頭ルーキーの依頼1を受注し、達成後に依頼主へ報告する。"
+      "ベルナ村 筆頭ルーキーの依頼1を受注し、達成後に依頼主へ報告する。",
+      "受注・参加のHR条件：HR4以上（出現前提とは別）。"
     ],
     "unlocks": [
       {
@@ -1642,16 +1429,13 @@
         {
           "kind": "hr_at_least",
           "value": 5
-        },
-        {
-          "kind": "hr_at_least",
-          "value": 4
         }
       ]
     },
     "npcNotes": [
       "キャラバンの竜人商人の依頼2を達成し、必要な報告を行う。",
-      "ココット村 キャラバンの竜人商人の依頼3を受注し、達成後に依頼主へ報告する。"
+      "ココット村 キャラバンの竜人商人の依頼3を受注し、達成後に依頼主へ報告する。",
+      "受注・参加のHR条件：HR4以上（出現前提とは別）。"
     ],
     "unlocks": [],
     "sources": [
@@ -1711,7 +1495,7 @@
         }
       ]
     },
-    "npcNotes": [],
+    "npcNotes": ["受注・参加のHR条件：HR4以上（出現前提とは別）。"],
     "unlocks": [
       {
         "kind": "hunter_art",
@@ -1778,16 +1562,13 @@
         {
           "kind": "hr_at_least",
           "value": 5
-        },
-        {
-          "kind": "hr_at_least",
-          "value": 4
         }
       ]
     },
     "npcNotes": [
       "モガの村の看板娘の依頼1を達成し、必要な報告を行う。",
-      "ユクモ村 モガの村の看板娘の依頼2を受注し、達成後に依頼主へ報告する。"
+      "ユクモ村 モガの村の看板娘の依頼2を受注し、達成後に依頼主へ報告する。",
+      "受注・参加のHR条件：HR4以上（出現前提とは別）。"
     ],
     "unlocks": [
       {
@@ -1851,7 +1632,10 @@
         }
       ]
     },
-    "npcNotes": ["ギルドマネージャーと話す。"],
+    "npcNotes": [
+      "受注・参加のHR条件：HR4以上（出現前提とは別）。",
+      "ギルドマネージャーと話す。"
+    ],
     "unlocks": [],
     "sources": [
       {
@@ -1898,7 +1682,7 @@
         }
       ]
     },
-    "npcNotes": [],
+    "npcNotes": ["受注・参加のHR条件：HR4以上（出現前提とは別）。"],
     "unlocks": [],
     "sources": [
       {
@@ -1933,19 +1717,10 @@
     "role": "hunter",
     "tags": ["normal"],
     "condition": {
-      "kind": "all",
-      "rules": [
-        {
-          "kind": "hr_at_least",
-          "value": 5
-        },
-        {
-          "kind": "hr_at_least",
-          "value": 4
-        }
-      ]
+      "kind": "hr_at_least",
+      "value": 5
     },
-    "npcNotes": [],
+    "npcNotes": ["受注・参加のHR条件：HR4以上（出現前提とは別）。"],
     "unlocks": [],
     "sources": [
       {
@@ -1992,7 +1767,10 @@
         }
       ]
     },
-    "npcNotes": ["ギルドマネージャーと話す。"],
+    "npcNotes": [
+      "受注・参加のHR条件：HR4以上（出現前提とは別）。",
+      "ギルドマネージャーと話す。"
+    ],
     "unlocks": [],
     "sources": [
       {
@@ -2027,19 +1805,10 @@
     "role": "hunter",
     "tags": ["key"],
     "condition": {
-      "kind": "all",
-      "rules": [
-        {
-          "kind": "hr_at_least",
-          "value": 5
-        },
-        {
-          "kind": "hr_at_least",
-          "value": 4
-        }
-      ]
+      "kind": "hr_at_least",
+      "value": 5
     },
-    "npcNotes": [],
+    "npcNotes": ["受注・参加のHR条件：HR4以上（出現前提とは別）。"],
     "unlocks": [],
     "sources": [
       {
@@ -2074,19 +1843,10 @@
     "role": "hunter",
     "tags": ["normal"],
     "condition": {
-      "kind": "all",
-      "rules": [
-        {
-          "kind": "hr_at_least",
-          "value": 5
-        },
-        {
-          "kind": "hr_at_least",
-          "value": 4
-        }
-      ]
+      "kind": "hr_at_least",
+      "value": 5
     },
-    "npcNotes": [],
+    "npcNotes": ["受注・参加のHR条件：HR4以上（出現前提とは別）。"],
     "unlocks": [],
     "sources": [
       {
@@ -2121,19 +1881,10 @@
     "role": "hunter",
     "tags": ["normal"],
     "condition": {
-      "kind": "all",
-      "rules": [
-        {
-          "kind": "hr_at_least",
-          "value": 5
-        },
-        {
-          "kind": "hr_at_least",
-          "value": 4
-        }
-      ]
+      "kind": "hr_at_least",
+      "value": 5
     },
-    "npcNotes": [],
+    "npcNotes": ["受注・参加のHR条件：HR4以上（出現前提とは別）。"],
     "unlocks": [],
     "sources": [
       {
@@ -2168,19 +1919,10 @@
     "role": "hunter",
     "tags": ["normal"],
     "condition": {
-      "kind": "all",
-      "rules": [
-        {
-          "kind": "hr_at_least",
-          "value": 5
-        },
-        {
-          "kind": "hr_at_least",
-          "value": 4
-        }
-      ]
+      "kind": "hr_at_least",
+      "value": 5
     },
-    "npcNotes": [],
+    "npcNotes": ["受注・参加のHR条件：HR4以上（出現前提とは別）。"],
     "unlocks": [],
     "sources": [
       {
@@ -2215,19 +1957,10 @@
     "role": "hunter",
     "tags": ["normal"],
     "condition": {
-      "kind": "all",
-      "rules": [
-        {
-          "kind": "hr_at_least",
-          "value": 5
-        },
-        {
-          "kind": "hr_at_least",
-          "value": 4
-        }
-      ]
+      "kind": "hr_at_least",
+      "value": 5
     },
-    "npcNotes": [],
+    "npcNotes": ["受注・参加のHR条件：HR4以上（出現前提とは別）。"],
     "unlocks": [
       {
         "kind": "hunter_art",
@@ -2294,16 +2027,13 @@
         {
           "kind": "quest_cleared",
           "questId": "village-4-recipe-219987"
-        },
-        {
-          "kind": "hr_at_least",
-          "value": 4
         }
       ]
     },
     "npcNotes": [
       "工房のばあちゃんの依頼1を達成し、必要な報告を行う。",
-      "ユクモ村 モガの村の老職人の依頼1を受注し、達成後に依頼主へ報告する。"
+      "ユクモ村 モガの村の老職人の依頼1を受注し、達成後に依頼主へ報告する。",
+      "受注・参加のHR条件：HR4以上（出現前提とは別）。"
     ],
     "unlocks": [
       {
@@ -2355,19 +2085,10 @@
     "role": "hunter",
     "tags": ["normal"],
     "condition": {
-      "kind": "all",
-      "rules": [
-        {
-          "kind": "hr_at_least",
-          "value": 5
-        },
-        {
-          "kind": "hr_at_least",
-          "value": 4
-        }
-      ]
+      "kind": "hr_at_least",
+      "value": 5
     },
-    "npcNotes": [],
+    "npcNotes": ["受注・参加のHR条件：HR4以上（出現前提とは別）。"],
     "unlocks": [
       {
         "kind": "hunter_art",
@@ -2413,19 +2134,10 @@
     "role": "hunter",
     "tags": ["normal"],
     "condition": {
-      "kind": "all",
-      "rules": [
-        {
-          "kind": "hr_at_least",
-          "value": 5
-        },
-        {
-          "kind": "hr_at_least",
-          "value": 4
-        }
-      ]
+      "kind": "hr_at_least",
+      "value": 5
     },
-    "npcNotes": [],
+    "npcNotes": ["受注・参加のHR条件：HR4以上（出現前提とは別）。"],
     "unlocks": [
       {
         "kind": "hunter_art",
@@ -2487,14 +2199,8 @@
         }
       ]
     },
-    "npcNotes": [],
-    "unlocks": [
-      {
-        "kind": "other",
-        "label": "集★6振り返ってもヤツがいる（出現前提）",
-        "note": "未収録クエストの出現前提の一つ。その他の受注条件・実際の出現はゲーム内で確認してください。"
-      }
-    ],
+    "npcNotes": ["受注・参加のHR条件：HR4以上（出現前提とは別）。"],
+    "unlocks": [],
     "sources": [
       {
         "site": "MHXX攻略レシピ",
@@ -2540,7 +2246,7 @@
         }
       ]
     },
-    "npcNotes": [],
+    "npcNotes": ["受注・参加のHR条件：HR4以上（出現前提とは別）。"],
     "unlocks": [],
     "sources": [
       {
@@ -2587,7 +2293,7 @@
         }
       ]
     },
-    "npcNotes": [],
+    "npcNotes": ["受注・参加のHR条件：HR4以上（出現前提とは別）。"],
     "unlocks": [],
     "sources": [
       {
@@ -2634,7 +2340,7 @@
         }
       ]
     },
-    "npcNotes": [],
+    "npcNotes": ["受注・参加のHR条件：HR4以上（出現前提とは別）。"],
     "unlocks": [],
     "sources": [
       {
@@ -2674,23 +2380,6 @@
         {
           "kind": "hr_at_least",
           "value": 4
-        },
-        {
-          "kind": "any",
-          "rules": [
-            {
-              "kind": "quest_cleared",
-              "questId": "hub-5-recipe-238241"
-            },
-            {
-              "kind": "quest_cleared",
-              "questId": "hub-5-recipe-238242"
-            },
-            {
-              "kind": "quest_cleared",
-              "questId": "hub-5-recipe-238243"
-            }
-          ]
         },
         {
           "kind": "any",
@@ -2777,7 +2466,7 @@
         }
       ]
     },
-    "npcNotes": [],
+    "npcNotes": ["受注・参加のHR条件：HR4以上（出現前提とは別）。"],
     "unlocks": [
       {
         "kind": "facility",

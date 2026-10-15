@@ -1663,18 +1663,15 @@
           "questId": "village-3-g8-822877"
         },
         {
-          "kind": "unknown",
-          "note": "キャラバンの娘の依頼2：特定の獰猛化クエスト2つ以上（対象は出典未記載）"
-        },
-        {
-          "kind": "external_flag",
-          "label": "未収録：集★6心を燃やせ、燃石炭！のクリア（キャラバンの娘の依頼2）"
+          "kind": "quest_cleared",
+          "questId": "hub-6-recipe-243492"
         }
       ]
     },
     "npcNotes": [
       "キャラバンの娘の依頼1：ナグリ村の村長と会話。",
-      "ココット村 キャラバンの娘の依頼3を受注する。"
+      "ココット村 キャラバンの娘の依頼3を受注する。",
+      "前提の依頼達成後、必要な報告を行う。"
     ],
     "unlocks": [
       {
@@ -1705,6 +1702,12 @@
       {
         "site": "MHXX攻略レシピ（前提依頼）",
         "url": "http://wiki.mhxg.org/ida/243428.html",
+        "kind": "detail",
+        "checkedAt": "2026-10-16"
+      },
+      {
+        "site": "MHXX攻略レシピ",
+        "url": "http://wiki.mhxg.org/ida/243492.html",
         "kind": "detail",
         "checkedAt": "2026-10-16"
       }

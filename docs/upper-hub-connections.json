@@ -52,7 +52,9 @@
         "http://wiki.mhxg.org/ida/243473.html"
       ],
       "reason": "実在する前提クエストを収録し外部条件のクリア部分を固定IDへ置換。ネコートの依頼1は別のクリア参照も残す。その他の未知・HR・納品・G級等は保持。",
-      "addedNpcNotes": ["前提の依頼達成後、必要な報告を行う。"]
+      "addedNpcNotes": ["前提の依頼達成後、必要な報告を行う。"],
+      "resolvedInheritedPrerequisites": [],
+      "inheritanceReason": null
     },
     {
       "questId": "village-10-recipe-298960",
@@ -122,7 +124,90 @@
         "http://wiki.mhxg.org/ida/243430.html"
       ],
       "reason": "実在する前提クエストを収録し外部条件のクリア部分を固定IDへ置換。ネコートの依頼1は別のクリア参照も残す。その他の未知・HR・納品・G級等は保持。",
-      "addedNpcNotes": ["前提の依頼達成後、必要な報告を行う。"]
+      "addedNpcNotes": ["前提の依頼達成後、必要な報告を行う。"],
+      "resolvedInheritedPrerequisites": [],
+      "inheritanceReason": null
+    },
+    {
+      "questId": "village-8-recipe-288223",
+      "name": "熱地に現る、ウラガンキン！",
+      "before": {
+        "kind": "all",
+        "rules": [
+          {
+            "kind": "quest_cleared",
+            "questId": "village-8-recipe-286192"
+          },
+          {
+            "kind": "quest_cleared",
+            "questId": "village-8-recipe-286194"
+          },
+          {
+            "kind": "quest_cleared",
+            "questId": "village-8-recipe-286202"
+          },
+          {
+            "kind": "hr_at_least",
+            "value": 4
+          },
+          {
+            "kind": "quest_cleared",
+            "questId": "village-3-g8-822877"
+          },
+          {
+            "kind": "unknown",
+            "note": "キャラバンの娘の依頼2：特定の獰猛化クエスト2つ以上（対象は出典未記載）"
+          },
+          {
+            "kind": "external_flag",
+            "label": "未収録：集★6心を燃やせ、燃石炭！のクリア（キャラバンの娘の依頼2）"
+          }
+        ]
+      },
+      "after": {
+        "kind": "all",
+        "rules": [
+          {
+            "kind": "quest_cleared",
+            "questId": "village-8-recipe-286192"
+          },
+          {
+            "kind": "quest_cleared",
+            "questId": "village-8-recipe-286194"
+          },
+          {
+            "kind": "quest_cleared",
+            "questId": "village-8-recipe-286202"
+          },
+          {
+            "kind": "hr_at_least",
+            "value": 4
+          },
+          {
+            "kind": "quest_cleared",
+            "questId": "village-3-g8-822877"
+          },
+          {
+            "kind": "quest_cleared",
+            "questId": "hub-6-recipe-243492"
+          }
+        ]
+      },
+      "sources": [
+        "http://wiki.mhxg.org/ida/288223.html",
+        "http://wiki.mhxg.org/ida/243492.html",
+        "http://wiki.mhxg.org/ida/243490.html",
+        "http://wiki.mhxg.org/ida/243428.html"
+      ],
+      "reason": "実在する前提クエストを収録し外部条件のクリア部分を固定IDへ置換。ネコートの依頼1は別のクリア参照も残す。その他の未知・HR・納品・G級等は保持。",
+      "addedNpcNotes": ["前提の依頼達成後、必要な報告を行う。"],
+      "resolvedInheritedPrerequisites": [
+        {
+          "kind": "unknown",
+          "note": "キャラバンの娘の依頼2：特定の獰猛化クエスト2つ以上（対象は出典未記載）"
+        }
+      ],
+      "inheritanceReason": "前提依頼の発生条件を旧データでは展開していたが、依頼の達成条件に対応するクエストのクリア記録で依頼達成を直接確認できる。依頼元クエスト自身の不明な獰猛化条件は保持し、村の独立したHR・G級・納品条件は削除しない。"
     }
   ],
   "unlockNoteChanges": []
