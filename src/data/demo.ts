@@ -38,13 +38,11 @@ export const demoQuests: Quest[] = [
     "森の調査",
     {
       kind: "all",
-      rules: [
-        { kind: "quest_cleared", questId: "demo-1" },
-        { kind: "external_flag", label: "村人の依頼・会話をゲーム内で確認" },
-      ],
+      rules: [{ kind: "quest_cleared", questId: "demo-1" }],
     },
     {
       tags: ["request"],
+      npcNotes: ["村人から依頼を受注し、必要な会話を行う（架空の例）"],
       unlocks: [
         {
           kind: "food",

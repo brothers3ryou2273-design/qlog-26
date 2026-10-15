@@ -80,7 +80,7 @@ function rankLabel(category: Category, rank: string) {
   return `${label} ${rank}`;
 }
 const evaluationLabels = {
-  met: "前提条件達成",
+  met: "記録上の前提達成",
   unmet: "未達成",
   unknown: "要確認",
 };
@@ -192,10 +192,10 @@ export default function App() {
     const state = evaluate(rule, save);
     return (
       <div className={`rule rule-${state}`}>
-        {rule.kind === "none" && "確認済み：前提なし"}
+        {rule.kind === "none" && "記録で判定する前提なし"}
         {rule.kind === "unknown" &&
           `解放条件：未確認${rule.note ? `（${rule.note}）` : ""}`}
-        {rule.kind === "external_flag" && `${rule.label}：ゲーム内で要確認`}
+        {rule.kind === "external_flag" && rule.label}
         {rule.kind === "hr_at_least" &&
           `HR ${rule.value}以上（${save.hr === undefined ? "HR未入力" : `入力HR ${save.hr}`}）`}
         {rule.kind === "quest_cleared" && (
@@ -211,13 +211,28 @@ export default function App() {
                 ? "すべて必要（AND）"
                 : "いずれかが必要（OR）"}
             </strong>
-            <ul>
-              {rule.rules.map((r, i) => (
-                <li key={i}>
-                  <RuleView rule={r} />
-                </li>
-              ))}
-            </ul>
+            {rule.rules.length > 12 ? (
+              <details>
+                <summary className="small">
+                  対象の前提クエストを表示（{rule.rules.length}条件）
+                </summary>
+                <ul>
+                  {rule.rules.map((r, i) => (
+                    <li key={i}>
+                      <RuleView rule={r} />
+                    </li>
+                  ))}
+                </ul>
+              </details>
+            ) : (
+              <ul>
+                {rule.rules.map((r, i) => (
+                  <li key={i}>
+                    <RuleView rule={r} />
+                  </li>
+                ))}
+              </ul>
+            )}
           </>
         )}
       </div>
@@ -287,7 +302,7 @@ export default function App() {
             データ整備中 ·{" "}
             {demo
               ? "架空データで操作確認中"
-              : `実クエスト${quests.length}件・一部確認`}
+              : `実クエスト${quests.length}件収録`}
           </strong>
           <p>
             {demo
@@ -475,12 +490,7 @@ export default function App() {
                       </span>
                       <span className="quest-name">{q.name}</span>
                       <span className="quest-meta">
-                        {q.verification === "verified"
-                          ? "データ確認済み"
-                          : q.verification === "partial"
-                            ? "データ一部確認"
-                            : "データ未確認"}{" "}
-                        · {evaluationLabels[state]}
+                        {evaluationLabels[state]}
                       </span>
                     </button>
                     <span className="expand-icon" aria-hidden="true">
@@ -489,15 +499,26 @@ export default function App() {
                   </div>
                   {open && (
                     <div className="quest-details" id={`detail-${q.id}`}>
-                      <p className="small">{q.verificationNote}</p>
                       <h3>このクエストの出現前提</h3>
                       <p className={`state state-${state}`}>
                         {evaluationLabels[state]}
                       </p>
                       <RuleView rule={q.condition} />
                       <p className="small muted">
-                        前提条件を満たしても、ゲーム内の出現・受領を保証しません。会話や進行状況を確認してください。
+                        保存された記録からの判定です。ゲーム内での出現・受注・報酬の受領を保証しません。
                       </p>
+                      {!!q.npcNotes?.length && (
+                        <>
+                          <h3>出現・受注に必要な操作</h3>
+                          <ul>
+                            {q.npcNotes.map((note, i) => (
+                              <li key={i} className="small">
+                                {note}
+                              </li>
+                            ))}
+                          </ul>
+                        </>
+                      )}
                       <h3>このクリアが条件に含まれるクエスト</h3>
                       {next.length ? (
                         <ul>
@@ -513,22 +534,40 @@ export default function App() {
                         </p>
                       )}
                       <h3>解放要素（参考）</h3>
+                      {!!q.warnings?.length && (
+                        <ul>
+                          {q.warnings.map((note, i) => (
+                            <li key={i} className="small">
+                              {note}
+                            </li>
+                          ))}
+                        </ul>
+                      )}
+                      {!!q.unlocks.length && (
+                        <p className="small muted">
+                          {completed.has(q.id)
+                            ? "クリア記録あり"
+                            : "クリア記録なし"}
+                          。追加条件・報告は各項目を参照してください。
+                        </p>
+                      )}
                       {q.unlocks.length ? (
                         <ul>
                           {q.unlocks.map((u, i) => (
                             <li key={i}>
                               {u.label}
-                              <p className="small">{u.note}</p>
-                              <span className="small muted">
-                                {completed.has(q.id)
-                                  ? "クリア記録あり。ゲーム内での受け取りは要確認。"
-                                  : "クエストのクリア記録なし。"}
-                              </span>
+                              {u.note && <p className="small">{u.note}</p>}
                             </li>
                           ))}
                         </ul>
                       ) : (
                         <p className="small muted">解放要素：未確認</p>
+                      )}
+                      {q.verificationNote && (
+                        <details>
+                          <summary className="small">データ確認メモ</summary>
+                          <p className="small">{q.verificationNote}</p>
+                        </details>
                       )}
                       <h3>出典・攻略リンク</h3>
                       {q.sources.map((s) => (
@@ -720,7 +759,7 @@ export default function App() {
               </tbody>
             </table>
             <table>
-              <caption>村★1〜3の収録状況</caption>
+              <caption>村★1〜6の収録状況</caption>
               <thead>
                 <tr>
                   <th>ランク</th>
@@ -729,7 +768,7 @@ export default function App() {
                 </tr>
               </thead>
               <tbody>
-                {["1", "2", "3"].map((rank) => (
+                {["1", "2", "3", "4", "5", "6"].map((rank) => (
                   <tr key={rank}>
                     <th>村★{rank}</th>
                     <td>
@@ -739,7 +778,7 @@ export default function App() {
                         ).length
                       }
                     </td>
-                    <td>一覧照合済み・条件等は一部未確認</td>
+                    <td>一覧照合済み</td>
                   </tr>
                 ))}
               </tbody>

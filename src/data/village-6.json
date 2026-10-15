@@ -1,0 +1,5128 @@
+[
+  {
+    "id": "village-6-recipe-220240",
+    "name": "灼熱の刃",
+    "rank": "6",
+    "category": "village",
+    "order": 0,
+    "role": "hunter",
+    "tags": [
+      "urgent"
+    ],
+    "condition": {
+      "kind": "all",
+      "rules": [
+        {
+          "kind": "quest_cleared",
+          "questId": "village-5-recipe-219994"
+        },
+        {
+          "kind": "quest_cleared",
+          "questId": "village-5-recipe-219995"
+        },
+        {
+          "kind": "quest_cleared",
+          "questId": "village-5-recipe-220226"
+        },
+        {
+          "kind": "quest_cleared",
+          "questId": "village-5-recipe-220227"
+        },
+        {
+          "kind": "quest_cleared",
+          "questId": "village-5-recipe-220232"
+        },
+        {
+          "kind": "quest_cleared",
+          "questId": "village-5-recipe-220233"
+        }
+      ]
+    },
+    "npcNotes": [],
+    "unlocks": [
+      {
+        "kind": "hunter_art",
+        "label": "震怒竜怨斬 LV2"
+      },
+      {
+        "kind": "other",
+        "label": "後続：依頼★チャチャの依頼1",
+        "note": "未収録の後続関係。出現には他の条件もあり得ます。"
+      }
+    ],
+    "sources": [
+      {
+        "site": "MHXX攻略レシピ",
+        "url": "http://wiki.mhxg.org/ida/220240.html",
+        "kind": "detail",
+        "checkedAt": "2026-10-15"
+      },
+      {
+        "site": "MHXX攻略レシピ（ランク一覧）",
+        "url": "http://wiki.mhxg.org/data/2016.html",
+        "kind": "list",
+        "checkedAt": "2026-10-15"
+      }
+    ],
+    "verification": "partial",
+    "verificationNote": "攻略レシピの明記を採用。通常の会話・報告は補足に分離。解放要素の未記載は「なし」と断定していません。",
+    "warnings": [
+      "具体的な施設・交易の解放内容と追加条件は未確認です。"
+    ]
+  },
+  {
+    "id": "village-6-recipe-228561",
+    "name": "黒き衣を纏う竜",
+    "rank": "6",
+    "category": "village",
+    "order": 1,
+    "role": "hunter",
+    "tags": [
+      "key"
+    ],
+    "condition": {
+      "kind": "quest_cleared",
+      "questId": "village-6-recipe-220240"
+    },
+    "npcNotes": [],
+    "unlocks": [],
+    "sources": [
+      {
+        "site": "MHXX攻略レシピ",
+        "url": "http://wiki.mhxg.org/ida/228561.html",
+        "kind": "detail",
+        "checkedAt": "2026-10-15"
+      },
+      {
+        "site": "MHXX攻略レシピ（ランク一覧）",
+        "url": "http://wiki.mhxg.org/data/2016.html",
+        "kind": "list",
+        "checkedAt": "2026-10-15"
+      }
+    ],
+    "verification": "partial",
+    "verificationNote": "攻略レシピの明記を採用。通常の会話・報告は補足に分離。解放要素の未記載は「なし」と断定していません。",
+    "warnings": []
+  },
+  {
+    "id": "village-6-recipe-228562",
+    "name": "縄張りに進入するべからず",
+    "rank": "6",
+    "category": "village",
+    "order": 2,
+    "role": "hunter",
+    "tags": [
+      "key"
+    ],
+    "condition": {
+      "kind": "quest_cleared",
+      "questId": "village-6-recipe-220240"
+    },
+    "npcNotes": [],
+    "unlocks": [],
+    "sources": [
+      {
+        "site": "MHXX攻略レシピ",
+        "url": "http://wiki.mhxg.org/ida/228562.html",
+        "kind": "detail",
+        "checkedAt": "2026-10-15"
+      },
+      {
+        "site": "MHXX攻略レシピ（ランク一覧）",
+        "url": "http://wiki.mhxg.org/data/2016.html",
+        "kind": "list",
+        "checkedAt": "2026-10-15"
+      }
+    ],
+    "verification": "partial",
+    "verificationNote": "攻略レシピの明記を採用。通常の会話・報告は補足に分離。解放要素の未記載は「なし」と断定していません。",
+    "warnings": []
+  },
+  {
+    "id": "village-6-recipe-228563",
+    "name": "砂漠の彼方から",
+    "rank": "6",
+    "category": "village",
+    "order": 3,
+    "role": "hunter",
+    "tags": [
+      "normal"
+    ],
+    "condition": {
+      "kind": "quest_cleared",
+      "questId": "village-6-recipe-220240"
+    },
+    "npcNotes": [],
+    "unlocks": [],
+    "sources": [
+      {
+        "site": "MHXX攻略レシピ",
+        "url": "http://wiki.mhxg.org/ida/228563.html",
+        "kind": "detail",
+        "checkedAt": "2026-10-15"
+      },
+      {
+        "site": "MHXX攻略レシピ（ランク一覧）",
+        "url": "http://wiki.mhxg.org/data/2016.html",
+        "kind": "list",
+        "checkedAt": "2026-10-15"
+      }
+    ],
+    "verification": "partial",
+    "verificationNote": "攻略レシピの明記を採用。通常の会話・報告は補足に分離。解放要素の未記載は「なし」と断定していません。",
+    "warnings": []
+  },
+  {
+    "id": "village-6-recipe-228564",
+    "name": "轟竜ティガレックス",
+    "rank": "6",
+    "category": "village",
+    "order": 4,
+    "role": "hunter",
+    "tags": [
+      "key"
+    ],
+    "condition": {
+      "kind": "quest_cleared",
+      "questId": "village-6-recipe-220240"
+    },
+    "npcNotes": [],
+    "unlocks": [],
+    "sources": [
+      {
+        "site": "MHXX攻略レシピ",
+        "url": "http://wiki.mhxg.org/ida/228564.html",
+        "kind": "detail",
+        "checkedAt": "2026-10-15"
+      },
+      {
+        "site": "MHXX攻略レシピ（ランク一覧）",
+        "url": "http://wiki.mhxg.org/data/2016.html",
+        "kind": "list",
+        "checkedAt": "2026-10-15"
+      }
+    ],
+    "verification": "partial",
+    "verificationNote": "攻略レシピの明記を採用。通常の会話・報告は補足に分離。解放要素の未記載は「なし」と断定していません。",
+    "warnings": []
+  },
+  {
+    "id": "village-6-recipe-228565",
+    "name": "千刃、襲来",
+    "rank": "6",
+    "category": "village",
+    "order": 5,
+    "role": "hunter",
+    "tags": [
+      "key"
+    ],
+    "condition": {
+      "kind": "quest_cleared",
+      "questId": "village-6-recipe-220240"
+    },
+    "npcNotes": [],
+    "unlocks": [],
+    "sources": [
+      {
+        "site": "MHXX攻略レシピ",
+        "url": "http://wiki.mhxg.org/ida/228565.html",
+        "kind": "detail",
+        "checkedAt": "2026-10-15"
+      },
+      {
+        "site": "MHXX攻略レシピ（ランク一覧）",
+        "url": "http://wiki.mhxg.org/data/2016.html",
+        "kind": "list",
+        "checkedAt": "2026-10-15"
+      }
+    ],
+    "verification": "partial",
+    "verificationNote": "攻略レシピの明記を採用。通常の会話・報告は補足に分離。解放要素の未記載は「なし」と断定していません。",
+    "warnings": []
+  },
+  {
+    "id": "village-6-recipe-238197",
+    "name": "予想外！つがいの妨害！",
+    "rank": "6",
+    "category": "village",
+    "order": 6,
+    "role": "hunter",
+    "tags": [
+      "request"
+    ],
+    "condition": {
+      "kind": "all",
+      "rules": [
+        {
+          "kind": "hr_at_least",
+          "value": 2
+        },
+        {
+          "kind": "external_flag",
+          "label": "未収録：集★2輸送中！水獣の追従！のクリアと交易船の船長の依頼1の達成"
+        },
+        {
+          "kind": "quest_cleared",
+          "questId": "village-6-recipe-220240"
+        }
+      ]
+    },
+    "npcNotes": [
+      "ココット村 交易船の船長の依頼2を受注する。"
+    ],
+    "unlocks": [],
+    "sources": [
+      {
+        "site": "MHXX攻略レシピ",
+        "url": "http://wiki.mhxg.org/ida/238197.html",
+        "kind": "detail",
+        "checkedAt": "2026-10-15"
+      },
+      {
+        "site": "MHXX攻略レシピ（ランク一覧）",
+        "url": "http://wiki.mhxg.org/data/2016.html",
+        "kind": "list",
+        "checkedAt": "2026-10-15"
+      },
+      {
+        "site": "MHXX攻略レシピ（前提依頼）",
+        "url": "http://wiki.mhxg.org/ida/243432.html",
+        "kind": "detail",
+        "checkedAt": "2026-10-15"
+      }
+    ],
+    "verification": "partial",
+    "verificationNote": "攻略レシピの明記を採用。通常の会話・報告は補足に分離。解放要素の未記載は「なし」と断定していません。",
+    "warnings": []
+  },
+  {
+    "id": "village-6-recipe-238198",
+    "name": "英雄への道",
+    "rank": "6",
+    "category": "village",
+    "order": 7,
+    "role": "hunter",
+    "tags": [
+      "request"
+    ],
+    "condition": {
+      "kind": "all",
+      "rules": [
+        {
+          "kind": "quest_cleared",
+          "questId": "village-5-recipe-219994"
+        },
+        {
+          "kind": "quest_cleared",
+          "questId": "village-6-recipe-228564"
+        },
+        {
+          "kind": "unknown",
+          "note": "ポッケ村の依頼をこなす（対象の依頼は出典未特定）"
+        }
+      ]
+    },
+    "npcNotes": [
+      "ココット村の村長の依頼5を達成し、必要な報告を行う。",
+      "ポッケ村 工房のばあちゃんの依頼1を受注する。",
+      "ココット村のヒーローブレードを抜く。"
+    ],
+    "unlocks": [
+      {
+        "kind": "other",
+        "label": "英雄の双刃（製法）",
+        "note": "依頼達成・報告後の製法解放。装備そのものの入手ではありません。"
+      }
+    ],
+    "sources": [
+      {
+        "site": "MHXX攻略レシピ",
+        "url": "http://wiki.mhxg.org/ida/238198.html",
+        "kind": "detail",
+        "checkedAt": "2026-10-15"
+      },
+      {
+        "site": "MHXX攻略レシピ（ランク一覧）",
+        "url": "http://wiki.mhxg.org/data/2016.html",
+        "kind": "list",
+        "checkedAt": "2026-10-15"
+      }
+    ],
+    "verification": "partial",
+    "verificationNote": "攻略レシピの明記を採用。通常の会話・報告は補足に分離。解放要素の未記載は「なし」と断定していません。",
+    "warnings": []
+  },
+  {
+    "id": "village-6-recipe-238199",
+    "name": "雷狼竜はかく吠えり",
+    "rank": "6",
+    "category": "village",
+    "order": 8,
+    "role": "hunter",
+    "tags": [
+      "request"
+    ],
+    "condition": {
+      "kind": "quest_cleared",
+      "questId": "village-6-recipe-228562"
+    },
+    "npcNotes": [
+      "ユクモ村 孤高の教官の依頼を受注する。"
+    ],
+    "unlocks": [
+      {
+        "kind": "food",
+        "label": "達人ビール",
+        "note": "依頼達成・報告後に追加。実際の追加状態はゲーム内で確認。"
+      }
+    ],
+    "sources": [
+      {
+        "site": "MHXX攻略レシピ",
+        "url": "http://wiki.mhxg.org/ida/238199.html",
+        "kind": "detail",
+        "checkedAt": "2026-10-15"
+      },
+      {
+        "site": "MHXX攻略レシピ（ランク一覧）",
+        "url": "http://wiki.mhxg.org/data/2016.html",
+        "kind": "list",
+        "checkedAt": "2026-10-15"
+      }
+    ],
+    "verification": "partial",
+    "verificationNote": "攻略レシピの明記を採用。通常の会話・報告は補足に分離。解放要素の未記載は「なし」と断定していません。",
+    "warnings": []
+  },
+  {
+    "id": "village-6-recipe-228566",
+    "name": "剛拳爆砕！ブラキディオス！",
+    "rank": "6",
+    "category": "village",
+    "order": 9,
+    "role": "hunter",
+    "tags": [
+      "key"
+    ],
+    "condition": {
+      "kind": "quest_cleared",
+      "questId": "village-6-recipe-220240"
+    },
+    "npcNotes": [],
+    "unlocks": [],
+    "sources": [
+      {
+        "site": "MHXX攻略レシピ",
+        "url": "http://wiki.mhxg.org/ida/228566.html",
+        "kind": "detail",
+        "checkedAt": "2026-10-15"
+      },
+      {
+        "site": "MHXX攻略レシピ（ランク一覧）",
+        "url": "http://wiki.mhxg.org/data/2016.html",
+        "kind": "list",
+        "checkedAt": "2026-10-15"
+      }
+    ],
+    "verification": "partial",
+    "verificationNote": "攻略レシピの明記を採用。通常の会話・報告は補足に分離。解放要素の未記載は「なし」と断定していません。",
+    "warnings": []
+  },
+  {
+    "id": "village-6-recipe-228567",
+    "name": "天下分け目の大合戦",
+    "rank": "6",
+    "category": "village",
+    "order": 10,
+    "role": "hunter",
+    "tags": [
+      "normal"
+    ],
+    "condition": {
+      "kind": "quest_cleared",
+      "questId": "village-6-recipe-220240"
+    },
+    "npcNotes": [],
+    "unlocks": [],
+    "sources": [
+      {
+        "site": "MHXX攻略レシピ",
+        "url": "http://wiki.mhxg.org/ida/228567.html",
+        "kind": "detail",
+        "checkedAt": "2026-10-15"
+      },
+      {
+        "site": "MHXX攻略レシピ（ランク一覧）",
+        "url": "http://wiki.mhxg.org/data/2016.html",
+        "kind": "list",
+        "checkedAt": "2026-10-15"
+      }
+    ],
+    "verification": "partial",
+    "verificationNote": "攻略レシピの明記を採用。通常の会話・報告は補足に分離。解放要素の未記載は「なし」と断定していません。",
+    "warnings": []
+  },
+  {
+    "id": "village-6-recipe-238200",
+    "name": "粉骨砕竜！",
+    "rank": "6",
+    "category": "village",
+    "order": 11,
+    "role": "hunter",
+    "tags": [
+      "normal"
+    ],
+    "condition": {
+      "kind": "quest_cleared",
+      "questId": "village-6-recipe-228566"
+    },
+    "npcNotes": [],
+    "unlocks": [
+      {
+        "kind": "hunter_art",
+        "label": "スーパーノヴァ LV2"
+      }
+    ],
+    "sources": [
+      {
+        "site": "MHXX攻略レシピ",
+        "url": "http://wiki.mhxg.org/ida/238200.html",
+        "kind": "detail",
+        "checkedAt": "2026-10-15"
+      },
+      {
+        "site": "MHXX攻略レシピ（ランク一覧）",
+        "url": "http://wiki.mhxg.org/data/2016.html",
+        "kind": "list",
+        "checkedAt": "2026-10-15"
+      }
+    ],
+    "verification": "partial",
+    "verificationNote": "攻略レシピの明記を採用。通常の会話・報告は補足に分離。解放要素の未記載は「なし」と断定していません。",
+    "warnings": []
+  },
+  {
+    "id": "village-6-recipe-228568",
+    "name": "ハンティングナイト！",
+    "rank": "6",
+    "category": "village",
+    "order": 12,
+    "role": "hunter",
+    "tags": [
+      "normal"
+    ],
+    "condition": {
+      "kind": "quest_cleared",
+      "questId": "village-6-recipe-220240"
+    },
+    "npcNotes": [],
+    "unlocks": [],
+    "sources": [
+      {
+        "site": "MHXX攻略レシピ",
+        "url": "http://wiki.mhxg.org/ida/228568.html",
+        "kind": "detail",
+        "checkedAt": "2026-10-15"
+      },
+      {
+        "site": "MHXX攻略レシピ（ランク一覧）",
+        "url": "http://wiki.mhxg.org/data/2016.html",
+        "kind": "list",
+        "checkedAt": "2026-10-15"
+      }
+    ],
+    "verification": "partial",
+    "verificationNote": "攻略レシピの明記を採用。通常の会話・報告は補足に分離。解放要素の未記載は「なし」と断定していません。",
+    "warnings": []
+  },
+  {
+    "id": "village-6-recipe-228569",
+    "name": "剛毛フカフカの牙獣達",
+    "rank": "6",
+    "category": "village",
+    "order": 13,
+    "role": "hunter",
+    "tags": [
+      "normal"
+    ],
+    "condition": {
+      "kind": "quest_cleared",
+      "questId": "village-6-recipe-220240"
+    },
+    "npcNotes": [],
+    "unlocks": [],
+    "sources": [
+      {
+        "site": "MHXX攻略レシピ",
+        "url": "http://wiki.mhxg.org/ida/228569.html",
+        "kind": "detail",
+        "checkedAt": "2026-10-15"
+      },
+      {
+        "site": "MHXX攻略レシピ（ランク一覧）",
+        "url": "http://wiki.mhxg.org/data/2016.html",
+        "kind": "list",
+        "checkedAt": "2026-10-15"
+      }
+    ],
+    "verification": "partial",
+    "verificationNote": "攻略レシピの明記を採用。通常の会話・報告は補足に分離。解放要素の未記載は「なし」と断定していません。",
+    "warnings": []
+  },
+  {
+    "id": "village-6-recipe-238201",
+    "name": "渓流の覇権争いニャ！！",
+    "rank": "6",
+    "category": "village",
+    "order": 14,
+    "role": "hunter",
+    "tags": [
+      "request"
+    ],
+    "condition": {
+      "kind": "all",
+      "rules": [
+        {
+          "kind": "quest_cleared",
+          "questId": "village-4-recipe-220206"
+        },
+        {
+          "kind": "quest_cleared",
+          "questId": "village-6-recipe-220240"
+        }
+      ]
+    },
+    "npcNotes": [
+      "トレニャーの依頼2を達成し、必要な報告を行う。",
+      "ポッケ村 トレニャーの依頼3を受注する。"
+    ],
+    "unlocks": [],
+    "sources": [
+      {
+        "site": "MHXX攻略レシピ",
+        "url": "http://wiki.mhxg.org/ida/238201.html",
+        "kind": "detail",
+        "checkedAt": "2026-10-15"
+      },
+      {
+        "site": "MHXX攻略レシピ（ランク一覧）",
+        "url": "http://wiki.mhxg.org/data/2016.html",
+        "kind": "list",
+        "checkedAt": "2026-10-15"
+      }
+    ],
+    "verification": "partial",
+    "verificationNote": "攻略レシピの明記を採用。通常の会話・報告は補足に分離。解放要素の未記載は「なし」と断定していません。",
+    "warnings": []
+  },
+  {
+    "id": "village-6-recipe-228570",
+    "name": "毒まみれの沼地",
+    "rank": "6",
+    "category": "village",
+    "order": 15,
+    "role": "hunter",
+    "tags": [
+      "normal"
+    ],
+    "condition": {
+      "kind": "quest_cleared",
+      "questId": "village-6-recipe-220240"
+    },
+    "npcNotes": [],
+    "unlocks": [],
+    "sources": [
+      {
+        "site": "MHXX攻略レシピ",
+        "url": "http://wiki.mhxg.org/ida/228570.html",
+        "kind": "detail",
+        "checkedAt": "2026-10-15"
+      },
+      {
+        "site": "MHXX攻略レシピ（ランク一覧）",
+        "url": "http://wiki.mhxg.org/data/2016.html",
+        "kind": "list",
+        "checkedAt": "2026-10-15"
+      }
+    ],
+    "verification": "partial",
+    "verificationNote": "攻略レシピの明記を採用。通常の会話・報告は補足に分離。解放要素の未記載は「なし」と断定していません。",
+    "warnings": []
+  },
+  {
+    "id": "village-6-recipe-228571",
+    "name": "恐るべき火山の魔球",
+    "rank": "6",
+    "category": "village",
+    "order": 16,
+    "role": "hunter",
+    "tags": [
+      "normal"
+    ],
+    "condition": {
+      "kind": "quest_cleared",
+      "questId": "village-6-recipe-220240"
+    },
+    "npcNotes": [],
+    "unlocks": [],
+    "sources": [
+      {
+        "site": "MHXX攻略レシピ",
+        "url": "http://wiki.mhxg.org/ida/228571.html",
+        "kind": "detail",
+        "checkedAt": "2026-10-15"
+      },
+      {
+        "site": "MHXX攻略レシピ（ランク一覧）",
+        "url": "http://wiki.mhxg.org/data/2016.html",
+        "kind": "list",
+        "checkedAt": "2026-10-15"
+      }
+    ],
+    "verification": "partial",
+    "verificationNote": "攻略レシピの明記を採用。通常の会話・報告は補足に分離。解放要素の未記載は「なし」と断定していません。",
+    "warnings": []
+  },
+  {
+    "id": "village-6-recipe-238202",
+    "name": "雷電",
+    "rank": "6",
+    "category": "village",
+    "order": 17,
+    "role": "hunter",
+    "tags": [
+      "normal"
+    ],
+    "condition": {
+      "kind": "quest_cleared",
+      "questId": "village-6-recipe-228572"
+    },
+    "npcNotes": [],
+    "unlocks": [],
+    "sources": [
+      {
+        "site": "MHXX攻略レシピ",
+        "url": "http://wiki.mhxg.org/ida/238202.html",
+        "kind": "detail",
+        "checkedAt": "2026-10-15"
+      },
+      {
+        "site": "MHXX攻略レシピ（ランク一覧）",
+        "url": "http://wiki.mhxg.org/data/2016.html",
+        "kind": "list",
+        "checkedAt": "2026-10-15"
+      }
+    ],
+    "verification": "partial",
+    "verificationNote": "攻略レシピの明記を採用。通常の会話・報告は補足に分離。解放要素の未記載は「なし」と断定していません。",
+    "warnings": []
+  },
+  {
+    "id": "village-6-recipe-228572",
+    "name": "白き霊獣",
+    "rank": "6",
+    "category": "village",
+    "order": 18,
+    "role": "hunter",
+    "tags": [
+      "normal"
+    ],
+    "condition": {
+      "kind": "quest_cleared",
+      "questId": "village-6-recipe-220240"
+    },
+    "npcNotes": [],
+    "unlocks": [],
+    "sources": [
+      {
+        "site": "MHXX攻略レシピ",
+        "url": "http://wiki.mhxg.org/ida/228572.html",
+        "kind": "detail",
+        "checkedAt": "2026-10-15"
+      },
+      {
+        "site": "MHXX攻略レシピ（ランク一覧）",
+        "url": "http://wiki.mhxg.org/data/2016.html",
+        "kind": "list",
+        "checkedAt": "2026-10-15"
+      }
+    ],
+    "verification": "partial",
+    "verificationNote": "攻略レシピの明記を採用。通常の会話・報告は補足に分離。解放要素の未記載は「なし」と断定していません。",
+    "warnings": []
+  },
+  {
+    "id": "village-6-recipe-228573",
+    "name": "廻り集いて回帰せん",
+    "rank": "6",
+    "category": "village",
+    "order": 19,
+    "role": "hunter",
+    "tags": [
+      "urgent"
+    ],
+    "condition": {
+      "kind": "all",
+      "rules": [
+        {
+          "kind": "quest_cleared",
+          "questId": "village-6-recipe-228561"
+        },
+        {
+          "kind": "quest_cleared",
+          "questId": "village-6-recipe-228562"
+        },
+        {
+          "kind": "quest_cleared",
+          "questId": "village-6-recipe-228564"
+        },
+        {
+          "kind": "quest_cleared",
+          "questId": "village-6-recipe-228565"
+        },
+        {
+          "kind": "quest_cleared",
+          "questId": "village-6-recipe-228566"
+        }
+      ]
+    },
+    "npcNotes": [],
+    "unlocks": [],
+    "sources": [
+      {
+        "site": "MHXX攻略レシピ",
+        "url": "http://wiki.mhxg.org/ida/228573.html",
+        "kind": "detail",
+        "checkedAt": "2026-10-15"
+      },
+      {
+        "site": "MHXX攻略レシピ（ランク一覧）",
+        "url": "http://wiki.mhxg.org/data/2016.html",
+        "kind": "list",
+        "checkedAt": "2026-10-15"
+      }
+    ],
+    "verification": "partial",
+    "verificationNote": "攻略レシピの明記を採用。通常の会話・報告は補足に分離。解放要素の未記載は「なし」と断定していません。",
+    "warnings": []
+  },
+  {
+    "id": "village-6-recipe-228574",
+    "name": "宿命の四天王",
+    "rank": "6",
+    "category": "village",
+    "order": 20,
+    "role": "hunter",
+    "tags": [
+      "urgent"
+    ],
+    "condition": {
+      "kind": "all",
+      "rules": [
+        {
+          "kind": "quest_cleared",
+          "questId": "village-6-recipe-228573"
+        },
+        {
+          "kind": "unknown",
+          "note": "未収録の前提：村★7調査隊初陣！遺群嶺の桃毛獣"
+        }
+      ]
+    },
+    "npcNotes": [],
+    "unlocks": [],
+    "sources": [
+      {
+        "site": "MHXX攻略レシピ",
+        "url": "http://wiki.mhxg.org/ida/228574.html",
+        "kind": "detail",
+        "checkedAt": "2026-10-15"
+      },
+      {
+        "site": "MHXX攻略レシピ（ランク一覧）",
+        "url": "http://wiki.mhxg.org/data/2016.html",
+        "kind": "list",
+        "checkedAt": "2026-10-15"
+      }
+    ],
+    "verification": "partial",
+    "verificationNote": "攻略レシピの明記を採用。通常の会話・報告は補足に分離。解放要素の未記載は「なし」と断定していません。",
+    "warnings": []
+  },
+  {
+    "id": "village-6-recipe-238203",
+    "name": "高難度：食は渓流にあり！",
+    "rank": "6",
+    "category": "village",
+    "order": 21,
+    "role": "hunter",
+    "tags": [
+      "request"
+    ],
+    "condition": {
+      "kind": "all",
+      "rules": [
+        {
+          "kind": "hr_at_least",
+          "value": 5
+        },
+        {
+          "kind": "quest_cleared",
+          "questId": "village-2-recipe-220164"
+        },
+        {
+          "kind": "external_flag",
+          "label": "未収録：集★5キモ・キモ・キモ！！！のクリアとタンジアの港の看板娘の依頼1の達成"
+        },
+        {
+          "kind": "quest_cleared",
+          "questId": "village-6-recipe-220240"
+        }
+      ]
+    },
+    "npcNotes": [
+      "ユクモ村 タンジアの港の看板娘の依頼2を受注する。"
+    ],
+    "unlocks": [
+      {
+        "kind": "facility",
+        "label": "ルームサービス変更可能",
+        "note": "依頼達成後、依頼主に報告して利用する。"
+      }
+    ],
+    "sources": [
+      {
+        "site": "MHXX攻略レシピ",
+        "url": "http://wiki.mhxg.org/ida/238203.html",
+        "kind": "detail",
+        "checkedAt": "2026-10-15"
+      },
+      {
+        "site": "MHXX攻略レシピ（ランク一覧）",
+        "url": "http://wiki.mhxg.org/data/2016.html",
+        "kind": "list",
+        "checkedAt": "2026-10-15"
+      },
+      {
+        "site": "MHXX攻略レシピ（前提依頼）",
+        "url": "http://wiki.mhxg.org/ida/243473.html",
+        "kind": "detail",
+        "checkedAt": "2026-10-15"
+      }
+    ],
+    "verification": "partial",
+    "verificationNote": "攻略レシピの明記を採用。通常の会話・報告は補足に分離。解放要素の未記載は「なし」と断定していません。",
+    "warnings": []
+  },
+  {
+    "id": "village-6-recipe-244680",
+    "name": "高難度：古代林のトレジャー！",
+    "rank": "6",
+    "category": "village",
+    "order": 22,
+    "role": "hunter",
+    "tags": [
+      "request"
+    ],
+    "condition": {
+      "kind": "all",
+      "rules": [
+        {
+          "kind": "hr_at_least",
+          "value": 7
+        },
+        {
+          "kind": "quest_cleared",
+          "questId": "village-4-recipe-220199"
+        },
+        {
+          "kind": "quest_cleared",
+          "questId": "village-6-recipe-220240"
+        }
+      ]
+    },
+    "npcNotes": [
+      "トレジィの依頼2を達成し、必要な報告を行う。",
+      "ココット村 トレジィの依頼3を受注する。"
+    ],
+    "unlocks": [
+      {
+        "kind": "other",
+        "label": "グレイトフルハム（製法）",
+        "note": "依頼達成・報告後の製法解放。装備そのものの入手ではありません。"
+      }
+    ],
+    "sources": [
+      {
+        "site": "MHXX攻略レシピ",
+        "url": "http://wiki.mhxg.org/ida/244680.html",
+        "kind": "detail",
+        "checkedAt": "2026-10-15"
+      },
+      {
+        "site": "MHXX攻略レシピ（ランク一覧）",
+        "url": "http://wiki.mhxg.org/data/2016.html",
+        "kind": "list",
+        "checkedAt": "2026-10-15"
+      }
+    ],
+    "verification": "partial",
+    "verificationNote": "攻略レシピの明記を採用。通常の会話・報告は補足に分離。解放要素の未記載は「なし」と断定していません。",
+    "warnings": []
+  },
+  {
+    "id": "village-6-recipe-238204",
+    "name": "高難度：黒狼鳥は舞い降りた",
+    "rank": "6",
+    "category": "village",
+    "order": 23,
+    "role": "hunter",
+    "tags": [
+      "request"
+    ],
+    "condition": {
+      "kind": "all",
+      "rules": [
+        {
+          "kind": "hr_at_least",
+          "value": 5
+        },
+        {
+          "kind": "quest_cleared",
+          "questId": "village-6-recipe-220240"
+        }
+      ]
+    },
+    "npcNotes": [
+      "ココット村 ドンドルマの守護兵の依頼1を受注する。"
+    ],
+    "unlocks": [
+      {
+        "kind": "other",
+        "label": "ガーディアンシリーズ（製法）",
+        "note": "依頼達成・報告後の製法解放。装備そのものの入手ではありません。"
+      },
+      {
+        "kind": "other",
+        "label": "ガーディアンUシリーズ（製法）",
+        "note": "依頼達成・報告後の製法解放。装備そのものの入手ではありません。"
+      },
+      {
+        "kind": "other",
+        "label": "ガーディアンランス（製法）",
+        "note": "依頼達成・報告後の製法解放。装備そのものの入手ではありません。"
+      }
+    ],
+    "sources": [
+      {
+        "site": "MHXX攻略レシピ",
+        "url": "http://wiki.mhxg.org/ida/238204.html",
+        "kind": "detail",
+        "checkedAt": "2026-10-15"
+      },
+      {
+        "site": "MHXX攻略レシピ（ランク一覧）",
+        "url": "http://wiki.mhxg.org/data/2016.html",
+        "kind": "list",
+        "checkedAt": "2026-10-15"
+      }
+    ],
+    "verification": "partial",
+    "verificationNote": "攻略レシピの明記を採用。通常の会話・報告は補足に分離。解放要素の未記載は「なし」と断定していません。",
+    "warnings": []
+  },
+  {
+    "id": "village-6-recipe-244681",
+    "name": "高難度：一対の巨影",
+    "rank": "6",
+    "category": "village",
+    "order": 24,
+    "role": "hunter",
+    "tags": [
+      "request"
+    ],
+    "condition": {
+      "kind": "all",
+      "rules": [
+        {
+          "kind": "hr_at_least",
+          "value": 8
+        },
+        {
+          "kind": "quest_cleared",
+          "questId": "village-6-recipe-220240"
+        },
+        {
+          "kind": "external_flag",
+          "label": "HR上限の解放（ゲーム内の進行状態）"
+        },
+        {
+          "kind": "unknown",
+          "note": "特定の獰猛化クエストを2つ以上クリア。対象クエストは出典未記載。"
+        }
+      ]
+    },
+    "npcNotes": [
+      "ココット村 ヘルブラザーズ・赤鬼の依頼(1)を受注する。"
+    ],
+    "unlocks": [],
+    "sources": [
+      {
+        "site": "MHXX攻略レシピ",
+        "url": "http://wiki.mhxg.org/ida/244681.html",
+        "kind": "detail",
+        "checkedAt": "2026-10-15"
+      },
+      {
+        "site": "MHXX攻略レシピ（ランク一覧）",
+        "url": "http://wiki.mhxg.org/data/2016.html",
+        "kind": "list",
+        "checkedAt": "2026-10-15"
+      }
+    ],
+    "verification": "partial",
+    "verificationNote": "攻略レシピの明記を採用。通常の会話・報告は補足に分離。解放要素の未記載は「なし」と断定していません。",
+    "warnings": []
+  },
+  {
+    "id": "village-6-recipe-244682",
+    "name": "高難度：異常震域",
+    "rank": "6",
+    "category": "village",
+    "order": 25,
+    "role": "hunter",
+    "tags": [
+      "request"
+    ],
+    "condition": {
+      "kind": "all",
+      "rules": [
+        {
+          "kind": "hr_at_least",
+          "value": 8
+        },
+        {
+          "kind": "external_flag",
+          "label": "未収録：ネコートの依頼1の達成と集★7轟虎馮海のクリア（ネコートの依頼2）"
+        },
+        {
+          "kind": "quest_cleared",
+          "questId": "village-6-recipe-220240"
+        }
+      ]
+    },
+    "npcNotes": [
+      "ポッケ村 ネコートの依頼3を受注する。"
+    ],
+    "unlocks": [
+      {
+        "kind": "other",
+        "label": "EXレックスSシリーズ（製法）",
+        "note": "依頼達成・報告後の製法解放。装備そのものの入手ではありません。"
+      },
+      {
+        "kind": "other",
+        "label": "ネコートさんのコート（製法）",
+        "note": "依頼達成・報告後の製法解放。装備そのものの入手ではありません。"
+      }
+    ],
+    "sources": [
+      {
+        "site": "MHXX攻略レシピ",
+        "url": "http://wiki.mhxg.org/ida/244682.html",
+        "kind": "detail",
+        "checkedAt": "2026-10-15"
+      },
+      {
+        "site": "MHXX攻略レシピ（ランク一覧）",
+        "url": "http://wiki.mhxg.org/data/2016.html",
+        "kind": "list",
+        "checkedAt": "2026-10-15"
+      },
+      {
+        "site": "MHXX攻略レシピ（前提依頼）",
+        "url": "http://wiki.mhxg.org/ida/261133.html",
+        "kind": "detail",
+        "checkedAt": "2026-10-15"
+      }
+    ],
+    "verification": "partial",
+    "verificationNote": "攻略レシピの明記を採用。通常の会話・報告は補足に分離。解放要素の未記載は「なし」と断定していません。",
+    "warnings": []
+  },
+  {
+    "id": "village-6-recipe-238205",
+    "name": "高難度：渾身のドボルベルク",
+    "rank": "6",
+    "category": "village",
+    "order": 26,
+    "role": "hunter",
+    "tags": [
+      "request"
+    ],
+    "condition": {
+      "kind": "all",
+      "rules": [
+        {
+          "kind": "hr_at_least",
+          "value": 6
+        },
+        {
+          "kind": "quest_cleared",
+          "questId": "village-6-recipe-238208"
+        }
+      ]
+    },
+    "npcNotes": [
+      "ギルドマネージャーの依頼2を達成し、必要な報告を行う。",
+      "ユクモ村 タンジアの港のカシラの依頼を受注する。"
+    ],
+    "unlocks": [
+      {
+        "kind": "other",
+        "label": "ポルトマルク（製法）",
+        "note": "依頼達成・報告後の製法解放。装備そのものの入手ではありません。"
+      }
+    ],
+    "sources": [
+      {
+        "site": "MHXX攻略レシピ",
+        "url": "http://wiki.mhxg.org/ida/238205.html",
+        "kind": "detail",
+        "checkedAt": "2026-10-15"
+      },
+      {
+        "site": "MHXX攻略レシピ（ランク一覧）",
+        "url": "http://wiki.mhxg.org/data/2016.html",
+        "kind": "list",
+        "checkedAt": "2026-10-15"
+      }
+    ],
+    "verification": "partial",
+    "verificationNote": "攻略レシピの明記を採用。通常の会話・報告は補足に分離。解放要素の未記載は「なし」と断定していません。",
+    "warnings": []
+  },
+  {
+    "id": "village-6-recipe-238206",
+    "name": "高難度：重甲虫と腕試し！",
+    "rank": "6",
+    "category": "village",
+    "order": 27,
+    "role": "hunter",
+    "tags": [
+      "request"
+    ],
+    "condition": {
+      "kind": "all",
+      "rules": [
+        {
+          "kind": "hr_at_least",
+          "value": 6
+        },
+        {
+          "kind": "quest_cleared",
+          "questId": "village-6-recipe-220240"
+        }
+      ]
+    },
+    "npcNotes": [
+      "ココット村 バルバレの仕切り役の依頼1を受注する。",
+      "集会所★6を解放する（明記されたHR6以上の条件も判定します）。"
+    ],
+    "unlocks": [],
+    "sources": [
+      {
+        "site": "MHXX攻略レシピ",
+        "url": "http://wiki.mhxg.org/ida/238206.html",
+        "kind": "detail",
+        "checkedAt": "2026-10-15"
+      },
+      {
+        "site": "MHXX攻略レシピ（ランク一覧）",
+        "url": "http://wiki.mhxg.org/data/2016.html",
+        "kind": "list",
+        "checkedAt": "2026-10-15"
+      }
+    ],
+    "verification": "partial",
+    "verificationNote": "攻略レシピの明記を採用。通常の会話・報告は補足に分離。解放要素の未記載は「なし」と断定していません。",
+    "warnings": []
+  },
+  {
+    "id": "village-6-recipe-243399",
+    "name": "高難度：天地征服せし強者",
+    "rank": "6",
+    "category": "village",
+    "order": 28,
+    "role": "hunter",
+    "tags": [
+      "request"
+    ],
+    "condition": {
+      "kind": "all",
+      "rules": [
+        {
+          "kind": "hr_at_least",
+          "value": 7
+        },
+        {
+          "kind": "quest_cleared",
+          "questId": "village-3-recipe-220194"
+        },
+        {
+          "kind": "quest_cleared",
+          "questId": "village-6-recipe-220240"
+        }
+      ]
+    },
+    "npcNotes": [
+      "しっかり者の村人の依頼2を達成し、必要な報告を行う。",
+      "ベルナ村 しっかり者の村人の依頼3を受注する。"
+    ],
+    "unlocks": [
+      {
+        "kind": "other",
+        "label": "龍歴士シリーズ（製法）",
+        "note": "依頼達成・報告後の製法解放。装備そのものの入手ではありません。"
+      }
+    ],
+    "sources": [
+      {
+        "site": "MHXX攻略レシピ",
+        "url": "http://wiki.mhxg.org/ida/243399.html",
+        "kind": "detail",
+        "checkedAt": "2026-10-15"
+      },
+      {
+        "site": "MHXX攻略レシピ（ランク一覧）",
+        "url": "http://wiki.mhxg.org/data/2016.html",
+        "kind": "list",
+        "checkedAt": "2026-10-15"
+      }
+    ],
+    "verification": "partial",
+    "verificationNote": "攻略レシピの明記を採用。通常の会話・報告は補足に分離。解放要素の未記載は「なし」と断定していません。",
+    "warnings": []
+  },
+  {
+    "id": "village-6-recipe-238207",
+    "name": "高難度：青の連撃！",
+    "rank": "6",
+    "category": "village",
+    "order": 29,
+    "role": "hunter",
+    "tags": [
+      "request"
+    ],
+    "condition": {
+      "kind": "all",
+      "rules": [
+        {
+          "kind": "hr_at_least",
+          "value": 6
+        },
+        {
+          "kind": "quest_cleared",
+          "questId": "village-2-recipe-220159"
+        },
+        {
+          "kind": "quest_cleared",
+          "questId": "village-6-recipe-238206"
+        }
+      ]
+    },
+    "npcNotes": [
+      "ポッケ村の村長の依頼2を達成し、必要な報告を行う。",
+      "バルバレの仕切り役の依頼1を達成し、必要な報告を行う。",
+      "ポッケ村 ギルドマネージャーの依頼1を受注する。"
+    ],
+    "unlocks": [
+      {
+        "kind": "other",
+        "label": "ギルドガード蒼シリーズ（製法）",
+        "note": "依頼達成・報告後の製法解放。装備そのものの入手ではありません。"
+      }
+    ],
+    "sources": [
+      {
+        "site": "MHXX攻略レシピ",
+        "url": "http://wiki.mhxg.org/ida/238207.html",
+        "kind": "detail",
+        "checkedAt": "2026-10-15"
+      },
+      {
+        "site": "MHXX攻略レシピ（ランク一覧）",
+        "url": "http://wiki.mhxg.org/data/2016.html",
+        "kind": "list",
+        "checkedAt": "2026-10-15"
+      }
+    ],
+    "verification": "partial",
+    "verificationNote": "攻略レシピの明記を採用。通常の会話・報告は補足に分離。解放要素の未記載は「なし」と断定していません。",
+    "warnings": []
+  },
+  {
+    "id": "village-6-recipe-238208",
+    "name": "高難度：赤の猛攻！",
+    "rank": "6",
+    "category": "village",
+    "order": 30,
+    "role": "hunter",
+    "tags": [
+      "request"
+    ],
+    "condition": {
+      "kind": "all",
+      "rules": [
+        {
+          "kind": "hr_at_least",
+          "value": 6
+        },
+        {
+          "kind": "quest_cleared",
+          "questId": "village-6-recipe-238207"
+        }
+      ]
+    },
+    "npcNotes": [
+      "ギルドマネージャーの依頼1を達成し、必要な報告を行う。",
+      "ポッケ村 ギルドマネージャーの依頼2を受注する。"
+    ],
+    "unlocks": [
+      {
+        "kind": "other",
+        "label": "ギルドガード紅シリーズ（製法）",
+        "note": "依頼達成・報告後の製法解放。装備そのものの入手ではありません。"
+      }
+    ],
+    "sources": [
+      {
+        "site": "MHXX攻略レシピ",
+        "url": "http://wiki.mhxg.org/ida/238208.html",
+        "kind": "detail",
+        "checkedAt": "2026-10-15"
+      },
+      {
+        "site": "MHXX攻略レシピ（ランク一覧）",
+        "url": "http://wiki.mhxg.org/data/2016.html",
+        "kind": "list",
+        "checkedAt": "2026-10-15"
+      }
+    ],
+    "verification": "partial",
+    "verificationNote": "攻略レシピの明記を採用。通常の会話・報告は補足に分離。解放要素の未記載は「なし」と断定していません。",
+    "warnings": []
+  },
+  {
+    "id": "village-6-recipe-243400",
+    "name": "高難度：廻帰せし災厄の古龍",
+    "rank": "6",
+    "category": "village",
+    "order": 31,
+    "role": "hunter",
+    "tags": [
+      "request"
+    ],
+    "condition": {
+      "kind": "all",
+      "rules": [
+        {
+          "kind": "hr_at_least",
+          "value": 7
+        },
+        {
+          "kind": "quest_cleared",
+          "questId": "village-4-recipe-220202"
+        },
+        {
+          "kind": "quest_cleared",
+          "questId": "village-6-recipe-220240"
+        }
+      ]
+    },
+    "npcNotes": [
+      "キャラバンの団長の依頼1を達成し、必要な報告を行う。",
+      "ベルナ村 キャラバンの団長の依頼2を受注する。"
+    ],
+    "unlocks": [
+      {
+        "kind": "other",
+        "label": "イサナ船ハンマー！（製法）",
+        "note": "依頼達成・報告後の製法解放。装備そのものの入手ではありません。"
+      },
+      {
+        "kind": "other",
+        "label": "ホークシリーズ（製法）",
+        "note": "依頼達成・報告後の製法解放。装備そのものの入手ではありません。"
+      },
+      {
+        "kind": "other",
+        "label": "団長の腕輪（製法）",
+        "note": "依頼達成・報告後の製法解放。装備そのものの入手ではありません。"
+      },
+      {
+        "kind": "other",
+        "label": "団長の腕輪Ｘ（製法）",
+        "note": "依頼達成・報告後の製法解放。装備そのものの入手ではありません。"
+      }
+    ],
+    "sources": [
+      {
+        "site": "MHXX攻略レシピ",
+        "url": "http://wiki.mhxg.org/ida/243400.html",
+        "kind": "detail",
+        "checkedAt": "2026-10-15"
+      },
+      {
+        "site": "MHXX攻略レシピ（ランク一覧）",
+        "url": "http://wiki.mhxg.org/data/2016.html",
+        "kind": "list",
+        "checkedAt": "2026-10-15"
+      }
+    ],
+    "verification": "partial",
+    "verificationNote": "攻略レシピの明記を採用。通常の会話・報告は補足に分離。解放要素の未記載は「なし」と断定していません。",
+    "warnings": []
+  },
+  {
+    "id": "village-6-recipe-244683",
+    "name": "高難度：吹雪の召還者",
+    "rank": "6",
+    "category": "village",
+    "order": 32,
+    "role": "hunter",
+    "tags": [
+      "request"
+    ],
+    "condition": {
+      "kind": "all",
+      "rules": [
+        {
+          "kind": "hr_at_least",
+          "value": 9
+        },
+        {
+          "kind": "quest_cleared",
+          "questId": "village-4-recipe-219987"
+        },
+        {
+          "kind": "external_flag",
+          "label": "ジャンボ村の村長の依頼1：ユクモ温泉たまご・特産キノコキムチ・氷結晶イチゴを各1個納品済み"
+        },
+        {
+          "kind": "quest_cleared",
+          "questId": "village-6-recipe-220240"
+        }
+      ]
+    },
+    "npcNotes": [
+      "ユクモ村 ジャンボ村の村長の依頼2を受注する。"
+    ],
+    "unlocks": [],
+    "sources": [
+      {
+        "site": "MHXX攻略レシピ",
+        "url": "http://wiki.mhxg.org/ida/244683.html",
+        "kind": "detail",
+        "checkedAt": "2026-10-15"
+      },
+      {
+        "site": "MHXX攻略レシピ（ランク一覧）",
+        "url": "http://wiki.mhxg.org/data/2016.html",
+        "kind": "list",
+        "checkedAt": "2026-10-15"
+      },
+      {
+        "site": "MHXX攻略レシピ（前提依頼）",
+        "url": "http://wiki.mhxg.org/ida/243480.html",
+        "kind": "detail",
+        "checkedAt": "2026-10-15"
+      }
+    ],
+    "verification": "partial",
+    "verificationNote": "攻略レシピの明記を採用。通常の会話・報告は補足に分離。解放要素の未記載は「なし」と断定していません。",
+    "warnings": []
+  },
+  {
+    "id": "village-6-recipe-244684",
+    "name": "高難度：対霞龍防衛作戦！",
+    "rank": "6",
+    "category": "village",
+    "order": 33,
+    "role": "hunter",
+    "tags": [
+      "request"
+    ],
+    "condition": {
+      "kind": "all",
+      "rules": [
+        {
+          "kind": "hr_at_least",
+          "value": 9
+        },
+        {
+          "kind": "quest_cleared",
+          "questId": "village-6-recipe-238204"
+        }
+      ]
+    },
+    "npcNotes": [
+      "ドンドルマの守護兵の依頼1を達成し、必要な報告を行う。",
+      "ココット村 ドンドルマの守護兵の依頼2を受注する。"
+    ],
+    "unlocks": [
+      {
+        "kind": "other",
+        "label": "龍頭琴（製法）",
+        "note": "依頼達成・報告後の製法解放。装備そのものの入手ではありません。"
+      },
+      {
+        "kind": "other",
+        "label": "悠久の龍頭琴（製法）",
+        "note": "依頼達成・報告後の製法解放。装備そのものの入手ではありません。"
+      },
+      {
+        "kind": "other",
+        "label": "魂を宿す髪飾り（製法）",
+        "note": "依頼達成・報告後の製法解放。装備そのものの入手ではありません。"
+      },
+      {
+        "kind": "other",
+        "label": "まほろばの衣（製法）",
+        "note": "依頼達成・報告後の製法解放。装備そのものの入手ではありません。"
+      }
+    ],
+    "sources": [
+      {
+        "site": "MHXX攻略レシピ",
+        "url": "http://wiki.mhxg.org/ida/244684.html",
+        "kind": "detail",
+        "checkedAt": "2026-10-15"
+      },
+      {
+        "site": "MHXX攻略レシピ（ランク一覧）",
+        "url": "http://wiki.mhxg.org/data/2016.html",
+        "kind": "list",
+        "checkedAt": "2026-10-15"
+      }
+    ],
+    "verification": "partial",
+    "verificationNote": "攻略レシピの明記を採用。通常の会話・報告は補足に分離。解放要素の未記載は「なし」と断定していません。",
+    "warnings": []
+  },
+  {
+    "id": "village-6-recipe-244685",
+    "name": "高難度：炎王の帰還",
+    "rank": "6",
+    "category": "village",
+    "order": 34,
+    "role": "hunter",
+    "tags": [
+      "request"
+    ],
+    "condition": {
+      "kind": "all",
+      "rules": [
+        {
+          "kind": "hr_at_least",
+          "value": 9
+        },
+        {
+          "kind": "external_flag",
+          "label": "工房のばあちゃんの依頼2：依頼1達成・集★7解放後、獰猛化エキスを納品済み"
+        }
+      ]
+    },
+    "npcNotes": [
+      "ポッケ村 工房のばあちゃんの依頼3を受注する。"
+    ],
+    "unlocks": [
+      {
+        "kind": "other",
+        "label": "後続：集★6凍てつく牙は獰猛に",
+        "note": "未収録の後続関係。出現には他の条件もあり得ます。"
+      },
+      {
+        "kind": "other",
+        "label": "後続：集★6孤島の暴君、ダイミョウザザミ",
+        "note": "未収録の後続関係。出現には他の条件もあり得ます。"
+      },
+      {
+        "kind": "other",
+        "label": "後続：集★6攻究せよ、鎌持つショウグン",
+        "note": "未収録の後続関係。出現には他の条件もあり得ます。"
+      }
+    ],
+    "sources": [
+      {
+        "site": "MHXX攻略レシピ",
+        "url": "http://wiki.mhxg.org/ida/244685.html",
+        "kind": "detail",
+        "checkedAt": "2026-10-15"
+      },
+      {
+        "site": "MHXX攻略レシピ（ランク一覧）",
+        "url": "http://wiki.mhxg.org/data/2016.html",
+        "kind": "list",
+        "checkedAt": "2026-10-15"
+      },
+      {
+        "site": "MHXX攻略レシピ（前提依頼）",
+        "url": "http://wiki.mhxg.org/ida/261128.html",
+        "kind": "detail",
+        "checkedAt": "2026-10-15"
+      }
+    ],
+    "verification": "partial",
+    "verificationNote": "攻略レシピの明記を採用。通常の会話・報告は補足に分離。解放要素の未記載は「なし」と断定していません。",
+    "warnings": []
+  },
+  {
+    "id": "village-6-recipe-238209",
+    "name": "高難度：強者たちの祭典！",
+    "rank": "6",
+    "category": "village",
+    "order": 35,
+    "role": "hunter",
+    "tags": [
+      "normal"
+    ],
+    "condition": {
+      "kind": "all",
+      "rules": [
+        {
+          "kind": "quest_cleared",
+          "questId": "village-1-g8-822831"
+        },
+        {
+          "kind": "quest_cleared",
+          "questId": "village-1-recipe-219134"
+        },
+        {
+          "kind": "quest_cleared",
+          "questId": "village-1-recipe-219135"
+        },
+        {
+          "kind": "quest_cleared",
+          "questId": "village-1-recipe-219136"
+        },
+        {
+          "kind": "quest_cleared",
+          "questId": "village-1-g8-822835"
+        },
+        {
+          "kind": "quest_cleared",
+          "questId": "village-1-g8-822836"
+        },
+        {
+          "kind": "quest_cleared",
+          "questId": "village-1-g8-822837"
+        },
+        {
+          "kind": "quest_cleared",
+          "questId": "village-2-recipe-219308"
+        },
+        {
+          "kind": "quest_cleared",
+          "questId": "village-2-recipe-219309"
+        },
+        {
+          "kind": "quest_cleared",
+          "questId": "village-2-recipe-219310"
+        },
+        {
+          "kind": "quest_cleared",
+          "questId": "village-2-recipe-219311"
+        },
+        {
+          "kind": "quest_cleared",
+          "questId": "village-2-recipe-219312"
+        },
+        {
+          "kind": "quest_cleared",
+          "questId": "village-2-g8-822843"
+        },
+        {
+          "kind": "quest_cleared",
+          "questId": "village-2-g8-822844"
+        },
+        {
+          "kind": "quest_cleared",
+          "questId": "village-2-recipe-219314"
+        },
+        {
+          "kind": "quest_cleared",
+          "questId": "village-2-recipe-219315"
+        },
+        {
+          "kind": "quest_cleared",
+          "questId": "village-2-recipe-219316"
+        },
+        {
+          "kind": "quest_cleared",
+          "questId": "village-2-recipe-219317"
+        },
+        {
+          "kind": "quest_cleared",
+          "questId": "village-2-g8-822849"
+        },
+        {
+          "kind": "quest_cleared",
+          "questId": "village-2-g8-822850"
+        },
+        {
+          "kind": "quest_cleared",
+          "questId": "village-2-recipe-218319"
+        },
+        {
+          "kind": "quest_cleared",
+          "questId": "village-2-g8-822852"
+        },
+        {
+          "kind": "quest_cleared",
+          "questId": "village-2-recipe-218321"
+        },
+        {
+          "kind": "quest_cleared",
+          "questId": "village-2-recipe-218322"
+        },
+        {
+          "kind": "quest_cleared",
+          "questId": "village-2-recipe-218323"
+        },
+        {
+          "kind": "quest_cleared",
+          "questId": "village-2-recipe-220154"
+        },
+        {
+          "kind": "quest_cleared",
+          "questId": "village-2-recipe-220155"
+        },
+        {
+          "kind": "quest_cleared",
+          "questId": "village-2-recipe-220156"
+        },
+        {
+          "kind": "quest_cleared",
+          "questId": "village-2-recipe-220157"
+        },
+        {
+          "kind": "quest_cleared",
+          "questId": "village-2-recipe-220158"
+        },
+        {
+          "kind": "quest_cleared",
+          "questId": "village-2-recipe-220159"
+        },
+        {
+          "kind": "quest_cleared",
+          "questId": "village-2-recipe-220160"
+        },
+        {
+          "kind": "quest_cleared",
+          "questId": "village-2-recipe-220161"
+        },
+        {
+          "kind": "quest_cleared",
+          "questId": "village-2-recipe-220162"
+        },
+        {
+          "kind": "quest_cleared",
+          "questId": "village-2-recipe-220163"
+        },
+        {
+          "kind": "quest_cleared",
+          "questId": "village-2-recipe-220164"
+        },
+        {
+          "kind": "quest_cleared",
+          "questId": "village-2-recipe-220165"
+        },
+        {
+          "kind": "quest_cleared",
+          "questId": "village-2-recipe-220166"
+        },
+        {
+          "kind": "quest_cleared",
+          "questId": "village-2-recipe-220167"
+        },
+        {
+          "kind": "quest_cleared",
+          "questId": "village-2-recipe-218324"
+        },
+        {
+          "kind": "quest_cleared",
+          "questId": "village-2-recipe-218325"
+        },
+        {
+          "kind": "quest_cleared",
+          "questId": "village-3-recipe-220168"
+        },
+        {
+          "kind": "quest_cleared",
+          "questId": "village-3-recipe-220169"
+        },
+        {
+          "kind": "quest_cleared",
+          "questId": "village-3-g8-822877"
+        },
+        {
+          "kind": "quest_cleared",
+          "questId": "village-3-g8-822878"
+        },
+        {
+          "kind": "quest_cleared",
+          "questId": "village-3-recipe-220170"
+        },
+        {
+          "kind": "quest_cleared",
+          "questId": "village-3-recipe-220171"
+        },
+        {
+          "kind": "quest_cleared",
+          "questId": "village-3-recipe-220172"
+        },
+        {
+          "kind": "quest_cleared",
+          "questId": "village-3-recipe-220173"
+        },
+        {
+          "kind": "quest_cleared",
+          "questId": "village-3-recipe-220174"
+        },
+        {
+          "kind": "quest_cleared",
+          "questId": "village-3-g8-822884"
+        },
+        {
+          "kind": "quest_cleared",
+          "questId": "village-3-g8-822885"
+        },
+        {
+          "kind": "quest_cleared",
+          "questId": "village-3-recipe-220175"
+        },
+        {
+          "kind": "quest_cleared",
+          "questId": "village-3-recipe-220176"
+        },
+        {
+          "kind": "quest_cleared",
+          "questId": "village-3-recipe-220177"
+        },
+        {
+          "kind": "quest_cleared",
+          "questId": "village-3-recipe-220178"
+        },
+        {
+          "kind": "quest_cleared",
+          "questId": "village-3-recipe-220179"
+        },
+        {
+          "kind": "quest_cleared",
+          "questId": "village-3-recipe-220180"
+        },
+        {
+          "kind": "quest_cleared",
+          "questId": "village-3-recipe-220181"
+        },
+        {
+          "kind": "quest_cleared",
+          "questId": "village-3-recipe-220182"
+        },
+        {
+          "kind": "quest_cleared",
+          "questId": "village-3-recipe-220183"
+        },
+        {
+          "kind": "quest_cleared",
+          "questId": "village-3-recipe-220184"
+        },
+        {
+          "kind": "quest_cleared",
+          "questId": "village-3-recipe-220185"
+        },
+        {
+          "kind": "quest_cleared",
+          "questId": "village-3-recipe-220186"
+        },
+        {
+          "kind": "quest_cleared",
+          "questId": "village-3-recipe-220187"
+        },
+        {
+          "kind": "quest_cleared",
+          "questId": "village-3-recipe-220188"
+        },
+        {
+          "kind": "quest_cleared",
+          "questId": "village-3-recipe-220189"
+        },
+        {
+          "kind": "quest_cleared",
+          "questId": "village-3-recipe-220190"
+        },
+        {
+          "kind": "quest_cleared",
+          "questId": "village-3-recipe-219985"
+        },
+        {
+          "kind": "quest_cleared",
+          "questId": "village-3-recipe-220191"
+        },
+        {
+          "kind": "quest_cleared",
+          "questId": "village-3-recipe-220192"
+        },
+        {
+          "kind": "quest_cleared",
+          "questId": "village-3-recipe-220193"
+        },
+        {
+          "kind": "quest_cleared",
+          "questId": "village-3-recipe-220194"
+        },
+        {
+          "kind": "quest_cleared",
+          "questId": "village-3-recipe-218329"
+        },
+        {
+          "kind": "quest_cleared",
+          "questId": "village-3-recipe-220195"
+        },
+        {
+          "kind": "quest_cleared",
+          "questId": "village-3-recipe-219986"
+        },
+        {
+          "kind": "quest_cleared",
+          "questId": "village-3-recipe-218330"
+        },
+        {
+          "kind": "quest_cleared",
+          "questId": "village-3-recipe-218331"
+        },
+        {
+          "kind": "quest_cleared",
+          "questId": "village-3-recipe-218332"
+        },
+        {
+          "kind": "quest_cleared",
+          "questId": "village-3-recipe-220196"
+        },
+        {
+          "kind": "quest_cleared",
+          "questId": "village-4-recipe-220197"
+        },
+        {
+          "kind": "quest_cleared",
+          "questId": "village-4-recipe-219987"
+        },
+        {
+          "kind": "quest_cleared",
+          "questId": "village-4-recipe-220198"
+        },
+        {
+          "kind": "quest_cleared",
+          "questId": "village-4-recipe-220199"
+        },
+        {
+          "kind": "quest_cleared",
+          "questId": "village-4-recipe-220200"
+        },
+        {
+          "kind": "quest_cleared",
+          "questId": "village-4-recipe-220201"
+        },
+        {
+          "kind": "quest_cleared",
+          "questId": "village-4-recipe-220202"
+        },
+        {
+          "kind": "quest_cleared",
+          "questId": "village-4-recipe-220203"
+        },
+        {
+          "kind": "quest_cleared",
+          "questId": "village-4-recipe-219988"
+        },
+        {
+          "kind": "quest_cleared",
+          "questId": "village-4-recipe-220204"
+        },
+        {
+          "kind": "quest_cleared",
+          "questId": "village-4-recipe-220205"
+        },
+        {
+          "kind": "quest_cleared",
+          "questId": "village-4-recipe-220206"
+        },
+        {
+          "kind": "quest_cleared",
+          "questId": "village-4-recipe-220207"
+        },
+        {
+          "kind": "quest_cleared",
+          "questId": "village-4-recipe-220208"
+        },
+        {
+          "kind": "quest_cleared",
+          "questId": "village-4-recipe-219989"
+        },
+        {
+          "kind": "quest_cleared",
+          "questId": "village-4-recipe-220209"
+        },
+        {
+          "kind": "quest_cleared",
+          "questId": "village-4-recipe-220210"
+        },
+        {
+          "kind": "quest_cleared",
+          "questId": "village-4-recipe-220211"
+        },
+        {
+          "kind": "quest_cleared",
+          "questId": "village-4-recipe-220212"
+        },
+        {
+          "kind": "quest_cleared",
+          "questId": "village-4-recipe-220213"
+        },
+        {
+          "kind": "quest_cleared",
+          "questId": "village-4-recipe-220214"
+        },
+        {
+          "kind": "quest_cleared",
+          "questId": "village-4-recipe-219990"
+        },
+        {
+          "kind": "quest_cleared",
+          "questId": "village-4-recipe-219991"
+        },
+        {
+          "kind": "quest_cleared",
+          "questId": "village-4-recipe-220215"
+        },
+        {
+          "kind": "quest_cleared",
+          "questId": "village-4-recipe-220216"
+        },
+        {
+          "kind": "quest_cleared",
+          "questId": "village-4-recipe-219992"
+        },
+        {
+          "kind": "quest_cleared",
+          "questId": "village-4-recipe-220217"
+        },
+        {
+          "kind": "quest_cleared",
+          "questId": "village-4-recipe-220218"
+        },
+        {
+          "kind": "quest_cleared",
+          "questId": "village-4-recipe-220219"
+        },
+        {
+          "kind": "quest_cleared",
+          "questId": "village-5-recipe-219993"
+        },
+        {
+          "kind": "quest_cleared",
+          "questId": "village-5-recipe-220220"
+        },
+        {
+          "kind": "quest_cleared",
+          "questId": "village-5-recipe-220221"
+        },
+        {
+          "kind": "quest_cleared",
+          "questId": "village-5-recipe-219994"
+        },
+        {
+          "kind": "quest_cleared",
+          "questId": "village-5-recipe-220222"
+        },
+        {
+          "kind": "quest_cleared",
+          "questId": "village-5-recipe-220223"
+        },
+        {
+          "kind": "quest_cleared",
+          "questId": "village-5-recipe-220224"
+        },
+        {
+          "kind": "quest_cleared",
+          "questId": "village-5-recipe-219995"
+        },
+        {
+          "kind": "quest_cleared",
+          "questId": "village-5-recipe-220225"
+        },
+        {
+          "kind": "quest_cleared",
+          "questId": "village-5-recipe-220226"
+        },
+        {
+          "kind": "quest_cleared",
+          "questId": "village-5-recipe-220227"
+        },
+        {
+          "kind": "quest_cleared",
+          "questId": "village-5-recipe-220228"
+        },
+        {
+          "kind": "quest_cleared",
+          "questId": "village-5-recipe-220229"
+        },
+        {
+          "kind": "quest_cleared",
+          "questId": "village-5-recipe-220230"
+        },
+        {
+          "kind": "quest_cleared",
+          "questId": "village-5-recipe-220231"
+        },
+        {
+          "kind": "quest_cleared",
+          "questId": "village-5-recipe-220232"
+        },
+        {
+          "kind": "quest_cleared",
+          "questId": "village-5-recipe-220233"
+        },
+        {
+          "kind": "quest_cleared",
+          "questId": "village-5-recipe-220234"
+        },
+        {
+          "kind": "quest_cleared",
+          "questId": "village-5-recipe-220235"
+        },
+        {
+          "kind": "quest_cleared",
+          "questId": "village-5-recipe-220236"
+        },
+        {
+          "kind": "quest_cleared",
+          "questId": "village-5-recipe-220237"
+        },
+        {
+          "kind": "quest_cleared",
+          "questId": "village-5-recipe-220238"
+        },
+        {
+          "kind": "quest_cleared",
+          "questId": "village-5-recipe-220239"
+        },
+        {
+          "kind": "quest_cleared",
+          "questId": "village-6-recipe-220240"
+        },
+        {
+          "kind": "quest_cleared",
+          "questId": "village-6-recipe-228561"
+        },
+        {
+          "kind": "quest_cleared",
+          "questId": "village-6-recipe-228562"
+        },
+        {
+          "kind": "quest_cleared",
+          "questId": "village-6-recipe-228563"
+        },
+        {
+          "kind": "quest_cleared",
+          "questId": "village-6-recipe-228564"
+        },
+        {
+          "kind": "quest_cleared",
+          "questId": "village-6-recipe-228565"
+        },
+        {
+          "kind": "quest_cleared",
+          "questId": "village-6-recipe-238197"
+        },
+        {
+          "kind": "quest_cleared",
+          "questId": "village-6-recipe-238198"
+        },
+        {
+          "kind": "quest_cleared",
+          "questId": "village-6-recipe-238199"
+        },
+        {
+          "kind": "quest_cleared",
+          "questId": "village-6-recipe-228566"
+        },
+        {
+          "kind": "quest_cleared",
+          "questId": "village-6-recipe-228567"
+        },
+        {
+          "kind": "quest_cleared",
+          "questId": "village-6-recipe-238200"
+        },
+        {
+          "kind": "quest_cleared",
+          "questId": "village-6-recipe-228568"
+        },
+        {
+          "kind": "quest_cleared",
+          "questId": "village-6-recipe-228569"
+        },
+        {
+          "kind": "quest_cleared",
+          "questId": "village-6-recipe-238201"
+        },
+        {
+          "kind": "quest_cleared",
+          "questId": "village-6-recipe-228570"
+        },
+        {
+          "kind": "quest_cleared",
+          "questId": "village-6-recipe-228571"
+        },
+        {
+          "kind": "quest_cleared",
+          "questId": "village-6-recipe-238202"
+        },
+        {
+          "kind": "quest_cleared",
+          "questId": "village-6-recipe-228572"
+        },
+        {
+          "kind": "quest_cleared",
+          "questId": "village-6-recipe-228573"
+        },
+        {
+          "kind": "quest_cleared",
+          "questId": "village-6-recipe-228574"
+        }
+      ]
+    },
+    "npcNotes": [],
+    "unlocks": [],
+    "sources": [
+      {
+        "site": "MHXX攻略レシピ",
+        "url": "http://wiki.mhxg.org/ida/238209.html",
+        "kind": "detail",
+        "checkedAt": "2026-10-15"
+      },
+      {
+        "site": "MHXX攻略レシピ（ランク一覧）",
+        "url": "http://wiki.mhxg.org/data/2016.html",
+        "kind": "list",
+        "checkedAt": "2026-10-15"
+      }
+    ],
+    "verification": "partial",
+    "verificationNote": "攻略レシピの明記を採用。通常の会話・報告は補足に分離。解放要素の未記載は「なし」と断定していません。",
+    "warnings": []
+  },
+  {
+    "id": "village-6-recipe-238210",
+    "name": "高難度：非情に波状な状態異常",
+    "rank": "6",
+    "category": "village",
+    "order": 36,
+    "role": "hunter",
+    "tags": [
+      "normal"
+    ],
+    "condition": {
+      "kind": "all",
+      "rules": [
+        {
+          "kind": "quest_cleared",
+          "questId": "village-1-g8-822831"
+        },
+        {
+          "kind": "quest_cleared",
+          "questId": "village-1-recipe-219134"
+        },
+        {
+          "kind": "quest_cleared",
+          "questId": "village-1-recipe-219135"
+        },
+        {
+          "kind": "quest_cleared",
+          "questId": "village-1-recipe-219136"
+        },
+        {
+          "kind": "quest_cleared",
+          "questId": "village-1-g8-822835"
+        },
+        {
+          "kind": "quest_cleared",
+          "questId": "village-1-g8-822836"
+        },
+        {
+          "kind": "quest_cleared",
+          "questId": "village-1-g8-822837"
+        },
+        {
+          "kind": "quest_cleared",
+          "questId": "village-2-recipe-219308"
+        },
+        {
+          "kind": "quest_cleared",
+          "questId": "village-2-recipe-219309"
+        },
+        {
+          "kind": "quest_cleared",
+          "questId": "village-2-recipe-219310"
+        },
+        {
+          "kind": "quest_cleared",
+          "questId": "village-2-recipe-219311"
+        },
+        {
+          "kind": "quest_cleared",
+          "questId": "village-2-recipe-219312"
+        },
+        {
+          "kind": "quest_cleared",
+          "questId": "village-2-g8-822843"
+        },
+        {
+          "kind": "quest_cleared",
+          "questId": "village-2-g8-822844"
+        },
+        {
+          "kind": "quest_cleared",
+          "questId": "village-2-recipe-219314"
+        },
+        {
+          "kind": "quest_cleared",
+          "questId": "village-2-recipe-219315"
+        },
+        {
+          "kind": "quest_cleared",
+          "questId": "village-2-recipe-219316"
+        },
+        {
+          "kind": "quest_cleared",
+          "questId": "village-2-recipe-219317"
+        },
+        {
+          "kind": "quest_cleared",
+          "questId": "village-2-g8-822849"
+        },
+        {
+          "kind": "quest_cleared",
+          "questId": "village-2-g8-822850"
+        },
+        {
+          "kind": "quest_cleared",
+          "questId": "village-2-recipe-218319"
+        },
+        {
+          "kind": "quest_cleared",
+          "questId": "village-2-g8-822852"
+        },
+        {
+          "kind": "quest_cleared",
+          "questId": "village-2-recipe-218321"
+        },
+        {
+          "kind": "quest_cleared",
+          "questId": "village-2-recipe-218322"
+        },
+        {
+          "kind": "quest_cleared",
+          "questId": "village-2-recipe-218323"
+        },
+        {
+          "kind": "quest_cleared",
+          "questId": "village-2-recipe-220154"
+        },
+        {
+          "kind": "quest_cleared",
+          "questId": "village-2-recipe-220155"
+        },
+        {
+          "kind": "quest_cleared",
+          "questId": "village-2-recipe-220156"
+        },
+        {
+          "kind": "quest_cleared",
+          "questId": "village-2-recipe-220157"
+        },
+        {
+          "kind": "quest_cleared",
+          "questId": "village-2-recipe-220158"
+        },
+        {
+          "kind": "quest_cleared",
+          "questId": "village-2-recipe-220159"
+        },
+        {
+          "kind": "quest_cleared",
+          "questId": "village-2-recipe-220160"
+        },
+        {
+          "kind": "quest_cleared",
+          "questId": "village-2-recipe-220161"
+        },
+        {
+          "kind": "quest_cleared",
+          "questId": "village-2-recipe-220162"
+        },
+        {
+          "kind": "quest_cleared",
+          "questId": "village-2-recipe-220163"
+        },
+        {
+          "kind": "quest_cleared",
+          "questId": "village-2-recipe-220164"
+        },
+        {
+          "kind": "quest_cleared",
+          "questId": "village-2-recipe-220165"
+        },
+        {
+          "kind": "quest_cleared",
+          "questId": "village-2-recipe-220166"
+        },
+        {
+          "kind": "quest_cleared",
+          "questId": "village-2-recipe-220167"
+        },
+        {
+          "kind": "quest_cleared",
+          "questId": "village-2-recipe-218324"
+        },
+        {
+          "kind": "quest_cleared",
+          "questId": "village-2-recipe-218325"
+        },
+        {
+          "kind": "quest_cleared",
+          "questId": "village-3-recipe-220168"
+        },
+        {
+          "kind": "quest_cleared",
+          "questId": "village-3-recipe-220169"
+        },
+        {
+          "kind": "quest_cleared",
+          "questId": "village-3-g8-822877"
+        },
+        {
+          "kind": "quest_cleared",
+          "questId": "village-3-g8-822878"
+        },
+        {
+          "kind": "quest_cleared",
+          "questId": "village-3-recipe-220170"
+        },
+        {
+          "kind": "quest_cleared",
+          "questId": "village-3-recipe-220171"
+        },
+        {
+          "kind": "quest_cleared",
+          "questId": "village-3-recipe-220172"
+        },
+        {
+          "kind": "quest_cleared",
+          "questId": "village-3-recipe-220173"
+        },
+        {
+          "kind": "quest_cleared",
+          "questId": "village-3-recipe-220174"
+        },
+        {
+          "kind": "quest_cleared",
+          "questId": "village-3-g8-822884"
+        },
+        {
+          "kind": "quest_cleared",
+          "questId": "village-3-g8-822885"
+        },
+        {
+          "kind": "quest_cleared",
+          "questId": "village-3-recipe-220175"
+        },
+        {
+          "kind": "quest_cleared",
+          "questId": "village-3-recipe-220176"
+        },
+        {
+          "kind": "quest_cleared",
+          "questId": "village-3-recipe-220177"
+        },
+        {
+          "kind": "quest_cleared",
+          "questId": "village-3-recipe-220178"
+        },
+        {
+          "kind": "quest_cleared",
+          "questId": "village-3-recipe-220179"
+        },
+        {
+          "kind": "quest_cleared",
+          "questId": "village-3-recipe-220180"
+        },
+        {
+          "kind": "quest_cleared",
+          "questId": "village-3-recipe-220181"
+        },
+        {
+          "kind": "quest_cleared",
+          "questId": "village-3-recipe-220182"
+        },
+        {
+          "kind": "quest_cleared",
+          "questId": "village-3-recipe-220183"
+        },
+        {
+          "kind": "quest_cleared",
+          "questId": "village-3-recipe-220184"
+        },
+        {
+          "kind": "quest_cleared",
+          "questId": "village-3-recipe-220185"
+        },
+        {
+          "kind": "quest_cleared",
+          "questId": "village-3-recipe-220186"
+        },
+        {
+          "kind": "quest_cleared",
+          "questId": "village-3-recipe-220187"
+        },
+        {
+          "kind": "quest_cleared",
+          "questId": "village-3-recipe-220188"
+        },
+        {
+          "kind": "quest_cleared",
+          "questId": "village-3-recipe-220189"
+        },
+        {
+          "kind": "quest_cleared",
+          "questId": "village-3-recipe-220190"
+        },
+        {
+          "kind": "quest_cleared",
+          "questId": "village-3-recipe-219985"
+        },
+        {
+          "kind": "quest_cleared",
+          "questId": "village-3-recipe-220191"
+        },
+        {
+          "kind": "quest_cleared",
+          "questId": "village-3-recipe-220192"
+        },
+        {
+          "kind": "quest_cleared",
+          "questId": "village-3-recipe-220193"
+        },
+        {
+          "kind": "quest_cleared",
+          "questId": "village-3-recipe-220194"
+        },
+        {
+          "kind": "quest_cleared",
+          "questId": "village-3-recipe-218329"
+        },
+        {
+          "kind": "quest_cleared",
+          "questId": "village-3-recipe-220195"
+        },
+        {
+          "kind": "quest_cleared",
+          "questId": "village-3-recipe-219986"
+        },
+        {
+          "kind": "quest_cleared",
+          "questId": "village-3-recipe-218330"
+        },
+        {
+          "kind": "quest_cleared",
+          "questId": "village-3-recipe-218331"
+        },
+        {
+          "kind": "quest_cleared",
+          "questId": "village-3-recipe-218332"
+        },
+        {
+          "kind": "quest_cleared",
+          "questId": "village-3-recipe-220196"
+        },
+        {
+          "kind": "quest_cleared",
+          "questId": "village-4-recipe-220197"
+        },
+        {
+          "kind": "quest_cleared",
+          "questId": "village-4-recipe-219987"
+        },
+        {
+          "kind": "quest_cleared",
+          "questId": "village-4-recipe-220198"
+        },
+        {
+          "kind": "quest_cleared",
+          "questId": "village-4-recipe-220199"
+        },
+        {
+          "kind": "quest_cleared",
+          "questId": "village-4-recipe-220200"
+        },
+        {
+          "kind": "quest_cleared",
+          "questId": "village-4-recipe-220201"
+        },
+        {
+          "kind": "quest_cleared",
+          "questId": "village-4-recipe-220202"
+        },
+        {
+          "kind": "quest_cleared",
+          "questId": "village-4-recipe-220203"
+        },
+        {
+          "kind": "quest_cleared",
+          "questId": "village-4-recipe-219988"
+        },
+        {
+          "kind": "quest_cleared",
+          "questId": "village-4-recipe-220204"
+        },
+        {
+          "kind": "quest_cleared",
+          "questId": "village-4-recipe-220205"
+        },
+        {
+          "kind": "quest_cleared",
+          "questId": "village-4-recipe-220206"
+        },
+        {
+          "kind": "quest_cleared",
+          "questId": "village-4-recipe-220207"
+        },
+        {
+          "kind": "quest_cleared",
+          "questId": "village-4-recipe-220208"
+        },
+        {
+          "kind": "quest_cleared",
+          "questId": "village-4-recipe-219989"
+        },
+        {
+          "kind": "quest_cleared",
+          "questId": "village-4-recipe-220209"
+        },
+        {
+          "kind": "quest_cleared",
+          "questId": "village-4-recipe-220210"
+        },
+        {
+          "kind": "quest_cleared",
+          "questId": "village-4-recipe-220211"
+        },
+        {
+          "kind": "quest_cleared",
+          "questId": "village-4-recipe-220212"
+        },
+        {
+          "kind": "quest_cleared",
+          "questId": "village-4-recipe-220213"
+        },
+        {
+          "kind": "quest_cleared",
+          "questId": "village-4-recipe-220214"
+        },
+        {
+          "kind": "quest_cleared",
+          "questId": "village-4-recipe-219990"
+        },
+        {
+          "kind": "quest_cleared",
+          "questId": "village-4-recipe-219991"
+        },
+        {
+          "kind": "quest_cleared",
+          "questId": "village-4-recipe-220215"
+        },
+        {
+          "kind": "quest_cleared",
+          "questId": "village-4-recipe-220216"
+        },
+        {
+          "kind": "quest_cleared",
+          "questId": "village-4-recipe-219992"
+        },
+        {
+          "kind": "quest_cleared",
+          "questId": "village-4-recipe-220217"
+        },
+        {
+          "kind": "quest_cleared",
+          "questId": "village-4-recipe-220218"
+        },
+        {
+          "kind": "quest_cleared",
+          "questId": "village-4-recipe-220219"
+        },
+        {
+          "kind": "quest_cleared",
+          "questId": "village-5-recipe-219993"
+        },
+        {
+          "kind": "quest_cleared",
+          "questId": "village-5-recipe-220220"
+        },
+        {
+          "kind": "quest_cleared",
+          "questId": "village-5-recipe-220221"
+        },
+        {
+          "kind": "quest_cleared",
+          "questId": "village-5-recipe-219994"
+        },
+        {
+          "kind": "quest_cleared",
+          "questId": "village-5-recipe-220222"
+        },
+        {
+          "kind": "quest_cleared",
+          "questId": "village-5-recipe-220223"
+        },
+        {
+          "kind": "quest_cleared",
+          "questId": "village-5-recipe-220224"
+        },
+        {
+          "kind": "quest_cleared",
+          "questId": "village-5-recipe-219995"
+        },
+        {
+          "kind": "quest_cleared",
+          "questId": "village-5-recipe-220225"
+        },
+        {
+          "kind": "quest_cleared",
+          "questId": "village-5-recipe-220226"
+        },
+        {
+          "kind": "quest_cleared",
+          "questId": "village-5-recipe-220227"
+        },
+        {
+          "kind": "quest_cleared",
+          "questId": "village-5-recipe-220228"
+        },
+        {
+          "kind": "quest_cleared",
+          "questId": "village-5-recipe-220229"
+        },
+        {
+          "kind": "quest_cleared",
+          "questId": "village-5-recipe-220230"
+        },
+        {
+          "kind": "quest_cleared",
+          "questId": "village-5-recipe-220231"
+        },
+        {
+          "kind": "quest_cleared",
+          "questId": "village-5-recipe-220232"
+        },
+        {
+          "kind": "quest_cleared",
+          "questId": "village-5-recipe-220233"
+        },
+        {
+          "kind": "quest_cleared",
+          "questId": "village-5-recipe-220234"
+        },
+        {
+          "kind": "quest_cleared",
+          "questId": "village-5-recipe-220235"
+        },
+        {
+          "kind": "quest_cleared",
+          "questId": "village-5-recipe-220236"
+        },
+        {
+          "kind": "quest_cleared",
+          "questId": "village-5-recipe-220237"
+        },
+        {
+          "kind": "quest_cleared",
+          "questId": "village-5-recipe-220238"
+        },
+        {
+          "kind": "quest_cleared",
+          "questId": "village-5-recipe-220239"
+        },
+        {
+          "kind": "quest_cleared",
+          "questId": "village-6-recipe-220240"
+        },
+        {
+          "kind": "quest_cleared",
+          "questId": "village-6-recipe-228561"
+        },
+        {
+          "kind": "quest_cleared",
+          "questId": "village-6-recipe-228562"
+        },
+        {
+          "kind": "quest_cleared",
+          "questId": "village-6-recipe-228563"
+        },
+        {
+          "kind": "quest_cleared",
+          "questId": "village-6-recipe-228564"
+        },
+        {
+          "kind": "quest_cleared",
+          "questId": "village-6-recipe-228565"
+        },
+        {
+          "kind": "quest_cleared",
+          "questId": "village-6-recipe-238197"
+        },
+        {
+          "kind": "quest_cleared",
+          "questId": "village-6-recipe-238198"
+        },
+        {
+          "kind": "quest_cleared",
+          "questId": "village-6-recipe-238199"
+        },
+        {
+          "kind": "quest_cleared",
+          "questId": "village-6-recipe-228566"
+        },
+        {
+          "kind": "quest_cleared",
+          "questId": "village-6-recipe-228567"
+        },
+        {
+          "kind": "quest_cleared",
+          "questId": "village-6-recipe-238200"
+        },
+        {
+          "kind": "quest_cleared",
+          "questId": "village-6-recipe-228568"
+        },
+        {
+          "kind": "quest_cleared",
+          "questId": "village-6-recipe-228569"
+        },
+        {
+          "kind": "quest_cleared",
+          "questId": "village-6-recipe-238201"
+        },
+        {
+          "kind": "quest_cleared",
+          "questId": "village-6-recipe-228570"
+        },
+        {
+          "kind": "quest_cleared",
+          "questId": "village-6-recipe-228571"
+        },
+        {
+          "kind": "quest_cleared",
+          "questId": "village-6-recipe-238202"
+        },
+        {
+          "kind": "quest_cleared",
+          "questId": "village-6-recipe-228572"
+        },
+        {
+          "kind": "quest_cleared",
+          "questId": "village-6-recipe-228573"
+        },
+        {
+          "kind": "quest_cleared",
+          "questId": "village-6-recipe-228574"
+        }
+      ]
+    },
+    "npcNotes": [],
+    "unlocks": [],
+    "sources": [
+      {
+        "site": "MHXX攻略レシピ",
+        "url": "http://wiki.mhxg.org/ida/238210.html",
+        "kind": "detail",
+        "checkedAt": "2026-10-15"
+      },
+      {
+        "site": "MHXX攻略レシピ（ランク一覧）",
+        "url": "http://wiki.mhxg.org/data/2016.html",
+        "kind": "list",
+        "checkedAt": "2026-10-15"
+      }
+    ],
+    "verification": "partial",
+    "verificationNote": "攻略レシピの明記を採用。通常の会話・報告は補足に分離。解放要素の未記載は「なし」と断定していません。",
+    "warnings": []
+  },
+  {
+    "id": "village-6-recipe-238211",
+    "name": "高難度：四天王の凱歌",
+    "rank": "6",
+    "category": "village",
+    "order": 37,
+    "role": "hunter",
+    "tags": [
+      "request"
+    ],
+    "condition": {
+      "kind": "all",
+      "rules": [
+        {
+          "kind": "quest_cleared",
+          "questId": "village-6-recipe-238209"
+        },
+        {
+          "kind": "quest_cleared",
+          "questId": "village-6-recipe-238210"
+        }
+      ]
+    },
+    "npcNotes": [
+      "前提達成後、発生した依頼を受注する（出典の受注先は「その他」）。"
+    ],
+    "unlocks": [],
+    "sources": [
+      {
+        "site": "MHXX攻略レシピ",
+        "url": "http://wiki.mhxg.org/ida/238211.html",
+        "kind": "detail",
+        "checkedAt": "2026-10-15"
+      },
+      {
+        "site": "MHXX攻略レシピ（ランク一覧）",
+        "url": "http://wiki.mhxg.org/data/2016.html",
+        "kind": "list",
+        "checkedAt": "2026-10-15"
+      }
+    ],
+    "verification": "partial",
+    "verificationNote": "攻略レシピの明記を採用。通常の会話・報告は補足に分離。解放要素の未記載は「なし」と断定していません。",
+    "warnings": []
+  },
+  {
+    "id": "village-6-recipe-238212",
+    "name": "高難度：天と地の怒り",
+    "rank": "6",
+    "category": "village",
+    "order": 38,
+    "role": "hunter",
+    "tags": [
+      "request"
+    ],
+    "condition": {
+      "kind": "all",
+      "rules": [
+        {
+          "kind": "external_flag",
+          "label": "ココット村の貢献度1500以上（ゲーム内の数値）"
+        },
+        {
+          "kind": "quest_cleared",
+          "questId": "village-1-g8-822831"
+        },
+        {
+          "kind": "quest_cleared",
+          "questId": "village-1-recipe-219134"
+        },
+        {
+          "kind": "quest_cleared",
+          "questId": "village-1-recipe-219135"
+        },
+        {
+          "kind": "quest_cleared",
+          "questId": "village-1-recipe-219136"
+        },
+        {
+          "kind": "quest_cleared",
+          "questId": "village-1-g8-822835"
+        },
+        {
+          "kind": "quest_cleared",
+          "questId": "village-1-g8-822836"
+        },
+        {
+          "kind": "quest_cleared",
+          "questId": "village-1-g8-822837"
+        },
+        {
+          "kind": "quest_cleared",
+          "questId": "village-2-recipe-219308"
+        },
+        {
+          "kind": "quest_cleared",
+          "questId": "village-2-recipe-219309"
+        },
+        {
+          "kind": "quest_cleared",
+          "questId": "village-2-recipe-219310"
+        },
+        {
+          "kind": "quest_cleared",
+          "questId": "village-2-recipe-219311"
+        },
+        {
+          "kind": "quest_cleared",
+          "questId": "village-2-recipe-219312"
+        },
+        {
+          "kind": "quest_cleared",
+          "questId": "village-2-g8-822843"
+        },
+        {
+          "kind": "quest_cleared",
+          "questId": "village-2-g8-822844"
+        },
+        {
+          "kind": "quest_cleared",
+          "questId": "village-2-recipe-219314"
+        },
+        {
+          "kind": "quest_cleared",
+          "questId": "village-2-recipe-219315"
+        },
+        {
+          "kind": "quest_cleared",
+          "questId": "village-2-recipe-219316"
+        },
+        {
+          "kind": "quest_cleared",
+          "questId": "village-2-recipe-219317"
+        },
+        {
+          "kind": "quest_cleared",
+          "questId": "village-2-g8-822849"
+        },
+        {
+          "kind": "quest_cleared",
+          "questId": "village-2-g8-822850"
+        },
+        {
+          "kind": "quest_cleared",
+          "questId": "village-2-recipe-218319"
+        },
+        {
+          "kind": "quest_cleared",
+          "questId": "village-2-g8-822852"
+        },
+        {
+          "kind": "quest_cleared",
+          "questId": "village-2-recipe-218321"
+        },
+        {
+          "kind": "quest_cleared",
+          "questId": "village-2-recipe-218322"
+        },
+        {
+          "kind": "quest_cleared",
+          "questId": "village-2-recipe-218323"
+        },
+        {
+          "kind": "quest_cleared",
+          "questId": "village-2-recipe-220154"
+        },
+        {
+          "kind": "quest_cleared",
+          "questId": "village-2-recipe-220155"
+        },
+        {
+          "kind": "quest_cleared",
+          "questId": "village-2-recipe-220156"
+        },
+        {
+          "kind": "quest_cleared",
+          "questId": "village-2-recipe-220157"
+        },
+        {
+          "kind": "quest_cleared",
+          "questId": "village-2-recipe-220158"
+        },
+        {
+          "kind": "quest_cleared",
+          "questId": "village-2-recipe-220159"
+        },
+        {
+          "kind": "quest_cleared",
+          "questId": "village-2-recipe-220160"
+        },
+        {
+          "kind": "quest_cleared",
+          "questId": "village-2-recipe-220161"
+        },
+        {
+          "kind": "quest_cleared",
+          "questId": "village-2-recipe-220162"
+        },
+        {
+          "kind": "quest_cleared",
+          "questId": "village-2-recipe-220163"
+        },
+        {
+          "kind": "quest_cleared",
+          "questId": "village-2-recipe-220164"
+        },
+        {
+          "kind": "quest_cleared",
+          "questId": "village-2-recipe-220165"
+        },
+        {
+          "kind": "quest_cleared",
+          "questId": "village-2-recipe-220166"
+        },
+        {
+          "kind": "quest_cleared",
+          "questId": "village-2-recipe-220167"
+        },
+        {
+          "kind": "quest_cleared",
+          "questId": "village-2-recipe-218324"
+        },
+        {
+          "kind": "quest_cleared",
+          "questId": "village-2-recipe-218325"
+        },
+        {
+          "kind": "quest_cleared",
+          "questId": "village-3-recipe-220168"
+        },
+        {
+          "kind": "quest_cleared",
+          "questId": "village-3-recipe-220169"
+        },
+        {
+          "kind": "quest_cleared",
+          "questId": "village-3-g8-822877"
+        },
+        {
+          "kind": "quest_cleared",
+          "questId": "village-3-g8-822878"
+        },
+        {
+          "kind": "quest_cleared",
+          "questId": "village-3-recipe-220170"
+        },
+        {
+          "kind": "quest_cleared",
+          "questId": "village-3-recipe-220171"
+        },
+        {
+          "kind": "quest_cleared",
+          "questId": "village-3-recipe-220172"
+        },
+        {
+          "kind": "quest_cleared",
+          "questId": "village-3-recipe-220173"
+        },
+        {
+          "kind": "quest_cleared",
+          "questId": "village-3-recipe-220174"
+        },
+        {
+          "kind": "quest_cleared",
+          "questId": "village-3-g8-822884"
+        },
+        {
+          "kind": "quest_cleared",
+          "questId": "village-3-g8-822885"
+        },
+        {
+          "kind": "quest_cleared",
+          "questId": "village-3-recipe-220175"
+        },
+        {
+          "kind": "quest_cleared",
+          "questId": "village-3-recipe-220176"
+        },
+        {
+          "kind": "quest_cleared",
+          "questId": "village-3-recipe-220177"
+        },
+        {
+          "kind": "quest_cleared",
+          "questId": "village-3-recipe-220178"
+        },
+        {
+          "kind": "quest_cleared",
+          "questId": "village-3-recipe-220179"
+        },
+        {
+          "kind": "quest_cleared",
+          "questId": "village-3-recipe-220180"
+        },
+        {
+          "kind": "quest_cleared",
+          "questId": "village-3-recipe-220181"
+        },
+        {
+          "kind": "quest_cleared",
+          "questId": "village-3-recipe-220182"
+        },
+        {
+          "kind": "quest_cleared",
+          "questId": "village-3-recipe-220183"
+        },
+        {
+          "kind": "quest_cleared",
+          "questId": "village-3-recipe-220184"
+        },
+        {
+          "kind": "quest_cleared",
+          "questId": "village-3-recipe-220185"
+        },
+        {
+          "kind": "quest_cleared",
+          "questId": "village-3-recipe-220186"
+        },
+        {
+          "kind": "quest_cleared",
+          "questId": "village-3-recipe-220187"
+        },
+        {
+          "kind": "quest_cleared",
+          "questId": "village-3-recipe-220188"
+        },
+        {
+          "kind": "quest_cleared",
+          "questId": "village-3-recipe-220189"
+        },
+        {
+          "kind": "quest_cleared",
+          "questId": "village-3-recipe-220190"
+        },
+        {
+          "kind": "quest_cleared",
+          "questId": "village-3-recipe-219985"
+        },
+        {
+          "kind": "quest_cleared",
+          "questId": "village-3-recipe-220191"
+        },
+        {
+          "kind": "quest_cleared",
+          "questId": "village-3-recipe-220192"
+        },
+        {
+          "kind": "quest_cleared",
+          "questId": "village-3-recipe-220193"
+        },
+        {
+          "kind": "quest_cleared",
+          "questId": "village-3-recipe-220194"
+        },
+        {
+          "kind": "quest_cleared",
+          "questId": "village-3-recipe-218329"
+        },
+        {
+          "kind": "quest_cleared",
+          "questId": "village-3-recipe-220195"
+        },
+        {
+          "kind": "quest_cleared",
+          "questId": "village-3-recipe-219986"
+        },
+        {
+          "kind": "quest_cleared",
+          "questId": "village-3-recipe-218330"
+        },
+        {
+          "kind": "quest_cleared",
+          "questId": "village-3-recipe-218331"
+        },
+        {
+          "kind": "quest_cleared",
+          "questId": "village-3-recipe-218332"
+        },
+        {
+          "kind": "quest_cleared",
+          "questId": "village-3-recipe-220196"
+        },
+        {
+          "kind": "quest_cleared",
+          "questId": "village-4-recipe-220197"
+        },
+        {
+          "kind": "quest_cleared",
+          "questId": "village-4-recipe-219987"
+        },
+        {
+          "kind": "quest_cleared",
+          "questId": "village-4-recipe-220198"
+        },
+        {
+          "kind": "quest_cleared",
+          "questId": "village-4-recipe-220199"
+        },
+        {
+          "kind": "quest_cleared",
+          "questId": "village-4-recipe-220200"
+        },
+        {
+          "kind": "quest_cleared",
+          "questId": "village-4-recipe-220201"
+        },
+        {
+          "kind": "quest_cleared",
+          "questId": "village-4-recipe-220202"
+        },
+        {
+          "kind": "quest_cleared",
+          "questId": "village-4-recipe-220203"
+        },
+        {
+          "kind": "quest_cleared",
+          "questId": "village-4-recipe-219988"
+        },
+        {
+          "kind": "quest_cleared",
+          "questId": "village-4-recipe-220204"
+        },
+        {
+          "kind": "quest_cleared",
+          "questId": "village-4-recipe-220205"
+        },
+        {
+          "kind": "quest_cleared",
+          "questId": "village-4-recipe-220206"
+        },
+        {
+          "kind": "quest_cleared",
+          "questId": "village-4-recipe-220207"
+        },
+        {
+          "kind": "quest_cleared",
+          "questId": "village-4-recipe-220208"
+        },
+        {
+          "kind": "quest_cleared",
+          "questId": "village-4-recipe-219989"
+        },
+        {
+          "kind": "quest_cleared",
+          "questId": "village-4-recipe-220209"
+        },
+        {
+          "kind": "quest_cleared",
+          "questId": "village-4-recipe-220210"
+        },
+        {
+          "kind": "quest_cleared",
+          "questId": "village-4-recipe-220211"
+        },
+        {
+          "kind": "quest_cleared",
+          "questId": "village-4-recipe-220212"
+        },
+        {
+          "kind": "quest_cleared",
+          "questId": "village-4-recipe-220213"
+        },
+        {
+          "kind": "quest_cleared",
+          "questId": "village-4-recipe-220214"
+        },
+        {
+          "kind": "quest_cleared",
+          "questId": "village-4-recipe-219990"
+        },
+        {
+          "kind": "quest_cleared",
+          "questId": "village-4-recipe-219991"
+        },
+        {
+          "kind": "quest_cleared",
+          "questId": "village-4-recipe-220215"
+        },
+        {
+          "kind": "quest_cleared",
+          "questId": "village-4-recipe-220216"
+        },
+        {
+          "kind": "quest_cleared",
+          "questId": "village-4-recipe-219992"
+        },
+        {
+          "kind": "quest_cleared",
+          "questId": "village-4-recipe-220217"
+        },
+        {
+          "kind": "quest_cleared",
+          "questId": "village-4-recipe-220218"
+        },
+        {
+          "kind": "quest_cleared",
+          "questId": "village-4-recipe-220219"
+        },
+        {
+          "kind": "quest_cleared",
+          "questId": "village-5-recipe-219993"
+        },
+        {
+          "kind": "quest_cleared",
+          "questId": "village-5-recipe-220220"
+        },
+        {
+          "kind": "quest_cleared",
+          "questId": "village-5-recipe-220221"
+        },
+        {
+          "kind": "quest_cleared",
+          "questId": "village-5-recipe-219994"
+        },
+        {
+          "kind": "quest_cleared",
+          "questId": "village-5-recipe-220222"
+        },
+        {
+          "kind": "quest_cleared",
+          "questId": "village-5-recipe-220223"
+        },
+        {
+          "kind": "quest_cleared",
+          "questId": "village-5-recipe-220224"
+        },
+        {
+          "kind": "quest_cleared",
+          "questId": "village-5-recipe-219995"
+        },
+        {
+          "kind": "quest_cleared",
+          "questId": "village-5-recipe-220225"
+        },
+        {
+          "kind": "quest_cleared",
+          "questId": "village-5-recipe-220226"
+        },
+        {
+          "kind": "quest_cleared",
+          "questId": "village-5-recipe-220227"
+        },
+        {
+          "kind": "quest_cleared",
+          "questId": "village-5-recipe-220228"
+        },
+        {
+          "kind": "quest_cleared",
+          "questId": "village-5-recipe-220229"
+        },
+        {
+          "kind": "quest_cleared",
+          "questId": "village-5-recipe-220230"
+        },
+        {
+          "kind": "quest_cleared",
+          "questId": "village-5-recipe-220231"
+        },
+        {
+          "kind": "quest_cleared",
+          "questId": "village-5-recipe-220232"
+        },
+        {
+          "kind": "quest_cleared",
+          "questId": "village-5-recipe-220233"
+        },
+        {
+          "kind": "quest_cleared",
+          "questId": "village-5-recipe-220234"
+        },
+        {
+          "kind": "quest_cleared",
+          "questId": "village-5-recipe-220235"
+        },
+        {
+          "kind": "quest_cleared",
+          "questId": "village-5-recipe-220236"
+        },
+        {
+          "kind": "quest_cleared",
+          "questId": "village-5-recipe-220237"
+        },
+        {
+          "kind": "quest_cleared",
+          "questId": "village-5-recipe-220238"
+        },
+        {
+          "kind": "quest_cleared",
+          "questId": "village-5-recipe-220239"
+        },
+        {
+          "kind": "quest_cleared",
+          "questId": "village-6-recipe-220240"
+        },
+        {
+          "kind": "quest_cleared",
+          "questId": "village-6-recipe-228561"
+        },
+        {
+          "kind": "quest_cleared",
+          "questId": "village-6-recipe-228562"
+        },
+        {
+          "kind": "quest_cleared",
+          "questId": "village-6-recipe-228563"
+        },
+        {
+          "kind": "quest_cleared",
+          "questId": "village-6-recipe-228564"
+        },
+        {
+          "kind": "quest_cleared",
+          "questId": "village-6-recipe-228565"
+        },
+        {
+          "kind": "quest_cleared",
+          "questId": "village-6-recipe-238197"
+        },
+        {
+          "kind": "quest_cleared",
+          "questId": "village-6-recipe-238198"
+        },
+        {
+          "kind": "quest_cleared",
+          "questId": "village-6-recipe-238199"
+        },
+        {
+          "kind": "quest_cleared",
+          "questId": "village-6-recipe-228566"
+        },
+        {
+          "kind": "quest_cleared",
+          "questId": "village-6-recipe-228567"
+        },
+        {
+          "kind": "quest_cleared",
+          "questId": "village-6-recipe-238200"
+        },
+        {
+          "kind": "quest_cleared",
+          "questId": "village-6-recipe-228568"
+        },
+        {
+          "kind": "quest_cleared",
+          "questId": "village-6-recipe-228569"
+        },
+        {
+          "kind": "quest_cleared",
+          "questId": "village-6-recipe-238201"
+        },
+        {
+          "kind": "quest_cleared",
+          "questId": "village-6-recipe-228570"
+        },
+        {
+          "kind": "quest_cleared",
+          "questId": "village-6-recipe-228571"
+        },
+        {
+          "kind": "quest_cleared",
+          "questId": "village-6-recipe-238202"
+        },
+        {
+          "kind": "quest_cleared",
+          "questId": "village-6-recipe-228572"
+        },
+        {
+          "kind": "quest_cleared",
+          "questId": "village-6-recipe-228573"
+        },
+        {
+          "kind": "quest_cleared",
+          "questId": "village-6-recipe-228574"
+        }
+      ]
+    },
+    "npcNotes": [
+      "ココット村の村長の依頼5を達成し、必要な報告を行う。",
+      "ココット村 ココット村の村長の依頼6を受注する。"
+    ],
+    "unlocks": [],
+    "sources": [
+      {
+        "site": "MHXX攻略レシピ",
+        "url": "http://wiki.mhxg.org/ida/238212.html",
+        "kind": "detail",
+        "checkedAt": "2026-10-15"
+      },
+      {
+        "site": "MHXX攻略レシピ（ランク一覧）",
+        "url": "http://wiki.mhxg.org/data/2016.html",
+        "kind": "list",
+        "checkedAt": "2026-10-15"
+      }
+    ],
+    "verification": "partial",
+    "verificationNote": "攻略レシピの明記を採用。通常の会話・報告は補足に分離。解放要素の未記載は「なし」と断定していません。",
+    "warnings": []
+  },
+  {
+    "id": "village-6-recipe-238213",
+    "name": "高難度：最後の招待状",
+    "rank": "6",
+    "category": "village",
+    "order": 39,
+    "role": "hunter",
+    "tags": [
+      "request"
+    ],
+    "condition": {
+      "kind": "all",
+      "rules": [
+        {
+          "kind": "external_flag",
+          "label": "ポッケ村の貢献度1500以上（ゲーム内の数値）"
+        },
+        {
+          "kind": "quest_cleared",
+          "questId": "village-1-g8-822831"
+        },
+        {
+          "kind": "quest_cleared",
+          "questId": "village-1-recipe-219134"
+        },
+        {
+          "kind": "quest_cleared",
+          "questId": "village-1-recipe-219135"
+        },
+        {
+          "kind": "quest_cleared",
+          "questId": "village-1-recipe-219136"
+        },
+        {
+          "kind": "quest_cleared",
+          "questId": "village-1-g8-822835"
+        },
+        {
+          "kind": "quest_cleared",
+          "questId": "village-1-g8-822836"
+        },
+        {
+          "kind": "quest_cleared",
+          "questId": "village-1-g8-822837"
+        },
+        {
+          "kind": "quest_cleared",
+          "questId": "village-2-recipe-219308"
+        },
+        {
+          "kind": "quest_cleared",
+          "questId": "village-2-recipe-219309"
+        },
+        {
+          "kind": "quest_cleared",
+          "questId": "village-2-recipe-219310"
+        },
+        {
+          "kind": "quest_cleared",
+          "questId": "village-2-recipe-219311"
+        },
+        {
+          "kind": "quest_cleared",
+          "questId": "village-2-recipe-219312"
+        },
+        {
+          "kind": "quest_cleared",
+          "questId": "village-2-g8-822843"
+        },
+        {
+          "kind": "quest_cleared",
+          "questId": "village-2-g8-822844"
+        },
+        {
+          "kind": "quest_cleared",
+          "questId": "village-2-recipe-219314"
+        },
+        {
+          "kind": "quest_cleared",
+          "questId": "village-2-recipe-219315"
+        },
+        {
+          "kind": "quest_cleared",
+          "questId": "village-2-recipe-219316"
+        },
+        {
+          "kind": "quest_cleared",
+          "questId": "village-2-recipe-219317"
+        },
+        {
+          "kind": "quest_cleared",
+          "questId": "village-2-g8-822849"
+        },
+        {
+          "kind": "quest_cleared",
+          "questId": "village-2-g8-822850"
+        },
+        {
+          "kind": "quest_cleared",
+          "questId": "village-2-recipe-218319"
+        },
+        {
+          "kind": "quest_cleared",
+          "questId": "village-2-g8-822852"
+        },
+        {
+          "kind": "quest_cleared",
+          "questId": "village-2-recipe-218321"
+        },
+        {
+          "kind": "quest_cleared",
+          "questId": "village-2-recipe-218322"
+        },
+        {
+          "kind": "quest_cleared",
+          "questId": "village-2-recipe-218323"
+        },
+        {
+          "kind": "quest_cleared",
+          "questId": "village-2-recipe-220154"
+        },
+        {
+          "kind": "quest_cleared",
+          "questId": "village-2-recipe-220155"
+        },
+        {
+          "kind": "quest_cleared",
+          "questId": "village-2-recipe-220156"
+        },
+        {
+          "kind": "quest_cleared",
+          "questId": "village-2-recipe-220157"
+        },
+        {
+          "kind": "quest_cleared",
+          "questId": "village-2-recipe-220158"
+        },
+        {
+          "kind": "quest_cleared",
+          "questId": "village-2-recipe-220159"
+        },
+        {
+          "kind": "quest_cleared",
+          "questId": "village-2-recipe-220160"
+        },
+        {
+          "kind": "quest_cleared",
+          "questId": "village-2-recipe-220161"
+        },
+        {
+          "kind": "quest_cleared",
+          "questId": "village-2-recipe-220162"
+        },
+        {
+          "kind": "quest_cleared",
+          "questId": "village-2-recipe-220163"
+        },
+        {
+          "kind": "quest_cleared",
+          "questId": "village-2-recipe-220164"
+        },
+        {
+          "kind": "quest_cleared",
+          "questId": "village-2-recipe-220165"
+        },
+        {
+          "kind": "quest_cleared",
+          "questId": "village-2-recipe-220166"
+        },
+        {
+          "kind": "quest_cleared",
+          "questId": "village-2-recipe-220167"
+        },
+        {
+          "kind": "quest_cleared",
+          "questId": "village-2-recipe-218324"
+        },
+        {
+          "kind": "quest_cleared",
+          "questId": "village-2-recipe-218325"
+        },
+        {
+          "kind": "quest_cleared",
+          "questId": "village-3-recipe-220168"
+        },
+        {
+          "kind": "quest_cleared",
+          "questId": "village-3-recipe-220169"
+        },
+        {
+          "kind": "quest_cleared",
+          "questId": "village-3-g8-822877"
+        },
+        {
+          "kind": "quest_cleared",
+          "questId": "village-3-g8-822878"
+        },
+        {
+          "kind": "quest_cleared",
+          "questId": "village-3-recipe-220170"
+        },
+        {
+          "kind": "quest_cleared",
+          "questId": "village-3-recipe-220171"
+        },
+        {
+          "kind": "quest_cleared",
+          "questId": "village-3-recipe-220172"
+        },
+        {
+          "kind": "quest_cleared",
+          "questId": "village-3-recipe-220173"
+        },
+        {
+          "kind": "quest_cleared",
+          "questId": "village-3-recipe-220174"
+        },
+        {
+          "kind": "quest_cleared",
+          "questId": "village-3-g8-822884"
+        },
+        {
+          "kind": "quest_cleared",
+          "questId": "village-3-g8-822885"
+        },
+        {
+          "kind": "quest_cleared",
+          "questId": "village-3-recipe-220175"
+        },
+        {
+          "kind": "quest_cleared",
+          "questId": "village-3-recipe-220176"
+        },
+        {
+          "kind": "quest_cleared",
+          "questId": "village-3-recipe-220177"
+        },
+        {
+          "kind": "quest_cleared",
+          "questId": "village-3-recipe-220178"
+        },
+        {
+          "kind": "quest_cleared",
+          "questId": "village-3-recipe-220179"
+        },
+        {
+          "kind": "quest_cleared",
+          "questId": "village-3-recipe-220180"
+        },
+        {
+          "kind": "quest_cleared",
+          "questId": "village-3-recipe-220181"
+        },
+        {
+          "kind": "quest_cleared",
+          "questId": "village-3-recipe-220182"
+        },
+        {
+          "kind": "quest_cleared",
+          "questId": "village-3-recipe-220183"
+        },
+        {
+          "kind": "quest_cleared",
+          "questId": "village-3-recipe-220184"
+        },
+        {
+          "kind": "quest_cleared",
+          "questId": "village-3-recipe-220185"
+        },
+        {
+          "kind": "quest_cleared",
+          "questId": "village-3-recipe-220186"
+        },
+        {
+          "kind": "quest_cleared",
+          "questId": "village-3-recipe-220187"
+        },
+        {
+          "kind": "quest_cleared",
+          "questId": "village-3-recipe-220188"
+        },
+        {
+          "kind": "quest_cleared",
+          "questId": "village-3-recipe-220189"
+        },
+        {
+          "kind": "quest_cleared",
+          "questId": "village-3-recipe-220190"
+        },
+        {
+          "kind": "quest_cleared",
+          "questId": "village-3-recipe-219985"
+        },
+        {
+          "kind": "quest_cleared",
+          "questId": "village-3-recipe-220191"
+        },
+        {
+          "kind": "quest_cleared",
+          "questId": "village-3-recipe-220192"
+        },
+        {
+          "kind": "quest_cleared",
+          "questId": "village-3-recipe-220193"
+        },
+        {
+          "kind": "quest_cleared",
+          "questId": "village-3-recipe-220194"
+        },
+        {
+          "kind": "quest_cleared",
+          "questId": "village-3-recipe-218329"
+        },
+        {
+          "kind": "quest_cleared",
+          "questId": "village-3-recipe-220195"
+        },
+        {
+          "kind": "quest_cleared",
+          "questId": "village-3-recipe-219986"
+        },
+        {
+          "kind": "quest_cleared",
+          "questId": "village-3-recipe-218330"
+        },
+        {
+          "kind": "quest_cleared",
+          "questId": "village-3-recipe-218331"
+        },
+        {
+          "kind": "quest_cleared",
+          "questId": "village-3-recipe-218332"
+        },
+        {
+          "kind": "quest_cleared",
+          "questId": "village-3-recipe-220196"
+        },
+        {
+          "kind": "quest_cleared",
+          "questId": "village-4-recipe-220197"
+        },
+        {
+          "kind": "quest_cleared",
+          "questId": "village-4-recipe-219987"
+        },
+        {
+          "kind": "quest_cleared",
+          "questId": "village-4-recipe-220198"
+        },
+        {
+          "kind": "quest_cleared",
+          "questId": "village-4-recipe-220199"
+        },
+        {
+          "kind": "quest_cleared",
+          "questId": "village-4-recipe-220200"
+        },
+        {
+          "kind": "quest_cleared",
+          "questId": "village-4-recipe-220201"
+        },
+        {
+          "kind": "quest_cleared",
+          "questId": "village-4-recipe-220202"
+        },
+        {
+          "kind": "quest_cleared",
+          "questId": "village-4-recipe-220203"
+        },
+        {
+          "kind": "quest_cleared",
+          "questId": "village-4-recipe-219988"
+        },
+        {
+          "kind": "quest_cleared",
+          "questId": "village-4-recipe-220204"
+        },
+        {
+          "kind": "quest_cleared",
+          "questId": "village-4-recipe-220205"
+        },
+        {
+          "kind": "quest_cleared",
+          "questId": "village-4-recipe-220206"
+        },
+        {
+          "kind": "quest_cleared",
+          "questId": "village-4-recipe-220207"
+        },
+        {
+          "kind": "quest_cleared",
+          "questId": "village-4-recipe-220208"
+        },
+        {
+          "kind": "quest_cleared",
+          "questId": "village-4-recipe-219989"
+        },
+        {
+          "kind": "quest_cleared",
+          "questId": "village-4-recipe-220209"
+        },
+        {
+          "kind": "quest_cleared",
+          "questId": "village-4-recipe-220210"
+        },
+        {
+          "kind": "quest_cleared",
+          "questId": "village-4-recipe-220211"
+        },
+        {
+          "kind": "quest_cleared",
+          "questId": "village-4-recipe-220212"
+        },
+        {
+          "kind": "quest_cleared",
+          "questId": "village-4-recipe-220213"
+        },
+        {
+          "kind": "quest_cleared",
+          "questId": "village-4-recipe-220214"
+        },
+        {
+          "kind": "quest_cleared",
+          "questId": "village-4-recipe-219990"
+        },
+        {
+          "kind": "quest_cleared",
+          "questId": "village-4-recipe-219991"
+        },
+        {
+          "kind": "quest_cleared",
+          "questId": "village-4-recipe-220215"
+        },
+        {
+          "kind": "quest_cleared",
+          "questId": "village-4-recipe-220216"
+        },
+        {
+          "kind": "quest_cleared",
+          "questId": "village-4-recipe-219992"
+        },
+        {
+          "kind": "quest_cleared",
+          "questId": "village-4-recipe-220217"
+        },
+        {
+          "kind": "quest_cleared",
+          "questId": "village-4-recipe-220218"
+        },
+        {
+          "kind": "quest_cleared",
+          "questId": "village-4-recipe-220219"
+        },
+        {
+          "kind": "quest_cleared",
+          "questId": "village-5-recipe-219993"
+        },
+        {
+          "kind": "quest_cleared",
+          "questId": "village-5-recipe-220220"
+        },
+        {
+          "kind": "quest_cleared",
+          "questId": "village-5-recipe-220221"
+        },
+        {
+          "kind": "quest_cleared",
+          "questId": "village-5-recipe-219994"
+        },
+        {
+          "kind": "quest_cleared",
+          "questId": "village-5-recipe-220222"
+        },
+        {
+          "kind": "quest_cleared",
+          "questId": "village-5-recipe-220223"
+        },
+        {
+          "kind": "quest_cleared",
+          "questId": "village-5-recipe-220224"
+        },
+        {
+          "kind": "quest_cleared",
+          "questId": "village-5-recipe-219995"
+        },
+        {
+          "kind": "quest_cleared",
+          "questId": "village-5-recipe-220225"
+        },
+        {
+          "kind": "quest_cleared",
+          "questId": "village-5-recipe-220226"
+        },
+        {
+          "kind": "quest_cleared",
+          "questId": "village-5-recipe-220227"
+        },
+        {
+          "kind": "quest_cleared",
+          "questId": "village-5-recipe-220228"
+        },
+        {
+          "kind": "quest_cleared",
+          "questId": "village-5-recipe-220229"
+        },
+        {
+          "kind": "quest_cleared",
+          "questId": "village-5-recipe-220230"
+        },
+        {
+          "kind": "quest_cleared",
+          "questId": "village-5-recipe-220231"
+        },
+        {
+          "kind": "quest_cleared",
+          "questId": "village-5-recipe-220232"
+        },
+        {
+          "kind": "quest_cleared",
+          "questId": "village-5-recipe-220233"
+        },
+        {
+          "kind": "quest_cleared",
+          "questId": "village-5-recipe-220234"
+        },
+        {
+          "kind": "quest_cleared",
+          "questId": "village-5-recipe-220235"
+        },
+        {
+          "kind": "quest_cleared",
+          "questId": "village-5-recipe-220236"
+        },
+        {
+          "kind": "quest_cleared",
+          "questId": "village-5-recipe-220237"
+        },
+        {
+          "kind": "quest_cleared",
+          "questId": "village-5-recipe-220238"
+        },
+        {
+          "kind": "quest_cleared",
+          "questId": "village-5-recipe-220239"
+        },
+        {
+          "kind": "quest_cleared",
+          "questId": "village-6-recipe-220240"
+        },
+        {
+          "kind": "quest_cleared",
+          "questId": "village-6-recipe-228561"
+        },
+        {
+          "kind": "quest_cleared",
+          "questId": "village-6-recipe-228562"
+        },
+        {
+          "kind": "quest_cleared",
+          "questId": "village-6-recipe-228563"
+        },
+        {
+          "kind": "quest_cleared",
+          "questId": "village-6-recipe-228564"
+        },
+        {
+          "kind": "quest_cleared",
+          "questId": "village-6-recipe-228565"
+        },
+        {
+          "kind": "quest_cleared",
+          "questId": "village-6-recipe-238197"
+        },
+        {
+          "kind": "quest_cleared",
+          "questId": "village-6-recipe-238198"
+        },
+        {
+          "kind": "quest_cleared",
+          "questId": "village-6-recipe-238199"
+        },
+        {
+          "kind": "quest_cleared",
+          "questId": "village-6-recipe-228566"
+        },
+        {
+          "kind": "quest_cleared",
+          "questId": "village-6-recipe-228567"
+        },
+        {
+          "kind": "quest_cleared",
+          "questId": "village-6-recipe-238200"
+        },
+        {
+          "kind": "quest_cleared",
+          "questId": "village-6-recipe-228568"
+        },
+        {
+          "kind": "quest_cleared",
+          "questId": "village-6-recipe-228569"
+        },
+        {
+          "kind": "quest_cleared",
+          "questId": "village-6-recipe-238201"
+        },
+        {
+          "kind": "quest_cleared",
+          "questId": "village-6-recipe-228570"
+        },
+        {
+          "kind": "quest_cleared",
+          "questId": "village-6-recipe-228571"
+        },
+        {
+          "kind": "quest_cleared",
+          "questId": "village-6-recipe-238202"
+        },
+        {
+          "kind": "quest_cleared",
+          "questId": "village-6-recipe-228572"
+        },
+        {
+          "kind": "quest_cleared",
+          "questId": "village-6-recipe-228573"
+        },
+        {
+          "kind": "quest_cleared",
+          "questId": "village-6-recipe-228574"
+        }
+      ]
+    },
+    "npcNotes": [
+      "ポッケ村の村長の依頼5を達成し、必要な報告を行う。",
+      "ポッケ村 ポッケ村の村長の依頼6を受注する。"
+    ],
+    "unlocks": [],
+    "sources": [
+      {
+        "site": "MHXX攻略レシピ",
+        "url": "http://wiki.mhxg.org/ida/238213.html",
+        "kind": "detail",
+        "checkedAt": "2026-10-15"
+      },
+      {
+        "site": "MHXX攻略レシピ（ランク一覧）",
+        "url": "http://wiki.mhxg.org/data/2016.html",
+        "kind": "list",
+        "checkedAt": "2026-10-15"
+      }
+    ],
+    "verification": "partial",
+    "verificationNote": "攻略レシピの明記を採用。通常の会話・報告は補足に分離。解放要素の未記載は「なし」と断定していません。",
+    "warnings": []
+  },
+  {
+    "id": "village-6-recipe-238214",
+    "name": "高難度：終焉を喰らう者",
+    "rank": "6",
+    "category": "village",
+    "order": 40,
+    "role": "hunter",
+    "tags": [
+      "request"
+    ],
+    "condition": {
+      "kind": "all",
+      "rules": [
+        {
+          "kind": "external_flag",
+          "label": "ユクモ村の貢献度1500以上（ゲーム内の数値）"
+        },
+        {
+          "kind": "quest_cleared",
+          "questId": "village-1-g8-822831"
+        },
+        {
+          "kind": "quest_cleared",
+          "questId": "village-1-recipe-219134"
+        },
+        {
+          "kind": "quest_cleared",
+          "questId": "village-1-recipe-219135"
+        },
+        {
+          "kind": "quest_cleared",
+          "questId": "village-1-recipe-219136"
+        },
+        {
+          "kind": "quest_cleared",
+          "questId": "village-1-g8-822835"
+        },
+        {
+          "kind": "quest_cleared",
+          "questId": "village-1-g8-822836"
+        },
+        {
+          "kind": "quest_cleared",
+          "questId": "village-1-g8-822837"
+        },
+        {
+          "kind": "quest_cleared",
+          "questId": "village-2-recipe-219308"
+        },
+        {
+          "kind": "quest_cleared",
+          "questId": "village-2-recipe-219309"
+        },
+        {
+          "kind": "quest_cleared",
+          "questId": "village-2-recipe-219310"
+        },
+        {
+          "kind": "quest_cleared",
+          "questId": "village-2-recipe-219311"
+        },
+        {
+          "kind": "quest_cleared",
+          "questId": "village-2-recipe-219312"
+        },
+        {
+          "kind": "quest_cleared",
+          "questId": "village-2-g8-822843"
+        },
+        {
+          "kind": "quest_cleared",
+          "questId": "village-2-g8-822844"
+        },
+        {
+          "kind": "quest_cleared",
+          "questId": "village-2-recipe-219314"
+        },
+        {
+          "kind": "quest_cleared",
+          "questId": "village-2-recipe-219315"
+        },
+        {
+          "kind": "quest_cleared",
+          "questId": "village-2-recipe-219316"
+        },
+        {
+          "kind": "quest_cleared",
+          "questId": "village-2-recipe-219317"
+        },
+        {
+          "kind": "quest_cleared",
+          "questId": "village-2-g8-822849"
+        },
+        {
+          "kind": "quest_cleared",
+          "questId": "village-2-g8-822850"
+        },
+        {
+          "kind": "quest_cleared",
+          "questId": "village-2-recipe-218319"
+        },
+        {
+          "kind": "quest_cleared",
+          "questId": "village-2-g8-822852"
+        },
+        {
+          "kind": "quest_cleared",
+          "questId": "village-2-recipe-218321"
+        },
+        {
+          "kind": "quest_cleared",
+          "questId": "village-2-recipe-218322"
+        },
+        {
+          "kind": "quest_cleared",
+          "questId": "village-2-recipe-218323"
+        },
+        {
+          "kind": "quest_cleared",
+          "questId": "village-2-recipe-220154"
+        },
+        {
+          "kind": "quest_cleared",
+          "questId": "village-2-recipe-220155"
+        },
+        {
+          "kind": "quest_cleared",
+          "questId": "village-2-recipe-220156"
+        },
+        {
+          "kind": "quest_cleared",
+          "questId": "village-2-recipe-220157"
+        },
+        {
+          "kind": "quest_cleared",
+          "questId": "village-2-recipe-220158"
+        },
+        {
+          "kind": "quest_cleared",
+          "questId": "village-2-recipe-220159"
+        },
+        {
+          "kind": "quest_cleared",
+          "questId": "village-2-recipe-220160"
+        },
+        {
+          "kind": "quest_cleared",
+          "questId": "village-2-recipe-220161"
+        },
+        {
+          "kind": "quest_cleared",
+          "questId": "village-2-recipe-220162"
+        },
+        {
+          "kind": "quest_cleared",
+          "questId": "village-2-recipe-220163"
+        },
+        {
+          "kind": "quest_cleared",
+          "questId": "village-2-recipe-220164"
+        },
+        {
+          "kind": "quest_cleared",
+          "questId": "village-2-recipe-220165"
+        },
+        {
+          "kind": "quest_cleared",
+          "questId": "village-2-recipe-220166"
+        },
+        {
+          "kind": "quest_cleared",
+          "questId": "village-2-recipe-220167"
+        },
+        {
+          "kind": "quest_cleared",
+          "questId": "village-2-recipe-218324"
+        },
+        {
+          "kind": "quest_cleared",
+          "questId": "village-2-recipe-218325"
+        },
+        {
+          "kind": "quest_cleared",
+          "questId": "village-3-recipe-220168"
+        },
+        {
+          "kind": "quest_cleared",
+          "questId": "village-3-recipe-220169"
+        },
+        {
+          "kind": "quest_cleared",
+          "questId": "village-3-g8-822877"
+        },
+        {
+          "kind": "quest_cleared",
+          "questId": "village-3-g8-822878"
+        },
+        {
+          "kind": "quest_cleared",
+          "questId": "village-3-recipe-220170"
+        },
+        {
+          "kind": "quest_cleared",
+          "questId": "village-3-recipe-220171"
+        },
+        {
+          "kind": "quest_cleared",
+          "questId": "village-3-recipe-220172"
+        },
+        {
+          "kind": "quest_cleared",
+          "questId": "village-3-recipe-220173"
+        },
+        {
+          "kind": "quest_cleared",
+          "questId": "village-3-recipe-220174"
+        },
+        {
+          "kind": "quest_cleared",
+          "questId": "village-3-g8-822884"
+        },
+        {
+          "kind": "quest_cleared",
+          "questId": "village-3-g8-822885"
+        },
+        {
+          "kind": "quest_cleared",
+          "questId": "village-3-recipe-220175"
+        },
+        {
+          "kind": "quest_cleared",
+          "questId": "village-3-recipe-220176"
+        },
+        {
+          "kind": "quest_cleared",
+          "questId": "village-3-recipe-220177"
+        },
+        {
+          "kind": "quest_cleared",
+          "questId": "village-3-recipe-220178"
+        },
+        {
+          "kind": "quest_cleared",
+          "questId": "village-3-recipe-220179"
+        },
+        {
+          "kind": "quest_cleared",
+          "questId": "village-3-recipe-220180"
+        },
+        {
+          "kind": "quest_cleared",
+          "questId": "village-3-recipe-220181"
+        },
+        {
+          "kind": "quest_cleared",
+          "questId": "village-3-recipe-220182"
+        },
+        {
+          "kind": "quest_cleared",
+          "questId": "village-3-recipe-220183"
+        },
+        {
+          "kind": "quest_cleared",
+          "questId": "village-3-recipe-220184"
+        },
+        {
+          "kind": "quest_cleared",
+          "questId": "village-3-recipe-220185"
+        },
+        {
+          "kind": "quest_cleared",
+          "questId": "village-3-recipe-220186"
+        },
+        {
+          "kind": "quest_cleared",
+          "questId": "village-3-recipe-220187"
+        },
+        {
+          "kind": "quest_cleared",
+          "questId": "village-3-recipe-220188"
+        },
+        {
+          "kind": "quest_cleared",
+          "questId": "village-3-recipe-220189"
+        },
+        {
+          "kind": "quest_cleared",
+          "questId": "village-3-recipe-220190"
+        },
+        {
+          "kind": "quest_cleared",
+          "questId": "village-3-recipe-219985"
+        },
+        {
+          "kind": "quest_cleared",
+          "questId": "village-3-recipe-220191"
+        },
+        {
+          "kind": "quest_cleared",
+          "questId": "village-3-recipe-220192"
+        },
+        {
+          "kind": "quest_cleared",
+          "questId": "village-3-recipe-220193"
+        },
+        {
+          "kind": "quest_cleared",
+          "questId": "village-3-recipe-220194"
+        },
+        {
+          "kind": "quest_cleared",
+          "questId": "village-3-recipe-218329"
+        },
+        {
+          "kind": "quest_cleared",
+          "questId": "village-3-recipe-220195"
+        },
+        {
+          "kind": "quest_cleared",
+          "questId": "village-3-recipe-219986"
+        },
+        {
+          "kind": "quest_cleared",
+          "questId": "village-3-recipe-218330"
+        },
+        {
+          "kind": "quest_cleared",
+          "questId": "village-3-recipe-218331"
+        },
+        {
+          "kind": "quest_cleared",
+          "questId": "village-3-recipe-218332"
+        },
+        {
+          "kind": "quest_cleared",
+          "questId": "village-3-recipe-220196"
+        },
+        {
+          "kind": "quest_cleared",
+          "questId": "village-4-recipe-220197"
+        },
+        {
+          "kind": "quest_cleared",
+          "questId": "village-4-recipe-219987"
+        },
+        {
+          "kind": "quest_cleared",
+          "questId": "village-4-recipe-220198"
+        },
+        {
+          "kind": "quest_cleared",
+          "questId": "village-4-recipe-220199"
+        },
+        {
+          "kind": "quest_cleared",
+          "questId": "village-4-recipe-220200"
+        },
+        {
+          "kind": "quest_cleared",
+          "questId": "village-4-recipe-220201"
+        },
+        {
+          "kind": "quest_cleared",
+          "questId": "village-4-recipe-220202"
+        },
+        {
+          "kind": "quest_cleared",
+          "questId": "village-4-recipe-220203"
+        },
+        {
+          "kind": "quest_cleared",
+          "questId": "village-4-recipe-219988"
+        },
+        {
+          "kind": "quest_cleared",
+          "questId": "village-4-recipe-220204"
+        },
+        {
+          "kind": "quest_cleared",
+          "questId": "village-4-recipe-220205"
+        },
+        {
+          "kind": "quest_cleared",
+          "questId": "village-4-recipe-220206"
+        },
+        {
+          "kind": "quest_cleared",
+          "questId": "village-4-recipe-220207"
+        },
+        {
+          "kind": "quest_cleared",
+          "questId": "village-4-recipe-220208"
+        },
+        {
+          "kind": "quest_cleared",
+          "questId": "village-4-recipe-219989"
+        },
+        {
+          "kind": "quest_cleared",
+          "questId": "village-4-recipe-220209"
+        },
+        {
+          "kind": "quest_cleared",
+          "questId": "village-4-recipe-220210"
+        },
+        {
+          "kind": "quest_cleared",
+          "questId": "village-4-recipe-220211"
+        },
+        {
+          "kind": "quest_cleared",
+          "questId": "village-4-recipe-220212"
+        },
+        {
+          "kind": "quest_cleared",
+          "questId": "village-4-recipe-220213"
+        },
+        {
+          "kind": "quest_cleared",
+          "questId": "village-4-recipe-220214"
+        },
+        {
+          "kind": "quest_cleared",
+          "questId": "village-4-recipe-219990"
+        },
+        {
+          "kind": "quest_cleared",
+          "questId": "village-4-recipe-219991"
+        },
+        {
+          "kind": "quest_cleared",
+          "questId": "village-4-recipe-220215"
+        },
+        {
+          "kind": "quest_cleared",
+          "questId": "village-4-recipe-220216"
+        },
+        {
+          "kind": "quest_cleared",
+          "questId": "village-4-recipe-219992"
+        },
+        {
+          "kind": "quest_cleared",
+          "questId": "village-4-recipe-220217"
+        },
+        {
+          "kind": "quest_cleared",
+          "questId": "village-4-recipe-220218"
+        },
+        {
+          "kind": "quest_cleared",
+          "questId": "village-4-recipe-220219"
+        },
+        {
+          "kind": "quest_cleared",
+          "questId": "village-5-recipe-219993"
+        },
+        {
+          "kind": "quest_cleared",
+          "questId": "village-5-recipe-220220"
+        },
+        {
+          "kind": "quest_cleared",
+          "questId": "village-5-recipe-220221"
+        },
+        {
+          "kind": "quest_cleared",
+          "questId": "village-5-recipe-219994"
+        },
+        {
+          "kind": "quest_cleared",
+          "questId": "village-5-recipe-220222"
+        },
+        {
+          "kind": "quest_cleared",
+          "questId": "village-5-recipe-220223"
+        },
+        {
+          "kind": "quest_cleared",
+          "questId": "village-5-recipe-220224"
+        },
+        {
+          "kind": "quest_cleared",
+          "questId": "village-5-recipe-219995"
+        },
+        {
+          "kind": "quest_cleared",
+          "questId": "village-5-recipe-220225"
+        },
+        {
+          "kind": "quest_cleared",
+          "questId": "village-5-recipe-220226"
+        },
+        {
+          "kind": "quest_cleared",
+          "questId": "village-5-recipe-220227"
+        },
+        {
+          "kind": "quest_cleared",
+          "questId": "village-5-recipe-220228"
+        },
+        {
+          "kind": "quest_cleared",
+          "questId": "village-5-recipe-220229"
+        },
+        {
+          "kind": "quest_cleared",
+          "questId": "village-5-recipe-220230"
+        },
+        {
+          "kind": "quest_cleared",
+          "questId": "village-5-recipe-220231"
+        },
+        {
+          "kind": "quest_cleared",
+          "questId": "village-5-recipe-220232"
+        },
+        {
+          "kind": "quest_cleared",
+          "questId": "village-5-recipe-220233"
+        },
+        {
+          "kind": "quest_cleared",
+          "questId": "village-5-recipe-220234"
+        },
+        {
+          "kind": "quest_cleared",
+          "questId": "village-5-recipe-220235"
+        },
+        {
+          "kind": "quest_cleared",
+          "questId": "village-5-recipe-220236"
+        },
+        {
+          "kind": "quest_cleared",
+          "questId": "village-5-recipe-220237"
+        },
+        {
+          "kind": "quest_cleared",
+          "questId": "village-5-recipe-220238"
+        },
+        {
+          "kind": "quest_cleared",
+          "questId": "village-5-recipe-220239"
+        },
+        {
+          "kind": "quest_cleared",
+          "questId": "village-6-recipe-220240"
+        },
+        {
+          "kind": "quest_cleared",
+          "questId": "village-6-recipe-228561"
+        },
+        {
+          "kind": "quest_cleared",
+          "questId": "village-6-recipe-228562"
+        },
+        {
+          "kind": "quest_cleared",
+          "questId": "village-6-recipe-228563"
+        },
+        {
+          "kind": "quest_cleared",
+          "questId": "village-6-recipe-228564"
+        },
+        {
+          "kind": "quest_cleared",
+          "questId": "village-6-recipe-228565"
+        },
+        {
+          "kind": "quest_cleared",
+          "questId": "village-6-recipe-238197"
+        },
+        {
+          "kind": "quest_cleared",
+          "questId": "village-6-recipe-238198"
+        },
+        {
+          "kind": "quest_cleared",
+          "questId": "village-6-recipe-238199"
+        },
+        {
+          "kind": "quest_cleared",
+          "questId": "village-6-recipe-228566"
+        },
+        {
+          "kind": "quest_cleared",
+          "questId": "village-6-recipe-228567"
+        },
+        {
+          "kind": "quest_cleared",
+          "questId": "village-6-recipe-238200"
+        },
+        {
+          "kind": "quest_cleared",
+          "questId": "village-6-recipe-228568"
+        },
+        {
+          "kind": "quest_cleared",
+          "questId": "village-6-recipe-228569"
+        },
+        {
+          "kind": "quest_cleared",
+          "questId": "village-6-recipe-238201"
+        },
+        {
+          "kind": "quest_cleared",
+          "questId": "village-6-recipe-228570"
+        },
+        {
+          "kind": "quest_cleared",
+          "questId": "village-6-recipe-228571"
+        },
+        {
+          "kind": "quest_cleared",
+          "questId": "village-6-recipe-238202"
+        },
+        {
+          "kind": "quest_cleared",
+          "questId": "village-6-recipe-228572"
+        },
+        {
+          "kind": "quest_cleared",
+          "questId": "village-6-recipe-228573"
+        },
+        {
+          "kind": "quest_cleared",
+          "questId": "village-6-recipe-228574"
+        }
+      ]
+    },
+    "npcNotes": [
+      "ユクモ村の村長の依頼5を達成し、必要な報告を行う。",
+      "ユクモ村 ユクモ村の村長の依頼6を受注する。"
+    ],
+    "unlocks": [],
+    "sources": [
+      {
+        "site": "MHXX攻略レシピ",
+        "url": "http://wiki.mhxg.org/ida/238214.html",
+        "kind": "detail",
+        "checkedAt": "2026-10-15"
+      },
+      {
+        "site": "MHXX攻略レシピ（ランク一覧）",
+        "url": "http://wiki.mhxg.org/data/2016.html",
+        "kind": "list",
+        "checkedAt": "2026-10-15"
+      }
+    ],
+    "verification": "partial",
+    "verificationNote": "攻略レシピの明記を採用。通常の会話・報告は補足に分離。解放要素の未記載は「なし」と断定していません。",
+    "warnings": []
+  },
+  {
+    "id": "village-6-recipe-238215",
+    "name": "紅葉に散るは、熊か猫か",
+    "rank": "6",
+    "category": "village",
+    "order": 41,
+    "role": "prowler",
+    "tags": [
+      "normal"
+    ],
+    "condition": {
+      "kind": "quest_cleared",
+      "questId": "village-5-recipe-220428"
+    },
+    "npcNotes": [],
+    "unlocks": [],
+    "sources": [
+      {
+        "site": "MHXX攻略レシピ",
+        "url": "http://wiki.mhxg.org/ida/238215.html",
+        "kind": "detail",
+        "checkedAt": "2026-10-15"
+      },
+      {
+        "site": "MHXX攻略レシピ（ランク一覧）",
+        "url": "http://wiki.mhxg.org/data/2016.html",
+        "kind": "list",
+        "checkedAt": "2026-10-15"
+      }
+    ],
+    "verification": "partial",
+    "verificationNote": "攻略レシピの明記を採用。通常の会話・報告は補足に分離。解放要素の未記載は「なし」と断定していません。",
+    "warnings": []
+  },
+  {
+    "id": "village-6-recipe-238216",
+    "name": "盾蟹のヤド破壊に挑戦！",
+    "rank": "6",
+    "category": "village",
+    "order": 42,
+    "role": "prowler",
+    "tags": [
+      "normal"
+    ],
+    "condition": {
+      "kind": "quest_cleared",
+      "questId": "village-6-recipe-238215"
+    },
+    "npcNotes": [],
+    "unlocks": [],
+    "sources": [
+      {
+        "site": "MHXX攻略レシピ",
+        "url": "http://wiki.mhxg.org/ida/238216.html",
+        "kind": "detail",
+        "checkedAt": "2026-10-15"
+      },
+      {
+        "site": "MHXX攻略レシピ（ランク一覧）",
+        "url": "http://wiki.mhxg.org/data/2016.html",
+        "kind": "list",
+        "checkedAt": "2026-10-15"
+      }
+    ],
+    "verification": "partial",
+    "verificationNote": "攻略レシピの明記を採用。通常の会話・報告は補足に分離。解放要素の未記載は「なし」と断定していません。",
+    "warnings": [
+      "具体的な施設・交易の解放内容と追加条件は未確認です。"
+    ]
+  },
+  {
+    "id": "village-6-recipe-238217",
+    "name": "青と緑の波状包囲網",
+    "rank": "6",
+    "category": "village",
+    "order": 43,
+    "role": "prowler",
+    "tags": [
+      "normal"
+    ],
+    "condition": {
+      "kind": "quest_cleared",
+      "questId": "village-6-recipe-238215"
+    },
+    "npcNotes": [],
+    "unlocks": [
+      {
+        "kind": "hunter_art",
+        "label": "ブレイドワイヤー LV2"
+      }
+    ],
+    "sources": [
+      {
+        "site": "MHXX攻略レシピ",
+        "url": "http://wiki.mhxg.org/ida/238217.html",
+        "kind": "detail",
+        "checkedAt": "2026-10-15"
+      },
+      {
+        "site": "MHXX攻略レシピ（ランク一覧）",
+        "url": "http://wiki.mhxg.org/data/2016.html",
+        "kind": "list",
+        "checkedAt": "2026-10-15"
+      }
+    ],
+    "verification": "partial",
+    "verificationNote": "攻略レシピの明記を採用。通常の会話・報告は補足に分離。解放要素の未記載は「なし」と断定していません。",
+    "warnings": [
+      "具体的な施設・交易の解放内容と追加条件は未確認です。"
+    ]
+  },
+  {
+    "id": "village-6-recipe-238218",
+    "name": "牙と毒の沼地",
+    "rank": "6",
+    "category": "village",
+    "order": 44,
+    "role": "prowler",
+    "tags": [
+      "normal"
+    ],
+    "condition": {
+      "kind": "quest_cleared",
+      "questId": "village-6-recipe-238215"
+    },
+    "npcNotes": [],
+    "unlocks": [],
+    "sources": [
+      {
+        "site": "MHXX攻略レシピ",
+        "url": "http://wiki.mhxg.org/ida/238218.html",
+        "kind": "detail",
+        "checkedAt": "2026-10-15"
+      },
+      {
+        "site": "MHXX攻略レシピ（ランク一覧）",
+        "url": "http://wiki.mhxg.org/data/2016.html",
+        "kind": "list",
+        "checkedAt": "2026-10-15"
+      }
+    ],
+    "verification": "partial",
+    "verificationNote": "攻略レシピの明記を採用。通常の会話・報告は補足に分離。解放要素の未記載は「なし」と断定していません。",
+    "warnings": [
+      "具体的な施設・交易の解放内容と追加条件は未確認です。"
+    ]
+  }
+]
