@@ -1393,14 +1393,15 @@
           "questId": "village-3-g8-822877"
         },
         {
-          "kind": "external_flag",
-          "label": "未収録：集★2食材の価値は鮮度なりのクリア（食材屋の女将の依頼1）"
+          "kind": "quest_cleared",
+          "questId": "hub-2-recipe-220253"
         }
       ]
     },
     "npcNotes": [
       "ユクモ村 食材屋の女将の依頼2を受注する。",
-      "ユクモノ足湯で依頼主と会話する。"
+      "ユクモノ足湯で依頼主と会話する。",
+      "食材屋の女将の依頼1を達成後、依頼主へ報告する。"
     ],
     "unlocks": [
       {
@@ -1425,6 +1426,12 @@
       {
         "site": "MHXX攻略レシピ（前提依頼）",
         "url": "http://wiki.mhxg.org/ida/243481.html",
+        "kind": "detail",
+        "checkedAt": "2026-10-16"
+      },
+      {
+        "site": "MHXX攻略レシピ",
+        "url": "http://wiki.mhxg.org/ida/220253.html",
         "kind": "detail",
         "checkedAt": "2026-10-16"
       }

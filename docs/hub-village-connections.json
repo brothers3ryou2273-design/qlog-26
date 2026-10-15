@@ -46,6 +46,114 @@
         "http://wiki.mhxg.org/ida/220241.html"
       ],
       "reason": "攻略レシピの前提依頼と達成クエストを照合。通常の依頼達成報告はnpcNotesへ。今回対象外の集★5条件・HR・村前提はそのまま保持。"
+    },
+    {
+      "questId": "village-6-recipe-238197",
+      "name": "予想外！つがいの妨害！",
+      "before": {
+        "kind": "all",
+        "rules": [
+          {
+            "kind": "hr_at_least",
+            "value": 2
+          },
+          {
+            "kind": "external_flag",
+            "label": "未収録：集★2輸送中！水獣の追従！のクリアと交易船の船長の依頼1の達成"
+          },
+          {
+            "kind": "quest_cleared",
+            "questId": "village-6-recipe-220240"
+          }
+        ]
+      },
+      "after": {
+        "kind": "all",
+        "rules": [
+          {
+            "kind": "hr_at_least",
+            "value": 2
+          },
+          {
+            "kind": "quest_cleared",
+            "questId": "hub-2-recipe-220256"
+          },
+          {
+            "kind": "quest_cleared",
+            "questId": "village-6-recipe-220240"
+          }
+        ]
+      },
+      "addedNpcNote": "交易船の船長の依頼1を達成後、依頼主へ報告する。",
+      "sources": [
+        "http://wiki.mhxg.org/ida/238197.html",
+        "http://wiki.mhxg.org/data/2016.html",
+        "http://wiki.mhxg.org/ida/243432.html",
+        "http://wiki.mhxg.org/ida/220256.html"
+      ],
+      "reason": "攻略レシピの前提依頼と達成クエストを照合。通常の依頼達成報告はnpcNotesへ。今回対象外の集★5条件・HR・村前提はそのまま保持。"
+    },
+    {
+      "questId": "village-7-recipe-286169",
+      "name": "旬な食材を採らせておくれ！",
+      "before": {
+        "kind": "all",
+        "rules": [
+          {
+            "kind": "quest_cleared",
+            "questId": "village-7-recipe-285986"
+          },
+          {
+            "kind": "quest_cleared",
+            "questId": "village-2-recipe-220164"
+          },
+          {
+            "kind": "hr_at_least",
+            "value": 2
+          },
+          {
+            "kind": "quest_cleared",
+            "questId": "village-3-g8-822877"
+          },
+          {
+            "kind": "external_flag",
+            "label": "未収録：集★2食材の価値は鮮度なりのクリア（食材屋の女将の依頼1）"
+          }
+        ]
+      },
+      "after": {
+        "kind": "all",
+        "rules": [
+          {
+            "kind": "quest_cleared",
+            "questId": "village-7-recipe-285986"
+          },
+          {
+            "kind": "quest_cleared",
+            "questId": "village-2-recipe-220164"
+          },
+          {
+            "kind": "hr_at_least",
+            "value": 2
+          },
+          {
+            "kind": "quest_cleared",
+            "questId": "village-3-g8-822877"
+          },
+          {
+            "kind": "quest_cleared",
+            "questId": "hub-2-recipe-220253"
+          }
+        ]
+      },
+      "addedNpcNote": "食材屋の女将の依頼1を達成後、依頼主へ報告する。",
+      "sources": [
+        "http://wiki.mhxg.org/ida/286169.html",
+        "http://wiki.mhxg.org/data/2017.html",
+        "http://wiki.mhxg.org/ida/243481.html",
+        "http://wiki.mhxg.org/ida/220253.html"
+      ],
+      "reason": "攻略レシピの前提依頼と達成クエストを照合。通常の依頼達成報告はnpcNotesへ。今回対象外の集★5条件・HR・村前提はそのまま保持。"
     }
   ]
 }

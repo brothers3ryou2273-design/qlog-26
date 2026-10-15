@@ -113,3 +113,44 @@ describe("observed hub rosters and cross-category dependencies", () => {
     expect(parseSave(JSON.stringify(updated))).toEqual(updated);
   });
 });
+
+it("keeps the untracked delivery in the hub-2 weapon request and evaluates its known AND gates", () => {
+  const q = quests.find(
+    (q) => q.category === "hub" && q.name === "無謀な弟子の、後始末",
+  )!;
+  expect(q).toBeDefined();
+  expect(JSON.stringify(q.condition)).toContain("マカライト鉱石 x2大猪の皮 x1");
+  expect(references(q.condition)).toContain(
+    quests.find((q) => q.category === "village" && q.name === "鬼面狩人を威す")!
+      .id,
+  );
+  const all = quests.map((q) => q.id);
+  expect(
+    evaluate(q.condition, { schemaVersion: 1, completedQuestIds: all, hr: 1 }),
+  ).toBe("unmet");
+  expect(
+    evaluate(q.condition, { schemaVersion: 1, completedQuestIds: all, hr: 2 }),
+  ).toBe("unknown");
+});
+
+for (const rank of audit.ranks.filter((r) => r.rank === "2")) {
+  it("hub-2 urgent requires all five hub-1 keys, without including same-named village keys", () => {
+    const q = quests.find(
+      (q) => q.category === "hub" && q.name === "雪山の主、ドドブランゴ",
+    )!;
+    const keys = quests.filter(
+      (q) => q.category === "hub" && q.rank === "1" && q.tags.includes("key"),
+    );
+    expect(keys).toHaveLength(5);
+    expect(references(q.condition)).toEqual(keys.map((q) => q.id));
+    for (let mask = 0; mask < 32; mask++) {
+      const completedQuestIds = keys
+        .filter((_, i) => mask & (1 << i))
+        .map((q) => q.id);
+      expect(
+        evaluate(q.condition, { schemaVersion: 1, completedQuestIds }),
+      ).toBe(mask === 31 ? "met" : "unmet");
+    }
+    expect(rank.observedCount).toBe(35);
+  });
+}
