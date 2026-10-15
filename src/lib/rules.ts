@@ -66,7 +66,16 @@ export function validateQuests(quests: Quest[]): string[] {
     if (!q.sources.length) errors.push(`出典なし: ${q.id}`);
     for (const source of q.sources) {
       try {
-        if (new URL(source.url).protocol !== "https:") throw Error();
+        const url = new URL(source.url);
+        // 攻略レシピはHTTPのみ応答する。例外は正確なホストと標準ポートに限定。
+        const recipeHttp =
+          url.protocol === "http:" && url.host === "wiki.mhxg.org";
+        if (
+          (url.protocol !== "https:" && !recipeHttp) ||
+          url.username ||
+          url.password
+        )
+          throw Error();
       } catch {
         errors.push(`無効URL: ${q.id}`);
       }

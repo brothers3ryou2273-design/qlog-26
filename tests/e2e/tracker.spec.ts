@@ -91,7 +91,7 @@ test("nested prerequisites and reverse links navigate between ranks and preserve
   await expect(page.locator(".state")).toHaveText("要確認");
   await expect(
     page.getByRole("link", { name: /MHXX攻略レシピ（トップページ）/ }),
-  ).toHaveAttribute("href", "https://wiki.mhxg.org/");
+  ).toHaveAttribute("href", "http://wiki.mhxg.org/");
   await page.getByRole("button", { name: "村 ★3 / 【架空】峠への道" }).click();
   await expect(
     page.getByRole("heading", { name: "村 ★3", exact: true }),
@@ -363,4 +363,81 @@ test("real village data persists, links to confirmed pages, and keeps conversati
   );
   expect(stored.completedQuestIds).toHaveLength(4);
   expect(stored.completedQuestIds).toContain("village-1-g8-822831");
+});
+
+test("pre-update progress and backups keep their IDs after recipe link changes", async ({
+  page,
+}) => {
+  const legacy = {
+    schemaVersion: 1,
+    completedQuestIds: [
+      "village-1-g8-822831",
+      "village-2-g8-822843",
+      "future-quest",
+    ],
+    hr: 4,
+  };
+  await page.addInitScript((data) => {
+    if (!localStorage.getItem("qlog.mhxx.progress.v1"))
+      localStorage.setItem("qlog.mhxx.progress.v1", JSON.stringify(data));
+  }, legacy);
+  await page.goto("./");
+  await page
+    .getByRole("combobox", { name: "ランク", exact: true })
+    .selectOption("2");
+  await expect(
+    page.getByRole("checkbox", {
+      name: "跳躍のアウトローをクリア",
+      exact: true,
+    }),
+  ).toBeChecked();
+  await page.getByRole("button", { name: /緊急.*跳躍のアウトロー/ }).click();
+  const recipe = page.getByRole("link", {
+    name: /MHXX攻略レシピ（該当クエスト詳細）/,
+  });
+  await expect(recipe).toHaveAttribute(
+    "href",
+    "http://wiki.mhxg.org/ida/219257.html",
+  );
+  await expect(recipe).toHaveAttribute("target", "_blank");
+  await expect(recipe).toHaveAttribute("rel", "noopener noreferrer");
+  await expect(page.getByLabel("現在のHR")).toHaveValue("4");
+  const downloadPromise = page.waitForEvent("download");
+  await page.getByRole("button", { name: "JSONを書き出す" }).click();
+  const file = await downloadPromise;
+  const exported = JSON.parse(await readFile((await file.path())!, "utf8"));
+  expect(exported.completedQuestIds).toEqual(legacy.completedQuestIds);
+  expect(exported.schemaVersion).toBe(1);
+  await page
+    .getByRole("checkbox", { name: "跳躍のアウトローをクリア", exact: true })
+    .uncheck();
+  await page.getByLabel("バックアップファイル").setInputFiles(backup(legacy));
+  await page.getByRole("button", { name: "追加して復元" }).click();
+  await page.reload();
+  await expect(
+    page.getByRole("checkbox", {
+      name: "跳躍のアウトローをクリア",
+      exact: true,
+    }),
+  ).toBeChecked();
+  expect(
+    await page.evaluate(
+      () =>
+        JSON.parse(localStorage.getItem("qlog.mhxx.progress.v1")!)
+          .completedQuestIds,
+    ),
+  ).toEqual(expect.arrayContaining(legacy.completedQuestIds));
+  await page
+    .getByRole("combobox", { name: "ランク", exact: true })
+    .selectOption("1");
+  await page
+    .getByRole("combobox", { name: "種別", exact: true })
+    .selectOption("request");
+  await expect(page.locator(".quest-card")).toHaveCount(1);
+  await expect(
+    page.getByRole("checkbox", {
+      name: "ネコ嬢のジャギィ討伐依頼をクリア",
+      exact: true,
+    }),
+  ).toBeVisible();
 });

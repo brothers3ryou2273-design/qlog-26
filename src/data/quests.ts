@@ -20,7 +20,25 @@ const afterVillage3 = all(
   conversation("ベルナ村の村長と話す"),
 );
 const commonNote =
-  "名称・所属・属性・出現条件をGame8の個別ページで確認。攻略レシピは接続タイムアウトにより未照合。食材・狩技等の解放要素は未確認。並び順は収録時の固定順です。";
+  "名称・所属・キー／緊急属性・備考の出現前提を攻略レシピの個別ページで照合済み。会話の詳細な手順はGame8で補完しています。食材・狩技等の解放要素は未網羅のため一部確認です。並び順は収録時の固定順です。";
+// 村★1〜3の一覧に実際に掲載されていたリンクを開き、同名・同ランクを確認。
+// 保存済み進捗のためGame8由来の既存IDは変更しない。
+const recipePages: Record<number, string> = {
+  822831: "http://wiki.mhxg.org/ida/219133.html",
+  822835: "http://wiki.mhxg.org/ida/218316.html",
+  822836: "http://wiki.mhxg.org/ida/218315.html",
+  822837: "http://wiki.mhxg.org/ida/219137.html",
+  822843: "http://wiki.mhxg.org/ida/219257.html",
+  822844: "http://wiki.mhxg.org/ida/219313.html",
+  822849: "http://wiki.mhxg.org/ida/218317.html",
+  822850: "http://wiki.mhxg.org/ida/218318.html",
+  822852: "http://wiki.mhxg.org/ida/218320.html",
+  822872: "http://wiki.mhxg.org/ida/218326.html",
+  822877: "http://wiki.mhxg.org/ida/219318.html",
+  822878: "http://wiki.mhxg.org/ida/219982.html",
+  822884: "http://wiki.mhxg.org/ida/219983.html",
+  822885: "http://wiki.mhxg.org/ida/219984.html",
+};
 function quest(
   sourceId: number,
   rank: string,
@@ -40,7 +58,12 @@ function quest(
     condition,
     unlocks: [],
     sources: [
-      { site: "MHXX攻略レシピ", url: "https://wiki.mhxg.org/", kind: "home" },
+      {
+        site: "MHXX攻略レシピ",
+        url: recipePages[sourceId],
+        kind: "detail",
+        checkedAt: "2026-10-15",
+      },
       {
         site: "Game8 MHXX",
         url: `https://game8.jp/mh-xx/${sourceId}`,
@@ -63,19 +86,17 @@ function quest(
     ...extra,
   };
 }
-// 以下の14個別URLは一覧に掲載されたリンクを実際に開いて確認したもの。
+// 以下14件の攻略レシピ・Game8の個別URLは、一覧のリンクを実際に開いて確認したもの。
 // URL規則から未確認のページを生成しない。全クエストの網羅を示すデータではない。
 export const quests: Quest[] = [
   quest(822831, "1", "古代林の特産ゼンマイ", ["key"], { kind: "none" }),
-  quest(822835, "1", "古代の森でシメジ狩り", ["key"], cleared("1", 822831), {
-    verificationNote: `${commonNote} MHXX攻略Wikiのキー一覧では「古代林でシメジ狩り」と表記が異なります。ここでは個別ページと村下位一覧が一致するGame8の表記を採用し、原典との再照合は未完了です。`,
-  }),
+  quest(822835, "1", "古代の森でシメジ狩り", ["key"], cleared("1", 822831)),
   quest(822836, "1", "マッカォの群れを討伐せよ！", ["key"], { kind: "none" }),
   quest(
     822837,
     "1",
     "ネコ嬢のジャギィ討伐依頼",
-    ["key"],
+    ["key", "request"],
     all(cleared("1", 822836), conversation("ベルナ村の村長、ネコ嬢の順に話す")),
   ),
   quest(
@@ -114,12 +135,10 @@ export const quests: Quest[] = [
     ),
   ),
   quest(822878, "3", "古代林の大怪鳥", ["key"], afterVillage3),
-  quest(822884, "3", "砂に潜む巨大蟹！", ["key"], afterVillage3, {
-    verificationNote: `${commonNote} MHXX攻略Wikiのキー一覧では末尾の「！」がありません。Game8の個別ページの表記を採用し、原典との再照合は未完了です。`,
-  }),
+  quest(822884, "3", "砂に潜む巨大蟹！", ["key"], afterVillage3),
   quest(822885, "3", "砂上のテーブルマナー", ["key"], afterVillage3),
 ];
 export const dataStatus = {
   complete: false,
-  note: "村★1〜3の一部14件を収録しています（4件・6件・4件）。名称・出現条件はGame8の個別ページで確認し、一部のキー属性をMHXX攻略Wikiと照合しました。攻略レシピは接続タイムアウトで未照合のため、すべて「一部確認」です。未収録のクエスト・解放要素があります。",
+  note: "村★1〜3の一部14件を収録しています（4件・6件・4件）。攻略レシピのHTTP個別ページで名称・属性・出現前提を照合し、会話の詳細はGame8で補完しています。解放要素が未網羅のため、すべて「一部確認」です。未収録のクエスト・解放要素があります。",
 };

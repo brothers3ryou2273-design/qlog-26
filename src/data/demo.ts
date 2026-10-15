@@ -21,7 +21,7 @@ function demo(
     verificationNote:
       "操作確認専用の架空データ。実際のMHXXクエスト・出現条件とは関係ありません。",
     sources: [
-      { site: "MHXX攻略レシピ", url: "https://wiki.mhxg.org/", kind: "home" },
+      { site: "MHXX攻略レシピ", url: "http://wiki.mhxg.org/", kind: "home" },
     ],
     ...extra,
   };

@@ -127,3 +127,67 @@ describe("dataset integrity and reverse links", () => {
     ).toMatch(/未確認条件を検証済み/);
   });
 });
+
+describe("source URL protocol boundary", () => {
+  it.each([
+    "http://wiki.mhxg.org/",
+    "http://wiki.mhxg.org/ida/219257.html",
+    "http://wiki.mhxg.org/data/2012.html#quest",
+    "https://game8.jp/mh-xx/822843",
+  ])("accepts HTTPS or the exact recipe HTTP host: %s", (url) => {
+    expect(
+      validateQuests([
+        {
+          ...sample("x", unknown),
+          sources: [{ site: "source", url, kind: "detail" }],
+        },
+      ]),
+    ).toEqual([]);
+  });
+  it.each([
+    "http://game8.jp/mh-xx/822843",
+    "http://other.wiki.mhxg.org/",
+    "http://wiki.mhxg.org.example.com/",
+    "http://wiki.mhxg.org:8080/",
+    "http://wiki.mhxg.org@evil.example/",
+    "http://user@wiki.mhxg.org/",
+    "https://user:password@example.com/",
+    "ftp://wiki.mhxg.org/",
+    "javascript:alert(1)",
+  ])("rejects protocols and hosts outside the exception: %s", (url) => {
+    expect(
+      validateQuests([
+        {
+          ...sample("x", unknown),
+          sources: [{ site: "source", url, kind: "detail" }],
+        },
+      ]),
+    ).toContain("無効URL: x");
+  });
+  it("keeps every existing progress ID when switching primary sources", () => {
+    expect(quests.map((q) => q.id)).toEqual([
+      "village-1-g8-822831",
+      "village-1-g8-822835",
+      "village-1-g8-822836",
+      "village-1-g8-822837",
+      "village-2-g8-822843",
+      "village-2-g8-822844",
+      "village-2-g8-822849",
+      "village-2-g8-822850",
+      "village-2-g8-822852",
+      "village-2-g8-822872",
+      "village-3-g8-822877",
+      "village-3-g8-822878",
+      "village-3-g8-822884",
+      "village-3-g8-822885",
+    ]);
+    expect(
+      quests.every(
+        (q) =>
+          q.sources[0].site === "MHXX攻略レシピ" &&
+          q.sources[0].kind === "detail" &&
+          q.sources[0].checkedAt,
+      ),
+    ).toBe(true);
+  });
+});

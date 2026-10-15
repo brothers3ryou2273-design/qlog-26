@@ -748,7 +748,7 @@ export default function App() {
           <p className="small">
             第一参照元：
             <a
-              href="https://wiki.mhxg.org/"
+              href="http://wiki.mhxg.org/"
               target="_blank"
               rel="noopener noreferrer"
             >
