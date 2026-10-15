@@ -12,9 +12,7 @@ function backup(data: object) {
     buffer: Buffer.from(JSON.stringify(data)),
   };
 }
-test("production states missing data honestly and sets noindex", async ({
-  page,
-}) => {
+test("production shows partial coverage and noindex", async ({ page }) => {
   const errors: string[] = [];
   page.on("pageerror", (e) => errors.push(e.message));
   await page.goto("./");
@@ -25,10 +23,16 @@ test("production states missing data honestly and sets noindex", async ({
   await expect(
     page.getByRole("heading", { name: "村 ★3", exact: true }),
   ).toBeVisible();
+  await expect(page.locator(".quest-card")).toHaveCount(4);
+  await expect(
+    page.getByText("データ整備中 · 実クエスト14件・一部確認"),
+  ).toBeVisible();
+  await page
+    .getByRole("combobox", { name: "ランク", exact: true })
+    .selectOption("4");
   await expect(
     page.getByRole("heading", { name: "このランクは、これから収録します" }),
   ).toBeVisible();
-  await expect(page.getByText("データ整備中 · 実クエスト未収録")).toBeVisible();
   expect(errors).toEqual([]);
 });
 test("checks persist through reload, search filters, and category totals stay separate", async ({
@@ -285,4 +289,77 @@ test("HR validation, mobile layout and touch target sizes", async ({
       path: "test-results/mobile-tracker.png",
       fullPage: true,
     });
+});
+
+test("real village data persists, links to confirmed pages, and keeps conversations unknown", async ({
+  page,
+}) => {
+  await page.goto("./");
+  await page
+    .getByRole("combobox", { name: "ランク", exact: true })
+    .selectOption("1");
+  await expect(page.locator(".quest-card")).toHaveCount(4);
+  await page
+    .getByRole("checkbox", {
+      name: "古代林の特産ゼンマイをクリア",
+      exact: true,
+    })
+    .check();
+  await page
+    .getByRole("button", { name: /キー.*古代の森でシメジ狩り/ })
+    .click();
+  await expect(page.locator(".state")).toHaveText("前提条件達成");
+  await page
+    .getByRole("checkbox", {
+      name: "古代の森でシメジ狩りをクリア",
+      exact: true,
+    })
+    .check();
+  await page
+    .getByRole("checkbox", {
+      name: "マッカォの群れを討伐せよ！をクリア",
+      exact: true,
+    })
+    .check();
+  await page
+    .getByRole("button", { name: /キー.*ネコ嬢のジャギィ討伐依頼/ })
+    .click();
+  await expect(page.locator(".state")).toHaveText("要確認");
+  await page
+    .getByRole("checkbox", {
+      name: "ネコ嬢のジャギィ討伐依頼をクリア",
+      exact: true,
+    })
+    .check();
+  await page
+    .getByRole("button", { name: "村 ★2 / 跳躍のアウトロー", exact: true })
+    .click();
+  await expect(
+    page.getByRole("heading", { name: "村 ★2", exact: true }),
+  ).toBeVisible();
+  await expect(page.locator(".state")).toHaveText("要確認");
+  await expect(
+    page.getByText("ネコ嬢、ベルナ村の村長の順に話す：ゲーム内で要確認", {
+      exact: true,
+    }),
+  ).toBeVisible();
+  await expect(
+    page.getByRole("link", { name: /Game8 MHXX（該当クエスト詳細）/ }),
+  ).toHaveAttribute("href", "https://game8.jp/mh-xx/822843");
+  await page.reload();
+  await page
+    .getByRole("combobox", { name: "ランク", exact: true })
+    .selectOption("1");
+  await expect(
+    page.getByRole("checkbox", {
+      name: "古代林の特産ゼンマイをクリア",
+      exact: true,
+    }),
+  ).toBeChecked();
+  await expect(page.getByRole("progressbar")).toHaveAttribute("value", "4");
+  const stored = await page.evaluate(() =>
+    JSON.parse(localStorage.getItem("qlog.mhxx.progress.v1")!),
+  );
+  expect(stored.completedQuestIds).toHaveLength(4);
+  expect(stored.completedQuestIds).toContain("village-1-g8-822831");
 });

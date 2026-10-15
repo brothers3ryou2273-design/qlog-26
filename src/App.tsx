@@ -285,7 +285,9 @@ export default function App() {
         <section className="notice" aria-label="データ収録状況">
           <strong>
             データ整備中 ·{" "}
-            {demo ? "架空データで操作確認中" : "実クエスト未収録"}
+            {demo
+              ? "架空データで操作確認中"
+              : `実クエスト${quests.length}件・一部確認`}
           </strong>
           <p>
             {demo
@@ -683,8 +685,8 @@ export default function App() {
           <p className="small">
             全対象クエストの収録を目標にしています。総件数は未確認です。
             {demo
-              ? "以下は架空データの件数です。実クエストは0件です。"
-              : "現在は実クエスト0件です。"}
+              ? `以下は架空データの件数です。実クエストは${quests.length}件です。`
+              : `現在は実クエスト${quests.length}件です。`}
           </p>
           <div className="table-scroll">
             <table>
