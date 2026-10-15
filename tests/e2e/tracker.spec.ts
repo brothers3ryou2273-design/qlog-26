@@ -284,6 +284,7 @@ test("HR validation, mobile layout and touch target sizes", async ({
   ).toBe(true);
   const target = await page.locator(".quest-check").first().boundingBox();
   expect(target!.height).toBeGreaterThanOrEqual(44);
+  expect(target!.width).toBeGreaterThanOrEqual(44);
   if (test.info().project.name === "mobile")
     await page.screenshot({
       path: "test-results/mobile-tracker.png",
