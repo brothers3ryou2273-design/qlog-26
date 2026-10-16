@@ -1,0 +1,287 @@
+{
+  "checkedAt": "2026-10-16",
+  "status": "awaiting_source_access",
+  "entries": [
+    {
+      "candidateName": "ＸＸイベント：紫毒姫討伐",
+      "proposedRole": "hunter",
+      "inputSource": "ユーザー提示の調査対象。データベース本文の観測ではない。",
+      "decision": "pending_source_access",
+      "reason": "指定Kiranicoとwiki-dbへHTTPS CONNECT 403で接続できず、固有識別子・実在個別URL・分類を独立確認できていない。存在しない／除外とは判定しない。",
+      "observedQuestIdentifier": null,
+      "observedDetailUrl": null,
+      "evidenceNeeded": [
+        "日本版MHXXの実在する個別データ",
+        "チャレンジ分類・ハンター／ニャンター",
+        "既存20件とは別の固有識別子"
+      ]
+    },
+    {
+      "candidateName": "ＸＸイベント：金雷公討伐",
+      "proposedRole": "hunter",
+      "inputSource": "ユーザー提示の調査対象。データベース本文の観測ではない。",
+      "decision": "pending_source_access",
+      "reason": "指定Kiranicoとwiki-dbへHTTPS CONNECT 403で接続できず、固有識別子・実在個別URL・分類を独立確認できていない。存在しない／除外とは判定しない。",
+      "observedQuestIdentifier": null,
+      "observedDetailUrl": null,
+      "evidenceNeeded": [
+        "日本版MHXXの実在する個別データ",
+        "チャレンジ分類・ハンター／ニャンター",
+        "既存20件とは別の固有識別子"
+      ]
+    },
+    {
+      "candidateName": "ＸＸイベント：白疾風討伐",
+      "proposedRole": "hunter",
+      "inputSource": "ユーザー提示の調査対象。データベース本文の観測ではない。",
+      "decision": "pending_source_access",
+      "reason": "指定Kiranicoとwiki-dbへHTTPS CONNECT 403で接続できず、固有識別子・実在個別URL・分類を独立確認できていない。存在しない／除外とは判定しない。",
+      "observedQuestIdentifier": null,
+      "observedDetailUrl": null,
+      "evidenceNeeded": [
+        "日本版MHXXの実在する個別データ",
+        "チャレンジ分類・ハンター／ニャンター",
+        "既存20件とは別の固有識別子"
+      ]
+    },
+    {
+      "candidateName": "ＸＸイベント：黒炎王討伐",
+      "proposedRole": "hunter",
+      "inputSource": "ユーザー提示の調査対象。データベース本文の観測ではない。",
+      "decision": "pending_source_access",
+      "reason": "指定Kiranicoとwiki-dbへHTTPS CONNECT 403で接続できず、固有識別子・実在個別URL・分類を独立確認できていない。存在しない／除外とは判定しない。",
+      "observedQuestIdentifier": null,
+      "observedDetailUrl": null,
+      "evidenceNeeded": [
+        "日本版MHXXの実在する個別データ",
+        "チャレンジ分類・ハンター／ニャンター",
+        "既存20件とは別の固有識別子"
+      ]
+    },
+    {
+      "candidateName": "ＸＸイベント：荒鉤爪討伐",
+      "proposedRole": "hunter",
+      "inputSource": "ユーザー提示の調査対象。データベース本文の観測ではない。",
+      "decision": "pending_source_access",
+      "reason": "指定Kiranicoとwiki-dbへHTTPS CONNECT 403で接続できず、固有識別子・実在個別URL・分類を独立確認できていない。存在しない／除外とは判定しない。",
+      "observedQuestIdentifier": null,
+      "observedDetailUrl": null,
+      "evidenceNeeded": [
+        "日本版MHXXの実在する個別データ",
+        "チャレンジ分類・ハンター／ニャンター",
+        "既存20件とは別の固有識別子"
+      ]
+    },
+    {
+      "candidateName": "ＸＸイベント：銀嶺討伐",
+      "proposedRole": "hunter",
+      "inputSource": "ユーザー提示の調査対象。データベース本文の観測ではない。",
+      "decision": "pending_source_access",
+      "reason": "指定Kiranicoとwiki-dbへHTTPS CONNECT 403で接続できず、固有識別子・実在個別URL・分類を独立確認できていない。存在しない／除外とは判定しない。",
+      "observedQuestIdentifier": null,
+      "observedDetailUrl": null,
+      "evidenceNeeded": [
+        "日本版MHXXの実在する個別データ",
+        "チャレンジ分類・ハンター／ニャンター",
+        "既存20件とは別の固有識別子"
+      ]
+    },
+    {
+      "candidateName": "ＸＸイベント：矛砕討伐",
+      "proposedRole": "hunter",
+      "inputSource": "ユーザー提示の調査対象。データベース本文の観測ではない。",
+      "decision": "pending_source_access",
+      "reason": "指定Kiranicoとwiki-dbへHTTPS CONNECT 403で接続できず、固有識別子・実在個別URL・分類を独立確認できていない。存在しない／除外とは判定しない。",
+      "observedQuestIdentifier": null,
+      "observedDetailUrl": null,
+      "evidenceNeeded": [
+        "日本版MHXXの実在する個別データ",
+        "チャレンジ分類・ハンター／ニャンター",
+        "既存20件とは別の固有識別子"
+      ]
+    },
+    {
+      "candidateName": "ＸＸイベント：岩穿討伐",
+      "proposedRole": "hunter",
+      "inputSource": "ユーザー提示の調査対象。データベース本文の観測ではない。",
+      "decision": "pending_source_access",
+      "reason": "指定Kiranicoとwiki-dbへHTTPS CONNECT 403で接続できず、固有識別子・実在個別URL・分類を独立確認できていない。存在しない／除外とは判定しない。",
+      "observedQuestIdentifier": null,
+      "observedDetailUrl": null,
+      "evidenceNeeded": [
+        "日本版MHXXの実在する個別データ",
+        "チャレンジ分類・ハンター／ニャンター",
+        "既存20件とは別の固有識別子"
+      ]
+    },
+    {
+      "candidateName": "ＸＸイベント：紅兜討伐",
+      "proposedRole": "hunter",
+      "inputSource": "ユーザー提示の調査対象。データベース本文の観測ではない。",
+      "decision": "pending_source_access",
+      "reason": "指定Kiranicoとwiki-dbへHTTPS CONNECT 403で接続できず、固有識別子・実在個別URL・分類を独立確認できていない。存在しない／除外とは判定しない。",
+      "observedQuestIdentifier": null,
+      "observedDetailUrl": null,
+      "evidenceNeeded": [
+        "日本版MHXXの実在する個別データ",
+        "チャレンジ分類・ハンター／ニャンター",
+        "既存20件とは別の固有識別子"
+      ]
+    },
+    {
+      "candidateName": "ＸＸイベント：隻眼討伐",
+      "proposedRole": "hunter",
+      "inputSource": "ユーザー提示の調査対象。データベース本文の観測ではない。",
+      "decision": "pending_source_access",
+      "reason": "指定Kiranicoとwiki-dbへHTTPS CONNECT 403で接続できず、固有識別子・実在個別URL・分類を独立確認できていない。存在しない／除外とは判定しない。",
+      "observedQuestIdentifier": null,
+      "observedDetailUrl": null,
+      "evidenceNeeded": [
+        "日本版MHXXの実在する個別データ",
+        "チャレンジ分類・ハンター／ニャンター",
+        "既存20件とは別の固有識別子"
+      ]
+    },
+    {
+      "candidateName": "ＸＸイベント：大雪主討伐",
+      "proposedRole": "hunter",
+      "inputSource": "ユーザー提示の調査対象。データベース本文の観測ではない。",
+      "decision": "pending_source_access",
+      "reason": "指定Kiranicoとwiki-dbへHTTPS CONNECT 403で接続できず、固有識別子・実在個別URL・分類を独立確認できていない。存在しない／除外とは判定しない。",
+      "observedQuestIdentifier": null,
+      "observedDetailUrl": null,
+      "evidenceNeeded": [
+        "日本版MHXXの実在する個別データ",
+        "チャレンジ分類・ハンター／ニャンター",
+        "既存20件とは別の固有識別子"
+      ]
+    },
+    {
+      "candidateName": "ＸＸイベント：大連続狩猟１",
+      "proposedRole": "hunter",
+      "inputSource": "ユーザー提示の調査対象。データベース本文の観測ではない。",
+      "decision": "pending_source_access",
+      "reason": "指定Kiranicoとwiki-dbへHTTPS CONNECT 403で接続できず、固有識別子・実在個別URL・分類を独立確認できていない。存在しない／除外とは判定しない。",
+      "observedQuestIdentifier": null,
+      "observedDetailUrl": null,
+      "evidenceNeeded": [
+        "日本版MHXXの実在する個別データ",
+        "チャレンジ分類・ハンター／ニャンター",
+        "既存20件とは別の固有識別子"
+      ]
+    },
+    {
+      "candidateName": "ＸＸイベント：大連続狩猟２",
+      "proposedRole": "hunter",
+      "inputSource": "ユーザー提示の調査対象。データベース本文の観測ではない。",
+      "decision": "pending_source_access",
+      "reason": "指定Kiranicoとwiki-dbへHTTPS CONNECT 403で接続できず、固有識別子・実在個別URL・分類を独立確認できていない。存在しない／除外とは判定しない。",
+      "observedQuestIdentifier": null,
+      "observedDetailUrl": null,
+      "evidenceNeeded": [
+        "日本版MHXXの実在する個別データ",
+        "チャレンジ分類・ハンター／ニャンター",
+        "既存20件とは別の固有識別子"
+      ]
+    },
+    {
+      "candidateName": "ＸＸイベント：大連続狩猟３",
+      "proposedRole": "hunter",
+      "inputSource": "ユーザー提示の調査対象。データベース本文の観測ではない。",
+      "decision": "pending_source_access",
+      "reason": "指定Kiranicoとwiki-dbへHTTPS CONNECT 403で接続できず、固有識別子・実在個別URL・分類を独立確認できていない。存在しない／除外とは判定しない。",
+      "observedQuestIdentifier": null,
+      "observedDetailUrl": null,
+      "evidenceNeeded": [
+        "日本版MHXXの実在する個別データ",
+        "チャレンジ分類・ハンター／ニャンター",
+        "既存20件とは別の固有識別子"
+      ]
+    },
+    {
+      "candidateName": "ＸＸイベント：火竜討伐",
+      "proposedRole": "prowler",
+      "inputSource": "ユーザー提示の調査対象。データベース本文の観測ではない。",
+      "decision": "pending_source_access",
+      "reason": "指定Kiranicoとwiki-dbへHTTPS CONNECT 403で接続できず、固有識別子・実在個別URL・分類を独立確認できていない。存在しない／除外とは判定しない。",
+      "observedQuestIdentifier": null,
+      "observedDetailUrl": null,
+      "evidenceNeeded": [
+        "日本版MHXXの実在する個別データ",
+        "チャレンジ分類・ハンター／ニャンター",
+        "既存20件とは別の固有識別子"
+      ]
+    },
+    {
+      "candidateName": "ＸＸイベント：轟竜討伐",
+      "proposedRole": "prowler",
+      "inputSource": "ユーザー提示の調査対象。データベース本文の観測ではない。",
+      "decision": "pending_source_access",
+      "reason": "指定Kiranicoとwiki-dbへHTTPS CONNECT 403で接続できず、固有識別子・実在個別URL・分類を独立確認できていない。存在しない／除外とは判定しない。",
+      "observedQuestIdentifier": null,
+      "observedDetailUrl": null,
+      "evidenceNeeded": [
+        "日本版MHXXの実在する個別データ",
+        "チャレンジ分類・ハンター／ニャンター",
+        "既存20件とは別の固有識別子"
+      ]
+    },
+    {
+      "candidateName": "ＸＸイベント：迅竜討伐",
+      "proposedRole": "prowler",
+      "inputSource": "ユーザー提示の調査対象。データベース本文の観測ではない。",
+      "decision": "pending_source_access",
+      "reason": "指定Kiranicoとwiki-dbへHTTPS CONNECT 403で接続できず、固有識別子・実在個別URL・分類を独立確認できていない。存在しない／除外とは判定しない。",
+      "observedQuestIdentifier": null,
+      "observedDetailUrl": null,
+      "evidenceNeeded": [
+        "日本版MHXXの実在する個別データ",
+        "チャレンジ分類・ハンター／ニャンター",
+        "既存20件とは別の固有識別子"
+      ]
+    },
+    {
+      "candidateName": "ＸＸイベント：雷狼竜討伐",
+      "proposedRole": "prowler",
+      "inputSource": "ユーザー提示の調査対象。データベース本文の観測ではない。",
+      "decision": "pending_source_access",
+      "reason": "指定Kiranicoとwiki-dbへHTTPS CONNECT 403で接続できず、固有識別子・実在個別URL・分類を独立確認できていない。存在しない／除外とは判定しない。",
+      "observedQuestIdentifier": null,
+      "observedDetailUrl": null,
+      "evidenceNeeded": [
+        "日本版MHXXの実在する個別データ",
+        "チャレンジ分類・ハンター／ニャンター",
+        "既存20件とは別の固有識別子"
+      ]
+    },
+    {
+      "candidateName": "ＸＸイベント：砕竜討伐",
+      "proposedRole": "prowler",
+      "inputSource": "ユーザー提示の調査対象。データベース本文の観測ではない。",
+      "decision": "pending_source_access",
+      "reason": "指定Kiranicoとwiki-dbへHTTPS CONNECT 403で接続できず、固有識別子・実在個別URL・分類を独立確認できていない。存在しない／除外とは判定しない。",
+      "observedQuestIdentifier": null,
+      "observedDetailUrl": null,
+      "evidenceNeeded": [
+        "日本版MHXXの実在する個別データ",
+        "チャレンジ分類・ハンター／ニャンター",
+        "既存20件とは別の固有識別子"
+      ]
+    },
+    {
+      "candidateName": "ＸＸイベント：大連続狩猟４",
+      "proposedRole": "prowler",
+      "inputSource": "ユーザー提示の調査対象。データベース本文の観測ではない。",
+      "decision": "pending_source_access",
+      "reason": "指定Kiranicoとwiki-dbへHTTPS CONNECT 403で接続できず、固有識別子・実在個別URL・分類を独立確認できていない。存在しない／除外とは判定しない。",
+      "observedQuestIdentifier": null,
+      "observedDetailUrl": null,
+      "evidenceNeeded": [
+        "日本版MHXXの実在する個別データ",
+        "チャレンジ分類・ハンター／ニャンター",
+        "既存20件とは別の固有識別子"
+      ]
+    }
+  ],
+  "otherCandidates": "追加一覧本文を取得できていないため未探索。20件で探索を打ち切ったという意味ではなく、網羅性未確定。"
+}

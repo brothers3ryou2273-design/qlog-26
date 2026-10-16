@@ -1,0 +1,186 @@
+{
+  "checkedAt": "2026-10-16",
+  "entries": [
+    {
+      "label": "剣聖のピアス",
+      "previousJudgment": {
+        "label": "剣聖のピアス",
+        "condition": "MHXの全ての闘技大会をクリア",
+        "sourceUrl": "http://wiki.mhxg.org/ida/232738.html",
+        "note": "攻略レシピの記述。ハンター／ニャンター・追加分の厳密な対象集合と受取操作は未確認。自動取得判定はしません。"
+      },
+      "checkedAt": "2026-10-16",
+      "sourceUrl": "http://wiki.mhxg.org/ida/232738.html",
+      "observedCondition": "MHXの全ての闘技大会をクリア",
+      "observationStatus": "primary_rechecked",
+      "mhxOrMhxxScope": "MHX由来の全闘技大会",
+      "gradeRequirement": "all_cleared",
+      "prowlerInclusion": "not_independently_confirmed",
+      "challengeInclusion": "not_independently_confirmed",
+      "recipientNpc": "unconfirmed",
+      "newJudgment": "記載条件を再確認。対象ID集合・受取操作を確定できる新根拠は未取得のため既存表示と自動判定なしを維持。",
+      "evidenceHash": "bb6471b4065df9e3e77d2055fcce0cb8b7bbd4206e02197990abb686669cb589"
+    },
+    {
+      "label": "増弾のピアス",
+      "previousJudgment": {
+        "label": "増弾のピアス",
+        "condition": "MHXの全ての闘技大会をAランク以上でクリア",
+        "sourceUrl": "http://wiki.mhxg.org/ida/232740.html",
+        "note": "攻略レシピの記述。ハンター／ニャンター・追加分の厳密な対象集合と受取操作は未確認。自動取得判定はしません。"
+      },
+      "checkedAt": "2026-10-16",
+      "sourceUrl": "http://wiki.mhxg.org/ida/232740.html",
+      "observedCondition": "MHXの全ての闘技大会をAランク以上でクリア",
+      "observationStatus": "primary_rechecked",
+      "mhxOrMhxxScope": "MHX由来の全闘技大会",
+      "gradeRequirement": "all_A_or_better",
+      "prowlerInclusion": "not_independently_confirmed",
+      "challengeInclusion": "not_independently_confirmed",
+      "recipientNpc": "unconfirmed",
+      "newJudgment": "記載条件を再確認。対象ID集合・受取操作を確定できる新根拠は未取得のため既存表示と自動判定なしを維持。",
+      "evidenceHash": "8079bbcd5c45efb682664c5f7c777baeaaaa80ac620a65f784146eddfc4dea06"
+    },
+    {
+      "label": "虚心のピアス",
+      "previousJudgment": {
+        "label": "虚心のピアス",
+        "condition": "MHXXの全ての闘技大会をクリア",
+        "sourceUrl": "http://wiki.mhxg.org/ida/295687.html",
+        "note": "攻略レシピの記述。ハンター／ニャンター・追加分の厳密な対象集合と受取操作は未確認。自動取得判定はしません。"
+      },
+      "checkedAt": "2026-10-16",
+      "sourceUrl": "http://wiki.mhxg.org/ida/295687.html",
+      "observedCondition": "MHXXの全ての闘技大会をクリア",
+      "observationStatus": "primary_rechecked",
+      "mhxOrMhxxScope": "MHXXの全闘技大会",
+      "gradeRequirement": "all_cleared",
+      "prowlerInclusion": "not_independently_confirmed",
+      "challengeInclusion": "not_independently_confirmed",
+      "recipientNpc": "unconfirmed",
+      "newJudgment": "記載条件を再確認。対象ID集合・受取操作を確定できる新根拠は未取得のため既存表示と自動判定なしを維持。",
+      "evidenceHash": "4d5d09fb3aeece54b1babb29e3167db4ee7191f24b802f0e36f2230283859efd"
+    },
+    {
+      "label": "切望のピアス",
+      "previousJudgment": {
+        "label": "切望のピアス",
+        "condition": "MHXXの全ての闘技大会をAランク以上でクリア",
+        "sourceUrl": "http://wiki.mhxg.org/ida/295692.html",
+        "note": "攻略レシピの記述。ハンター／ニャンター・追加分の厳密な対象集合と受取操作は未確認。自動取得判定はしません。"
+      },
+      "checkedAt": "2026-10-16",
+      "sourceUrl": "http://wiki.mhxg.org/ida/295692.html",
+      "observedCondition": "MHXXの全ての闘技大会をAランク以上でクリア",
+      "observationStatus": "primary_rechecked",
+      "mhxOrMhxxScope": "MHXXの全闘技大会",
+      "gradeRequirement": "all_A_or_better",
+      "prowlerInclusion": "not_independently_confirmed",
+      "challengeInclusion": "not_independently_confirmed",
+      "recipientNpc": "unconfirmed",
+      "newJudgment": "記載条件を再確認。対象ID集合・受取操作を確定できる新根拠は未取得のため既存表示と自動判定なしを維持。",
+      "evidenceHash": "ce120a786fd0effe72d80a4f91c0eeaf839f5dbfcd193d22febc15fa719b7616"
+    },
+    {
+      "label": "碧玉の盾",
+      "previousJudgment": {
+        "label": "碧玉の盾",
+        "condition": "闘技大会のクエストを全てクリア",
+        "sourceUrl": "https://mhx-wiki.com/?%E5%8B%B2%E7%AB%A0%E4%B8%80%E8%A6%A7",
+        "note": "専門Wikiの龍歴院欄。対象クエスト集合・ニャンターと追加分の範囲は未確定。自動取得判定はしません。"
+      },
+      "checkedAt": "2026-10-16",
+      "sourceUrl": "https://mhx-wiki.com/?%E5%8B%B2%E7%AB%A0%E4%B8%80%E8%A6%A7",
+      "observedCondition": "闘技大会のクエストを全てクリア",
+      "observationStatus": "specialist_rechecked",
+      "mhxOrMhxxScope": "出典の龍歴院／龍識船欄。厳密な対象集合は未確認",
+      "gradeRequirement": "all_cleared",
+      "prowlerInclusion": "not_independently_confirmed",
+      "challengeInclusion": "not_independently_confirmed",
+      "recipientNpc": "unconfirmed",
+      "newJudgment": "記載条件を再確認。対象ID集合・受取操作を確定できる新根拠は未取得のため既存表示と自動判定なしを維持。",
+      "evidenceHash": "7fb756690247ff88f5942be5706a06cb45b834c2194a29cd7939c171a23bc5fc"
+    },
+    {
+      "label": "蒼玉の盾",
+      "previousJudgment": {
+        "label": "蒼玉の盾",
+        "condition": "闘技大会のクエストを全てAランク以上でクリア",
+        "sourceUrl": "https://mhx-wiki.com/?%E5%8B%B2%E7%AB%A0%E4%B8%80%E8%A6%A7",
+        "note": "専門Wikiの龍歴院欄。対象クエスト集合・ニャンターと追加分の範囲は未確定。自動取得判定はしません。"
+      },
+      "checkedAt": "2026-10-16",
+      "sourceUrl": "https://mhx-wiki.com/?%E5%8B%B2%E7%AB%A0%E4%B8%80%E8%A6%A7",
+      "observedCondition": "闘技大会のクエストを全てAランク以上でクリア",
+      "observationStatus": "specialist_rechecked",
+      "mhxOrMhxxScope": "出典の龍歴院／龍識船欄。厳密な対象集合は未確認",
+      "gradeRequirement": "all_A_or_better",
+      "prowlerInclusion": "not_independently_confirmed",
+      "challengeInclusion": "not_independently_confirmed",
+      "recipientNpc": "unconfirmed",
+      "newJudgment": "記載条件を再確認。対象ID集合・受取操作を確定できる新根拠は未取得のため既存表示と自動判定なしを維持。",
+      "evidenceHash": "7fb756690247ff88f5942be5706a06cb45b834c2194a29cd7939c171a23bc5fc"
+    },
+    {
+      "label": "金陽の盾",
+      "previousJudgment": {
+        "label": "金陽の盾",
+        "condition": "闘技大会のクエストを全てSランクでクリア",
+        "sourceUrl": "https://mhx-wiki.com/?%E5%8B%B2%E7%AB%A0%E4%B8%80%E8%A6%A7",
+        "note": "専門Wikiの龍歴院欄。対象クエスト集合・ニャンターと追加分の範囲は未確定。自動取得判定はしません。"
+      },
+      "checkedAt": "2026-10-16",
+      "sourceUrl": "https://mhx-wiki.com/?%E5%8B%B2%E7%AB%A0%E4%B8%80%E8%A6%A7",
+      "observedCondition": "闘技大会のクエストを全てSランクでクリア",
+      "observationStatus": "specialist_rechecked",
+      "mhxOrMhxxScope": "出典の龍歴院／龍識船欄。厳密な対象集合は未確認",
+      "gradeRequirement": "all_S",
+      "prowlerInclusion": "not_independently_confirmed",
+      "challengeInclusion": "not_independently_confirmed",
+      "recipientNpc": "unconfirmed",
+      "newJudgment": "記載条件を再確認。対象ID集合・受取操作を確定できる新根拠は未取得のため既存表示と自動判定なしを維持。",
+      "evidenceHash": "7fb756690247ff88f5942be5706a06cb45b834c2194a29cd7939c171a23bc5fc"
+    },
+    {
+      "label": "紅玉の盾",
+      "previousJudgment": {
+        "label": "紅玉の盾",
+        "condition": "闘技大会のすべてのクエストでAランク以上",
+        "sourceUrl": "https://mhx-wiki.com/?%E5%8B%B2%E7%AB%A0%E4%B8%80%E8%A6%A7",
+        "note": "専門Wikiの龍識船欄。対象クエスト集合・ニャンターと追加分の範囲は未確定。自動取得判定はしません。"
+      },
+      "checkedAt": "2026-10-16",
+      "sourceUrl": "https://mhx-wiki.com/?%E5%8B%B2%E7%AB%A0%E4%B8%80%E8%A6%A7",
+      "observedCondition": "闘技大会のすべてのクエストでＡランク以上を取った証。「勇気」ある者のみが勝利を呼び込む。",
+      "observationStatus": "specialist_rechecked",
+      "mhxOrMhxxScope": "出典の龍歴院／龍識船欄。厳密な対象集合は未確認",
+      "gradeRequirement": "all_A_or_better",
+      "prowlerInclusion": "not_independently_confirmed",
+      "challengeInclusion": "not_independently_confirmed",
+      "recipientNpc": "unconfirmed",
+      "newJudgment": "記載条件を再確認。対象ID集合・受取操作を確定できる新根拠は未取得のため既存表示と自動判定なしを維持。",
+      "evidenceHash": "7fb756690247ff88f5942be5706a06cb45b834c2194a29cd7939c171a23bc5fc"
+    },
+    {
+      "label": "白金の盾",
+      "previousJudgment": {
+        "label": "白金の盾",
+        "condition": "闘技大会のすべてのクエストでSランク",
+        "sourceUrl": "https://mhx-wiki.com/?%E5%8B%B2%E7%AB%A0%E4%B8%80%E8%A6%A7",
+        "note": "専門Wikiの龍識船欄。対象クエスト集合・ニャンターと追加分の範囲は未確定。自動取得判定はしません。"
+      },
+      "checkedAt": "2026-10-16",
+      "sourceUrl": "https://mhx-wiki.com/?%E5%8B%B2%E7%AB%A0%E4%B8%80%E8%A6%A7",
+      "observedCondition": "闘技大会のすべてのクエストでＳランクを取った証。最後に頼れるのは己の「経験」のみ。",
+      "observationStatus": "specialist_rechecked",
+      "mhxOrMhxxScope": "出典の龍歴院／龍識船欄。厳密な対象集合は未確認",
+      "gradeRequirement": "all_S",
+      "prowlerInclusion": "not_independently_confirmed",
+      "challengeInclusion": "not_independently_confirmed",
+      "recipientNpc": "unconfirmed",
+      "newJudgment": "記載条件を再確認。対象ID集合・受取操作を確定できる新根拠は未取得のため既存表示と自動判定なしを維持。",
+      "evidenceHash": "7fb756690247ff88f5942be5706a06cb45b834c2194a29cd7939c171a23bc5fc"
+    }
+  ],
+  "decision": "通常の全クリア・全A・全Sを区別。対象集合と受取操作を推測せず、個別クエストのunlocksへ複製しない。TAサイト等の新規資料は接続拒否のため未確認。"
+}
