@@ -74,3 +74,55 @@ it("G3 entry uses all six G2 keys and keeps the prowler alternatives separate",(
   expect(evaluate(prowler.condition,{schemaVersion:1,completedQuestIds:[urgent.id,prior.id],hr:9})).toBe('met');
  }
 });
+
+it("G4 entrance and final urgent use distinct, closed key collections and HR gates",()=>{
+ const named=(name:string)=>quests.find(q=>q.category==='g_rank'&&q.name===name)!;
+ const entrance=named('天を貫く凶星'),final=named('蠢く墟城');
+ for(const [quest,rank,hr] of [[entrance,'G3',9],[final,'G4',12]] as const){
+  const keys=quests.filter(q=>q.category==='g_rank'&&q.rank===rank&&q.tags.includes('key')).map(q=>q.id);
+  expect(keys).toHaveLength(6);
+  const ids=[...keys,...(quest===final?[entrance.id]:[])];
+  expect(evaluate(quest.condition,{schemaVersion:1,completedQuestIds:ids,hr})).toBe('met');
+  for(const id of keys)expect(evaluate(quest.condition,{schemaVersion:1,completedQuestIds:ids.filter(x=>x!==id),hr})).toBe('unmet');
+  expect(evaluate(quest.condition,{schemaVersion:1,completedQuestIds:ids,hr:hr-1})).toBe('unmet');
+ }
+ const firstKeys=quests.filter(q=>q.category==='g_rank'&&q.rank==='G4'&&q.tags.includes('key')).slice(0,4);
+ expect(references(named('斬鉄の剣、不壊の鎧').condition)).toEqual(expect.arrayContaining(firstKeys.map(q=>q.id)));
+ expect(references(named('斬鉄の剣、不壊の鎧').condition)).not.toContain(final.id);
+});
+it("resolves the HR-cap quest without erasing independent delivery and unknown target conditions",()=>{
+ const all=quests.map(q=>q.id),cap='g-rank-4-recipe-294013';
+ for(const c of connections.changes){
+  const q=quests.find(q=>q.id===c.questId)!;
+  expect(q.condition).toEqual(c.after);
+  expect(c.sourceUrls.length).toBeGreaterThan(0);
+  for(const id of references(q.condition))expect(dependents(id,quests)).toContain(q);
+ }
+ const snow=quests.find(q=>q.name==='高難度：雪山に佇む轟竜')!;
+ expect(references(snow.condition)).toContain(cap);
+ expect(evaluate(snow.condition,{schemaVersion:1,completedQuestIds:all,hr:999})).toBe('met');
+ expect(evaluate(snow.condition,{schemaVersion:1,completedQuestIds:all.filter(id=>id!==cap),hr:999})).toBe('unmet');
+ const delivery=quests.find(q=>q.name==='高難度：喧嘩の仲裁は村を救う')!;
+ expect(JSON.stringify(delivery.condition)).toContain('ユクモの木');
+ expect(evaluate(delivery.condition,{schemaVersion:1,completedQuestIds:all,hr:999})).toBe('unknown');
+ const six=quests.find(q=>q.category==='g_rank'&&q.name==='戦慄の遺群嶺')!;
+ expect(JSON.stringify(six.condition)).toContain('6つ以上');
+ expect(evaluate(six.condition,{schemaVersion:1,completedQuestIds:all,hr:999})).toBe('unknown');
+});
+it("has unique source URLs and sourced, exact primary predecessor/backlink references",()=>{
+ expect(new Set(quests.map(q=>q.sources[0].url)).size).toBe(quests.length);
+ const owners=new Map<string,string>();
+ for(const rank of audit.ranks)for(const row of rank.entries){
+  const own=row.observations.find(p=>p.title==='依頼')?.links[0]?.url;
+  if(own)owners.set(own,row.recipeUrl);
+ }
+ for(const rank of audit.ranks)for(const row of rank.entries){
+  const q=quests.find(q=>q.sources[0].url===row.recipeUrl)!;
+  for(const p of row.observations)for(const a of p.links){
+   const other=quests.find(q=>q.sources[0].url===a.url||q.sources[0].url===owners.get(a.url));
+   if(!other||q===other)continue;
+   if(p.title==='備考'||p.title==='依頼')expect(references(q.condition)).toContain(other.id);
+   if(p.title==='他のクエスト発生に必要')expect(dependents(q.id,quests)).toContain(other);
+  }
+ }
+});

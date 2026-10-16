@@ -1587,8 +1587,8 @@
           "questId": "village-6-recipe-238213"
         },
         {
-          "kind": "external_flag",
-          "label": "HR上限の解放（ゲーム内の進行状態）"
+          "kind": "quest_cleared",
+          "questId": "g-rank-4-recipe-294013"
         }
       ]
     },
@@ -1623,6 +1623,12 @@
       {
         "site": "MHXX攻略レシピ（ランク一覧）",
         "url": "http://wiki.mhxg.org/data/2020.html",
+        "kind": "list",
+        "checkedAt": "2026-10-16"
+      },
+      {
+        "site": "MHXX攻略Wiki（G4・HR上限解放）",
+        "url": "https://mhx-wiki.com/?cmd=read&page=G4&word=HR%E4%B8%8A%E9%99%90",
         "kind": "list",
         "checkedAt": "2026-10-16"
       }
@@ -1720,8 +1726,8 @@
           "questId": "village-10-recipe-298984"
         },
         {
-          "kind": "external_flag",
-          "label": "HR上限の解放（ゲーム内の進行状態）"
+          "kind": "quest_cleared",
+          "questId": "g-rank-4-recipe-294013"
         }
       ]
     },
@@ -1737,6 +1743,12 @@
       {
         "site": "MHXX攻略レシピ（ランク一覧）",
         "url": "http://wiki.mhxg.org/data/2020.html",
+        "kind": "list",
+        "checkedAt": "2026-10-16"
+      },
+      {
+        "site": "MHXX攻略Wiki（G4・HR上限解放）",
+        "url": "https://mhx-wiki.com/?cmd=read&page=G4&word=HR%E4%B8%8A%E9%99%90",
         "kind": "list",
         "checkedAt": "2026-10-16"
       }
@@ -1763,8 +1775,8 @@
           "questId": "village-10-recipe-298984"
         },
         {
-          "kind": "external_flag",
-          "label": "HR上限の解放（ゲーム内の進行状態）"
+          "kind": "quest_cleared",
+          "questId": "g-rank-4-recipe-294013"
         }
       ]
     },
@@ -1780,6 +1792,12 @@
       {
         "site": "MHXX攻略レシピ（ランク一覧）",
         "url": "http://wiki.mhxg.org/data/2020.html",
+        "kind": "list",
+        "checkedAt": "2026-10-16"
+      },
+      {
+        "site": "MHXX攻略Wiki（G4・HR上限解放）",
+        "url": "https://mhx-wiki.com/?cmd=read&page=G4&word=HR%E4%B8%8A%E9%99%90",
         "kind": "list",
         "checkedAt": "2026-10-16"
       }
@@ -1978,8 +1996,8 @@
           "questId": "village-10-recipe-298984"
         },
         {
-          "kind": "external_flag",
-          "label": "HR上限の解放（ゲーム内の進行状態）"
+          "kind": "quest_cleared",
+          "questId": "g-rank-4-recipe-294013"
         }
       ]
     },
@@ -2020,6 +2038,12 @@
         "url": "http://wiki.mhxg.org/data/2020.html",
         "kind": "list",
         "checkedAt": "2026-10-16"
+      },
+      {
+        "site": "MHXX攻略Wiki（G4・HR上限解放）",
+        "url": "https://mhx-wiki.com/?cmd=read&page=G4&word=HR%E4%B8%8A%E9%99%90",
+        "kind": "list",
+        "checkedAt": "2026-10-16"
       }
     ],
     "verification": "partial",
@@ -2044,8 +2068,8 @@
           "questId": "village-10-recipe-298984"
         },
         {
-          "kind": "external_flag",
-          "label": "HR上限の解放（ゲーム内の進行状態）"
+          "kind": "quest_cleared",
+          "questId": "g-rank-4-recipe-294013"
         },
         {
           "kind": "quest_cleared",
@@ -2104,6 +2128,12 @@
         "site": "MHXX攻略レシピ（前提依頼）",
         "url": "http://wiki.mhxg.org/ida/243442.html",
         "kind": "detail",
+        "checkedAt": "2026-10-16"
+      },
+      {
+        "site": "MHXX攻略Wiki（G4・HR上限解放）",
+        "url": "https://mhx-wiki.com/?cmd=read&page=G4&word=HR%E4%B8%8A%E9%99%90",
+        "kind": "list",
         "checkedAt": "2026-10-16"
       }
     ],

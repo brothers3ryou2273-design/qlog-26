@@ -1067,8 +1067,8 @@
           "questId": "village-6-recipe-220240"
         },
         {
-          "kind": "external_flag",
-          "label": "HR上限の解放（ゲーム内の進行状態）"
+          "kind": "quest_cleared",
+          "questId": "g-rank-4-recipe-294013"
         },
         {
           "kind": "unknown",
@@ -1092,6 +1092,12 @@
         "url": "http://wiki.mhxg.org/data/2016.html",
         "kind": "list",
         "checkedAt": "2026-10-15"
+      },
+      {
+        "site": "MHXX攻略Wiki（G4・HR上限解放）",
+        "url": "https://mhx-wiki.com/?cmd=read&page=G4&word=HR%E4%B8%8A%E9%99%90",
+        "kind": "list",
+        "checkedAt": "2026-10-16"
       }
     ],
     "verification": "partial",

@@ -4793,6 +4793,3074 @@
           ]
         }
       ]
+    },
+    {
+      "rank": "4",
+      "recipeListUrl": "http://wiki.mhxg.org/data/2031.html",
+      "observedCount": 86,
+      "entries": [
+        {
+          "name": "天を貫く凶星",
+          "recipeUrl": "http://wiki.mhxg.org/ida/288295.html",
+          "detailTitle": "G★4天を貫く凶星 | 【MHXX】モンハンダブルクロス攻略レシピ",
+          "icons": [
+            "討伐",
+            "緊急"
+          ],
+          "role": "hunter",
+          "tags": [
+            "urgent"
+          ],
+          "observations": [
+            {
+              "title": "備考",
+              "text": "G★3のキークエスト全てクリア後",
+              "links": []
+            }
+          ]
+        },
+        {
+          "name": "天彗龍流狩人道場",
+          "recipeUrl": "http://wiki.mhxg.org/ida/299058.html",
+          "detailTitle": "G★4天彗龍流狩人道場 | 【MHXX】モンハンダブルクロス攻略レシピ",
+          "icons": [
+            "討伐"
+          ],
+          "role": "hunter",
+          "tags": [
+            "normal"
+          ],
+          "observations": [
+            {
+              "title": "備考",
+              "text": "ランダム出現",
+              "links": []
+            }
+          ]
+        },
+        {
+          "name": "スーパーソニック",
+          "recipeUrl": "http://wiki.mhxg.org/ida/299059.html",
+          "detailTitle": "G★4スーパーソニック | 【MHXX】モンハンダブルクロス攻略レシピ",
+          "icons": [
+            "討伐"
+          ],
+          "role": "hunter",
+          "tags": [
+            "normal"
+          ],
+          "observations": [
+            {
+              "title": "備考",
+              "text": "ランダム出現",
+              "links": []
+            }
+          ]
+        },
+        {
+          "name": "天彗龍に目が眩む",
+          "recipeUrl": "http://wiki.mhxg.org/ida/299060.html",
+          "detailTitle": "G★4天彗龍に目が眩む | 【MHXX】モンハンダブルクロス攻略レシピ",
+          "icons": [
+            "討伐"
+          ],
+          "role": "hunter",
+          "tags": [
+            "normal"
+          ],
+          "observations": [
+            {
+              "title": "備考",
+              "text": "ランダム出現",
+              "links": []
+            }
+          ]
+        },
+        {
+          "name": "千刃は刀よりも鋭く",
+          "recipeUrl": "http://wiki.mhxg.org/ida/299061.html",
+          "detailTitle": "G★4千刃は刀よりも鋭く | 【MHXX】モンハンダブルクロス攻略レシピ",
+          "icons": [
+            "討伐",
+            "フラグ"
+          ],
+          "role": "hunter",
+          "tags": [
+            "normal"
+          ],
+          "observations": [
+            {
+              "title": "他のクエスト発生に必要",
+              "text": "G★4所により獰猛なセルレギオス",
+              "links": [
+                {
+                  "label": "G★4所により獰猛なセルレギオス",
+                  "url": "http://wiki.mhxg.org/ida/299092.html"
+                }
+              ]
+            },
+            {
+              "title": "他の依頼発生に必要",
+              "text": "依頼★大老殿の大臣の依頼",
+              "links": [
+                {
+                  "label": "依頼★大老殿の大臣の依頼",
+                  "url": "http://wiki.mhxg.org/ida/321963.html"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "砂上に見ゆるは猛き双角",
+          "recipeUrl": "http://wiki.mhxg.org/ida/294007.html",
+          "detailTitle": "G★4砂上に見ゆるは猛き双角 | 【MHXX】モンハンダブルクロス攻略レシピ",
+          "icons": [
+            "狩猟",
+            "キー",
+            "フラグ"
+          ],
+          "role": "hunter",
+          "tags": [
+            "key"
+          ],
+          "observations": [
+            {
+              "title": "他のクエスト発生に必要",
+              "text": "G★4斬鉄の剣、不壊の鎧 G★4天を廻りしその果てに… G★4戈と槌は相容れず G★4古代林の陰謀 G★4森丘からの伝書 G★4砂漠の死闘と挑戦",
+              "links": [
+                {
+                  "label": "G★4斬鉄の剣、不壊の鎧",
+                  "url": "http://wiki.mhxg.org/ida/294011.html"
+                },
+                {
+                  "label": "G★4天を廻りしその果てに…",
+                  "url": "http://wiki.mhxg.org/ida/299071.html"
+                },
+                {
+                  "label": "G★4戈と槌は相容れず",
+                  "url": "http://wiki.mhxg.org/ida/294012.html"
+                },
+                {
+                  "label": "G★4古代林の陰謀",
+                  "url": "http://wiki.mhxg.org/ida/299073.html"
+                },
+                {
+                  "label": "G★4森丘からの伝書",
+                  "url": "http://wiki.mhxg.org/ida/299074.html"
+                },
+                {
+                  "label": "G★4砂漠の死闘と挑戦",
+                  "url": "http://wiki.mhxg.org/ida/299079.html"
+                }
+              ]
+            },
+            {
+              "title": "他の依頼発生に必要",
+              "text": "依頼★タンジアの大会担当の依頼 依頼★バルバレの仕切り役の依頼3",
+              "links": [
+                {
+                  "label": "依頼★タンジアの大会担当の依頼",
+                  "url": "http://wiki.mhxg.org/ida/313292.html"
+                },
+                {
+                  "label": "依頼★バルバレの仕切り役の依頼3",
+                  "url": "http://wiki.mhxg.org/ida/313301.html"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "イビルジョーの狩猟",
+          "recipeUrl": "http://wiki.mhxg.org/ida/294008.html",
+          "detailTitle": "G★4イビルジョーの狩猟 | 【MHXX】モンハンダブルクロス攻略レシピ",
+          "icons": [
+            "狩猟",
+            "キー",
+            "フラグ"
+          ],
+          "role": "hunter",
+          "tags": [
+            "key"
+          ],
+          "observations": [
+            {
+              "title": "他のクエスト発生に必要",
+              "text": "G★4斬鉄の剣、不壊の鎧 G★4天を廻りしその果てに… G★4戈と槌は相容れず G★4古代林の陰謀 G★4森丘からの伝書 G★4遺群嶺での攻防",
+              "links": [
+                {
+                  "label": "G★4斬鉄の剣、不壊の鎧",
+                  "url": "http://wiki.mhxg.org/ida/294011.html"
+                },
+                {
+                  "label": "G★4天を廻りしその果てに…",
+                  "url": "http://wiki.mhxg.org/ida/299071.html"
+                },
+                {
+                  "label": "G★4戈と槌は相容れず",
+                  "url": "http://wiki.mhxg.org/ida/294012.html"
+                },
+                {
+                  "label": "G★4古代林の陰謀",
+                  "url": "http://wiki.mhxg.org/ida/299073.html"
+                },
+                {
+                  "label": "G★4森丘からの伝書",
+                  "url": "http://wiki.mhxg.org/ida/299074.html"
+                },
+                {
+                  "label": "G★4遺群嶺での攻防",
+                  "url": "http://wiki.mhxg.org/ida/299077.html"
+                }
+              ]
+            },
+            {
+              "title": "他の依頼発生に必要",
+              "text": "依頼★タンジアの大会担当の依頼 依頼★バルバレの仕切り役の依頼3",
+              "links": [
+                {
+                  "label": "依頼★タンジアの大会担当の依頼",
+                  "url": "http://wiki.mhxg.org/ida/313292.html"
+                },
+                {
+                  "label": "依頼★バルバレの仕切り役の依頼3",
+                  "url": "http://wiki.mhxg.org/ida/313301.html"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "金色に染まる",
+          "recipeUrl": "http://wiki.mhxg.org/ida/299062.html",
+          "detailTitle": "G★4金色に染まる | 【MHXX】モンハンダブルクロス攻略レシピ",
+          "icons": [
+            "狩猟",
+            "フラグ"
+          ],
+          "role": "hunter",
+          "tags": [
+            "normal"
+          ],
+          "observations": [
+            {
+              "title": "他のクエスト発生に必要",
+              "text": "G★4我怒る、ゆえに我在り",
+              "links": [
+                {
+                  "label": "G★4我怒る、ゆえに我在り",
+                  "url": "http://wiki.mhxg.org/ida/299080.html"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "轟竜の軌跡を追いかけて",
+          "recipeUrl": "http://wiki.mhxg.org/ida/294009.html",
+          "detailTitle": "G★4轟竜の軌跡を追いかけて | 【MHXX】モンハンダブルクロス攻略レシピ",
+          "icons": [
+            "狩猟",
+            "キー",
+            "フラグ"
+          ],
+          "role": "hunter",
+          "tags": [
+            "key"
+          ],
+          "observations": [
+            {
+              "title": "他のクエスト発生に必要",
+              "text": "G★4斬鉄の剣、不壊の鎧 G★4天を廻りしその果てに… G★4戈と槌は相容れず G★4古代林の陰謀 G★4森丘からの伝書 G★4轟々たる罠 【特殊許可】荒鉤爪捕獲依頼G1",
+              "links": [
+                {
+                  "label": "G★4斬鉄の剣、不壊の鎧",
+                  "url": "http://wiki.mhxg.org/ida/294011.html"
+                },
+                {
+                  "label": "G★4天を廻りしその果てに…",
+                  "url": "http://wiki.mhxg.org/ida/299071.html"
+                },
+                {
+                  "label": "G★4戈と槌は相容れず",
+                  "url": "http://wiki.mhxg.org/ida/294012.html"
+                },
+                {
+                  "label": "G★4古代林の陰謀",
+                  "url": "http://wiki.mhxg.org/ida/299073.html"
+                },
+                {
+                  "label": "G★4森丘からの伝書",
+                  "url": "http://wiki.mhxg.org/ida/299074.html"
+                },
+                {
+                  "label": "G★4轟々たる罠",
+                  "url": "http://wiki.mhxg.org/ida/299093.html"
+                },
+                {
+                  "label": "【特殊許可】荒鉤爪捕獲依頼G1",
+                  "url": "http://wiki.mhxg.org/ida/309871.html"
+                }
+              ]
+            },
+            {
+              "title": "他の依頼発生に必要",
+              "text": "依頼★タンジアの大会担当の依頼 依頼★バルバレの仕切り役の依頼3",
+              "links": [
+                {
+                  "label": "依頼★タンジアの大会担当の依頼",
+                  "url": "http://wiki.mhxg.org/ida/313292.html"
+                },
+                {
+                  "label": "依頼★バルバレの仕切り役の依頼3",
+                  "url": "http://wiki.mhxg.org/ida/313301.html"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "氷海を爆走、暴走轟竜！",
+          "recipeUrl": "http://wiki.mhxg.org/ida/299063.html",
+          "detailTitle": "G★4氷海を爆走、暴走轟竜！ | 【MHXX】モンハンダブルクロス攻略レシピ",
+          "icons": [
+            "狩猟",
+            "フラグ"
+          ],
+          "role": "hunter",
+          "tags": [
+            "normal"
+          ],
+          "observations": [
+            {
+              "title": "他のクエスト発生に必要",
+              "text": "G★4轟々たる罠 【特殊許可】荒鉤爪捕獲依頼G1",
+              "links": [
+                {
+                  "label": "G★4轟々たる罠",
+                  "url": "http://wiki.mhxg.org/ida/299093.html"
+                },
+                {
+                  "label": "【特殊許可】荒鉤爪捕獲依頼G1",
+                  "url": "http://wiki.mhxg.org/ida/309871.html"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "この先、千刃竜以外立入禁止",
+          "recipeUrl": "http://wiki.mhxg.org/ida/299064.html",
+          "detailTitle": "G★4この先、千刃竜以外立入禁止 | 【MHXX】モンハンダブルクロス攻略レシピ",
+          "icons": [
+            "狩猟",
+            "フラグ"
+          ],
+          "role": "hunter",
+          "tags": [
+            "normal"
+          ],
+          "observations": [
+            {
+              "title": "他のクエスト発生に必要",
+              "text": "G★4所により獰猛なセルレギオス",
+              "links": [
+                {
+                  "label": "G★4所により獰猛なセルレギオス",
+                  "url": "http://wiki.mhxg.org/ida/299092.html"
+                }
+              ]
+            },
+            {
+              "title": "他の依頼発生に必要",
+              "text": "依頼★大老殿の大臣の依頼",
+              "links": [
+                {
+                  "label": "依頼★大老殿の大臣の依頼",
+                  "url": "http://wiki.mhxg.org/ida/321963.html"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "光る粘菌のナゾを追え",
+          "recipeUrl": "http://wiki.mhxg.org/ida/299065.html",
+          "detailTitle": "G★4光る粘菌のナゾを追え | 【MHXX】モンハンダブルクロス攻略レシピ",
+          "icons": [
+            "捕獲",
+            "フラグ"
+          ],
+          "role": "hunter",
+          "tags": [
+            "normal"
+          ],
+          "observations": [
+            {
+              "title": "他のクエスト発生に必要",
+              "text": "G★4獰猛な砕竜は、孤島で何を思う",
+              "links": [
+                {
+                  "label": "G★4獰猛な砕竜は、孤島で何を思う",
+                  "url": "http://wiki.mhxg.org/ida/299095.html"
+                }
+              ]
+            },
+            {
+              "title": "他の依頼発生に必要",
+              "text": "依頼★モガの村の村長の依頼2",
+              "links": [
+                {
+                  "label": "依頼★モガの村の村長の依頼2",
+                  "url": "http://wiki.mhxg.org/ida/321970.html"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "角竜怒涛",
+          "recipeUrl": "http://wiki.mhxg.org/ida/299066.html",
+          "detailTitle": "G★4角竜怒涛 | 【MHXX】モンハンダブルクロス攻略レシピ",
+          "icons": [
+            "捕獲",
+            "フラグ"
+          ],
+          "role": "hunter",
+          "tags": [
+            "normal"
+          ],
+          "observations": [
+            {
+              "title": "他のクエスト発生に必要",
+              "text": "G★4砂漠の死闘と挑戦",
+              "links": [
+                {
+                  "label": "G★4砂漠の死闘と挑戦",
+                  "url": "http://wiki.mhxg.org/ida/299079.html"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "雪山からの救援要請",
+          "recipeUrl": "http://wiki.mhxg.org/ida/294010.html",
+          "detailTitle": "G★4雪山からの救援要請 | 【MHXX】モンハンダブルクロス攻略レシピ",
+          "icons": [
+            "狩猟",
+            "キー",
+            "フラグ"
+          ],
+          "role": "hunter",
+          "tags": [
+            "key"
+          ],
+          "observations": [
+            {
+              "title": "他のクエスト発生に必要",
+              "text": "G★4斬鉄の剣、不壊の鎧 G★4天を廻りしその果てに… G★4戈と槌は相容れず G★4古代林の陰謀 G★4森丘からの伝書 G★4我怒る、ゆえに我在り",
+              "links": [
+                {
+                  "label": "G★4斬鉄の剣、不壊の鎧",
+                  "url": "http://wiki.mhxg.org/ida/294011.html"
+                },
+                {
+                  "label": "G★4天を廻りしその果てに…",
+                  "url": "http://wiki.mhxg.org/ida/299071.html"
+                },
+                {
+                  "label": "G★4戈と槌は相容れず",
+                  "url": "http://wiki.mhxg.org/ida/294012.html"
+                },
+                {
+                  "label": "G★4古代林の陰謀",
+                  "url": "http://wiki.mhxg.org/ida/299073.html"
+                },
+                {
+                  "label": "G★4森丘からの伝書",
+                  "url": "http://wiki.mhxg.org/ida/299074.html"
+                },
+                {
+                  "label": "G★4我怒る、ゆえに我在り",
+                  "url": "http://wiki.mhxg.org/ida/299080.html"
+                }
+              ]
+            },
+            {
+              "title": "他の依頼発生に必要",
+              "text": "依頼★タンジアの大会担当の依頼 依頼★バルバレの仕切り役の依頼3",
+              "links": [
+                {
+                  "label": "依頼★タンジアの大会担当の依頼",
+                  "url": "http://wiki.mhxg.org/ida/313292.html"
+                },
+                {
+                  "label": "依頼★バルバレの仕切り役の依頼3",
+                  "url": "http://wiki.mhxg.org/ida/313301.html"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "小山も陽気に誘われて",
+          "recipeUrl": "http://wiki.mhxg.org/ida/299067.html",
+          "detailTitle": "G★4小山も陽気に誘われて | 【MHXX】モンハンダブルクロス攻略レシピ",
+          "icons": [
+            "狩猟",
+            "フラグ"
+          ],
+          "role": "hunter",
+          "tags": [
+            "normal"
+          ],
+          "observations": [
+            {
+              "title": "他のクエスト発生に必要",
+              "text": "G★4領主の懇願～尾槌竜篇～",
+              "links": [
+                {
+                  "label": "G★4領主の懇願～尾槌竜篇～",
+                  "url": "http://wiki.mhxg.org/ida/299083.html"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "暴飲暴食ご用心",
+          "recipeUrl": "http://wiki.mhxg.org/ida/299068.html",
+          "detailTitle": "G★4暴飲暴食ご用心 | 【MHXX】モンハンダブルクロス攻略レシピ",
+          "icons": [
+            "狩猟",
+            "フラグ"
+          ],
+          "role": "hunter",
+          "tags": [
+            "normal"
+          ],
+          "observations": [
+            {
+              "title": "他のクエスト発生に必要",
+              "text": "G★4遺群嶺での攻防",
+              "links": [
+                {
+                  "label": "G★4遺群嶺での攻防",
+                  "url": "http://wiki.mhxg.org/ida/299077.html"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "マグマまといし竜",
+          "recipeUrl": "http://wiki.mhxg.org/ida/299069.html",
+          "detailTitle": "G★4マグマまといし竜 | 【MHXX】モンハンダブルクロス攻略レシピ",
+          "icons": [
+            "狩猟",
+            "フラグ"
+          ],
+          "role": "hunter",
+          "tags": [
+            "normal"
+          ],
+          "observations": [
+            {
+              "title": "他のクエスト発生に必要",
+              "text": "G★4炎戈竜は地底で吠える",
+              "links": [
+                {
+                  "label": "G★4炎戈竜は地底で吠える",
+                  "url": "http://wiki.mhxg.org/ida/299090.html"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "火山の脅威・ブラキディオス",
+          "recipeUrl": "http://wiki.mhxg.org/ida/299070.html",
+          "detailTitle": "G★4火山の脅威・ブラキディオス | 【MHXX】モンハンダブルクロス攻略レシピ",
+          "icons": [
+            "狩猟",
+            "フラグ"
+          ],
+          "role": "hunter",
+          "tags": [
+            "normal"
+          ],
+          "observations": [
+            {
+              "title": "他のクエスト発生に必要",
+              "text": "G★4獰猛な砕竜は、孤島で何を思う",
+              "links": [
+                {
+                  "label": "G★4獰猛な砕竜は、孤島で何を思う",
+                  "url": "http://wiki.mhxg.org/ida/299095.html"
+                }
+              ]
+            },
+            {
+              "title": "他の依頼発生に必要",
+              "text": "依頼★モガの村の村長の依頼2",
+              "links": [
+                {
+                  "label": "依頼★モガの村の村長の依頼2",
+                  "url": "http://wiki.mhxg.org/ida/321970.html"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "斬鉄の剣、不壊の鎧",
+          "recipeUrl": "http://wiki.mhxg.org/ida/294011.html",
+          "detailTitle": "G★4斬鉄の剣、不壊の鎧 | 【MHXX】モンハンダブルクロス攻略レシピ",
+          "icons": [
+            "狩猟",
+            "キー",
+            "フラグ"
+          ],
+          "role": "hunter",
+          "tags": [
+            "key"
+          ],
+          "observations": [
+            {
+              "title": "備考",
+              "text": "G★4砂上に見ゆるは猛き双角G★4イビルジョーの狩猟G★4轟竜の軌跡を追いかけてG★4雪山からの救援要請 クリア後",
+              "links": [
+                {
+                  "label": "G★4砂上に見ゆるは猛き双角",
+                  "url": "http://wiki.mhxg.org/ida/294007.html"
+                },
+                {
+                  "label": "G★4イビルジョーの狩猟",
+                  "url": "http://wiki.mhxg.org/ida/294008.html"
+                },
+                {
+                  "label": "G★4轟竜の軌跡を追いかけて",
+                  "url": "http://wiki.mhxg.org/ida/294009.html"
+                },
+                {
+                  "label": "G★4雪山からの救援要請",
+                  "url": "http://wiki.mhxg.org/ida/294010.html"
+                }
+              ]
+            },
+            {
+              "title": "他のクエスト発生に必要",
+              "text": "【特殊許可】燼滅刃捕獲依頼G1",
+              "links": [
+                {
+                  "label": "【特殊許可】燼滅刃捕獲依頼G1",
+                  "url": "http://wiki.mhxg.org/ida/309877.html"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "天を廻りしその果てに…",
+          "recipeUrl": "http://wiki.mhxg.org/ida/299071.html",
+          "detailTitle": "G★4天を廻りしその果てに… | 【MHXX】モンハンダブルクロス攻略レシピ",
+          "icons": [
+            "討伐"
+          ],
+          "role": "hunter",
+          "tags": [
+            "normal"
+          ],
+          "observations": [
+            {
+              "title": "備考",
+              "text": "G★4砂上に見ゆるは猛き双角G★4イビルジョーの狩猟G★4轟竜の軌跡を追いかけてG★4雪山からの救援要請 クリア後",
+              "links": [
+                {
+                  "label": "G★4砂上に見ゆるは猛き双角",
+                  "url": "http://wiki.mhxg.org/ida/294007.html"
+                },
+                {
+                  "label": "G★4イビルジョーの狩猟",
+                  "url": "http://wiki.mhxg.org/ida/294008.html"
+                },
+                {
+                  "label": "G★4轟竜の軌跡を追いかけて",
+                  "url": "http://wiki.mhxg.org/ida/294009.html"
+                },
+                {
+                  "label": "G★4雪山からの救援要請",
+                  "url": "http://wiki.mhxg.org/ida/294010.html"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "戈と槌は相容れず",
+          "recipeUrl": "http://wiki.mhxg.org/ida/294012.html",
+          "detailTitle": "G★4戈と槌は相容れず | 【MHXX】モンハンダブルクロス攻略レシピ",
+          "icons": [
+            "狩猟",
+            "キー"
+          ],
+          "role": "hunter",
+          "tags": [
+            "key"
+          ],
+          "observations": [
+            {
+              "title": "備考",
+              "text": "G★4砂上に見ゆるは猛き双角G★4イビルジョーの狩猟G★4轟竜の軌跡を追いかけてG★4雪山からの救援要請 クリア後",
+              "links": [
+                {
+                  "label": "G★4砂上に見ゆるは猛き双角",
+                  "url": "http://wiki.mhxg.org/ida/294007.html"
+                },
+                {
+                  "label": "G★4イビルジョーの狩猟",
+                  "url": "http://wiki.mhxg.org/ida/294008.html"
+                },
+                {
+                  "label": "G★4轟竜の軌跡を追いかけて",
+                  "url": "http://wiki.mhxg.org/ida/294009.html"
+                },
+                {
+                  "label": "G★4雪山からの救援要請",
+                  "url": "http://wiki.mhxg.org/ida/294010.html"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "感動の生まれる瞬間",
+          "recipeUrl": "http://wiki.mhxg.org/ida/299072.html",
+          "detailTitle": "G★4感動の生まれる瞬間 | 【MHXX】モンハンダブルクロス攻略レシピ",
+          "icons": [
+            "狩猟",
+            "依頼",
+            "武具"
+          ],
+          "role": "hunter",
+          "tags": [
+            "request"
+          ],
+          "observations": [
+            {
+              "title": "依頼",
+              "text": "[受注] ベルナ村 タンジアの大会担当の依頼 [依頼出現条件] G★4砂上に見ゆるは猛き双角G★4イビルジョーの狩猟G★4轟竜の軌跡を追いかけてG★4雪山からの救援要請 クリア後 装備開放(製法) 夜叉/修羅シリーズ",
+              "links": [
+                {
+                  "label": "タンジアの大会担当の依頼",
+                  "url": "http://wiki.mhxg.org/ida/313292.html"
+                },
+                {
+                  "label": "G★4砂上に見ゆるは猛き双角",
+                  "url": "http://wiki.mhxg.org/ida/294007.html"
+                },
+                {
+                  "label": "G★4イビルジョーの狩猟",
+                  "url": "http://wiki.mhxg.org/ida/294008.html"
+                },
+                {
+                  "label": "G★4轟竜の軌跡を追いかけて",
+                  "url": "http://wiki.mhxg.org/ida/294009.html"
+                },
+                {
+                  "label": "G★4雪山からの救援要請",
+                  "url": "http://wiki.mhxg.org/ida/294010.html"
+                },
+                {
+                  "label": "夜叉/修羅シリーズ",
+                  "url": "http://wiki.mhxg.org/ida/293045.html"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "古代林の陰謀",
+          "recipeUrl": "http://wiki.mhxg.org/ida/299073.html",
+          "detailTitle": "G★4古代林の陰謀 | 【MHXX】モンハンダブルクロス攻略レシピ",
+          "icons": [
+            "連続狩猟"
+          ],
+          "role": "hunter",
+          "tags": [
+            "normal"
+          ],
+          "observations": [
+            {
+              "title": "備考",
+              "text": "G★4砂上に見ゆるは猛き双角G★4イビルジョーの狩猟G★4轟竜の軌跡を追いかけてG★4雪山からの救援要請 クリア後",
+              "links": [
+                {
+                  "label": "G★4砂上に見ゆるは猛き双角",
+                  "url": "http://wiki.mhxg.org/ida/294007.html"
+                },
+                {
+                  "label": "G★4イビルジョーの狩猟",
+                  "url": "http://wiki.mhxg.org/ida/294008.html"
+                },
+                {
+                  "label": "G★4轟竜の軌跡を追いかけて",
+                  "url": "http://wiki.mhxg.org/ida/294009.html"
+                },
+                {
+                  "label": "G★4雪山からの救援要請",
+                  "url": "http://wiki.mhxg.org/ida/294010.html"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "森丘からの伝書",
+          "recipeUrl": "http://wiki.mhxg.org/ida/299074.html",
+          "detailTitle": "G★4森丘からの伝書 | 【MHXX】モンハンダブルクロス攻略レシピ",
+          "icons": [
+            "連続狩猟"
+          ],
+          "role": "hunter",
+          "tags": [
+            "normal"
+          ],
+          "observations": [
+            {
+              "title": "備考",
+              "text": "G★4砂上に見ゆるは猛き双角G★4イビルジョーの狩猟G★4轟竜の軌跡を追いかけてG★4雪山からの救援要請 クリア後",
+              "links": [
+                {
+                  "label": "G★4砂上に見ゆるは猛き双角",
+                  "url": "http://wiki.mhxg.org/ida/294007.html"
+                },
+                {
+                  "label": "G★4イビルジョーの狩猟",
+                  "url": "http://wiki.mhxg.org/ida/294008.html"
+                },
+                {
+                  "label": "G★4轟竜の軌跡を追いかけて",
+                  "url": "http://wiki.mhxg.org/ida/294009.html"
+                },
+                {
+                  "label": "G★4雪山からの救援要請",
+                  "url": "http://wiki.mhxg.org/ida/294010.html"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "絆の証！孤島の大決戦",
+          "recipeUrl": "http://wiki.mhxg.org/ida/299075.html",
+          "detailTitle": "G★4絆の証！孤島の大決戦 | 【MHXX】モンハンダブルクロス攻略レシピ",
+          "icons": [
+            "連続狩猟",
+            "依頼",
+            "武具"
+          ],
+          "role": "hunter",
+          "tags": [
+            "request"
+          ],
+          "observations": [
+            {
+              "title": "依頼",
+              "text": "[受注] ココット村 バルバレの仕切り役の依頼3 [依頼出現条件] 依頼★バルバレの仕切り役の依頼2G★4砂上に見ゆるは猛き双角G★4イビルジョーの狩猟G★4轟竜の軌跡を追いかけてG★4雪山からの救援要請 クリア後 装備開放(製法) 忍・極天/忍・極地シリーズ",
+              "links": [
+                {
+                  "label": "バルバレの仕切り役の依頼3",
+                  "url": "http://wiki.mhxg.org/ida/313301.html"
+                },
+                {
+                  "label": "依頼★バルバレの仕切り役の依頼2",
+                  "url": "http://wiki.mhxg.org/ida/261124.html"
+                },
+                {
+                  "label": "G★4砂上に見ゆるは猛き双角",
+                  "url": "http://wiki.mhxg.org/ida/294007.html"
+                },
+                {
+                  "label": "G★4イビルジョーの狩猟",
+                  "url": "http://wiki.mhxg.org/ida/294008.html"
+                },
+                {
+                  "label": "G★4轟竜の軌跡を追いかけて",
+                  "url": "http://wiki.mhxg.org/ida/294009.html"
+                },
+                {
+                  "label": "G★4雪山からの救援要請",
+                  "url": "http://wiki.mhxg.org/ida/294010.html"
+                },
+                {
+                  "label": "忍・極天/忍・極地シリーズ",
+                  "url": "http://wiki.mhxg.org/ida/293044.html"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "鎧・砕・斬の包囲網を越えて",
+          "recipeUrl": "http://wiki.mhxg.org/ida/299076.html",
+          "detailTitle": "G★4鎧・砕・斬の包囲網を越えて | 【MHXX】モンハンダブルクロス攻略レシピ",
+          "icons": [
+            "連続狩猟",
+            "依頼",
+            "入手",
+            "武具"
+          ],
+          "role": "hunter",
+          "tags": [
+            "request"
+          ],
+          "observations": [
+            {
+              "title": "依頼",
+              "text": "[受注] ベルナ村 伝説の職人の依頼 [依頼出現条件] 依頼★工房のばあちゃんの依頼4 クリア後 入手 カイゼリンシリーズ 装備開放(製法) マスターＸシリーズ桐花・真/三葵・真シリーズ",
+              "links": [
+                {
+                  "label": "伝説の職人の依頼",
+                  "url": "http://wiki.mhxg.org/ida/321964.html"
+                },
+                {
+                  "label": "依頼★工房のばあちゃんの依頼4",
+                  "url": "http://wiki.mhxg.org/ida/321966.html"
+                },
+                {
+                  "label": "カイゼリンシリーズ",
+                  "url": "http://wiki.mhxg.org/ida/295676.html"
+                },
+                {
+                  "label": "マスターＸシリーズ",
+                  "url": "http://wiki.mhxg.org/ida/295683.html"
+                },
+                {
+                  "label": "桐花・真/三葵・真シリーズ",
+                  "url": "http://wiki.mhxg.org/ida/295689.html"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "蠢く墟城",
+          "recipeUrl": "http://wiki.mhxg.org/ida/294013.html",
+          "detailTitle": "G★4蠢く墟城 | 【MHXX】モンハンダブルクロス攻略レシピ",
+          "icons": [
+            "特殊",
+            "緊急",
+            "フラグ"
+          ],
+          "role": "hunter",
+          "tags": [
+            "urgent"
+          ],
+          "observations": [
+            {
+              "title": "備考",
+              "text": "G★4のキークエスト全てクリア後",
+              "links": []
+            },
+            {
+              "title": "他のクエスト発生に必要",
+              "text": "G★4遺群嶺での攻防 G★4無心にて森羅万象を断つ G★4砂漠の死闘と挑戦 G★4我怒る、ゆえに我在り G★4獰猛な海の王者は武器の素 G★4焦電 G★4領主の懇願～尾槌竜篇～ G★4先生の弱点は獰猛な重甲虫 G★4シャル・ウィ・ダンス？ G★4黒蝕竜は禍々しく猛る G★4騎士と氷海の決闘 G★4巨獣の進攻 G★4採掘場を取り戻せ！ G★4炎戈竜は地底で吠える G★4犯人は黒狼鳥 G★4所により獰猛なセルレギオス G★4轟々たる罠 G★4孤島で遭遇！獰猛な雷狼竜 G★4獰猛な砕竜は、孤島で何を思う G★4沼地の冒険 G★4火山のすばらしい岩 G★4モンスターニャンターＸＸ 【特殊許可】鏖魔狩猟依頼G1",
+              "links": [
+                {
+                  "label": "G★4遺群嶺での攻防",
+                  "url": "http://wiki.mhxg.org/ida/299077.html"
+                },
+                {
+                  "label": "G★4無心にて森羅万象を断つ",
+                  "url": "http://wiki.mhxg.org/ida/299078.html"
+                },
+                {
+                  "label": "G★4砂漠の死闘と挑戦",
+                  "url": "http://wiki.mhxg.org/ida/299079.html"
+                },
+                {
+                  "label": "G★4我怒る、ゆえに我在り",
+                  "url": "http://wiki.mhxg.org/ida/299080.html"
+                },
+                {
+                  "label": "G★4獰猛な海の王者は武器の素",
+                  "url": "http://wiki.mhxg.org/ida/299081.html"
+                },
+                {
+                  "label": "G★4焦電",
+                  "url": "http://wiki.mhxg.org/ida/299082.html"
+                },
+                {
+                  "label": "G★4領主の懇願～尾槌竜篇～",
+                  "url": "http://wiki.mhxg.org/ida/299083.html"
+                },
+                {
+                  "label": "G★4先生の弱点は獰猛な重甲虫",
+                  "url": "http://wiki.mhxg.org/ida/299084.html"
+                },
+                {
+                  "label": "G★4シャル・ウィ・ダンス？",
+                  "url": "http://wiki.mhxg.org/ida/299085.html"
+                },
+                {
+                  "label": "G★4黒蝕竜は禍々しく猛る",
+                  "url": "http://wiki.mhxg.org/ida/299086.html"
+                },
+                {
+                  "label": "G★4騎士と氷海の決闘",
+                  "url": "http://wiki.mhxg.org/ida/299087.html"
+                },
+                {
+                  "label": "G★4巨獣の進攻",
+                  "url": "http://wiki.mhxg.org/ida/299088.html"
+                },
+                {
+                  "label": "G★4採掘場を取り戻せ！",
+                  "url": "http://wiki.mhxg.org/ida/299089.html"
+                },
+                {
+                  "label": "G★4炎戈竜は地底で吠える",
+                  "url": "http://wiki.mhxg.org/ida/299090.html"
+                },
+                {
+                  "label": "G★4犯人は黒狼鳥",
+                  "url": "http://wiki.mhxg.org/ida/299091.html"
+                },
+                {
+                  "label": "G★4所により獰猛なセルレギオス",
+                  "url": "http://wiki.mhxg.org/ida/299092.html"
+                },
+                {
+                  "label": "G★4轟々たる罠",
+                  "url": "http://wiki.mhxg.org/ida/299093.html"
+                },
+                {
+                  "label": "G★4孤島で遭遇！獰猛な雷狼竜",
+                  "url": "http://wiki.mhxg.org/ida/299094.html"
+                },
+                {
+                  "label": "G★4獰猛な砕竜は、孤島で何を思う",
+                  "url": "http://wiki.mhxg.org/ida/299095.html"
+                },
+                {
+                  "label": "G★4沼地の冒険",
+                  "url": "http://wiki.mhxg.org/ida/299096.html"
+                },
+                {
+                  "label": "G★4火山のすばらしい岩",
+                  "url": "http://wiki.mhxg.org/ida/299097.html"
+                },
+                {
+                  "label": "G★4モンスターニャンターＸＸ",
+                  "url": "http://wiki.mhxg.org/ida/299135.html"
+                },
+                {
+                  "label": "【特殊許可】鏖魔狩猟依頼G1",
+                  "url": "http://wiki.mhxg.org/ida/299159.html"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "遺群嶺での攻防",
+          "recipeUrl": "http://wiki.mhxg.org/ida/299077.html",
+          "detailTitle": "G★4遺群嶺での攻防 | 【MHXX】モンハンダブルクロス攻略レシピ",
+          "icons": [
+            "狩猟"
+          ],
+          "role": "hunter",
+          "tags": [
+            "normal"
+          ],
+          "observations": [
+            {
+              "title": "備考",
+              "text": "G★4蠢く墟城G★4イビルジョーの狩猟またはG★4暴飲暴食ご用心 クリア後",
+              "links": [
+                {
+                  "label": "G★4蠢く墟城",
+                  "url": "http://wiki.mhxg.org/ida/294013.html"
+                },
+                {
+                  "label": "G★4イビルジョーの狩猟",
+                  "url": "http://wiki.mhxg.org/ida/294008.html"
+                },
+                {
+                  "label": "G★4暴飲暴食ご用心",
+                  "url": "http://wiki.mhxg.org/ida/299068.html"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "無心にて森羅万象を断つ",
+          "recipeUrl": "http://wiki.mhxg.org/ida/299078.html",
+          "detailTitle": "G★4無心にて森羅万象を断つ | 【MHXX】モンハンダブルクロス攻略レシピ",
+          "icons": [
+            "狩猟",
+            "狩技"
+          ],
+          "role": "hunter",
+          "tags": [
+            "normal"
+          ],
+          "observations": [
+            {
+              "title": "備考",
+              "text": "G★4蠢く墟城G★3暑い熱い砂漠またはG★3斬竜流狩人道場 クリア後",
+              "links": [
+                {
+                  "label": "G★4蠢く墟城",
+                  "url": "http://wiki.mhxg.org/ida/294013.html"
+                },
+                {
+                  "label": "G★3暑い熱い砂漠",
+                  "url": "http://wiki.mhxg.org/ida/288290.html"
+                },
+                {
+                  "label": "G★3斬竜流狩人道場",
+                  "url": "http://wiki.mhxg.org/ida/299015.html"
+                }
+              ]
+            },
+            {
+              "title": "狩技開放",
+              "text": "チェインソーサー LV3",
+              "links": [
+                {
+                  "label": "チェインソーサー",
+                  "url": "http://wiki.mhxg.org/data/1847.html#id285564"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "砂漠の死闘と挑戦",
+          "recipeUrl": "http://wiki.mhxg.org/ida/299079.html",
+          "detailTitle": "G★4砂漠の死闘と挑戦 | 【MHXX】モンハンダブルクロス攻略レシピ",
+          "icons": [
+            "狩猟"
+          ],
+          "role": "hunter",
+          "tags": [
+            "normal"
+          ],
+          "observations": [
+            {
+              "title": "備考",
+              "text": "G★4蠢く墟城G★4砂上に見ゆるは猛き双角またはG★4角竜怒涛 クリア後",
+              "links": [
+                {
+                  "label": "G★4蠢く墟城",
+                  "url": "http://wiki.mhxg.org/ida/294013.html"
+                },
+                {
+                  "label": "G★4砂上に見ゆるは猛き双角",
+                  "url": "http://wiki.mhxg.org/ida/294007.html"
+                },
+                {
+                  "label": "G★4角竜怒涛",
+                  "url": "http://wiki.mhxg.org/ida/299066.html"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "我怒る、ゆえに我在り",
+          "recipeUrl": "http://wiki.mhxg.org/ida/299080.html",
+          "detailTitle": "G★4我怒る、ゆえに我在り | 【MHXX】モンハンダブルクロス攻略レシピ",
+          "icons": [
+            "狩猟"
+          ],
+          "role": "hunter",
+          "tags": [
+            "normal"
+          ],
+          "observations": [
+            {
+              "title": "備考",
+              "text": "G★4蠢く墟城G★4金色に染まるまたはG★4雪山からの救援要請 クリア後",
+              "links": [
+                {
+                  "label": "G★4蠢く墟城",
+                  "url": "http://wiki.mhxg.org/ida/294013.html"
+                },
+                {
+                  "label": "G★4金色に染まる",
+                  "url": "http://wiki.mhxg.org/ida/299062.html"
+                },
+                {
+                  "label": "G★4雪山からの救援要請",
+                  "url": "http://wiki.mhxg.org/ida/294010.html"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "獰猛な海の王者は武器の素",
+          "recipeUrl": "http://wiki.mhxg.org/ida/299081.html",
+          "detailTitle": "G★4獰猛な海の王者は武器の素 | 【MHXX】モンハンダブルクロス攻略レシピ",
+          "icons": [
+            "狩猟",
+            "依頼",
+            "武具"
+          ],
+          "role": "hunter",
+          "tags": [
+            "request"
+          ],
+          "observations": [
+            {
+              "title": "備考",
+              "text": "G★4蠢く墟城G★3海竜のじけんまたはG★3ラギアクルス襲撃の予感 クリア後",
+              "links": [
+                {
+                  "label": "G★4蠢く墟城",
+                  "url": "http://wiki.mhxg.org/ida/294013.html"
+                },
+                {
+                  "label": "G★3海竜のじけん",
+                  "url": "http://wiki.mhxg.org/ida/299026.html"
+                },
+                {
+                  "label": "G★3ラギアクルス襲撃の予感",
+                  "url": "http://wiki.mhxg.org/ida/299008.html"
+                }
+              ]
+            },
+            {
+              "title": "依頼",
+              "text": "[受注] ユクモ村 モガの村の老職人の依頼2 [依頼出現条件] 依頼★モガの村の老職人の依頼1G★3ラギアクルス襲撃の予感G★3海竜のじけん クリア後HR解放後 装備開放(製法) ビクトリアーラ",
+              "links": [
+                {
+                  "label": "モガの村の老職人の依頼2",
+                  "url": "http://wiki.mhxg.org/ida/321972.html"
+                },
+                {
+                  "label": "依頼★モガの村の老職人の依頼1",
+                  "url": "http://wiki.mhxg.org/ida/243487.html"
+                },
+                {
+                  "label": "G★3ラギアクルス襲撃の予感",
+                  "url": "http://wiki.mhxg.org/ida/299008.html"
+                },
+                {
+                  "label": "G★3海竜のじけん",
+                  "url": "http://wiki.mhxg.org/ida/299026.html"
+                },
+                {
+                  "label": "ビクトリアーラ",
+                  "url": "http://wiki.mhxg.org/ida/298843.html"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "焦電",
+          "recipeUrl": "http://wiki.mhxg.org/ida/299082.html",
+          "detailTitle": "G★4焦電 | 【MHXX】モンハンダブルクロス攻略レシピ",
+          "icons": [
+            "狩猟",
+            "狩技"
+          ],
+          "role": "hunter",
+          "tags": [
+            "normal"
+          ],
+          "observations": [
+            {
+              "title": "備考",
+              "text": "G★4蠢く墟城G★3ハロー遺群嶺！またはG★3電竜流狩人道場 クリア後",
+              "links": [
+                {
+                  "label": "G★4蠢く墟城",
+                  "url": "http://wiki.mhxg.org/ida/294013.html"
+                },
+                {
+                  "label": "G★3ハロー遺群嶺！",
+                  "url": "http://wiki.mhxg.org/ida/288289.html"
+                },
+                {
+                  "label": "G★3電竜流狩人道場",
+                  "url": "http://wiki.mhxg.org/ida/299027.html"
+                }
+              ]
+            },
+            {
+              "title": "狩技開放",
+              "text": "ラセンザン LV3",
+              "links": [
+                {
+                  "label": "ラセンザン",
+                  "url": "http://wiki.mhxg.org/data/1847.html#id285546"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "領主の懇願～尾槌竜篇～",
+          "recipeUrl": "http://wiki.mhxg.org/ida/299083.html",
+          "detailTitle": "G★4領主の懇願～尾槌竜篇～ | 【MHXX】モンハンダブルクロス攻略レシピ",
+          "icons": [
+            "狩猟"
+          ],
+          "role": "hunter",
+          "tags": [
+            "normal"
+          ],
+          "observations": [
+            {
+              "title": "備考",
+              "text": "G★4蠢く墟城G★4小山も陽気に誘われて クリア後",
+              "links": [
+                {
+                  "label": "G★4蠢く墟城",
+                  "url": "http://wiki.mhxg.org/ida/294013.html"
+                },
+                {
+                  "label": "G★4小山も陽気に誘われて",
+                  "url": "http://wiki.mhxg.org/ida/299067.html"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "先生の弱点は獰猛な重甲虫",
+          "recipeUrl": "http://wiki.mhxg.org/ida/299084.html",
+          "detailTitle": "G★4先生の弱点は獰猛な重甲虫 | 【MHXX】モンハンダブルクロス攻略レシピ",
+          "icons": [
+            "狩猟"
+          ],
+          "role": "hunter",
+          "tags": [
+            "normal"
+          ],
+          "observations": [
+            {
+              "title": "備考",
+              "text": "G★4蠢く墟城G★3女帝の花道またはG★3重量級の女帝 クリア後",
+              "links": [
+                {
+                  "label": "G★4蠢く墟城",
+                  "url": "http://wiki.mhxg.org/ida/294013.html"
+                },
+                {
+                  "label": "G★3女帝の花道",
+                  "url": "http://wiki.mhxg.org/ida/299011.html"
+                },
+                {
+                  "label": "G★3重量級の女帝",
+                  "url": "http://wiki.mhxg.org/ida/299017.html"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "シャル・ウィ・ダンス？",
+          "recipeUrl": "http://wiki.mhxg.org/ida/299085.html",
+          "detailTitle": "G★4シャル・ウィ・ダンス？ | 【MHXX】モンハンダブルクロス攻略レシピ",
+          "icons": [
+            "狩猟",
+            "狩技"
+          ],
+          "role": "hunter",
+          "tags": [
+            "normal"
+          ],
+          "observations": [
+            {
+              "title": "備考",
+              "text": "G★4蠢く墟城G★3騎士と密林の夢またはG★3泡狐竜流狩人道場 クリア後",
+              "links": [
+                {
+                  "label": "G★4蠢く墟城",
+                  "url": "http://wiki.mhxg.org/ida/294013.html"
+                },
+                {
+                  "label": "G★3騎士と密林の夢",
+                  "url": "http://wiki.mhxg.org/ida/288291.html"
+                },
+                {
+                  "label": "G★3泡狐竜流狩人道場",
+                  "url": "http://wiki.mhxg.org/ida/299024.html"
+                }
+              ]
+            },
+            {
+              "title": "狩技開放",
+              "text": "治癒の盾 LV3",
+              "links": [
+                {
+                  "label": "治癒の盾",
+                  "url": "http://wiki.mhxg.org/data/1847.html#id285555"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "黒蝕竜は禍々しく猛る",
+          "recipeUrl": "http://wiki.mhxg.org/ida/299086.html",
+          "detailTitle": "G★4黒蝕竜は禍々しく猛る | 【MHXX】モンハンダブルクロス攻略レシピ",
+          "icons": [
+            "狩猟"
+          ],
+          "role": "hunter",
+          "tags": [
+            "normal"
+          ],
+          "observations": [
+            {
+              "title": "備考",
+              "text": "G★4蠢く墟城G★3遺群嶺の難題解決またはG★3古代林に来たりし黒き蝕 クリア後",
+              "links": [
+                {
+                  "label": "G★4蠢く墟城",
+                  "url": "http://wiki.mhxg.org/ida/294013.html"
+                },
+                {
+                  "label": "G★3遺群嶺の難題解決",
+                  "url": "http://wiki.mhxg.org/ida/299010.html"
+                },
+                {
+                  "label": "G★3古代林に来たりし黒き蝕",
+                  "url": "http://wiki.mhxg.org/ida/299018.html"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "騎士と氷海の決闘",
+          "recipeUrl": "http://wiki.mhxg.org/ida/299087.html",
+          "detailTitle": "G★4騎士と氷海の決闘 | 【MHXX】モンハンダブルクロス攻略レシピ",
+          "icons": [
+            "狩猟",
+            "狩技"
+          ],
+          "role": "hunter",
+          "tags": [
+            "normal"
+          ],
+          "observations": [
+            {
+              "title": "備考",
+              "text": "G★4蠢く墟城G★3氷牙竜・ベリオロス！またはG★3氷牙竜が大発明のカギ？ クリア後",
+              "links": [
+                {
+                  "label": "G★4蠢く墟城",
+                  "url": "http://wiki.mhxg.org/ida/294013.html"
+                },
+                {
+                  "label": "G★3氷牙竜・ベリオロス！",
+                  "url": "http://wiki.mhxg.org/ida/288292.html"
+                },
+                {
+                  "label": "G★3氷牙竜が大発明のカギ？",
+                  "url": "http://wiki.mhxg.org/ida/299021.html"
+                }
+              ]
+            },
+            {
+              "title": "狩技開放",
+              "text": "テンペストアクス LV3",
+              "links": [
+                {
+                  "label": "テンペストアクス",
+                  "url": "http://wiki.mhxg.org/data/1847.html#id285561"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "巨獣の進攻",
+          "recipeUrl": "http://wiki.mhxg.org/ida/299088.html",
+          "detailTitle": "G★4巨獣の進攻 | 【MHXX】モンハンダブルクロス攻略レシピ",
+          "icons": [
+            "狩猟",
+            "狩技"
+          ],
+          "role": "hunter",
+          "tags": [
+            "normal"
+          ],
+          "observations": [
+            {
+              "title": "備考",
+              "text": "G★4蠢く墟城G★3氷海のすばらしい氷またはG★3巨獣流狩人道場 クリア後",
+              "links": [
+                {
+                  "label": "G★4蠢く墟城",
+                  "url": "http://wiki.mhxg.org/ida/294013.html"
+                },
+                {
+                  "label": "G★3氷海のすばらしい氷",
+                  "url": "http://wiki.mhxg.org/ida/288293.html"
+                },
+                {
+                  "label": "G★3巨獣流狩人道場",
+                  "url": "http://wiki.mhxg.org/ida/299022.html"
+                }
+              ]
+            },
+            {
+              "title": "狩技開放",
+              "text": "ムーンブレイク LV3",
+              "links": [
+                {
+                  "label": "ムーンブレイク",
+                  "url": "http://wiki.mhxg.org/data/1847.html#id285537"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "採掘場を取り戻せ！",
+          "recipeUrl": "http://wiki.mhxg.org/ida/299089.html",
+          "detailTitle": "G★4採掘場を取り戻せ！ | 【MHXX】モンハンダブルクロス攻略レシピ",
+          "icons": [
+            "狩猟"
+          ],
+          "role": "hunter",
+          "tags": [
+            "normal"
+          ],
+          "observations": [
+            {
+              "title": "備考",
+              "text": "G★4蠢く墟城G★3トラウマガンキンを退治せよ クリア後",
+              "links": [
+                {
+                  "label": "G★4蠢く墟城",
+                  "url": "http://wiki.mhxg.org/ida/294013.html"
+                },
+                {
+                  "label": "G★3トラウマガンキンを退治せよ",
+                  "url": "http://wiki.mhxg.org/ida/299028.html"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "炎戈竜は地底で吠える",
+          "recipeUrl": "http://wiki.mhxg.org/ida/299090.html",
+          "detailTitle": "G★4炎戈竜は地底で吠える | 【MHXX】モンハンダブルクロス攻略レシピ",
+          "icons": [
+            "狩猟"
+          ],
+          "role": "hunter",
+          "tags": [
+            "normal"
+          ],
+          "observations": [
+            {
+              "title": "備考",
+              "text": "G★4蠢く墟城G★4マグマまといし竜 クリア後",
+              "links": [
+                {
+                  "label": "G★4蠢く墟城",
+                  "url": "http://wiki.mhxg.org/ida/294013.html"
+                },
+                {
+                  "label": "G★4マグマまといし竜",
+                  "url": "http://wiki.mhxg.org/ida/299069.html"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "犯人は黒狼鳥",
+          "recipeUrl": "http://wiki.mhxg.org/ida/299091.html",
+          "detailTitle": "G★4犯人は黒狼鳥 | 【MHXX】モンハンダブルクロス攻略レシピ",
+          "icons": [
+            "狩猟"
+          ],
+          "role": "hunter",
+          "tags": [
+            "normal"
+          ],
+          "observations": [
+            {
+              "title": "備考",
+              "text": "G★4蠢く墟城G★3孤高の黒狼鳥またはG★3双子の黒狼鳥 クリア後",
+              "links": [
+                {
+                  "label": "G★4蠢く墟城",
+                  "url": "http://wiki.mhxg.org/ida/294013.html"
+                },
+                {
+                  "label": "G★3孤高の黒狼鳥",
+                  "url": "http://wiki.mhxg.org/ida/299007.html"
+                },
+                {
+                  "label": "G★3双子の黒狼鳥",
+                  "url": "http://wiki.mhxg.org/ida/299012.html"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "所により獰猛なセルレギオス",
+          "recipeUrl": "http://wiki.mhxg.org/ida/299092.html",
+          "detailTitle": "G★4所により獰猛なセルレギオス | 【MHXX】モンハンダブルクロス攻略レシピ",
+          "icons": [
+            "狩猟",
+            "依頼",
+            "武具"
+          ],
+          "role": "hunter",
+          "tags": [
+            "request"
+          ],
+          "observations": [
+            {
+              "title": "備考",
+              "text": "G★4蠢く墟城G★4千刃は刀よりも鋭くまたはG★4この先、千刃竜以外立入禁止 クリア後",
+              "links": [
+                {
+                  "label": "G★4蠢く墟城",
+                  "url": "http://wiki.mhxg.org/ida/294013.html"
+                },
+                {
+                  "label": "G★4千刃は刀よりも鋭く",
+                  "url": "http://wiki.mhxg.org/ida/299061.html"
+                },
+                {
+                  "label": "G★4この先、千刃竜以外立入禁止",
+                  "url": "http://wiki.mhxg.org/ida/299064.html"
+                }
+              ]
+            },
+            {
+              "title": "依頼",
+              "text": "[受注] ベルナ村 大老殿の大臣の依頼 [依頼出現条件] 村★7解放後G★4解放後依頼★ドンドルマの守護兵の依頼3G★4千刃は刀よりも鋭くまたはG★4この先、千刃竜以外立入禁止 クリア後 装備開放(製法) ガーディアンＸシリーズガーディアンＺシリーズ オトモ装備開放 悠久に輝く龍頭琴精霊を宿す髪飾りまほろばの極衣",
+              "links": [
+                {
+                  "label": "大老殿の大臣の依頼",
+                  "url": "http://wiki.mhxg.org/ida/321963.html"
+                },
+                {
+                  "label": "依頼★ドンドルマの守護兵の依頼3",
+                  "url": "http://wiki.mhxg.org/ida/306647.html"
+                },
+                {
+                  "label": "G★4千刃は刀よりも鋭く",
+                  "url": "http://wiki.mhxg.org/ida/299061.html"
+                },
+                {
+                  "label": "G★4この先、千刃竜以外立入禁止",
+                  "url": "http://wiki.mhxg.org/ida/299064.html"
+                },
+                {
+                  "label": "ガーディアンＸシリーズ",
+                  "url": "http://wiki.mhxg.org/ida/293011.html"
+                },
+                {
+                  "label": "ガーディアンＺシリーズ",
+                  "url": "http://wiki.mhxg.org/ida/295234.html"
+                },
+                {
+                  "label": "悠久に輝く龍頭琴",
+                  "url": "http://wiki.mhxg.org/ida/321801.html"
+                },
+                {
+                  "label": "精霊を宿す髪飾り",
+                  "url": "http://wiki.mhxg.org/ida/322248.html"
+                },
+                {
+                  "label": "まほろばの極衣",
+                  "url": "http://wiki.mhxg.org/ida/322249.html"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "轟々たる罠",
+          "recipeUrl": "http://wiki.mhxg.org/ida/299093.html",
+          "detailTitle": "G★4轟々たる罠 | 【MHXX】モンハンダブルクロス攻略レシピ",
+          "icons": [
+            "狩猟"
+          ],
+          "role": "hunter",
+          "tags": [
+            "normal"
+          ],
+          "observations": [
+            {
+              "title": "備考",
+              "text": "G★4蠢く墟城G★4轟竜の軌跡を追いかけてまたはG★4氷海を爆走、暴走轟竜！ クリア後",
+              "links": [
+                {
+                  "label": "G★4蠢く墟城",
+                  "url": "http://wiki.mhxg.org/ida/294013.html"
+                },
+                {
+                  "label": "G★4轟竜の軌跡を追いかけて",
+                  "url": "http://wiki.mhxg.org/ida/294009.html"
+                },
+                {
+                  "label": "G★4氷海を爆走、暴走轟竜！",
+                  "url": "http://wiki.mhxg.org/ida/299063.html"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "孤島で遭遇！獰猛な雷狼竜",
+          "recipeUrl": "http://wiki.mhxg.org/ida/299094.html",
+          "detailTitle": "G★4孤島で遭遇！獰猛な雷狼竜 | 【MHXX】モンハンダブルクロス攻略レシピ",
+          "icons": [
+            "狩猟",
+            "依頼",
+            "武具"
+          ],
+          "role": "hunter",
+          "tags": [
+            "request"
+          ],
+          "observations": [
+            {
+              "title": "備考",
+              "text": "G★4蠢く墟城G★3遺群嶺からの帰還またはG★3月下雷鳴の記憶 クリア後",
+              "links": [
+                {
+                  "label": "G★4蠢く墟城",
+                  "url": "http://wiki.mhxg.org/ida/294013.html"
+                },
+                {
+                  "label": "G★3遺群嶺からの帰還",
+                  "url": "http://wiki.mhxg.org/ida/299009.html"
+                },
+                {
+                  "label": "G★3月下雷鳴の記憶",
+                  "url": "http://wiki.mhxg.org/ida/299023.html"
+                }
+              ]
+            },
+            {
+              "title": "依頼",
+              "text": "[受注] ユクモ村 モガの村長の息子の依頼5 [依頼出現条件] 依頼★モガの村長の息子の依頼4G★3遺群嶺からの帰還G★3月下雷鳴の記憶 クリア後HR解放後 装備開放(製法) ヴァイキングホーンヘリオスＸシリーズセレネＸシリーズ",
+              "links": [
+                {
+                  "label": "モガの村長の息子の依頼5",
+                  "url": "http://wiki.mhxg.org/ida/321969.html"
+                },
+                {
+                  "label": "依頼★モガの村長の息子の依頼4",
+                  "url": "http://wiki.mhxg.org/ida/243469.html"
+                },
+                {
+                  "label": "G★3遺群嶺からの帰還",
+                  "url": "http://wiki.mhxg.org/ida/299009.html"
+                },
+                {
+                  "label": "G★3月下雷鳴の記憶",
+                  "url": "http://wiki.mhxg.org/ida/299023.html"
+                },
+                {
+                  "label": "ヴァイキングホーン",
+                  "url": "http://wiki.mhxg.org/ida/292562.html"
+                },
+                {
+                  "label": "ヘリオスＸシリーズ",
+                  "url": "http://wiki.mhxg.org/ida/293034.html"
+                },
+                {
+                  "label": "セレネＸシリーズ",
+                  "url": "http://wiki.mhxg.org/ida/293023.html"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "獰猛な砕竜は、孤島で何を思う",
+          "recipeUrl": "http://wiki.mhxg.org/ida/299095.html",
+          "detailTitle": "G★4獰猛な砕竜は、孤島で何を思う | 【MHXX】モンハンダブルクロス攻略レシピ",
+          "icons": [
+            "狩猟",
+            "依頼",
+            "武具"
+          ],
+          "role": "hunter",
+          "tags": [
+            "request"
+          ],
+          "observations": [
+            {
+              "title": "備考",
+              "text": "G★4蠢く墟城G★4光る粘菌のナゾを追えまたはG★4火山の脅威・ブラキディオス クリア後",
+              "links": [
+                {
+                  "label": "G★4蠢く墟城",
+                  "url": "http://wiki.mhxg.org/ida/294013.html"
+                },
+                {
+                  "label": "G★4光る粘菌のナゾを追え",
+                  "url": "http://wiki.mhxg.org/ida/299065.html"
+                },
+                {
+                  "label": "G★4火山の脅威・ブラキディオス",
+                  "url": "http://wiki.mhxg.org/ida/299070.html"
+                }
+              ]
+            },
+            {
+              "title": "依頼",
+              "text": "[受注] ユクモ村 モガの村の村長の依頼2 [依頼出現条件] 依頼★モガの村の村長の依頼1G★4光る粘菌のナゾを追えG★4火山の脅威・ブラキディオス クリア後HR解放後 装備開放(製法) ナバルタスク",
+              "links": [
+                {
+                  "label": "モガの村の村長の依頼2",
+                  "url": "http://wiki.mhxg.org/ida/321970.html"
+                },
+                {
+                  "label": "依頼★モガの村の村長の依頼1",
+                  "url": "http://wiki.mhxg.org/ida/243479.html"
+                },
+                {
+                  "label": "G★4光る粘菌のナゾを追え",
+                  "url": "http://wiki.mhxg.org/ida/299065.html"
+                },
+                {
+                  "label": "G★4火山の脅威・ブラキディオス",
+                  "url": "http://wiki.mhxg.org/ida/299070.html"
+                },
+                {
+                  "label": "ナバルタスク",
+                  "url": "http://wiki.mhxg.org/ida/298505.html"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "沼地の冒険",
+          "recipeUrl": "http://wiki.mhxg.org/ida/299096.html",
+          "detailTitle": "G★4沼地の冒険 | 【MHXX】モンハンダブルクロス攻略レシピ",
+          "icons": [
+            "狩猟",
+            "フラグ"
+          ],
+          "role": "hunter",
+          "tags": [
+            "normal"
+          ],
+          "observations": [
+            {
+              "title": "備考",
+              "text": "G★4蠢く墟城G★3グラビモス連続狩猟またはG★3鎧竜グラビモスの脅威 クリア後",
+              "links": [
+                {
+                  "label": "G★4蠢く墟城",
+                  "url": "http://wiki.mhxg.org/ida/294013.html"
+                },
+                {
+                  "label": "G★3グラビモス連続狩猟",
+                  "url": "http://wiki.mhxg.org/ida/299014.html"
+                },
+                {
+                  "label": "G★3鎧竜グラビモスの脅威",
+                  "url": "http://wiki.mhxg.org/ida/288294.html"
+                }
+              ]
+            },
+            {
+              "title": "他のクエスト発生に必要",
+              "text": "G★4死神は鎧をまとう",
+              "links": [
+                {
+                  "label": "G★4死神は鎧をまとう",
+                  "url": "http://wiki.mhxg.org/ida/299099.html"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "火山のすばらしい岩",
+          "recipeUrl": "http://wiki.mhxg.org/ida/299097.html",
+          "detailTitle": "G★4火山のすばらしい岩 | 【MHXX】モンハンダブルクロス攻略レシピ",
+          "icons": [
+            "狩猟",
+            "フラグ"
+          ],
+          "role": "hunter",
+          "tags": [
+            "normal"
+          ],
+          "observations": [
+            {
+              "title": "備考",
+              "text": "G★4蠢く墟城G★3空の王者を狩猟せよ！ クリア後",
+              "links": [
+                {
+                  "label": "G★4蠢く墟城",
+                  "url": "http://wiki.mhxg.org/ida/294013.html"
+                },
+                {
+                  "label": "G★3空の王者を狩猟せよ！",
+                  "url": "http://wiki.mhxg.org/ida/299025.html"
+                }
+              ]
+            },
+            {
+              "title": "他のクエスト発生に必要",
+              "text": "G★4天地が焔に染まるとき",
+              "links": [
+                {
+                  "label": "G★4天地が焔に染まるとき",
+                  "url": "http://wiki.mhxg.org/ida/299098.html"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "天地が焔に染まるとき",
+          "recipeUrl": "http://wiki.mhxg.org/ida/299098.html",
+          "detailTitle": "G★4天地が焔に染まるとき | 【MHXX】モンハンダブルクロス攻略レシピ",
+          "icons": [
+            "狩猟"
+          ],
+          "role": "hunter",
+          "tags": [
+            "normal"
+          ],
+          "observations": [
+            {
+              "title": "備考",
+              "text": "G★3遺群嶺の怒れるリオレイアG★4火山のすばらしい岩 クリア後",
+              "links": [
+                {
+                  "label": "G★3遺群嶺の怒れるリオレイア",
+                  "url": "http://wiki.mhxg.org/ida/299036.html"
+                },
+                {
+                  "label": "G★4火山のすばらしい岩",
+                  "url": "http://wiki.mhxg.org/ida/299097.html"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "死神は鎧をまとう",
+          "recipeUrl": "http://wiki.mhxg.org/ida/299099.html",
+          "detailTitle": "G★4死神は鎧をまとう | 【MHXX】モンハンダブルクロス攻略レシピ",
+          "icons": [
+            "狩猟",
+            "狩技"
+          ],
+          "role": "hunter",
+          "tags": [
+            "normal"
+          ],
+          "observations": [
+            {
+              "title": "備考",
+              "text": "G★3先生の鬼門は獰猛な影蜘蛛G★4沼地の冒険 クリア後",
+              "links": [
+                {
+                  "label": "G★3先生の鬼門は獰猛な影蜘蛛",
+                  "url": "http://wiki.mhxg.org/ida/299039.html"
+                },
+                {
+                  "label": "G★4沼地の冒険",
+                  "url": "http://wiki.mhxg.org/ida/299096.html"
+                }
+              ]
+            },
+            {
+              "title": "狩技開放",
+              "text": "AAフレア LV3",
+              "links": [
+                {
+                  "label": "AAフレア",
+                  "url": "http://wiki.mhxg.org/data/1847.html#id285558"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "戦慄の遺群嶺",
+          "recipeUrl": "http://wiki.mhxg.org/ida/299100.html",
+          "detailTitle": "G★4戦慄の遺群嶺 | 【MHXX】モンハンダブルクロス攻略レシピ",
+          "icons": [
+            "連続狩猟",
+            "狩技",
+            "フラグ"
+          ],
+          "role": "hunter",
+          "tags": [
+            "normal"
+          ],
+          "observations": [
+            {
+              "title": "備考",
+              "text": "G★4の獰猛化クエスト6つ以上クリア後",
+              "links": []
+            },
+            {
+              "title": "狩技開放",
+              "text": "射突型裂孔弾 LV3",
+              "links": [
+                {
+                  "label": "射突型裂孔弾",
+                  "url": "http://wiki.mhxg.org/data/1847.html#id285573"
+                }
+              ]
+            },
+            {
+              "title": "他のクエスト発生に必要",
+              "text": "G★4狩人達の究道",
+              "links": [
+                {
+                  "label": "G★4狩人達の究道",
+                  "url": "http://wiki.mhxg.org/ida/299105.html"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "狩魂よ砂中に眠れ",
+          "recipeUrl": "http://wiki.mhxg.org/ida/299101.html",
+          "detailTitle": "G★4狩魂よ砂中に眠れ | 【MHXX】モンハンダブルクロス攻略レシピ",
+          "icons": [
+            "連続狩猟",
+            "狩技",
+            "フラグ"
+          ],
+          "role": "hunter",
+          "tags": [
+            "normal"
+          ],
+          "observations": [
+            {
+              "title": "備考",
+              "text": "G★4の獰猛化クエスト6つ以上クリア後",
+              "links": []
+            },
+            {
+              "title": "狩技開放",
+              "text": "アニマートハイ LV3",
+              "links": [
+                {
+                  "label": "アニマートハイ",
+                  "url": "http://wiki.mhxg.org/data/1847.html#id285552"
+                }
+              ]
+            },
+            {
+              "title": "他のクエスト発生に必要",
+              "text": "G★4狩人達の究道",
+              "links": [
+                {
+                  "label": "G★4狩人達の究道",
+                  "url": "http://wiki.mhxg.org/ida/299105.html"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "風薫る密林",
+          "recipeUrl": "http://wiki.mhxg.org/ida/299102.html",
+          "detailTitle": "G★4風薫る密林 | 【MHXX】モンハンダブルクロス攻略レシピ",
+          "icons": [
+            "連続狩猟",
+            "狩技",
+            "フラグ"
+          ],
+          "role": "hunter",
+          "tags": [
+            "normal"
+          ],
+          "observations": [
+            {
+              "title": "備考",
+              "text": "G★4の獰猛化クエスト6つ以上クリア後",
+              "links": []
+            },
+            {
+              "title": "狩技開放",
+              "text": "妖刀羅刹 LV3",
+              "links": [
+                {
+                  "label": "妖刀羅刹",
+                  "url": "http://wiki.mhxg.org/data/1847.html#id285540"
+                }
+              ]
+            },
+            {
+              "title": "他のクエスト発生に必要",
+              "text": "G★4狩人達の究道",
+              "links": [
+                {
+                  "label": "G★4狩人達の究道",
+                  "url": "http://wiki.mhxg.org/ida/299105.html"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "絆の証？雪山の獰猛大決戦",
+          "recipeUrl": "http://wiki.mhxg.org/ida/299103.html",
+          "detailTitle": "G★4絆の証？雪山の獰猛大決戦 | 【MHXX】モンハンダブルクロス攻略レシピ",
+          "icons": [
+            "連続狩猟",
+            "依頼",
+            "武具",
+            "フラグ"
+          ],
+          "role": "hunter",
+          "tags": [
+            "request"
+          ],
+          "observations": [
+            {
+              "title": "依頼",
+              "text": "[受注] ポッケ村 ギルドマネージャーの依頼3 [依頼出現条件] 依頼★ギルドマネージャーの依頼2依頼★ロックラックの長の依頼2G★4の獰猛化クエスト6つ以上クリア後HR解放後 装備開放(製法) Ｇ・ガードＸ蒼シリーズＧ・ガードＸ紅シリーズ",
+              "links": [
+                {
+                  "label": "ギルドマネージャーの依頼3",
+                  "url": "http://wiki.mhxg.org/ida/321968.html"
+                },
+                {
+                  "label": "依頼★ギルドマネージャーの依頼2",
+                  "url": "http://wiki.mhxg.org/ida/243453.html"
+                },
+                {
+                  "label": "依頼★ロックラックの長の依頼2",
+                  "url": "http://wiki.mhxg.org/ida/321971.html"
+                },
+                {
+                  "label": "Ｇ・ガードＸ蒼シリーズ",
+                  "url": "http://wiki.mhxg.org/ida/295665.html"
+                },
+                {
+                  "label": "Ｇ・ガードＸ紅シリーズ",
+                  "url": "http://wiki.mhxg.org/ida/295664.html"
+                }
+              ]
+            },
+            {
+              "title": "他のクエスト発生に必要",
+              "text": "G★4狩人達の究道",
+              "links": [
+                {
+                  "label": "G★4狩人達の究道",
+                  "url": "http://wiki.mhxg.org/ida/299105.html"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "絆の証！闘技場の大決戦",
+          "recipeUrl": "http://wiki.mhxg.org/ida/299104.html",
+          "detailTitle": "G★4絆の証！闘技場の大決戦 | 【MHXX】モンハンダブルクロス攻略レシピ",
+          "icons": [
+            "連続狩猟",
+            "依頼",
+            "武具"
+          ],
+          "role": "hunter",
+          "tags": [
+            "request"
+          ],
+          "observations": [
+            {
+              "title": "依頼",
+              "text": "[受注] ユクモ村 ロックラックの長の依頼2 [依頼出現条件] 依頼★ロックラックの長の依頼1依頼★バルバレの仕切り役の依頼3G★4の獰猛化クエスト6つ以上クリア後HR解放後 装備開放(製法) 城塞特攻隊/城塞隠密隊シリーズ",
+              "links": [
+                {
+                  "label": "ロックラックの長の依頼2",
+                  "url": "http://wiki.mhxg.org/ida/321971.html"
+                },
+                {
+                  "label": "依頼★ロックラックの長の依頼1",
+                  "url": "http://wiki.mhxg.org/ida/265179.html"
+                },
+                {
+                  "label": "依頼★バルバレの仕切り役の依頼3",
+                  "url": "http://wiki.mhxg.org/ida/313301.html"
+                },
+                {
+                  "label": "城塞特攻隊/城塞隠密隊シリーズ",
+                  "url": "http://wiki.mhxg.org/ida/293041.html"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "狩人達の究道",
+          "recipeUrl": "http://wiki.mhxg.org/ida/299105.html",
+          "detailTitle": "G★4狩人達の究道 | 【MHXX】モンハンダブルクロス攻略レシピ",
+          "icons": [
+            "連続狩猟"
+          ],
+          "role": "hunter",
+          "tags": [
+            "normal"
+          ],
+          "observations": [
+            {
+              "title": "備考",
+              "text": "G★4戦慄の遺群嶺G★4狩魂よ砂中に眠れG★4風薫る密林G★4絆の証？雪山の獰猛大決戦 クリア後",
+              "links": [
+                {
+                  "label": "G★4戦慄の遺群嶺",
+                  "url": "http://wiki.mhxg.org/ida/299100.html"
+                },
+                {
+                  "label": "G★4狩魂よ砂中に眠れ",
+                  "url": "http://wiki.mhxg.org/ida/299101.html"
+                },
+                {
+                  "label": "G★4風薫る密林",
+                  "url": "http://wiki.mhxg.org/ida/299102.html"
+                },
+                {
+                  "label": "G★4絆の証？雪山の獰猛大決戦",
+                  "url": "http://wiki.mhxg.org/ida/299103.html"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "天を舞う白銀",
+          "recipeUrl": "http://wiki.mhxg.org/ida/299106.html",
+          "detailTitle": "G★4天を舞う白銀 | 【MHXX】モンハンダブルクロス攻略レシピ",
+          "icons": [
+            "狩猟",
+            "フラグ"
+          ],
+          "role": "hunter",
+          "tags": [
+            "normal"
+          ],
+          "observations": [
+            {
+              "title": "備考",
+              "text": "HR40以上",
+              "links": []
+            },
+            {
+              "title": "他のクエスト発生に必要",
+              "text": "G★4呼び合う太陽と月 G★4夜空に浮かぶ銀の太陽",
+              "links": [
+                {
+                  "label": "G★4呼び合う太陽と月",
+                  "url": "http://wiki.mhxg.org/ida/299108.html"
+                },
+                {
+                  "label": "G★4夜空に浮かぶ銀の太陽",
+                  "url": "http://wiki.mhxg.org/ida/299109.html"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "大地に踊る黄金",
+          "recipeUrl": "http://wiki.mhxg.org/ida/299107.html",
+          "detailTitle": "G★4大地に踊る黄金 | 【MHXX】モンハンダブルクロス攻略レシピ",
+          "icons": [
+            "狩猟",
+            "フラグ"
+          ],
+          "role": "hunter",
+          "tags": [
+            "normal"
+          ],
+          "observations": [
+            {
+              "title": "備考",
+              "text": "HR40以上",
+              "links": []
+            },
+            {
+              "title": "他のクエスト発生に必要",
+              "text": "G★4呼び合う太陽と月 G★4狩人のための舞台～古代林～",
+              "links": [
+                {
+                  "label": "G★4呼び合う太陽と月",
+                  "url": "http://wiki.mhxg.org/ida/299108.html"
+                },
+                {
+                  "label": "G★4狩人のための舞台～古代林～",
+                  "url": "http://wiki.mhxg.org/ida/299110.html"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "呼び合う太陽と月",
+          "recipeUrl": "http://wiki.mhxg.org/ida/299108.html",
+          "detailTitle": "G★4呼び合う太陽と月 | 【MHXX】モンハンダブルクロス攻略レシピ",
+          "icons": [
+            "狩猟"
+          ],
+          "role": "hunter",
+          "tags": [
+            "normal"
+          ],
+          "observations": [
+            {
+              "title": "備考",
+              "text": "G★4天を舞う白銀G★4大地に踊る黄金 クリア後",
+              "links": [
+                {
+                  "label": "G★4天を舞う白銀",
+                  "url": "http://wiki.mhxg.org/ida/299106.html"
+                },
+                {
+                  "label": "G★4大地に踊る黄金",
+                  "url": "http://wiki.mhxg.org/ida/299107.html"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "夜空に浮かぶ銀の太陽",
+          "recipeUrl": "http://wiki.mhxg.org/ida/299109.html",
+          "detailTitle": "G★4夜空に浮かぶ銀の太陽 | 【MHXX】モンハンダブルクロス攻略レシピ",
+          "icons": [
+            "狩猟",
+            "フラグ"
+          ],
+          "role": "hunter",
+          "tags": [
+            "normal"
+          ],
+          "observations": [
+            {
+              "title": "備考",
+              "text": "G★4天を舞う白銀 クリア後",
+              "links": [
+                {
+                  "label": "G★4天を舞う白銀",
+                  "url": "http://wiki.mhxg.org/ida/299106.html"
+                }
+              ]
+            },
+            {
+              "title": "他のクエスト発生に必要",
+              "text": "G★4金と銀がもたらす悲哀",
+              "links": [
+                {
+                  "label": "G★4金と銀がもたらす悲哀",
+                  "url": "http://wiki.mhxg.org/ida/299111.html"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "狩人のための舞台～古代林～",
+          "recipeUrl": "http://wiki.mhxg.org/ida/299110.html",
+          "detailTitle": "G★4狩人のための舞台～古代林～ | 【MHXX】モンハンダブルクロス攻略レシピ",
+          "icons": [
+            "狩猟",
+            "フラグ"
+          ],
+          "role": "hunter",
+          "tags": [
+            "normal"
+          ],
+          "observations": [
+            {
+              "title": "備考",
+              "text": "G★4大地に踊る黄金 クリア後",
+              "links": [
+                {
+                  "label": "G★4大地に踊る黄金",
+                  "url": "http://wiki.mhxg.org/ida/299107.html"
+                }
+              ]
+            },
+            {
+              "title": "他のクエスト発生に必要",
+              "text": "G★4金と銀がもたらす悲哀",
+              "links": [
+                {
+                  "label": "G★4金と銀がもたらす悲哀",
+                  "url": "http://wiki.mhxg.org/ida/299111.html"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "金と銀がもたらす悲哀",
+          "recipeUrl": "http://wiki.mhxg.org/ida/299111.html",
+          "detailTitle": "G★4金と銀がもたらす悲哀 | 【MHXX】モンハンダブルクロス攻略レシピ",
+          "icons": [
+            "狩猟",
+            "狩技"
+          ],
+          "role": "hunter",
+          "tags": [
+            "normal"
+          ],
+          "observations": [
+            {
+              "title": "備考",
+              "text": "G★4夜空に浮かぶ銀の太陽G★4狩人のための舞台～古代林～ クリア後",
+              "links": [
+                {
+                  "label": "G★4夜空に浮かぶ銀の太陽",
+                  "url": "http://wiki.mhxg.org/ida/299109.html"
+                },
+                {
+                  "label": "G★4狩人のための舞台～古代林～",
+                  "url": "http://wiki.mhxg.org/ida/299110.html"
+                }
+              ]
+            },
+            {
+              "title": "狩技開放",
+              "text": "混沌の刃薬 LV3",
+              "links": [
+                {
+                  "label": "混沌の刃薬",
+                  "url": "http://wiki.mhxg.org/data/1847.html#id285543"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "天を廻りて、冥界に堕つ",
+          "recipeUrl": "http://wiki.mhxg.org/ida/299112.html",
+          "detailTitle": "G★4天を廻りて、冥界に堕つ | 【MHXX】モンハンダブルクロス攻略レシピ",
+          "icons": [
+            "狩猟",
+            "狩技"
+          ],
+          "role": "hunter",
+          "tags": [
+            "normal"
+          ],
+          "observations": [
+            {
+              "title": "備考",
+              "text": "HR35以上",
+              "links": []
+            },
+            {
+              "title": "狩技開放",
+              "text": "覚蟲強化 LV3",
+              "links": [
+                {
+                  "label": "覚蟲強化",
+                  "url": "http://wiki.mhxg.org/data/1847.html#id285567"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "原生林にて呻くは渾沌の竜",
+          "recipeUrl": "http://wiki.mhxg.org/ida/299113.html",
+          "detailTitle": "G★4原生林にて呻くは渾沌の竜 | 【MHXX】モンハンダブルクロス攻略レシピ",
+          "icons": [
+            "狩猟",
+            "依頼",
+            "武具"
+          ],
+          "role": "hunter",
+          "tags": [
+            "request"
+          ],
+          "observations": [
+            {
+              "title": "備考",
+              "text": "HR35以上",
+              "links": []
+            },
+            {
+              "title": "依頼",
+              "text": "[受注] ベルナ村 筆頭リーダーの依頼4 [依頼出現条件] 依頼★筆頭リーダーの依頼3 クリア後G★4解放後HR35以上 装備開放(製法) ザッツオールウェルエースＸシリーズクイーンＸシリーズ",
+              "links": [
+                {
+                  "label": "筆頭リーダーの依頼4",
+                  "url": "http://wiki.mhxg.org/ida/313295.html"
+                },
+                {
+                  "label": "依頼★筆頭リーダーの依頼3",
+                  "url": "http://wiki.mhxg.org/ida/306642.html"
+                },
+                {
+                  "label": "ザッツオール",
+                  "url": "http://wiki.mhxg.org/ida/298176.html"
+                },
+                {
+                  "label": "ウェル",
+                  "url": "http://wiki.mhxg.org/ida/310137.html"
+                },
+                {
+                  "label": "エースＸシリーズ",
+                  "url": "http://wiki.mhxg.org/ida/293010.html"
+                },
+                {
+                  "label": "クイーンＸシリーズ",
+                  "url": "http://wiki.mhxg.org/ida/293015.html"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "金色超巨星",
+          "recipeUrl": "http://wiki.mhxg.org/ida/299114.html",
+          "detailTitle": "G★4金色超巨星 | 【MHXX】モンハンダブルクロス攻略レシピ",
+          "icons": [
+            "狩猟",
+            "狩技"
+          ],
+          "role": "hunter",
+          "tags": [
+            "normal"
+          ],
+          "observations": [
+            {
+              "title": "備考",
+              "text": "HR45以上",
+              "links": []
+            },
+            {
+              "title": "狩技開放",
+              "text": "身躱し射法 LV3",
+              "links": [
+                {
+                  "label": "身躱し射法",
+                  "url": "http://wiki.mhxg.org/data/1847.html#id285576"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "砂漠の死闘と未来",
+          "recipeUrl": "http://wiki.mhxg.org/ida/299115.html",
+          "detailTitle": "G★4砂漠の死闘と未来 | 【MHXX】モンハンダブルクロス攻略レシピ",
+          "icons": [
+            "狩猟",
+            "狩技"
+          ],
+          "role": "hunter",
+          "tags": [
+            "normal"
+          ],
+          "observations": [
+            {
+              "title": "備考",
+              "text": "HR45以上",
+              "links": []
+            },
+            {
+              "title": "狩技開放",
+              "text": "インパクトプルス LV3",
+              "links": [
+                {
+                  "label": "インパクトプルス",
+                  "url": "http://wiki.mhxg.org/data/1847.html#id285549"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "溶岩島で爆ぜる砕光",
+          "recipeUrl": "http://wiki.mhxg.org/ida/299116.html",
+          "detailTitle": "G★4溶岩島で爆ぜる砕光 | 【MHXX】モンハンダブルクロス攻略レシピ",
+          "icons": [
+            "討伐",
+            "狩技"
+          ],
+          "role": "hunter",
+          "tags": [
+            "normal"
+          ],
+          "observations": [
+            {
+              "title": "備考",
+              "text": "HR50以上",
+              "links": []
+            },
+            {
+              "title": "狩技開放",
+              "text": "チャージショット LV3",
+              "links": [
+                {
+                  "label": "チャージショット",
+                  "url": "http://wiki.mhxg.org/data/1847.html#id285570"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "禍は鋼鉄よりも硬し",
+          "recipeUrl": "http://wiki.mhxg.org/ida/299117.html",
+          "detailTitle": "G★4禍は鋼鉄よりも硬し | 【MHXX】モンハンダブルクロス攻略レシピ",
+          "icons": [
+            "討伐"
+          ],
+          "role": "hunter",
+          "tags": [
+            "normal"
+          ],
+          "observations": [
+            {
+              "title": "備考",
+              "text": "HR35以上ランダム出現",
+              "links": []
+            }
+          ]
+        },
+        {
+          "name": "吹雪を呼ぶ者",
+          "recipeUrl": "http://wiki.mhxg.org/ida/299118.html",
+          "detailTitle": "G★4吹雪を呼ぶ者 | 【MHXX】モンハンダブルクロス攻略レシピ",
+          "icons": [
+            "討伐"
+          ],
+          "role": "hunter",
+          "tags": [
+            "normal"
+          ],
+          "observations": [
+            {
+              "title": "備考",
+              "text": "HR35以上ランダム出現",
+              "links": []
+            }
+          ]
+        },
+        {
+          "name": "虚空より現われし者",
+          "recipeUrl": "http://wiki.mhxg.org/ida/299119.html",
+          "detailTitle": "G★4虚空より現われし者 | 【MHXX】モンハンダブルクロス攻略レシピ",
+          "icons": [
+            "討伐"
+          ],
+          "role": "hunter",
+          "tags": [
+            "normal"
+          ],
+          "observations": [
+            {
+              "title": "備考",
+              "text": "HR35以上ランダム出現",
+              "links": []
+            }
+          ]
+        },
+        {
+          "name": "虚空に消え去りし者",
+          "recipeUrl": "http://wiki.mhxg.org/ida/299120.html",
+          "detailTitle": "G★4虚空に消え去りし者 | 【MHXX】モンハンダブルクロス攻略レシピ",
+          "icons": [
+            "討伐"
+          ],
+          "role": "hunter",
+          "tags": [
+            "normal"
+          ],
+          "observations": [
+            {
+              "title": "備考",
+              "text": "HR35以上ランダム出現",
+              "links": []
+            }
+          ]
+        },
+        {
+          "name": "砂漠に散る爆炎の塵",
+          "recipeUrl": "http://wiki.mhxg.org/ida/299121.html",
+          "detailTitle": "G★4砂漠に散る爆炎の塵 | 【MHXX】モンハンダブルクロス攻略レシピ",
+          "icons": [
+            "討伐"
+          ],
+          "role": "hunter",
+          "tags": [
+            "normal"
+          ],
+          "observations": [
+            {
+              "title": "備考",
+              "text": "HR35以上ランダム出現",
+              "links": []
+            }
+          ]
+        },
+        {
+          "name": "財宝は爆炎の中に",
+          "recipeUrl": "http://wiki.mhxg.org/ida/299122.html",
+          "detailTitle": "G★4財宝は爆炎の中に | 【MHXX】モンハンダブルクロス攻略レシピ",
+          "icons": [
+            "討伐"
+          ],
+          "role": "hunter",
+          "tags": [
+            "normal"
+          ],
+          "observations": [
+            {
+              "title": "備考",
+              "text": "HR35以上ランダム出現",
+              "links": []
+            }
+          ]
+        },
+        {
+          "name": "骸まとう龍",
+          "recipeUrl": "http://wiki.mhxg.org/ida/299123.html",
+          "detailTitle": "G★4骸まとう龍 | 【MHXX】モンハンダブルクロス攻略レシピ",
+          "icons": [
+            "討伐"
+          ],
+          "role": "hunter",
+          "tags": [
+            "normal"
+          ],
+          "observations": [
+            {
+              "title": "備考",
+              "text": "HR50以上",
+              "links": []
+            }
+          ]
+        },
+        {
+          "name": "起源にして、頂点",
+          "recipeUrl": "http://wiki.mhxg.org/ida/299124.html",
+          "detailTitle": "G★4起源にして、頂点 | 【MHXX】モンハンダブルクロス攻略レシピ",
+          "icons": [
+            "討伐"
+          ],
+          "role": "hunter",
+          "tags": [
+            "normal"
+          ],
+          "observations": [
+            {
+              "title": "備考",
+              "text": "HR60以上",
+              "links": []
+            }
+          ]
+        },
+        {
+          "name": "極天より来たる、崩せし神",
+          "recipeUrl": "http://wiki.mhxg.org/ida/299125.html",
+          "detailTitle": "G★4極天より来たる、崩せし神 | 【MHXX】モンハンダブルクロス攻略レシピ",
+          "icons": [
+            "討伐",
+            "依頼",
+            "武具"
+          ],
+          "role": "hunter",
+          "tags": [
+            "request"
+          ],
+          "observations": [
+            {
+              "title": "備考",
+              "text": "HR60以上",
+              "links": []
+            },
+            {
+              "title": "依頼",
+              "text": "[受注] ポッケ村 ネコートの依頼4 [依頼出現条件] 依頼★ネコートの依頼3 クリア後HR解放後 オトモ装備開放 ネコートさん厚コート",
+              "links": [
+                {
+                  "label": "ネコートの依頼4",
+                  "url": "http://wiki.mhxg.org/ida/313305.html"
+                },
+                {
+                  "label": "依頼★ネコートの依頼3",
+                  "url": "http://wiki.mhxg.org/ida/261134.html"
+                },
+                {
+                  "label": "ネコートさん厚コート",
+                  "url": "http://wiki.mhxg.org/ida/322332.html"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "全てを奪い去る嵐",
+          "recipeUrl": "http://wiki.mhxg.org/ida/299126.html",
+          "detailTitle": "G★4全てを奪い去る嵐 | 【MHXX】モンハンダブルクロス攻略レシピ",
+          "icons": [
+            "討伐"
+          ],
+          "role": "hunter",
+          "tags": [
+            "normal"
+          ],
+          "observations": [
+            {
+              "title": "備考",
+              "text": "HR70以上",
+              "links": []
+            }
+          ]
+        },
+        {
+          "name": "神への抵抗",
+          "recipeUrl": "http://wiki.mhxg.org/ida/299127.html",
+          "detailTitle": "G★4神への抵抗 | 【MHXX】モンハンダブルクロス攻略レシピ",
+          "icons": [
+            "討伐"
+          ],
+          "role": "hunter",
+          "tags": [
+            "normal"
+          ],
+          "observations": [
+            {
+              "title": "備考",
+              "text": "HR80以上",
+              "links": []
+            }
+          ]
+        },
+        {
+          "name": "伝説の黒龍",
+          "recipeUrl": "http://wiki.mhxg.org/ida/299128.html",
+          "detailTitle": "G★4伝説の黒龍 | 【MHXX】モンハンダブルクロス攻略レシピ",
+          "icons": [
+            "討伐"
+          ],
+          "role": "hunter",
+          "tags": [
+            "normal"
+          ],
+          "observations": [
+            {
+              "title": "備考",
+              "text": "HR90以上",
+              "links": []
+            }
+          ]
+        },
+        {
+          "name": "終末の時",
+          "recipeUrl": "http://wiki.mhxg.org/ida/299129.html",
+          "detailTitle": "G★4終末の時 | 【MHXX】モンハンダブルクロス攻略レシピ",
+          "icons": [
+            "討伐"
+          ],
+          "role": "hunter",
+          "tags": [
+            "normal"
+          ],
+          "observations": [
+            {
+              "title": "備考",
+              "text": "HR95以上",
+              "links": []
+            }
+          ]
+        },
+        {
+          "name": "祖龍",
+          "recipeUrl": "http://wiki.mhxg.org/ida/299130.html",
+          "detailTitle": "G★4祖龍 | 【MHXX】モンハンダブルクロス攻略レシピ",
+          "icons": [
+            "討伐"
+          ],
+          "role": "hunter",
+          "tags": [
+            "normal"
+          ],
+          "observations": [
+            {
+              "title": "備考",
+              "text": "HR100以上",
+              "links": []
+            }
+          ]
+        },
+        {
+          "name": "海竜の頭部破壊に挑戦！",
+          "recipeUrl": "http://wiki.mhxg.org/ida/299131.html",
+          "detailTitle": "G★4海竜の頭部破壊に挑戦！ | 【MHXX】モンハンダブルクロス攻略レシピ",
+          "icons": [
+            "ニャンター",
+            "フラグ"
+          ],
+          "role": "prowler",
+          "tags": [
+            "normal"
+          ],
+          "observations": [
+            {
+              "title": "備考",
+              "text": "G★3影蜘蛛の背中破壊に挑戦！ クリア後",
+              "links": [
+                {
+                  "label": "G★3影蜘蛛の背中破壊に挑戦！",
+                  "url": "http://wiki.mhxg.org/ida/299057.html"
+                }
+              ]
+            },
+            {
+              "title": "他のクエスト発生に必要",
+              "text": "G★4雪に紛れしドスギアノス G★4徹甲虫と夫婦の絆 G★4鎧竜の背中破壊に挑戦！ G★4モンスターニャンターＸＸ",
+              "links": [
+                {
+                  "label": "G★4雪に紛れしドスギアノス",
+                  "url": "http://wiki.mhxg.org/ida/299132.html"
+                },
+                {
+                  "label": "G★4徹甲虫と夫婦の絆",
+                  "url": "http://wiki.mhxg.org/ida/299133.html"
+                },
+                {
+                  "label": "G★4鎧竜の背中破壊に挑戦！",
+                  "url": "http://wiki.mhxg.org/ida/299134.html"
+                },
+                {
+                  "label": "G★4モンスターニャンターＸＸ",
+                  "url": "http://wiki.mhxg.org/ida/299135.html"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "雪に紛れしドスギアノス",
+          "recipeUrl": "http://wiki.mhxg.org/ida/299132.html",
+          "detailTitle": "G★4雪に紛れしドスギアノス | 【MHXX】モンハンダブルクロス攻略レシピ",
+          "icons": [
+            "ニャンター"
+          ],
+          "role": "prowler",
+          "tags": [
+            "normal"
+          ],
+          "observations": [
+            {
+              "title": "備考",
+              "text": "G★4海竜の頭部破壊に挑戦！ クリア後",
+              "links": [
+                {
+                  "label": "G★4海竜の頭部破壊に挑戦！",
+                  "url": "http://wiki.mhxg.org/ida/299131.html"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "徹甲虫と夫婦の絆",
+          "recipeUrl": "http://wiki.mhxg.org/ida/299133.html",
+          "detailTitle": "G★4徹甲虫と夫婦の絆 | 【MHXX】モンハンダブルクロス攻略レシピ",
+          "icons": [
+            "ニャンター"
+          ],
+          "role": "prowler",
+          "tags": [
+            "normal"
+          ],
+          "observations": [
+            {
+              "title": "備考",
+              "text": "G★4海竜の頭部破壊に挑戦！ クリア後",
+              "links": [
+                {
+                  "label": "G★4海竜の頭部破壊に挑戦！",
+                  "url": "http://wiki.mhxg.org/ida/299131.html"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "鎧竜の背中破壊に挑戦！",
+          "recipeUrl": "http://wiki.mhxg.org/ida/299134.html",
+          "detailTitle": "G★4鎧竜の背中破壊に挑戦！ | 【MHXX】モンハンダブルクロス攻略レシピ",
+          "icons": [
+            "ニャンター"
+          ],
+          "role": "prowler",
+          "tags": [
+            "normal"
+          ],
+          "observations": [
+            {
+              "title": "備考",
+              "text": "G★4海竜の頭部破壊に挑戦！ クリア後",
+              "links": [
+                {
+                  "label": "G★4海竜の頭部破壊に挑戦！",
+                  "url": "http://wiki.mhxg.org/ida/299131.html"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "モンスターニャンターＸＸ",
+          "recipeUrl": "http://wiki.mhxg.org/ida/299135.html",
+          "detailTitle": "G★4モンスターニャンターＸＸ | 【MHXX】モンハンダブルクロス攻略レシピ",
+          "icons": [
+            "ニャンター"
+          ],
+          "role": "prowler",
+          "tags": [
+            "normal"
+          ],
+          "observations": [
+            {
+              "title": "備考",
+              "text": "G★4海竜の頭部破壊に挑戦！G★4蠢く墟城 クリア後",
+              "links": [
+                {
+                  "label": "G★4海竜の頭部破壊に挑戦！",
+                  "url": "http://wiki.mhxg.org/ida/299131.html"
+                },
+                {
+                  "label": "G★4蠢く墟城",
+                  "url": "http://wiki.mhxg.org/ida/294013.html"
+                }
+              ]
+            }
+          ]
+        }
+      ]
     }
   ],
   "previousRequests": {
