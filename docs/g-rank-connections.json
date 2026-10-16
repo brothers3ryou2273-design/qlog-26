@@ -1,0 +1,319 @@
+{
+  "checkedAt": "2026-10-16",
+  "changes": [
+    {
+      "questId": "village-6-recipe-244681",
+      "name": "高難度：一対の巨影",
+      "before": {
+        "kind": "all",
+        "rules": [
+          {
+            "kind": "hr_at_least",
+            "value": 8
+          },
+          {
+            "kind": "quest_cleared",
+            "questId": "village-6-recipe-220240"
+          },
+          {
+            "kind": "external_flag",
+            "label": "HR上限の解放（ゲーム内の進行状態）"
+          },
+          {
+            "kind": "unknown",
+            "note": "特定の獰猛化クエストを2つ以上クリア。対象クエストは出典未記載。"
+          }
+        ]
+      },
+      "after": {
+        "kind": "all",
+        "rules": [
+          {
+            "kind": "hr_at_least",
+            "value": 8
+          },
+          {
+            "kind": "quest_cleared",
+            "questId": "village-6-recipe-220240"
+          },
+          {
+            "kind": "quest_cleared",
+            "questId": "g-rank-4-recipe-294013"
+          },
+          {
+            "kind": "unknown",
+            "note": "特定の獰猛化クエストを2つ以上クリア。対象クエストは出典未記載。"
+          }
+        ]
+      },
+      "sourceUrls": [
+        "http://wiki.mhxg.org/ida/244681.html",
+        "https://mhx-wiki.com/?cmd=read&page=G4&word=HR%E4%B8%8A%E9%99%90"
+      ],
+      "reason": "確認済みの収録クエストで判定可能な部分のみ固定ID化。独立した納品・HR・対象未特定条件は保持。"
+    },
+    {
+      "questId": "village-9-recipe-286221",
+      "name": "轟竜の狩猟をさせてやるぜ！",
+      "before": {
+        "kind": "all",
+        "rules": [
+          {
+            "kind": "quest_cleared",
+            "questId": "village-6-recipe-244681"
+          },
+          {
+            "kind": "quest_cleared",
+            "questId": "hub-7-recipe-244704"
+          },
+          {
+            "kind": "external_flag",
+            "label": "未収録の前提：G★2泥まみれの商魂！"
+          }
+        ]
+      },
+      "after": {
+        "kind": "all",
+        "rules": [
+          {
+            "kind": "quest_cleared",
+            "questId": "village-6-recipe-244681"
+          },
+          {
+            "kind": "quest_cleared",
+            "questId": "hub-7-recipe-244704"
+          },
+          {
+            "kind": "quest_cleared",
+            "questId": "g-rank-2-recipe-286190"
+          }
+        ]
+      },
+      "sourceUrls": [
+        "http://wiki.mhxg.org/ida/286221.html",
+        "http://wiki.mhxg.org/ida/286221.html"
+      ],
+      "reason": "確認済みの収録クエストで判定可能な部分のみ固定ID化。独立した納品・HR・対象未特定条件は保持。"
+    },
+    {
+      "questId": "village-10-recipe-298986",
+      "name": "高難度：雪山に佇む轟竜",
+      "before": {
+        "kind": "all",
+        "rules": [
+          {
+            "kind": "quest_cleared",
+            "questId": "village-10-recipe-298984"
+          },
+          {
+            "kind": "quest_cleared",
+            "questId": "village-6-recipe-238213"
+          },
+          {
+            "kind": "external_flag",
+            "label": "HR上限の解放（ゲーム内の進行状態）"
+          }
+        ]
+      },
+      "after": {
+        "kind": "all",
+        "rules": [
+          {
+            "kind": "quest_cleared",
+            "questId": "village-10-recipe-298984"
+          },
+          {
+            "kind": "quest_cleared",
+            "questId": "village-6-recipe-238213"
+          },
+          {
+            "kind": "quest_cleared",
+            "questId": "g-rank-4-recipe-294013"
+          }
+        ]
+      },
+      "sourceUrls": [
+        "http://wiki.mhxg.org/ida/298986.html",
+        "https://mhx-wiki.com/?cmd=read&page=G4&word=HR%E4%B8%8A%E9%99%90"
+      ],
+      "reason": "確認済みの収録クエストで判定可能な部分のみ固定ID化。独立した納品・HR・対象未特定条件は保持。"
+    },
+    {
+      "questId": "village-10-recipe-298988",
+      "name": "高難度：銀陽は沈まない",
+      "before": {
+        "kind": "all",
+        "rules": [
+          {
+            "kind": "quest_cleared",
+            "questId": "village-10-recipe-298984"
+          },
+          {
+            "kind": "external_flag",
+            "label": "HR上限の解放（ゲーム内の進行状態）"
+          }
+        ]
+      },
+      "after": {
+        "kind": "all",
+        "rules": [
+          {
+            "kind": "quest_cleared",
+            "questId": "village-10-recipe-298984"
+          },
+          {
+            "kind": "quest_cleared",
+            "questId": "g-rank-4-recipe-294013"
+          }
+        ]
+      },
+      "sourceUrls": [
+        "http://wiki.mhxg.org/ida/298988.html",
+        "https://mhx-wiki.com/?cmd=read&page=G4&word=HR%E4%B8%8A%E9%99%90"
+      ],
+      "reason": "確認済みの収録クエストで判定可能な部分のみ固定ID化。独立した納品・HR・対象未特定条件は保持。"
+    },
+    {
+      "questId": "village-10-recipe-298989",
+      "name": "高難度：彼女は輝く金火竜",
+      "before": {
+        "kind": "all",
+        "rules": [
+          {
+            "kind": "quest_cleared",
+            "questId": "village-10-recipe-298984"
+          },
+          {
+            "kind": "external_flag",
+            "label": "HR上限の解放（ゲーム内の進行状態）"
+          }
+        ]
+      },
+      "after": {
+        "kind": "all",
+        "rules": [
+          {
+            "kind": "quest_cleared",
+            "questId": "village-10-recipe-298984"
+          },
+          {
+            "kind": "quest_cleared",
+            "questId": "g-rank-4-recipe-294013"
+          }
+        ]
+      },
+      "sourceUrls": [
+        "http://wiki.mhxg.org/ida/298989.html",
+        "https://mhx-wiki.com/?cmd=read&page=G4&word=HR%E4%B8%8A%E9%99%90"
+      ],
+      "reason": "確認済みの収録クエストで判定可能な部分のみ固定ID化。独立した納品・HR・対象未特定条件は保持。"
+    },
+    {
+      "questId": "village-10-recipe-298994",
+      "name": "高難度：古代林に現る２頭の影",
+      "before": {
+        "kind": "all",
+        "rules": [
+          {
+            "kind": "quest_cleared",
+            "questId": "village-10-recipe-298984"
+          },
+          {
+            "kind": "external_flag",
+            "label": "HR上限の解放（ゲーム内の進行状態）"
+          }
+        ]
+      },
+      "after": {
+        "kind": "all",
+        "rules": [
+          {
+            "kind": "quest_cleared",
+            "questId": "village-10-recipe-298984"
+          },
+          {
+            "kind": "quest_cleared",
+            "questId": "g-rank-4-recipe-294013"
+          }
+        ]
+      },
+      "sourceUrls": [
+        "http://wiki.mhxg.org/ida/298994.html",
+        "https://mhx-wiki.com/?cmd=read&page=G4&word=HR%E4%B8%8A%E9%99%90"
+      ],
+      "reason": "確認済みの収録クエストで判定可能な部分のみ固定ID化。独立した納品・HR・対象未特定条件は保持。"
+    },
+    {
+      "questId": "village-10-recipe-298995",
+      "name": "高難度：喧嘩の仲裁は村を救う",
+      "before": {
+        "kind": "all",
+        "rules": [
+          {
+            "kind": "quest_cleared",
+            "questId": "village-10-recipe-298984"
+          },
+          {
+            "kind": "external_flag",
+            "label": "HR上限の解放（ゲーム内の進行状態）"
+          },
+          {
+            "kind": "quest_cleared",
+            "questId": "village-5-recipe-219993"
+          },
+          {
+            "kind": "external_flag",
+            "label": "ポッケ村の受付嬢の依頼1：納品 ユクモの木 x4ガウシカの角 x2巨獣の鼻棘 x1"
+          }
+        ]
+      },
+      "after": {
+        "kind": "all",
+        "rules": [
+          {
+            "kind": "quest_cleared",
+            "questId": "village-10-recipe-298984"
+          },
+          {
+            "kind": "quest_cleared",
+            "questId": "g-rank-4-recipe-294013"
+          },
+          {
+            "kind": "quest_cleared",
+            "questId": "village-5-recipe-219993"
+          },
+          {
+            "kind": "external_flag",
+            "label": "ポッケ村の受付嬢の依頼1：納品 ユクモの木 x4ガウシカの角 x2巨獣の鼻棘 x1"
+          }
+        ]
+      },
+      "sourceUrls": [
+        "http://wiki.mhxg.org/ida/298995.html",
+        "https://mhx-wiki.com/?cmd=read&page=G4&word=HR%E4%B8%8A%E9%99%90"
+      ],
+      "reason": "確認済みの収録クエストで判定可能な部分のみ固定ID化。独立した納品・HR・対象未特定条件は保持。"
+    }
+  ],
+  "unlockNoteChanges": [],
+  "unlocksAdded": [
+    {
+      "questId": "hub-7-recipe-285741",
+      "unlock": {
+        "kind": "facility",
+        "label": "オトモの育成レベル上限50の解放経路",
+        "note": "G★1到達、または集★7「モンスターニャンター」（参加HR8以上）のクリア（OR）。育成上限と初期雇用は別です。"
+      },
+      "sourceUrl": "https://w.atwiki.jp/mhxxnyanter/pages/20.html"
+    },
+    {
+      "questId": "hub-7-recipe-285741",
+      "unlock": {
+        "kind": "facility",
+        "label": "アイテムボックス拡張【匠】（研究項目）",
+        "note": "G★1到達と村★8解放の両方（AND）。研究室の開放と、ポイント・素材を使った拡張手続きが別途必要です。"
+      },
+      "sourceUrl": "https://mhx-wiki.com/?%E7%A0%94%E7%A9%B6%E5%AE%A4%E3%81%AE%E6%8B%A1%E5%BC%B5"
+    }
+  ]
+}

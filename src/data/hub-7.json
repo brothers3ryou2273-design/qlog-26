@@ -652,6 +652,16 @@
         "kind": "other",
         "label": "G級（G★1・HR9）への進行",
         "note": "遺跡平原からの伝書達成後に出現する緊急。クリア後の昇格と酒場への移動はゲーム内で確認してください。"
+      },
+      {
+        "kind": "facility",
+        "label": "オトモの育成レベル上限50の解放経路",
+        "note": "G★1到達、または集★7「モンスターニャンター」（参加HR8以上）のクリア（OR）。育成上限と初期雇用は別です。"
+      },
+      {
+        "kind": "facility",
+        "label": "アイテムボックス拡張【匠】（研究項目）",
+        "note": "G★1到達と村★8解放の両方（AND）。研究室の開放と、ポイント・素材を使った拡張手続きが別途必要です。"
       }
     ],
     "sources": [
@@ -676,6 +686,18 @@
       {
         "site": "MHXX攻略Wiki（狩技）",
         "url": "https://mhx-wiki.com/?MHXX%E3%81%AE%E7%8B%A9%E6%8A%80%E7%BF%92%E5%BE%97%E3%82%AF%E3%82%A8%E3%82%B9%E3%83%88%E3%81%BE%E3%81%A8%E3%82%81",
+        "kind": "list",
+        "checkedAt": "2026-10-16"
+      },
+      {
+        "site": "MHXX専門資料（G級到達の別経路）",
+        "url": "https://w.atwiki.jp/mhxxnyanter/pages/20.html",
+        "kind": "list",
+        "checkedAt": "2026-10-16"
+      },
+      {
+        "site": "MHXX専門資料（G級到達の別経路）",
+        "url": "https://mhx-wiki.com/?%E7%A0%94%E7%A9%B6%E5%AE%A4%E3%81%AE%E6%8B%A1%E5%BC%B5",
         "kind": "list",
         "checkedAt": "2026-10-16"
       }

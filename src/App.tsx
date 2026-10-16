@@ -1,6 +1,7 @@
 import { useEffect, useRef, useState } from "react";
 import type { Category, Quest, Rule, SaveData } from "./lib/types";
 import { categories, tagLabels } from "./lib/types";
+import { hasUnlockIndicator } from "./lib/unlocks";
 import { dependents, evaluate } from "./lib/rules";
 import {
   DEMO_SAVE_KEY,
@@ -487,6 +488,9 @@ export default function App() {
                             {q.role === "prowler" ? "ニャンター" : "共通"}
                           </span>
                         )}
+                        {hasUnlockIndicator(q) && (
+                          <span className="tag tag-unlock">解放あり</span>
+                        )}
                       </span>
                       <span className="quest-name">{q.name}</span>
                       <span className="quest-meta">
@@ -806,6 +810,31 @@ export default function App() {
                       }
                     </td>
                     <td>一覧照合済み</td>
+                  </tr>
+                ))}
+              </tbody>
+            </table>
+            <table>
+              <caption>G★1〜4の収録状況</caption>
+              <thead>
+                <tr>
+                  <th>ランク</th>
+                  <th>収録済み</th>
+                  <th>網羅確認</th>
+                </tr>
+              </thead>
+              <tbody>
+                {["G1", "G2", "G3", "G4"].map((rank) => (
+                  <tr key={rank}>
+                    <th>{rank.replace("G", "G★")}</th>
+                    <td>
+                      {
+                        items.filter(
+                          (q) => q.category === "g_rank" && q.rank === rank,
+                        ).length
+                      }
+                    </td>
+                    <td>{demo ? "架空データ対象外" : "一覧照合済み"}</td>
                   </tr>
                 ))}
               </tbody>

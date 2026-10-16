@@ -287,7 +287,7 @@ describe("village 10 special conditions", () => {
     expect(JSON.stringify(q.condition)).toContain(
       "ユクモの木 x4ガウシカの角 x2巨獣の鼻棘 x1",
     );
-    expect(JSON.stringify(q.condition)).toContain("HR上限の解放");
+    expect(references(q.condition)).toContain("g-rank-4-recipe-294013");
     expect(
       evaluate(q.condition, {
         schemaVersion: 1,

@@ -1,3 +1,4 @@
+import gConnections from "../../docs/g-rank-connections.json";
 import { describe, expect, it } from "vitest";
 import audit from "../../docs/hub-audit.json";
 import upperConnections from "../../docs/upper-hub-connections.json";
@@ -86,7 +87,7 @@ describe("observed hub rosters and cross-category dependencies", () => {
         ),
       );
       if (
-        ![...connections.changes, ...upperConnections.changes].some(
+        ![...connections.changes, ...upperConnections.changes, ...gConnections.changes].some(
           (c) => c.questId === b.id,
         )
       ) {
@@ -114,6 +115,7 @@ describe("observed hub rosters and cross-category dependencies", () => {
     for (const c of connections.changes) {
       const q = quests.find((q) => q.id === c.questId)!;
       expect(q.condition).toEqual(
+        gConnections.changes.find((x) => x.questId === c.questId)?.after ??
         upperConnections.changes.find((x) => x.questId === c.questId)?.after ??
           c.after,
       );

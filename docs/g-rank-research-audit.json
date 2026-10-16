@@ -1,0 +1,5951 @@
+{
+  "checkedAt": "2026-10-16",
+  "sourcePriority": [
+    "実機（今回の直接観測なし）",
+    "MHXX攻略レシピ（HTTP）",
+    "MHXX専門攻略Wiki・MHXXニャンターwiki",
+    "Game8"
+  ],
+  "primary": {
+    "rosterAudit": "g-rank-audit.json",
+    "keyListUrl": "http://wiki.mhxg.org/data/2987.html",
+    "foodListUrl": "http://wiki.mhxg.org/data/2950.html",
+    "facilityListUrl": "http://wiki.mhxg.org/data/2951.html",
+    "acquisition": "ホームのG1〜G4アンカーから一覧を取得、全230個別URLを一覧から取得。HTTP応答・詳細タイトルを確認。"
+  },
+  "specialistSources": [
+    {
+      "name": "otomo",
+      "url": "https://w.atwiki.jp/mhxxnyanter/pages/20.html",
+      "checkedAt": "2026-10-16"
+    },
+    {
+      "name": "prowler",
+      "url": "https://w.atwiki.jp/mhxxnyanter/pages/24.html",
+      "checkedAt": "2026-10-16"
+    },
+    {
+      "name": "food",
+      "url": "https://mhx-wiki.com/?%E9%A3%9F%E6%9D%90%E3%82%AF%E3%82%A8%E3%82%B9%E3%83%88%E4%B8%80%E8%A6%A7",
+      "checkedAt": "2026-10-16"
+    },
+    {
+      "name": "arts",
+      "url": "https://mhx-wiki.com/?MHXX%E3%81%AE%E7%8B%A9%E6%8A%80%E7%BF%92%E5%BE%97%E3%82%AF%E3%82%A8%E3%82%B9%E3%83%88%E3%81%BE%E3%81%A8%E3%82%81",
+      "checkedAt": "2026-10-16"
+    },
+    {
+      "name": "meals",
+      "url": "https://mhx-wiki.com/?%E9%A3%9F%E4%BA%8B%E5%8A%B9%E6%9E%9C%E4%B8%80%E8%A6%A7",
+      "checkedAt": "2026-10-16"
+    },
+    {
+      "name": "materials",
+      "url": "https://mhx-wiki.com/?%E3%81%82%E3%81%AE%E7%B4%A0%E6%9D%90%E3%81%A9%E3%81%93%E3%81%A7%E5%85%A5%E6%89%8B%E3%81%A7%E3%81%8D%E3%82%8B%EF%BC%9F",
+      "checkedAt": "2026-10-16"
+    },
+    {
+      "name": "lab",
+      "url": "https://mhx-wiki.com/?%E7%A0%94%E7%A9%B6%E5%AE%A4%E3%81%AE%E6%8B%A1%E5%BC%B5",
+      "checkedAt": "2026-10-16"
+    },
+    {
+      "name": "keys",
+      "url": "https://mhx-wiki.com/?MHXX%E3%81%AE%E9%9B%86%E4%BC%9A%E6%89%80%E3%82%AD%E3%83%BC%E3%82%AF%E3%82%A8%E3%82%B9%E3%83%88%E4%B8%80%E8%A6%A7",
+      "checkedAt": "2026-10-16"
+    },
+    {
+      "name": "dining",
+      "url": "https://mhx-wiki.com/?%E9%A3%9F%E4%BA%8B",
+      "checkedAt": "2026-10-16"
+    },
+    {
+      "name": "g4",
+      "url": "https://mhx-wiki.com/?cmd=read&page=G4&word=HR%E4%B8%8A%E9%99%90",
+      "checkedAt": "2026-10-16"
+    }
+  ],
+  "supplementaryObservations": [
+    {
+      "name": "遺群嶺の採集ツアー",
+      "rank": "1",
+      "url": "https://game8.jp/mh-xx/823723",
+      "fields": {
+        "受注・参加": {
+          "text": "HR9以上",
+          "links": []
+        },
+        "出現条件": {
+          "text": "その腕前、噂通りかしら…？ （集★G1緊急クエスト）をクリア後、酒場のマスターと話す",
+          "links": [
+            {
+              "label": "その腕前、噂通りかしら…？",
+              "url": "https://game8.jp/mh-xx/823659"
+            }
+          ]
+        }
+      }
+    },
+    {
+      "name": "砂漠の採集ツアー",
+      "rank": "1",
+      "url": "https://game8.jp/mh-xx/823724",
+      "fields": {
+        "受注・参加": {
+          "text": "HR9以上",
+          "links": []
+        },
+        "出現条件": {
+          "text": "その腕前、噂通りかしら…？ （集★G1緊急クエスト）をクリア後、酒場のマスターと話す",
+          "links": [
+            {
+              "label": "その腕前、噂通りかしら…？",
+              "url": "https://game8.jp/mh-xx/823659"
+            }
+          ]
+        }
+      }
+    },
+    {
+      "name": "遺跡平原の採集ツアー",
+      "rank": "1",
+      "url": "https://game8.jp/mh-xx/823725",
+      "fields": {
+        "受注・参加": {
+          "text": "HR9以上",
+          "links": []
+        },
+        "出現条件": {
+          "text": "その腕前、噂通りかしら…？ （集★G1緊急クエスト）をクリア後、酒場のマスターと話す",
+          "links": [
+            {
+              "label": "その腕前、噂通りかしら…？",
+              "url": "https://game8.jp/mh-xx/823659"
+            }
+          ]
+        }
+      }
+    },
+    {
+      "name": "原生林の採集ツアー",
+      "rank": "1",
+      "url": "https://game8.jp/mh-xx/823726",
+      "fields": {
+        "受注・参加": {
+          "text": "HR9以上",
+          "links": []
+        },
+        "出現条件": {
+          "text": "その腕前、噂通りかしら…？ （集★G1緊急クエスト）をクリア後、酒場のマスターと話す",
+          "links": [
+            {
+              "label": "その腕前、噂通りかしら…？",
+              "url": "https://game8.jp/mh-xx/823659"
+            }
+          ]
+        }
+      }
+    },
+    {
+      "name": "古代林の採集ツアー",
+      "rank": "1",
+      "url": "https://game8.jp/mh-xx/823727",
+      "fields": {
+        "受注・参加": {
+          "text": "HR9以上",
+          "links": []
+        },
+        "出現条件": {
+          "text": "その腕前、噂通りかしら…？ （集★G1緊急クエスト）をクリア後、酒場のマスターと話す",
+          "links": [
+            {
+              "label": "その腕前、噂通りかしら…？",
+              "url": "https://game8.jp/mh-xx/823659"
+            }
+          ]
+        }
+      }
+    },
+    {
+      "name": "旧砂漠の採集ツアー",
+      "rank": "1",
+      "url": "https://game8.jp/mh-xx/823728",
+      "fields": {
+        "受注・参加": {
+          "text": "HR9以上",
+          "links": []
+        },
+        "出現条件": {
+          "text": "その腕前、噂通りかしら…？ （集★G1緊急クエスト）をクリア後、酒場のマスターと話す",
+          "links": [
+            {
+              "label": "その腕前、噂通りかしら…？",
+              "url": "https://game8.jp/mh-xx/823659"
+            }
+          ]
+        }
+      }
+    },
+    {
+      "name": "森丘の採集ツアー",
+      "rank": "1",
+      "url": "https://game8.jp/mh-xx/823729",
+      "fields": {
+        "受注・参加": {
+          "text": "HR9以上",
+          "links": []
+        },
+        "出現条件": {
+          "text": "その腕前、噂通りかしら…？ （集★G1緊急クエスト）をクリア後、酒場のマスターと話す",
+          "links": [
+            {
+              "label": "その腕前、噂通りかしら…？",
+              "url": "https://game8.jp/mh-xx/823659"
+            }
+          ]
+        }
+      }
+    },
+    {
+      "name": "雪山の採集ツアー",
+      "rank": "1",
+      "url": "https://game8.jp/mh-xx/823730",
+      "fields": {
+        "受注・参加": {
+          "text": "HR9以上",
+          "links": []
+        },
+        "出現条件": {
+          "text": "その腕前、噂通りかしら…？ （集★G1緊急クエスト）をクリア後、酒場のマスターと話す",
+          "links": [
+            {
+              "label": "その腕前、噂通りかしら…？",
+              "url": "https://game8.jp/mh-xx/823659"
+            }
+          ]
+        }
+      }
+    },
+    {
+      "name": "渓流の採集ツアー",
+      "rank": "1",
+      "url": "https://game8.jp/mh-xx/823731",
+      "fields": {
+        "受注・参加": {
+          "text": "HR9以上",
+          "links": []
+        },
+        "出現条件": {
+          "text": "その腕前、噂通りかしら…？ （集★G1緊急クエスト）をクリア後、酒場のマスターと話す",
+          "links": [
+            {
+              "label": "その腕前、噂通りかしら…？",
+              "url": "https://game8.jp/mh-xx/823659"
+            }
+          ]
+        }
+      }
+    },
+    {
+      "name": "つつかれて、またつつかれて",
+      "rank": "1",
+      "url": "https://game8.jp/mh-xx/823732",
+      "fields": {
+        "受注・参加": {
+          "text": "HR9以上",
+          "links": []
+        },
+        "出現条件": {
+          "text": "その腕前、噂通りかしら…？ （集★G1緊急クエスト）をクリア後、酒場のマスターと話す",
+          "links": [
+            {
+              "label": "その腕前、噂通りかしら…？",
+              "url": "https://game8.jp/mh-xx/823659"
+            }
+          ]
+        }
+      }
+    },
+    {
+      "name": "毒怪鳥が盗んだものを追って",
+      "rank": "1",
+      "url": "https://game8.jp/mh-xx/823733",
+      "fields": {
+        "受注・参加": {
+          "text": "HR9以上",
+          "links": []
+        },
+        "出現条件": {
+          "text": "依頼「ネコ嬢の依頼3」を受注",
+          "links": []
+        }
+      }
+    },
+    {
+      "name": "看板娘セレクト：遺群嶺の水獣",
+      "rank": "1",
+      "url": "https://game8.jp/mh-xx/823734",
+      "fields": {
+        "受注・参加": {
+          "text": "HR9以上",
+          "links": []
+        },
+        "出現条件": {
+          "text": "依頼「ユクモ村の看板娘の依頼2」を受注",
+          "links": []
+        }
+      }
+    },
+    {
+      "name": "牙獣の行水",
+      "rank": "1",
+      "url": "https://game8.jp/mh-xx/823735",
+      "fields": {
+        "受注・参加": {
+          "text": "HR9以上",
+          "links": []
+        },
+        "出現条件": {
+          "text": "その腕前、噂通りかしら…？ （集★G1緊急クエスト）をクリア後、酒場のマスターと話す",
+          "links": [
+            {
+              "label": "その腕前、噂通りかしら…？",
+              "url": "https://game8.jp/mh-xx/823659"
+            }
+          ]
+        }
+      }
+    },
+    {
+      "name": "不潔ものの大集会",
+      "rank": "1",
+      "url": "https://game8.jp/mh-xx/823736",
+      "fields": {
+        "受注・参加": {
+          "text": "HR9以上",
+          "links": []
+        },
+        "出現条件": {
+          "text": "その腕前、噂通りかしら…？ （集★G1緊急クエスト）をクリア後、酒場のマスターと話す",
+          "links": [
+            {
+              "label": "その腕前、噂通りかしら…？",
+              "url": "https://game8.jp/mh-xx/823659"
+            }
+          ]
+        }
+      }
+    },
+    {
+      "name": "高層エリンギは寝て待て",
+      "rank": "1",
+      "url": "https://game8.jp/mh-xx/823737",
+      "fields": {
+        "受注・参加": {
+          "text": "HR9以上",
+          "links": []
+        },
+        "出現条件": {
+          "text": "その腕前、噂通りかしら…？ （集★G1緊急クエスト）をクリア後、酒場のマスターと話す",
+          "links": [
+            {
+              "label": "その腕前、噂通りかしら…？",
+              "url": "https://game8.jp/mh-xx/823659"
+            }
+          ]
+        }
+      }
+    },
+    {
+      "name": "アツアツ砂漠の盾蟹狩猟",
+      "rank": "1",
+      "url": "https://game8.jp/mh-xx/823738",
+      "fields": {
+        "受注・参加": {
+          "text": "HR9以上",
+          "links": []
+        },
+        "出現条件": {
+          "text": "依頼「さすらいのコックの依頼2」を受注",
+          "links": []
+        }
+      }
+    },
+    {
+      "name": "熱帯イチゴはカネの味？",
+      "rank": "1",
+      "url": "https://game8.jp/mh-xx/823739",
+      "fields": {
+        "受注・参加": {
+          "text": "HR9以上",
+          "links": []
+        },
+        "出現条件": {
+          "text": "その腕前、噂通りかしら…？ （集★G1緊急クエスト）をクリア後、酒場のマスターと話す",
+          "links": [
+            {
+              "label": "その腕前、噂通りかしら…？",
+              "url": "https://game8.jp/mh-xx/823659"
+            }
+          ]
+        }
+      }
+    },
+    {
+      "name": "奪われて、追いかけて",
+      "rank": "1",
+      "url": "https://game8.jp/mh-xx/823740",
+      "fields": {
+        "受注・参加": {
+          "text": "HR9以上",
+          "links": []
+        },
+        "出現条件": {
+          "text": "その腕前、噂通りかしら…？ （集★G1緊急クエスト）をクリア後、酒場のマスターと話す",
+          "links": [
+            {
+              "label": "その腕前、噂通りかしら…？",
+              "url": "https://game8.jp/mh-xx/823659"
+            }
+          ]
+        }
+      }
+    },
+    {
+      "name": "人騒がせないたずら者たち",
+      "rank": "1",
+      "url": "https://game8.jp/mh-xx/823741",
+      "fields": {
+        "受注・参加": {
+          "text": "HR9以上",
+          "links": []
+        },
+        "出現条件": {
+          "text": "その腕前、噂通りかしら…？ （集★G1緊急クエスト）をクリア後、酒場のマスターと話す",
+          "links": [
+            {
+              "label": "その腕前、噂通りかしら…？",
+              "url": "https://game8.jp/mh-xx/823659"
+            }
+          ]
+        }
+      }
+    },
+    {
+      "name": "イタズラ猿に制裁を",
+      "rank": "1",
+      "url": "https://game8.jp/mh-xx/823742",
+      "fields": {
+        "受注・参加": {
+          "text": "HR9以上",
+          "links": []
+        },
+        "出現条件": {
+          "text": "その腕前、噂通りかしら…？ （集★G1緊急クエスト）をクリア後、酒場のマスターと話す",
+          "links": [
+            {
+              "label": "その腕前、噂通りかしら…？",
+              "url": "https://game8.jp/mh-xx/823659"
+            }
+          ]
+        }
+      }
+    },
+    {
+      "name": "罪深きタルの食材探訪",
+      "rank": "1",
+      "url": "https://game8.jp/mh-xx/823743",
+      "fields": {
+        "受注・参加": {
+          "text": "HR9以上",
+          "links": []
+        },
+        "出現条件": {
+          "text": "依頼「タルアイルーの依頼」を受注",
+          "links": []
+        }
+      }
+    },
+    {
+      "name": "嗚呼素晴らしき也、鬼蛙",
+      "rank": "1",
+      "url": "https://game8.jp/mh-xx/823744",
+      "fields": {
+        "受注・参加": {
+          "text": "HR9以上",
+          "links": []
+        },
+        "出現条件": {
+          "text": "その腕前、噂通りかしら…？ （集★G1緊急クエスト）をクリア後、酒場のマスターと話す",
+          "links": [
+            {
+              "label": "その腕前、噂通りかしら…？",
+              "url": "https://game8.jp/mh-xx/823659"
+            }
+          ]
+        }
+      }
+    },
+    {
+      "name": "ムシのできない遭遇",
+      "rank": "1",
+      "url": "https://game8.jp/mh-xx/823745",
+      "fields": {
+        "受注・参加": {
+          "text": "HR9以上",
+          "links": []
+        },
+        "出現条件": {
+          "text": "その腕前、噂通りかしら…？ （集★G1緊急クエスト）をクリア後、酒場のマスターと話す",
+          "links": [
+            {
+              "label": "その腕前、噂通りかしら…？",
+              "url": "https://game8.jp/mh-xx/823659"
+            }
+          ]
+        }
+      }
+    },
+    {
+      "name": "砂中からのサプライズ",
+      "rank": "1",
+      "url": "https://game8.jp/mh-xx/823746",
+      "fields": {
+        "受注・参加": {
+          "text": "HR9以上",
+          "links": []
+        },
+        "出現条件": {
+          "text": "その腕前、噂通りかしら…？ （集★G1緊急クエスト）をクリア後、酒場のマスターと話す",
+          "links": [
+            {
+              "label": "その腕前、噂通りかしら…？",
+              "url": "https://game8.jp/mh-xx/823659"
+            }
+          ]
+        }
+      }
+    },
+    {
+      "name": "森丘の迷惑な怪鳥さん",
+      "rank": "1",
+      "url": "https://game8.jp/mh-xx/823747",
+      "fields": {
+        "受注・参加": {
+          "text": "HR9以上",
+          "links": []
+        },
+        "出現条件": {
+          "text": "依頼「ドンドルマの守護兵の依頼3」を受注",
+          "links": []
+        }
+      }
+    },
+    {
+      "name": "氷雪に舞う白うさぎ",
+      "rank": "1",
+      "url": "https://game8.jp/mh-xx/823748",
+      "fields": {
+        "受注・参加": {
+          "text": "HR9以上",
+          "links": []
+        },
+        "出現条件": {
+          "text": "その腕前、噂通りかしら…？ （集★G1緊急クエスト）をクリア後、酒場のマスターと話す",
+          "links": [
+            {
+              "label": "その腕前、噂通りかしら…？",
+              "url": "https://game8.jp/mh-xx/823659"
+            }
+          ]
+        }
+      }
+    },
+    {
+      "name": "ドスの威信を賭けた戦い",
+      "rank": "1",
+      "url": "https://game8.jp/mh-xx/823749",
+      "fields": {
+        "受注・参加": {
+          "text": "HR9以上",
+          "links": []
+        },
+        "出現条件": {
+          "text": "その腕前、噂通りかしら…？ （集★G1緊急クエスト）をクリア後、酒場のマスターと話す",
+          "links": [
+            {
+              "label": "その腕前、噂通りかしら…？",
+              "url": "https://game8.jp/mh-xx/823659"
+            }
+          ]
+        }
+      }
+    },
+    {
+      "name": "川辺のアオアシラ退治",
+      "rank": "1",
+      "url": "https://game8.jp/mh-xx/823750",
+      "fields": {
+        "受注・参加": {
+          "text": "HR9以上",
+          "links": []
+        },
+        "出現条件": {
+          "text": "依頼「漁港の女主人の依頼2」を受注",
+          "links": []
+        }
+      }
+    },
+    {
+      "name": "水獣たちの争い",
+      "rank": "1",
+      "url": "https://game8.jp/mh-xx/823751",
+      "fields": {
+        "受注・参加": {
+          "text": "HR9以上",
+          "links": []
+        },
+        "出現条件": {
+          "text": "その腕前、噂通りかしら…？ （集★G1緊急クエスト）をクリア後、酒場のマスターと話す",
+          "links": [
+            {
+              "label": "その腕前、噂通りかしら…？",
+              "url": "https://game8.jp/mh-xx/823659"
+            }
+          ]
+        }
+      }
+    },
+    {
+      "name": "羽合の衆",
+      "rank": "1",
+      "url": "https://game8.jp/mh-xx/823752",
+      "fields": {
+        "受注・参加": {
+          "text": "HR9以上",
+          "links": []
+        },
+        "出現条件": {
+          "text": "その腕前、噂通りかしら…？ （集★G1緊急クエスト）をクリア後、酒場のマスターと話す",
+          "links": [
+            {
+              "label": "その腕前、噂通りかしら…？",
+              "url": "https://game8.jp/mh-xx/823659"
+            }
+          ]
+        }
+      }
+    },
+    {
+      "name": "遺跡平原のポイント招きネコ",
+      "rank": "1",
+      "url": "https://game8.jp/mh-xx/823753",
+      "fields": {
+        "受注・参加": {
+          "text": "HR9以上",
+          "links": []
+        },
+        "出現条件": {
+          "text": "羽合の衆 をクリア",
+          "links": [
+            {
+              "label": "羽合の衆",
+              "url": "https://game8.jp/mh-xx/823752"
+            }
+          ]
+        }
+      }
+    },
+    {
+      "name": "砂漠ゲネポス戦線",
+      "rank": "1",
+      "url": "https://game8.jp/mh-xx/823754",
+      "fields": {
+        "受注・参加": {
+          "text": "HR9以上",
+          "links": []
+        },
+        "出現条件": {
+          "text": "羽合の衆 をクリア",
+          "links": [
+            {
+              "label": "羽合の衆",
+              "url": "https://game8.jp/mh-xx/823752"
+            }
+          ]
+        }
+      }
+    },
+    {
+      "name": "密林の採集ツアー",
+      "rank": "2",
+      "url": "https://game8.jp/mh-xx/823755",
+      "fields": {
+        "受注・参加": {
+          "text": "HR9以上",
+          "links": []
+        },
+        "出現条件": {
+          "text": "泥まみれの商魂！ （集★G2緊急クエスト）をクリア後、酒場のマスターと話す",
+          "links": [
+            {
+              "label": "泥まみれの商魂！",
+              "url": "https://game8.jp/mh-xx/823766"
+            }
+          ]
+        }
+      }
+    },
+    {
+      "name": "氷海の採集ツアー",
+      "rank": "2",
+      "url": "https://game8.jp/mh-xx/823756",
+      "fields": {
+        "受注・参加": {
+          "text": "HR9以上",
+          "links": []
+        },
+        "出現条件": {
+          "text": "泥まみれの商魂！ （集★G2緊急クエスト）をクリア後、酒場のマスターと話す",
+          "links": [
+            {
+              "label": "泥まみれの商魂！",
+              "url": "https://game8.jp/mh-xx/823766"
+            }
+          ]
+        }
+      }
+    },
+    {
+      "name": "孤島の採集ツアー",
+      "rank": "2",
+      "url": "https://game8.jp/mh-xx/823757",
+      "fields": {
+        "受注・参加": {
+          "text": "HR9以上",
+          "links": []
+        },
+        "出現条件": {
+          "text": "泥まみれの商魂！ （集★G2緊急クエスト）をクリア後、酒場のマスターと話す",
+          "links": [
+            {
+              "label": "泥まみれの商魂！",
+              "url": "https://game8.jp/mh-xx/823766"
+            }
+          ]
+        }
+      }
+    },
+    {
+      "name": "沼地の採集ツアー",
+      "rank": "2",
+      "url": "https://game8.jp/mh-xx/823758",
+      "fields": {
+        "受注・参加": {
+          "text": "HR9以上",
+          "links": []
+        },
+        "出現条件": {
+          "text": "泥まみれの商魂！ （集★G2緊急クエスト）をクリア後、酒場のマスターと話す",
+          "links": [
+            {
+              "label": "泥まみれの商魂！",
+              "url": "https://game8.jp/mh-xx/823766"
+            }
+          ]
+        }
+      }
+    },
+    {
+      "name": "火山の採集ツアー",
+      "rank": "2",
+      "url": "https://game8.jp/mh-xx/823759",
+      "fields": {
+        "受注・参加": {
+          "text": "HR9以上",
+          "links": []
+        },
+        "出現条件": {
+          "text": "泥まみれの商魂！ （集★G2緊急クエスト）をクリア後、酒場のマスターと話す",
+          "links": [
+            {
+              "label": "泥まみれの商魂！",
+              "url": "https://game8.jp/mh-xx/823766"
+            }
+          ]
+        }
+      }
+    },
+    {
+      "name": "泥まみれの商魂！",
+      "rank": "2",
+      "url": "https://game8.jp/mh-xx/823766",
+      "fields": {
+        "受注・参加": {
+          "text": "HR9以上",
+          "links": []
+        },
+        "出現条件": {
+          "text": "つつかれて、またつつかれて 、 奪われて、追いかけて 、 砂中からのサプライズ 、 ドスの威信を賭けた戦い 、 水獣たちの争い をクリア後、酒場のマスターと話す",
+          "links": [
+            {
+              "label": "つつかれて、またつつかれて",
+              "url": "https://game8.jp/mh-xx/823732"
+            },
+            {
+              "label": "奪われて、追いかけて",
+              "url": "https://game8.jp/mh-xx/823740"
+            },
+            {
+              "label": "砂中からのサプライズ",
+              "url": "https://game8.jp/mh-xx/823746"
+            },
+            {
+              "label": "ドスの威信を賭けた戦い",
+              "url": "https://game8.jp/mh-xx/823749"
+            },
+            {
+              "label": "水獣たちの争い",
+              "url": "https://game8.jp/mh-xx/823751"
+            }
+          ]
+        }
+      }
+    },
+    {
+      "name": "至宝の林檎王？",
+      "rank": "2",
+      "url": "https://game8.jp/mh-xx/823760",
+      "fields": {
+        "受注・参加": {
+          "text": "HR9以上",
+          "links": []
+        },
+        "出現条件": {
+          "text": "依頼「ドンドルマの道具屋の依頼2」を受注",
+          "links": []
+        }
+      }
+    },
+    {
+      "name": "遺群嶺のトレジャー！ 米の巻",
+      "rank": "2",
+      "url": "https://game8.jp/mh-xx/823761",
+      "fields": {
+        "受注・参加": {
+          "text": "HR9以上",
+          "links": []
+        },
+        "出現条件": {
+          "text": "依頼「トレジィの依頼4」を受注",
+          "links": []
+        }
+      }
+    },
+    {
+      "name": "遺群嶺の緑の女王",
+      "rank": "2",
+      "url": "https://game8.jp/mh-xx/823762",
+      "fields": {
+        "受注・参加": {
+          "text": "HR9以上",
+          "links": []
+        },
+        "出現条件": {
+          "text": "泥まみれの商魂！ （集★G2緊急クエスト）をクリア後、酒場のマスターと話す",
+          "links": [
+            {
+              "label": "泥まみれの商魂！",
+              "url": "https://game8.jp/mh-xx/823766"
+            }
+          ]
+        }
+      }
+    },
+    {
+      "name": "切り裂かれた誇り",
+      "rank": "2",
+      "url": "https://game8.jp/mh-xx/823763",
+      "fields": {
+        "受注・参加": {
+          "text": "HR9以上",
+          "links": []
+        },
+        "出現条件": {
+          "text": "泥まみれの商魂！ （集★G2緊急クエスト）をクリア後、酒場のマスターと話す",
+          "links": [
+            {
+              "label": "泥まみれの商魂！",
+              "url": "https://game8.jp/mh-xx/823766"
+            }
+          ]
+        }
+      }
+    },
+    {
+      "name": "武具屋のお使い",
+      "rank": "2",
+      "url": "https://game8.jp/mh-xx/823764",
+      "fields": {
+        "受注・参加": {
+          "text": "HR9以上",
+          "links": []
+        },
+        "出現条件": {
+          "text": "泥まみれの商魂！ （集★G2緊急クエスト）をクリア後、酒場のマスターと話す",
+          "links": [
+            {
+              "label": "泥まみれの商魂！",
+              "url": "https://game8.jp/mh-xx/823766"
+            }
+          ]
+        }
+      }
+    },
+    {
+      "name": "転がれ！ 転がせ！ 赤い牙獣",
+      "rank": "2",
+      "url": "https://game8.jp/mh-xx/823765",
+      "fields": {
+        "受注・参加": {
+          "text": "HR9以上",
+          "links": []
+        },
+        "出現条件": {
+          "text": "泥まみれの商魂！ （集★G2緊急クエスト）をクリア後、酒場のマスターと話す",
+          "links": [
+            {
+              "label": "泥まみれの商魂！",
+              "url": "https://game8.jp/mh-xx/823766"
+            }
+          ]
+        }
+      }
+    },
+    {
+      "name": "二人で特訓、成果は山分け",
+      "rank": "2",
+      "url": "https://game8.jp/mh-xx/823767",
+      "fields": {
+        "受注・参加": {
+          "text": "HR9以上",
+          "links": []
+        },
+        "出現条件": {
+          "text": "依頼「筆頭ルーキーの依頼2」を受注",
+          "links": []
+        }
+      }
+    },
+    {
+      "name": "砂漠の水面に潜む影",
+      "rank": "2",
+      "url": "https://game8.jp/mh-xx/823768",
+      "fields": {
+        "受注・参加": {
+          "text": "HR9以上",
+          "links": []
+        },
+        "出現条件": {
+          "text": "泥まみれの商魂！ （集★G2緊急クエスト）をクリア後、酒場のマスターと話す",
+          "links": [
+            {
+              "label": "泥まみれの商魂！",
+              "url": "https://game8.jp/mh-xx/823766"
+            }
+          ]
+        }
+      }
+    },
+    {
+      "name": "ババコンガのキノコ品評会",
+      "rank": "2",
+      "url": "https://game8.jp/mh-xx/823769",
+      "fields": {
+        "受注・参加": {
+          "text": "HR9以上",
+          "links": []
+        },
+        "出現条件": {
+          "text": "泥まみれの商魂！ （集★G2緊急クエスト）をクリア後、酒場のマスターと話す",
+          "links": [
+            {
+              "label": "泥まみれの商魂！",
+              "url": "https://game8.jp/mh-xx/823766"
+            }
+          ]
+        }
+      }
+    },
+    {
+      "name": "空の家族・空路を守るッス",
+      "rank": "2",
+      "url": "https://game8.jp/mh-xx/823770",
+      "fields": {
+        "受注・参加": {
+          "text": "HR9以上",
+          "links": []
+        },
+        "出現条件": {
+          "text": "依頼「狩猟船団・赤槍の依頼2」を受注",
+          "links": []
+        }
+      }
+    },
+    {
+      "name": "密林のナルガクルガと対峙せよ",
+      "rank": "2",
+      "url": "https://game8.jp/mh-xx/823771",
+      "fields": {
+        "受注・参加": {
+          "text": "HR9以上",
+          "links": []
+        },
+        "出現条件": {
+          "text": "依頼「筆頭リーダーの依頼3」を受注",
+          "links": []
+        }
+      }
+    },
+    {
+      "name": "ゆらめく光はまぶしくて",
+      "rank": "2",
+      "url": "https://game8.jp/mh-xx/823772",
+      "fields": {
+        "受注・参加": {
+          "text": "HR9以上",
+          "links": []
+        },
+        "出現条件": {
+          "text": "泥まみれの商魂！ （集★G2緊急クエスト）をクリア後、酒場のマスターと話す",
+          "links": [
+            {
+              "label": "泥まみれの商魂！",
+              "url": "https://game8.jp/mh-xx/823766"
+            }
+          ]
+        }
+      }
+    },
+    {
+      "name": "貝殻に思いをのせて",
+      "rank": "2",
+      "url": "https://game8.jp/mh-xx/823773",
+      "fields": {
+        "受注・参加": {
+          "text": "HR9以上",
+          "links": []
+        },
+        "出現条件": {
+          "text": "泥まみれの商魂！ （集★G2緊急クエスト）をクリア後、酒場のマスターと話す",
+          "links": [
+            {
+              "label": "泥まみれの商魂！",
+              "url": "https://game8.jp/mh-xx/823766"
+            }
+          ]
+        }
+      }
+    },
+    {
+      "name": "女王、降臨す",
+      "rank": "2",
+      "url": "https://game8.jp/mh-xx/823774",
+      "fields": {
+        "受注・参加": {
+          "text": "HR9以上",
+          "links": []
+        },
+        "出現条件": {
+          "text": "泥まみれの商魂！ （集★G2緊急クエスト）をクリア後、酒場のマスターと話す",
+          "links": [
+            {
+              "label": "泥まみれの商魂！",
+              "url": "https://game8.jp/mh-xx/823766"
+            }
+          ]
+        }
+      }
+    },
+    {
+      "name": "ネルスキュラの生態研究",
+      "rank": "2",
+      "url": "https://game8.jp/mh-xx/823775",
+      "fields": {
+        "受注・参加": {
+          "text": "HR9以上",
+          "links": []
+        },
+        "出現条件": {
+          "text": "泥まみれの商魂！ （集★G2緊急クエスト）をクリア後、酒場のマスターと話す",
+          "links": [
+            {
+              "label": "泥まみれの商魂！",
+              "url": "https://game8.jp/mh-xx/823766"
+            }
+          ]
+        }
+      }
+    },
+    {
+      "name": "原生林は毒色に染まる",
+      "rank": "2",
+      "url": "https://game8.jp/mh-xx/823776",
+      "fields": {
+        "受注・参加": {
+          "text": "HR9以上",
+          "links": []
+        },
+        "出現条件": {
+          "text": "泥まみれの商魂！ （集★G2緊急クエスト）をクリア後、酒場のマスターと話す",
+          "links": [
+            {
+              "label": "泥まみれの商魂！",
+              "url": "https://game8.jp/mh-xx/823766"
+            }
+          ]
+        }
+      }
+    },
+    {
+      "name": "閃きへの1ピースを求めて",
+      "rank": "2",
+      "url": "https://game8.jp/mh-xx/823777",
+      "fields": {
+        "受注・参加": {
+          "text": "HR9以上",
+          "links": []
+        },
+        "出現条件": {
+          "text": "依頼「休息中のハンターの依頼」を受注",
+          "links": []
+        }
+      }
+    },
+    {
+      "name": "強暴なる矢尻たち",
+      "rank": "2",
+      "url": "https://game8.jp/mh-xx/823778",
+      "fields": {
+        "受注・参加": {
+          "text": "HR9以上",
+          "links": []
+        },
+        "出現条件": {
+          "text": "泥まみれの商魂！ （集★G2緊急クエスト）をクリア後、酒場のマスターと話す",
+          "links": [
+            {
+              "label": "泥まみれの商魂！",
+              "url": "https://game8.jp/mh-xx/823766"
+            }
+          ]
+        }
+      }
+    },
+    {
+      "name": "たまには釣りでもいかが？",
+      "rank": "2",
+      "url": "https://game8.jp/mh-xx/823779",
+      "fields": {
+        "受注・参加": {
+          "text": "HR9以上",
+          "links": []
+        },
+        "出現条件": {
+          "text": "泥まみれの商魂！ （集★G2緊急クエスト）をクリア後、酒場のマスターと話す",
+          "links": [
+            {
+              "label": "泥まみれの商魂！",
+              "url": "https://game8.jp/mh-xx/823766"
+            }
+          ]
+        }
+      }
+    },
+    {
+      "name": "転んで跳ねて七転八倒",
+      "rank": "2",
+      "url": "https://game8.jp/mh-xx/823780",
+      "fields": {
+        "受注・参加": {
+          "text": "HR9以上",
+          "links": []
+        },
+        "出現条件": {
+          "text": "泥まみれの商魂！ （集★G2緊急クエスト）をクリア後、酒場のマスターと話す",
+          "links": [
+            {
+              "label": "泥まみれの商魂！",
+              "url": "https://game8.jp/mh-xx/823766"
+            }
+          ]
+        }
+      }
+    },
+    {
+      "name": "土砂竜・ボルボロス！",
+      "rank": "2",
+      "url": "https://game8.jp/mh-xx/823781",
+      "fields": {
+        "受注・参加": {
+          "text": "HR9以上",
+          "links": []
+        },
+        "出現条件": {
+          "text": "泥まみれの商魂！ （集★G2緊急クエスト）をクリア後、酒場のマスターと話す",
+          "links": [
+            {
+              "label": "泥まみれの商魂！",
+              "url": "https://game8.jp/mh-xx/823766"
+            }
+          ]
+        }
+      }
+    },
+    {
+      "name": "砂漠の積荷は誰の物？",
+      "rank": "2",
+      "url": "https://game8.jp/mh-xx/823782",
+      "fields": {
+        "受注・参加": {
+          "text": "HR9以上",
+          "links": []
+        },
+        "出現条件": {
+          "text": "泥まみれの商魂！ （集★G2緊急クエスト）をクリア後、酒場のマスターと話す",
+          "links": [
+            {
+              "label": "泥まみれの商魂！",
+              "url": "https://game8.jp/mh-xx/823766"
+            }
+          ]
+        }
+      }
+    },
+    {
+      "name": "グルグルするらしいです",
+      "rank": "2",
+      "url": "https://game8.jp/mh-xx/823783",
+      "fields": {
+        "受注・参加": {
+          "text": "HR9以上",
+          "links": []
+        },
+        "出現条件": {
+          "text": "依頼「ユクモ村の受付嬢の依頼2」を受注",
+          "links": []
+        }
+      }
+    },
+    {
+      "name": "身体の芯までビッリビリ",
+      "rank": "2",
+      "url": "https://game8.jp/mh-xx/823784",
+      "fields": {
+        "受注・参加": {
+          "text": "HR9以上",
+          "links": []
+        },
+        "出現条件": {
+          "text": "依頼「集会浴場の番台さんの依頼4」を受注",
+          "links": []
+        }
+      }
+    },
+    {
+      "name": "……欲するならば資格を示して",
+      "rank": "2",
+      "url": "https://game8.jp/mh-xx/823785",
+      "fields": {
+        "受注・参加": {
+          "text": "HR9以上",
+          "links": []
+        },
+        "出現条件": {
+          "text": "依頼「タンジアの銅鑼担当の依頼2」を受注",
+          "links": []
+        }
+      }
+    },
+    {
+      "name": "ドドブランゴは2頭いる",
+      "rank": "2",
+      "url": "https://game8.jp/mh-xx/823786",
+      "fields": {
+        "受注・参加": {
+          "text": "HR9以上",
+          "links": []
+        },
+        "出現条件": {
+          "text": "泥まみれの商魂！ （集★G2緊急クエスト）をクリア後、酒場のマスターと話す",
+          "links": [
+            {
+              "label": "泥まみれの商魂！",
+              "url": "https://game8.jp/mh-xx/823766"
+            }
+          ]
+        }
+      }
+    },
+    {
+      "name": "チコ村を脅かす水竜を狩れ！",
+      "rank": "2",
+      "url": "https://game8.jp/mh-xx/823787",
+      "fields": {
+        "受注・参加": {
+          "text": "HR9以上",
+          "links": []
+        },
+        "出現条件": {
+          "text": "依頼「キャラバンの料理長の依頼3」を受注",
+          "links": []
+        }
+      }
+    },
+    {
+      "name": "漆黒の影",
+      "rank": "2",
+      "url": "https://game8.jp/mh-xx/823788",
+      "fields": {
+        "受注・参加": {
+          "text": "HR9以上",
+          "links": []
+        },
+        "出現条件": {
+          "text": "泥まみれの商魂！ （集★G2緊急クエスト）をクリア後、酒場のマスターと話す",
+          "links": [
+            {
+              "label": "泥まみれの商魂！",
+              "url": "https://game8.jp/mh-xx/823766"
+            }
+          ]
+        }
+      }
+    },
+    {
+      "name": "夜鳥のじけん",
+      "rank": "2",
+      "url": "https://game8.jp/mh-xx/823789",
+      "fields": {
+        "受注・参加": {
+          "text": "HR9以上",
+          "links": []
+        },
+        "出現条件": {
+          "text": "泥まみれの商魂！ （集★G2緊急クエスト）をクリア後、酒場のマスターと話す",
+          "links": [
+            {
+              "label": "泥まみれの商魂！",
+              "url": "https://game8.jp/mh-xx/823766"
+            }
+          ]
+        }
+      }
+    },
+    {
+      "name": "おのずと岩は動き出す",
+      "rank": "2",
+      "url": "https://game8.jp/mh-xx/823790",
+      "fields": {
+        "受注・参加": {
+          "text": "HR9以上",
+          "links": []
+        },
+        "出現条件": {
+          "text": "泥まみれの商魂！ （集★G2緊急クエスト）をクリア後、酒場のマスターと話す",
+          "links": [
+            {
+              "label": "泥まみれの商魂！",
+              "url": "https://game8.jp/mh-xx/823766"
+            }
+          ]
+        }
+      }
+    },
+    {
+      "name": "洞窟に潜む影",
+      "rank": "2",
+      "url": "https://game8.jp/mh-xx/823791",
+      "fields": {
+        "受注・参加": {
+          "text": "HR9以上",
+          "links": []
+        },
+        "出現条件": {
+          "text": "泥まみれの商魂！ （集★G2緊急クエスト）をクリア後、酒場のマスターと話す",
+          "links": [
+            {
+              "label": "泥まみれの商魂！",
+              "url": "https://game8.jp/mh-xx/823766"
+            }
+          ]
+        }
+      }
+    },
+    {
+      "name": "陰湿毒沼の狂想曲",
+      "rank": "2",
+      "url": "https://game8.jp/mh-xx/823792",
+      "fields": {
+        "受注・参加": {
+          "text": "HR9以上",
+          "links": []
+        },
+        "出現条件": {
+          "text": "泥まみれの商魂！ （集★G2緊急クエスト）をクリア後、酒場のマスターと話す",
+          "links": [
+            {
+              "label": "泥まみれの商魂！",
+              "url": "https://game8.jp/mh-xx/823766"
+            }
+          ]
+        }
+      }
+    },
+    {
+      "name": "割り込み受注：2頭の桃毛獣",
+      "rank": "2",
+      "url": "https://game8.jp/mh-xx/823793",
+      "fields": {
+        "受注・参加": {
+          "text": "HR9以上",
+          "links": []
+        },
+        "出現条件": {
+          "text": "依頼「ミナガルデの看板娘の依頼3」を受注",
+          "links": []
+        }
+      }
+    },
+    {
+      "name": "依頼委託：火山の岩竜",
+      "rank": "2",
+      "url": "https://game8.jp/mh-xx/823794",
+      "fields": {
+        "受注・参加": {
+          "text": "HR9以上",
+          "links": []
+        },
+        "出現条件": {
+          "text": "依頼「筆頭ランサーの依頼1」を受注",
+          "links": []
+        }
+      }
+    },
+    {
+      "name": "ぶつけろ生き様☆アフロソウル",
+      "rank": "2",
+      "url": "https://game8.jp/mh-xx/823795",
+      "fields": {
+        "受注・参加": {
+          "text": "HR9以上",
+          "links": []
+        },
+        "出現条件": {
+          "text": "依頼「カリスマ美容師ネコの依頼2」を受注",
+          "links": []
+        }
+      }
+    },
+    {
+      "name": "鎌蟹の狩猟をさせてやるぜ！",
+      "rank": "2",
+      "url": "https://game8.jp/mh-xx/823797",
+      "fields": {
+        "受注・参加": {
+          "text": "HR9以上",
+          "links": []
+        },
+        "出現条件": {
+          "text": "依頼「ヘルブラザーズ・赤鬼の依頼3」を受注",
+          "links": []
+        }
+      }
+    },
+    {
+      "name": "大鉱脈、発見さる！",
+      "rank": "2",
+      "url": "https://game8.jp/mh-xx/823798",
+      "fields": {
+        "受注・参加": {
+          "text": "HR9以上",
+          "links": []
+        },
+        "出現条件": {
+          "text": "泥まみれの商魂！ （集★G2緊急クエスト）をクリア後、酒場のマスターと話す",
+          "links": [
+            {
+              "label": "泥まみれの商魂！",
+              "url": "https://game8.jp/mh-xx/823766"
+            }
+          ]
+        }
+      }
+    },
+    {
+      "name": "子分の自覚が足りないっチャ！",
+      "rank": "2",
+      "url": "https://game8.jp/mh-xx/823799",
+      "fields": {
+        "受注・参加": {
+          "text": "HR9以上",
+          "links": []
+        },
+        "出現条件": {
+          "text": "依頼「チャチャの依頼4」を受注",
+          "links": []
+        }
+      }
+    },
+    {
+      "name": "超☆メモ帳 〜獰猛化盾蟹編〜",
+      "rank": "2",
+      "url": "https://game8.jp/mh-xx/823800",
+      "fields": {
+        "受注・参加": {
+          "text": "HR9以上",
+          "links": []
+        },
+        "出現条件": {
+          "text": "依頼「キャラバンの看板娘の依頼4」を受注",
+          "links": []
+        }
+      }
+    },
+    {
+      "name": "逆襲の怪鳥",
+      "rank": "2",
+      "url": "https://game8.jp/mh-xx/823801",
+      "fields": {
+        "受注・参加": {
+          "text": "HR9以上",
+          "links": []
+        },
+        "出現条件": {
+          "text": "遺群嶺の緑の女王 、 砂漠の水面に潜む影 、 ババコンガのキノコ品評会 、 ネルスキュラの生態研究 、 転んで跳ねて七転八倒 、 おのずと岩は動き出す をクリア／ つつかれて、またつつかれて 、 森丘の迷惑な怪鳥さん のうち、いずれか1つをクリア",
+          "links": [
+            {
+              "label": "遺群嶺の緑の女王",
+              "url": "https://game8.jp/mh-xx/823762"
+            },
+            {
+              "label": "砂漠の水面に潜む影",
+              "url": "https://game8.jp/mh-xx/823768"
+            },
+            {
+              "label": "ババコンガのキノコ品評会",
+              "url": "https://game8.jp/mh-xx/823769"
+            },
+            {
+              "label": "ネルスキュラの生態研究",
+              "url": "https://game8.jp/mh-xx/823775"
+            },
+            {
+              "label": "転んで跳ねて七転八倒",
+              "url": "https://game8.jp/mh-xx/823780"
+            },
+            {
+              "label": "おのずと岩は動き出す",
+              "url": "https://game8.jp/mh-xx/823790"
+            },
+            {
+              "label": "つつかれて、またつつかれて",
+              "url": "https://game8.jp/mh-xx/823732"
+            },
+            {
+              "label": "森丘の迷惑な怪鳥さん",
+              "url": "https://game8.jp/mh-xx/823747"
+            }
+          ]
+        }
+      }
+    },
+    {
+      "name": "調査委託：獰猛な奇猿狐",
+      "rank": "2",
+      "url": "https://game8.jp/mh-xx/823802",
+      "fields": {
+        "受注・参加": {
+          "text": "HR9以上",
+          "links": []
+        },
+        "出現条件": {
+          "text": "依頼「筆頭ランサーの依頼2」を受注",
+          "links": []
+        }
+      }
+    },
+    {
+      "name": "獰猛な蛙は鬼よりも強く",
+      "rank": "2",
+      "url": "https://game8.jp/mh-xx/823803",
+      "fields": {
+        "受注・参加": {
+          "text": "HR9以上",
+          "links": []
+        },
+        "出現条件": {
+          "text": "遺群嶺の緑の女王 、 砂漠の水面に潜む影 、 ババコンガのキノコ品評会 、 ネルスキュラの生態研究 、 転んで跳ねて七転八倒 、 おのずと岩は動き出す をクリア／ 罪深きタルの食材探訪 、 嗚呼素晴らしき也、鬼蛙 のうち、いずれか1つをクリア",
+          "links": [
+            {
+              "label": "遺群嶺の緑の女王",
+              "url": "https://game8.jp/mh-xx/823762"
+            },
+            {
+              "label": "砂漠の水面に潜む影",
+              "url": "https://game8.jp/mh-xx/823768"
+            },
+            {
+              "label": "ババコンガのキノコ品評会",
+              "url": "https://game8.jp/mh-xx/823769"
+            },
+            {
+              "label": "ネルスキュラの生態研究",
+              "url": "https://game8.jp/mh-xx/823775"
+            },
+            {
+              "label": "転んで跳ねて七転八倒",
+              "url": "https://game8.jp/mh-xx/823780"
+            },
+            {
+              "label": "おのずと岩は動き出す",
+              "url": "https://game8.jp/mh-xx/823790"
+            },
+            {
+              "label": "罪深きタルの食材探訪",
+              "url": "https://game8.jp/mh-xx/823743"
+            },
+            {
+              "label": "嗚呼素晴らしき也、鬼蛙",
+              "url": "https://game8.jp/mh-xx/823744"
+            }
+          ]
+        }
+      }
+    },
+    {
+      "name": "毒怪鳥は元気に走る",
+      "rank": "2",
+      "url": "https://game8.jp/mh-xx/823804",
+      "fields": {
+        "受注・参加": {
+          "text": "HR9以上",
+          "links": []
+        },
+        "出現条件": {
+          "text": "遺群嶺の緑の女王 、 砂漠の水面に潜む影 、 ババコンガのキノコ品評会 、 ネルスキュラの生態研究 、 転んで跳ねて七転八倒 、 おのずと岩は動き出す をクリア／ 毒怪鳥が盗んだものを追って 、 奪われて、追いかけて のうち、いずれか1つをクリア",
+          "links": [
+            {
+              "label": "遺群嶺の緑の女王",
+              "url": "https://game8.jp/mh-xx/823762"
+            },
+            {
+              "label": "砂漠の水面に潜む影",
+              "url": "https://game8.jp/mh-xx/823768"
+            },
+            {
+              "label": "ババコンガのキノコ品評会",
+              "url": "https://game8.jp/mh-xx/823769"
+            },
+            {
+              "label": "ネルスキュラの生態研究",
+              "url": "https://game8.jp/mh-xx/823775"
+            },
+            {
+              "label": "転んで跳ねて七転八倒",
+              "url": "https://game8.jp/mh-xx/823780"
+            },
+            {
+              "label": "おのずと岩は動き出す",
+              "url": "https://game8.jp/mh-xx/823790"
+            },
+            {
+              "label": "毒怪鳥が盗んだものを追って",
+              "url": "https://game8.jp/mh-xx/823733"
+            },
+            {
+              "label": "奪われて、追いかけて",
+              "url": "https://game8.jp/mh-xx/823740"
+            }
+          ]
+        }
+      }
+    },
+    {
+      "name": "水獣の獰猛化観察記録",
+      "rank": "2",
+      "url": "https://game8.jp/mh-xx/823805",
+      "fields": {
+        "受注・参加": {
+          "text": "HR9以上",
+          "links": []
+        },
+        "出現条件": {
+          "text": "遺群嶺の緑の女王 、 砂漠の水面に潜む影 、 ババコンガのキノコ品評会 、 ネルスキュラの生態研究 、 転んで跳ねて七転八倒 、 おのずと岩は動き出す をクリア／ 看板娘セレクト：遺群嶺の水獣 、 水獣たちの争い のうち、いずれか1つをクリア",
+          "links": [
+            {
+              "label": "遺群嶺の緑の女王",
+              "url": "https://game8.jp/mh-xx/823762"
+            },
+            {
+              "label": "砂漠の水面に潜む影",
+              "url": "https://game8.jp/mh-xx/823768"
+            },
+            {
+              "label": "ババコンガのキノコ品評会",
+              "url": "https://game8.jp/mh-xx/823769"
+            },
+            {
+              "label": "ネルスキュラの生態研究",
+              "url": "https://game8.jp/mh-xx/823775"
+            },
+            {
+              "label": "転んで跳ねて七転八倒",
+              "url": "https://game8.jp/mh-xx/823780"
+            },
+            {
+              "label": "おのずと岩は動き出す",
+              "url": "https://game8.jp/mh-xx/823790"
+            },
+            {
+              "label": "看板娘セレクト：遺群嶺の水獣",
+              "url": "https://game8.jp/mh-xx/823734"
+            },
+            {
+              "label": "水獣たちの争い",
+              "url": "https://game8.jp/mh-xx/823751"
+            }
+          ]
+        }
+      }
+    },
+    {
+      "name": "原生林コンガ戦線",
+      "rank": "2",
+      "url": "https://game8.jp/mh-xx/823806",
+      "fields": {
+        "受注・参加": {
+          "text": "HR9以上",
+          "links": []
+        },
+        "出現条件": {
+          "text": "砂漠ゲネポス戦線 、 泥まみれの商魂！ （集★G2緊急クエスト）をクリア",
+          "links": [
+            {
+              "label": "砂漠ゲネポス戦線",
+              "url": "https://game8.jp/mh-xx/823754"
+            },
+            {
+              "label": "泥まみれの商魂！",
+              "url": "https://game8.jp/mh-xx/823766"
+            }
+          ]
+        }
+      }
+    },
+    {
+      "name": "カンシャのお仕事",
+      "rank": "2",
+      "url": "https://game8.jp/mh-xx/823807",
+      "fields": {
+        "受注・参加": {
+          "text": "HR9以上",
+          "links": []
+        },
+        "出現条件": {
+          "text": "原生林コンガ戦線 をクリア",
+          "links": [
+            {
+              "label": "原生林コンガ戦線",
+              "url": "https://game8.jp/mh-xx/823806"
+            }
+          ]
+        }
+      }
+    },
+    {
+      "name": "水獣のタテガミ破壊に挑戦！",
+      "rank": "2",
+      "url": "https://game8.jp/mh-xx/823808",
+      "fields": {
+        "受注・参加": {
+          "text": "HR9以上",
+          "links": []
+        },
+        "出現条件": {
+          "text": "原生林コンガ戦線 をクリア",
+          "links": [
+            {
+              "label": "原生林コンガ戦線",
+              "url": "https://game8.jp/mh-xx/823806"
+            }
+          ]
+        }
+      }
+    },
+    {
+      "name": "地底火山の採集ツアー",
+      "rank": "3",
+      "url": "https://game8.jp/mh-xx/823809",
+      "fields": {
+        "受注・参加": {
+          "text": "HR9以上",
+          "links": []
+        },
+        "出現条件": {
+          "text": "巨大龍の侵攻 （集★G3緊急クエスト）をクリア後",
+          "links": [
+            {
+              "label": "巨大龍の侵攻",
+              "url": "https://game8.jp/mh-xx/823839"
+            }
+          ]
+        }
+      }
+    },
+    {
+      "name": "孤高の黒狼鳥",
+      "rank": "3",
+      "url": "https://game8.jp/mh-xx/823810",
+      "fields": {
+        "受注・参加": {
+          "text": "HR9以上",
+          "links": []
+        },
+        "出現条件": {
+          "text": "巨大龍の侵攻 （集★G3緊急クエスト）をクリア後",
+          "links": [
+            {
+              "label": "巨大龍の侵攻",
+              "url": "https://game8.jp/mh-xx/823839"
+            }
+          ]
+        }
+      }
+    },
+    {
+      "name": "ラギアクルス襲撃の予感",
+      "rank": "3",
+      "url": "https://game8.jp/mh-xx/823811",
+      "fields": {
+        "受注・参加": {
+          "text": "HR9以上",
+          "links": []
+        },
+        "出現条件": {
+          "text": "巨大龍の侵攻 （集★G3緊急クエスト）をクリア後",
+          "links": [
+            {
+              "label": "巨大龍の侵攻",
+              "url": "https://game8.jp/mh-xx/823839"
+            }
+          ]
+        }
+      }
+    },
+    {
+      "name": "遺群嶺からの帰還",
+      "rank": "3",
+      "url": "https://game8.jp/mh-xx/823812",
+      "fields": {
+        "受注・参加": {
+          "text": "HR9以上",
+          "links": []
+        },
+        "出現条件": {
+          "text": "巨大龍の侵攻 （集★G3緊急クエスト）をクリア後",
+          "links": [
+            {
+              "label": "巨大龍の侵攻",
+              "url": "https://game8.jp/mh-xx/823839"
+            }
+          ]
+        }
+      }
+    },
+    {
+      "name": "ハロー遺群嶺！",
+      "rank": "3",
+      "url": "https://game8.jp/mh-xx/823813",
+      "fields": {
+        "受注・参加": {
+          "text": "HR9以上",
+          "links": []
+        },
+        "出現条件": {
+          "text": "巨大龍の侵攻 （集★G3緊急クエスト）をクリア後",
+          "links": [
+            {
+              "label": "巨大龍の侵攻",
+              "url": "https://game8.jp/mh-xx/823839"
+            }
+          ]
+        }
+      }
+    },
+    {
+      "name": "遺群嶺の難題解決",
+      "rank": "3",
+      "url": "https://game8.jp/mh-xx/823814",
+      "fields": {
+        "受注・参加": {
+          "text": "HR9以上",
+          "links": []
+        },
+        "出現条件": {
+          "text": "巨大龍の侵攻 （集★G3緊急クエスト）をクリア後",
+          "links": [
+            {
+              "label": "巨大龍の侵攻",
+              "url": "https://game8.jp/mh-xx/823839"
+            }
+          ]
+        }
+      }
+    },
+    {
+      "name": "暑い熱い砂漠",
+      "rank": "3",
+      "url": "https://game8.jp/mh-xx/823815",
+      "fields": {
+        "受注・参加": {
+          "text": "HR9以上",
+          "links": []
+        },
+        "出現条件": {
+          "text": "巨大龍の侵攻 （集★G3緊急クエスト）をクリア後",
+          "links": [
+            {
+              "label": "巨大龍の侵攻",
+              "url": "https://game8.jp/mh-xx/823839"
+            }
+          ]
+        }
+      }
+    },
+    {
+      "name": "女帝の花道",
+      "rank": "3",
+      "url": "https://game8.jp/mh-xx/823816",
+      "fields": {
+        "受注・参加": {
+          "text": "HR9以上",
+          "links": []
+        },
+        "出現条件": {
+          "text": "巨大龍の侵攻 （集★G3緊急クエスト）をクリア後",
+          "links": [
+            {
+              "label": "巨大龍の侵攻",
+              "url": "https://game8.jp/mh-xx/823839"
+            }
+          ]
+        }
+      }
+    },
+    {
+      "name": "騎士と密林の夢",
+      "rank": "3",
+      "url": "https://game8.jp/mh-xx/823817",
+      "fields": {
+        "受注・参加": {
+          "text": "HR9以上",
+          "links": []
+        },
+        "出現条件": {
+          "text": "巨大龍の侵攻 （集★G3緊急クエスト）をクリア後",
+          "links": [
+            {
+              "label": "巨大龍の侵攻",
+              "url": "https://game8.jp/mh-xx/823839"
+            }
+          ]
+        }
+      }
+    },
+    {
+      "name": "双子の黒狼鳥",
+      "rank": "3",
+      "url": "https://game8.jp/mh-xx/823818",
+      "fields": {
+        "受注・参加": {
+          "text": "HR9以上",
+          "links": []
+        },
+        "出現条件": {
+          "text": "巨大龍の侵攻 （集★G3緊急クエスト）をクリア後",
+          "links": [
+            {
+              "label": "巨大龍の侵攻",
+              "url": "https://game8.jp/mh-xx/823839"
+            }
+          ]
+        }
+      }
+    },
+    {
+      "name": "原生林の恐怖体験",
+      "rank": "3",
+      "url": "https://game8.jp/mh-xx/823819",
+      "fields": {
+        "受注・参加": {
+          "text": "HR9以上",
+          "links": []
+        },
+        "出現条件": {
+          "text": "巨大龍の侵攻 （集★G3緊急クエスト）をクリア後",
+          "links": [
+            {
+              "label": "巨大龍の侵攻",
+              "url": "https://game8.jp/mh-xx/823839"
+            }
+          ]
+        }
+      }
+    },
+    {
+      "name": "グラビモス連続狩猟",
+      "rank": "3",
+      "url": "https://game8.jp/mh-xx/823820",
+      "fields": {
+        "受注・参加": {
+          "text": "HR9以上",
+          "links": []
+        },
+        "出現条件": {
+          "text": "依頼「キャラバンの団長の依頼4」を受注",
+          "links": []
+        }
+      }
+    },
+    {
+      "name": "氷牙竜・ベリオロス！",
+      "rank": "3",
+      "url": "https://game8.jp/mh-xx/823821",
+      "fields": {
+        "受注・参加": {
+          "text": "HR9以上",
+          "links": []
+        },
+        "出現条件": {
+          "text": "巨大龍の侵攻 （集★G3緊急クエスト）をクリア後",
+          "links": [
+            {
+              "label": "巨大龍の侵攻",
+              "url": "https://game8.jp/mh-xx/823839"
+            }
+          ]
+        }
+      }
+    },
+    {
+      "name": "氷海のすばらしい氷",
+      "rank": "3",
+      "url": "https://game8.jp/mh-xx/823822",
+      "fields": {
+        "受注・参加": {
+          "text": "HR9以上",
+          "links": []
+        },
+        "出現条件": {
+          "text": "巨大龍の侵攻 （集★G3緊急クエスト）をクリア後",
+          "links": [
+            {
+              "label": "巨大龍の侵攻",
+              "url": "https://game8.jp/mh-xx/823839"
+            }
+          ]
+        }
+      }
+    },
+    {
+      "name": "鎧竜グラビモスの脅威",
+      "rank": "3",
+      "url": "https://game8.jp/mh-xx/823823",
+      "fields": {
+        "受注・参加": {
+          "text": "HR9以上",
+          "links": []
+        },
+        "出現条件": {
+          "text": "巨大龍の侵攻 （集★G3緊急クエスト）をクリア後",
+          "links": [
+            {
+              "label": "巨大龍の侵攻",
+              "url": "https://game8.jp/mh-xx/823839"
+            }
+          ]
+        }
+      }
+    },
+    {
+      "name": "斬竜流 狩人道場",
+      "rank": "3",
+      "url": "https://game8.jp/mh-xx/823824",
+      "fields": {
+        "受注・参加": {
+          "text": "HR9以上",
+          "links": []
+        },
+        "出現条件": {
+          "text": "巨大龍の侵攻 （集★G3緊急クエスト）をクリア後",
+          "links": [
+            {
+              "label": "巨大龍の侵攻",
+              "url": "https://game8.jp/mh-xx/823839"
+            }
+          ]
+        }
+      }
+    },
+    {
+      "name": "かくし味は燃石炭",
+      "rank": "3",
+      "url": "https://game8.jp/mh-xx/823825",
+      "fields": {
+        "受注・参加": {
+          "text": "HR9以上",
+          "links": []
+        },
+        "出現条件": {
+          "text": "巨大龍の侵攻 （集★G3緊急クエスト）をクリア後",
+          "links": [
+            {
+              "label": "巨大龍の侵攻",
+              "url": "https://game8.jp/mh-xx/823839"
+            }
+          ]
+        }
+      }
+    },
+    {
+      "name": "重量級の女帝",
+      "rank": "3",
+      "url": "https://game8.jp/mh-xx/823826",
+      "fields": {
+        "受注・参加": {
+          "text": "HR9以上",
+          "links": []
+        },
+        "出現条件": {
+          "text": "巨大龍の侵攻 （集★G3緊急クエスト）をクリア後",
+          "links": [
+            {
+              "label": "巨大龍の侵攻",
+              "url": "https://game8.jp/mh-xx/823839"
+            }
+          ]
+        }
+      }
+    },
+    {
+      "name": "古代林に来たりし黒き蝕",
+      "rank": "3",
+      "url": "https://game8.jp/mh-xx/823827",
+      "fields": {
+        "受注・参加": {
+          "text": "HR9以上",
+          "links": []
+        },
+        "出現条件": {
+          "text": "巨大龍の侵攻 （集★G3緊急クエスト）をクリア後",
+          "links": [
+            {
+              "label": "巨大龍の侵攻",
+              "url": "https://game8.jp/mh-xx/823839"
+            }
+          ]
+        }
+      }
+    },
+    {
+      "name": "ベルナ村の観光業が大炎上！",
+      "rank": "3",
+      "url": "https://game8.jp/mh-xx/823828",
+      "fields": {
+        "受注・参加": {
+          "text": "HR9以上",
+          "links": []
+        },
+        "出現条件": {
+          "text": "依頼「ベルナ村の受付嬢の依頼4」を受注",
+          "links": []
+        }
+      }
+    },
+    {
+      "name": "森丘の捕食者たち",
+      "rank": "3",
+      "url": "https://game8.jp/mh-xx/823829",
+      "fields": {
+        "受注・参加": {
+          "text": "HR9以上",
+          "links": []
+        },
+        "出現条件": {
+          "text": "巨大龍の侵攻 （集★G3緊急クエスト）をクリア後",
+          "links": [
+            {
+              "label": "巨大龍の侵攻",
+              "url": "https://game8.jp/mh-xx/823839"
+            }
+          ]
+        }
+      }
+    },
+    {
+      "name": "氷牙竜が大発明のカギ？",
+      "rank": "3",
+      "url": "https://game8.jp/mh-xx/823830",
+      "fields": {
+        "受注・参加": {
+          "text": "HR9以上",
+          "links": []
+        },
+        "出現条件": {
+          "text": "依頼「モガの村の看板娘の依頼3」を受注",
+          "links": []
+        }
+      }
+    },
+    {
+      "name": "巨獣流 狩人道場",
+      "rank": "3",
+      "url": "https://game8.jp/mh-xx/823831",
+      "fields": {
+        "受注・参加": {
+          "text": "HR9以上",
+          "links": []
+        },
+        "出現条件": {
+          "text": "巨大龍の侵攻 （集★G3緊急クエスト）をクリア後",
+          "links": [
+            {
+              "label": "巨大龍の侵攻",
+              "url": "https://game8.jp/mh-xx/823839"
+            }
+          ]
+        }
+      }
+    },
+    {
+      "name": "月下雷鳴の記憶",
+      "rank": "3",
+      "url": "https://game8.jp/mh-xx/823832",
+      "fields": {
+        "受注・参加": {
+          "text": "HR9以上",
+          "links": []
+        },
+        "出現条件": {
+          "text": "依頼「オトモ武具屋の依頼4」を受注",
+          "links": []
+        }
+      }
+    },
+    {
+      "name": "泡狐竜流 狩人道場",
+      "rank": "3",
+      "url": "https://game8.jp/mh-xx/823833",
+      "fields": {
+        "受注・参加": {
+          "text": "HR9以上",
+          "links": []
+        },
+        "出現条件": {
+          "text": "巨大龍の侵攻 （集★G3緊急クエスト）をクリア後",
+          "links": [
+            {
+              "label": "巨大龍の侵攻",
+              "url": "https://game8.jp/mh-xx/823839"
+            }
+          ]
+        }
+      }
+    },
+    {
+      "name": "空の王者を狩猟せよ！",
+      "rank": "3",
+      "url": "https://game8.jp/mh-xx/823834",
+      "fields": {
+        "受注・参加": {
+          "text": "HR9以上",
+          "links": []
+        },
+        "出現条件": {
+          "text": "巨大龍の侵攻 （集★G3緊急クエスト）をクリア後",
+          "links": [
+            {
+              "label": "巨大龍の侵攻",
+              "url": "https://game8.jp/mh-xx/823839"
+            }
+          ]
+        }
+      }
+    },
+    {
+      "name": "海竜のじけん",
+      "rank": "3",
+      "url": "https://game8.jp/mh-xx/823835",
+      "fields": {
+        "受注・参加": {
+          "text": "HR9以上",
+          "links": []
+        },
+        "出現条件": {
+          "text": "巨大龍の侵攻 （集★G3緊急クエスト）をクリア後",
+          "links": [
+            {
+              "label": "巨大龍の侵攻",
+              "url": "https://game8.jp/mh-xx/823839"
+            }
+          ]
+        }
+      }
+    },
+    {
+      "name": "電竜流 狩人道場",
+      "rank": "3",
+      "url": "https://game8.jp/mh-xx/823836",
+      "fields": {
+        "受注・参加": {
+          "text": "HR9以上",
+          "links": []
+        },
+        "出現条件": {
+          "text": "巨大龍の侵攻 （集★G3緊急クエスト）をクリア後",
+          "links": [
+            {
+              "label": "巨大龍の侵攻",
+              "url": "https://game8.jp/mh-xx/823839"
+            }
+          ]
+        }
+      }
+    },
+    {
+      "name": "トラウマガンキンを退治せよ",
+      "rank": "3",
+      "url": "https://game8.jp/mh-xx/823837",
+      "fields": {
+        "受注・参加": {
+          "text": "HR9以上",
+          "links": []
+        },
+        "出現条件": {
+          "text": "依頼「ニャント様の依頼」を受注",
+          "links": []
+        }
+      }
+    },
+    {
+      "name": "空と地の挟撃",
+      "rank": "3",
+      "url": "https://game8.jp/mh-xx/823838",
+      "fields": {
+        "受注・参加": {
+          "text": "HR9以上",
+          "links": []
+        },
+        "出現条件": {
+          "text": "巨大龍の侵攻 （集★G3緊急クエスト）をクリア後",
+          "links": [
+            {
+              "label": "巨大龍の侵攻",
+              "url": "https://game8.jp/mh-xx/823839"
+            }
+          ]
+        }
+      }
+    },
+    {
+      "name": "巨大龍の侵攻",
+      "rank": "3",
+      "url": "https://game8.jp/mh-xx/823839",
+      "fields": {
+        "受注・参加": {
+          "text": "HR9以上",
+          "links": []
+        },
+        "出現条件": {
+          "text": "遺群嶺の緑の女王 、 砂漠の水面に潜む影 、 ババコンガのキノコ品評会 、 ネルスキュラの生態研究 、 転んで跳ねて七転八倒 、 おのずと岩は動き出す をクリア後、酒場のマスターと話す",
+          "links": [
+            {
+              "label": "遺群嶺の緑の女王",
+              "url": "https://game8.jp/mh-xx/823762"
+            },
+            {
+              "label": "砂漠の水面に潜む影",
+              "url": "https://game8.jp/mh-xx/823768"
+            },
+            {
+              "label": "ババコンガのキノコ品評会",
+              "url": "https://game8.jp/mh-xx/823769"
+            },
+            {
+              "label": "ネルスキュラの生態研究",
+              "url": "https://game8.jp/mh-xx/823775"
+            },
+            {
+              "label": "転んで跳ねて七転八倒",
+              "url": "https://game8.jp/mh-xx/823780"
+            },
+            {
+              "label": "おのずと岩は動き出す",
+              "url": "https://game8.jp/mh-xx/823790"
+            }
+          ]
+        }
+      }
+    },
+    {
+      "name": "砂漠の死闘と希望",
+      "rank": "3",
+      "url": "https://game8.jp/mh-xx/823840",
+      "fields": {
+        "受注・参加": {
+          "text": "HR9以上",
+          "links": []
+        },
+        "出現条件": {
+          "text": "巨大龍の侵攻 （集★G3緊急クエスト）をクリア後",
+          "links": [
+            {
+              "label": "巨大龍の侵攻",
+              "url": "https://game8.jp/mh-xx/823839"
+            }
+          ]
+        }
+      }
+    },
+    {
+      "name": "遺跡平原の改善要求",
+      "rank": "3",
+      "url": "https://game8.jp/mh-xx/823841",
+      "fields": {
+        "受注・参加": {
+          "text": "HR9以上",
+          "links": []
+        },
+        "出現条件": {
+          "text": "巨大龍の侵攻 （集★G3緊急クエスト）をクリア後",
+          "links": [
+            {
+              "label": "巨大龍の侵攻",
+              "url": "https://game8.jp/mh-xx/823839"
+            }
+          ]
+        }
+      }
+    },
+    {
+      "name": "旧砂漠に吹く熱風！",
+      "rank": "3",
+      "url": "https://game8.jp/mh-xx/823842",
+      "fields": {
+        "受注・参加": {
+          "text": "HR9以上",
+          "links": []
+        },
+        "出現条件": {
+          "text": "巨大龍の侵攻 （集★G3緊急クエスト）をクリア後",
+          "links": [
+            {
+              "label": "巨大龍の侵攻",
+              "url": "https://game8.jp/mh-xx/823839"
+            }
+          ]
+        }
+      }
+    },
+    {
+      "name": "闘技場での最終テストっチャ！",
+      "rank": "3",
+      "url": "https://game8.jp/mh-xx/823843",
+      "fields": {
+        "受注・参加": {
+          "text": "HR9以上",
+          "links": []
+        },
+        "出現条件": {
+          "text": "依頼「チャチャの依頼5」を受注",
+          "links": []
+        }
+      }
+    },
+    {
+      "name": "桃毛獣による新人への洗礼",
+      "rank": "3",
+      "url": "https://game8.jp/mh-xx/823844",
+      "fields": {
+        "受注・参加": {
+          "text": "HR9以上",
+          "links": []
+        },
+        "出現条件": {
+          "text": "ハロー遺群嶺！ 、 暑い熱い砂漠 、 騎士と密林の夢 、 氷牙竜・ベリオロス！ 、 氷海のすばらしい氷 、 鎧竜グラビモスの脅威 をクリア／ ババコンガのキノコ品評会 、 割り込み受注：2頭の桃毛獣 のうち、いずれか1つをクリア",
+          "links": [
+            {
+              "label": "ハロー遺群嶺！",
+              "url": "https://game8.jp/mh-xx/823813"
+            },
+            {
+              "label": "暑い熱い砂漠",
+              "url": "https://game8.jp/mh-xx/823815"
+            },
+            {
+              "label": "騎士と密林の夢",
+              "url": "https://game8.jp/mh-xx/823817"
+            },
+            {
+              "label": "氷牙竜・ベリオロス！",
+              "url": "https://game8.jp/mh-xx/823821"
+            },
+            {
+              "label": "氷海のすばらしい氷",
+              "url": "https://game8.jp/mh-xx/823822"
+            },
+            {
+              "label": "鎧竜グラビモスの脅威",
+              "url": "https://game8.jp/mh-xx/823823"
+            },
+            {
+              "label": "ババコンガのキノコ品評会",
+              "url": "https://game8.jp/mh-xx/823769"
+            },
+            {
+              "label": "割り込み受注：2頭の桃毛獣",
+              "url": "https://game8.jp/mh-xx/823793"
+            }
+          ]
+        }
+      }
+    },
+    {
+      "name": "遺群嶺の楽しい旅",
+      "rank": "3",
+      "url": "https://game8.jp/mh-xx/823845",
+      "fields": {
+        "受注・参加": {
+          "text": "HR9以上",
+          "links": []
+        },
+        "出現条件": {
+          "text": "ハロー遺群嶺！ 、 暑い熱い砂漠 、 騎士と密林の夢 、 氷牙竜・ベリオロス！ 、 氷海のすばらしい氷 、 鎧竜グラビモスの脅威 をクリア／ おのずと岩は動き出す 、 依頼委託：火山の岩竜 のうち、いずれか1つをクリア",
+          "links": [
+            {
+              "label": "ハロー遺群嶺！",
+              "url": "https://game8.jp/mh-xx/823813"
+            },
+            {
+              "label": "暑い熱い砂漠",
+              "url": "https://game8.jp/mh-xx/823815"
+            },
+            {
+              "label": "騎士と密林の夢",
+              "url": "https://game8.jp/mh-xx/823817"
+            },
+            {
+              "label": "氷牙竜・ベリオロス！",
+              "url": "https://game8.jp/mh-xx/823821"
+            },
+            {
+              "label": "氷海のすばらしい氷",
+              "url": "https://game8.jp/mh-xx/823822"
+            },
+            {
+              "label": "鎧竜グラビモスの脅威",
+              "url": "https://game8.jp/mh-xx/823823"
+            },
+            {
+              "label": "おのずと岩は動き出す",
+              "url": "https://game8.jp/mh-xx/823790"
+            },
+            {
+              "label": "依頼委託：火山の岩竜",
+              "url": "https://game8.jp/mh-xx/823794"
+            }
+          ]
+        }
+      }
+    },
+    {
+      "name": "遺群嶺の怒れるリオレイア",
+      "rank": "3",
+      "url": "https://game8.jp/mh-xx/823846",
+      "fields": {
+        "受注・参加": {
+          "text": "HR9以上",
+          "links": []
+        },
+        "出現条件": {
+          "text": "ハロー遺群嶺！ 、 暑い熱い砂漠 、 騎士と密林の夢 、 氷牙竜・ベリオロス！ 、 氷海のすばらしい氷 、 鎧竜グラビモスの脅威 をクリア／ 遺群嶺の緑の女王 、 空の家族・空路を守るッス 、 女王、降臨す のうち、いずれか1つをクリア",
+          "links": [
+            {
+              "label": "ハロー遺群嶺！",
+              "url": "https://game8.jp/mh-xx/823813"
+            },
+            {
+              "label": "暑い熱い砂漠",
+              "url": "https://game8.jp/mh-xx/823815"
+            },
+            {
+              "label": "騎士と密林の夢",
+              "url": "https://game8.jp/mh-xx/823817"
+            },
+            {
+              "label": "氷牙竜・ベリオロス！",
+              "url": "https://game8.jp/mh-xx/823821"
+            },
+            {
+              "label": "氷海のすばらしい氷",
+              "url": "https://game8.jp/mh-xx/823822"
+            },
+            {
+              "label": "鎧竜グラビモスの脅威",
+              "url": "https://game8.jp/mh-xx/823823"
+            },
+            {
+              "label": "遺群嶺の緑の女王",
+              "url": "https://game8.jp/mh-xx/823762"
+            },
+            {
+              "label": "空の家族・空路を守るッス",
+              "url": "https://game8.jp/mh-xx/823770"
+            },
+            {
+              "label": "女王、降臨す",
+              "url": "https://game8.jp/mh-xx/823774"
+            }
+          ]
+        }
+      }
+    },
+    {
+      "name": "無茶苦茶ムシャムシャ",
+      "rank": "3",
+      "url": "https://game8.jp/mh-xx/823847",
+      "fields": {
+        "受注・参加": {
+          "text": "HR9以上",
+          "links": []
+        },
+        "出現条件": {
+          "text": "ハロー遺群嶺！ 、 暑い熱い砂漠 、 騎士と密林の夢 、 氷牙竜・ベリオロス！ 、 氷海のすばらしい氷 、 鎧竜グラビモスの脅威 をクリア／ 二人で特訓、成果は山分け 、 砂漠の積荷は誰の物？ のうち、いずれか1つをクリア",
+          "links": [
+            {
+              "label": "ハロー遺群嶺！",
+              "url": "https://game8.jp/mh-xx/823813"
+            },
+            {
+              "label": "暑い熱い砂漠",
+              "url": "https://game8.jp/mh-xx/823815"
+            },
+            {
+              "label": "騎士と密林の夢",
+              "url": "https://game8.jp/mh-xx/823817"
+            },
+            {
+              "label": "氷牙竜・ベリオロス！",
+              "url": "https://game8.jp/mh-xx/823821"
+            },
+            {
+              "label": "氷海のすばらしい氷",
+              "url": "https://game8.jp/mh-xx/823822"
+            },
+            {
+              "label": "鎧竜グラビモスの脅威",
+              "url": "https://game8.jp/mh-xx/823823"
+            },
+            {
+              "label": "二人で特訓、成果は山分け",
+              "url": "https://game8.jp/mh-xx/823767"
+            },
+            {
+              "label": "砂漠の積荷は誰の物？",
+              "url": "https://game8.jp/mh-xx/823782"
+            }
+          ]
+        }
+      }
+    },
+    {
+      "name": "災禍の水竜",
+      "rank": "3",
+      "url": "https://game8.jp/mh-xx/823848",
+      "fields": {
+        "受注・参加": {
+          "text": "HR9以上",
+          "links": []
+        },
+        "出現条件": {
+          "text": "ハロー遺群嶺！ 、 暑い熱い砂漠 、 騎士と密林の夢 、 氷牙竜・ベリオロス！ 、 氷海のすばらしい氷 、 鎧竜グラビモスの脅威 をクリア／ 砂漠の水面に潜む影 、 チコ村を脅かす水竜を狩れ！ のうち、いずれか1つをクリア",
+          "links": [
+            {
+              "label": "ハロー遺群嶺！",
+              "url": "https://game8.jp/mh-xx/823813"
+            },
+            {
+              "label": "暑い熱い砂漠",
+              "url": "https://game8.jp/mh-xx/823815"
+            },
+            {
+              "label": "騎士と密林の夢",
+              "url": "https://game8.jp/mh-xx/823817"
+            },
+            {
+              "label": "氷牙竜・ベリオロス！",
+              "url": "https://game8.jp/mh-xx/823821"
+            },
+            {
+              "label": "氷海のすばらしい氷",
+              "url": "https://game8.jp/mh-xx/823822"
+            },
+            {
+              "label": "鎧竜グラビモスの脅威",
+              "url": "https://game8.jp/mh-xx/823823"
+            },
+            {
+              "label": "砂漠の水面に潜む影",
+              "url": "https://game8.jp/mh-xx/823768"
+            },
+            {
+              "label": "チコ村を脅かす水竜を狩れ！",
+              "url": "https://game8.jp/mh-xx/823787"
+            }
+          ]
+        }
+      }
+    },
+    {
+      "name": "先生の鬼門は獰猛な影蜘蛛",
+      "rank": "3",
+      "url": "https://game8.jp/mh-xx/823849",
+      "fields": {
+        "受注・参加": {
+          "text": "HR9以上",
+          "links": []
+        },
+        "出現条件": {
+          "text": "ネルスキュラの生態研究 、 ハロー遺群嶺！ 、 暑い熱い砂漠 、 騎士と密林の夢 、 氷牙竜・ベリオロス！ 、 氷海のすばらしい氷 、 鎧竜グラビモスの脅威 をクリア",
+          "links": [
+            {
+              "label": "ネルスキュラの生態研究",
+              "url": "https://game8.jp/mh-xx/823775"
+            },
+            {
+              "label": "ハロー遺群嶺！",
+              "url": "https://game8.jp/mh-xx/823813"
+            },
+            {
+              "label": "暑い熱い砂漠",
+              "url": "https://game8.jp/mh-xx/823815"
+            },
+            {
+              "label": "騎士と密林の夢",
+              "url": "https://game8.jp/mh-xx/823817"
+            },
+            {
+              "label": "氷牙竜・ベリオロス！",
+              "url": "https://game8.jp/mh-xx/823821"
+            },
+            {
+              "label": "氷海のすばらしい氷",
+              "url": "https://game8.jp/mh-xx/823822"
+            },
+            {
+              "label": "鎧竜グラビモスの脅威",
+              "url": "https://game8.jp/mh-xx/823823"
+            }
+          ]
+        }
+      }
+    },
+    {
+      "name": "絞蛇竜の消化能力について",
+      "rank": "3",
+      "url": "https://game8.jp/mh-xx/823850",
+      "fields": {
+        "受注・参加": {
+          "text": "HR9以上",
+          "links": []
+        },
+        "出現条件": {
+          "text": "ハロー遺群嶺！ 、 暑い熱い砂漠 、 騎士と密林の夢 、 氷牙竜・ベリオロス！ 、 氷海のすばらしい氷 、 鎧竜グラビモスの脅威 をクリア／ グルグルするらしいです 、 陰湿毒沼の狂想曲 のうち、いずれか1つをクリア",
+          "links": [
+            {
+              "label": "ハロー遺群嶺！",
+              "url": "https://game8.jp/mh-xx/823813"
+            },
+            {
+              "label": "暑い熱い砂漠",
+              "url": "https://game8.jp/mh-xx/823815"
+            },
+            {
+              "label": "騎士と密林の夢",
+              "url": "https://game8.jp/mh-xx/823817"
+            },
+            {
+              "label": "氷牙竜・ベリオロス！",
+              "url": "https://game8.jp/mh-xx/823821"
+            },
+            {
+              "label": "氷海のすばらしい氷",
+              "url": "https://game8.jp/mh-xx/823822"
+            },
+            {
+              "label": "鎧竜グラビモスの脅威",
+              "url": "https://game8.jp/mh-xx/823823"
+            },
+            {
+              "label": "グルグルするらしいです",
+              "url": "https://game8.jp/mh-xx/823783"
+            },
+            {
+              "label": "陰湿毒沼の狂想曲",
+              "url": "https://game8.jp/mh-xx/823792"
+            }
+          ]
+        }
+      }
+    },
+    {
+      "name": "シャークブリザード",
+      "rank": "3",
+      "url": "https://game8.jp/mh-xx/823851",
+      "fields": {
+        "受注・参加": {
+          "text": "HR9以上",
+          "links": []
+        },
+        "出現条件": {
+          "text": "閃きへの1ピースを求めて 、 ハロー遺群嶺！ 、 暑い熱い砂漠 、 騎士と密林の夢 、 氷牙竜・ベリオロス！ 、 氷海のすばらしい氷 、 鎧竜グラビモスの脅威 をクリア",
+          "links": [
+            {
+              "label": "閃きへの1ピースを求めて",
+              "url": "https://game8.jp/mh-xx/823777"
+            },
+            {
+              "label": "ハロー遺群嶺！",
+              "url": "https://game8.jp/mh-xx/823813"
+            },
+            {
+              "label": "暑い熱い砂漠",
+              "url": "https://game8.jp/mh-xx/823815"
+            },
+            {
+              "label": "騎士と密林の夢",
+              "url": "https://game8.jp/mh-xx/823817"
+            },
+            {
+              "label": "氷牙竜・ベリオロス！",
+              "url": "https://game8.jp/mh-xx/823821"
+            },
+            {
+              "label": "氷海のすばらしい氷",
+              "url": "https://game8.jp/mh-xx/823822"
+            },
+            {
+              "label": "鎧竜グラビモスの脅威",
+              "url": "https://game8.jp/mh-xx/823823"
+            }
+          ]
+        }
+      }
+    },
+    {
+      "name": "氷海の恐怖体験",
+      "rank": "3",
+      "url": "https://game8.jp/mh-xx/823852",
+      "fields": {
+        "受注・参加": {
+          "text": "HR9以上",
+          "links": []
+        },
+        "出現条件": {
+          "text": "ハロー遺群嶺！ 、 暑い熱い砂漠 、 騎士と密林の夢 、 氷牙竜・ベリオロス！ 、 氷海のすばらしい氷 、 鎧竜グラビモスの脅威 をクリア／ 身体の芯までビッリビリ 、 洞窟に潜む影 のうち、いずれか1つをクリア",
+          "links": [
+            {
+              "label": "ハロー遺群嶺！",
+              "url": "https://game8.jp/mh-xx/823813"
+            },
+            {
+              "label": "暑い熱い砂漠",
+              "url": "https://game8.jp/mh-xx/823815"
+            },
+            {
+              "label": "騎士と密林の夢",
+              "url": "https://game8.jp/mh-xx/823817"
+            },
+            {
+              "label": "氷牙竜・ベリオロス！",
+              "url": "https://game8.jp/mh-xx/823821"
+            },
+            {
+              "label": "氷海のすばらしい氷",
+              "url": "https://game8.jp/mh-xx/823822"
+            },
+            {
+              "label": "鎧竜グラビモスの脅威",
+              "url": "https://game8.jp/mh-xx/823823"
+            },
+            {
+              "label": "身体の芯までビッリビリ",
+              "url": "https://game8.jp/mh-xx/823784"
+            },
+            {
+              "label": "洞窟に潜む影",
+              "url": "https://game8.jp/mh-xx/823791"
+            }
+          ]
+        }
+      }
+    },
+    {
+      "name": "妹奮闘記〜夜鳥退治〜",
+      "rank": "3",
+      "url": "https://game8.jp/mh-xx/823853",
+      "fields": {
+        "受注・参加": {
+          "text": "HR9以上",
+          "links": []
+        },
+        "出現条件": {
+          "text": "依頼「集会酒場の看板娘の依頼」を受注",
+          "links": []
+        }
+      }
+    },
+    {
+      "name": "古代林で目撃された迅竜の報告",
+      "rank": "3",
+      "url": "https://game8.jp/mh-xx/823854",
+      "fields": {
+        "受注・参加": {
+          "text": "HR9以上",
+          "links": []
+        },
+        "出現条件": {
+          "text": "ハロー遺群嶺！ 、 暑い熱い砂漠 、 騎士と密林の夢 、 氷牙竜・ベリオロス！ 、 氷海のすばらしい氷 、 鎧竜グラビモスの脅威 をクリア／ 密林のナルガクルガと対峙せよ 、 漆黒の影 のうち、いずれか1つをクリア",
+          "links": [
+            {
+              "label": "ハロー遺群嶺！",
+              "url": "https://game8.jp/mh-xx/823813"
+            },
+            {
+              "label": "暑い熱い砂漠",
+              "url": "https://game8.jp/mh-xx/823815"
+            },
+            {
+              "label": "騎士と密林の夢",
+              "url": "https://game8.jp/mh-xx/823817"
+            },
+            {
+              "label": "氷牙竜・ベリオロス！",
+              "url": "https://game8.jp/mh-xx/823821"
+            },
+            {
+              "label": "氷海のすばらしい氷",
+              "url": "https://game8.jp/mh-xx/823822"
+            },
+            {
+              "label": "鎧竜グラビモスの脅威",
+              "url": "https://game8.jp/mh-xx/823823"
+            },
+            {
+              "label": "密林のナルガクルガと対峙せよ",
+              "url": "https://game8.jp/mh-xx/823771"
+            },
+            {
+              "label": "漆黒の影",
+              "url": "https://game8.jp/mh-xx/823788"
+            }
+          ]
+        }
+      }
+    },
+    {
+      "name": "旧砂漠のすばらしい砂",
+      "rank": "3",
+      "url": "https://game8.jp/mh-xx/823855",
+      "fields": {
+        "受注・参加": {
+          "text": "HR9以上",
+          "links": []
+        },
+        "出現条件": {
+          "text": "ハロー遺群嶺！ 、 暑い熱い砂漠 、 騎士と密林の夢 、 氷牙竜・ベリオロス！ 、 氷海のすばらしい氷 、 鎧竜グラビモスの脅威 をクリア／ 泥まみれの商魂！ 、 土砂竜・ボルボロス！ のうち、いずれか1つをクリア",
+          "links": [
+            {
+              "label": "ハロー遺群嶺！",
+              "url": "https://game8.jp/mh-xx/823813"
+            },
+            {
+              "label": "暑い熱い砂漠",
+              "url": "https://game8.jp/mh-xx/823815"
+            },
+            {
+              "label": "騎士と密林の夢",
+              "url": "https://game8.jp/mh-xx/823817"
+            },
+            {
+              "label": "氷牙竜・ベリオロス！",
+              "url": "https://game8.jp/mh-xx/823821"
+            },
+            {
+              "label": "氷海のすばらしい氷",
+              "url": "https://game8.jp/mh-xx/823822"
+            },
+            {
+              "label": "鎧竜グラビモスの脅威",
+              "url": "https://game8.jp/mh-xx/823823"
+            },
+            {
+              "label": "泥まみれの商魂！",
+              "url": "https://game8.jp/mh-xx/823766"
+            },
+            {
+              "label": "土砂竜・ボルボロス！",
+              "url": "https://game8.jp/mh-xx/823781"
+            }
+          ]
+        }
+      }
+    },
+    {
+      "name": "雪崩を呼ぶ遠吠え",
+      "rank": "3",
+      "url": "https://game8.jp/mh-xx/823856",
+      "fields": {
+        "受注・参加": {
+          "text": "HR9以上",
+          "links": []
+        },
+        "出現条件": {
+          "text": "ハロー遺群嶺！ 、 暑い熱い砂漠 、 騎士と密林の夢 、 氷牙竜・ベリオロス！ 、 氷海のすばらしい氷 、 鎧竜グラビモスの脅威 をクリア／ ……欲するならば資格を示して 、 ドドブランゴは2頭いる のうち、いずれか1つをクリア",
+          "links": [
+            {
+              "label": "ハロー遺群嶺！",
+              "url": "https://game8.jp/mh-xx/823813"
+            },
+            {
+              "label": "暑い熱い砂漠",
+              "url": "https://game8.jp/mh-xx/823815"
+            },
+            {
+              "label": "騎士と密林の夢",
+              "url": "https://game8.jp/mh-xx/823817"
+            },
+            {
+              "label": "氷牙竜・ベリオロス！",
+              "url": "https://game8.jp/mh-xx/823821"
+            },
+            {
+              "label": "氷海のすばらしい氷",
+              "url": "https://game8.jp/mh-xx/823822"
+            },
+            {
+              "label": "鎧竜グラビモスの脅威",
+              "url": "https://game8.jp/mh-xx/823823"
+            },
+            {
+              "label": "……欲するならば資格を示して",
+              "url": "https://game8.jp/mh-xx/823785"
+            },
+            {
+              "label": "ドドブランゴは2頭いる",
+              "url": "https://game8.jp/mh-xx/823786"
+            }
+          ]
+        }
+      }
+    },
+    {
+      "name": "鎌蟹は逃げ道を狩る",
+      "rank": "3",
+      "url": "https://game8.jp/mh-xx/823857",
+      "fields": {
+        "受注・参加": {
+          "text": "HR9以上",
+          "links": []
+        },
+        "出現条件": {
+          "text": "ハロー遺群嶺！ 、 暑い熱い砂漠 、 騎士と密林の夢 、 氷牙竜・ベリオロス！ 、 氷海のすばらしい氷 、 鎧竜グラビモスの脅威 をクリア／ 切り裂かれた誇り 、 鎌蟹の狩猟をさせてやるぜ！ のうち、いずれか1つをクリア",
+          "links": [
+            {
+              "label": "ハロー遺群嶺！",
+              "url": "https://game8.jp/mh-xx/823813"
+            },
+            {
+              "label": "暑い熱い砂漠",
+              "url": "https://game8.jp/mh-xx/823815"
+            },
+            {
+              "label": "騎士と密林の夢",
+              "url": "https://game8.jp/mh-xx/823817"
+            },
+            {
+              "label": "氷牙竜・ベリオロス！",
+              "url": "https://game8.jp/mh-xx/823821"
+            },
+            {
+              "label": "氷海のすばらしい氷",
+              "url": "https://game8.jp/mh-xx/823822"
+            },
+            {
+              "label": "鎧竜グラビモスの脅威",
+              "url": "https://game8.jp/mh-xx/823823"
+            },
+            {
+              "label": "切り裂かれた誇り",
+              "url": "https://game8.jp/mh-xx/823763"
+            },
+            {
+              "label": "鎌蟹の狩猟をさせてやるぜ！",
+              "url": "https://game8.jp/mh-xx/823797"
+            }
+          ]
+        }
+      }
+    },
+    {
+      "name": "鉱山哀歌",
+      "rank": "3",
+      "url": "https://game8.jp/mh-xx/823858",
+      "fields": {
+        "受注・参加": {
+          "text": "HR9以上",
+          "links": []
+        },
+        "出現条件": {
+          "text": "ぶつけろ生き様☆アフロソウル 、 ハロー遺群嶺！ 、 暑い熱い砂漠 、 騎士と密林の夢 、 氷牙竜・ベリオロス！ 、 氷海のすばらしい氷 、 鎧竜グラビモスの脅威 をクリア",
+          "links": [
+            {
+              "label": "ぶつけろ生き様☆アフロソウル",
+              "url": "https://game8.jp/mh-xx/823795"
+            },
+            {
+              "label": "ハロー遺群嶺！",
+              "url": "https://game8.jp/mh-xx/823813"
+            },
+            {
+              "label": "暑い熱い砂漠",
+              "url": "https://game8.jp/mh-xx/823815"
+            },
+            {
+              "label": "騎士と密林の夢",
+              "url": "https://game8.jp/mh-xx/823817"
+            },
+            {
+              "label": "氷牙竜・ベリオロス！",
+              "url": "https://game8.jp/mh-xx/823821"
+            },
+            {
+              "label": "氷海のすばらしい氷",
+              "url": "https://game8.jp/mh-xx/823822"
+            },
+            {
+              "label": "鎧竜グラビモスの脅威",
+              "url": "https://game8.jp/mh-xx/823823"
+            }
+          ]
+        }
+      }
+    },
+    {
+      "name": "本気の狩りは闘技場の中で",
+      "rank": "3",
+      "url": "https://game8.jp/mh-xx/823859",
+      "fields": {
+        "受注・参加": {
+          "text": "HR9以上",
+          "links": []
+        },
+        "出現条件": {
+          "text": "調査委託：獰猛な奇猿狐 、 先生の鬼門は獰猛な影蜘蛛 をクリア",
+          "links": [
+            {
+              "label": "調査委託：獰猛な奇猿狐",
+              "url": "https://game8.jp/mh-xx/823802"
+            },
+            {
+              "label": "先生の鬼門は獰猛な影蜘蛛",
+              "url": "https://game8.jp/mh-xx/823849"
+            }
+          ]
+        }
+      }
+    },
+    {
+      "name": "強い防具は素材から！",
+      "rank": "3",
+      "url": "https://game8.jp/mh-xx/823860",
+      "fields": {
+        "受注・参加": {
+          "text": "HR9以上",
+          "links": []
+        },
+        "出現条件": {
+          "text": "依頼「工房のばあちゃんの依頼4」を受注",
+          "links": []
+        }
+      }
+    },
+    {
+      "name": "狩人のための舞台〜遺群嶺〜",
+      "rank": "3",
+      "url": "https://game8.jp/mh-xx/823861",
+      "fields": {
+        "受注・参加": {
+          "text": "HR9以上",
+          "links": []
+        },
+        "出現条件": {
+          "text": "巨大龍の侵攻 （集★G3緊急クエスト）をクリア後／50%の確率で出現",
+          "links": [
+            {
+              "label": "巨大龍の侵攻",
+              "url": "https://game8.jp/mh-xx/823839"
+            }
+          ]
+        }
+      }
+    },
+    {
+      "name": "夢か現か幻か",
+      "rank": "3",
+      "url": "https://game8.jp/mh-xx/823862",
+      "fields": {
+        "受注・参加": {
+          "text": "HR9以上",
+          "links": []
+        },
+        "出現条件": {
+          "text": "巨大龍の侵攻 （集★G3緊急クエスト）をクリア後／50%の確率で出現",
+          "links": [
+            {
+              "label": "巨大龍の侵攻",
+              "url": "https://game8.jp/mh-xx/823839"
+            }
+          ]
+        }
+      }
+    },
+    {
+      "name": "幻獣、キリン現る！",
+      "rank": "3",
+      "url": "https://game8.jp/mh-xx/823863",
+      "fields": {
+        "受注・参加": {
+          "text": "HR9以上",
+          "links": []
+        },
+        "出現条件": {
+          "text": "巨大龍の侵攻 （集★G3緊急クエスト）をクリア後／50%の確率で出現",
+          "links": [
+            {
+              "label": "巨大龍の侵攻",
+              "url": "https://game8.jp/mh-xx/823839"
+            }
+          ]
+        }
+      }
+    },
+    {
+      "name": "毒の洗礼",
+      "rank": "3",
+      "url": "https://game8.jp/mh-xx/823864",
+      "fields": {
+        "受注・参加": {
+          "text": "HR9以上",
+          "links": []
+        },
+        "出現条件": {
+          "text": "水獣のタテガミ破壊に挑戦！ 、 巨大龍の侵攻 （集★G3緊急クエスト）をクリア後",
+          "links": [
+            {
+              "label": "水獣のタテガミ破壊に挑戦！",
+              "url": "https://game8.jp/mh-xx/823808"
+            },
+            {
+              "label": "巨大龍の侵攻",
+              "url": "https://game8.jp/mh-xx/823839"
+            }
+          ]
+        }
+      }
+    },
+    {
+      "name": "火山ウロザミ戦線",
+      "rank": "3",
+      "url": "https://game8.jp/mh-xx/823865",
+      "fields": {
+        "受注・参加": {
+          "text": "HR9以上",
+          "links": []
+        },
+        "出現条件": {
+          "text": "毒の洗礼 をクリア",
+          "links": [
+            {
+              "label": "毒の洗礼",
+              "url": "https://game8.jp/mh-xx/823864"
+            }
+          ]
+        }
+      }
+    },
+    {
+      "name": "密林のポイント招きネコ",
+      "rank": "3",
+      "url": "https://game8.jp/mh-xx/823866",
+      "fields": {
+        "受注・参加": {
+          "text": "HR9以上",
+          "links": []
+        },
+        "出現条件": {
+          "text": "毒の洗礼 をクリア",
+          "links": [
+            {
+              "label": "毒の洗礼",
+              "url": "https://game8.jp/mh-xx/823864"
+            }
+          ]
+        }
+      }
+    },
+    {
+      "name": "影蜘蛛の背中破壊に挑戦！",
+      "rank": "3",
+      "url": "https://game8.jp/mh-xx/823867",
+      "fields": {
+        "受注・参加": {
+          "text": "HR9以上",
+          "links": []
+        },
+        "出現条件": {
+          "text": "火山ウロザミ戦線 、 密林のポイント招きネコ のうち、いずれか1つをクリア",
+          "links": [
+            {
+              "label": "火山ウロザミ戦線",
+              "url": "https://game8.jp/mh-xx/823865"
+            },
+            {
+              "label": "密林のポイント招きネコ",
+              "url": "https://game8.jp/mh-xx/823866"
+            }
+          ]
+        }
+      }
+    },
+    {
+      "name": "天を貫く凶星",
+      "rank": "4",
+      "url": "https://game8.jp/mh-xx/823868",
+      "fields": {
+        "受注・参加": {
+          "text": "HR9以上",
+          "links": []
+        },
+        "出現条件": {
+          "text": "ハロー遺群嶺！ 、 暑い熱い砂漠 、 騎士と密林の夢 、 氷牙竜・ベリオロス！ 、 氷海のすばらしい氷 、 鎧竜グラビモスの脅威 をクリア後、酒場のマスターと話す※1",
+          "links": [
+            {
+              "label": "ハロー遺群嶺！",
+              "url": "https://game8.jp/mh-xx/823813"
+            },
+            {
+              "label": "暑い熱い砂漠",
+              "url": "https://game8.jp/mh-xx/823815"
+            },
+            {
+              "label": "騎士と密林の夢",
+              "url": "https://game8.jp/mh-xx/823817"
+            },
+            {
+              "label": "氷牙竜・ベリオロス！",
+              "url": "https://game8.jp/mh-xx/823821"
+            },
+            {
+              "label": "氷海のすばらしい氷",
+              "url": "https://game8.jp/mh-xx/823822"
+            },
+            {
+              "label": "鎧竜グラビモスの脅威",
+              "url": "https://game8.jp/mh-xx/823823"
+            }
+          ]
+        }
+      }
+    },
+    {
+      "name": "天彗龍流 狩人道場",
+      "rank": "4",
+      "url": "https://game8.jp/mh-xx/823869",
+      "fields": {
+        "受注・参加": {
+          "text": "HR9以上",
+          "links": []
+        },
+        "出現条件": {
+          "text": "天を貫く凶星 （集★G4緊急クエスト）をクリア後（ランダムで出現）※2",
+          "links": [
+            {
+              "label": "天を貫く凶星",
+              "url": "https://game8.jp/mh-xx/823868"
+            }
+          ]
+        }
+      }
+    },
+    {
+      "name": "スーパーソニック",
+      "rank": "4",
+      "url": "https://game8.jp/mh-xx/823870",
+      "fields": {
+        "受注・参加": {
+          "text": "HR9以上",
+          "links": []
+        },
+        "出現条件": {
+          "text": "天を貫く凶星 （集★G4緊急クエスト）をクリア後（ランダムで出現）※2",
+          "links": [
+            {
+              "label": "天を貫く凶星",
+              "url": "https://game8.jp/mh-xx/823868"
+            }
+          ]
+        }
+      }
+    },
+    {
+      "name": "天彗龍に目が眩む",
+      "rank": "4",
+      "url": "https://game8.jp/mh-xx/823871",
+      "fields": {
+        "受注・参加": {
+          "text": "HR9以上",
+          "links": []
+        },
+        "出現条件": {
+          "text": "天を貫く凶星 （集★G4緊急クエスト）をクリア後（ランダムで出現）※2",
+          "links": [
+            {
+              "label": "天を貫く凶星",
+              "url": "https://game8.jp/mh-xx/823868"
+            }
+          ]
+        }
+      }
+    },
+    {
+      "name": "千刃は刀よりも鋭く",
+      "rank": "4",
+      "url": "https://game8.jp/mh-xx/823872",
+      "fields": {
+        "受注・参加": {
+          "text": "HR9以上",
+          "links": []
+        },
+        "出現条件": {
+          "text": "天を貫く凶星 （集★G4緊急クエスト）をクリア後",
+          "links": [
+            {
+              "label": "天を貫く凶星",
+              "url": "https://game8.jp/mh-xx/823868"
+            }
+          ]
+        }
+      }
+    },
+    {
+      "name": "砂上に見ゆるは猛き双角",
+      "rank": "4",
+      "url": "https://game8.jp/mh-xx/823873",
+      "fields": {
+        "受注・参加": {
+          "text": "HR9以上",
+          "links": []
+        },
+        "出現条件": {
+          "text": "天を貫く凶星 （集★G4緊急クエスト）をクリア後",
+          "links": [
+            {
+              "label": "天を貫く凶星",
+              "url": "https://game8.jp/mh-xx/823868"
+            }
+          ]
+        }
+      }
+    },
+    {
+      "name": "イビルジョーの狩猟",
+      "rank": "4",
+      "url": "https://game8.jp/mh-xx/823874",
+      "fields": {
+        "受注・参加": {
+          "text": "HR9以上",
+          "links": []
+        },
+        "出現条件": {
+          "text": "天を貫く凶星 （集★G4緊急クエスト）をクリア後",
+          "links": [
+            {
+              "label": "天を貫く凶星",
+              "url": "https://game8.jp/mh-xx/823868"
+            }
+          ]
+        }
+      }
+    },
+    {
+      "name": "金色に染まる",
+      "rank": "4",
+      "url": "https://game8.jp/mh-xx/823875",
+      "fields": {
+        "受注・参加": {
+          "text": "HR9以上",
+          "links": []
+        },
+        "出現条件": {
+          "text": "天を貫く凶星 （集★G4緊急クエスト）をクリア後",
+          "links": [
+            {
+              "label": "天を貫く凶星",
+              "url": "https://game8.jp/mh-xx/823868"
+            }
+          ]
+        }
+      }
+    },
+    {
+      "name": "轟竜の軌跡を追いかけて",
+      "rank": "4",
+      "url": "https://game8.jp/mh-xx/823876",
+      "fields": {
+        "受注・参加": {
+          "text": "HR9以上",
+          "links": []
+        },
+        "出現条件": {
+          "text": "天を貫く凶星 （集★G4緊急クエスト）をクリア後",
+          "links": [
+            {
+              "label": "天を貫く凶星",
+              "url": "https://game8.jp/mh-xx/823868"
+            }
+          ]
+        }
+      }
+    },
+    {
+      "name": "氷海を爆走、暴走轟竜！",
+      "rank": "4",
+      "url": "https://game8.jp/mh-xx/823877",
+      "fields": {
+        "受注・参加": {
+          "text": "HR9以上",
+          "links": []
+        },
+        "出現条件": {
+          "text": "天を貫く凶星 （集★G4緊急クエスト）をクリア後",
+          "links": [
+            {
+              "label": "天を貫く凶星",
+              "url": "https://game8.jp/mh-xx/823868"
+            }
+          ]
+        }
+      }
+    },
+    {
+      "name": "この先、千刃竜以外立入禁止",
+      "rank": "4",
+      "url": "https://game8.jp/mh-xx/823878",
+      "fields": {
+        "受注・参加": {
+          "text": "HR9以上",
+          "links": []
+        },
+        "出現条件": {
+          "text": "天を貫く凶星 （集★G4緊急クエスト）をクリア後",
+          "links": [
+            {
+              "label": "天を貫く凶星",
+              "url": "https://game8.jp/mh-xx/823868"
+            }
+          ]
+        }
+      }
+    },
+    {
+      "name": "光る粘菌のナゾを追え",
+      "rank": "4",
+      "url": "https://game8.jp/mh-xx/823879",
+      "fields": {
+        "受注・参加": {
+          "text": "HR9以上",
+          "links": []
+        },
+        "出現条件": {
+          "text": "天を貫く凶星 （集★G4緊急クエスト）をクリア後",
+          "links": [
+            {
+              "label": "天を貫く凶星",
+              "url": "https://game8.jp/mh-xx/823868"
+            }
+          ]
+        }
+      }
+    },
+    {
+      "name": "角竜怒涛",
+      "rank": "4",
+      "url": "https://game8.jp/mh-xx/823880",
+      "fields": {
+        "受注・参加": {
+          "text": "HR9以上",
+          "links": []
+        },
+        "出現条件": {
+          "text": "天を貫く凶星 （集★G4緊急クエスト）をクリア後",
+          "links": [
+            {
+              "label": "天を貫く凶星",
+              "url": "https://game8.jp/mh-xx/823868"
+            }
+          ]
+        }
+      }
+    },
+    {
+      "name": "雪山からの救援要請",
+      "rank": "4",
+      "url": "https://game8.jp/mh-xx/823881",
+      "fields": {
+        "受注・参加": {
+          "text": "HR9以上",
+          "links": []
+        },
+        "出現条件": {
+          "text": "天を貫く凶星 （集★G4緊急クエスト）をクリア後",
+          "links": [
+            {
+              "label": "天を貫く凶星",
+              "url": "https://game8.jp/mh-xx/823868"
+            }
+          ]
+        }
+      }
+    },
+    {
+      "name": "小山も陽気に誘われて",
+      "rank": "4",
+      "url": "https://game8.jp/mh-xx/823882",
+      "fields": {
+        "受注・参加": {
+          "text": "HR9以上",
+          "links": []
+        },
+        "出現条件": {
+          "text": "天を貫く凶星 （集★G4緊急クエスト）をクリア後",
+          "links": [
+            {
+              "label": "天を貫く凶星",
+              "url": "https://game8.jp/mh-xx/823868"
+            }
+          ]
+        }
+      }
+    },
+    {
+      "name": "暴飲暴食ご用心",
+      "rank": "4",
+      "url": "https://game8.jp/mh-xx/823883",
+      "fields": {
+        "受注・参加": {
+          "text": "HR9以上",
+          "links": []
+        },
+        "出現条件": {
+          "text": "天を貫く凶星 （集★G4緊急クエスト）をクリア後",
+          "links": [
+            {
+              "label": "天を貫く凶星",
+              "url": "https://game8.jp/mh-xx/823868"
+            }
+          ]
+        }
+      }
+    },
+    {
+      "name": "マグマまといし竜",
+      "rank": "4",
+      "url": "https://game8.jp/mh-xx/823884",
+      "fields": {
+        "受注・参加": {
+          "text": "HR9以上",
+          "links": []
+        },
+        "出現条件": {
+          "text": "天を貫く凶星 （集★G4緊急クエスト）をクリア後",
+          "links": [
+            {
+              "label": "天を貫く凶星",
+              "url": "https://game8.jp/mh-xx/823868"
+            }
+          ]
+        }
+      }
+    },
+    {
+      "name": "火山の脅威・ブラキディオス",
+      "rank": "4",
+      "url": "https://game8.jp/mh-xx/823885",
+      "fields": {
+        "受注・参加": {
+          "text": "HR9以上",
+          "links": []
+        },
+        "出現条件": {
+          "text": "天を貫く凶星 （集★G4緊急クエスト）をクリア後",
+          "links": [
+            {
+              "label": "天を貫く凶星",
+              "url": "https://game8.jp/mh-xx/823868"
+            }
+          ]
+        }
+      }
+    },
+    {
+      "name": "斬鉄の剣、不壊の鎧",
+      "rank": "4",
+      "url": "https://game8.jp/mh-xx/823886",
+      "fields": {
+        "受注・参加": {
+          "text": "HR9以上",
+          "links": []
+        },
+        "出現条件": {
+          "text": "砂上に見ゆるは猛き双角 、 イビルジョーの狩猟 、 轟竜の軌跡を追いかけて 、 雪山からの救援要請 をクリア後、酒場のマスターと話す",
+          "links": [
+            {
+              "label": "砂上に見ゆるは猛き双角",
+              "url": "https://game8.jp/mh-xx/823873"
+            },
+            {
+              "label": "イビルジョーの狩猟",
+              "url": "https://game8.jp/mh-xx/823874"
+            },
+            {
+              "label": "轟竜の軌跡を追いかけて",
+              "url": "https://game8.jp/mh-xx/823876"
+            },
+            {
+              "label": "雪山からの救援要請",
+              "url": "https://game8.jp/mh-xx/823881"
+            }
+          ]
+        }
+      }
+    },
+    {
+      "name": "天を廻りしその果てに…",
+      "rank": "4",
+      "url": "https://game8.jp/mh-xx/823887",
+      "fields": {
+        "受注・参加": {
+          "text": "HR9以上",
+          "links": []
+        },
+        "出現条件": {
+          "text": "砂上に見ゆるは猛き双角 、 イビルジョーの狩猟 、 轟竜の軌跡を追いかけて 、 雪山からの救援要請 をクリア後、酒場のマスターと話す",
+          "links": [
+            {
+              "label": "砂上に見ゆるは猛き双角",
+              "url": "https://game8.jp/mh-xx/823873"
+            },
+            {
+              "label": "イビルジョーの狩猟",
+              "url": "https://game8.jp/mh-xx/823874"
+            },
+            {
+              "label": "轟竜の軌跡を追いかけて",
+              "url": "https://game8.jp/mh-xx/823876"
+            },
+            {
+              "label": "雪山からの救援要請",
+              "url": "https://game8.jp/mh-xx/823881"
+            }
+          ]
+        }
+      }
+    },
+    {
+      "name": "戈と槌は相容れず",
+      "rank": "4",
+      "url": "https://game8.jp/mh-xx/823888",
+      "fields": {
+        "受注・参加": {
+          "text": "HR9以上",
+          "links": []
+        },
+        "出現条件": {
+          "text": "砂上に見ゆるは猛き双角 、 イビルジョーの狩猟 、 轟竜の軌跡を追いかけて 、 雪山からの救援要請 をクリア後、酒場のマスターと話す",
+          "links": [
+            {
+              "label": "砂上に見ゆるは猛き双角",
+              "url": "https://game8.jp/mh-xx/823873"
+            },
+            {
+              "label": "イビルジョーの狩猟",
+              "url": "https://game8.jp/mh-xx/823874"
+            },
+            {
+              "label": "轟竜の軌跡を追いかけて",
+              "url": "https://game8.jp/mh-xx/823876"
+            },
+            {
+              "label": "雪山からの救援要請",
+              "url": "https://game8.jp/mh-xx/823881"
+            }
+          ]
+        }
+      }
+    },
+    {
+      "name": "感動の生まれる瞬間",
+      "rank": "4",
+      "url": "https://game8.jp/mh-xx/823889",
+      "fields": {
+        "受注・参加": {
+          "text": "HR9以上",
+          "links": []
+        },
+        "出現条件": {
+          "text": "依頼「タンジアの大会担当の依頼」を受注",
+          "links": []
+        }
+      }
+    },
+    {
+      "name": "古代林の陰謀",
+      "rank": "4",
+      "url": "https://game8.jp/mh-xx/823890",
+      "fields": {
+        "受注・参加": {
+          "text": "HR9以上",
+          "links": []
+        },
+        "出現条件": {
+          "text": "砂上に見ゆるは猛き双角 、 イビルジョーの狩猟 、 轟竜の軌跡を追いかけて 、 雪山からの救援要請 をクリア後、酒場のマスターと話す",
+          "links": [
+            {
+              "label": "砂上に見ゆるは猛き双角",
+              "url": "https://game8.jp/mh-xx/823873"
+            },
+            {
+              "label": "イビルジョーの狩猟",
+              "url": "https://game8.jp/mh-xx/823874"
+            },
+            {
+              "label": "轟竜の軌跡を追いかけて",
+              "url": "https://game8.jp/mh-xx/823876"
+            },
+            {
+              "label": "雪山からの救援要請",
+              "url": "https://game8.jp/mh-xx/823881"
+            }
+          ]
+        }
+      }
+    },
+    {
+      "name": "森丘からの伝書",
+      "rank": "4",
+      "url": "https://game8.jp/mh-xx/823891",
+      "fields": {
+        "受注・参加": {
+          "text": "HR9以上",
+          "links": []
+        },
+        "出現条件": {
+          "text": "砂上に見ゆるは猛き双角 、 イビルジョーの狩猟 、 轟竜の軌跡を追いかけて 、 雪山からの救援要請 をクリア後、酒場のマスターと話す",
+          "links": [
+            {
+              "label": "砂上に見ゆるは猛き双角",
+              "url": "https://game8.jp/mh-xx/823873"
+            },
+            {
+              "label": "イビルジョーの狩猟",
+              "url": "https://game8.jp/mh-xx/823874"
+            },
+            {
+              "label": "轟竜の軌跡を追いかけて",
+              "url": "https://game8.jp/mh-xx/823876"
+            },
+            {
+              "label": "雪山からの救援要請",
+              "url": "https://game8.jp/mh-xx/823881"
+            }
+          ]
+        }
+      }
+    },
+    {
+      "name": "絆の証！ 孤島の大決戦",
+      "rank": "4",
+      "url": "https://game8.jp/mh-xx/823892",
+      "fields": {
+        "受注・参加": {
+          "text": "HR9以上",
+          "links": []
+        },
+        "出現条件": {
+          "text": "依頼「バルバレの仕切り役の依頼3」を受注",
+          "links": []
+        }
+      }
+    },
+    {
+      "name": "鎧・砕・斬の包囲網を越えて",
+      "rank": "4",
+      "url": "https://game8.jp/mh-xx/823893",
+      "fields": {
+        "受注・参加": {
+          "text": "HR9以上",
+          "links": []
+        },
+        "出現条件": {
+          "text": "依頼「伝説の職人の依頼」を受注",
+          "links": []
+        }
+      }
+    },
+    {
+      "name": "蠢く墟城",
+      "rank": "4",
+      "url": "https://game8.jp/mh-xx/823894",
+      "fields": {
+        "受注・参加": {
+          "text": "HR12以上",
+          "links": []
+        },
+        "出現条件": {
+          "text": "斬鉄の剣、不壊の鎧 、 戈と槌は相容れず をクリア後、酒場のマスターと話す",
+          "links": [
+            {
+              "label": "斬鉄の剣、不壊の鎧",
+              "url": "https://game8.jp/mh-xx/823886"
+            },
+            {
+              "label": "戈と槌は相容れず",
+              "url": "https://game8.jp/mh-xx/823888"
+            }
+          ]
+        }
+      }
+    },
+    {
+      "name": "遺群嶺での攻防",
+      "rank": "4",
+      "url": "https://game8.jp/mh-xx/823895",
+      "fields": {
+        "受注・参加": {
+          "text": "HR13以上",
+          "links": []
+        },
+        "出現条件": {
+          "text": "HR13以上／ イビルジョーの狩猟 、 暴飲暴食ご用心 のうち、いずれか1つをクリア",
+          "links": [
+            {
+              "label": "イビルジョーの狩猟",
+              "url": "https://game8.jp/mh-xx/823874"
+            },
+            {
+              "label": "暴飲暴食ご用心",
+              "url": "https://game8.jp/mh-xx/823883"
+            }
+          ]
+        }
+      }
+    },
+    {
+      "name": "無心にて森羅万象を断つ",
+      "rank": "4",
+      "url": "https://game8.jp/mh-xx/823896",
+      "fields": {
+        "受注・参加": {
+          "text": "HR13以上",
+          "links": []
+        },
+        "出現条件": {
+          "text": "HR13以上／ 暑い熱い砂漠 、 斬竜流 狩人道場 のうち、いずれか1つをクリア",
+          "links": [
+            {
+              "label": "暑い熱い砂漠",
+              "url": "https://game8.jp/mh-xx/823815"
+            },
+            {
+              "label": "斬竜流 狩人道場",
+              "url": "https://game8.jp/mh-xx/823824"
+            }
+          ]
+        }
+      }
+    },
+    {
+      "name": "砂漠の死闘と挑戦",
+      "rank": "4",
+      "url": "https://game8.jp/mh-xx/823897",
+      "fields": {
+        "受注・参加": {
+          "text": "HR13以上",
+          "links": []
+        },
+        "出現条件": {
+          "text": "HR13以上／ 砂上に見ゆるは猛き双角 、 角竜怒涛 のうち、いずれか1つをクリア",
+          "links": [
+            {
+              "label": "砂上に見ゆるは猛き双角",
+              "url": "https://game8.jp/mh-xx/823873"
+            },
+            {
+              "label": "角竜怒涛",
+              "url": "https://game8.jp/mh-xx/823880"
+            }
+          ]
+        }
+      }
+    },
+    {
+      "name": "我怒る、ゆえに我在り",
+      "rank": "4",
+      "url": "https://game8.jp/mh-xx/823898",
+      "fields": {
+        "受注・参加": {
+          "text": "HR13以上",
+          "links": []
+        },
+        "出現条件": {
+          "text": "HR13以上／ 金色に染まる 、 雪山からの救援要請 のうち、いずれか1つをクリア",
+          "links": [
+            {
+              "label": "金色に染まる",
+              "url": "https://game8.jp/mh-xx/823875"
+            },
+            {
+              "label": "雪山からの救援要請",
+              "url": "https://game8.jp/mh-xx/823881"
+            }
+          ]
+        }
+      }
+    },
+    {
+      "name": "獰猛な海の王者は武器の素",
+      "rank": "4",
+      "url": "https://game8.jp/mh-xx/823899",
+      "fields": {
+        "受注・参加": {
+          "text": "HR13以上",
+          "links": []
+        },
+        "出現条件": {
+          "text": "依頼「モガの村の老職人の依頼2」を受注",
+          "links": []
+        }
+      }
+    },
+    {
+      "name": "焦電",
+      "rank": "4",
+      "url": "https://game8.jp/mh-xx/823900",
+      "fields": {
+        "受注・参加": {
+          "text": "HR13以上",
+          "links": []
+        },
+        "出現条件": {
+          "text": "HR13以上／ ハロー遺群嶺！ 、 電竜流 狩人道場 のうち、いずれか1つをクリア",
+          "links": [
+            {
+              "label": "ハロー遺群嶺！",
+              "url": "https://game8.jp/mh-xx/823813"
+            },
+            {
+              "label": "電竜流 狩人道場",
+              "url": "https://game8.jp/mh-xx/823836"
+            }
+          ]
+        }
+      }
+    },
+    {
+      "name": "領主の懇願〜尾槌竜篇〜",
+      "rank": "4",
+      "url": "https://game8.jp/mh-xx/823901",
+      "fields": {
+        "受注・参加": {
+          "text": "HR13以上",
+          "links": []
+        },
+        "出現条件": {
+          "text": "HR13以上／ 小山も陽気に誘われて をクリア",
+          "links": [
+            {
+              "label": "小山も陽気に誘われて",
+              "url": "https://game8.jp/mh-xx/823882"
+            }
+          ]
+        }
+      }
+    },
+    {
+      "name": "先生の弱点は獰猛な重甲虫",
+      "rank": "4",
+      "url": "https://game8.jp/mh-xx/823902",
+      "fields": {
+        "受注・参加": {
+          "text": "HR13以上",
+          "links": []
+        },
+        "出現条件": {
+          "text": "HR13以上／ 女帝の花道 、 重量級の女帝 のうち、いずれか1つをクリア",
+          "links": [
+            {
+              "label": "女帝の花道",
+              "url": "https://game8.jp/mh-xx/823816"
+            },
+            {
+              "label": "重量級の女帝",
+              "url": "https://game8.jp/mh-xx/823826"
+            }
+          ]
+        }
+      }
+    },
+    {
+      "name": "シャル・ウィ・ダンス？",
+      "rank": "4",
+      "url": "https://game8.jp/mh-xx/823903",
+      "fields": {
+        "受注・参加": {
+          "text": "HR13以上",
+          "links": []
+        },
+        "出現条件": {
+          "text": "HR13以上／ 騎士と密林の夢 、 泡狐竜流 狩人道場 のうち、いずれか1つをクリア",
+          "links": [
+            {
+              "label": "騎士と密林の夢",
+              "url": "https://game8.jp/mh-xx/823817"
+            },
+            {
+              "label": "泡狐竜流 狩人道場",
+              "url": "https://game8.jp/mh-xx/823833"
+            }
+          ]
+        }
+      }
+    },
+    {
+      "name": "黒蝕竜は禍々しく猛る",
+      "rank": "4",
+      "url": "https://game8.jp/mh-xx/823904",
+      "fields": {
+        "受注・参加": {
+          "text": "HR13以上",
+          "links": []
+        },
+        "出現条件": {
+          "text": "HR13以上／ 遺群嶺の難題解決 、 古代林に来たりし黒き蝕 のうち、いずれか1つをクリア",
+          "links": [
+            {
+              "label": "遺群嶺の難題解決",
+              "url": "https://game8.jp/mh-xx/823814"
+            },
+            {
+              "label": "古代林に来たりし黒き蝕",
+              "url": "https://game8.jp/mh-xx/823827"
+            }
+          ]
+        }
+      }
+    },
+    {
+      "name": "騎士と氷海の決闘",
+      "rank": "4",
+      "url": "https://game8.jp/mh-xx/823905",
+      "fields": {
+        "受注・参加": {
+          "text": "HR13以上",
+          "links": []
+        },
+        "出現条件": {
+          "text": "HR13以上／ 氷牙竜・ベリオロス！ 、 氷牙竜が大発明のカギ？ のうち、いずれか1つをクリア",
+          "links": [
+            {
+              "label": "氷牙竜・ベリオロス！",
+              "url": "https://game8.jp/mh-xx/823821"
+            },
+            {
+              "label": "氷牙竜が大発明のカギ？",
+              "url": "https://game8.jp/mh-xx/823830"
+            }
+          ]
+        }
+      }
+    },
+    {
+      "name": "巨獣の進攻",
+      "rank": "4",
+      "url": "https://game8.jp/mh-xx/823906",
+      "fields": {
+        "受注・参加": {
+          "text": "HR13以上",
+          "links": []
+        },
+        "出現条件": {
+          "text": "HR13以上／ 氷海のすばらしい氷 、 巨獣流 狩人道場 のうち、いずれか1つをクリア",
+          "links": [
+            {
+              "label": "氷海のすばらしい氷",
+              "url": "https://game8.jp/mh-xx/823822"
+            },
+            {
+              "label": "巨獣流 狩人道場",
+              "url": "https://game8.jp/mh-xx/823831"
+            }
+          ]
+        }
+      }
+    },
+    {
+      "name": "採掘場を取り戻せ！",
+      "rank": "4",
+      "url": "https://game8.jp/mh-xx/823907",
+      "fields": {
+        "受注・参加": {
+          "text": "HR13以上",
+          "links": []
+        },
+        "出現条件": {
+          "text": "HR13以上／ トラウマガンキンを退治せよ をクリア",
+          "links": [
+            {
+              "label": "トラウマガンキンを退治せよ",
+              "url": "https://game8.jp/mh-xx/823837"
+            }
+          ]
+        }
+      }
+    },
+    {
+      "name": "炎戈竜は地底で吠える",
+      "rank": "4",
+      "url": "https://game8.jp/mh-xx/823908",
+      "fields": {
+        "受注・参加": {
+          "text": "HR13以上",
+          "links": []
+        },
+        "出現条件": {
+          "text": "HR13以上／ マグマまといし竜 をクリア",
+          "links": [
+            {
+              "label": "マグマまといし竜",
+              "url": "https://game8.jp/mh-xx/823884"
+            }
+          ]
+        }
+      }
+    },
+    {
+      "name": "犯人は黒狼鳥",
+      "rank": "4",
+      "url": "https://game8.jp/mh-xx/823909",
+      "fields": {
+        "受注・参加": {
+          "text": "HR13以上",
+          "links": []
+        },
+        "出現条件": {
+          "text": "HR13以上／ 孤高の黒狼鳥 、 双子の黒狼鳥 のうち、いずれか1つをクリア",
+          "links": [
+            {
+              "label": "孤高の黒狼鳥",
+              "url": "https://game8.jp/mh-xx/823810"
+            },
+            {
+              "label": "双子の黒狼鳥",
+              "url": "https://game8.jp/mh-xx/823818"
+            }
+          ]
+        }
+      }
+    },
+    {
+      "name": "所により獰猛なセルレギオス",
+      "rank": "4",
+      "url": "https://game8.jp/mh-xx/823910",
+      "fields": {
+        "受注・参加": {
+          "text": "HR13以上",
+          "links": []
+        },
+        "出現条件": {
+          "text": "依頼「大老殿の大臣の依頼」を受注",
+          "links": []
+        }
+      }
+    },
+    {
+      "name": "轟々たる罠",
+      "rank": "4",
+      "url": "https://game8.jp/mh-xx/823911",
+      "fields": {
+        "受注・参加": {
+          "text": "HR13以上",
+          "links": []
+        },
+        "出現条件": {
+          "text": "HR13以上／ 轟竜の軌跡を追いかけて 、 氷海を爆走、暴走轟竜！ のうち、いずれか1つをクリア",
+          "links": [
+            {
+              "label": "轟竜の軌跡を追いかけて",
+              "url": "https://game8.jp/mh-xx/823876"
+            },
+            {
+              "label": "氷海を爆走、暴走轟竜！",
+              "url": "https://game8.jp/mh-xx/823877"
+            }
+          ]
+        }
+      }
+    },
+    {
+      "name": "孤島で遭遇！ 獰猛な雷狼竜",
+      "rank": "4",
+      "url": "https://game8.jp/mh-xx/823912",
+      "fields": {
+        "受注・参加": {
+          "text": "HR13以上",
+          "links": []
+        },
+        "出現条件": {
+          "text": "依頼「モガの村の村長の息子の依頼5」を受注",
+          "links": []
+        }
+      }
+    },
+    {
+      "name": "獰猛な砕竜は、孤島で何を思う",
+      "rank": "4",
+      "url": "https://game8.jp/mh-xx/823913",
+      "fields": {
+        "受注・参加": {
+          "text": "HR13以上",
+          "links": []
+        },
+        "出現条件": {
+          "text": "依頼「モガの村の村長の依頼2」を受注",
+          "links": []
+        }
+      }
+    },
+    {
+      "name": "沼地の冒険",
+      "rank": "4",
+      "url": "https://game8.jp/mh-xx/823914",
+      "fields": {
+        "受注・参加": {
+          "text": "HR13以上",
+          "links": []
+        },
+        "出現条件": {
+          "text": "HR13以上／ グラビモス連続狩猟 、 鎧竜グラビモスの脅威 のうち、いずれか1つをクリア",
+          "links": [
+            {
+              "label": "グラビモス連続狩猟",
+              "url": "https://game8.jp/mh-xx/823820"
+            },
+            {
+              "label": "鎧竜グラビモスの脅威",
+              "url": "https://game8.jp/mh-xx/823823"
+            }
+          ]
+        }
+      }
+    },
+    {
+      "name": "火山のすばらしい岩",
+      "rank": "4",
+      "url": "https://game8.jp/mh-xx/823915",
+      "fields": {
+        "受注・参加": {
+          "text": "HR13以上",
+          "links": []
+        },
+        "出現条件": {
+          "text": "HR13以上／ 空の王者を狩猟せよ！ をクリア",
+          "links": [
+            {
+              "label": "空の王者を狩猟せよ！",
+              "url": "https://game8.jp/mh-xx/823834"
+            }
+          ]
+        }
+      }
+    },
+    {
+      "name": "天地が焔に染まるとき",
+      "rank": "4",
+      "url": "https://game8.jp/mh-xx/823916",
+      "fields": {
+        "受注・参加": {
+          "text": "HR13以上",
+          "links": []
+        },
+        "出現条件": {
+          "text": "遺群嶺の怒れるリオレイア 、 煉獄の主、怒れる炎帝 をクリア",
+          "links": [
+            {
+              "label": "遺群嶺の怒れるリオレイア",
+              "url": "https://game8.jp/mh-xx/823846"
+            },
+            {
+              "label": "煉獄の主、怒れる炎帝",
+              "url": "https://game8.jp/mh-xx/823714"
+            }
+          ]
+        }
+      }
+    },
+    {
+      "name": "死神は鎧をまとう",
+      "rank": "4",
+      "url": "https://game8.jp/mh-xx/823917",
+      "fields": {
+        "受注・参加": {
+          "text": "HR13以上",
+          "links": []
+        },
+        "出現条件": {
+          "text": "先生の鬼門は獰猛な影蜘蛛 、 しじまの向こう をクリア",
+          "links": [
+            {
+              "label": "先生の鬼門は獰猛な影蜘蛛",
+              "url": "https://game8.jp/mh-xx/823849"
+            },
+            {
+              "label": "しじまの向こう",
+              "url": "https://game8.jp/mh-xx/823713"
+            }
+          ]
+        }
+      }
+    },
+    {
+      "name": "戦慄の遺群嶺",
+      "rank": "4",
+      "url": "https://game8.jp/mh-xx/823918",
+      "fields": {
+        "受注・参加": {
+          "text": "HR13以上",
+          "links": []
+        },
+        "出現条件": {
+          "text": "0879 〜 0901 のうち、いずれか6つ以上をクリア",
+          "links": []
+        }
+      }
+    },
+    {
+      "name": "狩魂よ砂中に眠れ",
+      "rank": "4",
+      "url": "https://game8.jp/mh-xx/823919",
+      "fields": {
+        "受注・参加": {
+          "text": "HR13以上",
+          "links": []
+        },
+        "出現条件": {
+          "text": "0879 〜 0901 のうち、いずれか6つ以上をクリア",
+          "links": []
+        }
+      }
+    },
+    {
+      "name": "風薫る密林",
+      "rank": "4",
+      "url": "https://game8.jp/mh-xx/823920",
+      "fields": {
+        "受注・参加": {
+          "text": "HR13以上",
+          "links": []
+        },
+        "出現条件": {
+          "text": "0879 〜 0901 のうち、いずれか6つ以上をクリア",
+          "links": []
+        }
+      }
+    },
+    {
+      "name": "絆の証？ 雪山の獰猛大決戦",
+      "rank": "4",
+      "url": "https://game8.jp/mh-xx/823921",
+      "fields": {
+        "受注・参加": {
+          "text": "HR13以上",
+          "links": []
+        },
+        "出現条件": {
+          "text": "依頼「ギルドマネージャーの依頼3」を受注",
+          "links": []
+        }
+      }
+    },
+    {
+      "name": "絆の証！ 闘技場の大決戦",
+      "rank": "4",
+      "url": "https://game8.jp/mh-xx/823922",
+      "fields": {
+        "受注・参加": {
+          "text": "HR13以上",
+          "links": []
+        },
+        "出現条件": {
+          "text": "依頼「ロックラックの長の依頼2」を受注",
+          "links": []
+        }
+      }
+    },
+    {
+      "name": "狩人達の究道",
+      "rank": "4",
+      "url": "https://game8.jp/mh-xx/823923",
+      "fields": {
+        "受注・参加": {
+          "text": "HR13以上",
+          "links": []
+        },
+        "出現条件": {
+          "text": "戦慄の遺群嶺 、 狩魂よ砂中に眠れ 、 風薫る密林 、 絆の証？ 雪山の獰猛大決戦 をクリア",
+          "links": [
+            {
+              "label": "戦慄の遺群嶺",
+              "url": "https://game8.jp/mh-xx/823918"
+            },
+            {
+              "label": "狩魂よ砂中に眠れ",
+              "url": "https://game8.jp/mh-xx/823919"
+            },
+            {
+              "label": "風薫る密林",
+              "url": "https://game8.jp/mh-xx/823920"
+            },
+            {
+              "label": "絆の証？ 雪山の獰猛大決戦",
+              "url": "https://game8.jp/mh-xx/823921"
+            }
+          ]
+        }
+      }
+    },
+    {
+      "name": "天を舞う白銀",
+      "rank": "4",
+      "url": "https://game8.jp/mh-xx/823924",
+      "fields": {
+        "受注・参加": {
+          "text": "HR13以上",
+          "links": []
+        },
+        "出現条件": {
+          "text": "HR40以上",
+          "links": []
+        }
+      }
+    },
+    {
+      "name": "大地に踊る黄金",
+      "rank": "4",
+      "url": "https://game8.jp/mh-xx/823925",
+      "fields": {
+        "受注・参加": {
+          "text": "HR13以上",
+          "links": []
+        },
+        "出現条件": {
+          "text": "HR40以上",
+          "links": []
+        }
+      }
+    },
+    {
+      "name": "呼び合う太陽と月",
+      "rank": "4",
+      "url": "https://game8.jp/mh-xx/823926",
+      "fields": {
+        "受注・参加": {
+          "text": "HR13以上",
+          "links": []
+        },
+        "出現条件": {
+          "text": "天を舞う白銀 、 大地に踊る黄金 をクリア",
+          "links": [
+            {
+              "label": "天を舞う白銀",
+              "url": "https://game8.jp/mh-xx/823924"
+            },
+            {
+              "label": "大地に踊る黄金",
+              "url": "https://game8.jp/mh-xx/823925"
+            }
+          ]
+        }
+      }
+    },
+    {
+      "name": "夜空に浮かぶ銀の太陽",
+      "rank": "4",
+      "url": "https://game8.jp/mh-xx/823927",
+      "fields": {
+        "受注・参加": {
+          "text": "HR13以上",
+          "links": []
+        },
+        "出現条件": {
+          "text": "HR13以上／ 天を舞う白銀 をクリア",
+          "links": [
+            {
+              "label": "天を舞う白銀",
+              "url": "https://game8.jp/mh-xx/823924"
+            }
+          ]
+        }
+      }
+    },
+    {
+      "name": "狩人のための舞台〜古代林〜",
+      "rank": "4",
+      "url": "https://game8.jp/mh-xx/823928",
+      "fields": {
+        "受注・参加": {
+          "text": "HR13以上",
+          "links": []
+        },
+        "出現条件": {
+          "text": "HR13以上／ 大地に踊る黄金 をクリア",
+          "links": [
+            {
+              "label": "大地に踊る黄金",
+              "url": "https://game8.jp/mh-xx/823925"
+            }
+          ]
+        }
+      }
+    },
+    {
+      "name": "金と銀がもたらす悲哀",
+      "rank": "4",
+      "url": "https://game8.jp/mh-xx/823929",
+      "fields": {
+        "受注・参加": {
+          "text": "HR13以上",
+          "links": []
+        },
+        "出現条件": {
+          "text": "夜空に浮かぶ銀の太陽 、 狩人のための舞台〜古代林〜 をクリア",
+          "links": [
+            {
+              "label": "夜空に浮かぶ銀の太陽",
+              "url": "https://game8.jp/mh-xx/823927"
+            },
+            {
+              "label": "狩人のための舞台〜古代林〜",
+              "url": "https://game8.jp/mh-xx/823928"
+            }
+          ]
+        }
+      }
+    },
+    {
+      "name": "天を廻りて、冥界に堕つ",
+      "rank": "4",
+      "url": "https://game8.jp/mh-xx/823930",
+      "fields": {
+        "受注・参加": {
+          "text": "HR13以上",
+          "links": []
+        },
+        "出現条件": {
+          "text": "HR35以上",
+          "links": []
+        }
+      }
+    },
+    {
+      "name": "原生林にて呻くは渾沌の竜",
+      "rank": "4",
+      "url": "https://game8.jp/mh-xx/823931",
+      "fields": {
+        "受注・参加": {
+          "text": "HR13以上",
+          "links": []
+        },
+        "出現条件": {
+          "text": "依頼「筆頭リーダーの依頼4」を受注",
+          "links": []
+        }
+      }
+    },
+    {
+      "name": "金色超巨星",
+      "rank": "4",
+      "url": "https://game8.jp/mh-xx/823932",
+      "fields": {
+        "受注・参加": {
+          "text": "HR13以上",
+          "links": []
+        },
+        "出現条件": {
+          "text": "HR45以上",
+          "links": []
+        }
+      }
+    },
+    {
+      "name": "砂漠の死闘と未来",
+      "rank": "4",
+      "url": "https://game8.jp/mh-xx/823933",
+      "fields": {
+        "受注・参加": {
+          "text": "HR13以上",
+          "links": []
+        },
+        "出現条件": {
+          "text": "HR45以上",
+          "links": []
+        }
+      }
+    },
+    {
+      "name": "溶岩島で爆ぜる砕光",
+      "rank": "4",
+      "url": "https://game8.jp/mh-xx/823934",
+      "fields": {
+        "受注・参加": {
+          "text": "HR13以上",
+          "links": []
+        },
+        "出現条件": {
+          "text": "HR50以上",
+          "links": []
+        }
+      }
+    },
+    {
+      "name": "禍は鋼鉄よりも硬し",
+      "rank": "4",
+      "url": "https://game8.jp/mh-xx/823935",
+      "fields": {
+        "受注・参加": {
+          "text": "HR13以上",
+          "links": []
+        },
+        "出現条件": {
+          "text": "HR35以上／40%の確率で出現",
+          "links": []
+        }
+      }
+    },
+    {
+      "name": "吹雪を呼ぶ者",
+      "rank": "4",
+      "url": "https://game8.jp/mh-xx/823936",
+      "fields": {
+        "受注・参加": {
+          "text": "HR13以上",
+          "links": []
+        },
+        "出現条件": {
+          "text": "HR35以上／40%の確率で出現",
+          "links": []
+        }
+      }
+    },
+    {
+      "name": "虚空より現われし者",
+      "rank": "4",
+      "url": "https://game8.jp/mh-xx/823937",
+      "fields": {
+        "受注・参加": {
+          "text": "HR13以上",
+          "links": []
+        },
+        "出現条件": {
+          "text": "HR35以上／40%の確率で出現",
+          "links": []
+        }
+      }
+    },
+    {
+      "name": "虚空に消え去りし者",
+      "rank": "4",
+      "url": "https://game8.jp/mh-xx/823938",
+      "fields": {
+        "受注・参加": {
+          "text": "HR13以上",
+          "links": []
+        },
+        "出現条件": {
+          "text": "HR35以上／40%の確率で出現",
+          "links": []
+        }
+      }
+    },
+    {
+      "name": "砂漠に散る爆炎の塵",
+      "rank": "4",
+      "url": "https://game8.jp/mh-xx/823939",
+      "fields": {
+        "受注・参加": {
+          "text": "HR13以上",
+          "links": []
+        },
+        "出現条件": {
+          "text": "HR35以上／40%の確率で出現",
+          "links": []
+        }
+      }
+    },
+    {
+      "name": "財宝は爆炎の中に",
+      "rank": "4",
+      "url": "https://game8.jp/mh-xx/823940",
+      "fields": {
+        "受注・参加": {
+          "text": "HR13以上",
+          "links": []
+        },
+        "出現条件": {
+          "text": "HR35以上／40%の確率で出現",
+          "links": []
+        }
+      }
+    },
+    {
+      "name": "骸まとう龍",
+      "rank": "4",
+      "url": "https://game8.jp/mh-xx/823941",
+      "fields": {
+        "受注・参加": {
+          "text": "HR13以上",
+          "links": []
+        },
+        "出現条件": {
+          "text": "HR50以上",
+          "links": []
+        }
+      }
+    },
+    {
+      "name": "起源にして、頂点",
+      "rank": "4",
+      "url": "https://game8.jp/mh-xx/823942",
+      "fields": {
+        "受注・参加": {
+          "text": "HR13以上",
+          "links": []
+        },
+        "出現条件": {
+          "text": "HR60以上",
+          "links": []
+        }
+      }
+    },
+    {
+      "name": "極天より来たる、崩せし神",
+      "rank": "4",
+      "url": "https://game8.jp/mh-xx/823943",
+      "fields": {
+        "受注・参加": {
+          "text": "HR13以上",
+          "links": []
+        },
+        "出現条件": {
+          "text": "依頼「ネコートの依頼4」を受注",
+          "links": []
+        }
+      }
+    },
+    {
+      "name": "全てを奪い去る嵐",
+      "rank": "4",
+      "url": "https://game8.jp/mh-xx/823944",
+      "fields": {
+        "受注・参加": {
+          "text": "HR13以上",
+          "links": []
+        },
+        "出現条件": {
+          "text": "HR70以上",
+          "links": []
+        }
+      }
+    },
+    {
+      "name": "海竜の頭部破壊に挑戦！",
+      "rank": "4",
+      "url": "https://game8.jp/mh-xx/823945",
+      "fields": {
+        "受注・参加": {
+          "text": "HR9以上",
+          "links": []
+        },
+        "出現条件": {
+          "text": "影蜘蛛の背中破壊に挑戦！ 、 グランド・ハンター・ゲーム （集★G4緊急クエスト）をクリア後",
+          "links": [
+            {
+              "label": "影蜘蛛の背中破壊に挑戦！",
+              "url": "https://game8.jp/mh-xx/823867"
+            },
+            {
+              "label": "グランド・ハンター・ゲーム",
+              "url": "https://game8.jp/mh-xx/823667"
+            }
+          ]
+        }
+      }
+    },
+    {
+      "name": "雪に紛れしドスギアノス",
+      "rank": "4",
+      "url": "https://game8.jp/mh-xx/823946",
+      "fields": {
+        "受注・参加": {
+          "text": "HR9以上",
+          "links": []
+        },
+        "出現条件": {
+          "text": "海竜の頭部破壊に挑戦！ をクリア",
+          "links": [
+            {
+              "label": "海竜の頭部破壊に挑戦！",
+              "url": "https://game8.jp/mh-xx/823945"
+            }
+          ]
+        }
+      }
+    },
+    {
+      "name": "徹甲虫と夫婦の絆",
+      "rank": "4",
+      "url": "https://game8.jp/mh-xx/823947",
+      "fields": {
+        "受注・参加": {
+          "text": "HR9以上",
+          "links": []
+        },
+        "出現条件": {
+          "text": "海竜の頭部破壊に挑戦！ をクリア",
+          "links": [
+            {
+              "label": "海竜の頭部破壊に挑戦！",
+              "url": "https://game8.jp/mh-xx/823945"
+            }
+          ]
+        }
+      }
+    },
+    {
+      "name": "鎧竜の背中破壊に挑戦！",
+      "rank": "4",
+      "url": "https://game8.jp/mh-xx/823948",
+      "fields": {
+        "受注・参加": {
+          "text": "HR9以上",
+          "links": []
+        },
+        "出現条件": {
+          "text": "海竜の頭部破壊に挑戦！ をクリア",
+          "links": [
+            {
+              "label": "海竜の頭部破壊に挑戦！",
+              "url": "https://game8.jp/mh-xx/823945"
+            }
+          ]
+        }
+      }
+    },
+    {
+      "name": "モンスターニャンターXX",
+      "rank": "4",
+      "url": "https://game8.jp/mh-xx/823949",
+      "fields": {
+        "受注・参加": {
+          "text": "HR13以上",
+          "links": []
+        },
+        "出現条件": {
+          "text": "蠢く墟城 （集★G4緊急クエスト）、 海竜の頭部破壊に挑戦！ をクリア",
+          "links": [
+            {
+              "label": "蠢く墟城",
+              "url": "https://game8.jp/mh-xx/823894"
+            },
+            {
+              "label": "海竜の頭部破壊に挑戦！",
+              "url": "https://game8.jp/mh-xx/823945"
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "rosterComparisons": [
+    {
+      "rank": "G1",
+      "primary": 32,
+      "game8": 32,
+      "primaryOnlyNames": [],
+      "nameComparison": "NFKC・空白・波ダッシュを比較用に正規化。表示名は第一資料の表記を維持。"
+    },
+    {
+      "rank": "G2",
+      "primary": 53,
+      "game8": 53,
+      "primaryOnlyNames": [],
+      "nameComparison": "NFKC・空白・波ダッシュを比較用に正規化。表示名は第一資料の表記を維持。"
+    },
+    {
+      "rank": "G3",
+      "primary": 59,
+      "game8": 59,
+      "primaryOnlyNames": [],
+      "nameComparison": "NFKC・空白・波ダッシュを比較用に正規化。表示名は第一資料の表記を維持。"
+    },
+    {
+      "rank": "G4",
+      "primary": 86,
+      "game8": 82,
+      "primaryOnlyNames": [
+        "神への抵抗",
+        "伝説の黒龍",
+        "終末の時",
+        "祖龍"
+      ],
+      "nameComparison": "NFKC・空白・波ダッシュを比較用に正規化。表示名は第一資料の表記を維持。"
+    }
+  ],
+  "sourceDifferences": [
+    {
+      "topic": "G4の一覧集合",
+      "primaryUrl": "http://wiki.mhxg.org/data/2031.html",
+      "secondaryUrl": "https://game8.jp/mh-xx/824319",
+      "decision": "攻略レシピ86件を採用。Game8にない4件も取得済みの個別ページから収録。"
+    },
+    {
+      "topic": "羽合の衆／烏合の衆",
+      "primaryUrl": "http://wiki.mhxg.org/ida/286187.html",
+      "secondaryUrl": "https://w.atwiki.jp/mhxxnyanter/pages/24.html",
+      "decision": "攻略レシピとGame8は羽合の衆、ニャンターwikiは烏合の衆。第一資料の名称を表示し、別クエストを作らない。"
+    },
+    {
+      "topic": "掲載ランクと受注・参加HR",
+      "primaryUrl": "http://wiki.mhxg.org/data/2987.html",
+      "secondaryUrl": "https://game8.jp/mh-xx/824319",
+      "decision": "自分のG級解放に必要な緊急と参加可能HRを分離。Game8の多くのG2〜4一般クエストはHR9以上と記載。掲載ランクからHRを推定して上書きしない。"
+    },
+    {
+      "topic": "G2依頼欄と備考の条件差",
+      "quests": [
+        "超☆メモ帳～獰猛化盾蟹編～",
+        "調査委託：獰猛な奇猿狐"
+      ],
+      "decision": "備考のOR候補とキーANDを分離。依頼欄に明記された前提依頼・個別クリアも保持する。備考だけを採用して依頼欄の条件を消さない。両方の観測は一覧監査に記録。"
+    },
+    {
+      "topic": "G4依頼欄と備考の条件差",
+      "quests": [
+        "獰猛な海の王者は武器の素",
+        "孤島で遭遇！獰猛な雷狼竜",
+        "獰猛な砕竜は、孤島で何を思う"
+      ],
+      "decision": "備考の明示的な「または」を前段候補の論理として採用。依頼欄の区切りなしの候補併記を追加ANDと推定しない。前提依頼とHR上限解放は独立ANDとして保持。企業Wikiの依頼受注という省略だけで選択肢や過去の依頼を削除しない。"
+    },
+    {
+      "topic": "専門Wiki G4のHR上限開放後表に含まれるニャンター",
+      "primaryUrls": [
+        "http://wiki.mhxg.org/ida/299131.html",
+        "http://wiki.mhxg.org/ida/299132.html",
+        "http://wiki.mhxg.org/ida/299133.html",
+        "http://wiki.mhxg.org/ida/299134.html",
+        "http://wiki.mhxg.org/ida/299135.html"
+      ],
+      "secondaryUrl": "https://mhx-wiki.com/?cmd=read&page=G4&word=HR%E4%B8%8A%E9%99%90",
+      "decision": "表の掲載場所だけで全ニャンターに蠢く墟城を追加しない。第一資料の個別前提を採用し、モンスターニャンターＸＸだけは明記された最終緊急クリアを保持。"
+    },
+    {
+      "topic": "専門Wiki G4の表記差",
+      "secondaryUrl": "https://mhx-wiki.com/?cmd=read&page=G4&word=HR%E4%B8%8A%E9%99%90",
+      "decision": "天を廻りて、異界に堕つ／虚空より現れし者などの表記差は攻略レシピの個別タイトルを採用。多数決は行わない。"
+    }
+  ],
+  "hrCapEvidence": {
+    "url": "https://mhx-wiki.com/?cmd=read&page=G4&word=HR%E4%B8%8A%E9%99%90",
+    "observation": "蠢く墟城をクリアするとHR上限が開放される。",
+    "questId": "g-rank-4-recipe-294013",
+    "decision": "数値HRと別に固定IDで判定。通常の昇格会話は補足。旧条件7件の前後はg-rank-connections.json。"
+  },
+  "specialistUnlockEvidence": [
+    {
+      "url": "https://w.atwiki.jp/mhxxnyanter/pages/20.html",
+      "findings": [
+        "上限50：集★7モンスターニャンター または G★1到達",
+        "上限75：G★2原生林コンガ戦線 または G★4到達",
+        "上限99：G★4モンスターニャンターＸＸ または HR35",
+        "初期雇用30：村★8トサカ または G★2到達",
+        "初期雇用45：村★10怒濤 または G★3到達",
+        "初期雇用60：G★4海竜頭 または HR35",
+        "雇用78：村★7疾走 または G★2到達",
+        "雇用84：村★9岩竜胸 または G★3到達"
+      ]
+    },
+    {
+      "url": "https://mhx-wiki.com/?%E7%A0%94%E7%A9%B6%E5%AE%A4%E3%81%AE%E6%8B%A1%E5%BC%B5",
+      "findings": [
+        "ボックス【匠】：村★8 AND G★1",
+        "ボックス【極】：村★9 AND G★2",
+        "お届け隊12項目：村★9 OR G★2",
+        "お届け隊3項目：G★3",
+        "お届け隊4項目：G★4"
+      ],
+      "extraRequirement": "研究室を開放し、ポイント・素材を使った研究・拡張の操作が必要。クエストクリアだけで取得済みにしない。"
+    }
+  ],
+  "unresolvedUnlocks": [
+    {
+      "questId": "g-rank-1-recipe-286180",
+      "name": "アツアツ砂漠の盾蟹狩猟",
+      "warnings": [
+        "施設の印に対応する具体的な内容・追加条件は未確認です。"
+      ],
+      "primaryUrl": "http://wiki.mhxg.org/ida/286180.html",
+      "specialistUrls": [
+        "https://mhx-wiki.com/?%E9%A3%9F%E6%9D%90%E3%82%AF%E3%82%A8%E3%82%B9%E3%83%88%E4%B8%80%E8%A6%A7",
+        "https://mhx-wiki.com/?%E9%A3%9F%E4%BA%8B",
+        "https://mhx-wiki.com/?%E9%A3%9F%E4%BA%8B%E5%8A%B9%E6%9E%9C%E4%B8%80%E8%A6%A7",
+        "https://w.atwiki.jp/mhxxnyanter/pages/20.html",
+        "https://w.atwiki.jp/mhxxnyanter/pages/24.html",
+        "https://mhx-wiki.com/?%E7%A0%94%E7%A9%B6%E5%AE%A4%E3%81%AE%E6%8B%A1%E5%BC%B5",
+        "https://mhx-wiki.com/?MHXX%E3%81%AE%E7%8B%A9%E6%8A%80%E7%BF%92%E5%BE%97%E3%82%AF%E3%82%A8%E3%82%B9%E3%83%88%E3%81%BE%E3%81%A8%E3%82%81"
+      ],
+      "decision": "確認済みの印で解放の存在は表示するが、他の解放経路から具体名を推測しない。"
+    },
+    {
+      "questId": "g-rank-2-recipe-286190",
+      "name": "泥まみれの商魂！",
+      "warnings": [
+        "追加食材の具体名・条件は未確認です。"
+      ],
+      "primaryUrl": "http://wiki.mhxg.org/ida/286190.html",
+      "specialistUrls": [
+        "https://mhx-wiki.com/?%E9%A3%9F%E6%9D%90%E3%82%AF%E3%82%A8%E3%82%B9%E3%83%88%E4%B8%80%E8%A6%A7",
+        "https://mhx-wiki.com/?%E9%A3%9F%E4%BA%8B",
+        "https://mhx-wiki.com/?%E9%A3%9F%E4%BA%8B%E5%8A%B9%E6%9E%9C%E4%B8%80%E8%A6%A7",
+        "https://w.atwiki.jp/mhxxnyanter/pages/20.html",
+        "https://w.atwiki.jp/mhxxnyanter/pages/24.html",
+        "https://mhx-wiki.com/?%E7%A0%94%E7%A9%B6%E5%AE%A4%E3%81%AE%E6%8B%A1%E5%BC%B5",
+        "https://mhx-wiki.com/?MHXX%E3%81%AE%E7%8B%A9%E6%8A%80%E7%BF%92%E5%BE%97%E3%82%AF%E3%82%A8%E3%82%B9%E3%83%88%E3%81%BE%E3%81%A8%E3%82%81"
+      ],
+      "decision": "確認済みの印で解放の存在は表示するが、他の解放経路から具体名を推測しない。"
+    }
+  ],
+  "unresolvedOrUntrackedConditions": [
+    {
+      "questId": "g-rank-1-recipe-286186",
+      "name": "川辺のアオアシラ退治",
+      "conditions": [
+        {
+          "kind": "external_flag",
+          "label": "漁港の女主人の依頼1：納品 はじけイワシ x5シンドイワシ x2"
+        }
+      ],
+      "sources": [
+        {
+          "site": "MHXX攻略レシピ",
+          "url": "http://wiki.mhxg.org/ida/286186.html",
+          "kind": "detail",
+          "checkedAt": "2026-10-16"
+        },
+        {
+          "site": "MHXX攻略レシピ（ランク一覧）",
+          "url": "http://wiki.mhxg.org/data/2028.html",
+          "kind": "list",
+          "checkedAt": "2026-10-16"
+        },
+        {
+          "site": "MHXX攻略レシピ（前提依頼）",
+          "url": "http://wiki.mhxg.org/ida/243470.html",
+          "kind": "detail",
+          "checkedAt": "2026-10-16"
+        },
+        {
+          "site": "Game8 MHXX（受注HR・補完）",
+          "url": "https://game8.jp/mh-xx/823750",
+          "kind": "detail",
+          "checkedAt": "2026-10-16"
+        },
+        {
+          "site": "MHXX攻略レシピ（集会所キー・緊急一覧）",
+          "url": "http://wiki.mhxg.org/data/2987.html",
+          "kind": "list",
+          "checkedAt": "2026-10-16"
+        }
+      ]
+    },
+    {
+      "questId": "g-rank-2-recipe-288274",
+      "name": "割り込み受注：2頭の桃毛獣",
+      "conditions": [
+        {
+          "kind": "external_flag",
+          "label": "ココット村の受付嬢の依頼2：納品 鬼蛙の厚鱗 x5盾蟹の重殻 x5影蜘蛛の剛爪 x2"
+        }
+      ],
+      "sources": [
+        {
+          "site": "MHXX攻略レシピ",
+          "url": "http://wiki.mhxg.org/ida/288274.html",
+          "kind": "detail",
+          "checkedAt": "2026-10-16"
+        },
+        {
+          "site": "MHXX攻略レシピ（ランク一覧）",
+          "url": "http://wiki.mhxg.org/data/2029.html",
+          "kind": "list",
+          "checkedAt": "2026-10-16"
+        },
+        {
+          "site": "MHXX攻略レシピ（前提依頼）",
+          "url": "http://wiki.mhxg.org/ida/306645.html",
+          "kind": "detail",
+          "checkedAt": "2026-10-16"
+        },
+        {
+          "site": "Game8 MHXX（受注HR・補完）",
+          "url": "https://game8.jp/mh-xx/823793",
+          "kind": "detail",
+          "checkedAt": "2026-10-16"
+        },
+        {
+          "site": "MHXX攻略レシピ（集会所キー・緊急一覧）",
+          "url": "http://wiki.mhxg.org/data/2987.html",
+          "kind": "list",
+          "checkedAt": "2026-10-16"
+        }
+      ]
+    },
+    {
+      "questId": "g-rank-3-recipe-299051",
+      "name": "狩人のための舞台～遺群嶺～",
+      "conditions": [
+        {
+          "kind": "external_flag",
+          "label": "ランダム出現（現在の出現状態は保存記録から判定できません）"
+        }
+      ],
+      "sources": [
+        {
+          "site": "MHXX攻略レシピ",
+          "url": "http://wiki.mhxg.org/ida/299051.html",
+          "kind": "detail",
+          "checkedAt": "2026-10-16"
+        },
+        {
+          "site": "MHXX攻略レシピ（ランク一覧）",
+          "url": "http://wiki.mhxg.org/data/2030.html",
+          "kind": "list",
+          "checkedAt": "2026-10-16"
+        },
+        {
+          "site": "Game8 MHXX（受注HR・補完）",
+          "url": "https://game8.jp/mh-xx/823861",
+          "kind": "detail",
+          "checkedAt": "2026-10-16"
+        },
+        {
+          "site": "MHXX攻略レシピ（集会所キー・緊急一覧）",
+          "url": "http://wiki.mhxg.org/data/2987.html",
+          "kind": "list",
+          "checkedAt": "2026-10-16"
+        }
+      ]
+    },
+    {
+      "questId": "g-rank-3-recipe-299052",
+      "name": "夢か現か幻か",
+      "conditions": [
+        {
+          "kind": "external_flag",
+          "label": "ランダム出現（現在の出現状態は保存記録から判定できません）"
+        }
+      ],
+      "sources": [
+        {
+          "site": "MHXX攻略レシピ",
+          "url": "http://wiki.mhxg.org/ida/299052.html",
+          "kind": "detail",
+          "checkedAt": "2026-10-16"
+        },
+        {
+          "site": "MHXX攻略レシピ（ランク一覧）",
+          "url": "http://wiki.mhxg.org/data/2030.html",
+          "kind": "list",
+          "checkedAt": "2026-10-16"
+        },
+        {
+          "site": "Game8 MHXX（受注HR・補完）",
+          "url": "https://game8.jp/mh-xx/823862",
+          "kind": "detail",
+          "checkedAt": "2026-10-16"
+        },
+        {
+          "site": "MHXX攻略レシピ（集会所キー・緊急一覧）",
+          "url": "http://wiki.mhxg.org/data/2987.html",
+          "kind": "list",
+          "checkedAt": "2026-10-16"
+        }
+      ]
+    },
+    {
+      "questId": "g-rank-3-recipe-299053",
+      "name": "幻獣、キリン現る！",
+      "conditions": [
+        {
+          "kind": "external_flag",
+          "label": "ランダム出現（現在の出現状態は保存記録から判定できません）"
+        }
+      ],
+      "sources": [
+        {
+          "site": "MHXX攻略レシピ",
+          "url": "http://wiki.mhxg.org/ida/299053.html",
+          "kind": "detail",
+          "checkedAt": "2026-10-16"
+        },
+        {
+          "site": "MHXX攻略レシピ（ランク一覧）",
+          "url": "http://wiki.mhxg.org/data/2030.html",
+          "kind": "list",
+          "checkedAt": "2026-10-16"
+        },
+        {
+          "site": "Game8 MHXX（受注HR・補完）",
+          "url": "https://game8.jp/mh-xx/823863",
+          "kind": "detail",
+          "checkedAt": "2026-10-16"
+        },
+        {
+          "site": "MHXX攻略レシピ（集会所キー・緊急一覧）",
+          "url": "http://wiki.mhxg.org/data/2987.html",
+          "kind": "list",
+          "checkedAt": "2026-10-16"
+        }
+      ]
+    },
+    {
+      "questId": "g-rank-4-recipe-299058",
+      "name": "天彗龍流狩人道場",
+      "conditions": [
+        {
+          "kind": "external_flag",
+          "label": "ランダム出現（現在の出現状態は保存記録から判定できません）"
+        }
+      ],
+      "sources": [
+        {
+          "site": "MHXX攻略レシピ",
+          "url": "http://wiki.mhxg.org/ida/299058.html",
+          "kind": "detail",
+          "checkedAt": "2026-10-16"
+        },
+        {
+          "site": "MHXX攻略レシピ（ランク一覧）",
+          "url": "http://wiki.mhxg.org/data/2031.html",
+          "kind": "list",
+          "checkedAt": "2026-10-16"
+        },
+        {
+          "site": "Game8 MHXX（受注HR・補完）",
+          "url": "https://game8.jp/mh-xx/823869",
+          "kind": "detail",
+          "checkedAt": "2026-10-16"
+        },
+        {
+          "site": "MHXX攻略レシピ（集会所キー・緊急一覧）",
+          "url": "http://wiki.mhxg.org/data/2987.html",
+          "kind": "list",
+          "checkedAt": "2026-10-16"
+        }
+      ]
+    },
+    {
+      "questId": "g-rank-4-recipe-299059",
+      "name": "スーパーソニック",
+      "conditions": [
+        {
+          "kind": "external_flag",
+          "label": "ランダム出現（現在の出現状態は保存記録から判定できません）"
+        }
+      ],
+      "sources": [
+        {
+          "site": "MHXX攻略レシピ",
+          "url": "http://wiki.mhxg.org/ida/299059.html",
+          "kind": "detail",
+          "checkedAt": "2026-10-16"
+        },
+        {
+          "site": "MHXX攻略レシピ（ランク一覧）",
+          "url": "http://wiki.mhxg.org/data/2031.html",
+          "kind": "list",
+          "checkedAt": "2026-10-16"
+        },
+        {
+          "site": "Game8 MHXX（受注HR・補完）",
+          "url": "https://game8.jp/mh-xx/823870",
+          "kind": "detail",
+          "checkedAt": "2026-10-16"
+        },
+        {
+          "site": "MHXX攻略レシピ（集会所キー・緊急一覧）",
+          "url": "http://wiki.mhxg.org/data/2987.html",
+          "kind": "list",
+          "checkedAt": "2026-10-16"
+        }
+      ]
+    },
+    {
+      "questId": "g-rank-4-recipe-299060",
+      "name": "天彗龍に目が眩む",
+      "conditions": [
+        {
+          "kind": "external_flag",
+          "label": "ランダム出現（現在の出現状態は保存記録から判定できません）"
+        }
+      ],
+      "sources": [
+        {
+          "site": "MHXX攻略レシピ",
+          "url": "http://wiki.mhxg.org/ida/299060.html",
+          "kind": "detail",
+          "checkedAt": "2026-10-16"
+        },
+        {
+          "site": "MHXX攻略レシピ（ランク一覧）",
+          "url": "http://wiki.mhxg.org/data/2031.html",
+          "kind": "list",
+          "checkedAt": "2026-10-16"
+        },
+        {
+          "site": "Game8 MHXX（受注HR・補完）",
+          "url": "https://game8.jp/mh-xx/823871",
+          "kind": "detail",
+          "checkedAt": "2026-10-16"
+        },
+        {
+          "site": "MHXX攻略レシピ（集会所キー・緊急一覧）",
+          "url": "http://wiki.mhxg.org/data/2987.html",
+          "kind": "list",
+          "checkedAt": "2026-10-16"
+        }
+      ]
+    },
+    {
+      "questId": "g-rank-4-recipe-299100",
+      "name": "戦慄の遺群嶺",
+      "conditions": [
+        {
+          "kind": "unknown",
+          "note": "G★4の獰猛化クエスト6つ以上クリア（対象集合を完全に特定できていません）"
+        }
+      ],
+      "sources": [
+        {
+          "site": "MHXX攻略レシピ",
+          "url": "http://wiki.mhxg.org/ida/299100.html",
+          "kind": "detail",
+          "checkedAt": "2026-10-16"
+        },
+        {
+          "site": "MHXX攻略レシピ（ランク一覧）",
+          "url": "http://wiki.mhxg.org/data/2031.html",
+          "kind": "list",
+          "checkedAt": "2026-10-16"
+        },
+        {
+          "site": "Game8 MHXX（受注HR・補完）",
+          "url": "https://game8.jp/mh-xx/823918",
+          "kind": "detail",
+          "checkedAt": "2026-10-16"
+        },
+        {
+          "site": "MHXX攻略レシピ（集会所キー・緊急一覧）",
+          "url": "http://wiki.mhxg.org/data/2987.html",
+          "kind": "list",
+          "checkedAt": "2026-10-16"
+        },
+        {
+          "site": "MHXX攻略Wiki（G4・HR上限解放後）",
+          "url": "https://mhx-wiki.com/?cmd=read&page=G4&word=HR%E4%B8%8A%E9%99%90",
+          "kind": "list",
+          "checkedAt": "2026-10-16"
+        },
+        {
+          "site": "MHXX攻略Wiki（狩技）",
+          "url": "https://mhx-wiki.com/?MHXX%E3%81%AE%E7%8B%A9%E6%8A%80%E7%BF%92%E5%BE%97%E3%82%AF%E3%82%A8%E3%82%B9%E3%83%88%E3%81%BE%E3%81%A8%E3%82%81",
+          "kind": "list",
+          "checkedAt": "2026-10-16"
+        }
+      ]
+    },
+    {
+      "questId": "g-rank-4-recipe-299101",
+      "name": "狩魂よ砂中に眠れ",
+      "conditions": [
+        {
+          "kind": "unknown",
+          "note": "G★4の獰猛化クエスト6つ以上クリア（対象集合を完全に特定できていません）"
+        }
+      ],
+      "sources": [
+        {
+          "site": "MHXX攻略レシピ",
+          "url": "http://wiki.mhxg.org/ida/299101.html",
+          "kind": "detail",
+          "checkedAt": "2026-10-16"
+        },
+        {
+          "site": "MHXX攻略レシピ（ランク一覧）",
+          "url": "http://wiki.mhxg.org/data/2031.html",
+          "kind": "list",
+          "checkedAt": "2026-10-16"
+        },
+        {
+          "site": "Game8 MHXX（受注HR・補完）",
+          "url": "https://game8.jp/mh-xx/823919",
+          "kind": "detail",
+          "checkedAt": "2026-10-16"
+        },
+        {
+          "site": "MHXX攻略レシピ（集会所キー・緊急一覧）",
+          "url": "http://wiki.mhxg.org/data/2987.html",
+          "kind": "list",
+          "checkedAt": "2026-10-16"
+        },
+        {
+          "site": "MHXX攻略Wiki（G4・HR上限解放後）",
+          "url": "https://mhx-wiki.com/?cmd=read&page=G4&word=HR%E4%B8%8A%E9%99%90",
+          "kind": "list",
+          "checkedAt": "2026-10-16"
+        },
+        {
+          "site": "MHXX攻略Wiki（狩技）",
+          "url": "https://mhx-wiki.com/?MHXX%E3%81%AE%E7%8B%A9%E6%8A%80%E7%BF%92%E5%BE%97%E3%82%AF%E3%82%A8%E3%82%B9%E3%83%88%E3%81%BE%E3%81%A8%E3%82%81",
+          "kind": "list",
+          "checkedAt": "2026-10-16"
+        }
+      ]
+    },
+    {
+      "questId": "g-rank-4-recipe-299102",
+      "name": "風薫る密林",
+      "conditions": [
+        {
+          "kind": "unknown",
+          "note": "G★4の獰猛化クエスト6つ以上クリア（対象集合を完全に特定できていません）"
+        }
+      ],
+      "sources": [
+        {
+          "site": "MHXX攻略レシピ",
+          "url": "http://wiki.mhxg.org/ida/299102.html",
+          "kind": "detail",
+          "checkedAt": "2026-10-16"
+        },
+        {
+          "site": "MHXX攻略レシピ（ランク一覧）",
+          "url": "http://wiki.mhxg.org/data/2031.html",
+          "kind": "list",
+          "checkedAt": "2026-10-16"
+        },
+        {
+          "site": "Game8 MHXX（受注HR・補完）",
+          "url": "https://game8.jp/mh-xx/823920",
+          "kind": "detail",
+          "checkedAt": "2026-10-16"
+        },
+        {
+          "site": "MHXX攻略レシピ（集会所キー・緊急一覧）",
+          "url": "http://wiki.mhxg.org/data/2987.html",
+          "kind": "list",
+          "checkedAt": "2026-10-16"
+        },
+        {
+          "site": "MHXX攻略Wiki（G4・HR上限解放後）",
+          "url": "https://mhx-wiki.com/?cmd=read&page=G4&word=HR%E4%B8%8A%E9%99%90",
+          "kind": "list",
+          "checkedAt": "2026-10-16"
+        },
+        {
+          "site": "MHXX攻略Wiki（狩技）",
+          "url": "https://mhx-wiki.com/?MHXX%E3%81%AE%E7%8B%A9%E6%8A%80%E7%BF%92%E5%BE%97%E3%82%AF%E3%82%A8%E3%82%B9%E3%83%88%E3%81%BE%E3%81%A8%E3%82%81",
+          "kind": "list",
+          "checkedAt": "2026-10-16"
+        }
+      ]
+    },
+    {
+      "questId": "g-rank-4-recipe-299103",
+      "name": "絆の証？雪山の獰猛大決戦",
+      "conditions": [
+        {
+          "kind": "unknown",
+          "note": "G★4の獰猛化クエスト6つ以上クリア（対象集合を完全に特定できていません）"
+        }
+      ],
+      "sources": [
+        {
+          "site": "MHXX攻略レシピ",
+          "url": "http://wiki.mhxg.org/ida/299103.html",
+          "kind": "detail",
+          "checkedAt": "2026-10-16"
+        },
+        {
+          "site": "MHXX攻略レシピ（ランク一覧）",
+          "url": "http://wiki.mhxg.org/data/2031.html",
+          "kind": "list",
+          "checkedAt": "2026-10-16"
+        },
+        {
+          "site": "Game8 MHXX（受注HR・補完）",
+          "url": "https://game8.jp/mh-xx/823921",
+          "kind": "detail",
+          "checkedAt": "2026-10-16"
+        },
+        {
+          "site": "MHXX攻略レシピ（集会所キー・緊急一覧）",
+          "url": "http://wiki.mhxg.org/data/2987.html",
+          "kind": "list",
+          "checkedAt": "2026-10-16"
+        },
+        {
+          "site": "MHXX攻略Wiki（G4・HR上限解放後）",
+          "url": "https://mhx-wiki.com/?cmd=read&page=G4&word=HR%E4%B8%8A%E9%99%90",
+          "kind": "list",
+          "checkedAt": "2026-10-16"
+        }
+      ]
+    },
+    {
+      "questId": "g-rank-4-recipe-299104",
+      "name": "絆の証！闘技場の大決戦",
+      "conditions": [
+        {
+          "kind": "unknown",
+          "note": "G★4の獰猛化クエスト6つ以上クリア（対象集合を完全に特定できていません）"
+        }
+      ],
+      "sources": [
+        {
+          "site": "MHXX攻略レシピ",
+          "url": "http://wiki.mhxg.org/ida/299104.html",
+          "kind": "detail",
+          "checkedAt": "2026-10-16"
+        },
+        {
+          "site": "MHXX攻略レシピ（ランク一覧）",
+          "url": "http://wiki.mhxg.org/data/2031.html",
+          "kind": "list",
+          "checkedAt": "2026-10-16"
+        },
+        {
+          "site": "Game8 MHXX（受注HR・補完）",
+          "url": "https://game8.jp/mh-xx/823922",
+          "kind": "detail",
+          "checkedAt": "2026-10-16"
+        },
+        {
+          "site": "MHXX攻略レシピ（集会所キー・緊急一覧）",
+          "url": "http://wiki.mhxg.org/data/2987.html",
+          "kind": "list",
+          "checkedAt": "2026-10-16"
+        },
+        {
+          "site": "MHXX攻略Wiki（G4・HR上限解放後）",
+          "url": "https://mhx-wiki.com/?cmd=read&page=G4&word=HR%E4%B8%8A%E9%99%90",
+          "kind": "list",
+          "checkedAt": "2026-10-16"
+        }
+      ]
+    },
+    {
+      "questId": "g-rank-4-recipe-299117",
+      "name": "禍は鋼鉄よりも硬し",
+      "conditions": [
+        {
+          "kind": "external_flag",
+          "label": "ランダム出現（現在の出現状態は保存記録から判定できません）"
+        }
+      ],
+      "sources": [
+        {
+          "site": "MHXX攻略レシピ",
+          "url": "http://wiki.mhxg.org/ida/299117.html",
+          "kind": "detail",
+          "checkedAt": "2026-10-16"
+        },
+        {
+          "site": "MHXX攻略レシピ（ランク一覧）",
+          "url": "http://wiki.mhxg.org/data/2031.html",
+          "kind": "list",
+          "checkedAt": "2026-10-16"
+        },
+        {
+          "site": "Game8 MHXX（受注HR・補完）",
+          "url": "https://game8.jp/mh-xx/823935",
+          "kind": "detail",
+          "checkedAt": "2026-10-16"
+        },
+        {
+          "site": "MHXX攻略レシピ（集会所キー・緊急一覧）",
+          "url": "http://wiki.mhxg.org/data/2987.html",
+          "kind": "list",
+          "checkedAt": "2026-10-16"
+        },
+        {
+          "site": "MHXX攻略Wiki（G4・HR上限解放後）",
+          "url": "https://mhx-wiki.com/?cmd=read&page=G4&word=HR%E4%B8%8A%E9%99%90",
+          "kind": "list",
+          "checkedAt": "2026-10-16"
+        }
+      ]
+    },
+    {
+      "questId": "g-rank-4-recipe-299118",
+      "name": "吹雪を呼ぶ者",
+      "conditions": [
+        {
+          "kind": "external_flag",
+          "label": "ランダム出現（現在の出現状態は保存記録から判定できません）"
+        }
+      ],
+      "sources": [
+        {
+          "site": "MHXX攻略レシピ",
+          "url": "http://wiki.mhxg.org/ida/299118.html",
+          "kind": "detail",
+          "checkedAt": "2026-10-16"
+        },
+        {
+          "site": "MHXX攻略レシピ（ランク一覧）",
+          "url": "http://wiki.mhxg.org/data/2031.html",
+          "kind": "list",
+          "checkedAt": "2026-10-16"
+        },
+        {
+          "site": "Game8 MHXX（受注HR・補完）",
+          "url": "https://game8.jp/mh-xx/823936",
+          "kind": "detail",
+          "checkedAt": "2026-10-16"
+        },
+        {
+          "site": "MHXX攻略レシピ（集会所キー・緊急一覧）",
+          "url": "http://wiki.mhxg.org/data/2987.html",
+          "kind": "list",
+          "checkedAt": "2026-10-16"
+        },
+        {
+          "site": "MHXX攻略Wiki（G4・HR上限解放後）",
+          "url": "https://mhx-wiki.com/?cmd=read&page=G4&word=HR%E4%B8%8A%E9%99%90",
+          "kind": "list",
+          "checkedAt": "2026-10-16"
+        }
+      ]
+    },
+    {
+      "questId": "g-rank-4-recipe-299119",
+      "name": "虚空より現われし者",
+      "conditions": [
+        {
+          "kind": "external_flag",
+          "label": "ランダム出現（現在の出現状態は保存記録から判定できません）"
+        }
+      ],
+      "sources": [
+        {
+          "site": "MHXX攻略レシピ",
+          "url": "http://wiki.mhxg.org/ida/299119.html",
+          "kind": "detail",
+          "checkedAt": "2026-10-16"
+        },
+        {
+          "site": "MHXX攻略レシピ（ランク一覧）",
+          "url": "http://wiki.mhxg.org/data/2031.html",
+          "kind": "list",
+          "checkedAt": "2026-10-16"
+        },
+        {
+          "site": "Game8 MHXX（受注HR・補完）",
+          "url": "https://game8.jp/mh-xx/823937",
+          "kind": "detail",
+          "checkedAt": "2026-10-16"
+        },
+        {
+          "site": "MHXX攻略レシピ（集会所キー・緊急一覧）",
+          "url": "http://wiki.mhxg.org/data/2987.html",
+          "kind": "list",
+          "checkedAt": "2026-10-16"
+        },
+        {
+          "site": "MHXX攻略Wiki（G4・HR上限解放後）",
+          "url": "https://mhx-wiki.com/?cmd=read&page=G4&word=HR%E4%B8%8A%E9%99%90",
+          "kind": "list",
+          "checkedAt": "2026-10-16"
+        }
+      ]
+    },
+    {
+      "questId": "g-rank-4-recipe-299120",
+      "name": "虚空に消え去りし者",
+      "conditions": [
+        {
+          "kind": "external_flag",
+          "label": "ランダム出現（現在の出現状態は保存記録から判定できません）"
+        }
+      ],
+      "sources": [
+        {
+          "site": "MHXX攻略レシピ",
+          "url": "http://wiki.mhxg.org/ida/299120.html",
+          "kind": "detail",
+          "checkedAt": "2026-10-16"
+        },
+        {
+          "site": "MHXX攻略レシピ（ランク一覧）",
+          "url": "http://wiki.mhxg.org/data/2031.html",
+          "kind": "list",
+          "checkedAt": "2026-10-16"
+        },
+        {
+          "site": "Game8 MHXX（受注HR・補完）",
+          "url": "https://game8.jp/mh-xx/823938",
+          "kind": "detail",
+          "checkedAt": "2026-10-16"
+        },
+        {
+          "site": "MHXX攻略レシピ（集会所キー・緊急一覧）",
+          "url": "http://wiki.mhxg.org/data/2987.html",
+          "kind": "list",
+          "checkedAt": "2026-10-16"
+        },
+        {
+          "site": "MHXX攻略Wiki（G4・HR上限解放後）",
+          "url": "https://mhx-wiki.com/?cmd=read&page=G4&word=HR%E4%B8%8A%E9%99%90",
+          "kind": "list",
+          "checkedAt": "2026-10-16"
+        }
+      ]
+    },
+    {
+      "questId": "g-rank-4-recipe-299121",
+      "name": "砂漠に散る爆炎の塵",
+      "conditions": [
+        {
+          "kind": "external_flag",
+          "label": "ランダム出現（現在の出現状態は保存記録から判定できません）"
+        }
+      ],
+      "sources": [
+        {
+          "site": "MHXX攻略レシピ",
+          "url": "http://wiki.mhxg.org/ida/299121.html",
+          "kind": "detail",
+          "checkedAt": "2026-10-16"
+        },
+        {
+          "site": "MHXX攻略レシピ（ランク一覧）",
+          "url": "http://wiki.mhxg.org/data/2031.html",
+          "kind": "list",
+          "checkedAt": "2026-10-16"
+        },
+        {
+          "site": "Game8 MHXX（受注HR・補完）",
+          "url": "https://game8.jp/mh-xx/823939",
+          "kind": "detail",
+          "checkedAt": "2026-10-16"
+        },
+        {
+          "site": "MHXX攻略レシピ（集会所キー・緊急一覧）",
+          "url": "http://wiki.mhxg.org/data/2987.html",
+          "kind": "list",
+          "checkedAt": "2026-10-16"
+        },
+        {
+          "site": "MHXX攻略Wiki（G4・HR上限解放後）",
+          "url": "https://mhx-wiki.com/?cmd=read&page=G4&word=HR%E4%B8%8A%E9%99%90",
+          "kind": "list",
+          "checkedAt": "2026-10-16"
+        }
+      ]
+    },
+    {
+      "questId": "g-rank-4-recipe-299122",
+      "name": "財宝は爆炎の中に",
+      "conditions": [
+        {
+          "kind": "external_flag",
+          "label": "ランダム出現（現在の出現状態は保存記録から判定できません）"
+        }
+      ],
+      "sources": [
+        {
+          "site": "MHXX攻略レシピ",
+          "url": "http://wiki.mhxg.org/ida/299122.html",
+          "kind": "detail",
+          "checkedAt": "2026-10-16"
+        },
+        {
+          "site": "MHXX攻略レシピ（ランク一覧）",
+          "url": "http://wiki.mhxg.org/data/2031.html",
+          "kind": "list",
+          "checkedAt": "2026-10-16"
+        },
+        {
+          "site": "Game8 MHXX（受注HR・補完）",
+          "url": "https://game8.jp/mh-xx/823940",
+          "kind": "detail",
+          "checkedAt": "2026-10-16"
+        },
+        {
+          "site": "MHXX攻略レシピ（集会所キー・緊急一覧）",
+          "url": "http://wiki.mhxg.org/data/2987.html",
+          "kind": "list",
+          "checkedAt": "2026-10-16"
+        },
+        {
+          "site": "MHXX攻略Wiki（G4・HR上限解放後）",
+          "url": "https://mhx-wiki.com/?cmd=read&page=G4&word=HR%E4%B8%8A%E9%99%90",
+          "kind": "list",
+          "checkedAt": "2026-10-16"
+        }
+      ]
+    }
+  ]
+}

@@ -249,8 +249,8 @@
           "questId": "hub-7-recipe-244704"
         },
         {
-          "kind": "external_flag",
-          "label": "未収録の前提：G★2泥まみれの商魂！"
+          "kind": "quest_cleared",
+          "questId": "g-rank-2-recipe-286190"
         }
       ]
     },

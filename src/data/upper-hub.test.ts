@@ -1,3 +1,4 @@
+import gConnections from "../../docs/g-rank-connections.json";
 import upperConnections from "../../docs/upper-hub-connections.json";
 import { describe, expect, it } from "vitest";
 import villageAudit from "../../docs/data-audit.json";
@@ -243,7 +244,11 @@ it("only changes audited legacy prerequisites and preserves their residual gates
   for (const b of baseline) {
     const q = quests.find((q) => q.id === b.id)!;
     const c = upperConnections.changes.find((c) => c.questId === b.id);
-    if (c) {
+    const g = gConnections.changes.find(x => x.questId === b.id);
+    if (g) {
+      expect(q.condition).toEqual(g.after);
+      if(c) expect(g.before).toEqual(c.after);
+    } else if (c) {
       expect(q.condition).toEqual(c.after);
       const inherited = (c.resolvedInheritedPrerequisites ??
         []) as import("../lib/types").Rule[];
@@ -365,10 +370,9 @@ it("known completion resolves an inherited request without claiming its unknown 
   ).toBe("unmet");
 });
 
-it("retains G2, material delivery, total hunt counts, random spawns and HR-cap state", () => {
+it("retains material delivery, total hunt counts, random spawns and remaining HR-cap gates", () => {
   const all = quests.map((q) => q.id);
   for (const name of [
-    "轟竜の狩猟をさせてやるぜ！",
     "高難度：喧嘩の仲裁は村を救う",
     "高難度：炎王の帰還",
   ]) {

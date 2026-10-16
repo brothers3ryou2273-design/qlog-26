@@ -25,9 +25,11 @@ test("production shows partial coverage and noindex", async ({ page }) => {
   ).toBeVisible();
   await expect(page.locator(".quest-card")).toHaveCount(45);
   await expect(
-    page.getByText("データ整備中 · 実クエスト709件収録"),
+    page.getByText("データ整備中 · 実クエスト939件収録"),
   ).toBeVisible();
   await page.getByRole("button", { name: "G級", exact: true }).click();
+  await expect(page.locator(".quest-card")).toHaveCount(32);
+  await page.getByRole("button", { name: "イベント", exact: true }).click();
   await expect(
     page.getByRole("heading", { name: "このランクは、これから収録します" }),
   ).toBeVisible();
@@ -1336,15 +1338,13 @@ test("old 474-check JSON restores HR and unknown IDs while new upper checks pers
     }[]
   ).map((q) => q.id);
   await page.goto("./");
-  await page
-    .getByLabel("バックアップファイル")
-    .setInputFiles(
-      backup({
-        schemaVersion: 1,
-        completedQuestIds: [...ids, "future-g-id"],
-        hr: 8,
-      }),
-    );
+  await page.getByLabel("バックアップファイル").setInputFiles(
+    backup({
+      schemaVersion: 1,
+      completedQuestIds: [...ids, "future-g-id"],
+      hr: 8,
+    }),
+  );
   await expect(
     page.getByText("未収録のID：1件（削除せず保持します）"),
   ).toBeVisible();
@@ -1448,9 +1448,12 @@ test("upper progress distinguishes G-transition HR, random spawns, deliveries an
     .selectOption("9");
   await page.getByRole("searchbox").fill("轟竜の狩猟をさせてやるぜ");
   await page.getByRole("button", { name: /轟竜の狩猟をさせてやるぜ/ }).click();
-  await expect(page.locator(".state")).toHaveText("要確認");
+  await expect(page.locator(".state")).toHaveText("未達成");
   await expect(
-    page.getByText("未収録の前提：G★2泥まみれの商魂！", { exact: true }),
+    page.getByRole("button", {
+      name: "G級 G★2 / 泥まみれの商魂！",
+      exact: true,
+    }),
   ).toBeVisible();
   await page
     .getByRole("button", {
@@ -1464,6 +1467,229 @@ test("upper progress distinguishes G-transition HR, random spawns, deliveries an
       exact: true,
     }),
   ).toBeVisible();
+  expect(
+    await page.evaluate(
+      () => document.documentElement.scrollWidth <= innerWidth,
+    ),
+  ).toBe(true);
+});
+
+test("unlock badges show once, distinguish reference-only data, and survive checks/reload", async ({
+  page,
+}) => {
+  await page.goto("./");
+  await page.getByRole("button", { name: "集会所", exact: true }).click();
+  await page
+    .getByRole("combobox", { name: "ランク", exact: true })
+    .selectOption("4");
+  for (const name of [
+    "ライバルの激突！！",
+    "大地を泳ぐモンスター",
+    "超☆メモ帳～跳狗竜狩猟編～",
+  ]) {
+    const card = page
+      .locator(".quest-card")
+      .filter({ has: page.locator(".quest-name", { hasText: name }) });
+    await expect(card.locator(".tag-unlock")).toHaveCount(1);
+  }
+  await page.getByRole("searchbox").fill("ライバルの激突");
+  const card = page.locator(".quest-card");
+  await card.getByRole("checkbox").check();
+  await expect(card.locator(".tag-unlock")).toHaveText("解放あり");
+  await card.locator(".quest-title").click();
+  await expect(card.locator(".quest-details")).toBeVisible();
+  await expect(card.locator(".quest-details")).toContainText("製法");
+  const bounds = await card.boundingBox();
+  expect(bounds!.x + bounds!.width).toBeLessThanOrEqual(
+    page.viewportSize()!.width,
+  );
+  await page.reload();
+  await page.getByRole("button", { name: "集会所", exact: true }).click();
+  await page
+    .getByRole("combobox", { name: "ランク", exact: true })
+    .selectOption("4");
+  await page.getByRole("searchbox").fill("ライバルの激突");
+  await expect(page.locator(".quest-card").getByRole("checkbox")).toBeChecked();
+  await expect(page.locator(".tag-unlock")).toHaveCount(1);
+  await page.getByRole("searchbox").fill("");
+  await page
+    .getByRole("combobox", { name: "ランク", exact: true })
+    .selectOption("7");
+  const hrOnly = page
+    .locator(".quest-card")
+    .filter({ has: page.getByText("奈落の妖星", { exact: true }) });
+  await expect(hrOnly.locator(".tag-unlock")).toHaveCount(0);
+  await page.getByRole("button", { name: "村", exact: true }).click();
+  await page
+    .getByRole("combobox", { name: "ランク", exact: true })
+    .selectOption("2");
+  const marker = page
+    .locator(".quest-card")
+    .filter({ has: page.getByText("青熊獣アオアシラ", { exact: true }) });
+  await expect(marker.locator(".tag-unlock")).toHaveCount(1);
+  expect(
+    await page.evaluate(
+      () => document.documentElement.scrollWidth <= window.innerWidth,
+    ),
+  ).toBe(true);
+});
+
+test("all G-rank rosters, flags and coverage remain operable at phone width", async ({
+  page,
+}) => {
+  await page.goto("./");
+  await page.getByRole("button", { name: "G級", exact: true }).click();
+  for (const [rank, count, prowlers, keys, urgents, requests] of [
+    ["G1", 32, 3, 5, 0, 6],
+    ["G2", 53, 3, 6, 1, 17],
+    ["G3", 59, 4, 6, 1, 8],
+    ["G4", 86, 5, 6, 2, 11],
+  ] as const) {
+    await page
+      .getByRole("combobox", { name: "ランク", exact: true })
+      .selectOption(rank);
+    await expect(page.locator(".quest-card")).toHaveCount(count);
+    await page
+      .getByRole("combobox", { name: "プレイ種別", exact: true })
+      .selectOption("prowler");
+    await expect(page.locator(".quest-card")).toHaveCount(prowlers);
+    await page
+      .getByRole("combobox", { name: "プレイ種別", exact: true })
+      .selectOption("");
+    for (const [type, n] of [
+      ["key", keys],
+      ["urgent", urgents],
+      ["request", requests],
+    ] as const) {
+      await page
+        .getByRole("combobox", { name: "種別", exact: true })
+        .selectOption(type);
+      await expect(page.locator(".quest-card")).toHaveCount(n);
+    }
+    await page
+      .getByRole("combobox", { name: "種別", exact: true })
+      .selectOption("");
+  }
+  await page.getByText("収録状況と出典について", { exact: true }).click();
+  const table = page
+    .getByRole("table")
+    .filter({ has: page.getByText("G★1〜4の収録状況", { exact: true }) });
+  for (const n of [32, 53, 59, 86])
+    await expect(table).toContainText(String(n));
+  expect(
+    await page.evaluate(
+      () => document.documentElement.scrollWidth <= innerWidth,
+    ),
+  ).toBe(true);
+});
+
+test("old 709 checks restore unchanged while new G checks, HR, unknown IDs and badges persist", async ({
+  page,
+}) => {
+  const ids = (
+    JSON.parse(await readFile("docs/progress-baseline-709.json", "utf8")) as {
+      id: string;
+    }[]
+  ).map((q) => q.id);
+  await page.goto("./");
+  await page.getByLabel("バックアップファイル").setInputFiles(
+    backup({
+      schemaVersion: 1,
+      completedQuestIds: [...ids, "future-stage-id"],
+      hr: 80,
+    }),
+  );
+  await page
+    .getByRole("checkbox", { name: "現在の進捗をファイルで置き換える" })
+    .check();
+  await page.getByRole("button", { name: "置き換えて復元" }).click();
+  await expect(page.getByLabel("現在のHR")).toHaveValue("80");
+  await page.getByRole("button", { name: "G級", exact: true }).click();
+  await page
+    .getByRole("combobox", { name: "ランク", exact: true })
+    .selectOption("G2");
+  await page.getByRole("searchbox").fill("泥まみれの商魂");
+  const card = page.locator(".quest-card");
+  await expect(card.locator(".tag-unlock")).toHaveCount(1);
+  await card.locator(".quest-title").click();
+  await expect(card.locator(".state")).toHaveText("未達成");
+  await page.getByRole("searchbox").fill("");
+  await page
+    .getByRole("combobox", { name: "ランク", exact: true })
+    .selectOption("G1");
+  await page
+    .getByRole("combobox", { name: "種別", exact: true })
+    .selectOption("key");
+  const newKeys = page.locator(".quest-card").getByRole("checkbox");
+  await expect(newKeys).toHaveCount(5);
+  for (let i = 0; i < 5; i++) await newKeys.nth(i).check();
+  await page
+    .getByRole("combobox", { name: "種別", exact: true })
+    .selectOption("");
+  await page
+    .getByRole("combobox", { name: "ランク", exact: true })
+    .selectOption("G2");
+  await page.getByRole("searchbox").fill("泥まみれの商魂");
+  await card.locator(".quest-title").click();
+  await expect(card.locator(".state")).toHaveText("記録上の前提達成");
+  await expect(
+    card.getByRole("link", { name: /MHXX攻略レシピ（該当クエスト詳細）/ }),
+  ).toHaveAttribute("href", "http://wiki.mhxg.org/ida/286190.html");
+  await card.getByRole("checkbox").check();
+  await page.screenshot({
+    path: `test-results/g2-${test.info().project.name}.png`,
+    fullPage: true,
+  });
+  await page.reload();
+  await expect(
+    page.getByRole("checkbox", {
+      name: "泥まみれの商魂！をクリア",
+      exact: true,
+    }),
+  ).toBeChecked();
+  await expect(page.locator(".tag-unlock")).toHaveCount(1);
+  await expect(page.getByLabel("現在のHR")).toHaveValue("80");
+  await page.getByRole("searchbox").fill("");
+  await page
+    .getByRole("combobox", { name: "ランク", exact: true })
+    .selectOption("G4");
+  await page.getByRole("searchbox").fill("蠢く墟城");
+  await expect(page.locator(".tag-unlock")).toHaveCount(0);
+  await page
+    .getByRole("checkbox", { name: "蠢く墟城をクリア", exact: true })
+    .check();
+  await page.getByRole("button", { name: "村", exact: true }).click();
+  await page
+    .getByRole("combobox", { name: "ランク", exact: true })
+    .selectOption("10");
+  await page.getByRole("searchbox").fill("高難度：雪山に佇む轟竜");
+  await page.locator(".quest-title").click();
+  await expect(page.locator(".state")).toHaveText("記録上の前提達成");
+  await page
+    .getByRole("button", { name: "G級 G★4 / 蠢く墟城", exact: true })
+    .click();
+  await expect(
+    page.getByRole("button", {
+      name: "村 ★10 / 高難度：雪山に佇む轟竜",
+      exact: true,
+    }),
+  ).toBeVisible();
+  const pending = page.waitForEvent("download");
+  await page.getByRole("button", { name: "JSONを書き出す" }).click();
+  const exported = JSON.parse(
+    await readFile((await (await pending).path())!, "utf8"),
+  );
+  expect(exported.schemaVersion).toBe(1);
+  expect(exported.hr).toBe(80);
+  expect(exported.completedQuestIds).toHaveLength(717);
+  expect(exported.completedQuestIds).toEqual(
+    expect.arrayContaining([
+      ...ids,
+      "future-stage-id",
+      "g-rank-2-recipe-286190",
+      "g-rank-4-recipe-294013",
+    ]),
+  );
   expect(
     await page.evaluate(
       () => document.documentElement.scrollWidth <= innerWidth,
