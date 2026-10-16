@@ -3,7 +3,10 @@ import { hasUnlockIndicator } from "./unlocks";
 import { quests } from "../data/quests";
 import legacyAudit from "../../docs/unlock-indicators-audit.json";
 import permitAudit from "../../docs/permit-unlock-indicators-audit.json";
-const audit = {otherEntries: [...legacyAudit.otherEntries, ...permitAudit.otherEntries], confirmedMarkers: legacyAudit.confirmedMarkers};
+const audit = {
+  otherEntries: [...legacyAudit.otherEntries, ...permitAudit.otherEntries],
+  confirmedMarkers: legacyAudit.confirmedMarkers,
+};
 const named = (name: string, category = "village", rank?: string) =>
   quests.find(
     (q) =>

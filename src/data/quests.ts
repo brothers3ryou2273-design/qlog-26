@@ -19,15 +19,10 @@ import hub5 from "./hub-5.json";
 import hub6 from "./hub-6.json";
 import hub7 from "./hub-7.json";
 
-
-
-
-
 import grank1 from "./g-rank-1.json";
 import grank2 from "./g-rank-2.json";
 import grank3 from "./g-rank-3.json";
 import grank4 from "./g-rank-4.json";
-
 
 import permit0 from "./permit-redhelm.json";
 import permit1 from "./permit-snowbaron.json";

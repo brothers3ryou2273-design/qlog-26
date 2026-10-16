@@ -45,7 +45,9 @@ function loadView(): View {
       category: v.category,
       rank: v.rank,
       search: typeof v.search === "string" ? v.search : "",
-      tag: ["", "unlock", ...Object.keys(tagLabels)].includes(v.tag) ? v.tag : "",
+      tag: ["", "unlock", ...Object.keys(tagLabels)].includes(v.tag)
+        ? v.tag
+        : "",
       role: ["", "hunter", "prowler"].includes(v.role) ? v.role : "",
       incomplete: v.incomplete === true,
     };
@@ -120,7 +122,10 @@ export default function App() {
           .normalize("NFKC")
           .toLocaleLowerCase("ja")
           .includes(view.search.normalize("NFKC").toLocaleLowerCase("ja"))) &&
-      (!view.tag || (view.tag === "unlock" ? hasUnlockIndicator(q) : q.tags.includes(view.tag))) &&
+      (!view.tag ||
+        (view.tag === "unlock"
+          ? hasUnlockIndicator(q)
+          : q.tags.includes(view.tag))) &&
       (!view.role || q.role === view.role || q.role === "either") &&
       (!view.incomplete || !completed.has(q.id)),
   );
@@ -354,7 +359,9 @@ export default function App() {
           ))}
         </nav>
         <section className="workspace" aria-labelledby="rank-heading">
-          <div className="rank-top">
+          <div
+            className={`rank-top${view.category === "permit" ? " permit-rank-top" : ""}`}
+          >
             <div>
               <p className="eyebrow">
                 QUESTS / {demo ? "DEMO" : "MY PROGRESS"}
@@ -375,10 +382,10 @@ export default function App() {
                     {view.category === "permit"
                       ? permitGroupLabel(r)
                       : r.startsWith("G")
-                      ? r.replace("G", "G★")
-                      : /^\d+$/.test(r)
-                        ? `★${r}`
-                        : r}
+                        ? r.replace("G", "G★")
+                        : /^\d+$/.test(r)
+                          ? `★${r}`
+                          : r}
                   </option>
                 ))}
               </select>
@@ -396,7 +403,11 @@ export default function App() {
             </span>
           </div>
           <progress
-            aria-label="選択ランクの収録済みクエスト達成率"
+            aria-label={
+              view.category === "permit"
+                ? "選択した二つ名の収録済みクエスト達成率"
+                : "選択ランクの収録済みクエスト達成率"
+            }
             value={doneCount}
             max={rankQuests.length || 1}
           />
@@ -405,7 +416,18 @@ export default function App() {
               ? "架空データのみの達成率です。"
               : "分母は収録済みの件数です。全クエストの達成率ではありません。"}
           </p>
-          {view.category === "permit" && <p className="small notice">このカテゴリのチェックは、自分の特殊許可として受注・クリアし、ゲーム内の段階が進んだ状態を記録します。他の人が受注したクエストへの参加クリアとは区別してください。</p>}
+          {view.category === "permit" && (
+            <p className="small muted">
+              このカテゴリのチェックは、自分の特殊許可として受注・クリアし、ゲーム内の段階が進んだ状態を記録します。他の人が受注したクエストへの参加クリアとは区別してください。受注には対応する特殊許可券が必要です。券の所持・消費は管理しません。
+              <a
+                href="https://mhx-wiki.com/?%E8%B6%85%E7%89%B9%E6%AE%8A%E8%A8%B1%E5%8F%AF"
+                target="_blank"
+                rel="noopener noreferrer"
+              >
+                進行・許可券の資料 ↗
+              </a>
+            </p>
+          )}
           <div className="filters">
             <label className="search-label">
               クエスト名で検索
@@ -420,7 +442,9 @@ export default function App() {
               種別
               <select
                 value={view.tag}
-                onChange={(e) => setView({ ...view, tag: e.target.value as View["tag"] })}
+                onChange={(e) =>
+                  setView({ ...view, tag: e.target.value as View["tag"] })
+                }
               >
                 <option value="">すべて</option>
                 {Object.entries(tagLabels).map(([id, label]) => (
@@ -485,7 +509,9 @@ export default function App() {
                       onClick={() => setExpanded(open ? null : q.id)}
                     >
                       <span className="quest-tags">
-                        {q.permitStage && <span className="tag">{q.permitStage}</span>}
+                        {q.permitStage && (
+                          <span className="tag">{q.permitStage}</span>
+                        )}
                         {q.tags.map((t) => (
                           <span key={t} className={`tag tag-${t}`}>
                             {tagLabels[t]}

@@ -1,6 +1,12 @@
 import { permitGroups } from "../data/permit-groups";
 export type Category =
-  "village" | "hub" | "g_rank" | "permit" | "event" | "arena" | "challenge";
+  | "village"
+  | "hub"
+  | "g_rank"
+  | "permit"
+  | "event"
+  | "arena"
+  | "challenge";
 export type QuestTag = "key" | "urgent" | "request" | "normal";
 export type Rule =
   | { kind: "none" }
@@ -52,7 +58,7 @@ export const categories: { id: Category; label: string; ranks: string[] }[] = [
   },
   { id: "hub", label: "集会所", ranks: ["1", "2", "3", "4", "5", "6", "7"] },
   { id: "g_rank", label: "G級", ranks: ["G1", "G2", "G3", "G4"] },
-  { id: "permit", label: "特殊許可", ranks: permitGroups.map(g => g.id) },
+  { id: "permit", label: "特殊許可", ranks: permitGroups.map((g) => g.id) },
   { id: "event", label: "イベント", ranks: ["全ランク"] },
   { id: "arena", label: "闘技大会", ranks: ["全ランク"] },
   { id: "challenge", label: "チャレンジ", ranks: ["全ランク"] },
