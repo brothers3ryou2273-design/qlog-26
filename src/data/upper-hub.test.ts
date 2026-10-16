@@ -1,3 +1,4 @@
+import permitConnections from "../../docs/permit-connections.json";
 import gConnections from "../../docs/g-rank-connections.json";
 import upperConnections from "../../docs/upper-hub-connections.json";
 import { describe, expect, it } from "vitest";
@@ -76,6 +77,7 @@ describe("upper hub primary rosters and released progress", () => {
         expect.arrayContaining(
           b.unlocks.map(
             (u) =>
+              permitConnections.unlockNoteChanges.find(c => c.questId === b.id && c.kind === u.kind && c.label === u.label)?.after ??
               upperConnections.unlockNoteChanges.find(
                 (c) =>
                   c.questId === b.id &&

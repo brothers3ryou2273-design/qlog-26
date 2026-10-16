@@ -1,5 +1,930 @@
 {
   "checkedAt": "2026-10-16",
   "conditionChanges": [],
-  "unlockNoteChanges": []
+  "unlockNoteChanges": [
+    {
+      "questId": "hub-1-recipe-219149",
+      "name": "鉄壁の盾蟹",
+      "kind": "other",
+      "label": "【特殊許可】矛砕狩猟依頼１（出現前提）",
+      "before": {
+        "kind": "other",
+        "label": "【特殊許可】矛砕狩猟依頼１（出現前提）",
+        "note": "未収録クエストの出現前提の一つ。その他の受注条件・実際の出現はゲーム内で確認してください。"
+      },
+      "after": {
+        "kind": "other",
+        "label": "【特殊許可】矛砕狩猟依頼１（出現前提）",
+        "note": "収録済みの特殊許可クエストの出現前提の一つ。他の受注条件・自分の段階進行も必要です。前提・後続の詳細とゲーム内の実際の出現を確認してください。"
+      },
+      "targetQuestId": "permit-stonefist-lv1-recipe-261198",
+      "sourceUrls": [
+        "http://wiki.mhxg.org/ida/219149.html",
+        "http://wiki.mhxg.org/ida/261198.html"
+      ],
+      "reason": "実在する固定IDを収録し前提・逆引きへ接続したため、古い未収録注記のみ訂正。名称・種類・解放内容・既存前提式は保持。"
+    },
+    {
+      "questId": "hub-1-recipe-219155",
+      "name": "雪のちウルクスス",
+      "kind": "other",
+      "label": "【特殊許可】大雪主狩猟依頼１（出現前提）",
+      "before": {
+        "kind": "other",
+        "label": "【特殊許可】大雪主狩猟依頼１（出現前提）",
+        "note": "未収録クエストの出現前提の一つ。その他の受注条件・実際の出現はゲーム内で確認してください。"
+      },
+      "after": {
+        "kind": "other",
+        "label": "【特殊許可】大雪主狩猟依頼１（出現前提）",
+        "note": "収録済みの特殊許可クエストの出現前提の一つ。他の受注条件・自分の段階進行も必要です。前提・後続の詳細とゲーム内の実際の出現を確認してください。"
+      },
+      "targetQuestId": "permit-snowbaron-lv1-recipe-235918",
+      "sourceUrls": [
+        "http://wiki.mhxg.org/ida/219155.html",
+        "http://wiki.mhxg.org/ida/235918.html"
+      ],
+      "reason": "実在する固定IDを収録し前提・逆引きへ接続したため、古い未収録注記のみ訂正。名称・種類・解放内容・既存前提式は保持。"
+    },
+    {
+      "questId": "hub-1-recipe-220242",
+      "name": "伝説のメニューに不可欠なモノ",
+      "kind": "other",
+      "label": "【特殊許可】紅兜狩猟依頼１（出現前提）",
+      "before": {
+        "kind": "other",
+        "label": "【特殊許可】紅兜狩猟依頼１（出現前提）",
+        "note": "未収録クエストの出現前提の一つ。その他の受注条件・実際の出現はゲーム内で確認してください。"
+      },
+      "after": {
+        "kind": "other",
+        "label": "【特殊許可】紅兜狩猟依頼１（出現前提）",
+        "note": "収録済みの特殊許可クエストの出現前提の一つ。他の受注条件・自分の段階進行も必要です。前提・後続の詳細とゲーム内の実際の出現を確認してください。"
+      },
+      "targetQuestId": "permit-redhelm-lv1-recipe-218339",
+      "sourceUrls": [
+        "http://wiki.mhxg.org/ida/220242.html",
+        "http://wiki.mhxg.org/ida/218339.html"
+      ],
+      "reason": "実在する固定IDを収録し前提・逆引きへ接続したため、古い未収録注記のみ訂正。名称・種類・解放内容・既存前提式は保持。"
+    },
+    {
+      "questId": "hub-4-recipe-228754",
+      "name": "鬼蛙テツカブラの狩猟",
+      "kind": "other",
+      "label": "【特殊許可】岩穿狩猟依頼１（出現前提）",
+      "before": {
+        "kind": "other",
+        "label": "【特殊許可】岩穿狩猟依頼１（出現前提）",
+        "note": "未収録クエストの出現前提の一つ。その他の受注条件・実際の出現はゲーム内で確認してください。"
+      },
+      "after": {
+        "kind": "other",
+        "label": "【特殊許可】岩穿狩猟依頼１（出現前提）",
+        "note": "収録済みの特殊許可クエストの出現前提の一つ。他の受注条件・自分の段階進行も必要です。前提・後続の詳細とゲーム内の実際の出現を確認してください。"
+      },
+      "targetQuestId": "permit-drilltusk-lv1-recipe-261216",
+      "sourceUrls": [
+        "http://wiki.mhxg.org/ida/228754.html",
+        "http://wiki.mhxg.org/ida/261216.html"
+      ],
+      "reason": "実在する固定IDを収録し前提・逆引きへ接続したため、古い未収録注記のみ訂正。名称・種類・解放内容・既存前提式は保持。"
+    },
+    {
+      "questId": "hub-2-recipe-220001",
+      "name": "女王、降臨す",
+      "kind": "other",
+      "label": "【特殊許可】紫毒姫狩猟依頼１（出現前提）",
+      "before": {
+        "kind": "other",
+        "label": "【特殊許可】紫毒姫狩猟依頼１（出現前提）",
+        "note": "未収録クエストの出現前提の一つ。その他の受注条件・実際の出現はゲーム内で確認してください。"
+      },
+      "after": {
+        "kind": "other",
+        "label": "【特殊許可】紫毒姫狩猟依頼１（出現前提）",
+        "note": "収録済みの特殊許可クエストの出現前提の一つ。他の受注条件・自分の段階進行も必要です。前提・後続の詳細とゲーム内の実際の出現を確認してください。"
+      },
+      "targetQuestId": "permit-dreadqueen-lv1-recipe-235920",
+      "sourceUrls": [
+        "http://wiki.mhxg.org/ida/220001.html",
+        "http://wiki.mhxg.org/ida/235920.html"
+      ],
+      "reason": "実在する固定IDを収録し前提・逆引きへ接続したため、古い未収録注記のみ訂正。名称・種類・解放内容・既存前提式は保持。"
+    },
+    {
+      "questId": "hub-5-recipe-228783",
+      "name": "脅威！火山の鉄槌！",
+      "kind": "other",
+      "label": "【特殊許可】宝纏狩猟依頼１（出現前提）",
+      "before": {
+        "kind": "other",
+        "label": "【特殊許可】宝纏狩猟依頼１（出現前提）",
+        "note": "未収録クエストの出現前提の一つ。その他の受注条件・実際の出現はゲーム内で確認してください。"
+      },
+      "after": {
+        "kind": "other",
+        "label": "【特殊許可】宝纏狩猟依頼１（出現前提）",
+        "note": "収録済みの特殊許可クエストの出現前提の一つ。他の受注条件・自分の段階進行も必要です。前提・後続の詳細とゲーム内の実際の出現を確認してください。"
+      },
+      "targetQuestId": "permit-crystalbeard-lv1-recipe-261235",
+      "sourceUrls": [
+        "http://wiki.mhxg.org/ida/228783.html",
+        "http://wiki.mhxg.org/ida/261235.html"
+      ],
+      "reason": "実在する固定IDを収録し前提・逆引きへ接続したため、古い未収録注記のみ訂正。名称・種類・解放内容・既存前提式は保持。"
+    },
+    {
+      "questId": "hub-5-recipe-228784",
+      "name": "イャンガルルガの洗礼",
+      "kind": "other",
+      "label": "【特殊許可】隻眼狩猟依頼１（出現前提）",
+      "before": {
+        "kind": "other",
+        "label": "【特殊許可】隻眼狩猟依頼１（出現前提）",
+        "note": "未収録クエストの出現前提の一つ。その他の受注条件・実際の出現はゲーム内で確認してください。"
+      },
+      "after": {
+        "kind": "other",
+        "label": "【特殊許可】隻眼狩猟依頼１（出現前提）",
+        "note": "収録済みの特殊許可クエストの出現前提の一つ。他の受注条件・自分の段階進行も必要です。前提・後続の詳細とゲーム内の実際の出現を確認してください。"
+      },
+      "targetQuestId": "permit-deadeye-lv1-recipe-261244",
+      "sourceUrls": [
+        "http://wiki.mhxg.org/ida/228784.html",
+        "http://wiki.mhxg.org/ida/261244.html"
+      ],
+      "reason": "実在する固定IDを収録し前提・逆引きへ接続したため、古い未収録注記のみ訂正。名称・種類・解放内容・既存前提式は保持。"
+    },
+    {
+      "questId": "hub-5-recipe-238233",
+      "name": "疾き迅竜の狩猟披露",
+      "kind": "other",
+      "label": "【特殊許可】白疾風狩猟依頼１（出現前提）",
+      "before": {
+        "kind": "other",
+        "label": "【特殊許可】白疾風狩猟依頼１（出現前提）",
+        "note": "未収録クエストの出現前提の一つ。その他の受注条件・実際の出現はゲーム内で確認してください。"
+      },
+      "after": {
+        "kind": "other",
+        "label": "【特殊許可】白疾風狩猟依頼１（出現前提）",
+        "note": "収録済みの特殊許可クエストの出現前提の一つ。他の受注条件・自分の段階進行も必要です。前提・後続の詳細とゲーム内の実際の出現を確認してください。"
+      },
+      "targetQuestId": "permit-silverwind-lv1-recipe-261226",
+      "sourceUrls": [
+        "http://wiki.mhxg.org/ida/238233.html",
+        "http://wiki.mhxg.org/ida/261226.html"
+      ],
+      "reason": "実在する固定IDを収録し前提・逆引きへ接続したため、古い未収録注記のみ訂正。名称・種類・解放内容・既存前提式は保持。"
+    },
+    {
+      "questId": "hub-6-recipe-229705",
+      "name": "轟竜狩猟は妹のため",
+      "kind": "other",
+      "label": "【特殊許可】荒鉤爪狩猟依頼１（出現前提）",
+      "before": {
+        "kind": "other",
+        "label": "【特殊許可】荒鉤爪狩猟依頼１（出現前提）",
+        "note": "未収録クエストの出現前提の一つ。その他の受注条件・実際の出現はゲーム内で確認してください。"
+      },
+      "after": {
+        "kind": "other",
+        "label": "【特殊許可】荒鉤爪狩猟依頼１（出現前提）",
+        "note": "収録済みの特殊許可クエストの出現前提の一つ。他の受注条件・自分の段階進行も必要です。前提・後続の詳細とゲーム内の実際の出現を確認してください。"
+      },
+      "targetQuestId": "permit-grimclaw-lv1-recipe-235927",
+      "sourceUrls": [
+        "http://wiki.mhxg.org/ida/229705.html",
+        "http://wiki.mhxg.org/ida/235927.html"
+      ],
+      "reason": "実在する固定IDを収録し前提・逆引きへ接続したため、古い未収録注記のみ訂正。名称・種類・解放内容・既存前提式は保持。"
+    },
+    {
+      "questId": "hub-6-recipe-229706",
+      "name": "空の王者・リオレウス",
+      "kind": "other",
+      "label": "【特殊許可】黒炎王狩猟依頼１（出現前提）",
+      "before": {
+        "kind": "other",
+        "label": "【特殊許可】黒炎王狩猟依頼１（出現前提）",
+        "note": "未収録クエストの出現前提の一つ。その他の受注条件・実際の出現はゲーム内で確認してください。"
+      },
+      "after": {
+        "kind": "other",
+        "label": "【特殊許可】黒炎王狩猟依頼１（出現前提）",
+        "note": "収録済みの特殊許可クエストの出現前提の一つ。他の受注条件・自分の段階進行も必要です。前提・後続の詳細とゲーム内の実際の出現を確認してください。"
+      },
+      "targetQuestId": "permit-dreadking-lv1-recipe-218338",
+      "sourceUrls": [
+        "http://wiki.mhxg.org/ida/229706.html",
+        "http://wiki.mhxg.org/ida/218338.html"
+      ],
+      "reason": "実在する固定IDを収録し前提・逆引きへ接続したため、古い未収録注記のみ訂正。名称・種類・解放内容・既存前提式は保持。"
+    },
+    {
+      "questId": "hub-6-recipe-229709",
+      "name": "狩られる前に狩れ！",
+      "kind": "other",
+      "label": "【特殊許可】金雷公狩猟依頼１（出現前提）",
+      "before": {
+        "kind": "other",
+        "label": "【特殊許可】金雷公狩猟依頼１（出現前提）",
+        "note": "未収録クエストの出現前提の一つ。その他の受注条件・実際の出現はゲーム内で確認してください。"
+      },
+      "after": {
+        "kind": "other",
+        "label": "【特殊許可】金雷公狩猟依頼１（出現前提）",
+        "note": "収録済みの特殊許可クエストの出現前提の一つ。他の受注条件・自分の段階進行も必要です。前提・後続の詳細とゲーム内の実際の出現を確認してください。"
+      },
+      "targetQuestId": "permit-thunderlord-lv1-recipe-235926",
+      "sourceUrls": [
+        "http://wiki.mhxg.org/ida/229709.html",
+        "http://wiki.mhxg.org/ida/235926.html"
+      ],
+      "reason": "実在する固定IDを収録し前提・逆引きへ接続したため、古い未収録注記のみ訂正。名称・種類・解放内容・既存前提式は保持。"
+    },
+    {
+      "questId": "hub-6-recipe-229713",
+      "name": "出陣！地底火山の果し合い！",
+      "kind": "other",
+      "label": "【特殊許可】燼滅刃狩猟依頼１（出現前提）",
+      "before": {
+        "kind": "other",
+        "label": "【特殊許可】燼滅刃狩猟依頼１（出現前提）",
+        "note": "未収録クエストの出現前提の一つ。その他の受注条件・実際の出現はゲーム内で確認してください。"
+      },
+      "after": {
+        "kind": "other",
+        "label": "【特殊許可】燼滅刃狩猟依頼１（出現前提）",
+        "note": "収録済みの特殊許可クエストの出現前提の一つ。他の受注条件・自分の段階進行も必要です。前提・後続の詳細とゲーム内の実際の出現を確認してください。"
+      },
+      "targetQuestId": "permit-hellblade-lv1-recipe-261279",
+      "sourceUrls": [
+        "http://wiki.mhxg.org/ida/229713.html",
+        "http://wiki.mhxg.org/ida/261279.html"
+      ],
+      "reason": "実在する固定IDを収録し前提・逆引きへ接続したため、古い未収録注記のみ訂正。名称・種類・解放内容・既存前提式は保持。"
+    },
+    {
+      "questId": "hub-6-recipe-229720",
+      "name": "リオレウス狩猟指令",
+      "kind": "other",
+      "label": "【特殊許可】黒炎王狩猟依頼１（出現前提）",
+      "before": {
+        "kind": "other",
+        "label": "【特殊許可】黒炎王狩猟依頼１（出現前提）",
+        "note": "未収録クエストの出現前提の一つ。その他の受注条件・実際の出現はゲーム内で確認してください。"
+      },
+      "after": {
+        "kind": "other",
+        "label": "【特殊許可】黒炎王狩猟依頼１（出現前提）",
+        "note": "収録済みの特殊許可クエストの出現前提の一つ。他の受注条件・自分の段階進行も必要です。前提・後続の詳細とゲーム内の実際の出現を確認してください。"
+      },
+      "targetQuestId": "permit-dreadking-lv1-recipe-218338",
+      "sourceUrls": [
+        "http://wiki.mhxg.org/ida/229720.html",
+        "http://wiki.mhxg.org/ida/218338.html"
+      ],
+      "reason": "実在する固定IDを収録し前提・逆引きへ接続したため、古い未収録注記のみ訂正。名称・種類・解放内容・既存前提式は保持。"
+    },
+    {
+      "questId": "g-rank-1-recipe-286177",
+      "name": "牙獣の行水",
+      "kind": "other",
+      "label": "【特殊許可】紅兜捕獲依頼G1（出現前提）",
+      "before": {
+        "kind": "other",
+        "label": "【特殊許可】紅兜捕獲依頼G1（出現前提）",
+        "note": "未収録クエストの出現前提の一つ。その他の受注条件・実際の出現はゲーム内で確認してください。"
+      },
+      "after": {
+        "kind": "other",
+        "label": "【特殊許可】紅兜捕獲依頼G1（出現前提）",
+        "note": "収録済みの特殊許可クエストの出現前提の一つ。他の受注条件・自分の段階進行も必要です。前提・後続の詳細とゲーム内の実際の出現を確認してください。"
+      },
+      "targetQuestId": "permit-redhelm-g1-recipe-299136",
+      "sourceUrls": [
+        "http://wiki.mhxg.org/ida/286177.html",
+        "http://wiki.mhxg.org/ida/299136.html"
+      ],
+      "reason": "実在する固定IDを収録し前提・逆引きへ接続したため、古い未収録注記のみ訂正。名称・種類・解放内容・既存前提式は保持。"
+    },
+    {
+      "questId": "g-rank-1-recipe-286180",
+      "name": "アツアツ砂漠の盾蟹狩猟",
+      "kind": "other",
+      "label": "【特殊許可】矛砕捕獲依頼G1（出現前提）",
+      "before": {
+        "kind": "other",
+        "label": "【特殊許可】矛砕捕獲依頼G1（出現前提）",
+        "note": "未収録クエストの出現前提の一つ。その他の受注条件・実際の出現はゲーム内で確認してください。"
+      },
+      "after": {
+        "kind": "other",
+        "label": "【特殊許可】矛砕捕獲依頼G1（出現前提）",
+        "note": "収録済みの特殊許可クエストの出現前提の一つ。他の受注条件・自分の段階進行も必要です。前提・後続の詳細とゲーム内の実際の出現を確認してください。"
+      },
+      "targetQuestId": "permit-stonefist-g1-recipe-299140",
+      "sourceUrls": [
+        "http://wiki.mhxg.org/ida/286180.html",
+        "http://wiki.mhxg.org/ida/299140.html"
+      ],
+      "reason": "実在する固定IDを収録し前提・逆引きへ接続したため、古い未収録注記のみ訂正。名称・種類・解放内容・既存前提式は保持。"
+    },
+    {
+      "questId": "g-rank-1-recipe-286184",
+      "name": "罪深きタルの食材探訪",
+      "kind": "other",
+      "label": "【特殊許可】岩穿捕獲依頼G1（出現前提）",
+      "before": {
+        "kind": "other",
+        "label": "【特殊許可】岩穿捕獲依頼G1（出現前提）",
+        "note": "未収録クエストの出現前提の一つ。その他の受注条件・実際の出現はゲーム内で確認してください。"
+      },
+      "after": {
+        "kind": "other",
+        "label": "【特殊許可】岩穿捕獲依頼G1（出現前提）",
+        "note": "収録済みの特殊許可クエストの出現前提の一つ。他の受注条件・自分の段階進行も必要です。前提・後続の詳細とゲーム内の実際の出現を確認してください。"
+      },
+      "targetQuestId": "permit-drilltusk-g1-recipe-299144",
+      "sourceUrls": [
+        "http://wiki.mhxg.org/ida/286184.html",
+        "http://wiki.mhxg.org/ida/299144.html"
+      ],
+      "reason": "実在する固定IDを収録し前提・逆引きへ接続したため、古い未収録注記のみ訂正。名称・種類・解放内容・既存前提式は保持。"
+    },
+    {
+      "questId": "g-rank-1-recipe-286185",
+      "name": "嗚呼素晴らしき也、鬼蛙",
+      "kind": "other",
+      "label": "【特殊許可】岩穿捕獲依頼G1（出現前提）",
+      "before": {
+        "kind": "other",
+        "label": "【特殊許可】岩穿捕獲依頼G1（出現前提）",
+        "note": "未収録クエストの出現前提の一つ。その他の受注条件・実際の出現はゲーム内で確認してください。"
+      },
+      "after": {
+        "kind": "other",
+        "label": "【特殊許可】岩穿捕獲依頼G1（出現前提）",
+        "note": "収録済みの特殊許可クエストの出現前提の一つ。他の受注条件・自分の段階進行も必要です。前提・後続の詳細とゲーム内の実際の出現を確認してください。"
+      },
+      "targetQuestId": "permit-drilltusk-g1-recipe-299144",
+      "sourceUrls": [
+        "http://wiki.mhxg.org/ida/286185.html",
+        "http://wiki.mhxg.org/ida/299144.html"
+      ],
+      "reason": "実在する固定IDを収録し前提・逆引きへ接続したため、古い未収録注記のみ訂正。名称・種類・解放内容・既存前提式は保持。"
+    },
+    {
+      "questId": "g-rank-1-recipe-285791",
+      "name": "砂中からのサプライズ",
+      "kind": "other",
+      "label": "【特殊許可】矛砕捕獲依頼G1（出現前提）",
+      "before": {
+        "kind": "other",
+        "label": "【特殊許可】矛砕捕獲依頼G1（出現前提）",
+        "note": "未収録クエストの出現前提の一つ。その他の受注条件・実際の出現はゲーム内で確認してください。"
+      },
+      "after": {
+        "kind": "other",
+        "label": "【特殊許可】矛砕捕獲依頼G1（出現前提）",
+        "note": "収録済みの特殊許可クエストの出現前提の一つ。他の受注条件・自分の段階進行も必要です。前提・後続の詳細とゲーム内の実際の出現を確認してください。"
+      },
+      "targetQuestId": "permit-stonefist-g1-recipe-299140",
+      "sourceUrls": [
+        "http://wiki.mhxg.org/ida/285791.html",
+        "http://wiki.mhxg.org/ida/299140.html"
+      ],
+      "reason": "実在する固定IDを収録し前提・逆引きへ接続したため、古い未収録注記のみ訂正。名称・種類・解放内容・既存前提式は保持。"
+    },
+    {
+      "questId": "g-rank-1-recipe-285793",
+      "name": "氷雪に舞う白うさぎ",
+      "kind": "other",
+      "label": "【特殊許可】大雪主捕獲依頼G1（出現前提）",
+      "before": {
+        "kind": "other",
+        "label": "【特殊許可】大雪主捕獲依頼G1（出現前提）",
+        "note": "未収録クエストの出現前提の一つ。その他の受注条件・実際の出現はゲーム内で確認してください。"
+      },
+      "after": {
+        "kind": "other",
+        "label": "【特殊許可】大雪主捕獲依頼G1（出現前提）",
+        "note": "収録済みの特殊許可クエストの出現前提の一つ。他の受注条件・自分の段階進行も必要です。前提・後続の詳細とゲーム内の実際の出現を確認してください。"
+      },
+      "targetQuestId": "permit-snowbaron-g1-recipe-299138",
+      "sourceUrls": [
+        "http://wiki.mhxg.org/ida/285793.html",
+        "http://wiki.mhxg.org/ida/299138.html"
+      ],
+      "reason": "実在する固定IDを収録し前提・逆引きへ接続したため、古い未収録注記のみ訂正。名称・種類・解放内容・既存前提式は保持。"
+    },
+    {
+      "questId": "g-rank-1-recipe-286186",
+      "name": "川辺のアオアシラ退治",
+      "kind": "other",
+      "label": "【特殊許可】紅兜捕獲依頼G1（出現前提）",
+      "before": {
+        "kind": "other",
+        "label": "【特殊許可】紅兜捕獲依頼G1（出現前提）",
+        "note": "未収録クエストの出現前提の一つ。その他の受注条件・実際の出現はゲーム内で確認してください。"
+      },
+      "after": {
+        "kind": "other",
+        "label": "【特殊許可】紅兜捕獲依頼G1（出現前提）",
+        "note": "収録済みの特殊許可クエストの出現前提の一つ。他の受注条件・自分の段階進行も必要です。前提・後続の詳細とゲーム内の実際の出現を確認してください。"
+      },
+      "targetQuestId": "permit-redhelm-g1-recipe-299136",
+      "sourceUrls": [
+        "http://wiki.mhxg.org/ida/286186.html",
+        "http://wiki.mhxg.org/ida/299136.html"
+      ],
+      "reason": "実在する固定IDを収録し前提・逆引きへ接続したため、古い未収録注記のみ訂正。名称・種類・解放内容・既存前提式は保持。"
+    },
+    {
+      "questId": "g-rank-2-recipe-286205",
+      "name": "遺群嶺のトレジャー！米の巻",
+      "kind": "other",
+      "label": "【特殊許可】朧隠捕獲依頼G1（出現前提）",
+      "before": {
+        "kind": "other",
+        "label": "【特殊許可】朧隠捕獲依頼G1（出現前提）",
+        "note": "未収録クエストの出現前提の一つ。その他の受注条件・実際の出現はゲーム内で確認してください。"
+      },
+      "after": {
+        "kind": "other",
+        "label": "【特殊許可】朧隠捕獲依頼G1（出現前提）",
+        "note": "収録済みの特殊許可クエストの出現前提の一つ。他の受注条件・自分の段階進行も必要です。前提・後続の詳細とゲーム内の実際の出現を確認してください。"
+      },
+      "targetQuestId": "permit-nightcloak-g1-recipe-299150",
+      "sourceUrls": [
+        "http://wiki.mhxg.org/ida/286205.html",
+        "http://wiki.mhxg.org/ida/299150.html"
+      ],
+      "reason": "実在する固定IDを収録し前提・逆引きへ接続したため、古い未収録注記のみ訂正。名称・種類・解放内容・既存前提式は保持。"
+    },
+    {
+      "questId": "g-rank-2-recipe-288253",
+      "name": "切り裂かれた誇り",
+      "kind": "other",
+      "label": "【特殊許可】鎧裂捕獲依頼G1（出現前提）",
+      "before": {
+        "kind": "other",
+        "label": "【特殊許可】鎧裂捕獲依頼G1（出現前提）",
+        "note": "未収録クエストの出現前提の一つ。その他の受注条件・実際の出現はゲーム内で確認してください。"
+      },
+      "after": {
+        "kind": "other",
+        "label": "【特殊許可】鎧裂捕獲依頼G1（出現前提）",
+        "note": "収録済みの特殊許可クエストの出現前提の一つ。他の受注条件・自分の段階進行も必要です。前提・後続の詳細とゲーム内の実際の出現を確認してください。"
+      },
+      "targetQuestId": "permit-rustrazor-g1-recipe-299152",
+      "sourceUrls": [
+        "http://wiki.mhxg.org/ida/288253.html",
+        "http://wiki.mhxg.org/ida/299152.html"
+      ],
+      "reason": "実在する固定IDを収録し前提・逆引きへ接続したため、古い未収録注記のみ訂正。名称・種類・解放内容・既存前提式は保持。"
+    },
+    {
+      "questId": "g-rank-2-recipe-286211",
+      "name": "密林のナルガクルガと対峙せよ",
+      "kind": "other",
+      "label": "【特殊許可】白疾風捕獲依頼G1（出現前提）",
+      "before": {
+        "kind": "other",
+        "label": "【特殊許可】白疾風捕獲依頼G1（出現前提）",
+        "note": "未収録クエストの出現前提の一つ。その他の受注条件・実際の出現はゲーム内で確認してください。"
+      },
+      "after": {
+        "kind": "other",
+        "label": "【特殊許可】白疾風捕獲依頼G1（出現前提）",
+        "note": "収録済みの特殊許可クエストの出現前提の一つ。他の受注条件・自分の段階進行も必要です。前提・後続の詳細とゲーム内の実際の出現を確認してください。"
+      },
+      "targetQuestId": "permit-silverwind-g1-recipe-299146",
+      "sourceUrls": [
+        "http://wiki.mhxg.org/ida/286211.html",
+        "http://wiki.mhxg.org/ida/299146.html"
+      ],
+      "reason": "実在する固定IDを収録し前提・逆引きへ接続したため、古い未収録注記のみ訂正。名称・種類・解放内容・既存前提式は保持。"
+    },
+    {
+      "questId": "g-rank-2-recipe-288270",
+      "name": "漆黒の影",
+      "kind": "other",
+      "label": "【特殊許可】白疾風捕獲依頼G1（出現前提）",
+      "before": {
+        "kind": "other",
+        "label": "【特殊許可】白疾風捕獲依頼G1（出現前提）",
+        "note": "未収録クエストの出現前提の一つ。その他の受注条件・実際の出現はゲーム内で確認してください。"
+      },
+      "after": {
+        "kind": "other",
+        "label": "【特殊許可】白疾風捕獲依頼G1（出現前提）",
+        "note": "収録済みの特殊許可クエストの出現前提の一つ。他の受注条件・自分の段階進行も必要です。前提・後続の詳細とゲーム内の実際の出現を確認してください。"
+      },
+      "targetQuestId": "permit-silverwind-g1-recipe-299146",
+      "sourceUrls": [
+        "http://wiki.mhxg.org/ida/288270.html",
+        "http://wiki.mhxg.org/ida/299146.html"
+      ],
+      "reason": "実在する固定IDを収録し前提・逆引きへ接続したため、古い未収録注記のみ訂正。名称・種類・解放内容・既存前提式は保持。"
+    },
+    {
+      "questId": "g-rank-2-recipe-288271",
+      "name": "夜鳥のじけん",
+      "kind": "other",
+      "label": "【特殊許可】朧隠捕獲依頼G1（出現前提）",
+      "before": {
+        "kind": "other",
+        "label": "【特殊許可】朧隠捕獲依頼G1（出現前提）",
+        "note": "未収録クエストの出現前提の一つ。その他の受注条件・実際の出現はゲーム内で確認してください。"
+      },
+      "after": {
+        "kind": "other",
+        "label": "【特殊許可】朧隠捕獲依頼G1（出現前提）",
+        "note": "収録済みの特殊許可クエストの出現前提の一つ。他の受注条件・自分の段階進行も必要です。前提・後続の詳細とゲーム内の実際の出現を確認してください。"
+      },
+      "targetQuestId": "permit-nightcloak-g1-recipe-299150",
+      "sourceUrls": [
+        "http://wiki.mhxg.org/ida/288271.html",
+        "http://wiki.mhxg.org/ida/299150.html"
+      ],
+      "reason": "実在する固定IDを収録し前提・逆引きへ接続したため、古い未収録注記のみ訂正。名称・種類・解放内容・既存前提式は保持。"
+    },
+    {
+      "questId": "g-rank-2-recipe-288277",
+      "name": "鎌蟹の狩猟をさせてやるぜ！",
+      "kind": "other",
+      "label": "【特殊許可】鎧裂捕獲依頼G1（出現前提）",
+      "before": {
+        "kind": "other",
+        "label": "【特殊許可】鎧裂捕獲依頼G1（出現前提）",
+        "note": "未収録クエストの出現前提の一つ。その他の受注条件・実際の出現はゲーム内で確認してください。"
+      },
+      "after": {
+        "kind": "other",
+        "label": "【特殊許可】鎧裂捕獲依頼G1（出現前提）",
+        "note": "収録済みの特殊許可クエストの出現前提の一つ。他の受注条件・自分の段階進行も必要です。前提・後続の詳細とゲーム内の実際の出現を確認してください。"
+      },
+      "targetQuestId": "permit-rustrazor-g1-recipe-299152",
+      "sourceUrls": [
+        "http://wiki.mhxg.org/ida/288277.html",
+        "http://wiki.mhxg.org/ida/299152.html"
+      ],
+      "reason": "実在する固定IDを収録し前提・逆引きへ接続したため、古い未収録注記のみ訂正。名称・種類・解放内容・既存前提式は保持。"
+    },
+    {
+      "questId": "g-rank-4-recipe-294009",
+      "name": "轟竜の軌跡を追いかけて",
+      "kind": "other",
+      "label": "【特殊許可】荒鉤爪捕獲依頼G1（出現前提）",
+      "before": {
+        "kind": "other",
+        "label": "【特殊許可】荒鉤爪捕獲依頼G1（出現前提）",
+        "note": "未収録クエストの出現前提の一つ。その他の受注条件・実際の出現はゲーム内で確認してください。"
+      },
+      "after": {
+        "kind": "other",
+        "label": "【特殊許可】荒鉤爪捕獲依頼G1（出現前提）",
+        "note": "収録済みの特殊許可クエストの出現前提の一つ。他の受注条件・自分の段階進行も必要です。前提・後続の詳細とゲーム内の実際の出現を確認してください。"
+      },
+      "targetQuestId": "permit-grimclaw-g1-recipe-309871",
+      "sourceUrls": [
+        "http://wiki.mhxg.org/ida/294009.html",
+        "http://wiki.mhxg.org/ida/309871.html"
+      ],
+      "reason": "実在する固定IDを収録し前提・逆引きへ接続したため、古い未収録注記のみ訂正。名称・種類・解放内容・既存前提式は保持。"
+    },
+    {
+      "questId": "g-rank-4-recipe-299063",
+      "name": "氷海を爆走、暴走轟竜！",
+      "kind": "other",
+      "label": "【特殊許可】荒鉤爪捕獲依頼G1（出現前提）",
+      "before": {
+        "kind": "other",
+        "label": "【特殊許可】荒鉤爪捕獲依頼G1（出現前提）",
+        "note": "未収録クエストの出現前提の一つ。その他の受注条件・実際の出現はゲーム内で確認してください。"
+      },
+      "after": {
+        "kind": "other",
+        "label": "【特殊許可】荒鉤爪捕獲依頼G1（出現前提）",
+        "note": "収録済みの特殊許可クエストの出現前提の一つ。他の受注条件・自分の段階進行も必要です。前提・後続の詳細とゲーム内の実際の出現を確認してください。"
+      },
+      "targetQuestId": "permit-grimclaw-g1-recipe-309871",
+      "sourceUrls": [
+        "http://wiki.mhxg.org/ida/299063.html",
+        "http://wiki.mhxg.org/ida/309871.html"
+      ],
+      "reason": "実在する固定IDを収録し前提・逆引きへ接続したため、古い未収録注記のみ訂正。名称・種類・解放内容・既存前提式は保持。"
+    },
+    {
+      "questId": "g-rank-4-recipe-294011",
+      "name": "斬鉄の剣、不壊の鎧",
+      "kind": "other",
+      "label": "【特殊許可】燼滅刃捕獲依頼G1（出現前提）",
+      "before": {
+        "kind": "other",
+        "label": "【特殊許可】燼滅刃捕獲依頼G1（出現前提）",
+        "note": "未収録クエストの出現前提の一つ。その他の受注条件・実際の出現はゲーム内で確認してください。"
+      },
+      "after": {
+        "kind": "other",
+        "label": "【特殊許可】燼滅刃捕獲依頼G1（出現前提）",
+        "note": "収録済みの特殊許可クエストの出現前提の一つ。他の受注条件・自分の段階進行も必要です。前提・後続の詳細とゲーム内の実際の出現を確認してください。"
+      },
+      "targetQuestId": "permit-hellblade-g1-recipe-309877",
+      "sourceUrls": [
+        "http://wiki.mhxg.org/ida/294011.html",
+        "http://wiki.mhxg.org/ida/309877.html"
+      ],
+      "reason": "実在する固定IDを収録し前提・逆引きへ接続したため、古い未収録注記のみ訂正。名称・種類・解放内容・既存前提式は保持。"
+    },
+    {
+      "questId": "g-rank-4-recipe-294013",
+      "name": "蠢く墟城",
+      "kind": "other",
+      "label": "【特殊許可】鏖魔狩猟依頼G1（出現前提）",
+      "before": {
+        "kind": "other",
+        "label": "【特殊許可】鏖魔狩猟依頼G1（出現前提）",
+        "note": "未収録クエストの出現前提の一つ。その他の受注条件・実際の出現はゲーム内で確認してください。"
+      },
+      "after": {
+        "kind": "other",
+        "label": "【特殊許可】鏖魔狩猟依頼G1（出現前提）",
+        "note": "収録済みの特殊許可クエストの出現前提の一つ。他の受注条件・自分の段階進行も必要です。前提・後続の詳細とゲーム内の実際の出現を確認してください。"
+      },
+      "targetQuestId": "permit-bloodbath-g1-recipe-299159",
+      "sourceUrls": [
+        "http://wiki.mhxg.org/ida/294013.html",
+        "http://wiki.mhxg.org/ida/299159.html"
+      ],
+      "reason": "実在する固定IDを収録し前提・逆引きへ接続したため、古い未収録注記のみ訂正。名称・種類・解放内容・既存前提式は保持。"
+    },
+    {
+      "questId": "g-rank-3-recipe-299007",
+      "name": "孤高の黒狼鳥",
+      "kind": "other",
+      "label": "【特殊許可】隻眼捕獲依頼G1（出現前提）",
+      "before": {
+        "kind": "other",
+        "label": "【特殊許可】隻眼捕獲依頼G1（出現前提）",
+        "note": "未収録クエストの出現前提の一つ。その他の受注条件・実際の出現はゲーム内で確認してください。"
+      },
+      "after": {
+        "kind": "other",
+        "label": "【特殊許可】隻眼捕獲依頼G1（出現前提）",
+        "note": "収録済みの特殊許可クエストの出現前提の一つ。他の受注条件・自分の段階進行も必要です。前提・後続の詳細とゲーム内の実際の出現を確認してください。"
+      },
+      "targetQuestId": "permit-deadeye-g1-recipe-299149",
+      "sourceUrls": [
+        "http://wiki.mhxg.org/ida/299007.html",
+        "http://wiki.mhxg.org/ida/299149.html"
+      ],
+      "reason": "実在する固定IDを収録し前提・逆引きへ接続したため、古い未収録注記のみ訂正。名称・種類・解放内容・既存前提式は保持。"
+    },
+    {
+      "questId": "g-rank-3-recipe-299009",
+      "name": "遺群嶺からの帰還",
+      "kind": "other",
+      "label": "【特殊許可】金雷公捕獲依頼G1（出現前提）",
+      "before": {
+        "kind": "other",
+        "label": "【特殊許可】金雷公捕獲依頼G1（出現前提）",
+        "note": "未収録クエストの出現前提の一つ。その他の受注条件・実際の出現はゲーム内で確認してください。"
+      },
+      "after": {
+        "kind": "other",
+        "label": "【特殊許可】金雷公捕獲依頼G1（出現前提）",
+        "note": "収録済みの特殊許可クエストの出現前提の一つ。他の受注条件・自分の段階進行も必要です。前提・後続の詳細とゲーム内の実際の出現を確認してください。"
+      },
+      "targetQuestId": "permit-thunderlord-g1-recipe-309865",
+      "sourceUrls": [
+        "http://wiki.mhxg.org/ida/299009.html",
+        "http://wiki.mhxg.org/ida/309865.html"
+      ],
+      "reason": "実在する固定IDを収録し前提・逆引きへ接続したため、古い未収録注記のみ訂正。名称・種類・解放内容・既存前提式は保持。"
+    },
+    {
+      "questId": "g-rank-3-recipe-288289",
+      "name": "ハロー遺群嶺！",
+      "kind": "other",
+      "label": "【特殊許可】青電主捕獲依頼G1（出現前提）",
+      "before": {
+        "kind": "other",
+        "label": "【特殊許可】青電主捕獲依頼G1（出現前提）",
+        "note": "未収録クエストの出現前提の一つ。その他の受注条件・実際の出現はゲーム内で確認してください。"
+      },
+      "after": {
+        "kind": "other",
+        "label": "【特殊許可】青電主捕獲依頼G1（出現前提）",
+        "note": "収録済みの特殊許可クエストの出現前提の一つ。他の受注条件・自分の段階進行も必要です。前提・後続の詳細とゲーム内の実際の出現を確認してください。"
+      },
+      "targetQuestId": "permit-boltreaver-g1-recipe-299154",
+      "sourceUrls": [
+        "http://wiki.mhxg.org/ida/288289.html",
+        "http://wiki.mhxg.org/ida/299154.html"
+      ],
+      "reason": "実在する固定IDを収録し前提・逆引きへ接続したため、古い未収録注記のみ訂正。名称・種類・解放内容・既存前提式は保持。"
+    },
+    {
+      "questId": "g-rank-3-recipe-288291",
+      "name": "騎士と密林の夢",
+      "kind": "other",
+      "label": "【特殊許可】天眼捕獲依頼G1（出現前提）",
+      "before": {
+        "kind": "other",
+        "label": "【特殊許可】天眼捕獲依頼G1（出現前提）",
+        "note": "未収録クエストの出現前提の一つ。その他の受注条件・実際の出現はゲーム内で確認してください。"
+      },
+      "after": {
+        "kind": "other",
+        "label": "【特殊許可】天眼捕獲依頼G1（出現前提）",
+        "note": "収録済みの特殊許可クエストの出現前提の一つ。他の受注条件・自分の段階進行も必要です。前提・後続の詳細とゲーム内の実際の出現を確認してください。"
+      },
+      "targetQuestId": "permit-soulseer-g1-recipe-299157",
+      "sourceUrls": [
+        "http://wiki.mhxg.org/ida/288291.html",
+        "http://wiki.mhxg.org/ida/299157.html"
+      ],
+      "reason": "実在する固定IDを収録し前提・逆引きへ接続したため、古い未収録注記のみ訂正。名称・種類・解放内容・既存前提式は保持。"
+    },
+    {
+      "questId": "g-rank-3-recipe-299012",
+      "name": "双子の黒狼鳥",
+      "kind": "other",
+      "label": "【特殊許可】隻眼捕獲依頼G1（出現前提）",
+      "before": {
+        "kind": "other",
+        "label": "【特殊許可】隻眼捕獲依頼G1（出現前提）",
+        "note": "未収録クエストの出現前提の一つ。その他の受注条件・実際の出現はゲーム内で確認してください。"
+      },
+      "after": {
+        "kind": "other",
+        "label": "【特殊許可】隻眼捕獲依頼G1（出現前提）",
+        "note": "収録済みの特殊許可クエストの出現前提の一つ。他の受注条件・自分の段階進行も必要です。前提・後続の詳細とゲーム内の実際の出現を確認してください。"
+      },
+      "targetQuestId": "permit-deadeye-g1-recipe-299149",
+      "sourceUrls": [
+        "http://wiki.mhxg.org/ida/299012.html",
+        "http://wiki.mhxg.org/ida/299149.html"
+      ],
+      "reason": "実在する固定IDを収録し前提・逆引きへ接続したため、古い未収録注記のみ訂正。名称・種類・解放内容・既存前提式は保持。"
+    },
+    {
+      "questId": "g-rank-3-recipe-299013",
+      "name": "原生林の恐怖体験",
+      "kind": "other",
+      "label": "【特殊許可】朧隠捕獲依頼G1（出現前提）",
+      "before": {
+        "kind": "other",
+        "label": "【特殊許可】朧隠捕獲依頼G1（出現前提）",
+        "note": "未収録クエストの出現前提の一つ。その他の受注条件・実際の出現はゲーム内で確認してください。"
+      },
+      "after": {
+        "kind": "other",
+        "label": "【特殊許可】朧隠捕獲依頼G1（出現前提）",
+        "note": "収録済みの特殊許可クエストの出現前提の一つ。他の受注条件・自分の段階進行も必要です。前提・後続の詳細とゲーム内の実際の出現を確認してください。"
+      },
+      "targetQuestId": "permit-nightcloak-g1-recipe-299150",
+      "sourceUrls": [
+        "http://wiki.mhxg.org/ida/299013.html",
+        "http://wiki.mhxg.org/ida/299150.html"
+      ],
+      "reason": "実在する固定IDを収録し前提・逆引きへ接続したため、古い未収録注記のみ訂正。名称・種類・解放内容・既存前提式は保持。"
+    },
+    {
+      "questId": "g-rank-3-recipe-288293",
+      "name": "氷海のすばらしい氷",
+      "kind": "other",
+      "label": "【特殊許可】銀嶺捕獲依頼G1（出現前提）",
+      "before": {
+        "kind": "other",
+        "label": "【特殊許可】銀嶺捕獲依頼G1（出現前提）",
+        "note": "未収録クエストの出現前提の一つ。その他の受注条件・実際の出現はゲーム内で確認してください。"
+      },
+      "after": {
+        "kind": "other",
+        "label": "【特殊許可】銀嶺捕獲依頼G1（出現前提）",
+        "note": "収録済みの特殊許可クエストの出現前提の一つ。他の受注条件・自分の段階進行も必要です。前提・後続の詳細とゲーム内の実際の出現を確認してください。"
+      },
+      "targetQuestId": "permit-elderfrost-g1-recipe-299158",
+      "sourceUrls": [
+        "http://wiki.mhxg.org/ida/288293.html",
+        "http://wiki.mhxg.org/ida/299158.html"
+      ],
+      "reason": "実在する固定IDを収録し前提・逆引きへ接続したため、古い未収録注記のみ訂正。名称・種類・解放内容・既存前提式は保持。"
+    },
+    {
+      "questId": "g-rank-3-recipe-299022",
+      "name": "巨獣流狩人道場",
+      "kind": "other",
+      "label": "【特殊許可】銀嶺捕獲依頼G1（出現前提）",
+      "before": {
+        "kind": "other",
+        "label": "【特殊許可】銀嶺捕獲依頼G1（出現前提）",
+        "note": "未収録クエストの出現前提の一つ。その他の受注条件・実際の出現はゲーム内で確認してください。"
+      },
+      "after": {
+        "kind": "other",
+        "label": "【特殊許可】銀嶺捕獲依頼G1（出現前提）",
+        "note": "収録済みの特殊許可クエストの出現前提の一つ。他の受注条件・自分の段階進行も必要です。前提・後続の詳細とゲーム内の実際の出現を確認してください。"
+      },
+      "targetQuestId": "permit-elderfrost-g1-recipe-299158",
+      "sourceUrls": [
+        "http://wiki.mhxg.org/ida/299022.html",
+        "http://wiki.mhxg.org/ida/299158.html"
+      ],
+      "reason": "実在する固定IDを収録し前提・逆引きへ接続したため、古い未収録注記のみ訂正。名称・種類・解放内容・既存前提式は保持。"
+    },
+    {
+      "questId": "g-rank-3-recipe-299023",
+      "name": "月下雷鳴の記憶",
+      "kind": "other",
+      "label": "【特殊許可】金雷公捕獲依頼G1（出現前提）",
+      "before": {
+        "kind": "other",
+        "label": "【特殊許可】金雷公捕獲依頼G1（出現前提）",
+        "note": "未収録クエストの出現前提の一つ。その他の受注条件・実際の出現はゲーム内で確認してください。"
+      },
+      "after": {
+        "kind": "other",
+        "label": "【特殊許可】金雷公捕獲依頼G1（出現前提）",
+        "note": "収録済みの特殊許可クエストの出現前提の一つ。他の受注条件・自分の段階進行も必要です。前提・後続の詳細とゲーム内の実際の出現を確認してください。"
+      },
+      "targetQuestId": "permit-thunderlord-g1-recipe-309865",
+      "sourceUrls": [
+        "http://wiki.mhxg.org/ida/299023.html",
+        "http://wiki.mhxg.org/ida/309865.html"
+      ],
+      "reason": "実在する固定IDを収録し前提・逆引きへ接続したため、古い未収録注記のみ訂正。名称・種類・解放内容・既存前提式は保持。"
+    },
+    {
+      "questId": "g-rank-3-recipe-299024",
+      "name": "泡狐竜流狩人道場",
+      "kind": "other",
+      "label": "【特殊許可】天眼捕獲依頼G1（出現前提）",
+      "before": {
+        "kind": "other",
+        "label": "【特殊許可】天眼捕獲依頼G1（出現前提）",
+        "note": "未収録クエストの出現前提の一つ。その他の受注条件・実際の出現はゲーム内で確認してください。"
+      },
+      "after": {
+        "kind": "other",
+        "label": "【特殊許可】天眼捕獲依頼G1（出現前提）",
+        "note": "収録済みの特殊許可クエストの出現前提の一つ。他の受注条件・自分の段階進行も必要です。前提・後続の詳細とゲーム内の実際の出現を確認してください。"
+      },
+      "targetQuestId": "permit-soulseer-g1-recipe-299157",
+      "sourceUrls": [
+        "http://wiki.mhxg.org/ida/299024.html",
+        "http://wiki.mhxg.org/ida/299157.html"
+      ],
+      "reason": "実在する固定IDを収録し前提・逆引きへ接続したため、古い未収録注記のみ訂正。名称・種類・解放内容・既存前提式は保持。"
+    },
+    {
+      "questId": "g-rank-3-recipe-299027",
+      "name": "電竜流狩人道場",
+      "kind": "other",
+      "label": "【特殊許可】青電主捕獲依頼G1（出現前提）",
+      "before": {
+        "kind": "other",
+        "label": "【特殊許可】青電主捕獲依頼G1（出現前提）",
+        "note": "未収録クエストの出現前提の一つ。その他の受注条件・実際の出現はゲーム内で確認してください。"
+      },
+      "after": {
+        "kind": "other",
+        "label": "【特殊許可】青電主捕獲依頼G1（出現前提）",
+        "note": "収録済みの特殊許可クエストの出現前提の一つ。他の受注条件・自分の段階進行も必要です。前提・後続の詳細とゲーム内の実際の出現を確認してください。"
+      },
+      "targetQuestId": "permit-boltreaver-g1-recipe-299154",
+      "sourceUrls": [
+        "http://wiki.mhxg.org/ida/299027.html",
+        "http://wiki.mhxg.org/ida/299154.html"
+      ],
+      "reason": "実在する固定IDを収録し前提・逆引きへ接続したため、古い未収録注記のみ訂正。名称・種類・解放内容・既存前提式は保持。"
+    },
+    {
+      "questId": "g-rank-3-recipe-299028",
+      "name": "トラウマガンキンを退治せよ",
+      "kind": "other",
+      "label": "【特殊許可】宝纏捕獲依頼G1（出現前提）",
+      "before": {
+        "kind": "other",
+        "label": "【特殊許可】宝纏捕獲依頼G1（出現前提）",
+        "note": "未収録クエストの出現前提の一つ。その他の受注条件・実際の出現はゲーム内で確認してください。"
+      },
+      "after": {
+        "kind": "other",
+        "label": "【特殊許可】宝纏捕獲依頼G1（出現前提）",
+        "note": "収録済みの特殊許可クエストの出現前提の一つ。他の受注条件・自分の段階進行も必要です。前提・後続の詳細とゲーム内の実際の出現を確認してください。"
+      },
+      "targetQuestId": "permit-crystalbeard-g1-recipe-299148",
+      "sourceUrls": [
+        "http://wiki.mhxg.org/ida/299028.html",
+        "http://wiki.mhxg.org/ida/299148.html"
+      ],
+      "reason": "実在する固定IDを収録し前提・逆引きへ接続したため、古い未収録注記のみ訂正。名称・種類・解放内容・既存前提式は保持。"
+    }
+  ]
 }

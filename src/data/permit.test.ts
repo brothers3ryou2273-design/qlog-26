@@ -67,3 +67,48 @@ it("new G1 alternatives are OR, while Bloodbath preserves all five G1s, final ur
  expect(JSON.stringify(blood.condition)).toContain('クエスト1回');
  expect(blood.unlocks.filter(u=>u.label.includes('特別入手'))).toHaveLength(2);
 });
+
+import indicators from "./unlock-indicators.json";
+import baseline from "../../docs/progress-baseline-939.json";
+import connections from "../../docs/permit-connections.json";
+import { parseSave, SAVE_KEY } from "../lib/storage";
+it("keeps all 939 IDs, unlock facts and prerequisite expressions, allowing only audited note updates",async()=>{
+ expect(baseline).toHaveLength(939);
+ for(const b of baseline){
+  const q=quests.find(q=>q.id===b.id)!;
+  expect([q.name,q.category,q.rank,q.sources[0].url]).toEqual([b.name,b.category,b.rank,b.recipeUrl]);
+  expect(q.unlocks).toEqual(b.unlocks.map(u=>connections.unlockNoteChanges.find(c=>c.questId===b.id&&c.kind===u.kind&&c.label===u.label)?.after??u));
+  const canonical=JSON.stringify(q.condition,['kind','label','note','questId','rules','value']);
+  const digest=await crypto.subtle.digest('SHA-256',new TextEncoder().encode(canonical));
+  expect([...new Uint8Array(digest)].map(x=>x.toString(16).padStart(2,'0')).join('')).toBe(b.conditionSha256);
+ }
+ expect(SAVE_KEY).toBe('qlog.mhxx.progress.v1');
+ const old={schemaVersion:1 as const,hr:100,completedQuestIds:[...baseline.map(q=>q.id),'future-permit-id']};
+ expect(parseSave(JSON.stringify(old))).toEqual(old);
+ const added={...old,completedQuestIds:[...old.completedQuestIds,...quests.filter(q=>q.category==='permit').map(q=>q.id)]};
+ expect(parseSave(JSON.stringify(added))).toEqual(added);
+});
+it("every old special-permit reference now has a sourced fixed-ID backlink without becoming a reward badge",()=>{
+ expect(connections.unlockNoteChanges).toHaveLength(42);
+ for(const c of connections.unlockNoteChanges){
+  const parent=quests.find(q=>q.id===c.questId)!,child=quests.find(q=>q.id===c.targetQuestId)!;
+  expect(parent.unlocks).toContainEqual(c.after);
+  expect([c.before.kind,c.before.label]).toEqual([c.after.kind,c.after.label]);
+  expect(c.before.note).toContain('未収録');
+  expect(c.after.note).not.toContain('未収録');
+  expect(references(child.condition)).toContain(parent.id);
+  expect(dependents(parent.id,quests)).toContain(child);
+  expect(hasUnlockIndicator({...parent,unlocks:[c.after]})).toBe(indicators.confirmedMarkers.includes(parent.id));
+ }
+});
+it("open G-rank Rath conditions accept known candidates and preserve other paths without forcing an AND",()=>{
+ const named=(rank:string,stage:string)=>quests.find(q=>q.category==='permit'&&q.rank===rank&&q.permitStage===stage)!;
+ for(const group of ['紫毒姫','黒炎王']){
+  const q=named(group,'G1'),level10=named(group,'LV10');
+  const refs=references(q.condition).filter(id=>id!==level10.id);
+  expect(refs.length).toBeGreaterThan(0);
+  for(const id of refs)expect(evaluate(q.condition,{schemaVersion:1,completedQuestIds:[level10.id,id],hr:999})).toBe('met');
+  expect(evaluate(q.condition,{schemaVersion:1,completedQuestIds:[level10.id],hr:999})).toBe('unknown');
+  expect(evaluate(q.condition,{schemaVersion:1,completedQuestIds:refs,hr:999})).toBe('unmet');
+ }
+});
