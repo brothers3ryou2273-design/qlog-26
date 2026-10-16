@@ -1,0 +1,706 @@
+{
+  "category": "arena",
+  "sourceUrl": "http://wiki.mhxg.org/data/2035.html",
+  "observedCount": 17,
+  "checkedAt": "2026-10-16",
+  "listHtmlSha256": "3a28b5c76c4001310c09b48b49c12fe4f7d47fbc3bf055cbf230c36f6e75bb6d",
+  "entries": [
+    {
+      "key": "arena",
+      "rank": "全ランク",
+      "order": 1,
+      "listName": "ホロロホルル討伐",
+      "listUrl": "http://wiki.mhxg.org/data/2035.html",
+      "url": "http://wiki.mhxg.org/ida/218340.html",
+      "icons": [
+        "討伐"
+      ],
+      "name": "ホロロホルル討伐",
+      "detailTitle": "闘技大会★ホロロホルル討伐 | 【MHXX】モンハンダブルクロス攻略レシピ",
+      "panels": [
+        {
+          "title": "備考",
+          "text": "2人以下",
+          "links": []
+        }
+      ],
+      "targets": [
+        "ホロロホルル"
+      ],
+      "questId": "arena-recipe-218340",
+      "role": "hunter",
+      "tags": [
+        "normal"
+      ],
+      "condition": {
+        "kind": "unknown",
+        "note": "この闘技大会の出現前提は未確認。攻略レシピ個別には人数・一部のHR以外の記載がなく、補助一覧も取得内容が空でした。"
+      },
+      "httpStatus": 200,
+      "checkedAt": "2026-10-16",
+      "detailHtmlSha256": "0b654e8e51d1bc8c03268dee9dde1e50dfae7213fd108847c90385d3c2b9aea0"
+    },
+    {
+      "key": "arena",
+      "rank": "全ランク",
+      "order": 2,
+      "listName": "フルフル討伐",
+      "listUrl": "http://wiki.mhxg.org/data/2035.html",
+      "url": "http://wiki.mhxg.org/ida/238253.html",
+      "icons": [
+        "討伐"
+      ],
+      "name": "フルフル討伐",
+      "detailTitle": "闘技大会★フルフル討伐 | 【MHXX】モンハンダブルクロス攻略レシピ",
+      "panels": [
+        {
+          "title": "備考",
+          "text": "2人以下",
+          "links": []
+        }
+      ],
+      "targets": [
+        "フルフル"
+      ],
+      "questId": "arena-recipe-238253",
+      "role": "hunter",
+      "tags": [
+        "normal"
+      ],
+      "condition": {
+        "kind": "unknown",
+        "note": "この闘技大会の出現前提は未確認。攻略レシピ個別には人数・一部のHR以外の記載がなく、補助一覧も取得内容が空でした。"
+      },
+      "httpStatus": 200,
+      "checkedAt": "2026-10-16",
+      "detailHtmlSha256": "d7ca3a0dd561b399a3c9d83b569b2b4350188ae02b68180804f771a2bf68d3cc"
+    },
+    {
+      "key": "arena",
+      "rank": "全ランク",
+      "order": 3,
+      "listName": "ガララアジャラ討伐",
+      "listUrl": "http://wiki.mhxg.org/data/2035.html",
+      "url": "http://wiki.mhxg.org/ida/238254.html",
+      "icons": [
+        "討伐",
+        "狩技"
+      ],
+      "name": "ガララアジャラ討伐",
+      "detailTitle": "闘技大会★ガララアジャラ討伐 | 【MHXX】モンハンダブルクロス攻略レシピ",
+      "panels": [
+        {
+          "title": "備考",
+          "text": "2人以下",
+          "links": []
+        },
+        {
+          "title": "狩技開放",
+          "text": "音撃震 LV2",
+          "links": [
+            {
+              "label": "音撃震",
+              "url": "http://wiki.mhxg.org/data/1847.html#id268618"
+            }
+          ]
+        }
+      ],
+      "targets": [
+        "ガララアジャラ"
+      ],
+      "questId": "arena-recipe-238254",
+      "role": "hunter",
+      "tags": [
+        "normal"
+      ],
+      "condition": {
+        "kind": "unknown",
+        "note": "この闘技大会の出現前提は未確認。攻略レシピ個別には人数・一部のHR以外の記載がなく、補助一覧も取得内容が空でした。"
+      },
+      "httpStatus": 200,
+      "checkedAt": "2026-10-16",
+      "detailHtmlSha256": "84234d6e258172c3ae3b4754d922459541b7b3ed8454be96496e88aec11f7a03"
+    },
+    {
+      "key": "arena",
+      "rank": "全ランク",
+      "order": 4,
+      "listName": "リオレウス討伐",
+      "listUrl": "http://wiki.mhxg.org/data/2035.html",
+      "url": "http://wiki.mhxg.org/ida/238255.html",
+      "icons": [
+        "討伐"
+      ],
+      "name": "リオレウス討伐",
+      "detailTitle": "闘技大会★リオレウス討伐 | 【MHXX】モンハンダブルクロス攻略レシピ",
+      "panels": [
+        {
+          "title": "備考",
+          "text": "2人以下",
+          "links": []
+        }
+      ],
+      "targets": [
+        "リオレウス"
+      ],
+      "questId": "arena-recipe-238255",
+      "role": "hunter",
+      "tags": [
+        "normal"
+      ],
+      "condition": {
+        "kind": "unknown",
+        "note": "この闘技大会の出現前提は未確認。攻略レシピ個別には人数・一部のHR以外の記載がなく、補助一覧も取得内容が空でした。"
+      },
+      "httpStatus": 200,
+      "checkedAt": "2026-10-16",
+      "detailHtmlSha256": "9c4c984b5854fba01cf8ed116ed2881cc66ff59127e4e3b06752e74039ff5c86"
+    },
+    {
+      "key": "arena",
+      "rank": "全ランク",
+      "order": 5,
+      "listName": "ケチャワチャ討伐",
+      "listUrl": "http://wiki.mhxg.org/data/2035.html",
+      "url": "http://wiki.mhxg.org/ida/238256.html",
+      "icons": [
+        "討伐",
+        "狩技"
+      ],
+      "name": "ケチャワチャ討伐",
+      "detailTitle": "闘技大会★ケチャワチャ討伐 | 【MHXX】モンハンダブルクロス攻略レシピ",
+      "panels": [
+        {
+          "title": "備考",
+          "text": "2人以下 HR4以上",
+          "links": []
+        },
+        {
+          "title": "狩技開放",
+          "text": "アクセルレイン LV2",
+          "links": [
+            {
+              "label": "アクセルレイン",
+              "url": "http://wiki.mhxg.org/data/1847.html#id268690"
+            }
+          ]
+        }
+      ],
+      "targets": [
+        "ケチャワチャ"
+      ],
+      "questId": "arena-recipe-238256",
+      "role": "hunter",
+      "tags": [
+        "normal"
+      ],
+      "condition": {
+        "kind": "all",
+        "rules": [
+          {
+            "kind": "hr_at_least",
+            "value": 4
+          },
+          {
+            "kind": "unknown",
+            "note": "この闘技大会の出現前提は未確認。攻略レシピ個別には人数・一部のHR以外の記載がなく、補助一覧も取得内容が空でした。"
+          }
+        ]
+      },
+      "httpStatus": 200,
+      "checkedAt": "2026-10-16",
+      "detailHtmlSha256": "becc8350f6af9f6d4fa789f5a8880de528bb7ace1eb537a81aecf56c67c54bf6"
+    },
+    {
+      "key": "arena",
+      "rank": "全ランク",
+      "order": 6,
+      "listName": "ガノトトス討伐",
+      "listUrl": "http://wiki.mhxg.org/data/2035.html",
+      "url": "http://wiki.mhxg.org/ida/238257.html",
+      "icons": [
+        "討伐"
+      ],
+      "name": "ガノトトス討伐",
+      "detailTitle": "闘技大会★ガノトトス討伐 | 【MHXX】モンハンダブルクロス攻略レシピ",
+      "panels": [
+        {
+          "title": "備考",
+          "text": "2人以下 HR4以上",
+          "links": []
+        }
+      ],
+      "targets": [
+        "ガノトトス"
+      ],
+      "questId": "arena-recipe-238257",
+      "role": "hunter",
+      "tags": [
+        "normal"
+      ],
+      "condition": {
+        "kind": "all",
+        "rules": [
+          {
+            "kind": "hr_at_least",
+            "value": 4
+          },
+          {
+            "kind": "unknown",
+            "note": "この闘技大会の出現前提は未確認。攻略レシピ個別には人数・一部のHR以外の記載がなく、補助一覧も取得内容が空でした。"
+          }
+        ]
+      },
+      "httpStatus": 200,
+      "checkedAt": "2026-10-16",
+      "detailHtmlSha256": "3cdcfa99e9112bcb92ce04d1b3d21e0496de04523133ccf72bdd710582462c96"
+    },
+    {
+      "key": "arena",
+      "rank": "全ランク",
+      "order": 7,
+      "listName": "ブラキディオス討伐",
+      "listUrl": "http://wiki.mhxg.org/data/2035.html",
+      "url": "http://wiki.mhxg.org/ida/267307.html",
+      "icons": [
+        "討伐"
+      ],
+      "name": "ブラキディオス討伐",
+      "detailTitle": "闘技大会★ブラキディオス討伐 | 【MHXX】モンハンダブルクロス攻略レシピ",
+      "panels": [
+        {
+          "title": "備考",
+          "text": "2人以下 HR4以上",
+          "links": []
+        }
+      ],
+      "targets": [
+        "ブラキディオス"
+      ],
+      "questId": "arena-recipe-267307",
+      "role": "hunter",
+      "tags": [
+        "normal"
+      ],
+      "condition": {
+        "kind": "all",
+        "rules": [
+          {
+            "kind": "hr_at_least",
+            "value": 4
+          },
+          {
+            "kind": "unknown",
+            "note": "この闘技大会の出現前提は未確認。攻略レシピ個別には人数・一部のHR以外の記載がなく、補助一覧も取得内容が空でした。"
+          }
+        ]
+      },
+      "httpStatus": 200,
+      "checkedAt": "2026-10-16",
+      "detailHtmlSha256": "1e11334a32791bbf892e43275743298d4770422900b73a176c6bd09ab3c823e9"
+    },
+    {
+      "key": "arena",
+      "rank": "全ランク",
+      "order": 8,
+      "listName": "ベリオロス討伐",
+      "listUrl": "http://wiki.mhxg.org/data/2035.html",
+      "url": "http://wiki.mhxg.org/ida/322498.html",
+      "icons": [
+        "討伐"
+      ],
+      "name": "ベリオロス討伐",
+      "detailTitle": "闘技大会★ベリオロス討伐 | 【MHXX】モンハンダブルクロス攻略レシピ",
+      "panels": [
+        {
+          "title": "備考",
+          "text": "2人以下",
+          "links": []
+        }
+      ],
+      "targets": [
+        "ベリオロス"
+      ],
+      "questId": "arena-recipe-322498",
+      "role": "hunter",
+      "tags": [
+        "normal"
+      ],
+      "condition": {
+        "kind": "none"
+      },
+      "httpStatus": 200,
+      "checkedAt": "2026-10-16",
+      "detailHtmlSha256": "ea8b00b56553f03309187b6ea9bb2514e818810b24fc07970ed76a6b2d8c610c"
+    },
+    {
+      "key": "arena",
+      "rank": "全ランク",
+      "order": 9,
+      "listName": "イャンガルルガ討伐",
+      "listUrl": "http://wiki.mhxg.org/data/2035.html",
+      "url": "http://wiki.mhxg.org/ida/322499.html",
+      "icons": [
+        "討伐"
+      ],
+      "name": "イャンガルルガ討伐",
+      "detailTitle": "闘技大会★イャンガルルガ討伐 | 【MHXX】モンハンダブルクロス攻略レシピ",
+      "panels": [
+        {
+          "title": "備考",
+          "text": "2人以下 HR9以上",
+          "links": []
+        }
+      ],
+      "targets": [
+        "イャンガルルガ"
+      ],
+      "questId": "arena-recipe-322499",
+      "role": "hunter",
+      "tags": [
+        "normal"
+      ],
+      "condition": {
+        "kind": "all",
+        "rules": [
+          {
+            "kind": "hr_at_least",
+            "value": 9
+          },
+          {
+            "kind": "quest_cleared",
+            "questId": "g-rank-2-recipe-286212"
+          }
+        ]
+      },
+      "httpStatus": 200,
+      "checkedAt": "2026-10-16",
+      "detailHtmlSha256": "82ffc59741a8c11a7043bef6064a7ceb6eebd018b2d6c2adc60755aaf4099657"
+    },
+    {
+      "key": "arena",
+      "rank": "全ランク",
+      "order": 10,
+      "listName": "ウラガンキン討伐",
+      "listUrl": "http://wiki.mhxg.org/data/2035.html",
+      "url": "http://wiki.mhxg.org/ida/322500.html",
+      "icons": [
+        "討伐"
+      ],
+      "name": "ウラガンキン討伐",
+      "detailTitle": "闘技大会★ウラガンキン討伐 | 【MHXX】モンハンダブルクロス攻略レシピ",
+      "panels": [
+        {
+          "title": "備考",
+          "text": "2人以下 HR9以上",
+          "links": []
+        }
+      ],
+      "targets": [
+        "ウラガンキン"
+      ],
+      "questId": "arena-recipe-322500",
+      "role": "hunter",
+      "tags": [
+        "normal"
+      ],
+      "condition": {
+        "kind": "all",
+        "rules": [
+          {
+            "kind": "hr_at_least",
+            "value": 9
+          },
+          {
+            "kind": "quest_cleared",
+            "questId": "g-rank-3-recipe-299016"
+          }
+        ]
+      },
+      "httpStatus": 200,
+      "checkedAt": "2026-10-16",
+      "detailHtmlSha256": "13c0c132f4558011dd104dead4206744efc7b523da9ccee5746fcf25b7a61d6a"
+    },
+    {
+      "key": "arena",
+      "rank": "全ランク",
+      "order": 11,
+      "listName": "セルレギオス討伐",
+      "listUrl": "http://wiki.mhxg.org/data/2035.html",
+      "url": "http://wiki.mhxg.org/ida/322501.html",
+      "icons": [
+        "討伐"
+      ],
+      "name": "セルレギオス討伐",
+      "detailTitle": "闘技大会★セルレギオス討伐 | 【MHXX】モンハンダブルクロス攻略レシピ",
+      "panels": [
+        {
+          "title": "備考",
+          "text": "2人以下 HR9以上",
+          "links": []
+        }
+      ],
+      "targets": [
+        "セルレギオス"
+      ],
+      "questId": "arena-recipe-322501",
+      "role": "hunter",
+      "tags": [
+        "normal"
+      ],
+      "condition": {
+        "kind": "all",
+        "rules": [
+          {
+            "kind": "hr_at_least",
+            "value": 9
+          },
+          {
+            "kind": "quest_cleared",
+            "questId": "g-rank-4-recipe-299061"
+          }
+        ]
+      },
+      "httpStatus": 200,
+      "checkedAt": "2026-10-16",
+      "detailHtmlSha256": "f63c6f58c9f7787eb22ad6f40c8350e3eb655cc045b4fb2bd4ffd8a10273e65e"
+    },
+    {
+      "key": "arena",
+      "rank": "全ランク",
+      "order": 12,
+      "listName": "ドスマッカォ討伐",
+      "listUrl": "http://wiki.mhxg.org/data/2035.html",
+      "url": "http://wiki.mhxg.org/ida/218341.html",
+      "icons": [
+        "ニャンター"
+      ],
+      "name": "ドスマッカォ討伐",
+      "detailTitle": "闘技大会★ドスマッカォ討伐 | 【MHXX】モンハンダブルクロス攻略レシピ",
+      "panels": [
+        {
+          "title": "備考",
+          "text": "2人以下",
+          "links": []
+        }
+      ],
+      "targets": [
+        "ドスマッカォ"
+      ],
+      "questId": "arena-recipe-218341",
+      "role": "prowler",
+      "tags": [
+        "normal"
+      ],
+      "condition": {
+        "kind": "unknown",
+        "note": "この闘技大会の出現前提は未確認。攻略レシピ個別には人数・一部のHR以外の記載がなく、補助一覧も取得内容が空でした。"
+      },
+      "httpStatus": 200,
+      "checkedAt": "2026-10-16",
+      "detailHtmlSha256": "32f5925d626282899f5051e6895dfa09ee44293373aa4f1636f94e30193f236b"
+    },
+    {
+      "key": "arena",
+      "rank": "全ランク",
+      "order": 13,
+      "listName": "ゲリョス討伐",
+      "listUrl": "http://wiki.mhxg.org/data/2035.html",
+      "url": "http://wiki.mhxg.org/ida/238258.html",
+      "icons": [
+        "ニャンター"
+      ],
+      "name": "ゲリョス討伐",
+      "detailTitle": "闘技大会★ゲリョス討伐 | 【MHXX】モンハンダブルクロス攻略レシピ",
+      "panels": [
+        {
+          "title": "備考",
+          "text": "2人以下",
+          "links": []
+        }
+      ],
+      "targets": [
+        "ゲリョス"
+      ],
+      "questId": "arena-recipe-238258",
+      "role": "prowler",
+      "tags": [
+        "normal"
+      ],
+      "condition": {
+        "kind": "unknown",
+        "note": "この闘技大会の出現前提は未確認。攻略レシピ個別には人数・一部のHR以外の記載がなく、補助一覧も取得内容が空でした。"
+      },
+      "httpStatus": 200,
+      "checkedAt": "2026-10-16",
+      "detailHtmlSha256": "52065d9eb5661e26af2d9817e2e9b4e3f6bbfe4170d52d9035b2f9acf5e50078"
+    },
+    {
+      "key": "arena",
+      "rank": "全ランク",
+      "order": 14,
+      "listName": "鳥竜種２頭討伐",
+      "listUrl": "http://wiki.mhxg.org/data/2035.html",
+      "url": "http://wiki.mhxg.org/ida/238259.html",
+      "icons": [
+        "ニャンター"
+      ],
+      "name": "鳥竜種２頭討伐",
+      "detailTitle": "闘技大会★鳥竜種２頭討伐 | 【MHXX】モンハンダブルクロス攻略レシピ",
+      "panels": [
+        {
+          "title": "備考",
+          "text": "2人以下 HR4以上",
+          "links": []
+        }
+      ],
+      "targets": [
+        "ドスゲネポス",
+        "ドスイーオス"
+      ],
+      "questId": "arena-recipe-238259",
+      "role": "prowler",
+      "tags": [
+        "normal"
+      ],
+      "condition": {
+        "kind": "all",
+        "rules": [
+          {
+            "kind": "hr_at_least",
+            "value": 4
+          },
+          {
+            "kind": "unknown",
+            "note": "この闘技大会の出現前提は未確認。攻略レシピ個別には人数・一部のHR以外の記載がなく、補助一覧も取得内容が空でした。"
+          }
+        ]
+      },
+      "httpStatus": 200,
+      "checkedAt": "2026-10-16",
+      "detailHtmlSha256": "32c75ad90c077bad26ba4d32c7a16c56f6c5f65b5af83791956aef84a95db916"
+    },
+    {
+      "key": "arena",
+      "rank": "全ランク",
+      "order": 15,
+      "listName": "ボルボロス討伐",
+      "listUrl": "http://wiki.mhxg.org/data/2035.html",
+      "url": "http://wiki.mhxg.org/ida/322502.html",
+      "icons": [
+        "ニャンター"
+      ],
+      "name": "ボルボロス討伐",
+      "detailTitle": "闘技大会★ボルボロス討伐 | 【MHXX】モンハンダブルクロス攻略レシピ",
+      "panels": [
+        {
+          "title": "備考",
+          "text": "2人以下",
+          "links": []
+        }
+      ],
+      "targets": [
+        "ボルボロス"
+      ],
+      "questId": "arena-recipe-322502",
+      "role": "prowler",
+      "tags": [
+        "normal"
+      ],
+      "condition": {
+        "kind": "none"
+      },
+      "httpStatus": 200,
+      "checkedAt": "2026-10-16",
+      "detailHtmlSha256": "66c3b2f7c5a35761a3f2c7090ee8b423c2ba5af801a9d69a72192d8b7ff99111"
+    },
+    {
+      "key": "arena",
+      "rank": "全ランク",
+      "order": 16,
+      "listName": "テツカブラ討伐",
+      "listUrl": "http://wiki.mhxg.org/data/2035.html",
+      "url": "http://wiki.mhxg.org/ida/322503.html",
+      "icons": [
+        "ニャンター"
+      ],
+      "name": "テツカブラ討伐",
+      "detailTitle": "闘技大会★テツカブラ討伐 | 【MHXX】モンハンダブルクロス攻略レシピ",
+      "panels": [
+        {
+          "title": "備考",
+          "text": "2人以下 HR4以上",
+          "links": []
+        }
+      ],
+      "targets": [
+        "テツカブラ"
+      ],
+      "questId": "arena-recipe-322503",
+      "role": "prowler",
+      "tags": [
+        "normal"
+      ],
+      "condition": {
+        "kind": "all",
+        "rules": [
+          {
+            "kind": "hr_at_least",
+            "value": 4
+          },
+          {
+            "kind": "quest_cleared",
+            "questId": "g-rank-1-recipe-286189"
+          }
+        ]
+      },
+      "httpStatus": 200,
+      "checkedAt": "2026-10-16",
+      "detailHtmlSha256": "b53015a2f80f4ac5d016c22c218c2089c2c428523ce01cabd17f84898d78b45c"
+    },
+    {
+      "key": "arena",
+      "rank": "全ランク",
+      "order": 17,
+      "listName": "ババコンガ討伐",
+      "listUrl": "http://wiki.mhxg.org/data/2035.html",
+      "url": "http://wiki.mhxg.org/ida/322504.html",
+      "icons": [
+        "ニャンター"
+      ],
+      "name": "ババコンガ討伐",
+      "detailTitle": "闘技大会★ババコンガ討伐 | 【MHXX】モンハンダブルクロス攻略レシピ",
+      "panels": [
+        {
+          "title": "備考",
+          "text": "2人以下 HR4以上",
+          "links": []
+        }
+      ],
+      "targets": [
+        "ババコンガ"
+      ],
+      "questId": "arena-recipe-322504",
+      "role": "prowler",
+      "tags": [
+        "normal"
+      ],
+      "condition": {
+        "kind": "all",
+        "rules": [
+          {
+            "kind": "hr_at_least",
+            "value": 4
+          },
+          {
+            "kind": "quest_cleared",
+            "questId": "g-rank-2-recipe-288286"
+          }
+        ]
+      },
+      "httpStatus": 200,
+      "checkedAt": "2026-10-16",
+      "detailHtmlSha256": "ef84cbb1c6181eb2e8f91fddea9588eace3e0c332db70c652f2d8b2747118a8f"
+    }
+  ]
+}

@@ -23,6 +23,17 @@ export type Quest = {
   order: number;
   /** Display-only special-permit stage; unrelated to saved progress or QuestTag. */
   permitStage?: string;
+  /** Read-only arena facts; grades, times and equipment choices are never saved. */
+  arenaInfo?: {
+    targets: string[];
+    difficulty?: string;
+    weapons?: string[];
+    supportTypes?: string[];
+    evaluationNotation?: string;
+    participantLimit: string;
+    rewardMaterials: string[];
+    notes?: string[];
+  };
   role: "hunter" | "prowler" | "either";
   tags: QuestTag[];
   condition: Rule;

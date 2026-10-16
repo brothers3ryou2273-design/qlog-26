@@ -49,6 +49,8 @@ import eventHigh from "./event-high.json";
 
 import eventG from "./event-g.json";
 
+import arena from "./arena.json";
+
 // IDは表示名・参照元・並び順が変わっても固定。旧14件のg8由来IDも維持する。
 export const quests: Quest[] = [
   ...village1,
@@ -93,6 +95,7 @@ export const quests: Quest[] = [
   ...eventLow,
   ...eventHigh,
   ...eventG,
+  ...arena,
 ] as Quest[];
 export const dataStatus = {
   complete: false,

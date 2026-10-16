@@ -203,7 +203,9 @@ it("restores and reexports all old checks, HR, unknown IDs and independent event
 it("covers the three independently observed source sets and keeps their published classification", () => {
   expect(rosters.map((r) => r.observedCount)).toEqual([11, 84, 49]);
   expect(quests.filter((q) => q.category === "event")).toHaveLength(144);
-  expect(quests).toHaveLength(1311);
+  expect(
+    quests.filter((q) => q.category !== "arena" && q.category !== "challenge"),
+  ).toHaveLength(1311);
   expect(
     rosters.map((r) => r.entries.filter((q) => q.role === "prowler").length),
   ).toEqual([6, 11, 7]);

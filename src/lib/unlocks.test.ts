@@ -4,11 +4,13 @@ import { quests } from "../data/quests";
 import legacyAudit from "../../docs/unlock-indicators-audit.json";
 import permitAudit from "../../docs/permit-unlock-indicators-audit.json";
 import eventAudit from "../../docs/event-unlock-indicators-audit.json";
+import arenaAudit from "../../docs/arena-unlock-indicators-audit.json";
 const audit = {
   otherEntries: [
     ...legacyAudit.otherEntries,
     ...permitAudit.otherEntries,
     ...eventAudit.otherEntries,
+    ...arenaAudit.otherEntries,
   ],
   confirmedMarkers: legacyAudit.confirmedMarkers,
 };
