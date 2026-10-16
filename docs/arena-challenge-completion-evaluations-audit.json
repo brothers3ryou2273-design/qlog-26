@@ -1,0 +1,266 @@
+{
+  "checkedAt": "2026-10-16",
+  "entries": [
+    {
+      "questId": "arena-recipe-218340",
+      "previousNotation": null,
+      "decision": "unresolved",
+      "newNotation": null,
+      "reason": "新たなS/A/B評価基準資料は未取得。TA・大会の実績値から補完しない。等号・境界を推定しない。"
+    },
+    {
+      "questId": "arena-recipe-238253",
+      "previousNotation": null,
+      "decision": "unresolved",
+      "newNotation": null,
+      "reason": "新たなS/A/B評価基準資料は未取得。TA・大会の実績値から補完しない。等号・境界を推定しない。"
+    },
+    {
+      "questId": "arena-recipe-238254",
+      "previousNotation": null,
+      "decision": "unresolved",
+      "newNotation": null,
+      "reason": "新たなS/A/B評価基準資料は未取得。TA・大会の実績値から補完しない。等号・境界を推定しない。"
+    },
+    {
+      "questId": "arena-recipe-238255",
+      "previousNotation": null,
+      "decision": "unresolved",
+      "newNotation": null,
+      "reason": "新たなS/A/B評価基準資料は未取得。TA・大会の実績値から補完しない。等号・境界を推定しない。"
+    },
+    {
+      "questId": "arena-recipe-238256",
+      "previousNotation": null,
+      "decision": "unresolved",
+      "newNotation": null,
+      "reason": "新たなS/A/B評価基準資料は未取得。TA・大会の実績値から補完しない。等号・境界を推定しない。"
+    },
+    {
+      "questId": "arena-recipe-238257",
+      "previousNotation": null,
+      "decision": "unresolved",
+      "newNotation": null,
+      "reason": "新たなS/A/B評価基準資料は未取得。TA・大会の実績値から補完しない。等号・境界を推定しない。"
+    },
+    {
+      "questId": "arena-recipe-267307",
+      "previousNotation": null,
+      "decision": "unresolved",
+      "newNotation": null,
+      "reason": "新たなS/A/B評価基準資料は未取得。TA・大会の実績値から補完しない。等号・境界を推定しない。"
+    },
+    {
+      "questId": "arena-recipe-322498",
+      "previousNotation": null,
+      "decision": "unresolved",
+      "newNotation": null,
+      "reason": "新たなS/A/B評価基準資料は未取得。TA・大会の実績値から補完しない。等号・境界を推定しない。"
+    },
+    {
+      "questId": "arena-recipe-322499",
+      "previousNotation": null,
+      "decision": "unresolved",
+      "newNotation": null,
+      "reason": "新たなS/A/B評価基準資料は未取得。TA・大会の実績値から補完しない。等号・境界を推定しない。"
+    },
+    {
+      "questId": "arena-recipe-322500",
+      "previousNotation": null,
+      "decision": "unresolved",
+      "newNotation": null,
+      "reason": "新たなS/A/B評価基準資料は未取得。TA・大会の実績値から補完しない。等号・境界を推定しない。"
+    },
+    {
+      "questId": "arena-recipe-322501",
+      "previousNotation": null,
+      "decision": "unresolved",
+      "newNotation": null,
+      "reason": "新たなS/A/B評価基準資料は未取得。TA・大会の実績値から補完しない。等号・境界を推定しない。"
+    },
+    {
+      "questId": "arena-recipe-218341",
+      "previousNotation": "S5:00 A:10:00 B13:00",
+      "decision": "preserve_existing_notation",
+      "newNotation": null,
+      "reason": "新たなS/A/B評価基準資料は未取得。TA・大会の実績値から補完しない。等号・境界を推定しない。"
+    },
+    {
+      "questId": "arena-recipe-238258",
+      "previousNotation": "S5:00 A:10:00 B15:00",
+      "decision": "preserve_existing_notation",
+      "newNotation": null,
+      "reason": "新たなS/A/B評価基準資料は未取得。TA・大会の実績値から補完しない。等号・境界を推定しない。"
+    },
+    {
+      "questId": "arena-recipe-238259",
+      "previousNotation": "S5:00 A:10:00 B15:00",
+      "decision": "preserve_existing_notation",
+      "newNotation": null,
+      "reason": "新たなS/A/B評価基準資料は未取得。TA・大会の実績値から補完しない。等号・境界を推定しない。"
+    },
+    {
+      "questId": "arena-recipe-322502",
+      "previousNotation": "S5:00 A:09:00 B13:00",
+      "decision": "preserve_existing_notation",
+      "newNotation": null,
+      "reason": "新たなS/A/B評価基準資料は未取得。TA・大会の実績値から補完しない。等号・境界を推定しない。"
+    },
+    {
+      "questId": "arena-recipe-322503",
+      "previousNotation": "S5:00 A:10:00 B15:00",
+      "decision": "preserve_existing_notation",
+      "newNotation": null,
+      "reason": "新たなS/A/B評価基準資料は未取得。TA・大会の実績値から補完しない。等号・境界を推定しない。"
+    },
+    {
+      "questId": "arena-recipe-322504",
+      "previousNotation": "S7:00 A14:00 B20:00",
+      "decision": "preserve_existing_notation",
+      "newNotation": null,
+      "reason": "新たなS/A/B評価基準資料は未取得。TA・大会の実績値から補完しない。等号・境界を推定しない。"
+    },
+    {
+      "questId": "challenge-recipe-267308",
+      "previousNotation": null,
+      "decision": "unresolved",
+      "newNotation": null,
+      "reason": "新たなS/A/B評価基準資料は未取得。TA・大会の実績値から補完しない。等号・境界を推定しない。"
+    },
+    {
+      "questId": "challenge-recipe-267309",
+      "previousNotation": null,
+      "decision": "unresolved",
+      "newNotation": null,
+      "reason": "新たなS/A/B評価基準資料は未取得。TA・大会の実績値から補完しない。等号・境界を推定しない。"
+    },
+    {
+      "questId": "challenge-recipe-267310",
+      "previousNotation": null,
+      "decision": "unresolved",
+      "newNotation": null,
+      "reason": "新たなS/A/B評価基準資料は未取得。TA・大会の実績値から補完しない。等号・境界を推定しない。"
+    },
+    {
+      "questId": "challenge-recipe-267311",
+      "previousNotation": null,
+      "decision": "unresolved",
+      "newNotation": null,
+      "reason": "新たなS/A/B評価基準資料は未取得。TA・大会の実績値から補完しない。等号・境界を推定しない。"
+    },
+    {
+      "questId": "challenge-recipe-268860",
+      "previousNotation": null,
+      "decision": "unresolved",
+      "newNotation": null,
+      "reason": "新たなS/A/B評価基準資料は未取得。TA・大会の実績値から補完しない。等号・境界を推定しない。"
+    },
+    {
+      "questId": "challenge-recipe-268861",
+      "previousNotation": null,
+      "decision": "unresolved",
+      "newNotation": null,
+      "reason": "新たなS/A/B評価基準資料は未取得。TA・大会の実績値から補完しない。等号・境界を推定しない。"
+    },
+    {
+      "questId": "challenge-recipe-268862",
+      "previousNotation": null,
+      "decision": "unresolved",
+      "newNotation": null,
+      "reason": "新たなS/A/B評価基準資料は未取得。TA・大会の実績値から補完しない。等号・境界を推定しない。"
+    },
+    {
+      "questId": "challenge-recipe-268863",
+      "previousNotation": null,
+      "decision": "unresolved",
+      "newNotation": null,
+      "reason": "新たなS/A/B評価基準資料は未取得。TA・大会の実績値から補完しない。等号・境界を推定しない。"
+    },
+    {
+      "questId": "challenge-recipe-268864",
+      "previousNotation": null,
+      "decision": "unresolved",
+      "newNotation": null,
+      "reason": "新たなS/A/B評価基準資料は未取得。TA・大会の実績値から補完しない。等号・境界を推定しない。"
+    },
+    {
+      "questId": "challenge-recipe-268865",
+      "previousNotation": null,
+      "decision": "unresolved",
+      "newNotation": null,
+      "reason": "新たなS/A/B評価基準資料は未取得。TA・大会の実績値から補完しない。等号・境界を推定しない。"
+    },
+    {
+      "questId": "challenge-recipe-268866",
+      "previousNotation": "S7:00 A:14:00 B30:00",
+      "decision": "preserve_existing_notation",
+      "newNotation": null,
+      "reason": "新たなS/A/B評価基準資料は未取得。TA・大会の実績値から補完しない。等号・境界を推定しない。"
+    },
+    {
+      "questId": "challenge-recipe-268867",
+      "previousNotation": "S7:00 A:14:00 B30:00",
+      "decision": "preserve_existing_notation",
+      "newNotation": null,
+      "reason": "新たなS/A/B評価基準資料は未取得。TA・大会の実績値から補完しない。等号・境界を推定しない。"
+    },
+    {
+      "questId": "challenge-recipe-268868",
+      "previousNotation": "S7:00 A:14:00 B30:00",
+      "decision": "preserve_existing_notation",
+      "newNotation": null,
+      "reason": "新たなS/A/B評価基準資料は未取得。TA・大会の実績値から補完しない。等号・境界を推定しない。"
+    },
+    {
+      "questId": "challenge-recipe-268869",
+      "previousNotation": "S7:00 A:14:00 B30:00",
+      "decision": "preserve_existing_notation",
+      "newNotation": null,
+      "reason": "新たなS/A/B評価基準資料は未取得。TA・大会の実績値から補完しない。等号・境界を推定しない。"
+    },
+    {
+      "questId": "challenge-recipe-268870",
+      "previousNotation": "S7:00 A:14:00 B30:00",
+      "decision": "preserve_existing_notation",
+      "newNotation": null,
+      "reason": "新たなS/A/B評価基準資料は未取得。TA・大会の実績値から補完しない。等号・境界を推定しない。"
+    },
+    {
+      "questId": "challenge-recipe-278971",
+      "previousNotation": null,
+      "decision": "unresolved",
+      "newNotation": null,
+      "reason": "新たなS/A/B評価基準資料は未取得。TA・大会の実績値から補完しない。等号・境界を推定しない。"
+    },
+    {
+      "questId": "challenge-recipe-278972",
+      "previousNotation": null,
+      "decision": "unresolved",
+      "newNotation": null,
+      "reason": "新たなS/A/B評価基準資料は未取得。TA・大会の実績値から補完しない。等号・境界を推定しない。"
+    },
+    {
+      "questId": "challenge-recipe-278973",
+      "previousNotation": null,
+      "decision": "unresolved",
+      "newNotation": null,
+      "reason": "新たなS/A/B評価基準資料は未取得。TA・大会の実績値から補完しない。等号・境界を推定しない。"
+    },
+    {
+      "questId": "challenge-recipe-278974",
+      "previousNotation": null,
+      "decision": "unresolved",
+      "newNotation": null,
+      "reason": "新たなS/A/B評価基準資料は未取得。TA・大会の実績値から補完しない。等号・境界を推定しない。"
+    },
+    {
+      "questId": "challenge-recipe-278975",
+      "previousNotation": "S10:00 A20:00 B35:00",
+      "decision": "preserve_existing_notation",
+      "newNotation": null,
+      "reason": "新たなS/A/B評価基準資料は未取得。TA・大会の実績値から補完しない。等号・境界を推定しない。"
+    }
+  ],
+  "correctedCount": 0,
+  "addedCount": 0
+}

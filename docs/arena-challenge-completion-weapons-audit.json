@@ -1,0 +1,183 @@
+{
+  "checkedAt": "2026-10-16",
+  "sourceUrl": "https://mhxx.wiki-db.com/ta/arena/",
+  "sourceStatus": "proxy_connect_403",
+  "entries": [
+    {
+      "questId": "arena-recipe-218340",
+      "name": "ホロロホルル討伐",
+      "previousWeapons": null,
+      "decision": "unresolved_preserve_existing",
+      "reason": "プリセット一覧を取得できず。TA記録から使用可能武器を推定しない。"
+    },
+    {
+      "questId": "arena-recipe-238253",
+      "name": "フルフル討伐",
+      "previousWeapons": null,
+      "decision": "unresolved_preserve_existing",
+      "reason": "プリセット一覧を取得できず。TA記録から使用可能武器を推定しない。"
+    },
+    {
+      "questId": "arena-recipe-238254",
+      "name": "ガララアジャラ討伐",
+      "previousWeapons": null,
+      "decision": "unresolved_preserve_existing",
+      "reason": "プリセット一覧を取得できず。TA記録から使用可能武器を推定しない。"
+    },
+    {
+      "questId": "arena-recipe-238255",
+      "name": "リオレウス討伐",
+      "previousWeapons": null,
+      "decision": "unresolved_preserve_existing",
+      "reason": "プリセット一覧を取得できず。TA記録から使用可能武器を推定しない。"
+    },
+    {
+      "questId": "arena-recipe-238256",
+      "name": "ケチャワチャ討伐",
+      "previousWeapons": null,
+      "decision": "unresolved_preserve_existing",
+      "reason": "プリセット一覧を取得できず。TA記録から使用可能武器を推定しない。"
+    },
+    {
+      "questId": "arena-recipe-238257",
+      "name": "ガノトトス討伐",
+      "previousWeapons": null,
+      "decision": "unresolved_preserve_existing",
+      "reason": "プリセット一覧を取得できず。TA記録から使用可能武器を推定しない。"
+    },
+    {
+      "questId": "arena-recipe-267307",
+      "name": "ブラキディオス討伐",
+      "previousWeapons": null,
+      "decision": "unresolved_preserve_existing",
+      "reason": "プリセット一覧を取得できず。TA記録から使用可能武器を推定しない。"
+    },
+    {
+      "questId": "arena-recipe-322498",
+      "name": "ベリオロス討伐",
+      "previousWeapons": null,
+      "decision": "unresolved_preserve_existing",
+      "reason": "プリセット一覧を取得できず。TA記録から使用可能武器を推定しない。"
+    },
+    {
+      "questId": "arena-recipe-322499",
+      "name": "イャンガルルガ討伐",
+      "previousWeapons": null,
+      "decision": "unresolved_preserve_existing",
+      "reason": "プリセット一覧を取得できず。TA記録から使用可能武器を推定しない。"
+    },
+    {
+      "questId": "arena-recipe-322500",
+      "name": "ウラガンキン討伐",
+      "previousWeapons": null,
+      "decision": "unresolved_preserve_existing",
+      "reason": "プリセット一覧を取得できず。TA記録から使用可能武器を推定しない。"
+    },
+    {
+      "questId": "arena-recipe-322501",
+      "name": "セルレギオス討伐",
+      "previousWeapons": null,
+      "decision": "unresolved_preserve_existing",
+      "reason": "プリセット一覧を取得できず。TA記録から使用可能武器を推定しない。"
+    },
+    {
+      "questId": "challenge-recipe-267308",
+      "name": "タマミツネ討伐",
+      "previousWeapons": null,
+      "decision": "unresolved_preserve_existing",
+      "reason": "プリセット一覧を取得できず。TA記録から使用可能武器を推定しない。"
+    },
+    {
+      "questId": "challenge-recipe-267309",
+      "name": "ディノバルド討伐",
+      "previousWeapons": null,
+      "decision": "unresolved_preserve_existing",
+      "reason": "プリセット一覧を取得できず。TA記録から使用可能武器を推定しない。"
+    },
+    {
+      "questId": "challenge-recipe-267310",
+      "name": "ガムート討伐",
+      "previousWeapons": null,
+      "decision": "unresolved_preserve_existing",
+      "reason": "プリセット一覧を取得できず。TA記録から使用可能武器を推定しない。"
+    },
+    {
+      "questId": "challenge-recipe-267311",
+      "name": "ライゼクス討伐",
+      "previousWeapons": null,
+      "decision": "unresolved_preserve_existing",
+      "reason": "プリセット一覧を取得できず。TA記録から使用可能武器を推定しない。"
+    },
+    {
+      "questId": "challenge-recipe-268860",
+      "name": "ラギアクルス討伐",
+      "previousWeapons": null,
+      "decision": "unresolved_preserve_existing",
+      "reason": "プリセット一覧を取得できず。TA記録から使用可能武器を推定しない。"
+    },
+    {
+      "questId": "challenge-recipe-268861",
+      "name": "ジンオウガ討伐",
+      "previousWeapons": null,
+      "decision": "unresolved_preserve_existing",
+      "reason": "プリセット一覧を取得できず。TA記録から使用可能武器を推定しない。"
+    },
+    {
+      "questId": "challenge-recipe-268862",
+      "name": "ゴア・マガラ討伐",
+      "previousWeapons": null,
+      "decision": "unresolved_preserve_existing",
+      "reason": "プリセット一覧を取得できず。TA記録から使用可能武器を推定しない。"
+    },
+    {
+      "questId": "challenge-recipe-268863",
+      "name": "ティガレックス討伐",
+      "previousWeapons": null,
+      "decision": "unresolved_preserve_existing",
+      "reason": "プリセット一覧を取得できず。TA記録から使用可能武器を推定しない。"
+    },
+    {
+      "questId": "challenge-recipe-268864",
+      "name": "リオレウス討伐",
+      "previousWeapons": null,
+      "decision": "unresolved_preserve_existing",
+      "reason": "プリセット一覧を取得できず。TA記録から使用可能武器を推定しない。"
+    },
+    {
+      "questId": "challenge-recipe-268865",
+      "name": "ナルガクルガ討伐",
+      "previousWeapons": null,
+      "decision": "unresolved_preserve_existing",
+      "reason": "プリセット一覧を取得できず。TA記録から使用可能武器を推定しない。"
+    },
+    {
+      "questId": "challenge-recipe-278971",
+      "name": "大連続狩猟1",
+      "previousWeapons": null,
+      "decision": "unresolved_preserve_existing",
+      "reason": "プリセット一覧を取得できず。TA記録から使用可能武器を推定しない。"
+    },
+    {
+      "questId": "challenge-recipe-278972",
+      "name": "大連続狩猟2",
+      "previousWeapons": null,
+      "decision": "unresolved_preserve_existing",
+      "reason": "プリセット一覧を取得できず。TA記録から使用可能武器を推定しない。"
+    },
+    {
+      "questId": "challenge-recipe-278973",
+      "name": "大連続狩猟3",
+      "previousWeapons": null,
+      "decision": "unresolved_preserve_existing",
+      "reason": "プリセット一覧を取得できず。TA記録から使用可能武器を推定しない。"
+    },
+    {
+      "questId": "challenge-recipe-278974",
+      "name": "大連続狩猟4",
+      "previousWeapons": null,
+      "decision": "unresolved_preserve_existing",
+      "reason": "プリセット一覧を取得できず。TA記録から使用可能武器を推定しない。"
+    }
+  ],
+  "prowlerDecision": "既存12件のsupportTypesを変更せず保持。追加6候補は収録判断・傾向とも保留。"
+}

@@ -1,0 +1,9 @@
+{
+  "checkedAt": "2026-10-16",
+  "addedClassifications": [],
+  "addedUnlockCount": 0,
+  "removedUnlockCount": 0,
+  "existingMaterialUseEntries": 28,
+  "existingHunterArtEntries": 2,
+  "decision": "既存のID＋ラベル完全一致分類を維持。追加候補の専用報酬・装備用途を取得できず、新たな解放を推測で登録しない。横断達成報酬は個別unlocksに追加しない。"
+}
