@@ -1,0 +1,420 @@
+[
+  {
+    "id": "permit-bloodbath-g1-recipe-299159",
+    "name": "【特殊許可】鏖魔狩猟依頼G1",
+    "category": "permit",
+    "rank": "鏖魔",
+    "order": 0,
+    "permitStage": "G1",
+    "role": "hunter",
+    "tags": [
+      "request"
+    ],
+    "condition": {
+      "kind": "all",
+      "rules": [
+        {
+          "kind": "quest_cleared",
+          "questId": "g-rank-4-recipe-294013"
+        },
+        {
+          "kind": "quest_cleared",
+          "questId": "permit-nightcloak-g1-recipe-299150"
+        },
+        {
+          "kind": "quest_cleared",
+          "questId": "permit-rustrazor-g1-recipe-299152"
+        },
+        {
+          "kind": "quest_cleared",
+          "questId": "permit-soulseer-g1-recipe-299157"
+        },
+        {
+          "kind": "quest_cleared",
+          "questId": "permit-boltreaver-g1-recipe-299154"
+        },
+        {
+          "kind": "quest_cleared",
+          "questId": "permit-elderfrost-g1-recipe-299158"
+        },
+        {
+          "kind": "hr_at_least",
+          "value": 13
+        },
+        {
+          "kind": "external_flag",
+          "label": "前提達成後の酒場での会話→クエスト1回クリアの順序を完了（通常会話だけでなく、クリアの時点を確認）"
+        }
+      ]
+    },
+    "npcNotes": [
+      "受注・参加資料：HR13以上、特殊許可券【鏖魔】を8枚以上所持。券の所持数・消費は管理していません。",
+      "前提5種のG1と「蠢く墟城」達成後、酒場のマスターと話し、その後クエストを1回クリアする。"
+    ],
+    "unlocks": [
+      {
+        "kind": "other",
+        "label": "鏖魔：オトモ二つ名武器・防具【X】（製法）",
+        "note": "ニャンター専門Wikiが明記した作成条件のクリア段階。オトモ装備が対象で、ハンター装備全般の製法解放を意味しません。生産には対応する証・端材・素材・費用が別途必要。XXは証の入手条件も必要です。"
+      },
+      {
+        "kind": "other",
+        "label": "セーリオシリーズ（特別入手）",
+        "note": "攻略レシピの「その他10」の達成条件が鏖魔狩猟依頼G1。製法と現物入手を混同しません。受領・会話等の操作はゲーム内で確認してください。"
+      },
+      {
+        "kind": "other",
+        "label": "シャルマンシリーズ（特別入手）",
+        "note": "攻略レシピの「その他10」の達成条件が鏖魔狩猟依頼G1。製法と現物入手を混同しません。受領・会話等の操作はゲーム内で確認してください。"
+      }
+    ],
+    "sources": [
+      {
+        "url": "http://wiki.mhxg.org/ida/299159.html",
+        "site": "MHXX攻略レシピ",
+        "kind": "detail",
+        "checkedAt": "2026-10-16"
+      },
+      {
+        "url": "http://wiki.mhxg.org/data/2997.html",
+        "site": "MHXX攻略レシピ（特殊許可一覧）",
+        "kind": "list",
+        "checkedAt": "2026-10-16"
+      },
+      {
+        "url": "https://game8.jp/mh-xx/824152",
+        "site": "Game8 MHXX（受注HR・許可券）",
+        "kind": "detail",
+        "checkedAt": "2026-10-16"
+      },
+      {
+        "url": "https://w.atwiki.jp/mhxxnyanter/pages/20.html",
+        "site": "MHXXニャンターwiki（二つ名オトモ武具）",
+        "kind": "list",
+        "checkedAt": "2026-10-16"
+      },
+      {
+        "url": "http://wiki.mhxg.org/ida/326039.html",
+        "site": "MHXX攻略レシピ（その他10）",
+        "kind": "detail",
+        "checkedAt": "2026-10-16"
+      }
+    ],
+    "verification": "partial",
+    "verificationNote": "攻略レシピの一覧・個別タイトル・条件を照合。自分で受注して段階が進んだクリアを記録。素材・狩猟証だけを機能解放と判断しません。",
+    "warnings": []
+  },
+  {
+    "id": "permit-bloodbath-g2-recipe-309904",
+    "name": "【特殊許可】鏖魔捕獲依頼G2",
+    "category": "permit",
+    "rank": "鏖魔",
+    "order": 1,
+    "permitStage": "G2",
+    "role": "hunter",
+    "tags": [
+      "normal"
+    ],
+    "condition": {
+      "kind": "all",
+      "rules": [
+        {
+          "kind": "quest_cleared",
+          "questId": "permit-bloodbath-g1-recipe-299159"
+        },
+        {
+          "kind": "hr_at_least",
+          "value": 13
+        }
+      ]
+    },
+    "npcNotes": [
+      "受注・参加資料：HR13以上、特殊許可券【鏖魔】を8枚以上所持。券の所持数・消費は管理していません。"
+    ],
+    "unlocks": [],
+    "sources": [
+      {
+        "url": "http://wiki.mhxg.org/ida/309904.html",
+        "site": "MHXX攻略レシピ",
+        "kind": "detail",
+        "checkedAt": "2026-10-16"
+      },
+      {
+        "url": "http://wiki.mhxg.org/data/2997.html",
+        "site": "MHXX攻略レシピ（特殊許可一覧）",
+        "kind": "list",
+        "checkedAt": "2026-10-16"
+      },
+      {
+        "url": "https://game8.jp/mh-xx/824153",
+        "site": "Game8 MHXX（受注HR・許可券）",
+        "kind": "detail",
+        "checkedAt": "2026-10-16"
+      }
+    ],
+    "verification": "partial",
+    "verificationNote": "攻略レシピの一覧・個別タイトル・条件を照合。自分で受注して段階が進んだクリアを記録。素材・狩猟証だけを機能解放と判断しません。",
+    "warnings": []
+  },
+  {
+    "id": "permit-bloodbath-g3-recipe-299160",
+    "name": "【特殊許可】鏖魔狩猟依頼G3",
+    "category": "permit",
+    "rank": "鏖魔",
+    "order": 2,
+    "permitStage": "G3",
+    "role": "hunter",
+    "tags": [
+      "normal"
+    ],
+    "condition": {
+      "kind": "all",
+      "rules": [
+        {
+          "kind": "quest_cleared",
+          "questId": "permit-bloodbath-g2-recipe-309904"
+        },
+        {
+          "kind": "hr_at_least",
+          "value": 13
+        }
+      ]
+    },
+    "npcNotes": [
+      "受注・参加資料：HR13以上、特殊許可券【鏖魔】を9枚以上所持。券の所持数・消費は管理していません。"
+    ],
+    "unlocks": [
+      {
+        "kind": "other",
+        "label": "鏖魔：オトモ二つ名防具【XX】（製法）",
+        "note": "ニャンター専門Wikiが明記した作成条件のクリア段階。オトモ装備が対象で、ハンター装備全般の製法解放を意味しません。生産には対応する証・端材・素材・費用が別途必要。XXは証の入手条件も必要です。"
+      }
+    ],
+    "sources": [
+      {
+        "url": "http://wiki.mhxg.org/ida/299160.html",
+        "site": "MHXX攻略レシピ",
+        "kind": "detail",
+        "checkedAt": "2026-10-16"
+      },
+      {
+        "url": "http://wiki.mhxg.org/data/2997.html",
+        "site": "MHXX攻略レシピ（特殊許可一覧）",
+        "kind": "list",
+        "checkedAt": "2026-10-16"
+      },
+      {
+        "url": "https://game8.jp/mh-xx/824154",
+        "site": "Game8 MHXX（受注HR・許可券）",
+        "kind": "detail",
+        "checkedAt": "2026-10-16"
+      },
+      {
+        "url": "https://w.atwiki.jp/mhxxnyanter/pages/20.html",
+        "site": "MHXXニャンターwiki（二つ名オトモ武具）",
+        "kind": "list",
+        "checkedAt": "2026-10-16"
+      }
+    ],
+    "verification": "partial",
+    "verificationNote": "攻略レシピの一覧・個別タイトル・条件を照合。自分で受注して段階が進んだクリアを記録。素材・狩猟証だけを機能解放と判断しません。",
+    "warnings": []
+  },
+  {
+    "id": "permit-bloodbath-g4-recipe-299161",
+    "name": "【特殊許可】鏖魔狩猟依頼G4",
+    "category": "permit",
+    "rank": "鏖魔",
+    "order": 3,
+    "permitStage": "G4",
+    "role": "hunter",
+    "tags": [
+      "normal"
+    ],
+    "condition": {
+      "kind": "all",
+      "rules": [
+        {
+          "kind": "quest_cleared",
+          "questId": "permit-bloodbath-g3-recipe-299160"
+        },
+        {
+          "kind": "hr_at_least",
+          "value": 13
+        }
+      ]
+    },
+    "npcNotes": [
+      "受注・参加資料：HR13以上、特殊許可券【鏖魔】を9枚以上所持。券の所持数・消費は管理していません。"
+    ],
+    "unlocks": [
+      {
+        "kind": "other",
+        "label": "鏖魔：オトモ二つ名武器【XX】（製法）",
+        "note": "ニャンター専門Wikiが明記した作成条件のクリア段階。オトモ装備が対象で、ハンター装備全般の製法解放を意味しません。生産には対応する証・端材・素材・費用が別途必要。XXは証の入手条件も必要です。"
+      }
+    ],
+    "sources": [
+      {
+        "url": "http://wiki.mhxg.org/ida/299161.html",
+        "site": "MHXX攻略レシピ",
+        "kind": "detail",
+        "checkedAt": "2026-10-16"
+      },
+      {
+        "url": "http://wiki.mhxg.org/data/2997.html",
+        "site": "MHXX攻略レシピ（特殊許可一覧）",
+        "kind": "list",
+        "checkedAt": "2026-10-16"
+      },
+      {
+        "url": "https://game8.jp/mh-xx/824155",
+        "site": "Game8 MHXX（受注HR・許可券）",
+        "kind": "detail",
+        "checkedAt": "2026-10-16"
+      },
+      {
+        "url": "https://w.atwiki.jp/mhxxnyanter/pages/20.html",
+        "site": "MHXXニャンターwiki（二つ名オトモ武具）",
+        "kind": "list",
+        "checkedAt": "2026-10-16"
+      }
+    ],
+    "verification": "partial",
+    "verificationNote": "攻略レシピの一覧・個別タイトル・条件を照合。自分で受注して段階が進んだクリアを記録。素材・狩猟証だけを機能解放と判断しません。",
+    "warnings": []
+  },
+  {
+    "id": "permit-bloodbath-g5-recipe-299162",
+    "name": "【特殊許可】鏖魔狩猟依頼G5",
+    "category": "permit",
+    "rank": "鏖魔",
+    "order": 4,
+    "permitStage": "G5",
+    "role": "hunter",
+    "tags": [
+      "normal"
+    ],
+    "condition": {
+      "kind": "all",
+      "rules": [
+        {
+          "kind": "quest_cleared",
+          "questId": "permit-bloodbath-g4-recipe-299161"
+        },
+        {
+          "kind": "hr_at_least",
+          "value": 13
+        }
+      ]
+    },
+    "npcNotes": [
+      "受注・参加資料：HR13以上、特殊許可券【鏖魔】を9枚以上所持。券の所持数・消費は管理していません。"
+    ],
+    "unlocks": [],
+    "sources": [
+      {
+        "url": "http://wiki.mhxg.org/ida/299162.html",
+        "site": "MHXX攻略レシピ",
+        "kind": "detail",
+        "checkedAt": "2026-10-16"
+      },
+      {
+        "url": "http://wiki.mhxg.org/data/2997.html",
+        "site": "MHXX攻略レシピ（特殊許可一覧）",
+        "kind": "list",
+        "checkedAt": "2026-10-16"
+      },
+      {
+        "url": "https://game8.jp/mh-xx/824156",
+        "site": "Game8 MHXX（受注HR・許可券）",
+        "kind": "detail",
+        "checkedAt": "2026-10-16"
+      }
+    ],
+    "verification": "partial",
+    "verificationNote": "攻略レシピの一覧・個別タイトル・条件を照合。自分で受注して段階が進んだクリアを記録。素材・狩猟証だけを機能解放と判断しません。",
+    "warnings": []
+  },
+  {
+    "id": "permit-bloodbath-super-recipe-309905",
+    "name": "【超特殊許可】鏖魔狩猟依頼",
+    "category": "permit",
+    "rank": "鏖魔",
+    "order": 5,
+    "permitStage": "超特殊許可",
+    "role": "hunter",
+    "tags": [
+      "normal"
+    ],
+    "condition": {
+      "kind": "all",
+      "rules": [
+        {
+          "kind": "quest_cleared",
+          "questId": "permit-bloodbath-g5-recipe-299162"
+        },
+        {
+          "kind": "hr_at_least",
+          "value": 100
+        }
+      ]
+    },
+    "npcNotes": [
+      "受注・参加資料：HR100以上、特殊許可券【鏖魔】を10枚以上所持。券の所持数・消費は管理していません。"
+    ],
+    "unlocks": [
+      {
+        "kind": "facility",
+        "label": "防具合成の研究：鏖魔",
+        "note": "HR100以上で対象の超特殊許可をクリアした後の研究項目。研究室の開放と、研究室での研究・ポイント／素材等を使う操作が別途必要です。参加クリアだけでの開放可否は今回の資料から明確に確認できていません。このアプリでは自分で受注してクリアした記録を使用します。"
+      },
+      {
+        "kind": "other",
+        "label": "称号：怒りマックス",
+        "note": "対象の超特殊許可クリアで入手する称号。参加クリアでの取得可否の詳細は未確認で、このアプリは自分で受注したクリアを記録します。"
+      }
+    ],
+    "sources": [
+      {
+        "url": "http://wiki.mhxg.org/ida/309905.html",
+        "site": "MHXX攻略レシピ",
+        "kind": "detail",
+        "checkedAt": "2026-10-16"
+      },
+      {
+        "url": "http://wiki.mhxg.org/data/2997.html",
+        "site": "MHXX攻略レシピ（特殊許可一覧）",
+        "kind": "list",
+        "checkedAt": "2026-10-16"
+      },
+      {
+        "url": "https://game8.jp/mh-xx/824157",
+        "site": "Game8 MHXX（受注HR・許可券）",
+        "kind": "detail",
+        "checkedAt": "2026-10-16"
+      },
+      {
+        "url": "https://mhx-wiki.com/?%E7%A0%94%E7%A9%B6%E5%AE%A4%E3%81%AE%E6%8B%A1%E5%BC%B5",
+        "site": "MHXX攻略Wiki（防具合成の研究）",
+        "kind": "list",
+        "checkedAt": "2026-10-16"
+      },
+      {
+        "url": "https://mhx-wiki.com/?%E8%B6%85%E7%89%B9%E6%AE%8A%E8%A8%B1%E5%8F%AF",
+        "site": "MHXX攻略Wiki（自分の特殊許可進行）",
+        "kind": "list",
+        "checkedAt": "2026-10-16"
+      },
+      {
+        "url": "https://mhx-wiki.com/?%E7%A7%B0%E5%8F%B7%E4%B8%80%E8%A6%A7",
+        "site": "MHXX攻略Wiki（称号）",
+        "kind": "list",
+        "checkedAt": "2026-10-16"
+      }
+    ],
+    "verification": "partial",
+    "verificationNote": "攻略レシピの一覧・個別タイトル・条件を照合。自分で受注して段階が進んだクリアを記録。素材・狩猟証だけを機能解放と判断しません。",
+    "warnings": []
+  }
+]

@@ -8103,6 +8103,1584 @@
           "permitStage": "超特殊許可"
         }
       ]
+    },
+    {
+      "id": "朧隠",
+      "label": "朧隠ホロロホルル",
+      "legacy": false,
+      "observedCount": 6,
+      "entries": [
+        {
+          "group": "朧隠",
+          "stage": "g1",
+          "listName": "朧隠捕獲依頼G1",
+          "listUrl": "http://wiki.mhxg.org/data/2997.html",
+          "url": "http://wiki.mhxg.org/ida/299150.html",
+          "icons": [
+            "捕獲",
+            "フラグ"
+          ],
+          "name": "【特殊許可】朧隠捕獲依頼G1",
+          "detailTitle": "【特殊許可】朧隠捕獲依頼G1 | 【MHXX】モンハンダブルクロス攻略レシピ",
+          "panels": [
+            {
+              "title": "備考",
+              "text": "G★2遺群嶺のトレジャー！米の巻G★2夜鳥のじけんG★3原生林の恐怖体験のいずれか1つクリア後",
+              "links": [
+                {
+                  "label": "G★2遺群嶺のトレジャー！米の巻",
+                  "url": "http://wiki.mhxg.org/ida/286205.html"
+                },
+                {
+                  "label": "G★2夜鳥のじけん",
+                  "url": "http://wiki.mhxg.org/ida/288271.html"
+                },
+                {
+                  "label": "G★3原生林の恐怖体験",
+                  "url": "http://wiki.mhxg.org/ida/299013.html"
+                }
+              ]
+            },
+            {
+              "title": "他のクエスト発生に必要",
+              "text": "【特殊許可】朧隠狩猟依頼G2 【特殊許可】鏖魔狩猟依頼G1",
+              "links": [
+                {
+                  "label": "【特殊許可】朧隠狩猟依頼G2",
+                  "url": "http://wiki.mhxg.org/ida/299151.html"
+                },
+                {
+                  "label": "【特殊許可】鏖魔狩猟依頼G1",
+                  "url": "http://wiki.mhxg.org/ida/299159.html"
+                }
+              ]
+            }
+          ],
+          "questId": "permit-nightcloak-g1-recipe-299150",
+          "order": 0,
+          "role": "hunter",
+          "tags": [
+            "normal"
+          ],
+          "permitStage": "G1"
+        },
+        {
+          "group": "朧隠",
+          "stage": "g2",
+          "listName": "朧隠狩猟依頼G2",
+          "listUrl": "http://wiki.mhxg.org/data/2997.html",
+          "url": "http://wiki.mhxg.org/ida/299151.html",
+          "icons": [
+            "狩猟",
+            "フラグ"
+          ],
+          "name": "【特殊許可】朧隠狩猟依頼G2",
+          "detailTitle": "【特殊許可】朧隠狩猟依頼G2 | 【MHXX】モンハンダブルクロス攻略レシピ",
+          "panels": [
+            {
+              "title": "備考",
+              "text": "【特殊許可】朧隠捕獲依頼G1 クリア後",
+              "links": [
+                {
+                  "label": "【特殊許可】朧隠捕獲依頼G1",
+                  "url": "http://wiki.mhxg.org/ida/299150.html"
+                }
+              ]
+            },
+            {
+              "title": "他のクエスト発生に必要",
+              "text": "【特殊許可】朧隠狩猟依頼G3",
+              "links": [
+                {
+                  "label": "【特殊許可】朧隠狩猟依頼G3",
+                  "url": "http://wiki.mhxg.org/ida/309883.html"
+                }
+              ]
+            }
+          ],
+          "questId": "permit-nightcloak-g2-recipe-299151",
+          "order": 1,
+          "role": "hunter",
+          "tags": [
+            "normal"
+          ],
+          "permitStage": "G2"
+        },
+        {
+          "group": "朧隠",
+          "stage": "g3",
+          "listName": "朧隠狩猟依頼G3",
+          "listUrl": "http://wiki.mhxg.org/data/2997.html",
+          "url": "http://wiki.mhxg.org/ida/309883.html",
+          "icons": [
+            "狩猟",
+            "フラグ"
+          ],
+          "name": "【特殊許可】朧隠狩猟依頼G3",
+          "detailTitle": "【特殊許可】朧隠狩猟依頼G3 | 【MHXX】モンハンダブルクロス攻略レシピ",
+          "panels": [
+            {
+              "title": "備考",
+              "text": "【特殊許可】朧隠狩猟依頼G2 クリア後",
+              "links": [
+                {
+                  "label": "【特殊許可】朧隠狩猟依頼G2",
+                  "url": "http://wiki.mhxg.org/ida/299151.html"
+                }
+              ]
+            },
+            {
+              "title": "他のクエスト発生に必要",
+              "text": "【特殊許可】朧隠狩猟依頼G4",
+              "links": [
+                {
+                  "label": "【特殊許可】朧隠狩猟依頼G4",
+                  "url": "http://wiki.mhxg.org/ida/309884.html"
+                }
+              ]
+            }
+          ],
+          "questId": "permit-nightcloak-g3-recipe-309883",
+          "order": 2,
+          "role": "hunter",
+          "tags": [
+            "normal"
+          ],
+          "permitStage": "G3"
+        },
+        {
+          "group": "朧隠",
+          "stage": "g4",
+          "listName": "朧隠狩猟依頼G4",
+          "listUrl": "http://wiki.mhxg.org/data/2997.html",
+          "url": "http://wiki.mhxg.org/ida/309884.html",
+          "icons": [
+            "狩猟",
+            "フラグ"
+          ],
+          "name": "【特殊許可】朧隠狩猟依頼G4",
+          "detailTitle": "【特殊許可】朧隠狩猟依頼G4 | 【MHXX】モンハンダブルクロス攻略レシピ",
+          "panels": [
+            {
+              "title": "備考",
+              "text": "【特殊許可】朧隠狩猟依頼G3 クリア後",
+              "links": [
+                {
+                  "label": "【特殊許可】朧隠狩猟依頼G3",
+                  "url": "http://wiki.mhxg.org/ida/309883.html"
+                }
+              ]
+            },
+            {
+              "title": "他のクエスト発生に必要",
+              "text": "【特殊許可】朧隠狩猟依頼G5",
+              "links": [
+                {
+                  "label": "【特殊許可】朧隠狩猟依頼G5",
+                  "url": "http://wiki.mhxg.org/ida/309885.html"
+                }
+              ]
+            }
+          ],
+          "questId": "permit-nightcloak-g4-recipe-309884",
+          "order": 3,
+          "role": "hunter",
+          "tags": [
+            "normal"
+          ],
+          "permitStage": "G4"
+        },
+        {
+          "group": "朧隠",
+          "stage": "g5",
+          "listName": "朧隠狩猟依頼G5",
+          "listUrl": "http://wiki.mhxg.org/data/2997.html",
+          "url": "http://wiki.mhxg.org/ida/309885.html",
+          "icons": [
+            "狩猟",
+            "フラグ"
+          ],
+          "name": "【特殊許可】朧隠狩猟依頼G5",
+          "detailTitle": "【特殊許可】朧隠狩猟依頼G5 | 【MHXX】モンハンダブルクロス攻略レシピ",
+          "panels": [
+            {
+              "title": "備考",
+              "text": "【特殊許可】朧隠狩猟依頼G4 クリア後",
+              "links": [
+                {
+                  "label": "【特殊許可】朧隠狩猟依頼G4",
+                  "url": "http://wiki.mhxg.org/ida/309884.html"
+                }
+              ]
+            },
+            {
+              "title": "他のクエスト発生に必要",
+              "text": "【超特殊許可】朧隠狩猟依頼",
+              "links": [
+                {
+                  "label": "【超特殊許可】朧隠狩猟依頼",
+                  "url": "http://wiki.mhxg.org/ida/309886.html"
+                }
+              ]
+            }
+          ],
+          "questId": "permit-nightcloak-g5-recipe-309885",
+          "order": 4,
+          "role": "hunter",
+          "tags": [
+            "normal"
+          ],
+          "permitStage": "G5"
+        },
+        {
+          "group": "朧隠",
+          "stage": "super",
+          "listName": "【超】朧隠狩猟依頼",
+          "listUrl": "http://wiki.mhxg.org/data/2997.html",
+          "url": "http://wiki.mhxg.org/ida/309886.html",
+          "icons": [
+            "狩猟"
+          ],
+          "name": "【超特殊許可】朧隠狩猟依頼",
+          "detailTitle": "【超特殊許可】朧隠狩猟依頼 | 【MHXX】モンハンダブルクロス攻略レシピ",
+          "panels": [
+            {
+              "title": "備考",
+              "text": "【特殊許可】朧隠狩猟依頼G5 クリア後HR100以上",
+              "links": [
+                {
+                  "label": "【特殊許可】朧隠狩猟依頼G5",
+                  "url": "http://wiki.mhxg.org/ida/309885.html"
+                }
+              ]
+            }
+          ],
+          "questId": "permit-nightcloak-super-recipe-309886",
+          "order": 5,
+          "role": "hunter",
+          "tags": [
+            "normal"
+          ],
+          "permitStage": "超特殊許可"
+        }
+      ]
+    },
+    {
+      "id": "鎧裂",
+      "label": "鎧裂ショウグンギザミ",
+      "legacy": false,
+      "observedCount": 6,
+      "entries": [
+        {
+          "group": "鎧裂",
+          "stage": "g1",
+          "listName": "鎧裂捕獲依頼G1",
+          "listUrl": "http://wiki.mhxg.org/data/2997.html",
+          "url": "http://wiki.mhxg.org/ida/299152.html",
+          "icons": [
+            "捕獲",
+            "フラグ"
+          ],
+          "name": "【特殊許可】鎧裂捕獲依頼G1",
+          "detailTitle": "【特殊許可】鎧裂捕獲依頼G1 | 【MHXX】モンハンダブルクロス攻略レシピ",
+          "panels": [
+            {
+              "title": "備考",
+              "text": "G★2切り裂かれた誇りまたはG★2鎌蟹の狩猟をさせてやるぜ！ クリア後",
+              "links": [
+                {
+                  "label": "G★2切り裂かれた誇り",
+                  "url": "http://wiki.mhxg.org/ida/288253.html"
+                },
+                {
+                  "label": "G★2鎌蟹の狩猟をさせてやるぜ！",
+                  "url": "http://wiki.mhxg.org/ida/288277.html"
+                }
+              ]
+            },
+            {
+              "title": "他のクエスト発生に必要",
+              "text": "【特殊許可】鎧裂狩猟依頼G2 【特殊許可】鏖魔狩猟依頼G1",
+              "links": [
+                {
+                  "label": "【特殊許可】鎧裂狩猟依頼G2",
+                  "url": "http://wiki.mhxg.org/ida/299153.html"
+                },
+                {
+                  "label": "【特殊許可】鏖魔狩猟依頼G1",
+                  "url": "http://wiki.mhxg.org/ida/299159.html"
+                }
+              ]
+            }
+          ],
+          "questId": "permit-rustrazor-g1-recipe-299152",
+          "order": 0,
+          "role": "hunter",
+          "tags": [
+            "normal"
+          ],
+          "permitStage": "G1"
+        },
+        {
+          "group": "鎧裂",
+          "stage": "g2",
+          "listName": "鎧裂狩猟依頼G2",
+          "listUrl": "http://wiki.mhxg.org/data/2997.html",
+          "url": "http://wiki.mhxg.org/ida/299153.html",
+          "icons": [
+            "狩猟",
+            "フラグ"
+          ],
+          "name": "【特殊許可】鎧裂狩猟依頼G2",
+          "detailTitle": "【特殊許可】鎧裂狩猟依頼G2 | 【MHXX】モンハンダブルクロス攻略レシピ",
+          "panels": [
+            {
+              "title": "備考",
+              "text": "【特殊許可】鎧裂捕獲依頼G1 クリア後",
+              "links": [
+                {
+                  "label": "【特殊許可】鎧裂捕獲依頼G1",
+                  "url": "http://wiki.mhxg.org/ida/299152.html"
+                }
+              ]
+            },
+            {
+              "title": "他のクエスト発生に必要",
+              "text": "【特殊許可】鎧裂狩猟依頼G3",
+              "links": [
+                {
+                  "label": "【特殊許可】鎧裂狩猟依頼G3",
+                  "url": "http://wiki.mhxg.org/ida/309887.html"
+                }
+              ]
+            }
+          ],
+          "questId": "permit-rustrazor-g2-recipe-299153",
+          "order": 1,
+          "role": "hunter",
+          "tags": [
+            "normal"
+          ],
+          "permitStage": "G2"
+        },
+        {
+          "group": "鎧裂",
+          "stage": "g3",
+          "listName": "鎧裂狩猟依頼G3",
+          "listUrl": "http://wiki.mhxg.org/data/2997.html",
+          "url": "http://wiki.mhxg.org/ida/309887.html",
+          "icons": [
+            "狩猟",
+            "フラグ"
+          ],
+          "name": "【特殊許可】鎧裂狩猟依頼G3",
+          "detailTitle": "【特殊許可】鎧裂狩猟依頼G3 | 【MHXX】モンハンダブルクロス攻略レシピ",
+          "panels": [
+            {
+              "title": "備考",
+              "text": "【特殊許可】鎧裂狩猟依頼G2 クリア後",
+              "links": [
+                {
+                  "label": "【特殊許可】鎧裂狩猟依頼G2",
+                  "url": "http://wiki.mhxg.org/ida/299153.html"
+                }
+              ]
+            },
+            {
+              "title": "他のクエスト発生に必要",
+              "text": "【特殊許可】鎧裂狩猟依頼G4",
+              "links": [
+                {
+                  "label": "【特殊許可】鎧裂狩猟依頼G4",
+                  "url": "http://wiki.mhxg.org/ida/309888.html"
+                }
+              ]
+            }
+          ],
+          "questId": "permit-rustrazor-g3-recipe-309887",
+          "order": 2,
+          "role": "hunter",
+          "tags": [
+            "normal"
+          ],
+          "permitStage": "G3"
+        },
+        {
+          "group": "鎧裂",
+          "stage": "g4",
+          "listName": "鎧裂狩猟依頼G4",
+          "listUrl": "http://wiki.mhxg.org/data/2997.html",
+          "url": "http://wiki.mhxg.org/ida/309888.html",
+          "icons": [
+            "狩猟",
+            "フラグ"
+          ],
+          "name": "【特殊許可】鎧裂狩猟依頼G4",
+          "detailTitle": "【特殊許可】鎧裂狩猟依頼G4 | 【MHXX】モンハンダブルクロス攻略レシピ",
+          "panels": [
+            {
+              "title": "備考",
+              "text": "【特殊許可】鎧裂狩猟依頼G3 クリア後",
+              "links": [
+                {
+                  "label": "【特殊許可】鎧裂狩猟依頼G3",
+                  "url": "http://wiki.mhxg.org/ida/309887.html"
+                }
+              ]
+            },
+            {
+              "title": "他のクエスト発生に必要",
+              "text": "【特殊許可】鎧裂狩猟依頼G5",
+              "links": [
+                {
+                  "label": "【特殊許可】鎧裂狩猟依頼G5",
+                  "url": "http://wiki.mhxg.org/ida/309889.html"
+                }
+              ]
+            }
+          ],
+          "questId": "permit-rustrazor-g4-recipe-309888",
+          "order": 3,
+          "role": "hunter",
+          "tags": [
+            "normal"
+          ],
+          "permitStage": "G4"
+        },
+        {
+          "group": "鎧裂",
+          "stage": "g5",
+          "listName": "鎧裂狩猟依頼G5",
+          "listUrl": "http://wiki.mhxg.org/data/2997.html",
+          "url": "http://wiki.mhxg.org/ida/309889.html",
+          "icons": [
+            "狩猟",
+            "フラグ"
+          ],
+          "name": "【特殊許可】鎧裂狩猟依頼G5",
+          "detailTitle": "【特殊許可】鎧裂狩猟依頼G5 | 【MHXX】モンハンダブルクロス攻略レシピ",
+          "panels": [
+            {
+              "title": "備考",
+              "text": "【特殊許可】鎧裂狩猟依頼G4 クリア後",
+              "links": [
+                {
+                  "label": "【特殊許可】鎧裂狩猟依頼G4",
+                  "url": "http://wiki.mhxg.org/ida/309888.html"
+                }
+              ]
+            },
+            {
+              "title": "他のクエスト発生に必要",
+              "text": "【超特殊許可】鎧裂狩猟依頼",
+              "links": [
+                {
+                  "label": "【超特殊許可】鎧裂狩猟依頼",
+                  "url": "http://wiki.mhxg.org/ida/309890.html"
+                }
+              ]
+            }
+          ],
+          "questId": "permit-rustrazor-g5-recipe-309889",
+          "order": 4,
+          "role": "hunter",
+          "tags": [
+            "normal"
+          ],
+          "permitStage": "G5"
+        },
+        {
+          "group": "鎧裂",
+          "stage": "super",
+          "listName": "【超】鎧裂狩猟依頼",
+          "listUrl": "http://wiki.mhxg.org/data/2997.html",
+          "url": "http://wiki.mhxg.org/ida/309890.html",
+          "icons": [
+            "狩猟"
+          ],
+          "name": "【超特殊許可】鎧裂狩猟依頼",
+          "detailTitle": "【超特殊許可】鎧裂狩猟依頼 | 【MHXX】モンハンダブルクロス攻略レシピ",
+          "panels": [
+            {
+              "title": "備考",
+              "text": "【特殊許可】鎧裂狩猟依頼G5 クリア後HR100以上",
+              "links": [
+                {
+                  "label": "【特殊許可】鎧裂狩猟依頼G5",
+                  "url": "http://wiki.mhxg.org/ida/309889.html"
+                }
+              ]
+            }
+          ],
+          "questId": "permit-rustrazor-super-recipe-309890",
+          "order": 5,
+          "role": "hunter",
+          "tags": [
+            "normal"
+          ],
+          "permitStage": "超特殊許可"
+        }
+      ]
+    },
+    {
+      "id": "天眼",
+      "label": "天眼タマミツネ",
+      "legacy": false,
+      "observedCount": 6,
+      "entries": [
+        {
+          "group": "天眼",
+          "stage": "g1",
+          "listName": "天眼捕獲依頼G1",
+          "listUrl": "http://wiki.mhxg.org/data/2997.html",
+          "url": "http://wiki.mhxg.org/ida/299157.html",
+          "icons": [
+            "捕獲",
+            "フラグ"
+          ],
+          "name": "【特殊許可】天眼捕獲依頼G1",
+          "detailTitle": "【特殊許可】天眼捕獲依頼G1 | 【MHXX】モンハンダブルクロス攻略レシピ",
+          "panels": [
+            {
+              "title": "備考",
+              "text": "G★3騎士と密林の夢またはG★3泡狐竜流狩人道場 クリア後",
+              "links": [
+                {
+                  "label": "G★3騎士と密林の夢",
+                  "url": "http://wiki.mhxg.org/ida/288291.html"
+                },
+                {
+                  "label": "G★3泡狐竜流狩人道場",
+                  "url": "http://wiki.mhxg.org/ida/299024.html"
+                }
+              ]
+            },
+            {
+              "title": "他のクエスト発生に必要",
+              "text": "【特殊許可】天眼狩猟依頼G2 【特殊許可】鏖魔狩猟依頼G1",
+              "links": [
+                {
+                  "label": "【特殊許可】天眼狩猟依頼G2",
+                  "url": "http://wiki.mhxg.org/ida/309891.html"
+                },
+                {
+                  "label": "【特殊許可】鏖魔狩猟依頼G1",
+                  "url": "http://wiki.mhxg.org/ida/299159.html"
+                }
+              ]
+            }
+          ],
+          "questId": "permit-soulseer-g1-recipe-299157",
+          "order": 0,
+          "role": "hunter",
+          "tags": [
+            "normal"
+          ],
+          "permitStage": "G1"
+        },
+        {
+          "group": "天眼",
+          "stage": "g2",
+          "listName": "天眼狩猟依頼G2",
+          "listUrl": "http://wiki.mhxg.org/data/2997.html",
+          "url": "http://wiki.mhxg.org/ida/309891.html",
+          "icons": [
+            "狩猟",
+            "フラグ"
+          ],
+          "name": "【特殊許可】天眼狩猟依頼G2",
+          "detailTitle": "【特殊許可】天眼狩猟依頼G2 | 【MHXX】モンハンダブルクロス攻略レシピ",
+          "panels": [
+            {
+              "title": "備考",
+              "text": "【特殊許可】天眼捕獲依頼G1 クリア後",
+              "links": [
+                {
+                  "label": "【特殊許可】天眼捕獲依頼G1",
+                  "url": "http://wiki.mhxg.org/ida/299157.html"
+                }
+              ]
+            },
+            {
+              "title": "他のクエスト発生に必要",
+              "text": "【特殊許可】天眼狩猟依頼G3",
+              "links": [
+                {
+                  "label": "【特殊許可】天眼狩猟依頼G3",
+                  "url": "http://wiki.mhxg.org/ida/309892.html"
+                }
+              ]
+            }
+          ],
+          "questId": "permit-soulseer-g2-recipe-309891",
+          "order": 1,
+          "role": "hunter",
+          "tags": [
+            "normal"
+          ],
+          "permitStage": "G2"
+        },
+        {
+          "group": "天眼",
+          "stage": "g3",
+          "listName": "天眼狩猟依頼G3",
+          "listUrl": "http://wiki.mhxg.org/data/2997.html",
+          "url": "http://wiki.mhxg.org/ida/309892.html",
+          "icons": [
+            "狩猟",
+            "フラグ"
+          ],
+          "name": "【特殊許可】天眼狩猟依頼G3",
+          "detailTitle": "【特殊許可】天眼狩猟依頼G3 | 【MHXX】モンハンダブルクロス攻略レシピ",
+          "panels": [
+            {
+              "title": "備考",
+              "text": "【特殊許可】天眼狩猟依頼G2 クリア後",
+              "links": [
+                {
+                  "label": "【特殊許可】天眼狩猟依頼G2",
+                  "url": "http://wiki.mhxg.org/ida/309891.html"
+                }
+              ]
+            },
+            {
+              "title": "他のクエスト発生に必要",
+              "text": "【特殊許可】天眼狩猟依頼G4",
+              "links": [
+                {
+                  "label": "【特殊許可】天眼狩猟依頼G4",
+                  "url": "http://wiki.mhxg.org/ida/309893.html"
+                }
+              ]
+            }
+          ],
+          "questId": "permit-soulseer-g3-recipe-309892",
+          "order": 2,
+          "role": "hunter",
+          "tags": [
+            "normal"
+          ],
+          "permitStage": "G3"
+        },
+        {
+          "group": "天眼",
+          "stage": "g4",
+          "listName": "天眼狩猟依頼G4",
+          "listUrl": "http://wiki.mhxg.org/data/2997.html",
+          "url": "http://wiki.mhxg.org/ida/309893.html",
+          "icons": [
+            "狩猟",
+            "フラグ"
+          ],
+          "name": "【特殊許可】天眼狩猟依頼G4",
+          "detailTitle": "【特殊許可】天眼狩猟依頼G4 | 【MHXX】モンハンダブルクロス攻略レシピ",
+          "panels": [
+            {
+              "title": "備考",
+              "text": "【特殊許可】天眼狩猟依頼G3 クリア後",
+              "links": [
+                {
+                  "label": "【特殊許可】天眼狩猟依頼G3",
+                  "url": "http://wiki.mhxg.org/ida/309892.html"
+                }
+              ]
+            },
+            {
+              "title": "他のクエスト発生に必要",
+              "text": "【特殊許可】天眼狩猟依頼G5",
+              "links": [
+                {
+                  "label": "【特殊許可】天眼狩猟依頼G5",
+                  "url": "http://wiki.mhxg.org/ida/309894.html"
+                }
+              ]
+            }
+          ],
+          "questId": "permit-soulseer-g4-recipe-309893",
+          "order": 3,
+          "role": "hunter",
+          "tags": [
+            "normal"
+          ],
+          "permitStage": "G4"
+        },
+        {
+          "group": "天眼",
+          "stage": "g5",
+          "listName": "天眼狩猟依頼G5",
+          "listUrl": "http://wiki.mhxg.org/data/2997.html",
+          "url": "http://wiki.mhxg.org/ida/309894.html",
+          "icons": [
+            "狩猟",
+            "フラグ"
+          ],
+          "name": "【特殊許可】天眼狩猟依頼G5",
+          "detailTitle": "【特殊許可】天眼狩猟依頼G5 | 【MHXX】モンハンダブルクロス攻略レシピ",
+          "panels": [
+            {
+              "title": "備考",
+              "text": "【特殊許可】天眼狩猟依頼G4 クリア後",
+              "links": [
+                {
+                  "label": "【特殊許可】天眼狩猟依頼G4",
+                  "url": "http://wiki.mhxg.org/ida/309893.html"
+                }
+              ]
+            },
+            {
+              "title": "他のクエスト発生に必要",
+              "text": "【超特殊許可】天眼狩猟依頼",
+              "links": [
+                {
+                  "label": "【超特殊許可】天眼狩猟依頼",
+                  "url": "http://wiki.mhxg.org/ida/309895.html"
+                }
+              ]
+            }
+          ],
+          "questId": "permit-soulseer-g5-recipe-309894",
+          "order": 4,
+          "role": "hunter",
+          "tags": [
+            "normal"
+          ],
+          "permitStage": "G5"
+        },
+        {
+          "group": "天眼",
+          "stage": "super",
+          "listName": "【超】天眼狩猟依頼",
+          "listUrl": "http://wiki.mhxg.org/data/2997.html",
+          "url": "http://wiki.mhxg.org/ida/309895.html",
+          "icons": [
+            "狩猟"
+          ],
+          "name": "【超特殊許可】天眼狩猟依頼",
+          "detailTitle": "【超特殊許可】天眼狩猟依頼 | 【MHXX】モンハンダブルクロス攻略レシピ",
+          "panels": [
+            {
+              "title": "備考",
+              "text": "【特殊許可】天眼狩猟依頼G5 クリア後HR100以上",
+              "links": [
+                {
+                  "label": "【特殊許可】天眼狩猟依頼G5",
+                  "url": "http://wiki.mhxg.org/ida/309894.html"
+                }
+              ]
+            }
+          ],
+          "questId": "permit-soulseer-super-recipe-309895",
+          "order": 5,
+          "role": "hunter",
+          "tags": [
+            "normal"
+          ],
+          "permitStage": "超特殊許可"
+        }
+      ]
+    },
+    {
+      "id": "青電主",
+      "label": "青電主ライゼクス",
+      "legacy": false,
+      "observedCount": 6,
+      "entries": [
+        {
+          "group": "青電主",
+          "stage": "g1",
+          "listName": "青電主捕獲依頼G1",
+          "listUrl": "http://wiki.mhxg.org/data/2997.html",
+          "url": "http://wiki.mhxg.org/ida/299154.html",
+          "icons": [
+            "捕獲",
+            "フラグ"
+          ],
+          "name": "【特殊許可】青電主捕獲依頼G1",
+          "detailTitle": "【特殊許可】青電主捕獲依頼G1 | 【MHXX】モンハンダブルクロス攻略レシピ",
+          "panels": [
+            {
+              "title": "備考",
+              "text": "G★3ハロー遺群嶺！またはG★3電竜流狩人道場 クリア後",
+              "links": [
+                {
+                  "label": "G★3ハロー遺群嶺！",
+                  "url": "http://wiki.mhxg.org/ida/288289.html"
+                },
+                {
+                  "label": "G★3電竜流狩人道場",
+                  "url": "http://wiki.mhxg.org/ida/299027.html"
+                }
+              ]
+            },
+            {
+              "title": "他のクエスト発生に必要",
+              "text": "【特殊許可】青電主狩猟依頼G2 【特殊許可】鏖魔狩猟依頼G1",
+              "links": [
+                {
+                  "label": "【特殊許可】青電主狩猟依頼G2",
+                  "url": "http://wiki.mhxg.org/ida/299155.html"
+                },
+                {
+                  "label": "【特殊許可】鏖魔狩猟依頼G1",
+                  "url": "http://wiki.mhxg.org/ida/299159.html"
+                }
+              ]
+            }
+          ],
+          "questId": "permit-boltreaver-g1-recipe-299154",
+          "order": 0,
+          "role": "hunter",
+          "tags": [
+            "normal"
+          ],
+          "permitStage": "G1"
+        },
+        {
+          "group": "青電主",
+          "stage": "g2",
+          "listName": "青電主狩猟依頼G2",
+          "listUrl": "http://wiki.mhxg.org/data/2997.html",
+          "url": "http://wiki.mhxg.org/ida/299155.html",
+          "icons": [
+            "狩猟",
+            "フラグ"
+          ],
+          "name": "【特殊許可】青電主狩猟依頼G2",
+          "detailTitle": "【特殊許可】青電主狩猟依頼G2 | 【MHXX】モンハンダブルクロス攻略レシピ",
+          "panels": [
+            {
+              "title": "備考",
+              "text": "【特殊許可】青電主捕獲依頼G1 クリア後",
+              "links": [
+                {
+                  "label": "【特殊許可】青電主捕獲依頼G1",
+                  "url": "http://wiki.mhxg.org/ida/299154.html"
+                }
+              ]
+            },
+            {
+              "title": "他のクエスト発生に必要",
+              "text": "【特殊許可】青電主狩猟依頼G3",
+              "links": [
+                {
+                  "label": "【特殊許可】青電主狩猟依頼G3",
+                  "url": "http://wiki.mhxg.org/ida/309896.html"
+                }
+              ]
+            }
+          ],
+          "questId": "permit-boltreaver-g2-recipe-299155",
+          "order": 1,
+          "role": "hunter",
+          "tags": [
+            "normal"
+          ],
+          "permitStage": "G2"
+        },
+        {
+          "group": "青電主",
+          "stage": "g3",
+          "listName": "青電主狩猟依頼G3",
+          "listUrl": "http://wiki.mhxg.org/data/2997.html",
+          "url": "http://wiki.mhxg.org/ida/309896.html",
+          "icons": [
+            "狩猟",
+            "フラグ"
+          ],
+          "name": "【特殊許可】青電主狩猟依頼G3",
+          "detailTitle": "【特殊許可】青電主狩猟依頼G3 | 【MHXX】モンハンダブルクロス攻略レシピ",
+          "panels": [
+            {
+              "title": "備考",
+              "text": "【特殊許可】青電主狩猟依頼G2 クリア後",
+              "links": [
+                {
+                  "label": "【特殊許可】青電主狩猟依頼G2",
+                  "url": "http://wiki.mhxg.org/ida/299155.html"
+                }
+              ]
+            },
+            {
+              "title": "他のクエスト発生に必要",
+              "text": "【特殊許可】青電主狩猟依頼G4",
+              "links": [
+                {
+                  "label": "【特殊許可】青電主狩猟依頼G4",
+                  "url": "http://wiki.mhxg.org/ida/309897.html"
+                }
+              ]
+            }
+          ],
+          "questId": "permit-boltreaver-g3-recipe-309896",
+          "order": 2,
+          "role": "hunter",
+          "tags": [
+            "normal"
+          ],
+          "permitStage": "G3"
+        },
+        {
+          "group": "青電主",
+          "stage": "g4",
+          "listName": "青電主狩猟依頼G4",
+          "listUrl": "http://wiki.mhxg.org/data/2997.html",
+          "url": "http://wiki.mhxg.org/ida/309897.html",
+          "icons": [
+            "狩猟",
+            "フラグ"
+          ],
+          "name": "【特殊許可】青電主狩猟依頼G4",
+          "detailTitle": "【特殊許可】青電主狩猟依頼G4 | 【MHXX】モンハンダブルクロス攻略レシピ",
+          "panels": [
+            {
+              "title": "備考",
+              "text": "【特殊許可】青電主狩猟依頼G3 クリア後",
+              "links": [
+                {
+                  "label": "【特殊許可】青電主狩猟依頼G3",
+                  "url": "http://wiki.mhxg.org/ida/309896.html"
+                }
+              ]
+            },
+            {
+              "title": "他のクエスト発生に必要",
+              "text": "【特殊許可】青電主狩猟依頼G5",
+              "links": [
+                {
+                  "label": "【特殊許可】青電主狩猟依頼G5",
+                  "url": "http://wiki.mhxg.org/ida/299156.html"
+                }
+              ]
+            }
+          ],
+          "questId": "permit-boltreaver-g4-recipe-309897",
+          "order": 3,
+          "role": "hunter",
+          "tags": [
+            "normal"
+          ],
+          "permitStage": "G4"
+        },
+        {
+          "group": "青電主",
+          "stage": "g5",
+          "listName": "青電主狩猟依頼G5",
+          "listUrl": "http://wiki.mhxg.org/data/2997.html",
+          "url": "http://wiki.mhxg.org/ida/299156.html",
+          "icons": [
+            "狩猟",
+            "フラグ"
+          ],
+          "name": "【特殊許可】青電主狩猟依頼G5",
+          "detailTitle": "【特殊許可】青電主狩猟依頼G5 | 【MHXX】モンハンダブルクロス攻略レシピ",
+          "panels": [
+            {
+              "title": "備考",
+              "text": "【特殊許可】青電主狩猟依頼G4 クリア後",
+              "links": [
+                {
+                  "label": "【特殊許可】青電主狩猟依頼G4",
+                  "url": "http://wiki.mhxg.org/ida/309897.html"
+                }
+              ]
+            },
+            {
+              "title": "他のクエスト発生に必要",
+              "text": "【超特殊許可】青電主狩猟依頼",
+              "links": [
+                {
+                  "label": "【超特殊許可】青電主狩猟依頼",
+                  "url": "http://wiki.mhxg.org/ida/309898.html"
+                }
+              ]
+            }
+          ],
+          "questId": "permit-boltreaver-g5-recipe-299156",
+          "order": 4,
+          "role": "hunter",
+          "tags": [
+            "normal"
+          ],
+          "permitStage": "G5"
+        },
+        {
+          "group": "青電主",
+          "stage": "super",
+          "listName": "【超】青電主狩猟依頼",
+          "listUrl": "http://wiki.mhxg.org/data/2997.html",
+          "url": "http://wiki.mhxg.org/ida/309898.html",
+          "icons": [
+            "狩猟"
+          ],
+          "name": "【超特殊許可】青電主狩猟依頼",
+          "detailTitle": "【超特殊許可】青電主狩猟依頼 | 【MHXX】モンハンダブルクロス攻略レシピ",
+          "panels": [
+            {
+              "title": "備考",
+              "text": "【特殊許可】青電主狩猟依頼G5 クリア後HR100以上",
+              "links": [
+                {
+                  "label": "【特殊許可】青電主狩猟依頼G5",
+                  "url": "http://wiki.mhxg.org/ida/299156.html"
+                }
+              ]
+            }
+          ],
+          "questId": "permit-boltreaver-super-recipe-309898",
+          "order": 5,
+          "role": "hunter",
+          "tags": [
+            "normal"
+          ],
+          "permitStage": "超特殊許可"
+        }
+      ]
+    },
+    {
+      "id": "銀嶺",
+      "label": "銀嶺ガムート",
+      "legacy": false,
+      "observedCount": 6,
+      "entries": [
+        {
+          "group": "銀嶺",
+          "stage": "g1",
+          "listName": "銀嶺捕獲依頼G1",
+          "listUrl": "http://wiki.mhxg.org/data/2997.html",
+          "url": "http://wiki.mhxg.org/ida/299158.html",
+          "icons": [
+            "捕獲",
+            "フラグ"
+          ],
+          "name": "【特殊許可】銀嶺捕獲依頼G1",
+          "detailTitle": "【特殊許可】銀嶺捕獲依頼G1 | 【MHXX】モンハンダブルクロス攻略レシピ",
+          "panels": [
+            {
+              "title": "備考",
+              "text": "G★3氷海のすばらしい氷またはG★3巨獣流狩人道場 クリア後",
+              "links": [
+                {
+                  "label": "G★3氷海のすばらしい氷",
+                  "url": "http://wiki.mhxg.org/ida/288293.html"
+                },
+                {
+                  "label": "G★3巨獣流狩人道場",
+                  "url": "http://wiki.mhxg.org/ida/299022.html"
+                }
+              ]
+            },
+            {
+              "title": "他のクエスト発生に必要",
+              "text": "【特殊許可】銀嶺狩猟依頼G2 【特殊許可】鏖魔狩猟依頼G1",
+              "links": [
+                {
+                  "label": "【特殊許可】銀嶺狩猟依頼G2",
+                  "url": "http://wiki.mhxg.org/ida/309899.html"
+                },
+                {
+                  "label": "【特殊許可】鏖魔狩猟依頼G1",
+                  "url": "http://wiki.mhxg.org/ida/299159.html"
+                }
+              ]
+            }
+          ],
+          "questId": "permit-elderfrost-g1-recipe-299158",
+          "order": 0,
+          "role": "hunter",
+          "tags": [
+            "normal"
+          ],
+          "permitStage": "G1"
+        },
+        {
+          "group": "銀嶺",
+          "stage": "g2",
+          "listName": "銀嶺狩猟依頼G2",
+          "listUrl": "http://wiki.mhxg.org/data/2997.html",
+          "url": "http://wiki.mhxg.org/ida/309899.html",
+          "icons": [
+            "狩猟",
+            "フラグ"
+          ],
+          "name": "【特殊許可】銀嶺狩猟依頼G2",
+          "detailTitle": "【特殊許可】銀嶺狩猟依頼G2 | 【MHXX】モンハンダブルクロス攻略レシピ",
+          "panels": [
+            {
+              "title": "備考",
+              "text": "【特殊許可】銀嶺捕獲依頼G1 クリア後",
+              "links": [
+                {
+                  "label": "【特殊許可】銀嶺捕獲依頼G1",
+                  "url": "http://wiki.mhxg.org/ida/299158.html"
+                }
+              ]
+            },
+            {
+              "title": "他のクエスト発生に必要",
+              "text": "【特殊許可】銀嶺狩猟依頼G3",
+              "links": [
+                {
+                  "label": "【特殊許可】銀嶺狩猟依頼G3",
+                  "url": "http://wiki.mhxg.org/ida/309900.html"
+                }
+              ]
+            }
+          ],
+          "questId": "permit-elderfrost-g2-recipe-309899",
+          "order": 1,
+          "role": "hunter",
+          "tags": [
+            "normal"
+          ],
+          "permitStage": "G2"
+        },
+        {
+          "group": "銀嶺",
+          "stage": "g3",
+          "listName": "銀嶺狩猟依頼G3",
+          "listUrl": "http://wiki.mhxg.org/data/2997.html",
+          "url": "http://wiki.mhxg.org/ida/309900.html",
+          "icons": [
+            "狩猟",
+            "フラグ"
+          ],
+          "name": "【特殊許可】銀嶺狩猟依頼G3",
+          "detailTitle": "【特殊許可】銀嶺狩猟依頼G3 | 【MHXX】モンハンダブルクロス攻略レシピ",
+          "panels": [
+            {
+              "title": "備考",
+              "text": "【特殊許可】銀嶺狩猟依頼G2 クリア後",
+              "links": [
+                {
+                  "label": "【特殊許可】銀嶺狩猟依頼G2",
+                  "url": "http://wiki.mhxg.org/ida/309899.html"
+                }
+              ]
+            },
+            {
+              "title": "他のクエスト発生に必要",
+              "text": "【特殊許可】銀嶺狩猟依頼G4",
+              "links": [
+                {
+                  "label": "【特殊許可】銀嶺狩猟依頼G4",
+                  "url": "http://wiki.mhxg.org/ida/309901.html"
+                }
+              ]
+            }
+          ],
+          "questId": "permit-elderfrost-g3-recipe-309900",
+          "order": 2,
+          "role": "hunter",
+          "tags": [
+            "normal"
+          ],
+          "permitStage": "G3"
+        },
+        {
+          "group": "銀嶺",
+          "stage": "g4",
+          "listName": "銀嶺狩猟依頼G4",
+          "listUrl": "http://wiki.mhxg.org/data/2997.html",
+          "url": "http://wiki.mhxg.org/ida/309901.html",
+          "icons": [
+            "狩猟",
+            "フラグ"
+          ],
+          "name": "【特殊許可】銀嶺狩猟依頼G4",
+          "detailTitle": "【特殊許可】銀嶺狩猟依頼G4 | 【MHXX】モンハンダブルクロス攻略レシピ",
+          "panels": [
+            {
+              "title": "備考",
+              "text": "【特殊許可】銀嶺狩猟依頼G3 クリア後",
+              "links": [
+                {
+                  "label": "【特殊許可】銀嶺狩猟依頼G3",
+                  "url": "http://wiki.mhxg.org/ida/309900.html"
+                }
+              ]
+            },
+            {
+              "title": "他のクエスト発生に必要",
+              "text": "【特殊許可】銀嶺狩猟依頼G5",
+              "links": [
+                {
+                  "label": "【特殊許可】銀嶺狩猟依頼G5",
+                  "url": "http://wiki.mhxg.org/ida/309902.html"
+                }
+              ]
+            }
+          ],
+          "questId": "permit-elderfrost-g4-recipe-309901",
+          "order": 3,
+          "role": "hunter",
+          "tags": [
+            "normal"
+          ],
+          "permitStage": "G4"
+        },
+        {
+          "group": "銀嶺",
+          "stage": "g5",
+          "listName": "銀嶺狩猟依頼G5",
+          "listUrl": "http://wiki.mhxg.org/data/2997.html",
+          "url": "http://wiki.mhxg.org/ida/309902.html",
+          "icons": [
+            "狩猟",
+            "フラグ"
+          ],
+          "name": "【特殊許可】銀嶺狩猟依頼G5",
+          "detailTitle": "【特殊許可】銀嶺狩猟依頼G5 | 【MHXX】モンハンダブルクロス攻略レシピ",
+          "panels": [
+            {
+              "title": "備考",
+              "text": "【特殊許可】銀嶺狩猟依頼G4 クリア後",
+              "links": [
+                {
+                  "label": "【特殊許可】銀嶺狩猟依頼G4",
+                  "url": "http://wiki.mhxg.org/ida/309901.html"
+                }
+              ]
+            },
+            {
+              "title": "他のクエスト発生に必要",
+              "text": "【超特殊許可】銀嶺狩猟依頼",
+              "links": [
+                {
+                  "label": "【超特殊許可】銀嶺狩猟依頼",
+                  "url": "http://wiki.mhxg.org/ida/309903.html"
+                }
+              ]
+            }
+          ],
+          "questId": "permit-elderfrost-g5-recipe-309902",
+          "order": 4,
+          "role": "hunter",
+          "tags": [
+            "normal"
+          ],
+          "permitStage": "G5"
+        },
+        {
+          "group": "銀嶺",
+          "stage": "super",
+          "listName": "【超】銀嶺狩猟依頼",
+          "listUrl": "http://wiki.mhxg.org/data/2997.html",
+          "url": "http://wiki.mhxg.org/ida/309903.html",
+          "icons": [
+            "狩猟"
+          ],
+          "name": "【超特殊許可】銀嶺狩猟依頼",
+          "detailTitle": "【超特殊許可】銀嶺狩猟依頼 | 【MHXX】モンハンダブルクロス攻略レシピ",
+          "panels": [
+            {
+              "title": "備考",
+              "text": "【特殊許可】銀嶺狩猟依頼G5 クリア後HR100以上",
+              "links": [
+                {
+                  "label": "【特殊許可】銀嶺狩猟依頼G5",
+                  "url": "http://wiki.mhxg.org/ida/309902.html"
+                }
+              ]
+            }
+          ],
+          "questId": "permit-elderfrost-super-recipe-309903",
+          "order": 5,
+          "role": "hunter",
+          "tags": [
+            "normal"
+          ],
+          "permitStage": "超特殊許可"
+        }
+      ]
+    },
+    {
+      "id": "鏖魔",
+      "label": "鏖魔ディアブロス",
+      "legacy": false,
+      "observedCount": 6,
+      "entries": [
+        {
+          "group": "鏖魔",
+          "stage": "g1",
+          "listName": "鏖魔狩猟依頼G1",
+          "listUrl": "http://wiki.mhxg.org/data/2997.html",
+          "url": "http://wiki.mhxg.org/ida/299159.html",
+          "icons": [
+            "狩猟",
+            "依頼",
+            "入手",
+            "フラグ"
+          ],
+          "name": "【特殊許可】鏖魔狩猟依頼G1",
+          "detailTitle": "【特殊許可】鏖魔狩猟依頼G1 | 【MHXX】モンハンダブルクロス攻略レシピ",
+          "panels": [
+            {
+              "title": "備考",
+              "text": "G★4蠢く墟城【特殊許可】朧隠捕獲依頼G1【特殊許可】鎧裂捕獲依頼G1【特殊許可】天眼捕獲依頼G1【特殊許可】青電主捕獲依頼G1【特殊許可】銀嶺捕獲依頼G1 クリア後に酒場で会話し、クエストを1回クリアする",
+              "links": [
+                {
+                  "label": "G★4蠢く墟城",
+                  "url": "http://wiki.mhxg.org/ida/294013.html"
+                },
+                {
+                  "label": "【特殊許可】朧隠捕獲依頼G1",
+                  "url": "http://wiki.mhxg.org/ida/299150.html"
+                },
+                {
+                  "label": "【特殊許可】鎧裂捕獲依頼G1",
+                  "url": "http://wiki.mhxg.org/ida/299152.html"
+                },
+                {
+                  "label": "【特殊許可】天眼捕獲依頼G1",
+                  "url": "http://wiki.mhxg.org/ida/299157.html"
+                },
+                {
+                  "label": "【特殊許可】青電主捕獲依頼G1",
+                  "url": "http://wiki.mhxg.org/ida/299154.html"
+                },
+                {
+                  "label": "【特殊許可】銀嶺捕獲依頼G1",
+                  "url": "http://wiki.mhxg.org/ida/299158.html"
+                }
+              ]
+            },
+            {
+              "title": "依頼",
+              "text": "[受注] その他 その他10 [依頼出現条件] - 入手 セーリオシリーズシャルマンシリーズ",
+              "links": [
+                {
+                  "label": "その他10",
+                  "url": "http://wiki.mhxg.org/ida/326039.html"
+                },
+                {
+                  "label": "セーリオシリーズ",
+                  "url": "http://wiki.mhxg.org/ida/293022.html"
+                },
+                {
+                  "label": "シャルマンシリーズ",
+                  "url": "http://wiki.mhxg.org/ida/295678.html"
+                }
+              ]
+            },
+            {
+              "title": "他のクエスト発生に必要",
+              "text": "【特殊許可】鏖魔捕獲依頼G2",
+              "links": [
+                {
+                  "label": "【特殊許可】鏖魔捕獲依頼G2",
+                  "url": "http://wiki.mhxg.org/ida/309904.html"
+                }
+              ]
+            }
+          ],
+          "questId": "permit-bloodbath-g1-recipe-299159",
+          "order": 0,
+          "role": "hunter",
+          "tags": [
+            "request"
+          ],
+          "permitStage": "G1"
+        },
+        {
+          "group": "鏖魔",
+          "stage": "g2",
+          "listName": "鏖魔捕獲依頼G2",
+          "listUrl": "http://wiki.mhxg.org/data/2997.html",
+          "url": "http://wiki.mhxg.org/ida/309904.html",
+          "icons": [
+            "捕獲",
+            "フラグ"
+          ],
+          "name": "【特殊許可】鏖魔捕獲依頼G2",
+          "detailTitle": "【特殊許可】鏖魔捕獲依頼G2 | 【MHXX】モンハンダブルクロス攻略レシピ",
+          "panels": [
+            {
+              "title": "備考",
+              "text": "【特殊許可】鏖魔狩猟依頼G1 クリア後",
+              "links": [
+                {
+                  "label": "【特殊許可】鏖魔狩猟依頼G1",
+                  "url": "http://wiki.mhxg.org/ida/299159.html"
+                }
+              ]
+            },
+            {
+              "title": "他のクエスト発生に必要",
+              "text": "【特殊許可】鏖魔狩猟依頼G3",
+              "links": [
+                {
+                  "label": "【特殊許可】鏖魔狩猟依頼G3",
+                  "url": "http://wiki.mhxg.org/ida/299160.html"
+                }
+              ]
+            }
+          ],
+          "questId": "permit-bloodbath-g2-recipe-309904",
+          "order": 1,
+          "role": "hunter",
+          "tags": [
+            "normal"
+          ],
+          "permitStage": "G2"
+        },
+        {
+          "group": "鏖魔",
+          "stage": "g3",
+          "listName": "鏖魔狩猟依頼G3",
+          "listUrl": "http://wiki.mhxg.org/data/2997.html",
+          "url": "http://wiki.mhxg.org/ida/299160.html",
+          "icons": [
+            "狩猟",
+            "フラグ"
+          ],
+          "name": "【特殊許可】鏖魔狩猟依頼G3",
+          "detailTitle": "【特殊許可】鏖魔狩猟依頼G3 | 【MHXX】モンハンダブルクロス攻略レシピ",
+          "panels": [
+            {
+              "title": "備考",
+              "text": "【特殊許可】鏖魔捕獲依頼G2 クリア後",
+              "links": [
+                {
+                  "label": "【特殊許可】鏖魔捕獲依頼G2",
+                  "url": "http://wiki.mhxg.org/ida/309904.html"
+                }
+              ]
+            },
+            {
+              "title": "他のクエスト発生に必要",
+              "text": "【特殊許可】鏖魔狩猟依頼G4",
+              "links": [
+                {
+                  "label": "【特殊許可】鏖魔狩猟依頼G4",
+                  "url": "http://wiki.mhxg.org/ida/299161.html"
+                }
+              ]
+            }
+          ],
+          "questId": "permit-bloodbath-g3-recipe-299160",
+          "order": 2,
+          "role": "hunter",
+          "tags": [
+            "normal"
+          ],
+          "permitStage": "G3"
+        },
+        {
+          "group": "鏖魔",
+          "stage": "g4",
+          "listName": "鏖魔狩猟依頼G4",
+          "listUrl": "http://wiki.mhxg.org/data/2997.html",
+          "url": "http://wiki.mhxg.org/ida/299161.html",
+          "icons": [
+            "狩猟",
+            "フラグ"
+          ],
+          "name": "【特殊許可】鏖魔狩猟依頼G4",
+          "detailTitle": "【特殊許可】鏖魔狩猟依頼G4 | 【MHXX】モンハンダブルクロス攻略レシピ",
+          "panels": [
+            {
+              "title": "備考",
+              "text": "【特殊許可】鏖魔狩猟依頼G3 クリア後",
+              "links": [
+                {
+                  "label": "【特殊許可】鏖魔狩猟依頼G3",
+                  "url": "http://wiki.mhxg.org/ida/299160.html"
+                }
+              ]
+            },
+            {
+              "title": "他のクエスト発生に必要",
+              "text": "【特殊許可】鏖魔狩猟依頼G5",
+              "links": [
+                {
+                  "label": "【特殊許可】鏖魔狩猟依頼G5",
+                  "url": "http://wiki.mhxg.org/ida/299162.html"
+                }
+              ]
+            }
+          ],
+          "questId": "permit-bloodbath-g4-recipe-299161",
+          "order": 3,
+          "role": "hunter",
+          "tags": [
+            "normal"
+          ],
+          "permitStage": "G4"
+        },
+        {
+          "group": "鏖魔",
+          "stage": "g5",
+          "listName": "鏖魔狩猟依頼G5",
+          "listUrl": "http://wiki.mhxg.org/data/2997.html",
+          "url": "http://wiki.mhxg.org/ida/299162.html",
+          "icons": [
+            "狩猟",
+            "フラグ"
+          ],
+          "name": "【特殊許可】鏖魔狩猟依頼G5",
+          "detailTitle": "【特殊許可】鏖魔狩猟依頼G5 | 【MHXX】モンハンダブルクロス攻略レシピ",
+          "panels": [
+            {
+              "title": "備考",
+              "text": "【特殊許可】鏖魔狩猟依頼G4 クリア後",
+              "links": [
+                {
+                  "label": "【特殊許可】鏖魔狩猟依頼G4",
+                  "url": "http://wiki.mhxg.org/ida/299161.html"
+                }
+              ]
+            },
+            {
+              "title": "他のクエスト発生に必要",
+              "text": "【超特殊許可】鏖魔狩猟依頼",
+              "links": [
+                {
+                  "label": "【超特殊許可】鏖魔狩猟依頼",
+                  "url": "http://wiki.mhxg.org/ida/309905.html"
+                }
+              ]
+            }
+          ],
+          "questId": "permit-bloodbath-g5-recipe-299162",
+          "order": 4,
+          "role": "hunter",
+          "tags": [
+            "normal"
+          ],
+          "permitStage": "G5"
+        },
+        {
+          "group": "鏖魔",
+          "stage": "super",
+          "listName": "【超】鏖魔狩猟依頼",
+          "listUrl": "http://wiki.mhxg.org/data/2997.html",
+          "url": "http://wiki.mhxg.org/ida/309905.html",
+          "icons": [
+            "狩猟"
+          ],
+          "name": "【超特殊許可】鏖魔狩猟依頼",
+          "detailTitle": "【超特殊許可】鏖魔狩猟依頼 | 【MHXX】モンハンダブルクロス攻略レシピ",
+          "panels": [
+            {
+              "title": "備考",
+              "text": "【特殊許可】鏖魔狩猟依頼G5 クリア後HR100以上",
+              "links": [
+                {
+                  "label": "【特殊許可】鏖魔狩猟依頼G5",
+                  "url": "http://wiki.mhxg.org/ida/299162.html"
+                }
+              ]
+            }
+          ],
+          "questId": "permit-bloodbath-super-recipe-309905",
+          "order": 5,
+          "role": "hunter",
+          "tags": [
+            "normal"
+          ],
+          "permitStage": "超特殊許可"
+        }
+      ]
     }
   ]
 }

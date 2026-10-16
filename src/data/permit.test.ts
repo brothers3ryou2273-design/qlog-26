@@ -36,3 +36,34 @@ describe("special permit observed groups",()=>{
   expect(validateQuests(quests)).toEqual([]);
  });
 });
+
+it("observed permit rosters total 228 with 12 original and 6 new groups, including 18 separate supers",()=>{
+ const permits=quests.filter(q=>q.category==='permit');
+ expect(permits).toHaveLength(228);
+ expect(audit.groups.filter(g=>g.legacy)).toHaveLength(12);
+ expect(audit.groups.filter(g=>!g.legacy)).toHaveLength(6);
+ expect(permits.filter(q=>q.permitStage==='超特殊許可')).toHaveLength(18);
+ expect(permits.filter(q=>q.permitStage==='G5')).toHaveLength(18);
+ for(const group of audit.groups)for(const row of group.entries){
+  const q=permits.find(q=>q.id===row.questId)!;
+  expect(q.role).toBe(row.icons.includes('ニャンター')?'prowler':'hunter');
+  const flags=[['キー','key'],['緊急','urgent'],['依頼','request']].filter(([icon])=>row.icons.includes(icon)).map(([,tag])=>tag);
+  expect(q.tags).toEqual(flags.length?flags:['normal']);
+ }
+});
+it("new G1 alternatives are OR, while Bloodbath preserves all five G1s, final urgent, HR and ordered action",()=>{
+ const named=(group:string,stage:string)=>quests.find(q=>q.category==='permit'&&q.rank===group&&q.permitStage===stage)!;
+ for(const group of ['朧隠','鎧裂','天眼','青電主','銀嶺']){
+  const q=named(group,'G1');
+  const refs=references(q.condition);
+  expect(refs.length).toBe(group==='朧隠'?3:2);
+  for(const id of refs)expect(evaluate(q.condition,{schemaVersion:1,completedQuestIds:[id],hr:999})).toBe('met');
+ }
+ const blood=named('鏖魔','G1');const refs=references(blood.condition);
+ expect(refs).toHaveLength(6);
+ expect(refs).toContain('g-rank-4-recipe-294013');
+ expect(evaluate(blood.condition,{schemaVersion:1,completedQuestIds:quests.map(q=>q.id),hr:999})).toBe('unknown');
+ for(const id of refs)expect(evaluate(blood.condition,{schemaVersion:1,completedQuestIds:refs.filter(x=>x!==id),hr:999})).toBe('unmet');
+ expect(JSON.stringify(blood.condition)).toContain('クエスト1回');
+ expect(blood.unlocks.filter(u=>u.label.includes('特別入手'))).toHaveLength(2);
+});

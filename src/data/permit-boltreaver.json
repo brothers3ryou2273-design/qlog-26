@@ -1,0 +1,388 @@
+[
+  {
+    "id": "permit-boltreaver-g1-recipe-299154",
+    "name": "【特殊許可】青電主捕獲依頼G1",
+    "category": "permit",
+    "rank": "青電主",
+    "order": 0,
+    "permitStage": "G1",
+    "role": "hunter",
+    "tags": [
+      "normal"
+    ],
+    "condition": {
+      "kind": "all",
+      "rules": [
+        {
+          "kind": "any",
+          "rules": [
+            {
+              "kind": "quest_cleared",
+              "questId": "g-rank-3-recipe-288289"
+            },
+            {
+              "kind": "quest_cleared",
+              "questId": "g-rank-3-recipe-299027"
+            }
+          ]
+        },
+        {
+          "kind": "hr_at_least",
+          "value": 11
+        }
+      ]
+    },
+    "npcNotes": [
+      "受注・参加資料：HR11以上、特殊許可券【青電主】を8枚以上所持。券の所持数・消費は管理していません。"
+    ],
+    "unlocks": [
+      {
+        "kind": "other",
+        "label": "青電主：オトモ二つ名武器・防具【X】（製法）",
+        "note": "ニャンター専門Wikiが明記した作成条件のクリア段階。オトモ装備が対象で、ハンター装備全般の製法解放を意味しません。生産には対応する証・端材・素材・費用が別途必要。XXは証の入手条件も必要です。"
+      }
+    ],
+    "sources": [
+      {
+        "url": "http://wiki.mhxg.org/ida/299154.html",
+        "site": "MHXX攻略レシピ",
+        "kind": "detail",
+        "checkedAt": "2026-10-16"
+      },
+      {
+        "url": "http://wiki.mhxg.org/data/2997.html",
+        "site": "MHXX攻略レシピ（特殊許可一覧）",
+        "kind": "list",
+        "checkedAt": "2026-10-16"
+      },
+      {
+        "url": "https://game8.jp/mh-xx/824139",
+        "site": "Game8 MHXX（受注HR・許可券）",
+        "kind": "detail",
+        "checkedAt": "2026-10-16"
+      },
+      {
+        "url": "https://w.atwiki.jp/mhxxnyanter/pages/20.html",
+        "site": "MHXXニャンターwiki（二つ名オトモ武具）",
+        "kind": "list",
+        "checkedAt": "2026-10-16"
+      }
+    ],
+    "verification": "partial",
+    "verificationNote": "攻略レシピの一覧・個別タイトル・条件を照合。自分で受注して段階が進んだクリアを記録。素材・狩猟証だけを機能解放と判断しません。",
+    "warnings": []
+  },
+  {
+    "id": "permit-boltreaver-g2-recipe-299155",
+    "name": "【特殊許可】青電主狩猟依頼G2",
+    "category": "permit",
+    "rank": "青電主",
+    "order": 1,
+    "permitStage": "G2",
+    "role": "hunter",
+    "tags": [
+      "normal"
+    ],
+    "condition": {
+      "kind": "all",
+      "rules": [
+        {
+          "kind": "quest_cleared",
+          "questId": "permit-boltreaver-g1-recipe-299154"
+        },
+        {
+          "kind": "hr_at_least",
+          "value": 11
+        }
+      ]
+    },
+    "npcNotes": [
+      "受注・参加資料：HR11以上、特殊許可券【青電主】を8枚以上所持。券の所持数・消費は管理していません。"
+    ],
+    "unlocks": [],
+    "sources": [
+      {
+        "url": "http://wiki.mhxg.org/ida/299155.html",
+        "site": "MHXX攻略レシピ",
+        "kind": "detail",
+        "checkedAt": "2026-10-16"
+      },
+      {
+        "url": "http://wiki.mhxg.org/data/2997.html",
+        "site": "MHXX攻略レシピ（特殊許可一覧）",
+        "kind": "list",
+        "checkedAt": "2026-10-16"
+      },
+      {
+        "url": "https://game8.jp/mh-xx/824141",
+        "site": "Game8 MHXX（受注HR・許可券）",
+        "kind": "detail",
+        "checkedAt": "2026-10-16"
+      }
+    ],
+    "verification": "partial",
+    "verificationNote": "攻略レシピの一覧・個別タイトル・条件を照合。自分で受注して段階が進んだクリアを記録。素材・狩猟証だけを機能解放と判断しません。",
+    "warnings": []
+  },
+  {
+    "id": "permit-boltreaver-g3-recipe-309896",
+    "name": "【特殊許可】青電主狩猟依頼G3",
+    "category": "permit",
+    "rank": "青電主",
+    "order": 2,
+    "permitStage": "G3",
+    "role": "hunter",
+    "tags": [
+      "normal"
+    ],
+    "condition": {
+      "kind": "all",
+      "rules": [
+        {
+          "kind": "quest_cleared",
+          "questId": "permit-boltreaver-g2-recipe-299155"
+        },
+        {
+          "kind": "hr_at_least",
+          "value": 11
+        }
+      ]
+    },
+    "npcNotes": [
+      "受注・参加資料：HR11以上、特殊許可券【青電主】を9枚以上所持。券の所持数・消費は管理していません。"
+    ],
+    "unlocks": [
+      {
+        "kind": "other",
+        "label": "青電主：オトモ二つ名防具【XX】（製法）",
+        "note": "ニャンター専門Wikiが明記した作成条件のクリア段階。オトモ装備が対象で、ハンター装備全般の製法解放を意味しません。生産には対応する証・端材・素材・費用が別途必要。XXは証の入手条件も必要です。"
+      }
+    ],
+    "sources": [
+      {
+        "url": "http://wiki.mhxg.org/ida/309896.html",
+        "site": "MHXX攻略レシピ",
+        "kind": "detail",
+        "checkedAt": "2026-10-16"
+      },
+      {
+        "url": "http://wiki.mhxg.org/data/2997.html",
+        "site": "MHXX攻略レシピ（特殊許可一覧）",
+        "kind": "list",
+        "checkedAt": "2026-10-16"
+      },
+      {
+        "url": "https://game8.jp/mh-xx/824142",
+        "site": "Game8 MHXX（受注HR・許可券）",
+        "kind": "detail",
+        "checkedAt": "2026-10-16"
+      },
+      {
+        "url": "https://w.atwiki.jp/mhxxnyanter/pages/20.html",
+        "site": "MHXXニャンターwiki（二つ名オトモ武具）",
+        "kind": "list",
+        "checkedAt": "2026-10-16"
+      }
+    ],
+    "verification": "partial",
+    "verificationNote": "攻略レシピの一覧・個別タイトル・条件を照合。自分で受注して段階が進んだクリアを記録。素材・狩猟証だけを機能解放と判断しません。",
+    "warnings": []
+  },
+  {
+    "id": "permit-boltreaver-g4-recipe-309897",
+    "name": "【特殊許可】青電主狩猟依頼G4",
+    "category": "permit",
+    "rank": "青電主",
+    "order": 3,
+    "permitStage": "G4",
+    "role": "hunter",
+    "tags": [
+      "normal"
+    ],
+    "condition": {
+      "kind": "all",
+      "rules": [
+        {
+          "kind": "quest_cleared",
+          "questId": "permit-boltreaver-g3-recipe-309896"
+        },
+        {
+          "kind": "hr_at_least",
+          "value": 13
+        }
+      ]
+    },
+    "npcNotes": [
+      "受注・参加資料：HR13以上、特殊許可券【青電主】を9枚以上所持。券の所持数・消費は管理していません。"
+    ],
+    "unlocks": [
+      {
+        "kind": "other",
+        "label": "青電主：オトモ二つ名武器【XX】（製法）",
+        "note": "ニャンター専門Wikiが明記した作成条件のクリア段階。オトモ装備が対象で、ハンター装備全般の製法解放を意味しません。生産には対応する証・端材・素材・費用が別途必要。XXは証の入手条件も必要です。"
+      }
+    ],
+    "sources": [
+      {
+        "url": "http://wiki.mhxg.org/ida/309897.html",
+        "site": "MHXX攻略レシピ",
+        "kind": "detail",
+        "checkedAt": "2026-10-16"
+      },
+      {
+        "url": "http://wiki.mhxg.org/data/2997.html",
+        "site": "MHXX攻略レシピ（特殊許可一覧）",
+        "kind": "list",
+        "checkedAt": "2026-10-16"
+      },
+      {
+        "url": "https://game8.jp/mh-xx/824143",
+        "site": "Game8 MHXX（受注HR・許可券）",
+        "kind": "detail",
+        "checkedAt": "2026-10-16"
+      },
+      {
+        "url": "https://w.atwiki.jp/mhxxnyanter/pages/20.html",
+        "site": "MHXXニャンターwiki（二つ名オトモ武具）",
+        "kind": "list",
+        "checkedAt": "2026-10-16"
+      }
+    ],
+    "verification": "partial",
+    "verificationNote": "攻略レシピの一覧・個別タイトル・条件を照合。自分で受注して段階が進んだクリアを記録。素材・狩猟証だけを機能解放と判断しません。",
+    "warnings": []
+  },
+  {
+    "id": "permit-boltreaver-g5-recipe-299156",
+    "name": "【特殊許可】青電主狩猟依頼G5",
+    "category": "permit",
+    "rank": "青電主",
+    "order": 4,
+    "permitStage": "G5",
+    "role": "hunter",
+    "tags": [
+      "normal"
+    ],
+    "condition": {
+      "kind": "all",
+      "rules": [
+        {
+          "kind": "quest_cleared",
+          "questId": "permit-boltreaver-g4-recipe-309897"
+        },
+        {
+          "kind": "hr_at_least",
+          "value": 13
+        }
+      ]
+    },
+    "npcNotes": [
+      "受注・参加資料：HR13以上、特殊許可券【青電主】を9枚以上所持。券の所持数・消費は管理していません。"
+    ],
+    "unlocks": [],
+    "sources": [
+      {
+        "url": "http://wiki.mhxg.org/ida/299156.html",
+        "site": "MHXX攻略レシピ",
+        "kind": "detail",
+        "checkedAt": "2026-10-16"
+      },
+      {
+        "url": "http://wiki.mhxg.org/data/2997.html",
+        "site": "MHXX攻略レシピ（特殊許可一覧）",
+        "kind": "list",
+        "checkedAt": "2026-10-16"
+      },
+      {
+        "url": "https://game8.jp/mh-xx/824144",
+        "site": "Game8 MHXX（受注HR・許可券）",
+        "kind": "detail",
+        "checkedAt": "2026-10-16"
+      }
+    ],
+    "verification": "partial",
+    "verificationNote": "攻略レシピの一覧・個別タイトル・条件を照合。自分で受注して段階が進んだクリアを記録。素材・狩猟証だけを機能解放と判断しません。",
+    "warnings": []
+  },
+  {
+    "id": "permit-boltreaver-super-recipe-309898",
+    "name": "【超特殊許可】青電主狩猟依頼",
+    "category": "permit",
+    "rank": "青電主",
+    "order": 5,
+    "permitStage": "超特殊許可",
+    "role": "hunter",
+    "tags": [
+      "normal"
+    ],
+    "condition": {
+      "kind": "all",
+      "rules": [
+        {
+          "kind": "quest_cleared",
+          "questId": "permit-boltreaver-g5-recipe-299156"
+        },
+        {
+          "kind": "hr_at_least",
+          "value": 100
+        }
+      ]
+    },
+    "npcNotes": [
+      "受注・参加資料：HR100以上、特殊許可券【青電主】を10枚以上所持。券の所持数・消費は管理していません。"
+    ],
+    "unlocks": [
+      {
+        "kind": "facility",
+        "label": "防具合成の研究：青電主",
+        "note": "HR100以上で対象の超特殊許可をクリアした後の研究項目。研究室の開放と、研究室での研究・ポイント／素材等を使う操作が別途必要です。参加クリアだけでの開放可否は今回の資料から明確に確認できていません。このアプリでは自分で受注してクリアした記録を使用します。"
+      },
+      {
+        "kind": "other",
+        "label": "称号：リヴォルト",
+        "note": "対象の超特殊許可クリアで入手する称号。参加クリアでの取得可否の詳細は未確認で、このアプリは自分で受注したクリアを記録します。"
+      }
+    ],
+    "sources": [
+      {
+        "url": "http://wiki.mhxg.org/ida/309898.html",
+        "site": "MHXX攻略レシピ",
+        "kind": "detail",
+        "checkedAt": "2026-10-16"
+      },
+      {
+        "url": "http://wiki.mhxg.org/data/2997.html",
+        "site": "MHXX攻略レシピ（特殊許可一覧）",
+        "kind": "list",
+        "checkedAt": "2026-10-16"
+      },
+      {
+        "url": "https://game8.jp/mh-xx/824145",
+        "site": "Game8 MHXX（受注HR・許可券）",
+        "kind": "detail",
+        "checkedAt": "2026-10-16"
+      },
+      {
+        "url": "https://mhx-wiki.com/?%E7%A0%94%E7%A9%B6%E5%AE%A4%E3%81%AE%E6%8B%A1%E5%BC%B5",
+        "site": "MHXX攻略Wiki（防具合成の研究）",
+        "kind": "list",
+        "checkedAt": "2026-10-16"
+      },
+      {
+        "url": "https://mhx-wiki.com/?%E8%B6%85%E7%89%B9%E6%AE%8A%E8%A8%B1%E5%8F%AF",
+        "site": "MHXX攻略Wiki（自分の特殊許可進行）",
+        "kind": "list",
+        "checkedAt": "2026-10-16"
+      },
+      {
+        "url": "https://mhx-wiki.com/?%E7%A7%B0%E5%8F%B7%E4%B8%80%E8%A6%A7",
+        "site": "MHXX攻略Wiki（称号）",
+        "kind": "list",
+        "checkedAt": "2026-10-16"
+      }
+    ],
+    "verification": "partial",
+    "verificationNote": "攻略レシピの一覧・個別タイトル・条件を照合。自分で受注して段階が進んだクリアを記録。素材・狩猟証だけを機能解放と判断しません。",
+    "warnings": []
+  }
+]
