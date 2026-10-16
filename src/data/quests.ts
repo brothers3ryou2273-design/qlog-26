@@ -43,6 +43,12 @@ import permit15 from "./permit-boltreaver.json";
 import permit16 from "./permit-elderfrost.json";
 import permit17 from "./permit-bloodbath.json";
 
+import eventLow from "./event-low.json";
+
+import eventHigh from "./event-high.json";
+
+import eventG from "./event-g.json";
+
 // IDは表示名・参照元・並び順が変わっても固定。旧14件のg8由来IDも維持する。
 export const quests: Quest[] = [
   ...village1,
@@ -84,8 +90,11 @@ export const quests: Quest[] = [
   ...permit15,
   ...permit16,
   ...permit17,
+  ...eventLow,
+  ...eventHigh,
+  ...eventG,
 ] as Quest[];
 export const dataStatus = {
   complete: false,
-  note: "村370件・集会所339件・G級230件と特殊許可228件を収録。攻略レシピの一覧と個別ページを照合しています。未確認点は個別に表示します。",
+  note: "村370件・集会所339件・G級230件・特殊許可228件・イベント144件を収録。攻略レシピの一覧と個別ページを照合しています。未確認点は個別に表示します。",
 };

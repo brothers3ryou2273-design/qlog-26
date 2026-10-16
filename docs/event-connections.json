@@ -1,0 +1,1630 @@
+{
+  "checkedAt": "2026-10-16",
+  "existingEntriesReviewed": 1167,
+  "newEntriesReviewed": 144,
+  "conditionChanges": [],
+  "unlockChanges": [],
+  "confirmedCrossCategoryConnections": [],
+  "decision": "既存1167件の条件・解放・NPC補足と、新規全個別の条件パネルを照合。既存クエストのクリアを要求する明示的なイベント条件や、今回のイベントが解決する既存外部条件を確認できなかった。同名や登場モンスターで接続しない。旧条件・解放情報はすべて無変更。G★4の既存一覧リンク誤記のみ86件訂正し、sourceListChangesへ記録。旧監査ファイルは変更しない。",
+  "eventQuestUrlsReviewed": [
+    "http://wiki.mhxg.org/ida/267299.html",
+    "http://wiki.mhxg.org/ida/267300.html",
+    "http://wiki.mhxg.org/ida/269613.html",
+    "http://wiki.mhxg.org/ida/267304.html",
+    "http://wiki.mhxg.org/ida/267305.html",
+    "http://wiki.mhxg.org/ida/268859.html",
+    "http://wiki.mhxg.org/ida/278945.html",
+    "http://wiki.mhxg.org/ida/270532.html",
+    "http://wiki.mhxg.org/ida/270533.html",
+    "http://wiki.mhxg.org/ida/322462.html",
+    "http://wiki.mhxg.org/ida/322472.html",
+    "http://wiki.mhxg.org/ida/267301.html",
+    "http://wiki.mhxg.org/ida/267302.html",
+    "http://wiki.mhxg.org/ida/267303.html",
+    "http://wiki.mhxg.org/ida/267306.html",
+    "http://wiki.mhxg.org/ida/268858.html",
+    "http://wiki.mhxg.org/ida/269977.html",
+    "http://wiki.mhxg.org/ida/269978.html",
+    "http://wiki.mhxg.org/ida/269979.html",
+    "http://wiki.mhxg.org/ida/269980.html",
+    "http://wiki.mhxg.org/ida/269614.html",
+    "http://wiki.mhxg.org/ida/270522.html",
+    "http://wiki.mhxg.org/ida/278946.html",
+    "http://wiki.mhxg.org/ida/270797.html",
+    "http://wiki.mhxg.org/ida/278943.html",
+    "http://wiki.mhxg.org/ida/278944.html",
+    "http://wiki.mhxg.org/ida/278947.html",
+    "http://wiki.mhxg.org/ida/278961.html",
+    "http://wiki.mhxg.org/ida/270536.html",
+    "http://wiki.mhxg.org/ida/278962.html",
+    "http://wiki.mhxg.org/ida/270534.html",
+    "http://wiki.mhxg.org/ida/278976.html",
+    "http://wiki.mhxg.org/ida/278969.html",
+    "http://wiki.mhxg.org/ida/278977.html",
+    "http://wiki.mhxg.org/ida/278978.html",
+    "http://wiki.mhxg.org/ida/278979.html",
+    "http://wiki.mhxg.org/ida/278983.html",
+    "http://wiki.mhxg.org/ida/278984.html",
+    "http://wiki.mhxg.org/ida/269612.html",
+    "http://wiki.mhxg.org/ida/278993.html",
+    "http://wiki.mhxg.org/ida/278948.html",
+    "http://wiki.mhxg.org/ida/278999.html",
+    "http://wiki.mhxg.org/ida/279000.html",
+    "http://wiki.mhxg.org/ida/279001.html",
+    "http://wiki.mhxg.org/ida/279006.html",
+    "http://wiki.mhxg.org/ida/279007.html",
+    "http://wiki.mhxg.org/ida/279008.html",
+    "http://wiki.mhxg.org/ida/279009.html",
+    "http://wiki.mhxg.org/ida/279015.html",
+    "http://wiki.mhxg.org/ida/279016.html",
+    "http://wiki.mhxg.org/ida/279019.html",
+    "http://wiki.mhxg.org/ida/279020.html",
+    "http://wiki.mhxg.org/ida/279021.html",
+    "http://wiki.mhxg.org/ida/279025.html",
+    "http://wiki.mhxg.org/ida/279026.html",
+    "http://wiki.mhxg.org/ida/279027.html",
+    "http://wiki.mhxg.org/ida/279036.html",
+    "http://wiki.mhxg.org/ida/279037.html",
+    "http://wiki.mhxg.org/ida/279041.html",
+    "http://wiki.mhxg.org/ida/279042.html",
+    "http://wiki.mhxg.org/ida/279045.html",
+    "http://wiki.mhxg.org/ida/279046.html",
+    "http://wiki.mhxg.org/ida/279051.html",
+    "http://wiki.mhxg.org/ida/279052.html",
+    "http://wiki.mhxg.org/ida/268853.html",
+    "http://wiki.mhxg.org/ida/268855.html",
+    "http://wiki.mhxg.org/ida/268856.html",
+    "http://wiki.mhxg.org/ida/268857.html",
+    "http://wiki.mhxg.org/ida/268852.html",
+    "http://wiki.mhxg.org/ida/268854.html",
+    "http://wiki.mhxg.org/ida/279061.html",
+    "http://wiki.mhxg.org/ida/279062.html",
+    "http://wiki.mhxg.org/ida/279072.html",
+    "http://wiki.mhxg.org/ida/279071.html",
+    "http://wiki.mhxg.org/ida/279073.html",
+    "http://wiki.mhxg.org/ida/279074.html",
+    "http://wiki.mhxg.org/ida/279081.html",
+    "http://wiki.mhxg.org/ida/279086.html",
+    "http://wiki.mhxg.org/ida/279088.html",
+    "http://wiki.mhxg.org/ida/279097.html",
+    "http://wiki.mhxg.org/ida/270535.html",
+    "http://wiki.mhxg.org/ida/270537.html",
+    "http://wiki.mhxg.org/ida/270538.html",
+    "http://wiki.mhxg.org/ida/279043.html",
+    "http://wiki.mhxg.org/ida/279099.html",
+    "http://wiki.mhxg.org/ida/322463.html",
+    "http://wiki.mhxg.org/ida/322464.html",
+    "http://wiki.mhxg.org/ida/324592.html",
+    "http://wiki.mhxg.org/ida/336955.html",
+    "http://wiki.mhxg.org/ida/336956.html",
+    "http://wiki.mhxg.org/ida/338411.html",
+    "http://wiki.mhxg.org/ida/341370.html",
+    "http://wiki.mhxg.org/ida/322466.html",
+    "http://wiki.mhxg.org/ida/322473.html",
+    "http://wiki.mhxg.org/ida/322474.html",
+    "http://wiki.mhxg.org/ida/322465.html",
+    "http://wiki.mhxg.org/ida/322467.html",
+    "http://wiki.mhxg.org/ida/322468.html",
+    "http://wiki.mhxg.org/ida/322469.html",
+    "http://wiki.mhxg.org/ida/322470.html",
+    "http://wiki.mhxg.org/ida/322471.html",
+    "http://wiki.mhxg.org/ida/324591.html",
+    "http://wiki.mhxg.org/ida/324593.html",
+    "http://wiki.mhxg.org/ida/336954.html",
+    "http://wiki.mhxg.org/ida/336957.html",
+    "http://wiki.mhxg.org/ida/341276.html",
+    "http://wiki.mhxg.org/ida/338409.html",
+    "http://wiki.mhxg.org/ida/338410.html",
+    "http://wiki.mhxg.org/ida/347854.html",
+    "http://wiki.mhxg.org/ida/341373.html",
+    "http://wiki.mhxg.org/ida/341374.html",
+    "http://wiki.mhxg.org/ida/353121.html",
+    "http://wiki.mhxg.org/ida/353122.html",
+    "http://wiki.mhxg.org/ida/353218.html",
+    "http://wiki.mhxg.org/ida/353155.html",
+    "http://wiki.mhxg.org/ida/353156.html",
+    "http://wiki.mhxg.org/ida/353157.html",
+    "http://wiki.mhxg.org/ida/353219.html",
+    "http://wiki.mhxg.org/ida/353332.html",
+    "http://wiki.mhxg.org/ida/353333.html",
+    "http://wiki.mhxg.org/ida/353398.html",
+    "http://wiki.mhxg.org/ida/353421.html",
+    "http://wiki.mhxg.org/ida/353440.html",
+    "http://wiki.mhxg.org/ida/353475.html",
+    "http://wiki.mhxg.org/ida/353502.html",
+    "http://wiki.mhxg.org/ida/353537.html",
+    "http://wiki.mhxg.org/ida/353563.html",
+    "http://wiki.mhxg.org/ida/353587.html",
+    "http://wiki.mhxg.org/ida/353613.html",
+    "http://wiki.mhxg.org/ida/353639.html",
+    "http://wiki.mhxg.org/ida/341371.html",
+    "http://wiki.mhxg.org/ida/341372.html",
+    "http://wiki.mhxg.org/ida/353117.html",
+    "http://wiki.mhxg.org/ida/353118.html",
+    "http://wiki.mhxg.org/ida/353846.html",
+    "http://wiki.mhxg.org/ida/353474.html",
+    "http://wiki.mhxg.org/ida/353952.html",
+    "http://wiki.mhxg.org/ida/353967.html",
+    "http://wiki.mhxg.org/ida/353993.html",
+    "http://wiki.mhxg.org/ida/354021.html",
+    "http://wiki.mhxg.org/ida/354050.html",
+    "http://wiki.mhxg.org/ida/354082.html",
+    "http://wiki.mhxg.org/ida/354114.html",
+    "http://wiki.mhxg.org/ida/354147.html"
+  ],
+  "sourceListChanges": [
+    {
+      "questId": "g-rank-4-recipe-288295",
+      "name": "天を貫く凶星",
+      "before": "http://wiki.mhxg.org/data/2031.html",
+      "after": "http://wiki.mhxg.org/data/2996.html",
+      "reason": "2031.htmlはイベント下位。2996.htmlをHTTP取得し、G★4の86件全個別URL集合の一致を確認。",
+      "evidenceUrl": "http://wiki.mhxg.org/data/2996.html"
+    },
+    {
+      "questId": "g-rank-4-recipe-299058",
+      "name": "天彗龍流狩人道場",
+      "before": "http://wiki.mhxg.org/data/2031.html",
+      "after": "http://wiki.mhxg.org/data/2996.html",
+      "reason": "2031.htmlはイベント下位。2996.htmlをHTTP取得し、G★4の86件全個別URL集合の一致を確認。",
+      "evidenceUrl": "http://wiki.mhxg.org/data/2996.html"
+    },
+    {
+      "questId": "g-rank-4-recipe-299059",
+      "name": "スーパーソニック",
+      "before": "http://wiki.mhxg.org/data/2031.html",
+      "after": "http://wiki.mhxg.org/data/2996.html",
+      "reason": "2031.htmlはイベント下位。2996.htmlをHTTP取得し、G★4の86件全個別URL集合の一致を確認。",
+      "evidenceUrl": "http://wiki.mhxg.org/data/2996.html"
+    },
+    {
+      "questId": "g-rank-4-recipe-299060",
+      "name": "天彗龍に目が眩む",
+      "before": "http://wiki.mhxg.org/data/2031.html",
+      "after": "http://wiki.mhxg.org/data/2996.html",
+      "reason": "2031.htmlはイベント下位。2996.htmlをHTTP取得し、G★4の86件全個別URL集合の一致を確認。",
+      "evidenceUrl": "http://wiki.mhxg.org/data/2996.html"
+    },
+    {
+      "questId": "g-rank-4-recipe-299061",
+      "name": "千刃は刀よりも鋭く",
+      "before": "http://wiki.mhxg.org/data/2031.html",
+      "after": "http://wiki.mhxg.org/data/2996.html",
+      "reason": "2031.htmlはイベント下位。2996.htmlをHTTP取得し、G★4の86件全個別URL集合の一致を確認。",
+      "evidenceUrl": "http://wiki.mhxg.org/data/2996.html"
+    },
+    {
+      "questId": "g-rank-4-recipe-294007",
+      "name": "砂上に見ゆるは猛き双角",
+      "before": "http://wiki.mhxg.org/data/2031.html",
+      "after": "http://wiki.mhxg.org/data/2996.html",
+      "reason": "2031.htmlはイベント下位。2996.htmlをHTTP取得し、G★4の86件全個別URL集合の一致を確認。",
+      "evidenceUrl": "http://wiki.mhxg.org/data/2996.html"
+    },
+    {
+      "questId": "g-rank-4-recipe-294008",
+      "name": "イビルジョーの狩猟",
+      "before": "http://wiki.mhxg.org/data/2031.html",
+      "after": "http://wiki.mhxg.org/data/2996.html",
+      "reason": "2031.htmlはイベント下位。2996.htmlをHTTP取得し、G★4の86件全個別URL集合の一致を確認。",
+      "evidenceUrl": "http://wiki.mhxg.org/data/2996.html"
+    },
+    {
+      "questId": "g-rank-4-recipe-299062",
+      "name": "金色に染まる",
+      "before": "http://wiki.mhxg.org/data/2031.html",
+      "after": "http://wiki.mhxg.org/data/2996.html",
+      "reason": "2031.htmlはイベント下位。2996.htmlをHTTP取得し、G★4の86件全個別URL集合の一致を確認。",
+      "evidenceUrl": "http://wiki.mhxg.org/data/2996.html"
+    },
+    {
+      "questId": "g-rank-4-recipe-294009",
+      "name": "轟竜の軌跡を追いかけて",
+      "before": "http://wiki.mhxg.org/data/2031.html",
+      "after": "http://wiki.mhxg.org/data/2996.html",
+      "reason": "2031.htmlはイベント下位。2996.htmlをHTTP取得し、G★4の86件全個別URL集合の一致を確認。",
+      "evidenceUrl": "http://wiki.mhxg.org/data/2996.html"
+    },
+    {
+      "questId": "g-rank-4-recipe-299063",
+      "name": "氷海を爆走、暴走轟竜！",
+      "before": "http://wiki.mhxg.org/data/2031.html",
+      "after": "http://wiki.mhxg.org/data/2996.html",
+      "reason": "2031.htmlはイベント下位。2996.htmlをHTTP取得し、G★4の86件全個別URL集合の一致を確認。",
+      "evidenceUrl": "http://wiki.mhxg.org/data/2996.html"
+    },
+    {
+      "questId": "g-rank-4-recipe-299064",
+      "name": "この先、千刃竜以外立入禁止",
+      "before": "http://wiki.mhxg.org/data/2031.html",
+      "after": "http://wiki.mhxg.org/data/2996.html",
+      "reason": "2031.htmlはイベント下位。2996.htmlをHTTP取得し、G★4の86件全個別URL集合の一致を確認。",
+      "evidenceUrl": "http://wiki.mhxg.org/data/2996.html"
+    },
+    {
+      "questId": "g-rank-4-recipe-299065",
+      "name": "光る粘菌のナゾを追え",
+      "before": "http://wiki.mhxg.org/data/2031.html",
+      "after": "http://wiki.mhxg.org/data/2996.html",
+      "reason": "2031.htmlはイベント下位。2996.htmlをHTTP取得し、G★4の86件全個別URL集合の一致を確認。",
+      "evidenceUrl": "http://wiki.mhxg.org/data/2996.html"
+    },
+    {
+      "questId": "g-rank-4-recipe-299066",
+      "name": "角竜怒涛",
+      "before": "http://wiki.mhxg.org/data/2031.html",
+      "after": "http://wiki.mhxg.org/data/2996.html",
+      "reason": "2031.htmlはイベント下位。2996.htmlをHTTP取得し、G★4の86件全個別URL集合の一致を確認。",
+      "evidenceUrl": "http://wiki.mhxg.org/data/2996.html"
+    },
+    {
+      "questId": "g-rank-4-recipe-294010",
+      "name": "雪山からの救援要請",
+      "before": "http://wiki.mhxg.org/data/2031.html",
+      "after": "http://wiki.mhxg.org/data/2996.html",
+      "reason": "2031.htmlはイベント下位。2996.htmlをHTTP取得し、G★4の86件全個別URL集合の一致を確認。",
+      "evidenceUrl": "http://wiki.mhxg.org/data/2996.html"
+    },
+    {
+      "questId": "g-rank-4-recipe-299067",
+      "name": "小山も陽気に誘われて",
+      "before": "http://wiki.mhxg.org/data/2031.html",
+      "after": "http://wiki.mhxg.org/data/2996.html",
+      "reason": "2031.htmlはイベント下位。2996.htmlをHTTP取得し、G★4の86件全個別URL集合の一致を確認。",
+      "evidenceUrl": "http://wiki.mhxg.org/data/2996.html"
+    },
+    {
+      "questId": "g-rank-4-recipe-299068",
+      "name": "暴飲暴食ご用心",
+      "before": "http://wiki.mhxg.org/data/2031.html",
+      "after": "http://wiki.mhxg.org/data/2996.html",
+      "reason": "2031.htmlはイベント下位。2996.htmlをHTTP取得し、G★4の86件全個別URL集合の一致を確認。",
+      "evidenceUrl": "http://wiki.mhxg.org/data/2996.html"
+    },
+    {
+      "questId": "g-rank-4-recipe-299069",
+      "name": "マグマまといし竜",
+      "before": "http://wiki.mhxg.org/data/2031.html",
+      "after": "http://wiki.mhxg.org/data/2996.html",
+      "reason": "2031.htmlはイベント下位。2996.htmlをHTTP取得し、G★4の86件全個別URL集合の一致を確認。",
+      "evidenceUrl": "http://wiki.mhxg.org/data/2996.html"
+    },
+    {
+      "questId": "g-rank-4-recipe-299070",
+      "name": "火山の脅威・ブラキディオス",
+      "before": "http://wiki.mhxg.org/data/2031.html",
+      "after": "http://wiki.mhxg.org/data/2996.html",
+      "reason": "2031.htmlはイベント下位。2996.htmlをHTTP取得し、G★4の86件全個別URL集合の一致を確認。",
+      "evidenceUrl": "http://wiki.mhxg.org/data/2996.html"
+    },
+    {
+      "questId": "g-rank-4-recipe-294011",
+      "name": "斬鉄の剣、不壊の鎧",
+      "before": "http://wiki.mhxg.org/data/2031.html",
+      "after": "http://wiki.mhxg.org/data/2996.html",
+      "reason": "2031.htmlはイベント下位。2996.htmlをHTTP取得し、G★4の86件全個別URL集合の一致を確認。",
+      "evidenceUrl": "http://wiki.mhxg.org/data/2996.html"
+    },
+    {
+      "questId": "g-rank-4-recipe-299071",
+      "name": "天を廻りしその果てに…",
+      "before": "http://wiki.mhxg.org/data/2031.html",
+      "after": "http://wiki.mhxg.org/data/2996.html",
+      "reason": "2031.htmlはイベント下位。2996.htmlをHTTP取得し、G★4の86件全個別URL集合の一致を確認。",
+      "evidenceUrl": "http://wiki.mhxg.org/data/2996.html"
+    },
+    {
+      "questId": "g-rank-4-recipe-294012",
+      "name": "戈と槌は相容れず",
+      "before": "http://wiki.mhxg.org/data/2031.html",
+      "after": "http://wiki.mhxg.org/data/2996.html",
+      "reason": "2031.htmlはイベント下位。2996.htmlをHTTP取得し、G★4の86件全個別URL集合の一致を確認。",
+      "evidenceUrl": "http://wiki.mhxg.org/data/2996.html"
+    },
+    {
+      "questId": "g-rank-4-recipe-299072",
+      "name": "感動の生まれる瞬間",
+      "before": "http://wiki.mhxg.org/data/2031.html",
+      "after": "http://wiki.mhxg.org/data/2996.html",
+      "reason": "2031.htmlはイベント下位。2996.htmlをHTTP取得し、G★4の86件全個別URL集合の一致を確認。",
+      "evidenceUrl": "http://wiki.mhxg.org/data/2996.html"
+    },
+    {
+      "questId": "g-rank-4-recipe-299073",
+      "name": "古代林の陰謀",
+      "before": "http://wiki.mhxg.org/data/2031.html",
+      "after": "http://wiki.mhxg.org/data/2996.html",
+      "reason": "2031.htmlはイベント下位。2996.htmlをHTTP取得し、G★4の86件全個別URL集合の一致を確認。",
+      "evidenceUrl": "http://wiki.mhxg.org/data/2996.html"
+    },
+    {
+      "questId": "g-rank-4-recipe-299074",
+      "name": "森丘からの伝書",
+      "before": "http://wiki.mhxg.org/data/2031.html",
+      "after": "http://wiki.mhxg.org/data/2996.html",
+      "reason": "2031.htmlはイベント下位。2996.htmlをHTTP取得し、G★4の86件全個別URL集合の一致を確認。",
+      "evidenceUrl": "http://wiki.mhxg.org/data/2996.html"
+    },
+    {
+      "questId": "g-rank-4-recipe-299075",
+      "name": "絆の証！孤島の大決戦",
+      "before": "http://wiki.mhxg.org/data/2031.html",
+      "after": "http://wiki.mhxg.org/data/2996.html",
+      "reason": "2031.htmlはイベント下位。2996.htmlをHTTP取得し、G★4の86件全個別URL集合の一致を確認。",
+      "evidenceUrl": "http://wiki.mhxg.org/data/2996.html"
+    },
+    {
+      "questId": "g-rank-4-recipe-299076",
+      "name": "鎧・砕・斬の包囲網を越えて",
+      "before": "http://wiki.mhxg.org/data/2031.html",
+      "after": "http://wiki.mhxg.org/data/2996.html",
+      "reason": "2031.htmlはイベント下位。2996.htmlをHTTP取得し、G★4の86件全個別URL集合の一致を確認。",
+      "evidenceUrl": "http://wiki.mhxg.org/data/2996.html"
+    },
+    {
+      "questId": "g-rank-4-recipe-294013",
+      "name": "蠢く墟城",
+      "before": "http://wiki.mhxg.org/data/2031.html",
+      "after": "http://wiki.mhxg.org/data/2996.html",
+      "reason": "2031.htmlはイベント下位。2996.htmlをHTTP取得し、G★4の86件全個別URL集合の一致を確認。",
+      "evidenceUrl": "http://wiki.mhxg.org/data/2996.html"
+    },
+    {
+      "questId": "g-rank-4-recipe-299077",
+      "name": "遺群嶺での攻防",
+      "before": "http://wiki.mhxg.org/data/2031.html",
+      "after": "http://wiki.mhxg.org/data/2996.html",
+      "reason": "2031.htmlはイベント下位。2996.htmlをHTTP取得し、G★4の86件全個別URL集合の一致を確認。",
+      "evidenceUrl": "http://wiki.mhxg.org/data/2996.html"
+    },
+    {
+      "questId": "g-rank-4-recipe-299078",
+      "name": "無心にて森羅万象を断つ",
+      "before": "http://wiki.mhxg.org/data/2031.html",
+      "after": "http://wiki.mhxg.org/data/2996.html",
+      "reason": "2031.htmlはイベント下位。2996.htmlをHTTP取得し、G★4の86件全個別URL集合の一致を確認。",
+      "evidenceUrl": "http://wiki.mhxg.org/data/2996.html"
+    },
+    {
+      "questId": "g-rank-4-recipe-299079",
+      "name": "砂漠の死闘と挑戦",
+      "before": "http://wiki.mhxg.org/data/2031.html",
+      "after": "http://wiki.mhxg.org/data/2996.html",
+      "reason": "2031.htmlはイベント下位。2996.htmlをHTTP取得し、G★4の86件全個別URL集合の一致を確認。",
+      "evidenceUrl": "http://wiki.mhxg.org/data/2996.html"
+    },
+    {
+      "questId": "g-rank-4-recipe-299080",
+      "name": "我怒る、ゆえに我在り",
+      "before": "http://wiki.mhxg.org/data/2031.html",
+      "after": "http://wiki.mhxg.org/data/2996.html",
+      "reason": "2031.htmlはイベント下位。2996.htmlをHTTP取得し、G★4の86件全個別URL集合の一致を確認。",
+      "evidenceUrl": "http://wiki.mhxg.org/data/2996.html"
+    },
+    {
+      "questId": "g-rank-4-recipe-299081",
+      "name": "獰猛な海の王者は武器の素",
+      "before": "http://wiki.mhxg.org/data/2031.html",
+      "after": "http://wiki.mhxg.org/data/2996.html",
+      "reason": "2031.htmlはイベント下位。2996.htmlをHTTP取得し、G★4の86件全個別URL集合の一致を確認。",
+      "evidenceUrl": "http://wiki.mhxg.org/data/2996.html"
+    },
+    {
+      "questId": "g-rank-4-recipe-299082",
+      "name": "焦電",
+      "before": "http://wiki.mhxg.org/data/2031.html",
+      "after": "http://wiki.mhxg.org/data/2996.html",
+      "reason": "2031.htmlはイベント下位。2996.htmlをHTTP取得し、G★4の86件全個別URL集合の一致を確認。",
+      "evidenceUrl": "http://wiki.mhxg.org/data/2996.html"
+    },
+    {
+      "questId": "g-rank-4-recipe-299083",
+      "name": "領主の懇願～尾槌竜篇～",
+      "before": "http://wiki.mhxg.org/data/2031.html",
+      "after": "http://wiki.mhxg.org/data/2996.html",
+      "reason": "2031.htmlはイベント下位。2996.htmlをHTTP取得し、G★4の86件全個別URL集合の一致を確認。",
+      "evidenceUrl": "http://wiki.mhxg.org/data/2996.html"
+    },
+    {
+      "questId": "g-rank-4-recipe-299084",
+      "name": "先生の弱点は獰猛な重甲虫",
+      "before": "http://wiki.mhxg.org/data/2031.html",
+      "after": "http://wiki.mhxg.org/data/2996.html",
+      "reason": "2031.htmlはイベント下位。2996.htmlをHTTP取得し、G★4の86件全個別URL集合の一致を確認。",
+      "evidenceUrl": "http://wiki.mhxg.org/data/2996.html"
+    },
+    {
+      "questId": "g-rank-4-recipe-299085",
+      "name": "シャル・ウィ・ダンス？",
+      "before": "http://wiki.mhxg.org/data/2031.html",
+      "after": "http://wiki.mhxg.org/data/2996.html",
+      "reason": "2031.htmlはイベント下位。2996.htmlをHTTP取得し、G★4の86件全個別URL集合の一致を確認。",
+      "evidenceUrl": "http://wiki.mhxg.org/data/2996.html"
+    },
+    {
+      "questId": "g-rank-4-recipe-299086",
+      "name": "黒蝕竜は禍々しく猛る",
+      "before": "http://wiki.mhxg.org/data/2031.html",
+      "after": "http://wiki.mhxg.org/data/2996.html",
+      "reason": "2031.htmlはイベント下位。2996.htmlをHTTP取得し、G★4の86件全個別URL集合の一致を確認。",
+      "evidenceUrl": "http://wiki.mhxg.org/data/2996.html"
+    },
+    {
+      "questId": "g-rank-4-recipe-299087",
+      "name": "騎士と氷海の決闘",
+      "before": "http://wiki.mhxg.org/data/2031.html",
+      "after": "http://wiki.mhxg.org/data/2996.html",
+      "reason": "2031.htmlはイベント下位。2996.htmlをHTTP取得し、G★4の86件全個別URL集合の一致を確認。",
+      "evidenceUrl": "http://wiki.mhxg.org/data/2996.html"
+    },
+    {
+      "questId": "g-rank-4-recipe-299088",
+      "name": "巨獣の進攻",
+      "before": "http://wiki.mhxg.org/data/2031.html",
+      "after": "http://wiki.mhxg.org/data/2996.html",
+      "reason": "2031.htmlはイベント下位。2996.htmlをHTTP取得し、G★4の86件全個別URL集合の一致を確認。",
+      "evidenceUrl": "http://wiki.mhxg.org/data/2996.html"
+    },
+    {
+      "questId": "g-rank-4-recipe-299089",
+      "name": "採掘場を取り戻せ！",
+      "before": "http://wiki.mhxg.org/data/2031.html",
+      "after": "http://wiki.mhxg.org/data/2996.html",
+      "reason": "2031.htmlはイベント下位。2996.htmlをHTTP取得し、G★4の86件全個別URL集合の一致を確認。",
+      "evidenceUrl": "http://wiki.mhxg.org/data/2996.html"
+    },
+    {
+      "questId": "g-rank-4-recipe-299090",
+      "name": "炎戈竜は地底で吠える",
+      "before": "http://wiki.mhxg.org/data/2031.html",
+      "after": "http://wiki.mhxg.org/data/2996.html",
+      "reason": "2031.htmlはイベント下位。2996.htmlをHTTP取得し、G★4の86件全個別URL集合の一致を確認。",
+      "evidenceUrl": "http://wiki.mhxg.org/data/2996.html"
+    },
+    {
+      "questId": "g-rank-4-recipe-299091",
+      "name": "犯人は黒狼鳥",
+      "before": "http://wiki.mhxg.org/data/2031.html",
+      "after": "http://wiki.mhxg.org/data/2996.html",
+      "reason": "2031.htmlはイベント下位。2996.htmlをHTTP取得し、G★4の86件全個別URL集合の一致を確認。",
+      "evidenceUrl": "http://wiki.mhxg.org/data/2996.html"
+    },
+    {
+      "questId": "g-rank-4-recipe-299092",
+      "name": "所により獰猛なセルレギオス",
+      "before": "http://wiki.mhxg.org/data/2031.html",
+      "after": "http://wiki.mhxg.org/data/2996.html",
+      "reason": "2031.htmlはイベント下位。2996.htmlをHTTP取得し、G★4の86件全個別URL集合の一致を確認。",
+      "evidenceUrl": "http://wiki.mhxg.org/data/2996.html"
+    },
+    {
+      "questId": "g-rank-4-recipe-299093",
+      "name": "轟々たる罠",
+      "before": "http://wiki.mhxg.org/data/2031.html",
+      "after": "http://wiki.mhxg.org/data/2996.html",
+      "reason": "2031.htmlはイベント下位。2996.htmlをHTTP取得し、G★4の86件全個別URL集合の一致を確認。",
+      "evidenceUrl": "http://wiki.mhxg.org/data/2996.html"
+    },
+    {
+      "questId": "g-rank-4-recipe-299094",
+      "name": "孤島で遭遇！獰猛な雷狼竜",
+      "before": "http://wiki.mhxg.org/data/2031.html",
+      "after": "http://wiki.mhxg.org/data/2996.html",
+      "reason": "2031.htmlはイベント下位。2996.htmlをHTTP取得し、G★4の86件全個別URL集合の一致を確認。",
+      "evidenceUrl": "http://wiki.mhxg.org/data/2996.html"
+    },
+    {
+      "questId": "g-rank-4-recipe-299095",
+      "name": "獰猛な砕竜は、孤島で何を思う",
+      "before": "http://wiki.mhxg.org/data/2031.html",
+      "after": "http://wiki.mhxg.org/data/2996.html",
+      "reason": "2031.htmlはイベント下位。2996.htmlをHTTP取得し、G★4の86件全個別URL集合の一致を確認。",
+      "evidenceUrl": "http://wiki.mhxg.org/data/2996.html"
+    },
+    {
+      "questId": "g-rank-4-recipe-299096",
+      "name": "沼地の冒険",
+      "before": "http://wiki.mhxg.org/data/2031.html",
+      "after": "http://wiki.mhxg.org/data/2996.html",
+      "reason": "2031.htmlはイベント下位。2996.htmlをHTTP取得し、G★4の86件全個別URL集合の一致を確認。",
+      "evidenceUrl": "http://wiki.mhxg.org/data/2996.html"
+    },
+    {
+      "questId": "g-rank-4-recipe-299097",
+      "name": "火山のすばらしい岩",
+      "before": "http://wiki.mhxg.org/data/2031.html",
+      "after": "http://wiki.mhxg.org/data/2996.html",
+      "reason": "2031.htmlはイベント下位。2996.htmlをHTTP取得し、G★4の86件全個別URL集合の一致を確認。",
+      "evidenceUrl": "http://wiki.mhxg.org/data/2996.html"
+    },
+    {
+      "questId": "g-rank-4-recipe-299098",
+      "name": "天地が焔に染まるとき",
+      "before": "http://wiki.mhxg.org/data/2031.html",
+      "after": "http://wiki.mhxg.org/data/2996.html",
+      "reason": "2031.htmlはイベント下位。2996.htmlをHTTP取得し、G★4の86件全個別URL集合の一致を確認。",
+      "evidenceUrl": "http://wiki.mhxg.org/data/2996.html"
+    },
+    {
+      "questId": "g-rank-4-recipe-299099",
+      "name": "死神は鎧をまとう",
+      "before": "http://wiki.mhxg.org/data/2031.html",
+      "after": "http://wiki.mhxg.org/data/2996.html",
+      "reason": "2031.htmlはイベント下位。2996.htmlをHTTP取得し、G★4の86件全個別URL集合の一致を確認。",
+      "evidenceUrl": "http://wiki.mhxg.org/data/2996.html"
+    },
+    {
+      "questId": "g-rank-4-recipe-299100",
+      "name": "戦慄の遺群嶺",
+      "before": "http://wiki.mhxg.org/data/2031.html",
+      "after": "http://wiki.mhxg.org/data/2996.html",
+      "reason": "2031.htmlはイベント下位。2996.htmlをHTTP取得し、G★4の86件全個別URL集合の一致を確認。",
+      "evidenceUrl": "http://wiki.mhxg.org/data/2996.html"
+    },
+    {
+      "questId": "g-rank-4-recipe-299101",
+      "name": "狩魂よ砂中に眠れ",
+      "before": "http://wiki.mhxg.org/data/2031.html",
+      "after": "http://wiki.mhxg.org/data/2996.html",
+      "reason": "2031.htmlはイベント下位。2996.htmlをHTTP取得し、G★4の86件全個別URL集合の一致を確認。",
+      "evidenceUrl": "http://wiki.mhxg.org/data/2996.html"
+    },
+    {
+      "questId": "g-rank-4-recipe-299102",
+      "name": "風薫る密林",
+      "before": "http://wiki.mhxg.org/data/2031.html",
+      "after": "http://wiki.mhxg.org/data/2996.html",
+      "reason": "2031.htmlはイベント下位。2996.htmlをHTTP取得し、G★4の86件全個別URL集合の一致を確認。",
+      "evidenceUrl": "http://wiki.mhxg.org/data/2996.html"
+    },
+    {
+      "questId": "g-rank-4-recipe-299103",
+      "name": "絆の証？雪山の獰猛大決戦",
+      "before": "http://wiki.mhxg.org/data/2031.html",
+      "after": "http://wiki.mhxg.org/data/2996.html",
+      "reason": "2031.htmlはイベント下位。2996.htmlをHTTP取得し、G★4の86件全個別URL集合の一致を確認。",
+      "evidenceUrl": "http://wiki.mhxg.org/data/2996.html"
+    },
+    {
+      "questId": "g-rank-4-recipe-299104",
+      "name": "絆の証！闘技場の大決戦",
+      "before": "http://wiki.mhxg.org/data/2031.html",
+      "after": "http://wiki.mhxg.org/data/2996.html",
+      "reason": "2031.htmlはイベント下位。2996.htmlをHTTP取得し、G★4の86件全個別URL集合の一致を確認。",
+      "evidenceUrl": "http://wiki.mhxg.org/data/2996.html"
+    },
+    {
+      "questId": "g-rank-4-recipe-299105",
+      "name": "狩人達の究道",
+      "before": "http://wiki.mhxg.org/data/2031.html",
+      "after": "http://wiki.mhxg.org/data/2996.html",
+      "reason": "2031.htmlはイベント下位。2996.htmlをHTTP取得し、G★4の86件全個別URL集合の一致を確認。",
+      "evidenceUrl": "http://wiki.mhxg.org/data/2996.html"
+    },
+    {
+      "questId": "g-rank-4-recipe-299106",
+      "name": "天を舞う白銀",
+      "before": "http://wiki.mhxg.org/data/2031.html",
+      "after": "http://wiki.mhxg.org/data/2996.html",
+      "reason": "2031.htmlはイベント下位。2996.htmlをHTTP取得し、G★4の86件全個別URL集合の一致を確認。",
+      "evidenceUrl": "http://wiki.mhxg.org/data/2996.html"
+    },
+    {
+      "questId": "g-rank-4-recipe-299107",
+      "name": "大地に踊る黄金",
+      "before": "http://wiki.mhxg.org/data/2031.html",
+      "after": "http://wiki.mhxg.org/data/2996.html",
+      "reason": "2031.htmlはイベント下位。2996.htmlをHTTP取得し、G★4の86件全個別URL集合の一致を確認。",
+      "evidenceUrl": "http://wiki.mhxg.org/data/2996.html"
+    },
+    {
+      "questId": "g-rank-4-recipe-299108",
+      "name": "呼び合う太陽と月",
+      "before": "http://wiki.mhxg.org/data/2031.html",
+      "after": "http://wiki.mhxg.org/data/2996.html",
+      "reason": "2031.htmlはイベント下位。2996.htmlをHTTP取得し、G★4の86件全個別URL集合の一致を確認。",
+      "evidenceUrl": "http://wiki.mhxg.org/data/2996.html"
+    },
+    {
+      "questId": "g-rank-4-recipe-299109",
+      "name": "夜空に浮かぶ銀の太陽",
+      "before": "http://wiki.mhxg.org/data/2031.html",
+      "after": "http://wiki.mhxg.org/data/2996.html",
+      "reason": "2031.htmlはイベント下位。2996.htmlをHTTP取得し、G★4の86件全個別URL集合の一致を確認。",
+      "evidenceUrl": "http://wiki.mhxg.org/data/2996.html"
+    },
+    {
+      "questId": "g-rank-4-recipe-299110",
+      "name": "狩人のための舞台～古代林～",
+      "before": "http://wiki.mhxg.org/data/2031.html",
+      "after": "http://wiki.mhxg.org/data/2996.html",
+      "reason": "2031.htmlはイベント下位。2996.htmlをHTTP取得し、G★4の86件全個別URL集合の一致を確認。",
+      "evidenceUrl": "http://wiki.mhxg.org/data/2996.html"
+    },
+    {
+      "questId": "g-rank-4-recipe-299111",
+      "name": "金と銀がもたらす悲哀",
+      "before": "http://wiki.mhxg.org/data/2031.html",
+      "after": "http://wiki.mhxg.org/data/2996.html",
+      "reason": "2031.htmlはイベント下位。2996.htmlをHTTP取得し、G★4の86件全個別URL集合の一致を確認。",
+      "evidenceUrl": "http://wiki.mhxg.org/data/2996.html"
+    },
+    {
+      "questId": "g-rank-4-recipe-299112",
+      "name": "天を廻りて、冥界に堕つ",
+      "before": "http://wiki.mhxg.org/data/2031.html",
+      "after": "http://wiki.mhxg.org/data/2996.html",
+      "reason": "2031.htmlはイベント下位。2996.htmlをHTTP取得し、G★4の86件全個別URL集合の一致を確認。",
+      "evidenceUrl": "http://wiki.mhxg.org/data/2996.html"
+    },
+    {
+      "questId": "g-rank-4-recipe-299113",
+      "name": "原生林にて呻くは渾沌の竜",
+      "before": "http://wiki.mhxg.org/data/2031.html",
+      "after": "http://wiki.mhxg.org/data/2996.html",
+      "reason": "2031.htmlはイベント下位。2996.htmlをHTTP取得し、G★4の86件全個別URL集合の一致を確認。",
+      "evidenceUrl": "http://wiki.mhxg.org/data/2996.html"
+    },
+    {
+      "questId": "g-rank-4-recipe-299114",
+      "name": "金色超巨星",
+      "before": "http://wiki.mhxg.org/data/2031.html",
+      "after": "http://wiki.mhxg.org/data/2996.html",
+      "reason": "2031.htmlはイベント下位。2996.htmlをHTTP取得し、G★4の86件全個別URL集合の一致を確認。",
+      "evidenceUrl": "http://wiki.mhxg.org/data/2996.html"
+    },
+    {
+      "questId": "g-rank-4-recipe-299115",
+      "name": "砂漠の死闘と未来",
+      "before": "http://wiki.mhxg.org/data/2031.html",
+      "after": "http://wiki.mhxg.org/data/2996.html",
+      "reason": "2031.htmlはイベント下位。2996.htmlをHTTP取得し、G★4の86件全個別URL集合の一致を確認。",
+      "evidenceUrl": "http://wiki.mhxg.org/data/2996.html"
+    },
+    {
+      "questId": "g-rank-4-recipe-299116",
+      "name": "溶岩島で爆ぜる砕光",
+      "before": "http://wiki.mhxg.org/data/2031.html",
+      "after": "http://wiki.mhxg.org/data/2996.html",
+      "reason": "2031.htmlはイベント下位。2996.htmlをHTTP取得し、G★4の86件全個別URL集合の一致を確認。",
+      "evidenceUrl": "http://wiki.mhxg.org/data/2996.html"
+    },
+    {
+      "questId": "g-rank-4-recipe-299117",
+      "name": "禍は鋼鉄よりも硬し",
+      "before": "http://wiki.mhxg.org/data/2031.html",
+      "after": "http://wiki.mhxg.org/data/2996.html",
+      "reason": "2031.htmlはイベント下位。2996.htmlをHTTP取得し、G★4の86件全個別URL集合の一致を確認。",
+      "evidenceUrl": "http://wiki.mhxg.org/data/2996.html"
+    },
+    {
+      "questId": "g-rank-4-recipe-299118",
+      "name": "吹雪を呼ぶ者",
+      "before": "http://wiki.mhxg.org/data/2031.html",
+      "after": "http://wiki.mhxg.org/data/2996.html",
+      "reason": "2031.htmlはイベント下位。2996.htmlをHTTP取得し、G★4の86件全個別URL集合の一致を確認。",
+      "evidenceUrl": "http://wiki.mhxg.org/data/2996.html"
+    },
+    {
+      "questId": "g-rank-4-recipe-299119",
+      "name": "虚空より現われし者",
+      "before": "http://wiki.mhxg.org/data/2031.html",
+      "after": "http://wiki.mhxg.org/data/2996.html",
+      "reason": "2031.htmlはイベント下位。2996.htmlをHTTP取得し、G★4の86件全個別URL集合の一致を確認。",
+      "evidenceUrl": "http://wiki.mhxg.org/data/2996.html"
+    },
+    {
+      "questId": "g-rank-4-recipe-299120",
+      "name": "虚空に消え去りし者",
+      "before": "http://wiki.mhxg.org/data/2031.html",
+      "after": "http://wiki.mhxg.org/data/2996.html",
+      "reason": "2031.htmlはイベント下位。2996.htmlをHTTP取得し、G★4の86件全個別URL集合の一致を確認。",
+      "evidenceUrl": "http://wiki.mhxg.org/data/2996.html"
+    },
+    {
+      "questId": "g-rank-4-recipe-299121",
+      "name": "砂漠に散る爆炎の塵",
+      "before": "http://wiki.mhxg.org/data/2031.html",
+      "after": "http://wiki.mhxg.org/data/2996.html",
+      "reason": "2031.htmlはイベント下位。2996.htmlをHTTP取得し、G★4の86件全個別URL集合の一致を確認。",
+      "evidenceUrl": "http://wiki.mhxg.org/data/2996.html"
+    },
+    {
+      "questId": "g-rank-4-recipe-299122",
+      "name": "財宝は爆炎の中に",
+      "before": "http://wiki.mhxg.org/data/2031.html",
+      "after": "http://wiki.mhxg.org/data/2996.html",
+      "reason": "2031.htmlはイベント下位。2996.htmlをHTTP取得し、G★4の86件全個別URL集合の一致を確認。",
+      "evidenceUrl": "http://wiki.mhxg.org/data/2996.html"
+    },
+    {
+      "questId": "g-rank-4-recipe-299123",
+      "name": "骸まとう龍",
+      "before": "http://wiki.mhxg.org/data/2031.html",
+      "after": "http://wiki.mhxg.org/data/2996.html",
+      "reason": "2031.htmlはイベント下位。2996.htmlをHTTP取得し、G★4の86件全個別URL集合の一致を確認。",
+      "evidenceUrl": "http://wiki.mhxg.org/data/2996.html"
+    },
+    {
+      "questId": "g-rank-4-recipe-299124",
+      "name": "起源にして、頂点",
+      "before": "http://wiki.mhxg.org/data/2031.html",
+      "after": "http://wiki.mhxg.org/data/2996.html",
+      "reason": "2031.htmlはイベント下位。2996.htmlをHTTP取得し、G★4の86件全個別URL集合の一致を確認。",
+      "evidenceUrl": "http://wiki.mhxg.org/data/2996.html"
+    },
+    {
+      "questId": "g-rank-4-recipe-299125",
+      "name": "極天より来たる、崩せし神",
+      "before": "http://wiki.mhxg.org/data/2031.html",
+      "after": "http://wiki.mhxg.org/data/2996.html",
+      "reason": "2031.htmlはイベント下位。2996.htmlをHTTP取得し、G★4の86件全個別URL集合の一致を確認。",
+      "evidenceUrl": "http://wiki.mhxg.org/data/2996.html"
+    },
+    {
+      "questId": "g-rank-4-recipe-299126",
+      "name": "全てを奪い去る嵐",
+      "before": "http://wiki.mhxg.org/data/2031.html",
+      "after": "http://wiki.mhxg.org/data/2996.html",
+      "reason": "2031.htmlはイベント下位。2996.htmlをHTTP取得し、G★4の86件全個別URL集合の一致を確認。",
+      "evidenceUrl": "http://wiki.mhxg.org/data/2996.html"
+    },
+    {
+      "questId": "g-rank-4-recipe-299127",
+      "name": "神への抵抗",
+      "before": "http://wiki.mhxg.org/data/2031.html",
+      "after": "http://wiki.mhxg.org/data/2996.html",
+      "reason": "2031.htmlはイベント下位。2996.htmlをHTTP取得し、G★4の86件全個別URL集合の一致を確認。",
+      "evidenceUrl": "http://wiki.mhxg.org/data/2996.html"
+    },
+    {
+      "questId": "g-rank-4-recipe-299128",
+      "name": "伝説の黒龍",
+      "before": "http://wiki.mhxg.org/data/2031.html",
+      "after": "http://wiki.mhxg.org/data/2996.html",
+      "reason": "2031.htmlはイベント下位。2996.htmlをHTTP取得し、G★4の86件全個別URL集合の一致を確認。",
+      "evidenceUrl": "http://wiki.mhxg.org/data/2996.html"
+    },
+    {
+      "questId": "g-rank-4-recipe-299129",
+      "name": "終末の時",
+      "before": "http://wiki.mhxg.org/data/2031.html",
+      "after": "http://wiki.mhxg.org/data/2996.html",
+      "reason": "2031.htmlはイベント下位。2996.htmlをHTTP取得し、G★4の86件全個別URL集合の一致を確認。",
+      "evidenceUrl": "http://wiki.mhxg.org/data/2996.html"
+    },
+    {
+      "questId": "g-rank-4-recipe-299130",
+      "name": "祖龍",
+      "before": "http://wiki.mhxg.org/data/2031.html",
+      "after": "http://wiki.mhxg.org/data/2996.html",
+      "reason": "2031.htmlはイベント下位。2996.htmlをHTTP取得し、G★4の86件全個別URL集合の一致を確認。",
+      "evidenceUrl": "http://wiki.mhxg.org/data/2996.html"
+    },
+    {
+      "questId": "g-rank-4-recipe-299131",
+      "name": "海竜の頭部破壊に挑戦！",
+      "before": "http://wiki.mhxg.org/data/2031.html",
+      "after": "http://wiki.mhxg.org/data/2996.html",
+      "reason": "2031.htmlはイベント下位。2996.htmlをHTTP取得し、G★4の86件全個別URL集合の一致を確認。",
+      "evidenceUrl": "http://wiki.mhxg.org/data/2996.html"
+    },
+    {
+      "questId": "g-rank-4-recipe-299132",
+      "name": "雪に紛れしドスギアノス",
+      "before": "http://wiki.mhxg.org/data/2031.html",
+      "after": "http://wiki.mhxg.org/data/2996.html",
+      "reason": "2031.htmlはイベント下位。2996.htmlをHTTP取得し、G★4の86件全個別URL集合の一致を確認。",
+      "evidenceUrl": "http://wiki.mhxg.org/data/2996.html"
+    },
+    {
+      "questId": "g-rank-4-recipe-299133",
+      "name": "徹甲虫と夫婦の絆",
+      "before": "http://wiki.mhxg.org/data/2031.html",
+      "after": "http://wiki.mhxg.org/data/2996.html",
+      "reason": "2031.htmlはイベント下位。2996.htmlをHTTP取得し、G★4の86件全個別URL集合の一致を確認。",
+      "evidenceUrl": "http://wiki.mhxg.org/data/2996.html"
+    },
+    {
+      "questId": "g-rank-4-recipe-299134",
+      "name": "鎧竜の背中破壊に挑戦！",
+      "before": "http://wiki.mhxg.org/data/2031.html",
+      "after": "http://wiki.mhxg.org/data/2996.html",
+      "reason": "2031.htmlはイベント下位。2996.htmlをHTTP取得し、G★4の86件全個別URL集合の一致を確認。",
+      "evidenceUrl": "http://wiki.mhxg.org/data/2996.html"
+    },
+    {
+      "questId": "g-rank-4-recipe-299135",
+      "name": "モンスターニャンターＸＸ",
+      "before": "http://wiki.mhxg.org/data/2031.html",
+      "after": "http://wiki.mhxg.org/data/2996.html",
+      "reason": "2031.htmlはイベント下位。2996.htmlをHTTP取得し、G★4の86件全個別URL集合の一致を確認。",
+      "evidenceUrl": "http://wiki.mhxg.org/data/2996.html"
+    }
+  ],
+  "sourceListAudit": {
+    "url": "http://wiki.mhxg.org/data/2996.html",
+    "httpStatus": 200,
+    "checkedAt": "2026-10-16",
+    "observedCount": 86,
+    "individualUrlSetMatches": true,
+    "sourceHtmlSha256": "5d1051be3409ef565335661957720494b853201f427d01f7f5f720b11d913cf6",
+    "namesRolesTagsAndUrlsMatch": true,
+    "entries": [
+      {
+        "name": "天を貫く凶星",
+        "url": "http://wiki.mhxg.org/ida/288295.html",
+        "role": "hunter",
+        "tags": [
+          "urgent"
+        ],
+        "order": 0
+      },
+      {
+        "name": "天彗龍流狩人道場",
+        "url": "http://wiki.mhxg.org/ida/299058.html",
+        "role": "hunter",
+        "tags": [
+          "normal"
+        ],
+        "order": 1
+      },
+      {
+        "name": "スーパーソニック",
+        "url": "http://wiki.mhxg.org/ida/299059.html",
+        "role": "hunter",
+        "tags": [
+          "normal"
+        ],
+        "order": 2
+      },
+      {
+        "name": "天彗龍に目が眩む",
+        "url": "http://wiki.mhxg.org/ida/299060.html",
+        "role": "hunter",
+        "tags": [
+          "normal"
+        ],
+        "order": 3
+      },
+      {
+        "name": "千刃は刀よりも鋭く",
+        "url": "http://wiki.mhxg.org/ida/299061.html",
+        "role": "hunter",
+        "tags": [
+          "normal"
+        ],
+        "order": 4
+      },
+      {
+        "name": "砂上に見ゆるは猛き双角",
+        "url": "http://wiki.mhxg.org/ida/294007.html",
+        "role": "hunter",
+        "tags": [
+          "key"
+        ],
+        "order": 5
+      },
+      {
+        "name": "イビルジョーの狩猟",
+        "url": "http://wiki.mhxg.org/ida/294008.html",
+        "role": "hunter",
+        "tags": [
+          "key"
+        ],
+        "order": 6
+      },
+      {
+        "name": "金色に染まる",
+        "url": "http://wiki.mhxg.org/ida/299062.html",
+        "role": "hunter",
+        "tags": [
+          "normal"
+        ],
+        "order": 7
+      },
+      {
+        "name": "轟竜の軌跡を追いかけて",
+        "url": "http://wiki.mhxg.org/ida/294009.html",
+        "role": "hunter",
+        "tags": [
+          "key"
+        ],
+        "order": 8
+      },
+      {
+        "name": "氷海を爆走、暴走轟竜！",
+        "url": "http://wiki.mhxg.org/ida/299063.html",
+        "role": "hunter",
+        "tags": [
+          "normal"
+        ],
+        "order": 9
+      },
+      {
+        "name": "この先、千刃竜以外立入禁止",
+        "url": "http://wiki.mhxg.org/ida/299064.html",
+        "role": "hunter",
+        "tags": [
+          "normal"
+        ],
+        "order": 10
+      },
+      {
+        "name": "光る粘菌のナゾを追え",
+        "url": "http://wiki.mhxg.org/ida/299065.html",
+        "role": "hunter",
+        "tags": [
+          "normal"
+        ],
+        "order": 11
+      },
+      {
+        "name": "角竜怒涛",
+        "url": "http://wiki.mhxg.org/ida/299066.html",
+        "role": "hunter",
+        "tags": [
+          "normal"
+        ],
+        "order": 12
+      },
+      {
+        "name": "雪山からの救援要請",
+        "url": "http://wiki.mhxg.org/ida/294010.html",
+        "role": "hunter",
+        "tags": [
+          "key"
+        ],
+        "order": 13
+      },
+      {
+        "name": "小山も陽気に誘われて",
+        "url": "http://wiki.mhxg.org/ida/299067.html",
+        "role": "hunter",
+        "tags": [
+          "normal"
+        ],
+        "order": 14
+      },
+      {
+        "name": "暴飲暴食ご用心",
+        "url": "http://wiki.mhxg.org/ida/299068.html",
+        "role": "hunter",
+        "tags": [
+          "normal"
+        ],
+        "order": 15
+      },
+      {
+        "name": "マグマまといし竜",
+        "url": "http://wiki.mhxg.org/ida/299069.html",
+        "role": "hunter",
+        "tags": [
+          "normal"
+        ],
+        "order": 16
+      },
+      {
+        "name": "火山の脅威・ブラキディオス",
+        "url": "http://wiki.mhxg.org/ida/299070.html",
+        "role": "hunter",
+        "tags": [
+          "normal"
+        ],
+        "order": 17
+      },
+      {
+        "name": "斬鉄の剣、不壊の鎧",
+        "url": "http://wiki.mhxg.org/ida/294011.html",
+        "role": "hunter",
+        "tags": [
+          "key"
+        ],
+        "order": 18
+      },
+      {
+        "name": "天を廻りしその果てに…",
+        "url": "http://wiki.mhxg.org/ida/299071.html",
+        "role": "hunter",
+        "tags": [
+          "normal"
+        ],
+        "order": 19
+      },
+      {
+        "name": "戈と槌は相容れず",
+        "url": "http://wiki.mhxg.org/ida/294012.html",
+        "role": "hunter",
+        "tags": [
+          "key"
+        ],
+        "order": 20
+      },
+      {
+        "name": "感動の生まれる瞬間",
+        "url": "http://wiki.mhxg.org/ida/299072.html",
+        "role": "hunter",
+        "tags": [
+          "request"
+        ],
+        "order": 21
+      },
+      {
+        "name": "古代林の陰謀",
+        "url": "http://wiki.mhxg.org/ida/299073.html",
+        "role": "hunter",
+        "tags": [
+          "normal"
+        ],
+        "order": 22
+      },
+      {
+        "name": "森丘からの伝書",
+        "url": "http://wiki.mhxg.org/ida/299074.html",
+        "role": "hunter",
+        "tags": [
+          "normal"
+        ],
+        "order": 23
+      },
+      {
+        "name": "絆の証！孤島の大決戦",
+        "url": "http://wiki.mhxg.org/ida/299075.html",
+        "role": "hunter",
+        "tags": [
+          "request"
+        ],
+        "order": 24
+      },
+      {
+        "name": "鎧・砕・斬の包囲網を越えて",
+        "url": "http://wiki.mhxg.org/ida/299076.html",
+        "role": "hunter",
+        "tags": [
+          "request"
+        ],
+        "order": 25
+      },
+      {
+        "name": "蠢く墟城",
+        "url": "http://wiki.mhxg.org/ida/294013.html",
+        "role": "hunter",
+        "tags": [
+          "urgent"
+        ],
+        "order": 26
+      },
+      {
+        "name": "遺群嶺での攻防",
+        "url": "http://wiki.mhxg.org/ida/299077.html",
+        "role": "hunter",
+        "tags": [
+          "normal"
+        ],
+        "order": 27
+      },
+      {
+        "name": "無心にて森羅万象を断つ",
+        "url": "http://wiki.mhxg.org/ida/299078.html",
+        "role": "hunter",
+        "tags": [
+          "normal"
+        ],
+        "order": 28
+      },
+      {
+        "name": "砂漠の死闘と挑戦",
+        "url": "http://wiki.mhxg.org/ida/299079.html",
+        "role": "hunter",
+        "tags": [
+          "normal"
+        ],
+        "order": 29
+      },
+      {
+        "name": "我怒る、ゆえに我在り",
+        "url": "http://wiki.mhxg.org/ida/299080.html",
+        "role": "hunter",
+        "tags": [
+          "normal"
+        ],
+        "order": 30
+      },
+      {
+        "name": "獰猛な海の王者は武器の素",
+        "url": "http://wiki.mhxg.org/ida/299081.html",
+        "role": "hunter",
+        "tags": [
+          "request"
+        ],
+        "order": 31
+      },
+      {
+        "name": "焦電",
+        "url": "http://wiki.mhxg.org/ida/299082.html",
+        "role": "hunter",
+        "tags": [
+          "normal"
+        ],
+        "order": 32
+      },
+      {
+        "name": "領主の懇願～尾槌竜篇～",
+        "url": "http://wiki.mhxg.org/ida/299083.html",
+        "role": "hunter",
+        "tags": [
+          "normal"
+        ],
+        "order": 33
+      },
+      {
+        "name": "先生の弱点は獰猛な重甲虫",
+        "url": "http://wiki.mhxg.org/ida/299084.html",
+        "role": "hunter",
+        "tags": [
+          "normal"
+        ],
+        "order": 34
+      },
+      {
+        "name": "シャル・ウィ・ダンス？",
+        "url": "http://wiki.mhxg.org/ida/299085.html",
+        "role": "hunter",
+        "tags": [
+          "normal"
+        ],
+        "order": 35
+      },
+      {
+        "name": "黒蝕竜は禍々しく猛る",
+        "url": "http://wiki.mhxg.org/ida/299086.html",
+        "role": "hunter",
+        "tags": [
+          "normal"
+        ],
+        "order": 36
+      },
+      {
+        "name": "騎士と氷海の決闘",
+        "url": "http://wiki.mhxg.org/ida/299087.html",
+        "role": "hunter",
+        "tags": [
+          "normal"
+        ],
+        "order": 37
+      },
+      {
+        "name": "巨獣の進攻",
+        "url": "http://wiki.mhxg.org/ida/299088.html",
+        "role": "hunter",
+        "tags": [
+          "normal"
+        ],
+        "order": 38
+      },
+      {
+        "name": "採掘場を取り戻せ！",
+        "url": "http://wiki.mhxg.org/ida/299089.html",
+        "role": "hunter",
+        "tags": [
+          "normal"
+        ],
+        "order": 39
+      },
+      {
+        "name": "炎戈竜は地底で吠える",
+        "url": "http://wiki.mhxg.org/ida/299090.html",
+        "role": "hunter",
+        "tags": [
+          "normal"
+        ],
+        "order": 40
+      },
+      {
+        "name": "犯人は黒狼鳥",
+        "url": "http://wiki.mhxg.org/ida/299091.html",
+        "role": "hunter",
+        "tags": [
+          "normal"
+        ],
+        "order": 41
+      },
+      {
+        "name": "所により獰猛なセルレギオス",
+        "url": "http://wiki.mhxg.org/ida/299092.html",
+        "role": "hunter",
+        "tags": [
+          "request"
+        ],
+        "order": 42
+      },
+      {
+        "name": "轟々たる罠",
+        "url": "http://wiki.mhxg.org/ida/299093.html",
+        "role": "hunter",
+        "tags": [
+          "normal"
+        ],
+        "order": 43
+      },
+      {
+        "name": "孤島で遭遇！獰猛な雷狼竜",
+        "url": "http://wiki.mhxg.org/ida/299094.html",
+        "role": "hunter",
+        "tags": [
+          "request"
+        ],
+        "order": 44
+      },
+      {
+        "name": "獰猛な砕竜は、孤島で何を思う",
+        "url": "http://wiki.mhxg.org/ida/299095.html",
+        "role": "hunter",
+        "tags": [
+          "request"
+        ],
+        "order": 45
+      },
+      {
+        "name": "沼地の冒険",
+        "url": "http://wiki.mhxg.org/ida/299096.html",
+        "role": "hunter",
+        "tags": [
+          "normal"
+        ],
+        "order": 46
+      },
+      {
+        "name": "火山のすばらしい岩",
+        "url": "http://wiki.mhxg.org/ida/299097.html",
+        "role": "hunter",
+        "tags": [
+          "normal"
+        ],
+        "order": 47
+      },
+      {
+        "name": "天地が焔に染まるとき",
+        "url": "http://wiki.mhxg.org/ida/299098.html",
+        "role": "hunter",
+        "tags": [
+          "normal"
+        ],
+        "order": 48
+      },
+      {
+        "name": "死神は鎧をまとう",
+        "url": "http://wiki.mhxg.org/ida/299099.html",
+        "role": "hunter",
+        "tags": [
+          "normal"
+        ],
+        "order": 49
+      },
+      {
+        "name": "戦慄の遺群嶺",
+        "url": "http://wiki.mhxg.org/ida/299100.html",
+        "role": "hunter",
+        "tags": [
+          "normal"
+        ],
+        "order": 50
+      },
+      {
+        "name": "狩魂よ砂中に眠れ",
+        "url": "http://wiki.mhxg.org/ida/299101.html",
+        "role": "hunter",
+        "tags": [
+          "normal"
+        ],
+        "order": 51
+      },
+      {
+        "name": "風薫る密林",
+        "url": "http://wiki.mhxg.org/ida/299102.html",
+        "role": "hunter",
+        "tags": [
+          "normal"
+        ],
+        "order": 52
+      },
+      {
+        "name": "絆の証？雪山の獰猛大決戦",
+        "url": "http://wiki.mhxg.org/ida/299103.html",
+        "role": "hunter",
+        "tags": [
+          "request"
+        ],
+        "order": 53
+      },
+      {
+        "name": "絆の証！闘技場の大決戦",
+        "url": "http://wiki.mhxg.org/ida/299104.html",
+        "role": "hunter",
+        "tags": [
+          "request"
+        ],
+        "order": 54
+      },
+      {
+        "name": "狩人達の究道",
+        "url": "http://wiki.mhxg.org/ida/299105.html",
+        "role": "hunter",
+        "tags": [
+          "normal"
+        ],
+        "order": 55
+      },
+      {
+        "name": "天を舞う白銀",
+        "url": "http://wiki.mhxg.org/ida/299106.html",
+        "role": "hunter",
+        "tags": [
+          "normal"
+        ],
+        "order": 56
+      },
+      {
+        "name": "大地に踊る黄金",
+        "url": "http://wiki.mhxg.org/ida/299107.html",
+        "role": "hunter",
+        "tags": [
+          "normal"
+        ],
+        "order": 57
+      },
+      {
+        "name": "呼び合う太陽と月",
+        "url": "http://wiki.mhxg.org/ida/299108.html",
+        "role": "hunter",
+        "tags": [
+          "normal"
+        ],
+        "order": 58
+      },
+      {
+        "name": "夜空に浮かぶ銀の太陽",
+        "url": "http://wiki.mhxg.org/ida/299109.html",
+        "role": "hunter",
+        "tags": [
+          "normal"
+        ],
+        "order": 59
+      },
+      {
+        "name": "狩人のための舞台～古代林～",
+        "url": "http://wiki.mhxg.org/ida/299110.html",
+        "role": "hunter",
+        "tags": [
+          "normal"
+        ],
+        "order": 60
+      },
+      {
+        "name": "金と銀がもたらす悲哀",
+        "url": "http://wiki.mhxg.org/ida/299111.html",
+        "role": "hunter",
+        "tags": [
+          "normal"
+        ],
+        "order": 61
+      },
+      {
+        "name": "天を廻りて、冥界に堕つ",
+        "url": "http://wiki.mhxg.org/ida/299112.html",
+        "role": "hunter",
+        "tags": [
+          "normal"
+        ],
+        "order": 62
+      },
+      {
+        "name": "原生林にて呻くは渾沌の竜",
+        "url": "http://wiki.mhxg.org/ida/299113.html",
+        "role": "hunter",
+        "tags": [
+          "request"
+        ],
+        "order": 63
+      },
+      {
+        "name": "金色超巨星",
+        "url": "http://wiki.mhxg.org/ida/299114.html",
+        "role": "hunter",
+        "tags": [
+          "normal"
+        ],
+        "order": 64
+      },
+      {
+        "name": "砂漠の死闘と未来",
+        "url": "http://wiki.mhxg.org/ida/299115.html",
+        "role": "hunter",
+        "tags": [
+          "normal"
+        ],
+        "order": 65
+      },
+      {
+        "name": "溶岩島で爆ぜる砕光",
+        "url": "http://wiki.mhxg.org/ida/299116.html",
+        "role": "hunter",
+        "tags": [
+          "normal"
+        ],
+        "order": 66
+      },
+      {
+        "name": "禍は鋼鉄よりも硬し",
+        "url": "http://wiki.mhxg.org/ida/299117.html",
+        "role": "hunter",
+        "tags": [
+          "normal"
+        ],
+        "order": 67
+      },
+      {
+        "name": "吹雪を呼ぶ者",
+        "url": "http://wiki.mhxg.org/ida/299118.html",
+        "role": "hunter",
+        "tags": [
+          "normal"
+        ],
+        "order": 68
+      },
+      {
+        "name": "虚空より現われし者",
+        "url": "http://wiki.mhxg.org/ida/299119.html",
+        "role": "hunter",
+        "tags": [
+          "normal"
+        ],
+        "order": 69
+      },
+      {
+        "name": "虚空に消え去りし者",
+        "url": "http://wiki.mhxg.org/ida/299120.html",
+        "role": "hunter",
+        "tags": [
+          "normal"
+        ],
+        "order": 70
+      },
+      {
+        "name": "砂漠に散る爆炎の塵",
+        "url": "http://wiki.mhxg.org/ida/299121.html",
+        "role": "hunter",
+        "tags": [
+          "normal"
+        ],
+        "order": 71
+      },
+      {
+        "name": "財宝は爆炎の中に",
+        "url": "http://wiki.mhxg.org/ida/299122.html",
+        "role": "hunter",
+        "tags": [
+          "normal"
+        ],
+        "order": 72
+      },
+      {
+        "name": "骸まとう龍",
+        "url": "http://wiki.mhxg.org/ida/299123.html",
+        "role": "hunter",
+        "tags": [
+          "normal"
+        ],
+        "order": 73
+      },
+      {
+        "name": "起源にして、頂点",
+        "url": "http://wiki.mhxg.org/ida/299124.html",
+        "role": "hunter",
+        "tags": [
+          "normal"
+        ],
+        "order": 74
+      },
+      {
+        "name": "極天より来たる、崩せし神",
+        "url": "http://wiki.mhxg.org/ida/299125.html",
+        "role": "hunter",
+        "tags": [
+          "request"
+        ],
+        "order": 75
+      },
+      {
+        "name": "全てを奪い去る嵐",
+        "url": "http://wiki.mhxg.org/ida/299126.html",
+        "role": "hunter",
+        "tags": [
+          "normal"
+        ],
+        "order": 76
+      },
+      {
+        "name": "神への抵抗",
+        "url": "http://wiki.mhxg.org/ida/299127.html",
+        "role": "hunter",
+        "tags": [
+          "normal"
+        ],
+        "order": 77
+      },
+      {
+        "name": "伝説の黒龍",
+        "url": "http://wiki.mhxg.org/ida/299128.html",
+        "role": "hunter",
+        "tags": [
+          "normal"
+        ],
+        "order": 78
+      },
+      {
+        "name": "終末の時",
+        "url": "http://wiki.mhxg.org/ida/299129.html",
+        "role": "hunter",
+        "tags": [
+          "normal"
+        ],
+        "order": 79
+      },
+      {
+        "name": "祖龍",
+        "url": "http://wiki.mhxg.org/ida/299130.html",
+        "role": "hunter",
+        "tags": [
+          "normal"
+        ],
+        "order": 80
+      },
+      {
+        "name": "海竜の頭部破壊に挑戦！",
+        "url": "http://wiki.mhxg.org/ida/299131.html",
+        "role": "prowler",
+        "tags": [
+          "normal"
+        ],
+        "order": 81
+      },
+      {
+        "name": "雪に紛れしドスギアノス",
+        "url": "http://wiki.mhxg.org/ida/299132.html",
+        "role": "prowler",
+        "tags": [
+          "normal"
+        ],
+        "order": 82
+      },
+      {
+        "name": "徹甲虫と夫婦の絆",
+        "url": "http://wiki.mhxg.org/ida/299133.html",
+        "role": "prowler",
+        "tags": [
+          "normal"
+        ],
+        "order": 83
+      },
+      {
+        "name": "鎧竜の背中破壊に挑戦！",
+        "url": "http://wiki.mhxg.org/ida/299134.html",
+        "role": "prowler",
+        "tags": [
+          "normal"
+        ],
+        "order": 84
+      },
+      {
+        "name": "モンスターニャンターＸＸ",
+        "url": "http://wiki.mhxg.org/ida/299135.html",
+        "role": "prowler",
+        "tags": [
+          "normal"
+        ],
+        "order": 85
+      }
+    ]
+  }
+}

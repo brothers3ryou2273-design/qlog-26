@@ -1,0 +1,232 @@
+{
+  "checkedAt": "2026-10-16",
+  "entries": [
+    {
+      "topic": "food",
+      "url": "https://mhx-wiki.com/?%E9%A3%9F%E6%9D%90%E3%82%AF%E3%82%A8%E3%82%B9%E3%83%88%E4%B8%80%E8%A6%A7",
+      "title": "食材クエスト一覧 - (MHXX)モンスターハンターダブルクロス攻略データwiki",
+      "httpStatus": 200,
+      "checkedAt": "2026-10-16",
+      "sourceHtmlSha256": "1d947b47a963e4e7d4bb05d40255e54d88c88fdeb0e014aa47ce3b3a94db1f32",
+      "exactQuestNameMatches": [],
+      "decision": "今回144件を明示した追加解放条件は確認できず。非存在とは断定しない。"
+    },
+    {
+      "topic": "arts",
+      "url": "https://mhx-wiki.com/?MHXX%E3%81%AE%E7%8B%A9%E6%8A%80%E7%BF%92%E5%BE%97%E3%82%AF%E3%82%A8%E3%82%B9%E3%83%88%E3%81%BE%E3%81%A8%E3%82%81",
+      "title": "MHXXの狩技習得クエストまとめ - (MHXX)モンスターハンターダブルクロス攻略データwiki",
+      "httpStatus": 200,
+      "checkedAt": "2026-10-16",
+      "sourceHtmlSha256": "485fa7a3833e7265332217712a227dda6739749bb3c401ffa25c0cfb6d0c814e",
+      "exactQuestNameMatches": [],
+      "decision": "今回144件を明示した追加解放条件は確認できず。非存在とは断定しない。"
+    },
+    {
+      "topic": "lab",
+      "url": "https://mhx-wiki.com/?%E7%A0%94%E7%A9%B6%E5%AE%A4%E3%81%AE%E6%8B%A1%E5%BC%B5",
+      "title": "研究室の拡張 - (MHXX)モンスターハンターダブルクロス攻略データwiki",
+      "httpStatus": 200,
+      "checkedAt": "2026-10-16",
+      "sourceHtmlSha256": "5487c1226fc634d0026c2282da84c40867bc7568bbd0051992747a527c451e0f",
+      "exactQuestNameMatches": [],
+      "decision": "今回144件を明示した追加解放条件は確認できず。非存在とは断定しない。"
+    },
+    {
+      "topic": "otomo",
+      "url": "https://w.atwiki.jp/mhxxnyanter/pages/20.html",
+      "title": "基本情報 - 2chモンハン板 MHXXニャンターwiki - atwiki（アットウィキ）",
+      "httpStatus": 200,
+      "checkedAt": "2026-10-16",
+      "sourceHtmlSha256": "6f11f3aa94d5d337d659df45df2200f9e266a39fd5b1b2c31e81950650759702",
+      "exactQuestNameMatches": [],
+      "decision": "ネコ記憶の秘伝書のコナン50%・G級ニャンター80%/20%という入手経路を確認。"
+    },
+    {
+      "topic": "nyanter-events",
+      "url": "https://w.atwiki.jp/mhxxnyanter/pages/49.html",
+      "title": "イベントクエスト - 2chモンハン板 MHXXニャンターwiki - atwiki（アットウィキ）",
+      "httpStatus": 200,
+      "checkedAt": "2026-10-16",
+      "sourceHtmlSha256": "68b32bcd84f4d82453a963e3973cb21819adc526e9910d22f0944cb2e4ca19fb",
+      "exactQuestNameMatches": [
+        {
+          "name": "コロコロ・沼地に迷いこんだゾ",
+          "questUrl": "http://wiki.mhxg.org/ida/269613.html"
+        },
+        {
+          "name": "マガジン・最強獣人決定戦！",
+          "questUrl": "http://wiki.mhxg.org/ida/267304.html"
+        },
+        {
+          "name": "ダンボーのムーファ大作戦！",
+          "questUrl": "http://wiki.mhxg.org/ida/268859.html"
+        },
+        {
+          "name": "ユニクロ・新たなる挑戦",
+          "questUrl": "http://wiki.mhxg.org/ida/278945.html"
+        },
+        {
+          "name": "カプコン・燃えるスピリッツ",
+          "questUrl": "http://wiki.mhxg.org/ida/270532.html"
+        },
+        {
+          "name": "USJ・巨大斬竜との激闘",
+          "questUrl": "http://wiki.mhxg.org/ida/270533.html"
+        },
+        {
+          "name": "なかよし・幻の水晶を求めて",
+          "questUrl": "http://wiki.mhxg.org/ida/322462.html"
+        },
+        {
+          "name": "USJ・幻惑なる2頭の輪舞曲",
+          "questUrl": "http://wiki.mhxg.org/ida/322472.html"
+        },
+        {
+          "name": "弱虫ペダル・ヒーメヒメヒメ！",
+          "questUrl": "http://wiki.mhxg.org/ida/267301.html"
+        },
+        {
+          "name": "マクロスΔ・新たなる戦乙女達",
+          "questUrl": "http://wiki.mhxg.org/ida/267302.html"
+        },
+        {
+          "name": "クローズ・黒きカラスたち",
+          "questUrl": "http://wiki.mhxg.org/ida/268858.html"
+        },
+        {
+          "name": "コロコロ・キケンなデカイ虫",
+          "questUrl": "http://wiki.mhxg.org/ida/269977.html"
+        },
+        {
+          "name": "幻譚～怨鋼の尖兵",
+          "questUrl": "http://wiki.mhxg.org/ida/269979.html"
+        },
+        {
+          "name": "アイルー村・ぽかぽか狩猟大会",
+          "questUrl": "http://wiki.mhxg.org/ida/270797.html"
+        },
+        {
+          "name": "ロックマン・黄色い悪魔",
+          "questUrl": "http://wiki.mhxg.org/ida/270536.html"
+        },
+        {
+          "name": "サンリオ・お魚たちを救え！",
+          "questUrl": "http://wiki.mhxg.org/ida/269612.html"
+        },
+        {
+          "name": "遊戯王・美しき龍との決闘",
+          "questUrl": "http://wiki.mhxg.org/ida/278999.html"
+        },
+        {
+          "name": "DMC・悪魔の如き重甲虫",
+          "questUrl": "http://wiki.mhxg.org/ida/279001.html"
+        },
+        {
+          "name": "カプコン・壮大なオルケスタ",
+          "questUrl": "http://wiki.mhxg.org/ida/279009.html"
+        },
+        {
+          "name": "あっちっちなおとどけもの",
+          "questUrl": "http://wiki.mhxg.org/ida/279015.html"
+        },
+        {
+          "name": "モンハン部・闘技場連続特訓！",
+          "questUrl": "http://wiki.mhxg.org/ida/279016.html"
+        },
+        {
+          "name": "マリオ・白いドンキーコング？",
+          "questUrl": "http://wiki.mhxg.org/ida/268856.html"
+        },
+        {
+          "name": "どうぶつの森・ピクニックの日",
+          "questUrl": "http://wiki.mhxg.org/ida/268857.html"
+        },
+        {
+          "name": "スターフォックス・雪山決戦！",
+          "questUrl": "http://wiki.mhxg.org/ida/268852.html"
+        },
+        {
+          "name": "USJ・絢爛華麗な舞いを",
+          "questUrl": "http://wiki.mhxg.org/ida/270535.html"
+        },
+        {
+          "name": "USJ・昂る電光、猛る炎",
+          "questUrl": "http://wiki.mhxg.org/ida/270537.html"
+        },
+        {
+          "name": "USJ・極寒と灼熱のドリーム",
+          "questUrl": "http://wiki.mhxg.org/ida/270538.html"
+        },
+        {
+          "name": "サンリオ・ひとぐでしようニャ",
+          "questUrl": "http://wiki.mhxg.org/ida/322463.html"
+        },
+        {
+          "name": "大神・妖怪手配書出張版",
+          "questUrl": "http://wiki.mhxg.org/ida/324592.html"
+        },
+        {
+          "name": "名探偵コナン・連続狩猟事件！",
+          "questUrl": "http://wiki.mhxg.org/ida/336955.html"
+        },
+        {
+          "name": "魔界村・赤き強敵の危険な炎",
+          "questUrl": "http://wiki.mhxg.org/ida/322466.html"
+        },
+        {
+          "name": "USJ・天翔ける輝星の軌跡",
+          "questUrl": "http://wiki.mhxg.org/ida/322473.html"
+        },
+        {
+          "name": "逆転裁判・闘技場で法廷バトル",
+          "questUrl": "http://wiki.mhxg.org/ida/322465.html"
+        },
+        {
+          "name": "刃牙道・尻尾こそが剣！！！",
+          "questUrl": "http://wiki.mhxg.org/ida/322468.html"
+        },
+        {
+          "name": "WORST・セニドクロ",
+          "questUrl": "http://wiki.mhxg.org/ida/322471.html"
+        },
+        {
+          "name": "コロコロ・キケンな屁をこく獣",
+          "questUrl": "http://wiki.mhxg.org/ida/324593.html"
+        },
+        {
+          "name": "ゼルダの伝説・知恵の試練",
+          "questUrl": "http://wiki.mhxg.org/ida/341372.html"
+        },
+        {
+          "name": "USJ・乱れ荒れ暴れ狂う角",
+          "questUrl": "http://wiki.mhxg.org/ida/353118.html"
+        },
+        {
+          "name": "カプコン・見よ！ニャンター魂",
+          "questUrl": "http://wiki.mhxg.org/ida/353474.html"
+        }
+      ],
+      "decision": "ニャンター装備・無HRの下位クエスト・表記差を照合。主資料の素材用途を優先。"
+    },
+    {
+      "topic": "medals",
+      "url": "https://mhx-wiki.com/?%E5%8B%B2%E7%AB%A0%E4%B8%80%E8%A6%A7",
+      "title": "勲章一覧 - (MHXX)モンスターハンターダブルクロス攻略データwiki",
+      "httpStatus": 200,
+      "checkedAt": "2026-10-16",
+      "sourceHtmlSha256": "edb3e3ab32944e596ace62e94158d1260fbe744a5a140e90acd96578071e45b3",
+      "exactQuestNameMatches": [],
+      "decision": "今回144件を明示した追加解放条件は確認できず。非存在とは断定しない。"
+    },
+    {
+      "topic": "titles",
+      "url": "https://mhx-wiki.com/?%E7%A7%B0%E5%8F%B7%E4%B8%80%E8%A6%A7",
+      "title": "称号一覧 - (MHXX)モンスターハンターダブルクロス攻略データwiki",
+      "httpStatus": 200,
+      "checkedAt": "2026-10-16",
+      "sourceHtmlSha256": "9022fa0947cc2784c17fbec65066087434c1da7311e3b53b26a12c812adae53a",
+      "exactQuestNameMatches": [],
+      "decision": "今回144件を明示した追加解放条件は確認できず。非存在とは断定しない。"
+    }
+  ]
+}

@@ -38,7 +38,7 @@ export type Quest = {
   sources: {
     site: string;
     url: string;
-    kind: "detail" | "list" | "home";
+    kind: "detail" | "list" | "home" | "reference";
     checkedAt?: string;
   }[];
   verification: "verified" | "partial" | "unverified";
@@ -59,7 +59,7 @@ export const categories: { id: Category; label: string; ranks: string[] }[] = [
   { id: "hub", label: "集会所", ranks: ["1", "2", "3", "4", "5", "6", "7"] },
   { id: "g_rank", label: "G級", ranks: ["G1", "G2", "G3", "G4"] },
   { id: "permit", label: "特殊許可", ranks: permitGroups.map((g) => g.id) },
-  { id: "event", label: "イベント", ranks: ["全ランク"] },
+  { id: "event", label: "イベント", ranks: ["下位", "上位", "G級"] },
   { id: "arena", label: "闘技大会", ranks: ["全ランク"] },
   { id: "challenge", label: "チャレンジ", ranks: ["全ランク"] },
 ];

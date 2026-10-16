@@ -25,11 +25,11 @@ test("production shows partial coverage and noindex", async ({ page }) => {
   ).toBeVisible();
   await expect(page.locator(".quest-card")).toHaveCount(45);
   await expect(
-    page.getByText("データ整備中 · 実クエスト1167件収録"),
+    page.getByText("データ整備中 · 実クエスト1311件収録"),
   ).toBeVisible();
   await page.getByRole("button", { name: "G級", exact: true }).click();
   await expect(page.locator(".quest-card")).toHaveCount(32);
-  await page.getByRole("button", { name: "イベント", exact: true }).click();
+  await page.getByRole("button", { name: "闘技大会", exact: true }).click();
   await expect(
     page.getByRole("heading", { name: "このランクは、これから収録します" }),
   ).toBeVisible();
@@ -2083,6 +2083,292 @@ test("version-1 backup of 939 old checks restores with HR and unknown IDs alongs
     ]),
   );
   expect(exported.dataset).toBe("mhxx");
+  expect(Object.keys(exported).sort()).toEqual([
+    "completedQuestIds",
+    "dataset",
+    "hr",
+    "schemaVersion",
+  ]);
+});
+
+test("event has three published divisions and migrates the legacy view without losing filters", async ({
+  page,
+}) => {
+  await page.addInitScript(() => {
+    if (!localStorage.getItem("event-migration-seeded")) {
+      localStorage.setItem(
+        "qlog.mhxx.view.v1",
+        JSON.stringify({
+          category: "event",
+          rank: "全ランク",
+          search: "コラボ",
+          tag: "unlock",
+          role: "prowler",
+          incomplete: true,
+        }),
+      );
+      localStorage.setItem("event-migration-seeded", "yes");
+    }
+  });
+  await page.goto("./");
+  const rank = page.getByRole("combobox", { name: "ランク", exact: true });
+  await expect(rank).toHaveValue("下位");
+  await expect(rank.locator("option")).toHaveText(["下位", "上位", "G級"]);
+  await expect(page.getByRole("searchbox")).toHaveValue("コラボ");
+  await expect(
+    page.getByRole("combobox", { name: "種別", exact: true }),
+  ).toHaveValue("unlock");
+  await expect(
+    page.getByRole("combobox", { name: "プレイ種別", exact: true }),
+  ).toHaveValue("prowler");
+  await expect(
+    page.getByRole("checkbox", { name: "未クリアのみ" }),
+  ).toBeChecked();
+  for (const r of ["上位", "G級", "下位"]) {
+    await rank.selectOption(r);
+    await expect(
+      page.getByRole("heading", { name: `イベント ${r}`, exact: true }),
+    ).toBeVisible();
+  }
+  await page.reload();
+  await expect(rank).toHaveValue("下位");
+  await expect(page.getByRole("searchbox")).toHaveValue("コラボ");
+  expect(
+    await page.evaluate(
+      () => document.documentElement.scrollWidth <= innerWidth,
+    ),
+  ).toBe(true);
+  await page.getByRole("button", { name: "特殊許可", exact: true }).click();
+  await expect(
+    page
+      .getByRole("combobox", { name: "二つ名", exact: true })
+      .locator("option"),
+  ).toHaveCount(18);
+});
+
+test("all three event divisions show the observed roster, combined filters and independent progress", async ({
+  page,
+}) => {
+  const rosters = await Promise.all(
+    ["low", "high", "g"].map(
+      async (k) =>
+        JSON.parse(
+          await readFile(`docs/event-${k}-observations.json`, "utf8"),
+        ) as {
+          rank: string;
+          observedCount: number;
+          entries: { questId: string; name: string; role: string }[];
+        },
+    ),
+  );
+  const audit = JSON.parse(
+    await readFile("docs/event-unlock-indicators-audit.json", "utf8"),
+  ) as { otherEntries: { questId: string; show: boolean }[] };
+  const badgeIds = new Set(
+    audit.otherEntries.filter((r) => r.show).map((r) => r.questId),
+  );
+  await page.goto("./");
+  await page.getByRole("button", { name: "イベント", exact: true }).click();
+  const rank = page.getByRole("combobox", { name: "ランク", exact: true });
+  const type = page.getByRole("combobox", { name: "種別", exact: true });
+  const role = page.getByRole("combobox", { name: "プレイ種別", exact: true });
+  for (const r of rosters) {
+    await rank.selectOption(r.rank);
+    await expect(page.locator(".quest-name")).toHaveText(
+      r.entries.map((q) => q.name),
+    );
+    await expect(page.getByRole("progressbar")).toHaveAttribute(
+      "max",
+      String(r.observedCount),
+    );
+    await expect(page.getByRole("progressbar")).toHaveAttribute("value", "0");
+    await type.selectOption("key");
+    await expect(page.locator(".quest-card")).toHaveCount(0);
+    await type.selectOption("normal");
+    await expect(page.locator(".quest-card")).toHaveCount(r.observedCount);
+    await type.selectOption("unlock");
+    await expect(page.locator(".quest-name")).toHaveText(
+      r.entries.filter((q) => badgeIds.has(q.questId)).map((q) => q.name),
+    );
+    await role.selectOption("prowler");
+    const matches = r.entries.filter(
+      (q) => badgeIds.has(q.questId) && q.role === "prowler",
+    );
+    await expect(page.locator(".quest-name")).toHaveText(
+      matches.map((q) => q.name),
+    );
+    await page.getByRole("searchbox").fill(matches[0].name);
+    await expect(page.locator(".quest-card")).toHaveCount(1);
+    await page.locator(".quest-card").getByRole("checkbox").check();
+    await expect(page.getByRole("progressbar")).toHaveAttribute("value", "1");
+    await page.getByRole("checkbox", { name: "未クリアのみ" }).check();
+    await expect(page.locator(".quest-card")).toHaveCount(0);
+    await page.reload();
+    await expect(type).toHaveValue("unlock");
+    await expect(role).toHaveValue("prowler");
+    await expect(page.getByRole("searchbox")).toHaveValue(matches[0].name);
+    await expect(page.locator(".quest-card")).toHaveCount(0);
+    await page.getByRole("checkbox", { name: "未クリアのみ" }).uncheck();
+    await expect(
+      page.locator(".quest-card").getByRole("checkbox"),
+    ).toBeChecked();
+    await page.getByRole("searchbox").fill("");
+    await type.selectOption("");
+    await role.selectOption("");
+    await expect(page.locator(".quest-card")).toHaveCount(r.observedCount);
+    expect(
+      await page.evaluate(
+        () => document.documentElement.scrollWidth <= innerWidth,
+      ),
+    ).toBe(true);
+  }
+  expect(
+    await page.evaluate(
+      () =>
+        JSON.parse(localStorage.getItem("qlog.mhxx.progress.v1")!)
+          .completedQuestIds,
+    ),
+  ).toHaveLength(3);
+  await page.getByRole("button", { name: "村", exact: true }).click();
+  await expect(page.getByRole("progressbar")).toHaveAttribute("value", "0");
+  await page.getByRole("button", { name: "特殊許可", exact: true }).click();
+  await expect(
+    page
+      .getByRole("combobox", { name: "二つ名", exact: true })
+      .locator("option"),
+  ).toHaveCount(18);
+  await page.getByRole("button", { name: "イベント", exact: true }).click();
+  await expect(rank).toHaveValue("下位");
+  await expect(page.getByRole("progressbar")).toHaveAttribute("value", "1");
+});
+
+test("event details distinguish recipe materials, ordinary rewards, HR and equipment restrictions", async ({
+  page,
+}) => {
+  await page.goto("./");
+  await page.getByRole("button", { name: "イベント", exact: true }).click();
+  const rank = page.getByRole("combobox", { name: "ランク", exact: true });
+  await page.getByRole("searchbox").fill("サンリオ・ひとぐでしようぜ");
+  const card = page.locator(".quest-card");
+  await card.locator(".quest-title").click();
+  await expect(card.locator(".tag-unlock")).toHaveCount(1);
+  await expect(card.locator(".quest-details")).toContainText(
+    "ぐでたまフライパン",
+  );
+  await expect(card.locator(".quest-details")).toContainText(
+    "ニセたま頭タイツ",
+  );
+  await expect(card.locator(".quest-details")).toContainText(
+    "クリアだけで製法や装備を取得した扱いにはしません",
+  );
+  await expect(
+    card.getByRole("link", { name: /MHXX攻略レシピ（該当クエスト詳細）/ }),
+  ).toHaveAttribute("href", "http://wiki.mhxg.org/ida/267299.html");
+  await card.screenshot({
+    path: `test-results/event-recipe-${test.info().project.name}.png`,
+  });
+  await page.getByRole("searchbox").fill("溶岩塊の季節");
+  await expect(card.locator(".tag-unlock")).toHaveCount(0);
+  await page.getByRole("searchbox").fill("USJ・幻惑なる2頭の輪舞曲");
+  await card.locator(".quest-title").click();
+  await expect(card.locator(".state")).toHaveText("要確認");
+  await expect(card.locator(".quest-details")).toContainText(
+    "防具・護石を装備せず",
+  );
+  await rank.selectOption("上位");
+  await page.getByRole("searchbox").fill("範馬刃牙・最大VS最強");
+  await card.locator(".quest-title").click();
+  await page.getByLabel("現在のHR").fill("3");
+  await page.getByRole("button", { name: "HRを保存" }).click();
+  await expect(card.locator(".state")).toHaveText("未達成");
+  await page.getByLabel("現在のHR").fill("13");
+  await page.getByRole("button", { name: "HRを保存" }).click();
+  await expect(card.locator(".state")).toHaveText("要確認");
+  await rank.selectOption("G級");
+  await page.getByRole("searchbox").fill("ドリフターズ・孤島の漂流者");
+  await card.locator(".quest-title").click();
+  await expect(card.locator(".state")).toHaveText("要確認");
+  await expect(card.locator(".quest-details")).toContainText(
+    "弾・ビンポーチ以外のアイテムは持込不可",
+  );
+  await page.getByRole("searchbox").fill("MHヒストリーⅠ");
+  await expect(page.locator(".quest-name")).toHaveText([
+    "MHヒストリーⅠ",
+    "MHヒストリーⅡ",
+  ]);
+  const history = page.locator("#quest-event-g-recipe-354114");
+  await history.locator(".quest-title").click();
+  await expect(history.locator(".state")).toHaveText("記録上の前提達成");
+  await expect(history.locator(".tag-unlock")).toHaveCount(0);
+  await page.getByRole("button", { name: "G級", exact: true }).click();
+  await rank.selectOption("G4");
+  await page.getByRole("searchbox").fill("天を貫く凶星");
+  await card.locator(".quest-title").click();
+  await expect(card.getByRole("link", { name: /ランク一覧/ })).toHaveAttribute(
+    "href",
+    "http://wiki.mhxg.org/data/2996.html",
+  );
+  expect(
+    await page.evaluate(
+      () => document.documentElement.scrollWidth <= innerWidth,
+    ),
+  ).toBe(true);
+});
+
+test("old 1167-check JSON round-trips with HR, an unknown ID and three independently saved events", async ({
+  page,
+}) => {
+  const ids = (
+    JSON.parse(await readFile("docs/progress-baseline-1167.json", "utf8")) as {
+      id: string;
+    }[]
+  ).map((q) => q.id);
+  await page.goto("./");
+  await page.getByLabel("バックアップファイル").setInputFiles(
+    backup({
+      schemaVersion: 1,
+      completedQuestIds: [...ids, "future-stage10-id"],
+      hr: 101,
+    }),
+  );
+  await page
+    .getByRole("checkbox", { name: "現在の進捗をファイルで置き換える" })
+    .check();
+  await page.getByRole("button", { name: "置き換えて復元" }).click();
+  await page.getByRole("button", { name: "イベント", exact: true }).click();
+  const added: string[] = [];
+  for (const [rank, name] of [
+    ["下位", "サンリオ・ひとぐでしようぜ"],
+    ["上位", "名探偵コナン・連続狩猟事件！"],
+    ["G級", "MHヒストリーⅡ"],
+  ]) {
+    await page
+      .getByRole("combobox", { name: "ランク", exact: true })
+      .selectOption(rank);
+    await page.getByRole("searchbox").fill(name);
+    await expect(page.getByRole("progressbar")).toHaveAttribute("value", "0");
+    const card = page.locator(".quest-card");
+    added.push((await card.getAttribute("id"))!.replace(/^quest-/, ""));
+    await card.getByRole("checkbox").check();
+    await expect(page.getByRole("progressbar")).toHaveAttribute("value", "1");
+  }
+  await page.reload();
+  await expect(page.locator(".quest-card").getByRole("checkbox")).toBeChecked();
+  await expect(page.getByLabel("現在のHR")).toHaveValue("101");
+  const pending = page.waitForEvent("download");
+  await page.getByRole("button", { name: "JSONを書き出す" }).click();
+  const exported = JSON.parse(
+    await readFile((await (await pending).path())!, "utf8"),
+  );
+  expect(exported).toMatchObject({
+    schemaVersion: 1,
+    hr: 101,
+    dataset: "mhxx",
+  });
+  expect(exported.completedQuestIds).toHaveLength(1171);
+  expect(exported.completedQuestIds).toEqual(
+    expect.arrayContaining([...ids, "future-stage10-id", ...added]),
+  );
   expect(Object.keys(exported).sort()).toEqual([
     "completedQuestIds",
     "dataset",

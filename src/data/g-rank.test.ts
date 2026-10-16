@@ -1,3 +1,4 @@
+import eventConnections from "../../docs/event-connections.json";
 import connections from "../../docs/g-rank-connections.json";
 import { describe, expect, it } from "vitest";
 import { quests } from "./quests";
@@ -24,7 +25,11 @@ describe("G-rank observed rosters and legacy compatibility", () => {
         expect(
           q.sources.some(
             (s) =>
-              s.url === rank.recipeListUrl && s.checkedAt === audit.checkedAt,
+              s.url ===
+                (eventConnections.sourceListChanges.find(
+                  (c) => c.questId === q.id,
+                )?.after ?? rank.recipeListUrl) &&
+              s.checkedAt === audit.checkedAt,
           ),
         ).toBe(true);
         for (const id of references(q.condition))

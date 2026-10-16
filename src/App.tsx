@@ -35,6 +35,7 @@ const VIEW_KEY = "qlog.mhxx.view.v1";
 function loadView(): View {
   try {
     const v = JSON.parse(localStorage.getItem(VIEW_KEY) ?? "null");
+    if (v?.category === "event" && v.rank === "全ランク") v.rank = "下位";
     if (v?.category === "permit" && v.rank === "全段階") v.rank = "紅兜";
     if (
       !v ||
@@ -381,7 +382,7 @@ export default function App() {
                   <option key={r} value={r}>
                     {view.category === "permit"
                       ? permitGroupLabel(r)
-                      : r.startsWith("G")
+                      : view.category !== "event" && r.startsWith("G")
                         ? r.replace("G", "G★")
                         : /^\d+$/.test(r)
                           ? `★${r}`
@@ -426,6 +427,11 @@ export default function App() {
               >
                 進行・許可券の資料 ↗
               </a>
+            </p>
+          )}
+          {view.category === "event" && (
+            <p className="small muted">
+              日本版MHXX（Switch版基準）の配信クエストです。プレイにはゲーム内へのダウンロード・保存が必要です。現在の配信・ダウンロード可否は未確認です。保存済みのクエストはプレイできる場合があります。チェックは通常クエストとは別に記録します。特別な素材・装備はクリアだけで取得済みにはなりません。
             </p>
           )}
           <div className="filters">
@@ -620,7 +626,9 @@ export default function App() {
                               ? "該当クエスト詳細"
                               : s.kind === "list"
                                 ? "一覧"
-                                : "トップページ"}
+                                : s.kind === "reference"
+                                  ? "参考資料"
+                                  : "トップページ"}
                             ） ↗
                           </a>
                           {s.checkedAt && ` / 確認日 ${s.checkedAt}`}
