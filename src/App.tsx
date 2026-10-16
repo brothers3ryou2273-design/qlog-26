@@ -12,6 +12,7 @@ import {
   readSave,
 } from "./lib/storage";
 import { quests, dataStatus } from "./data/quests";
+import { permitGroupLabel } from "./data/permit-groups";
 import { demoQuests } from "./data/demo";
 
 type View = {
@@ -34,6 +35,7 @@ const VIEW_KEY = "qlog.mhxx.view.v1";
 function loadView(): View {
   try {
     const v = JSON.parse(localStorage.getItem(VIEW_KEY) ?? "null");
+    if (v?.category === "permit" && v.rank === "全段階") v.rank = "紅兜";
     if (
       !v ||
       !categories.some((c) => c.id === v.category && c.ranks.includes(v.rank))
@@ -74,6 +76,7 @@ function download(text: string, name: string) {
 }
 function rankLabel(category: Category, rank: string) {
   const label = categories.find((c) => c.id === category)!.label;
+  if (category === "permit") return `${label} ${permitGroupLabel(rank)}`;
   if (category === "g_rank") return `${label} ${rank.replace("G", "G★")}`;
   if (category === "village") return `${label} ★${rank}`;
   if (category === "hub")
@@ -359,7 +362,7 @@ export default function App() {
               <h2 id="rank-heading">{rankLabel(view.category, view.rank)}</h2>
             </div>
             <label className="rank-select">
-              ランク
+              {view.category === "permit" ? "二つ名" : "ランク"}
               <select
                 value={view.rank}
                 onChange={(e) => {
@@ -369,7 +372,9 @@ export default function App() {
               >
                 {category.ranks.map((r) => (
                   <option key={r} value={r}>
-                    {r.startsWith("G")
+                    {view.category === "permit"
+                      ? permitGroupLabel(r)
+                      : r.startsWith("G")
                       ? r.replace("G", "G★")
                       : /^\d+$/.test(r)
                         ? `★${r}`
@@ -400,6 +405,7 @@ export default function App() {
               ? "架空データのみの達成率です。"
               : "分母は収録済みの件数です。全クエストの達成率ではありません。"}
           </p>
+          {view.category === "permit" && <p className="small notice">このカテゴリのチェックは、自分の特殊許可として受注・クリアし、ゲーム内の段階が進んだ状態を記録します。他の人が受注したクエストへの参加クリアとは区別してください。</p>}
           <div className="filters">
             <label className="search-label">
               クエスト名で検索
@@ -479,6 +485,7 @@ export default function App() {
                       onClick={() => setExpanded(open ? null : q.id)}
                     >
                       <span className="quest-tags">
+                        {q.permitStage && <span className="tag">{q.permitStage}</span>}
                         {q.tags.map((t) => (
                           <span key={t} className={`tag tag-${t}`}>
                             {tagLabels[t]}

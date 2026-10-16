@@ -1732,3 +1732,27 @@ test("unlock filter combines with role, search, incomplete and restores new and 
   await expect(page.locator(".quest-card")).toHaveCount(1);
   expect(await page.evaluate(()=>document.documentElement.scrollWidth<=innerWidth)).toBe(true);
 });
+
+test("permit selector uses 18 named groups and migrates the legacy all-stages view", async ({page}) => {
+ await page.addInitScript(()=>{
+  if(!localStorage.getItem('qlog.mhxx.view.v1'))localStorage.setItem('qlog.mhxx.view.v1',JSON.stringify({category:'permit',rank:'全段階',tag:'unlock',role:'hunter',search:'',incomplete:false}));
+ });
+ await page.goto('./');
+ const selector=page.getByRole('combobox',{name:'二つ名',exact:true});
+ await expect(selector).toHaveValue('紅兜');
+ await expect(selector.locator('option')).toHaveCount(18);
+ await expect(page.getByRole('combobox',{name:'種別',exact:true})).toHaveValue('unlock');
+ await expect(page.getByText(/自分の特殊許可として受注・クリアし/)).toBeVisible();
+ for(const [id,label] of [['紅兜','紅兜アオアシラ'],['大雪主','大雪主ウルクスス'],['矛砕','矛砕ダイミョウザザミ'],['紫毒姫','紫毒姫リオレイア'],['岩穿','岩穿テツカブラ'],['白疾風','白疾風ナルガクルガ'],['宝纏','宝纏ウラガンキン'],['隻眼','隻眼イャンガルルガ'],['黒炎王','黒炎王リオレウス'],['金雷公','金雷公ジンオウガ'],['荒鉤爪','荒鉤爪ティガレックス'],['燼滅刃','燼滅刃ディノバルド'],['朧隠','朧隠ホロロホルル'],['鎧裂','鎧裂ショウグンギザミ'],['天眼','天眼タマミツネ'],['青電主','青電主ライゼクス'],['銀嶺','銀嶺ガムート'],['鏖魔','鏖魔ディアブロス']]){
+  await selector.selectOption(id);
+  await expect(page.getByRole('heading',{name:`特殊許可 ${label}`,exact:true})).toBeVisible();
+  await expect(page.getByRole('progressbar')).toHaveAttribute('value','0');
+ }
+ await page.reload();await expect(selector).toHaveValue('鏖魔');
+ await page.getByRole('combobox',{name:'種別',exact:true}).selectOption('');
+ await page.getByRole('combobox',{name:'プレイ種別',exact:true}).selectOption('');
+ await page.getByRole('button',{name:'村',exact:true}).click();
+ await page.getByRole('combobox',{name:'ランク',exact:true}).selectOption('3');
+ await expect(page.locator('.quest-card')).toHaveCount(45);
+ expect(await page.evaluate(()=>document.documentElement.scrollWidth<=innerWidth)).toBe(true);
+});
