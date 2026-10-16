@@ -1923,44 +1923,12 @@
       "sourceUrl": "http://wiki.mhxg.org/ida/286190.html"
     },
     {
-      "questId": "g-rank-2-recipe-286190",
-      "name": "泥まみれの商魂！",
-      "label": "G★3旧砂漠のすばらしい砂（出現前提）",
-      "classification": "successor_reference",
-      "show": false,
-      "sourceUrl": "http://wiki.mhxg.org/ida/286190.html"
-    },
-    {
-      "questId": "g-rank-2-recipe-286205",
-      "name": "遺群嶺のトレジャー！米の巻",
-      "label": "G★3妹奮闘記～夜鳥退治～（出現前提）",
-      "classification": "successor_reference",
-      "show": false,
-      "sourceUrl": "http://wiki.mhxg.org/ida/286205.html"
-    },
-    {
       "questId": "g-rank-2-recipe-286205",
       "name": "遺群嶺のトレジャー！米の巻",
       "label": "【特殊許可】朧隠捕獲依頼G1（出現前提）",
       "classification": "successor_reference",
       "show": false,
       "sourceUrl": "http://wiki.mhxg.org/ida/286205.html"
-    },
-    {
-      "questId": "g-rank-2-recipe-286206",
-      "name": "遺群嶺の緑の女王",
-      "label": "G★3遺群嶺の怒れるリオレイア（出現前提）",
-      "classification": "successor_reference",
-      "show": false,
-      "sourceUrl": "http://wiki.mhxg.org/ida/286206.html"
-    },
-    {
-      "questId": "g-rank-2-recipe-288253",
-      "name": "切り裂かれた誇り",
-      "label": "G★3鎌蟹は逃げ道を狩る（出現前提）",
-      "classification": "successor_reference",
-      "show": false,
-      "sourceUrl": "http://wiki.mhxg.org/ida/288253.html"
     },
     {
       "questId": "g-rank-2-recipe-288253",
@@ -1971,92 +1939,12 @@
       "sourceUrl": "http://wiki.mhxg.org/ida/288253.html"
     },
     {
-      "questId": "g-rank-2-recipe-286207",
-      "name": "二人で特訓、成果は山分け",
-      "label": "G★3無茶苦茶ムシャムシャ（出現前提）",
-      "classification": "successor_reference",
-      "show": false,
-      "sourceUrl": "http://wiki.mhxg.org/ida/286207.html"
-    },
-    {
-      "questId": "g-rank-2-recipe-286208",
-      "name": "砂漠の水面に潜む影",
-      "label": "G★3災禍の水竜（出現前提）",
-      "classification": "successor_reference",
-      "show": false,
-      "sourceUrl": "http://wiki.mhxg.org/ida/286208.html"
-    },
-    {
-      "questId": "g-rank-2-recipe-286209",
-      "name": "ババコンガのキノコ品評会",
-      "label": "G★3桃毛獣による新人への洗礼（出現前提）",
-      "classification": "successor_reference",
-      "show": false,
-      "sourceUrl": "http://wiki.mhxg.org/ida/286209.html"
-    },
-    {
-      "questId": "g-rank-2-recipe-286210",
-      "name": "空の家族・空路を守るッス",
-      "label": "G★3遺群嶺の怒れるリオレイア（出現前提）",
-      "classification": "successor_reference",
-      "show": false,
-      "sourceUrl": "http://wiki.mhxg.org/ida/286210.html"
-    },
-    {
-      "questId": "g-rank-2-recipe-286211",
-      "name": "密林のナルガクルガと対峙せよ",
-      "label": "G★3古代林で目撃された迅竜の報告（出現前提）",
-      "classification": "successor_reference",
-      "show": false,
-      "sourceUrl": "http://wiki.mhxg.org/ida/286211.html"
-    },
-    {
       "questId": "g-rank-2-recipe-286211",
       "name": "密林のナルガクルガと対峙せよ",
       "label": "【特殊許可】白疾風捕獲依頼G1（出現前提）",
       "classification": "successor_reference",
       "show": false,
       "sourceUrl": "http://wiki.mhxg.org/ida/286211.html"
-    },
-    {
-      "questId": "g-rank-2-recipe-288258",
-      "name": "女王、降臨す",
-      "label": "G★3遺群嶺の怒れるリオレイア（出現前提）",
-      "classification": "successor_reference",
-      "show": false,
-      "sourceUrl": "http://wiki.mhxg.org/ida/288258.html"
-    },
-    {
-      "questId": "g-rank-2-recipe-286212",
-      "name": "ネルスキュラの生態研究",
-      "label": "G★3先生の鬼門は獰猛な影蜘蛛（出現前提）",
-      "classification": "successor_reference",
-      "show": false,
-      "sourceUrl": "http://wiki.mhxg.org/ida/286212.html"
-    },
-    {
-      "questId": "g-rank-2-recipe-288260",
-      "name": "閃きへの1ピースを求めて",
-      "label": "G★3シャークブリザード（出現前提）",
-      "classification": "successor_reference",
-      "show": false,
-      "sourceUrl": "http://wiki.mhxg.org/ida/288260.html"
-    },
-    {
-      "questId": "g-rank-2-recipe-288263",
-      "name": "土砂竜・ボルボロス！",
-      "label": "G★3旧砂漠のすばらしい砂（出現前提）",
-      "classification": "successor_reference",
-      "show": false,
-      "sourceUrl": "http://wiki.mhxg.org/ida/288263.html"
-    },
-    {
-      "questId": "g-rank-2-recipe-288264",
-      "name": "砂漠の積荷は誰の物？",
-      "label": "G★3無茶苦茶ムシャムシャ（出現前提）",
-      "classification": "successor_reference",
-      "show": false,
-      "sourceUrl": "http://wiki.mhxg.org/ida/288264.html"
     },
     {
       "questId": "g-rank-2-recipe-288265",
@@ -2083,60 +1971,12 @@
       "sourceUrl": "http://wiki.mhxg.org/ida/288265.html"
     },
     {
-      "questId": "g-rank-2-recipe-288265",
-      "name": "グルグルするらしいです",
-      "label": "G★3絞蛇竜の消化能力について（出現前提）",
-      "classification": "successor_reference",
-      "show": false,
-      "sourceUrl": "http://wiki.mhxg.org/ida/288265.html"
-    },
-    {
       "questId": "g-rank-2-recipe-288266",
       "name": "身体の芯までビッリビリ",
       "label": "最高級ユアミシリーズ（製法）",
       "classification": "recipe",
       "show": true,
       "sourceUrl": "http://wiki.mhxg.org/ida/288266.html"
-    },
-    {
-      "questId": "g-rank-2-recipe-288266",
-      "name": "身体の芯までビッリビリ",
-      "label": "G★3氷海の恐怖体験（出現前提）",
-      "classification": "successor_reference",
-      "show": false,
-      "sourceUrl": "http://wiki.mhxg.org/ida/288266.html"
-    },
-    {
-      "questId": "g-rank-2-recipe-288267",
-      "name": "……欲するならば資格を示して",
-      "label": "G★3雪崩を呼ぶ遠吠え（出現前提）",
-      "classification": "successor_reference",
-      "show": false,
-      "sourceUrl": "http://wiki.mhxg.org/ida/288267.html"
-    },
-    {
-      "questId": "g-rank-2-recipe-288268",
-      "name": "ドドブランゴは2頭いる",
-      "label": "G★3雪崩を呼ぶ遠吠え（出現前提）",
-      "classification": "successor_reference",
-      "show": false,
-      "sourceUrl": "http://wiki.mhxg.org/ida/288268.html"
-    },
-    {
-      "questId": "g-rank-2-recipe-288269",
-      "name": "チコ村を脅かす水竜を狩れ！",
-      "label": "G★3災禍の水竜（出現前提）",
-      "classification": "successor_reference",
-      "show": false,
-      "sourceUrl": "http://wiki.mhxg.org/ida/288269.html"
-    },
-    {
-      "questId": "g-rank-2-recipe-288270",
-      "name": "漆黒の影",
-      "label": "G★3古代林で目撃された迅竜の報告（出現前提）",
-      "classification": "successor_reference",
-      "show": false,
-      "sourceUrl": "http://wiki.mhxg.org/ida/288270.html"
     },
     {
       "questId": "g-rank-2-recipe-288270",
@@ -2149,74 +1989,10 @@
     {
       "questId": "g-rank-2-recipe-288271",
       "name": "夜鳥のじけん",
-      "label": "G★3妹奮闘記～夜鳥退治～（出現前提）",
-      "classification": "successor_reference",
-      "show": false,
-      "sourceUrl": "http://wiki.mhxg.org/ida/288271.html"
-    },
-    {
-      "questId": "g-rank-2-recipe-288271",
-      "name": "夜鳥のじけん",
       "label": "【特殊許可】朧隠捕獲依頼G1（出現前提）",
       "classification": "successor_reference",
       "show": false,
       "sourceUrl": "http://wiki.mhxg.org/ida/288271.html"
-    },
-    {
-      "questId": "g-rank-2-recipe-286214",
-      "name": "おのずと岩は動き出す",
-      "label": "G★3遺群嶺の楽しい旅（出現前提）",
-      "classification": "successor_reference",
-      "show": false,
-      "sourceUrl": "http://wiki.mhxg.org/ida/286214.html"
-    },
-    {
-      "questId": "g-rank-2-recipe-288272",
-      "name": "洞窟に潜む影",
-      "label": "G★3氷海の恐怖体験（出現前提）",
-      "classification": "successor_reference",
-      "show": false,
-      "sourceUrl": "http://wiki.mhxg.org/ida/288272.html"
-    },
-    {
-      "questId": "g-rank-2-recipe-288273",
-      "name": "陰湿毒沼の狂想曲",
-      "label": "G★3絞蛇竜の消化能力について（出現前提）",
-      "classification": "successor_reference",
-      "show": false,
-      "sourceUrl": "http://wiki.mhxg.org/ida/288273.html"
-    },
-    {
-      "questId": "g-rank-2-recipe-288274",
-      "name": "割り込み受注：2頭の桃毛獣",
-      "label": "G★3桃毛獣による新人への洗礼（出現前提）",
-      "classification": "successor_reference",
-      "show": false,
-      "sourceUrl": "http://wiki.mhxg.org/ida/288274.html"
-    },
-    {
-      "questId": "g-rank-2-recipe-288275",
-      "name": "依頼委託：火山の岩竜",
-      "label": "G★3遺群嶺の楽しい旅（出現前提）",
-      "classification": "successor_reference",
-      "show": false,
-      "sourceUrl": "http://wiki.mhxg.org/ida/288275.html"
-    },
-    {
-      "questId": "g-rank-2-recipe-288276",
-      "name": "ぶつけろ生き様☆アフロソウル",
-      "label": "G★3鉱山哀歌（出現前提）",
-      "classification": "successor_reference",
-      "show": false,
-      "sourceUrl": "http://wiki.mhxg.org/ida/288276.html"
-    },
-    {
-      "questId": "g-rank-2-recipe-288277",
-      "name": "鎌蟹の狩猟をさせてやるぜ！",
-      "label": "G★3鎌蟹は逃げ道を狩る（出現前提）",
-      "classification": "successor_reference",
-      "show": false,
-      "sourceUrl": "http://wiki.mhxg.org/ida/288277.html"
     },
     {
       "questId": "g-rank-2-recipe-288277",
@@ -2307,20 +2083,484 @@
       "sourceUrl": "http://wiki.mhxg.org/ida/288282.html"
     },
     {
-      "questId": "g-rank-2-recipe-288282",
-      "name": "調査委託：獰猛な奇猿狐",
-      "label": "G★3本気の狩りは闘技場の中で（出現前提）",
+      "questId": "g-rank-3-recipe-299007",
+      "name": "孤高の黒狼鳥",
+      "label": "G★4犯人は黒狼鳥（出現前提）",
       "classification": "successor_reference",
       "show": false,
-      "sourceUrl": "http://wiki.mhxg.org/ida/288282.html"
+      "sourceUrl": "http://wiki.mhxg.org/ida/299007.html"
     },
     {
-      "questId": "g-rank-2-recipe-288288",
-      "name": "水獣のタテガミ破壊に挑戦！",
-      "label": "G★3毒の洗礼（出現前提）",
+      "questId": "g-rank-3-recipe-299007",
+      "name": "孤高の黒狼鳥",
+      "label": "【特殊許可】隻眼捕獲依頼G1（出現前提）",
       "classification": "successor_reference",
       "show": false,
-      "sourceUrl": "http://wiki.mhxg.org/ida/288288.html"
+      "sourceUrl": "http://wiki.mhxg.org/ida/299007.html"
+    },
+    {
+      "questId": "g-rank-3-recipe-299008",
+      "name": "ラギアクルス襲撃の予感",
+      "label": "G★4獰猛な海の王者は武器の素（出現前提）",
+      "classification": "successor_reference",
+      "show": false,
+      "sourceUrl": "http://wiki.mhxg.org/ida/299008.html"
+    },
+    {
+      "questId": "g-rank-3-recipe-299009",
+      "name": "遺群嶺からの帰還",
+      "label": "G★4孤島で遭遇！獰猛な雷狼竜（出現前提）",
+      "classification": "successor_reference",
+      "show": false,
+      "sourceUrl": "http://wiki.mhxg.org/ida/299009.html"
+    },
+    {
+      "questId": "g-rank-3-recipe-299009",
+      "name": "遺群嶺からの帰還",
+      "label": "【特殊許可】金雷公捕獲依頼G1（出現前提）",
+      "classification": "successor_reference",
+      "show": false,
+      "sourceUrl": "http://wiki.mhxg.org/ida/299009.html"
+    },
+    {
+      "questId": "g-rank-3-recipe-288289",
+      "name": "ハロー遺群嶺！",
+      "label": "G★4焦電（出現前提）",
+      "classification": "successor_reference",
+      "show": false,
+      "sourceUrl": "http://wiki.mhxg.org/ida/288289.html"
+    },
+    {
+      "questId": "g-rank-3-recipe-288289",
+      "name": "ハロー遺群嶺！",
+      "label": "【特殊許可】青電主捕獲依頼G1（出現前提）",
+      "classification": "successor_reference",
+      "show": false,
+      "sourceUrl": "http://wiki.mhxg.org/ida/288289.html"
+    },
+    {
+      "questId": "g-rank-3-recipe-299010",
+      "name": "遺群嶺の難題解決",
+      "label": "G★4黒蝕竜は禍々しく猛る（出現前提）",
+      "classification": "successor_reference",
+      "show": false,
+      "sourceUrl": "http://wiki.mhxg.org/ida/299010.html"
+    },
+    {
+      "questId": "g-rank-3-recipe-288290",
+      "name": "暑い熱い砂漠",
+      "label": "G★4無心にて森羅万象を断つ（出現前提）",
+      "classification": "successor_reference",
+      "show": false,
+      "sourceUrl": "http://wiki.mhxg.org/ida/288290.html"
+    },
+    {
+      "questId": "g-rank-3-recipe-299011",
+      "name": "女帝の花道",
+      "label": "G★4先生の弱点は獰猛な重甲虫（出現前提）",
+      "classification": "successor_reference",
+      "show": false,
+      "sourceUrl": "http://wiki.mhxg.org/ida/299011.html"
+    },
+    {
+      "questId": "g-rank-3-recipe-288291",
+      "name": "騎士と密林の夢",
+      "label": "G★4シャル・ウィ・ダンス？（出現前提）",
+      "classification": "successor_reference",
+      "show": false,
+      "sourceUrl": "http://wiki.mhxg.org/ida/288291.html"
+    },
+    {
+      "questId": "g-rank-3-recipe-288291",
+      "name": "騎士と密林の夢",
+      "label": "【特殊許可】天眼捕獲依頼G1（出現前提）",
+      "classification": "successor_reference",
+      "show": false,
+      "sourceUrl": "http://wiki.mhxg.org/ida/288291.html"
+    },
+    {
+      "questId": "g-rank-3-recipe-299012",
+      "name": "双子の黒狼鳥",
+      "label": "G★4犯人は黒狼鳥（出現前提）",
+      "classification": "successor_reference",
+      "show": false,
+      "sourceUrl": "http://wiki.mhxg.org/ida/299012.html"
+    },
+    {
+      "questId": "g-rank-3-recipe-299012",
+      "name": "双子の黒狼鳥",
+      "label": "【特殊許可】隻眼捕獲依頼G1（出現前提）",
+      "classification": "successor_reference",
+      "show": false,
+      "sourceUrl": "http://wiki.mhxg.org/ida/299012.html"
+    },
+    {
+      "questId": "g-rank-3-recipe-299013",
+      "name": "原生林の恐怖体験",
+      "label": "【特殊許可】朧隠捕獲依頼G1（出現前提）",
+      "classification": "successor_reference",
+      "show": false,
+      "sourceUrl": "http://wiki.mhxg.org/ida/299013.html"
+    },
+    {
+      "questId": "g-rank-3-recipe-299014",
+      "name": "グラビモス連続狩猟",
+      "label": "ホークＸシリーズ（製法）",
+      "classification": "recipe",
+      "show": true,
+      "sourceUrl": "http://wiki.mhxg.org/ida/299014.html"
+    },
+    {
+      "questId": "g-rank-3-recipe-299014",
+      "name": "グラビモス連続狩猟",
+      "label": "ブレイブＸネコランス（製法）",
+      "classification": "recipe",
+      "show": true,
+      "sourceUrl": "http://wiki.mhxg.org/ida/299014.html"
+    },
+    {
+      "questId": "g-rank-3-recipe-299014",
+      "name": "グラビモス連続狩猟",
+      "label": "ブレイブＸネコガレア（製法）",
+      "classification": "recipe",
+      "show": true,
+      "sourceUrl": "http://wiki.mhxg.org/ida/299014.html"
+    },
+    {
+      "questId": "g-rank-3-recipe-299014",
+      "name": "グラビモス連続狩猟",
+      "label": "ブレイブＸネコロリカ（製法）",
+      "classification": "recipe",
+      "show": true,
+      "sourceUrl": "http://wiki.mhxg.org/ida/299014.html"
+    },
+    {
+      "questId": "g-rank-3-recipe-299014",
+      "name": "グラビモス連続狩猟",
+      "label": "G★4沼地の冒険（出現前提）",
+      "classification": "successor_reference",
+      "show": false,
+      "sourceUrl": "http://wiki.mhxg.org/ida/299014.html"
+    },
+    {
+      "questId": "g-rank-3-recipe-288292",
+      "name": "氷牙竜・ベリオロス！",
+      "label": "G★4騎士と氷海の決闘（出現前提）",
+      "classification": "successor_reference",
+      "show": false,
+      "sourceUrl": "http://wiki.mhxg.org/ida/288292.html"
+    },
+    {
+      "questId": "g-rank-3-recipe-288293",
+      "name": "氷海のすばらしい氷",
+      "label": "G★4巨獣の進攻（出現前提）",
+      "classification": "successor_reference",
+      "show": false,
+      "sourceUrl": "http://wiki.mhxg.org/ida/288293.html"
+    },
+    {
+      "questId": "g-rank-3-recipe-288293",
+      "name": "氷海のすばらしい氷",
+      "label": "【特殊許可】銀嶺捕獲依頼G1（出現前提）",
+      "classification": "successor_reference",
+      "show": false,
+      "sourceUrl": "http://wiki.mhxg.org/ida/288293.html"
+    },
+    {
+      "questId": "g-rank-3-recipe-288294",
+      "name": "鎧竜グラビモスの脅威",
+      "label": "G★4沼地の冒険（出現前提）",
+      "classification": "successor_reference",
+      "show": false,
+      "sourceUrl": "http://wiki.mhxg.org/ida/288294.html"
+    },
+    {
+      "questId": "g-rank-3-recipe-299015",
+      "name": "斬竜流狩人道場",
+      "label": "G★4無心にて森羅万象を断つ（出現前提）",
+      "classification": "successor_reference",
+      "show": false,
+      "sourceUrl": "http://wiki.mhxg.org/ida/299015.html"
+    },
+    {
+      "questId": "g-rank-3-recipe-299017",
+      "name": "重量級の女帝",
+      "label": "G★4先生の弱点は獰猛な重甲虫（出現前提）",
+      "classification": "successor_reference",
+      "show": false,
+      "sourceUrl": "http://wiki.mhxg.org/ida/299017.html"
+    },
+    {
+      "questId": "g-rank-3-recipe-299018",
+      "name": "古代林に来たりし黒き蝕",
+      "label": "G★4黒蝕竜は禍々しく猛る（出現前提）",
+      "classification": "successor_reference",
+      "show": false,
+      "sourceUrl": "http://wiki.mhxg.org/ida/299018.html"
+    },
+    {
+      "questId": "g-rank-3-recipe-299019",
+      "name": "ベルナ村の観光業が大炎上！",
+      "label": "サージュＸシリーズ（製法）",
+      "classification": "recipe",
+      "show": true,
+      "sourceUrl": "http://wiki.mhxg.org/ida/299019.html"
+    },
+    {
+      "questId": "g-rank-3-recipe-299019",
+      "name": "ベルナ村の観光業が大炎上！",
+      "label": "サージュＸネコブック（製法）",
+      "classification": "recipe",
+      "show": true,
+      "sourceUrl": "http://wiki.mhxg.org/ida/299019.html"
+    },
+    {
+      "questId": "g-rank-3-recipe-299019",
+      "name": "ベルナ村の観光業が大炎上！",
+      "label": "サージュＸネコフート（製法）",
+      "classification": "recipe",
+      "show": true,
+      "sourceUrl": "http://wiki.mhxg.org/ida/299019.html"
+    },
+    {
+      "questId": "g-rank-3-recipe-299019",
+      "name": "ベルナ村の観光業が大炎上！",
+      "label": "サージュＸネコスーツ（製法）",
+      "classification": "recipe",
+      "show": true,
+      "sourceUrl": "http://wiki.mhxg.org/ida/299019.html"
+    },
+    {
+      "questId": "g-rank-3-recipe-299021",
+      "name": "氷牙竜が大発明のカギ？",
+      "label": "スカラーＸシリーズ（製法）",
+      "classification": "recipe",
+      "show": true,
+      "sourceUrl": "http://wiki.mhxg.org/ida/299021.html"
+    },
+    {
+      "questId": "g-rank-3-recipe-299021",
+      "name": "氷牙竜が大発明のカギ？",
+      "label": "ガイドＸネコフード（製法）",
+      "classification": "recipe",
+      "show": true,
+      "sourceUrl": "http://wiki.mhxg.org/ida/299021.html"
+    },
+    {
+      "questId": "g-rank-3-recipe-299021",
+      "name": "氷牙竜が大発明のカギ？",
+      "label": "ガイドＸネコスーツ（製法）",
+      "classification": "recipe",
+      "show": true,
+      "sourceUrl": "http://wiki.mhxg.org/ida/299021.html"
+    },
+    {
+      "questId": "g-rank-3-recipe-299021",
+      "name": "氷牙竜が大発明のカギ？",
+      "label": "G★4騎士と氷海の決闘（出現前提）",
+      "classification": "successor_reference",
+      "show": false,
+      "sourceUrl": "http://wiki.mhxg.org/ida/299021.html"
+    },
+    {
+      "questId": "g-rank-3-recipe-299022",
+      "name": "巨獣流狩人道場",
+      "label": "G★4巨獣の進攻（出現前提）",
+      "classification": "successor_reference",
+      "show": false,
+      "sourceUrl": "http://wiki.mhxg.org/ida/299022.html"
+    },
+    {
+      "questId": "g-rank-3-recipe-299022",
+      "name": "巨獣流狩人道場",
+      "label": "【特殊許可】銀嶺捕獲依頼G1（出現前提）",
+      "classification": "successor_reference",
+      "show": false,
+      "sourceUrl": "http://wiki.mhxg.org/ida/299022.html"
+    },
+    {
+      "questId": "g-rank-3-recipe-299023",
+      "name": "月下雷鳴の記憶",
+      "label": "転々がし三度笠（製法）",
+      "classification": "recipe",
+      "show": true,
+      "sourceUrl": "http://wiki.mhxg.org/ida/299023.html"
+    },
+    {
+      "questId": "g-rank-3-recipe-299023",
+      "name": "月下雷鳴の記憶",
+      "label": "転々がしマント（製法）",
+      "classification": "recipe",
+      "show": true,
+      "sourceUrl": "http://wiki.mhxg.org/ida/299023.html"
+    },
+    {
+      "questId": "g-rank-3-recipe-299023",
+      "name": "月下雷鳴の記憶",
+      "label": "G★4孤島で遭遇！獰猛な雷狼竜（出現前提）",
+      "classification": "successor_reference",
+      "show": false,
+      "sourceUrl": "http://wiki.mhxg.org/ida/299023.html"
+    },
+    {
+      "questId": "g-rank-3-recipe-299023",
+      "name": "月下雷鳴の記憶",
+      "label": "【特殊許可】金雷公捕獲依頼G1（出現前提）",
+      "classification": "successor_reference",
+      "show": false,
+      "sourceUrl": "http://wiki.mhxg.org/ida/299023.html"
+    },
+    {
+      "questId": "g-rank-3-recipe-299024",
+      "name": "泡狐竜流狩人道場",
+      "label": "G★4シャル・ウィ・ダンス？（出現前提）",
+      "classification": "successor_reference",
+      "show": false,
+      "sourceUrl": "http://wiki.mhxg.org/ida/299024.html"
+    },
+    {
+      "questId": "g-rank-3-recipe-299024",
+      "name": "泡狐竜流狩人道場",
+      "label": "【特殊許可】天眼捕獲依頼G1（出現前提）",
+      "classification": "successor_reference",
+      "show": false,
+      "sourceUrl": "http://wiki.mhxg.org/ida/299024.html"
+    },
+    {
+      "questId": "g-rank-3-recipe-299025",
+      "name": "空の王者を狩猟せよ！",
+      "label": "G★4火山のすばらしい岩（出現前提）",
+      "classification": "successor_reference",
+      "show": false,
+      "sourceUrl": "http://wiki.mhxg.org/ida/299025.html"
+    },
+    {
+      "questId": "g-rank-3-recipe-299026",
+      "name": "海竜のじけん",
+      "label": "G★4獰猛な海の王者は武器の素（出現前提）",
+      "classification": "successor_reference",
+      "show": false,
+      "sourceUrl": "http://wiki.mhxg.org/ida/299026.html"
+    },
+    {
+      "questId": "g-rank-3-recipe-299027",
+      "name": "電竜流狩人道場",
+      "label": "G★4焦電（出現前提）",
+      "classification": "successor_reference",
+      "show": false,
+      "sourceUrl": "http://wiki.mhxg.org/ida/299027.html"
+    },
+    {
+      "questId": "g-rank-3-recipe-299027",
+      "name": "電竜流狩人道場",
+      "label": "【特殊許可】青電主捕獲依頼G1（出現前提）",
+      "classification": "successor_reference",
+      "show": false,
+      "sourceUrl": "http://wiki.mhxg.org/ida/299027.html"
+    },
+    {
+      "questId": "g-rank-3-recipe-299028",
+      "name": "トラウマガンキンを退治せよ",
+      "label": "ルーツォ＝スーロ（製法）",
+      "classification": "recipe",
+      "show": true,
+      "sourceUrl": "http://wiki.mhxg.org/ida/299028.html"
+    },
+    {
+      "questId": "g-rank-3-recipe-299028",
+      "name": "トラウマガンキンを退治せよ",
+      "label": "G★4採掘場を取り戻せ！（出現前提）",
+      "classification": "successor_reference",
+      "show": false,
+      "sourceUrl": "http://wiki.mhxg.org/ida/299028.html"
+    },
+    {
+      "questId": "g-rank-3-recipe-299028",
+      "name": "トラウマガンキンを退治せよ",
+      "label": "【特殊許可】宝纏捕獲依頼G1（出現前提）",
+      "classification": "successor_reference",
+      "show": false,
+      "sourceUrl": "http://wiki.mhxg.org/ida/299028.html"
+    },
+    {
+      "questId": "g-rank-3-recipe-286215",
+      "name": "巨大龍の侵攻",
+      "label": "G★3・HR11への進行",
+      "classification": "rank_progression",
+      "show": false,
+      "sourceUrl": "http://wiki.mhxg.org/ida/286215.html"
+    },
+    {
+      "questId": "g-rank-3-recipe-299033",
+      "name": "闘技場での最終テストっチャ！",
+      "label": "ニクヤキ銃槍（製法）",
+      "classification": "recipe",
+      "show": true,
+      "sourceUrl": "http://wiki.mhxg.org/ida/299033.html"
+    },
+    {
+      "questId": "g-rank-3-recipe-299033",
+      "name": "闘技場での最終テストっチャ！",
+      "label": "カヤンチャスリンガ（製法）",
+      "classification": "recipe",
+      "show": true,
+      "sourceUrl": "http://wiki.mhxg.org/ida/299033.html"
+    },
+    {
+      "questId": "g-rank-3-recipe-299033",
+      "name": "闘技場での最終テストっチャ！",
+      "label": "極上のお面（製法）",
+      "classification": "recipe",
+      "show": true,
+      "sourceUrl": "http://wiki.mhxg.org/ida/299033.html"
+    },
+    {
+      "questId": "g-rank-3-recipe-299036",
+      "name": "遺群嶺の怒れるリオレイア",
+      "label": "G★4天地が焔に染まるとき（出現前提）",
+      "classification": "successor_reference",
+      "show": false,
+      "sourceUrl": "http://wiki.mhxg.org/ida/299036.html"
+    },
+    {
+      "questId": "g-rank-3-recipe-299039",
+      "name": "先生の鬼門は獰猛な影蜘蛛",
+      "label": "G★4死神は鎧をまとう（出現前提）",
+      "classification": "successor_reference",
+      "show": false,
+      "sourceUrl": "http://wiki.mhxg.org/ida/299039.html"
+    },
+    {
+      "questId": "g-rank-3-recipe-299043",
+      "name": "妹奮闘記～夜鳥退治～",
+      "label": "キュートネコリボン（製法）",
+      "classification": "recipe",
+      "show": true,
+      "sourceUrl": "http://wiki.mhxg.org/ida/299043.html"
+    },
+    {
+      "questId": "g-rank-3-recipe-299043",
+      "name": "妹奮闘記～夜鳥退治～",
+      "label": "キュートネコワンピ（製法）",
+      "classification": "recipe",
+      "show": true,
+      "sourceUrl": "http://wiki.mhxg.org/ida/299043.html"
+    },
+    {
+      "questId": "g-rank-3-recipe-299043",
+      "name": "妹奮闘記～夜鳥退治～",
+      "label": "プーギーの服 フェニーの服：麗しのフロイライン",
+      "classification": "clothing",
+      "show": true,
+      "sourceUrl": "http://wiki.mhxg.org/ida/299043.html"
+    },
+    {
+      "questId": "g-rank-3-recipe-299057",
+      "name": "影蜘蛛の背中破壊に挑戦！",
+      "label": "G★4海竜の頭部破壊に挑戦！（出現前提）",
+      "classification": "successor_reference",
+      "show": false,
+      "sourceUrl": "http://wiki.mhxg.org/ida/299057.html"
     }
   ],
   "confirmedMarkers": [

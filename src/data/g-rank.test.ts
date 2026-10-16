@@ -62,3 +62,15 @@ it("G2 urgent requires all five G1 keys, and hyper alternatives never bypass the
   expect(references(village.condition)).toContain(urgent.id);
   expect(dependents(urgent.id,quests)).toContain(village);
 });
+
+it("G3 entry uses all six G2 keys and keeps the prowler alternatives separate",()=>{
+ const urgent=quests.find(q=>q.category==='g_rank'&&q.name==='巨大龍の侵攻')!;
+ const keys=quests.filter(q=>q.category==='g_rank'&&q.rank==='G2'&&q.tags.includes('key')).map(q=>q.id);
+ expect(evaluate(urgent.condition,{schemaVersion:1,completedQuestIds:keys,hr:9})).toBe('met');
+ for(const id of keys)expect(evaluate(urgent.condition,{schemaVersion:1,completedQuestIds:keys.filter(x=>x!==id),hr:9})).toBe('unmet');
+ const prowler=quests.find(q=>q.category==='g_rank'&&q.name==='影蜘蛛の背中破壊に挑戦！')!;
+ for(const name of ['火山ウロザミ戦線','密林のポイント招きネコ']){
+  const prior=quests.find(q=>q.category==='g_rank'&&q.name===name)!;
+  expect(evaluate(prowler.condition,{schemaVersion:1,completedQuestIds:[urgent.id,prior.id],hr:9})).toBe('met');
+ }
+});
