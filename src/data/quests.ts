@@ -45,6 +45,8 @@ import permit17 from "./permit-bloodbath.json";
 
 import eventLow from "./event-low.json";
 
+import eventHigh from "./event-high.json";
+
 // IDは表示名・参照元・並び順が変わっても固定。旧14件のg8由来IDも維持する。
 export const quests: Quest[] = [
   ...village1,
@@ -87,6 +89,7 @@ export const quests: Quest[] = [
   ...permit16,
   ...permit17,
   ...eventLow,
+  ...eventHigh,
 ] as Quest[];
 export const dataStatus = {
   complete: false,

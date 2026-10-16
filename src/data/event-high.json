@@ -1,0 +1,3337 @@
+[
+  {
+    "id": "event-high-recipe-267301",
+    "name": "弱虫ペダル・ヒーメヒメヒメ！",
+    "category": "event",
+    "rank": "上位",
+    "order": 1,
+    "role": "hunter",
+    "tags": [
+      "normal"
+    ],
+    "condition": {
+      "kind": "hr_at_least",
+      "value": 4
+    },
+    "unlocks": [
+      {
+        "kind": "other",
+        "label": "自転車部入部届を使う装備の生産・強化",
+        "note": "報酬素材「自転車部入部届」を使用。生産：御堂筋くんネコバイク（2個）、総北ネコヘルメット（1個）、総北ネコジャージ（1個）。別途、各装備の他の必要素材・費用・生産／強化段階の条件を満たす必要があります。クリアだけで製法や装備を取得した扱いにはしません。報酬の抽選・必要個数により周回が必要な場合があります。"
+      }
+    ],
+    "sources": [
+      {
+        "site": "MHXX攻略レシピ",
+        "url": "http://wiki.mhxg.org/ida/267301.html",
+        "kind": "detail",
+        "checkedAt": "2026-10-16"
+      },
+      {
+        "site": "MHXX攻略レシピ（イベント上位一覧）",
+        "url": "http://wiki.mhxg.org/data/2032.html",
+        "kind": "list",
+        "checkedAt": "2026-10-16"
+      },
+      {
+        "site": "MHXX攻略レシピ（自転車部入部届：入手・用途）",
+        "url": "http://wiki.mhxg.org/ida/267373.html",
+        "kind": "detail",
+        "checkedAt": "2026-10-16"
+      }
+    ],
+    "verification": "partial",
+    "verificationNote": "日本版MHXXの攻略レシピ一覧・個別ページをHTTP取得して照合。HRは個別の備考に記載された値のみ採用。共通のダウンロード条件はカテゴリ説明に表示。装備生産は素材の用途であり、クリア時の自動取得・製法フラグの保証ではありません。受注・参加を区別した数値が原資料にないため、記載HRを記録上の前提としています。"
+  },
+  {
+    "id": "event-high-recipe-267302",
+    "name": "マクロスΔ・新たなる戦乙女達",
+    "category": "event",
+    "rank": "上位",
+    "order": 2,
+    "role": "hunter",
+    "tags": [
+      "normal"
+    ],
+    "condition": {
+      "kind": "hr_at_least",
+      "value": 4
+    },
+    "unlocks": [
+      {
+        "kind": "other",
+        "label": "マクロスΔコインを使う装備の生産・強化",
+        "note": "報酬素材「マクロスΔコイン」を使用。生産：ニャルキリーウェポン（2個）、ニャルキリーヘッド（1個）、ニャルキリースーツ（1個）。別途、各装備の他の必要素材・費用・生産／強化段階の条件を満たす必要があります。クリアだけで製法や装備を取得した扱いにはしません。報酬の抽選・必要個数により周回が必要な場合があります。"
+      }
+    ],
+    "sources": [
+      {
+        "site": "MHXX攻略レシピ",
+        "url": "http://wiki.mhxg.org/ida/267302.html",
+        "kind": "detail",
+        "checkedAt": "2026-10-16"
+      },
+      {
+        "site": "MHXX攻略レシピ（イベント上位一覧）",
+        "url": "http://wiki.mhxg.org/data/2032.html",
+        "kind": "list",
+        "checkedAt": "2026-10-16"
+      },
+      {
+        "site": "MHXX攻略レシピ（マクロスΔコイン：入手・用途）",
+        "url": "http://wiki.mhxg.org/ida/267376.html",
+        "kind": "detail",
+        "checkedAt": "2026-10-16"
+      }
+    ],
+    "verification": "partial",
+    "verificationNote": "日本版MHXXの攻略レシピ一覧・個別ページをHTTP取得して照合。HRは個別の備考に記載された値のみ採用。共通のダウンロード条件はカテゴリ説明に表示。装備生産は素材の用途であり、クリア時の自動取得・製法フラグの保証ではありません。受注・参加を区別した数値が原資料にないため、記載HRを記録上の前提としています。"
+  },
+  {
+    "id": "event-high-recipe-267303",
+    "name": "モンハン部・ガブラス狩猟戦線",
+    "category": "event",
+    "rank": "上位",
+    "order": 3,
+    "role": "hunter",
+    "tags": [
+      "normal"
+    ],
+    "condition": {
+      "kind": "hr_at_least",
+      "value": 4
+    },
+    "unlocks": [
+      {
+        "kind": "other",
+        "label": "モンハン部認定証を使う装備の生産・強化",
+        "note": "報酬素材「モンハン部認定証」を使用。生産：シャドウアイ（1個）、狩猟戦線ジャケット（1個）、ブラックレザーレグス（1個）。強化：シャドウアイ（Lv4 1個）、シャドウアイ（Lv8 1個）、狩猟戦線シリーズ（Lv4 1個）、狩猟戦線シリーズ（Lv8 1個）、ブラックレザーシリーズ（Lv4 1個）、ブラックレザーシリーズ（Lv8 1個）。別途、各装備の他の必要素材・費用・生産／強化段階の条件を満たす必要があります。クリアだけで製法や装備を取得した扱いにはしません。報酬の抽選・必要個数により周回が必要な場合があります。"
+      }
+    ],
+    "sources": [
+      {
+        "site": "MHXX攻略レシピ",
+        "url": "http://wiki.mhxg.org/ida/267303.html",
+        "kind": "detail",
+        "checkedAt": "2026-10-16"
+      },
+      {
+        "site": "MHXX攻略レシピ（イベント上位一覧）",
+        "url": "http://wiki.mhxg.org/data/2032.html",
+        "kind": "list",
+        "checkedAt": "2026-10-16"
+      },
+      {
+        "site": "MHXX攻略レシピ（モンハン部認定証：入手・用途）",
+        "url": "http://wiki.mhxg.org/ida/234133.html",
+        "kind": "detail",
+        "checkedAt": "2026-10-16"
+      }
+    ],
+    "verification": "partial",
+    "verificationNote": "日本版MHXXの攻略レシピ一覧・個別ページをHTTP取得して照合。HRは個別の備考に記載された値のみ採用。共通のダウンロード条件はカテゴリ説明に表示。装備生産は素材の用途であり、クリア時の自動取得・製法フラグの保証ではありません。受注・参加を区別した数値が原資料にないため、記載HRを記録上の前提としています。"
+  },
+  {
+    "id": "event-high-recipe-267306",
+    "name": "申楽跳梁",
+    "category": "event",
+    "rank": "上位",
+    "order": 4,
+    "role": "hunter",
+    "tags": [
+      "normal"
+    ],
+    "condition": {
+      "kind": "hr_at_least",
+      "value": 4
+    },
+    "unlocks": [],
+    "sources": [
+      {
+        "site": "MHXX攻略レシピ",
+        "url": "http://wiki.mhxg.org/ida/267306.html",
+        "kind": "detail",
+        "checkedAt": "2026-10-16"
+      },
+      {
+        "site": "MHXX攻略レシピ（イベント上位一覧）",
+        "url": "http://wiki.mhxg.org/data/2032.html",
+        "kind": "list",
+        "checkedAt": "2026-10-16"
+      }
+    ],
+    "verification": "partial",
+    "verificationNote": "日本版MHXXの攻略レシピ一覧・個別ページをHTTP取得して照合。HRは個別の備考に記載された値のみ採用。共通のダウンロード条件はカテゴリ説明に表示。装備生産は素材の用途であり、クリア時の自動取得・製法フラグの保証ではありません。受注・参加を区別した数値が原資料にないため、記載HRを記録上の前提としています。"
+  },
+  {
+    "id": "event-high-recipe-268858",
+    "name": "クローズ・黒きカラスたち",
+    "category": "event",
+    "rank": "上位",
+    "order": 5,
+    "role": "hunter",
+    "tags": [
+      "normal"
+    ],
+    "condition": {
+      "kind": "hr_at_least",
+      "value": 4
+    },
+    "unlocks": [
+      {
+        "kind": "other",
+        "label": "クローズコインを使う装備の生産・強化",
+        "note": "報酬素材「クローズコイン」を使用。生産：坊屋ジャケット（1個）、武装戦線ジャケット（1個）、坊屋ベルト（1個）、坊屋ジーンズ（1個）、坊屋ネコリーゼント（1個）、坊屋ネコジャケット（1個）。強化：坊屋シリーズ（Lv4 1個）、坊屋シリーズ（Lv8 1個）、武装戦線シリーズ（Lv4 1個）、武装戦線シリーズ（Lv8 1個）。別途、各装備の他の必要素材・費用・生産／強化段階の条件を満たす必要があります。クリアだけで製法や装備を取得した扱いにはしません。報酬の抽選・必要個数により周回が必要な場合があります。"
+      }
+    ],
+    "sources": [
+      {
+        "site": "MHXX攻略レシピ",
+        "url": "http://wiki.mhxg.org/ida/268858.html",
+        "kind": "detail",
+        "checkedAt": "2026-10-16"
+      },
+      {
+        "site": "MHXX攻略レシピ（イベント上位一覧）",
+        "url": "http://wiki.mhxg.org/data/2032.html",
+        "kind": "list",
+        "checkedAt": "2026-10-16"
+      },
+      {
+        "site": "MHXX攻略レシピ（クローズコイン：入手・用途）",
+        "url": "http://wiki.mhxg.org/ida/268703.html",
+        "kind": "detail",
+        "checkedAt": "2026-10-16"
+      }
+    ],
+    "verification": "partial",
+    "verificationNote": "日本版MHXXの攻略レシピ一覧・個別ページをHTTP取得して照合。HRは個別の備考に記載された値のみ採用。共通のダウンロード条件はカテゴリ説明に表示。装備生産は素材の用途であり、クリア時の自動取得・製法フラグの保証ではありません。受注・参加を区別した数値が原資料にないため、記載HRを記録上の前提としています。"
+  },
+  {
+    "id": "event-high-recipe-269977",
+    "name": "コロコロ・キケンなデカイ虫",
+    "category": "event",
+    "rank": "上位",
+    "order": 6,
+    "role": "prowler",
+    "tags": [
+      "normal"
+    ],
+    "condition": {
+      "kind": "hr_at_least",
+      "value": 4
+    },
+    "unlocks": [
+      {
+        "kind": "other",
+        "label": "じーさんコインを使う装備の生産・強化",
+        "note": "報酬素材「じーさんコイン」を使用。生産：でんぢゃらすなアレ（2個）、おめかしＤじーさん（2個）。別途、各装備の他の必要素材・費用・生産／強化段階の条件を満たす必要があります。クリアだけで製法や装備を取得した扱いにはしません。報酬の抽選・必要個数により周回が必要な場合があります。"
+      }
+    ],
+    "sources": [
+      {
+        "site": "MHXX攻略レシピ",
+        "url": "http://wiki.mhxg.org/ida/269977.html",
+        "kind": "detail",
+        "checkedAt": "2026-10-16"
+      },
+      {
+        "site": "MHXX攻略レシピ（イベント上位一覧）",
+        "url": "http://wiki.mhxg.org/data/2032.html",
+        "kind": "list",
+        "checkedAt": "2026-10-16"
+      },
+      {
+        "site": "MHXX攻略レシピ（じーさんコイン：入手・用途）",
+        "url": "http://wiki.mhxg.org/ida/268707.html",
+        "kind": "detail",
+        "checkedAt": "2026-10-16"
+      }
+    ],
+    "verification": "partial",
+    "verificationNote": "日本版MHXXの攻略レシピ一覧・個別ページをHTTP取得して照合。HRは個別の備考に記載された値のみ採用。共通のダウンロード条件はカテゴリ説明に表示。装備生産は素材の用途であり、クリア時の自動取得・製法フラグの保証ではありません。受注・参加を区別した数値が原資料にないため、記載HRを記録上の前提としています。"
+  },
+  {
+    "id": "event-high-recipe-269978",
+    "name": "コロコロ・転がるボーラーズ",
+    "category": "event",
+    "rank": "上位",
+    "order": 7,
+    "role": "hunter",
+    "tags": [
+      "normal"
+    ],
+    "condition": {
+      "kind": "hr_at_least",
+      "value": 4
+    },
+    "unlocks": [
+      {
+        "kind": "other",
+        "label": "コロコロチケットを使う装備の生産・強化",
+        "note": "報酬素材「コロコロチケット」を使用。生産：雷剣コロドライト（1個）。強化：雷剣コロドライト2（2個）、雷剣コロコロドライト3（3個）。別途、各装備の他の必要素材・費用・生産／強化段階の条件を満たす必要があります。クリアだけで製法や装備を取得した扱いにはしません。報酬の抽選・必要個数により周回が必要な場合があります。"
+      }
+    ],
+    "sources": [
+      {
+        "site": "MHXX攻略レシピ",
+        "url": "http://wiki.mhxg.org/ida/269978.html",
+        "kind": "detail",
+        "checkedAt": "2026-10-16"
+      },
+      {
+        "site": "MHXX攻略レシピ（イベント上位一覧）",
+        "url": "http://wiki.mhxg.org/data/2032.html",
+        "kind": "list",
+        "checkedAt": "2026-10-16"
+      },
+      {
+        "site": "MHXX攻略レシピ（コロコロチケット：入手・用途）",
+        "url": "http://wiki.mhxg.org/ida/268704.html",
+        "kind": "detail",
+        "checkedAt": "2026-10-16"
+      }
+    ],
+    "verification": "partial",
+    "verificationNote": "日本版MHXXの攻略レシピ一覧・個別ページをHTTP取得して照合。HRは個別の備考に記載された値のみ採用。共通のダウンロード条件はカテゴリ説明に表示。装備生産は素材の用途であり、クリア時の自動取得・製法フラグの保証ではありません。受注・参加を区別した数値が原資料にないため、記載HRを記録上の前提としています。"
+  },
+  {
+    "id": "event-high-recipe-269979",
+    "name": "幻譚～怨鋼の尖兵",
+    "category": "event",
+    "rank": "上位",
+    "order": 8,
+    "role": "hunter",
+    "tags": [
+      "normal"
+    ],
+    "condition": {
+      "kind": "hr_at_least",
+      "value": 8
+    },
+    "unlocks": [
+      {
+        "kind": "other",
+        "label": "EX鋼龍チケットを使う装備の生産・強化",
+        "note": "報酬素材「EX鋼龍チケット」を使用。生産：EXクシャナアンク（1個）、EXクシャナディール（1個）、EXクシャナハトゥー（1個）、EXクシャナアンダ（1個）、EXクシャナペイル（1個）。別途、各装備の他の必要素材・費用・生産／強化段階の条件を満たす必要があります。クリアだけで製法や装備を取得した扱いにはしません。報酬の抽選・必要個数により周回が必要な場合があります。"
+      },
+      {
+        "kind": "other",
+        "label": "女神の眼差しを使う装備の生産・強化",
+        "note": "報酬素材「女神の眼差し」を使用。生産：ニャイトソード（2個）、ニャイトヘルム（1個）、ニャイトアーマー（1個）。別途、各装備の他の必要素材・費用・生産／強化段階の条件を満たす必要があります。クリアだけで製法や装備を取得した扱いにはしません。報酬の抽選・必要個数により周回が必要な場合があります。"
+      }
+    ],
+    "sources": [
+      {
+        "site": "MHXX攻略レシピ",
+        "url": "http://wiki.mhxg.org/ida/269979.html",
+        "kind": "detail",
+        "checkedAt": "2026-10-16"
+      },
+      {
+        "site": "MHXX攻略レシピ（イベント上位一覧）",
+        "url": "http://wiki.mhxg.org/data/2032.html",
+        "kind": "list",
+        "checkedAt": "2026-10-16"
+      },
+      {
+        "site": "MHXX攻略レシピ（EX鋼龍チケット：入手・用途）",
+        "url": "http://wiki.mhxg.org/ida/234122.html",
+        "kind": "detail",
+        "checkedAt": "2026-10-16"
+      },
+      {
+        "site": "MHXX攻略レシピ（女神の眼差し：入手・用途）",
+        "url": "http://wiki.mhxg.org/ida/268728.html",
+        "kind": "detail",
+        "checkedAt": "2026-10-16"
+      }
+    ],
+    "verification": "partial",
+    "verificationNote": "日本版MHXXの攻略レシピ一覧・個別ページをHTTP取得して照合。HRは個別の備考に記載された値のみ採用。共通のダウンロード条件はカテゴリ説明に表示。装備生産は素材の用途であり、クリア時の自動取得・製法フラグの保証ではありません。受注・参加を区別した数値が原資料にないため、記載HRを記録上の前提としています。"
+  },
+  {
+    "id": "event-high-recipe-269980",
+    "name": "長い者に巻かれた！",
+    "category": "event",
+    "rank": "上位",
+    "order": 9,
+    "role": "hunter",
+    "tags": [
+      "normal"
+    ],
+    "condition": {
+      "kind": "hr_at_least",
+      "value": 4
+    },
+    "unlocks": [],
+    "sources": [
+      {
+        "site": "MHXX攻略レシピ",
+        "url": "http://wiki.mhxg.org/ida/269980.html",
+        "kind": "detail",
+        "checkedAt": "2026-10-16"
+      },
+      {
+        "site": "MHXX攻略レシピ（イベント上位一覧）",
+        "url": "http://wiki.mhxg.org/data/2032.html",
+        "kind": "list",
+        "checkedAt": "2026-10-16"
+      }
+    ],
+    "verification": "partial",
+    "verificationNote": "日本版MHXXの攻略レシピ一覧・個別ページをHTTP取得して照合。HRは個別の備考に記載された値のみ採用。共通のダウンロード条件はカテゴリ説明に表示。装備生産は素材の用途であり、クリア時の自動取得・製法フラグの保証ではありません。受注・参加を区別した数値が原資料にないため、記載HRを記録上の前提としています。"
+  },
+  {
+    "id": "event-high-recipe-269614",
+    "name": "うしおととら・白面の泡狐竜",
+    "category": "event",
+    "rank": "上位",
+    "order": 10,
+    "role": "hunter",
+    "tags": [
+      "normal"
+    ],
+    "condition": {
+      "kind": "hr_at_least",
+      "value": 4
+    },
+    "unlocks": [
+      {
+        "kind": "other",
+        "label": "うしおコインを使う装備の生産・強化",
+        "note": "報酬素材「うしおコイン」を使用。生産：獣の槍（1個）、うしおヘッド（1個）。強化：獣の槍2（2個）、新生獣の槍3（3個）、うしおシリーズ（Lv5 1個）、うしおシリーズ（Lv7 1個）。別途、各装備の他の必要素材・費用・生産／強化段階の条件を満たす必要があります。クリアだけで製法や装備を取得した扱いにはしません。報酬の抽選・必要個数により周回が必要な場合があります。"
+      }
+    ],
+    "sources": [
+      {
+        "site": "MHXX攻略レシピ",
+        "url": "http://wiki.mhxg.org/ida/269614.html",
+        "kind": "detail",
+        "checkedAt": "2026-10-16"
+      },
+      {
+        "site": "MHXX攻略レシピ（イベント上位一覧）",
+        "url": "http://wiki.mhxg.org/data/2032.html",
+        "kind": "list",
+        "checkedAt": "2026-10-16"
+      },
+      {
+        "site": "MHXX攻略レシピ（うしおコイン：入手・用途）",
+        "url": "http://wiki.mhxg.org/ida/268696.html",
+        "kind": "detail",
+        "checkedAt": "2026-10-16"
+      }
+    ],
+    "verification": "partial",
+    "verificationNote": "日本版MHXXの攻略レシピ一覧・個別ページをHTTP取得して照合。HRは個別の備考に記載された値のみ採用。共通のダウンロード条件はカテゴリ説明に表示。装備生産は素材の用途であり、クリア時の自動取得・製法フラグの保証ではありません。受注・参加を区別した数値が原資料にないため、記載HRを記録上の前提としています。"
+  },
+  {
+    "id": "event-high-recipe-270522",
+    "name": "常世貪る恐暴竜",
+    "category": "event",
+    "rank": "上位",
+    "order": 11,
+    "role": "hunter",
+    "tags": [
+      "normal"
+    ],
+    "condition": {
+      "kind": "hr_at_least",
+      "value": 8
+    },
+    "unlocks": [],
+    "sources": [
+      {
+        "site": "MHXX攻略レシピ",
+        "url": "http://wiki.mhxg.org/ida/270522.html",
+        "kind": "detail",
+        "checkedAt": "2026-10-16"
+      },
+      {
+        "site": "MHXX攻略レシピ（イベント上位一覧）",
+        "url": "http://wiki.mhxg.org/data/2032.html",
+        "kind": "list",
+        "checkedAt": "2026-10-16"
+      }
+    ],
+    "verification": "partial",
+    "verificationNote": "日本版MHXXの攻略レシピ一覧・個別ページをHTTP取得して照合。HRは個別の備考に記載された値のみ採用。共通のダウンロード条件はカテゴリ説明に表示。装備生産は素材の用途であり、クリア時の自動取得・製法フラグの保証ではありません。受注・参加を区別した数値が原資料にないため、記載HRを記録上の前提としています。"
+  },
+  {
+    "id": "event-high-recipe-278946",
+    "name": "ユニクロ・かつてない衝撃",
+    "category": "event",
+    "rank": "上位",
+    "order": 12,
+    "role": "hunter",
+    "tags": [
+      "normal"
+    ],
+    "condition": {
+      "kind": "hr_at_least",
+      "value": 4
+    },
+    "unlocks": [
+      {
+        "kind": "other",
+        "label": "ユニクロSコインを使う装備の生産・強化",
+        "note": "報酬素材「ユニクロSコイン」を使用。生産：ライクロニット帽（1個）、ライクロダウン（1個）、ライクログローブ（1個）、ライクロリングベルト（1個）、ライクロカーゴパンツ（1個）。強化：ライクロシリーズ（Lv5 1個）、ライクロシリーズ（Lv7 1個）。別途、各装備の他の必要素材・費用・生産／強化段階の条件を満たす必要があります。クリアだけで製法や装備を取得した扱いにはしません。報酬の抽選・必要個数により周回が必要な場合があります。"
+      }
+    ],
+    "sources": [
+      {
+        "site": "MHXX攻略レシピ",
+        "url": "http://wiki.mhxg.org/ida/278946.html",
+        "kind": "detail",
+        "checkedAt": "2026-10-16"
+      },
+      {
+        "site": "MHXX攻略レシピ（イベント上位一覧）",
+        "url": "http://wiki.mhxg.org/data/2032.html",
+        "kind": "list",
+        "checkedAt": "2026-10-16"
+      },
+      {
+        "site": "MHXX攻略レシピ（ユニクロSコイン：入手・用途）",
+        "url": "http://wiki.mhxg.org/ida/268732.html",
+        "kind": "detail",
+        "checkedAt": "2026-10-16"
+      }
+    ],
+    "verification": "partial",
+    "verificationNote": "日本版MHXXの攻略レシピ一覧・個別ページをHTTP取得して照合。HRは個別の備考に記載された値のみ採用。共通のダウンロード条件はカテゴリ説明に表示。装備生産は素材の用途であり、クリア時の自動取得・製法フラグの保証ではありません。受注・参加を区別した数値が原資料にないため、記載HRを記録上の前提としています。"
+  },
+  {
+    "id": "event-high-recipe-270797",
+    "name": "アイルー村・ぽかぽか狩猟大会",
+    "category": "event",
+    "rank": "上位",
+    "order": 13,
+    "role": "hunter",
+    "tags": [
+      "normal"
+    ],
+    "condition": {
+      "kind": "hr_at_least",
+      "value": 4
+    },
+    "unlocks": [
+      {
+        "kind": "other",
+        "label": "ぽかぽか日記帳を使う装備の生産・強化",
+        "note": "報酬素材「ぽかぽか日記帳」を使用。生産：ぽかぽかネコマスク（1個）、ぽかぽかネコベスト（1個）。別途、各装備の他の必要素材・費用・生産／強化段階の条件を満たす必要があります。クリアだけで製法や装備を取得した扱いにはしません。報酬の抽選・必要個数により周回が必要な場合があります。"
+      }
+    ],
+    "sources": [
+      {
+        "site": "MHXX攻略レシピ",
+        "url": "http://wiki.mhxg.org/ida/270797.html",
+        "kind": "detail",
+        "checkedAt": "2026-10-16"
+      },
+      {
+        "site": "MHXX攻略レシピ（イベント上位一覧）",
+        "url": "http://wiki.mhxg.org/data/2032.html",
+        "kind": "list",
+        "checkedAt": "2026-10-16"
+      },
+      {
+        "site": "MHXX攻略レシピ（ぽかぽか日記帳：入手・用途）",
+        "url": "http://wiki.mhxg.org/ida/268724.html",
+        "kind": "detail",
+        "checkedAt": "2026-10-16"
+      }
+    ],
+    "verification": "partial",
+    "verificationNote": "日本版MHXXの攻略レシピ一覧・個別ページをHTTP取得して照合。HRは個別の備考に記載された値のみ採用。共通のダウンロード条件はカテゴリ説明に表示。装備生産は素材の用途であり、クリア時の自動取得・製法フラグの保証ではありません。受注・参加を区別した数値が原資料にないため、記載HRを記録上の前提としています。"
+  },
+  {
+    "id": "event-high-recipe-278943",
+    "name": "火山の将軍・舞いし鎌",
+    "category": "event",
+    "rank": "上位",
+    "order": 14,
+    "role": "hunter",
+    "tags": [
+      "normal"
+    ],
+    "condition": {
+      "kind": "hr_at_least",
+      "value": 4
+    },
+    "unlocks": [],
+    "sources": [
+      {
+        "site": "MHXX攻略レシピ",
+        "url": "http://wiki.mhxg.org/ida/278943.html",
+        "kind": "detail",
+        "checkedAt": "2026-10-16"
+      },
+      {
+        "site": "MHXX攻略レシピ（イベント上位一覧）",
+        "url": "http://wiki.mhxg.org/data/2032.html",
+        "kind": "list",
+        "checkedAt": "2026-10-16"
+      }
+    ],
+    "verification": "partial",
+    "verificationNote": "日本版MHXXの攻略レシピ一覧・個別ページをHTTP取得して照合。HRは個別の備考に記載された値のみ採用。共通のダウンロード条件はカテゴリ説明に表示。装備生産は素材の用途であり、クリア時の自動取得・製法フラグの保証ではありません。受注・参加を区別した数値が原資料にないため、記載HRを記録上の前提としています。"
+  },
+  {
+    "id": "event-high-recipe-278944",
+    "name": "太古に浮かぶ、黄金の月",
+    "category": "event",
+    "rank": "上位",
+    "order": 15,
+    "role": "hunter",
+    "tags": [
+      "normal"
+    ],
+    "condition": {
+      "kind": "hr_at_least",
+      "value": 8
+    },
+    "unlocks": [],
+    "sources": [
+      {
+        "site": "MHXX攻略レシピ",
+        "url": "http://wiki.mhxg.org/ida/278944.html",
+        "kind": "detail",
+        "checkedAt": "2026-10-16"
+      },
+      {
+        "site": "MHXX攻略レシピ（イベント上位一覧）",
+        "url": "http://wiki.mhxg.org/data/2032.html",
+        "kind": "list",
+        "checkedAt": "2026-10-16"
+      }
+    ],
+    "verification": "partial",
+    "verificationNote": "日本版MHXXの攻略レシピ一覧・個別ページをHTTP取得して照合。HRは個別の備考に記載された値のみ採用。共通のダウンロード条件はカテゴリ説明に表示。装備生産は素材の用途であり、クリア時の自動取得・製法フラグの保証ではありません。受注・参加を区別した数値が原資料にないため、記載HRを記録上の前提としています。"
+  },
+  {
+    "id": "event-high-recipe-278947",
+    "name": "ファミ通・泡狐竜に突撃取材！",
+    "category": "event",
+    "rank": "上位",
+    "order": 16,
+    "role": "hunter",
+    "tags": [
+      "normal"
+    ],
+    "condition": {
+      "kind": "hr_at_least",
+      "value": 4
+    },
+    "unlocks": [
+      {
+        "kind": "other",
+        "label": "ファミ通チケットを使う装備の生産・強化",
+        "note": "報酬素材「ファミ通チケット」を使用。生産：フォックスブレイド（1個）、フォックスクレスト（1個）、ブレインフォックス（1個）、プラチナトロフィー（1個）、スラッシュフォックス（1個）、チャージフォックス（1個）。強化：フォックスブレイド2（2個）、特捜隊専用剣【天狐】3（3個）、フォックスクレスト2（2個）、速報隊専用剣【空狐】3（3個）、ブレインフォックス2（2個）、特捜隊専用槍【百狐】3（3個）、プラチナトロフィー2（2個）、プラチナクラウン3（3個）、スラッシュフォックス2（2個）、特報隊専用斧【仙狐】3（3個）、チャージフォックス2（2個）、速報隊専用斧【善狐】3（3個）。別途、各装備の他の必要素材・費用・生産／強化段階の条件を満たす必要があります。クリアだけで製法や装備を取得した扱いにはしません。報酬の抽選・必要個数により周回が必要な場合があります。"
+      }
+    ],
+    "sources": [
+      {
+        "site": "MHXX攻略レシピ",
+        "url": "http://wiki.mhxg.org/ida/278947.html",
+        "kind": "detail",
+        "checkedAt": "2026-10-16"
+      },
+      {
+        "site": "MHXX攻略レシピ（イベント上位一覧）",
+        "url": "http://wiki.mhxg.org/data/2032.html",
+        "kind": "list",
+        "checkedAt": "2026-10-16"
+      },
+      {
+        "site": "MHXX攻略レシピ（ファミ通チケット：入手・用途）",
+        "url": "http://wiki.mhxg.org/ida/268722.html",
+        "kind": "detail",
+        "checkedAt": "2026-10-16"
+      }
+    ],
+    "verification": "partial",
+    "verificationNote": "日本版MHXXの攻略レシピ一覧・個別ページをHTTP取得して照合。HRは個別の備考に記載された値のみ採用。共通のダウンロード条件はカテゴリ説明に表示。装備生産は素材の用途であり、クリア時の自動取得・製法フラグの保証ではありません。受注・参加を区別した数値が原資料にないため、記載HRを記録上の前提としています。"
+  },
+  {
+    "id": "event-high-recipe-278961",
+    "name": "太古を照らす、白銀の太陽",
+    "category": "event",
+    "rank": "上位",
+    "order": 17,
+    "role": "hunter",
+    "tags": [
+      "normal"
+    ],
+    "condition": {
+      "kind": "hr_at_least",
+      "value": 8
+    },
+    "unlocks": [],
+    "sources": [
+      {
+        "site": "MHXX攻略レシピ",
+        "url": "http://wiki.mhxg.org/ida/278961.html",
+        "kind": "detail",
+        "checkedAt": "2026-10-16"
+      },
+      {
+        "site": "MHXX攻略レシピ（イベント上位一覧）",
+        "url": "http://wiki.mhxg.org/data/2032.html",
+        "kind": "list",
+        "checkedAt": "2026-10-16"
+      }
+    ],
+    "verification": "partial",
+    "verificationNote": "日本版MHXXの攻略レシピ一覧・個別ページをHTTP取得して照合。HRは個別の備考に記載された値のみ採用。共通のダウンロード条件はカテゴリ説明に表示。装備生産は素材の用途であり、クリア時の自動取得・製法フラグの保証ではありません。受注・参加を区別した数値が原資料にないため、記載HRを記録上の前提としています。"
+  },
+  {
+    "id": "event-high-recipe-270536",
+    "name": "ロックマン・黄色い悪魔",
+    "category": "event",
+    "rank": "上位",
+    "order": 18,
+    "role": "hunter",
+    "tags": [
+      "normal"
+    ],
+    "condition": {
+      "kind": "hr_at_least",
+      "value": 4
+    },
+    "unlocks": [
+      {
+        "kind": "other",
+        "label": "セラミカルチタンを使う装備の生産・強化",
+        "note": "報酬素材「セラミカルチタン」を使用。生産：ラッシュハンマー（2個）、ロックニャンメット（1個）、ロックニャンボディ（1個）。別途、各装備の他の必要素材・費用・生産／強化段階の条件を満たす必要があります。クリアだけで製法や装備を取得した扱いにはしません。報酬の抽選・必要個数により周回が必要な場合があります。"
+      }
+    ],
+    "sources": [
+      {
+        "site": "MHXX攻略レシピ",
+        "url": "http://wiki.mhxg.org/ida/270536.html",
+        "kind": "detail",
+        "checkedAt": "2026-10-16"
+      },
+      {
+        "site": "MHXX攻略レシピ（イベント上位一覧）",
+        "url": "http://wiki.mhxg.org/data/2032.html",
+        "kind": "list",
+        "checkedAt": "2026-10-16"
+      },
+      {
+        "site": "MHXX攻略レシピ（セラミカルチタン：入手・用途）",
+        "url": "http://wiki.mhxg.org/ida/268714.html",
+        "kind": "detail",
+        "checkedAt": "2026-10-16"
+      }
+    ],
+    "verification": "partial",
+    "verificationNote": "日本版MHXXの攻略レシピ一覧・個別ページをHTTP取得して照合。HRは個別の備考に記載された値のみ採用。共通のダウンロード条件はカテゴリ説明に表示。装備生産は素材の用途であり、クリア時の自動取得・製法フラグの保証ではありません。受注・参加を区別した数値が原資料にないため、記載HRを記録上の前提としています。"
+  },
+  {
+    "id": "event-high-recipe-278962",
+    "name": "範馬刃牙・最大VS最強",
+    "category": "event",
+    "rank": "上位",
+    "order": 19,
+    "role": "hunter",
+    "tags": [
+      "normal"
+    ],
+    "condition": {
+      "kind": "all",
+      "rules": [
+        {
+          "kind": "hr_at_least",
+          "value": 4
+        },
+        {
+          "kind": "external_flag",
+          "label": "防具・護石を装備せずに受注する（装備状態はこのアプリでは判定しません）"
+        }
+      ]
+    },
+    "unlocks": [
+      {
+        "kind": "other",
+        "label": "地下闘技場入場券を使う装備の生産・強化",
+        "note": "報酬素材「地下闘技場入場券」を使用。生産：仁剣【侠客立ち】（1個）、範馬刃牙流格闘術（1個）、鬼ノ貌（1個）、逆巻く怒髪（1個）、王者のヘッドギア（1個）、地上最強の胴着（1個）、王者のボディ（1個）、王者のバンテージ（1個）、王者のベルト（1個）、地上最強の袴（1個）、王者のレッグロック（1個）。強化：仁剣【侠客立ち】2（2個）、仁剣【疵面】3（3個）、範馬刃牙流格闘術2（2個）、真範馬刃牙流格闘術3（3個）、鬼ノ貌2（2個）、鬼ノ現身3（3個）、地上最強シリーズ（Lv5 1個）、地上最強シリーズ（Lv7 1個）、王者/強者シリーズ（Lv5 1個）、王者/強者シリーズ（Lv7 1個）。別途、各装備の他の必要素材・費用・生産／強化段階の条件を満たす必要があります。クリアだけで製法や装備を取得した扱いにはしません。報酬の抽選・必要個数により周回が必要な場合があります。"
+      }
+    ],
+    "sources": [
+      {
+        "site": "MHXX攻略レシピ",
+        "url": "http://wiki.mhxg.org/ida/278962.html",
+        "kind": "detail",
+        "checkedAt": "2026-10-16"
+      },
+      {
+        "site": "MHXX攻略レシピ（イベント上位一覧）",
+        "url": "http://wiki.mhxg.org/data/2032.html",
+        "kind": "list",
+        "checkedAt": "2026-10-16"
+      },
+      {
+        "site": "MHXX攻略レシピ（地下闘技場入場券：入手・用途）",
+        "url": "http://wiki.mhxg.org/ida/268716.html",
+        "kind": "detail",
+        "checkedAt": "2026-10-16"
+      }
+    ],
+    "verification": "partial",
+    "verificationNote": "日本版MHXXの攻略レシピ一覧・個別ページをHTTP取得して照合。HRは個別の備考に記載された値のみ採用。共通のダウンロード条件はカテゴリ説明に表示。装備生産は素材の用途であり、クリア時の自動取得・製法フラグの保証ではありません。受注・参加を区別した数値が原資料にないため、記載HRを記録上の前提としています。"
+  },
+  {
+    "id": "event-high-recipe-270534",
+    "name": "モンハン部・ドスオールスター",
+    "category": "event",
+    "rank": "上位",
+    "order": 20,
+    "role": "hunter",
+    "tags": [
+      "normal"
+    ],
+    "condition": {
+      "kind": "hr_at_least",
+      "value": 4
+    },
+    "unlocks": [
+      {
+        "kind": "other",
+        "label": "モンハン部入部届を使う装備の生産・強化",
+        "note": "報酬素材「モンハン部入部届」を使用。生産：MH部熱血指導竹刀（1個）、MH部員特製扇子（1個）、応援団笛【メガホン】（1個）、Xガムートジャケット（1個）、Xミツネジャケット（1個）、Xディノジャケット（1個）、Xゼクスジャケット（1個）。強化：MH部熱血指導竹刀2（2個）、MH部超熱血指導竹刀3（3個）、MH部員特製扇子2（2個）、MH部員限定扇子3（3個）、応援団笛【メガホン】2（2個）、応援団笛【ギガホン】3（3個）、Xガムートシリーズ（Lv4 1個）、Xガムートシリーズ（Lv8 1個）、Xミツネシリーズ（Lv4 1個）、Xミツネシリーズ（Lv8 1個）、Xディノシリーズ（Lv4 1個）、Xディノシリーズ（Lv8 1個）、Xゼクスシリーズ（Lv4 1個）、Xゼクスシリーズ（Lv8 1個）。別途、各装備の他の必要素材・費用・生産／強化段階の条件を満たす必要があります。クリアだけで製法や装備を取得した扱いにはしません。報酬の抽選・必要個数により周回が必要な場合があります。"
+      }
+    ],
+    "sources": [
+      {
+        "site": "MHXX攻略レシピ",
+        "url": "http://wiki.mhxg.org/ida/270534.html",
+        "kind": "detail",
+        "checkedAt": "2026-10-16"
+      },
+      {
+        "site": "MHXX攻略レシピ（イベント上位一覧）",
+        "url": "http://wiki.mhxg.org/data/2032.html",
+        "kind": "list",
+        "checkedAt": "2026-10-16"
+      },
+      {
+        "site": "MHXX攻略レシピ（モンハン部入部届：入手・用途）",
+        "url": "http://wiki.mhxg.org/ida/268730.html",
+        "kind": "detail",
+        "checkedAt": "2026-10-16"
+      }
+    ],
+    "verification": "partial",
+    "verificationNote": "日本版MHXXの攻略レシピ一覧・個別ページをHTTP取得して照合。HRは個別の備考に記載された値のみ採用。共通のダウンロード条件はカテゴリ説明に表示。装備生産は素材の用途であり、クリア時の自動取得・製法フラグの保証ではありません。受注・参加を区別した数値が原資料にないため、記載HRを記録上の前提としています。"
+  },
+  {
+    "id": "event-high-recipe-278976",
+    "name": "幻譚～貪食の恐王",
+    "category": "event",
+    "rank": "上位",
+    "order": 21,
+    "role": "hunter",
+    "tags": [
+      "normal"
+    ],
+    "condition": {
+      "kind": "hr_at_least",
+      "value": 8
+    },
+    "unlocks": [
+      {
+        "kind": "other",
+        "label": "女神の抱擁を使う装備の生産・強化",
+        "note": "報酬素材「女神の抱擁」を使用。生産：審判の翼（1個）、ヘルムオブレイジ（1個）、ヘルムオブアナト（1個）、メイルオブレイジ（1個）、メイルオブアナト（1個）、アームオブレイジ（1個）、アームオブアナト（1個）、グリーヴオブレイジ（1個）、グリーヴオブアナト（1個）。強化：審判の翼2（2個）、審判の翼Ｘ3（3個）、レイジシリーズ（Lv5 1個）、レイジシリーズ（Lv7 1個）、アナトシリーズ（Lv5 1個）、アナトシリーズ（Lv7 1個）。別途、各装備の他の必要素材・費用・生産／強化段階の条件を満たす必要があります。クリアだけで製法や装備を取得した扱いにはしません。報酬の抽選・必要個数により周回が必要な場合があります。"
+      }
+    ],
+    "sources": [
+      {
+        "site": "MHXX攻略レシピ",
+        "url": "http://wiki.mhxg.org/ida/278976.html",
+        "kind": "detail",
+        "checkedAt": "2026-10-16"
+      },
+      {
+        "site": "MHXX攻略レシピ（イベント上位一覧）",
+        "url": "http://wiki.mhxg.org/data/2032.html",
+        "kind": "list",
+        "checkedAt": "2026-10-16"
+      },
+      {
+        "site": "MHXX攻略レシピ（女神の抱擁：入手・用途）",
+        "url": "http://wiki.mhxg.org/ida/268727.html",
+        "kind": "detail",
+        "checkedAt": "2026-10-16"
+      }
+    ],
+    "verification": "partial",
+    "verificationNote": "日本版MHXXの攻略レシピ一覧・個別ページをHTTP取得して照合。HRは個別の備考に記載された値のみ採用。共通のダウンロード条件はカテゴリ説明に表示。装備生産は素材の用途であり、クリア時の自動取得・製法フラグの保証ではありません。受注・参加を区別した数値が原資料にないため、記載HRを記録上の前提としています。"
+  },
+  {
+    "id": "event-high-recipe-278969",
+    "name": "JUMP・沸き立つマグマ",
+    "category": "event",
+    "rank": "上位",
+    "order": 22,
+    "role": "hunter",
+    "tags": [
+      "normal"
+    ],
+    "condition": {
+      "kind": "hr_at_least",
+      "value": 4
+    },
+    "unlocks": [
+      {
+        "kind": "other",
+        "label": "海賊Jチケットを使う装備の生産・強化",
+        "note": "報酬素材「海賊Jチケット」を使用。生産：キャプテンＪブレイド（1個）、海賊Ｊソード（1個）、海賊Ｊエッジ（1個）、海賊Ｊガンランス（1個）、海賊Ｊアックス（1個）、伝説Ｊアンカー（1個）、断罪の銃棍Ｊ（1個）、海賊Ｊキャノン（1個）、海賊Jハット（1個）、大海賊Jハット（1個）、海賊Jスーツ（1個）、大海賊Jスーツ（1個）、海賊Jグラブ（1個）、大海賊Jグラブ（1個）、海賊Jコイル（1個）、大海賊Jコイル（1個）、海賊Jブーツ（1個）、大海賊Jブーツ（1個）。強化：キャプテンＪブレイド2（2個）、キャプテンＪバスター3（3個）、海賊Ｊソード2（2個）、大海賊Ｊソード3（3個）、海賊Ｊエッジ2（2個）、大海賊Ｊエッジ3（3個）、海賊Ｊガンランス2（2個）、大海賊Ｊガンランス3（3個）、海賊Ｊアックス2（2個）、大海賊Ｊアックス3（3個）、伝説Ｊアンカー2（2個）、伝説Ｊレガシー3（3個）、断罪の銃棍Ｊ2（2個）、大断罪の銃棍Ｊ3（3個）、海賊Ｊキャノン2（2個）、大海賊Ｊキャノン3（3個）、海賊Jシリーズ（Lv5 1個）、海賊Jシリーズ（Lv7 1個）、大海賊Jシリーズ（Lv5 1個）、大海賊Jシリーズ（Lv7 1個）。別途、各装備の他の必要素材・費用・生産／強化段階の条件を満たす必要があります。クリアだけで製法や装備を取得した扱いにはしません。報酬の抽選・必要個数により周回が必要な場合があります。"
+      }
+    ],
+    "sources": [
+      {
+        "site": "MHXX攻略レシピ",
+        "url": "http://wiki.mhxg.org/ida/278969.html",
+        "kind": "detail",
+        "checkedAt": "2026-10-16"
+      },
+      {
+        "site": "MHXX攻略レシピ（イベント上位一覧）",
+        "url": "http://wiki.mhxg.org/data/2032.html",
+        "kind": "list",
+        "checkedAt": "2026-10-16"
+      },
+      {
+        "site": "MHXX攻略レシピ（海賊Jチケット：入手・用途）",
+        "url": "http://wiki.mhxg.org/ida/268700.html",
+        "kind": "detail",
+        "checkedAt": "2026-10-16"
+      }
+    ],
+    "verification": "partial",
+    "verificationNote": "日本版MHXXの攻略レシピ一覧・個別ページをHTTP取得して照合。HRは個別の備考に記載された値のみ採用。共通のダウンロード条件はカテゴリ説明に表示。装備生産は素材の用途であり、クリア時の自動取得・製法フラグの保証ではありません。受注・参加を区別した数値が原資料にないため、記載HRを記録上の前提としています。"
+  },
+  {
+    "id": "event-high-recipe-278977",
+    "name": "マギ・堕転から救う者",
+    "category": "event",
+    "rank": "上位",
+    "order": 23,
+    "role": "hunter",
+    "tags": [
+      "normal"
+    ],
+    "condition": {
+      "kind": "hr_at_least",
+      "value": 4
+    },
+    "unlocks": [
+      {
+        "kind": "other",
+        "label": "マギコインを使う装備の生産・強化",
+        "note": "報酬素材「マギコイン」を使用。生産：アモンの剣（1個）、アラジンの杖（1個）。強化：アモンの剣2（2個）、アモンの剣Ｘ3（3個）、アラジンの杖2（2個）、アラジンの杖Ｘ3（3個）。別途、各装備の他の必要素材・費用・生産／強化段階の条件を満たす必要があります。クリアだけで製法や装備を取得した扱いにはしません。報酬の抽選・必要個数により周回が必要な場合があります。"
+      }
+    ],
+    "sources": [
+      {
+        "site": "MHXX攻略レシピ",
+        "url": "http://wiki.mhxg.org/ida/278977.html",
+        "kind": "detail",
+        "checkedAt": "2026-10-16"
+      },
+      {
+        "site": "MHXX攻略レシピ（イベント上位一覧）",
+        "url": "http://wiki.mhxg.org/data/2032.html",
+        "kind": "list",
+        "checkedAt": "2026-10-16"
+      },
+      {
+        "site": "MHXX攻略レシピ（マギコイン：入手・用途）",
+        "url": "http://wiki.mhxg.org/ida/268725.html",
+        "kind": "detail",
+        "checkedAt": "2026-10-16"
+      }
+    ],
+    "verification": "partial",
+    "verificationNote": "日本版MHXXの攻略レシピ一覧・個別ページをHTTP取得して照合。HRは個別の備考に記載された値のみ採用。共通のダウンロード条件はカテゴリ説明に表示。装備生産は素材の用途であり、クリア時の自動取得・製法フラグの保証ではありません。受注・参加を区別した数値が原資料にないため、記載HRを記録上の前提としています。"
+  },
+  {
+    "id": "event-high-recipe-278978",
+    "name": "砂漠の大名・座する盾",
+    "category": "event",
+    "rank": "上位",
+    "order": 24,
+    "role": "hunter",
+    "tags": [
+      "normal"
+    ],
+    "condition": {
+      "kind": "hr_at_least",
+      "value": 4
+    },
+    "unlocks": [],
+    "sources": [
+      {
+        "site": "MHXX攻略レシピ",
+        "url": "http://wiki.mhxg.org/ida/278978.html",
+        "kind": "detail",
+        "checkedAt": "2026-10-16"
+      },
+      {
+        "site": "MHXX攻略レシピ（イベント上位一覧）",
+        "url": "http://wiki.mhxg.org/data/2032.html",
+        "kind": "list",
+        "checkedAt": "2026-10-16"
+      }
+    ],
+    "verification": "partial",
+    "verificationNote": "日本版MHXXの攻略レシピ一覧・個別ページをHTTP取得して照合。HRは個別の備考に記載された値のみ採用。共通のダウンロード条件はカテゴリ説明に表示。装備生産は素材の用途であり、クリア時の自動取得・製法フラグの保証ではありません。受注・参加を区別した数値が原資料にないため、記載HRを記録上の前提としています。"
+  },
+  {
+    "id": "event-high-recipe-278979",
+    "name": "怒髪に挑めと獰猛な横暴",
+    "category": "event",
+    "rank": "上位",
+    "order": 25,
+    "role": "hunter",
+    "tags": [
+      "normal"
+    ],
+    "condition": {
+      "kind": "hr_at_least",
+      "value": 8
+    },
+    "unlocks": [],
+    "sources": [
+      {
+        "site": "MHXX攻略レシピ",
+        "url": "http://wiki.mhxg.org/ida/278979.html",
+        "kind": "detail",
+        "checkedAt": "2026-10-16"
+      },
+      {
+        "site": "MHXX攻略レシピ（イベント上位一覧）",
+        "url": "http://wiki.mhxg.org/data/2032.html",
+        "kind": "list",
+        "checkedAt": "2026-10-16"
+      }
+    ],
+    "verification": "partial",
+    "verificationNote": "日本版MHXXの攻略レシピ一覧・個別ページをHTTP取得して照合。HRは個別の備考に記載された値のみ採用。共通のダウンロード条件はカテゴリ説明に表示。装備生産は素材の用途であり、クリア時の自動取得・製法フラグの保証ではありません。受注・参加を区別した数値が原資料にないため、記載HRを記録上の前提としています。"
+  },
+  {
+    "id": "event-high-recipe-278983",
+    "name": "マガジン・紅蓮爆炎の王",
+    "category": "event",
+    "rank": "上位",
+    "order": 26,
+    "role": "hunter",
+    "tags": [
+      "normal"
+    ],
+    "condition": {
+      "kind": "hr_at_least",
+      "value": 8
+    },
+    "unlocks": [
+      {
+        "kind": "other",
+        "label": "EX炎王龍チケットを使う装備の生産・強化",
+        "note": "報酬素材「EX炎王龍チケット」を使用。生産：EXカイザークラウン（1個）、EXカイザーメイル（1個）、EXカイザーアーム（1個）、EXカイザーフォールド（1個）、EXカイザーグリーヴ（1個）。別途、各装備の他の必要素材・費用・生産／強化段階の条件を満たす必要があります。クリアだけで製法や装備を取得した扱いにはしません。報酬の抽選・必要個数により周回が必要な場合があります。"
+      },
+      {
+        "kind": "other",
+        "label": "冥天の星くずを使う装備の生産・強化",
+        "note": "報酬素材「冥天の星くず」を使用。生産：紅蓮爆炎刃（1個）、ゾディアスヘルム（1個）、ゾディアスメイル（1個）、ゾディアスアーム（1個）、ゾディアスコイル（1個）、ゾディアスグリーヴ（1個）。強化：紅蓮爆炎刃2（2個）、真紅蓮爆炎刃3（3個）、ゾディアスシリーズ（Lv5 1個）、ゾディアスシリーズ（Lv7 1個）。別途、各装備の他の必要素材・費用・生産／強化段階の条件を満たす必要があります。クリアだけで製法や装備を取得した扱いにはしません。報酬の抽選・必要個数により周回が必要な場合があります。"
+      }
+    ],
+    "sources": [
+      {
+        "site": "MHXX攻略レシピ",
+        "url": "http://wiki.mhxg.org/ida/278983.html",
+        "kind": "detail",
+        "checkedAt": "2026-10-16"
+      },
+      {
+        "site": "MHXX攻略レシピ（イベント上位一覧）",
+        "url": "http://wiki.mhxg.org/data/2032.html",
+        "kind": "list",
+        "checkedAt": "2026-10-16"
+      },
+      {
+        "site": "MHXX攻略レシピ（EX炎王龍チケット：入手・用途）",
+        "url": "http://wiki.mhxg.org/ida/234116.html",
+        "kind": "detail",
+        "checkedAt": "2026-10-16"
+      },
+      {
+        "site": "MHXX攻略レシピ（冥天の星くず：入手・用途）",
+        "url": "http://wiki.mhxg.org/ida/268726.html",
+        "kind": "detail",
+        "checkedAt": "2026-10-16"
+      }
+    ],
+    "verification": "partial",
+    "verificationNote": "日本版MHXXの攻略レシピ一覧・個別ページをHTTP取得して照合。HRは個別の備考に記載された値のみ採用。共通のダウンロード条件はカテゴリ説明に表示。装備生産は素材の用途であり、クリア時の自動取得・製法フラグの保証ではありません。受注・参加を区別した数値が原資料にないため、記載HRを記録上の前提としています。"
+  },
+  {
+    "id": "event-high-recipe-278984",
+    "name": "円舞獰乱",
+    "category": "event",
+    "rank": "上位",
+    "order": 27,
+    "role": "hunter",
+    "tags": [
+      "normal"
+    ],
+    "condition": {
+      "kind": "hr_at_least",
+      "value": 8
+    },
+    "unlocks": [],
+    "sources": [
+      {
+        "site": "MHXX攻略レシピ",
+        "url": "http://wiki.mhxg.org/ida/278984.html",
+        "kind": "detail",
+        "checkedAt": "2026-10-16"
+      },
+      {
+        "site": "MHXX攻略レシピ（イベント上位一覧）",
+        "url": "http://wiki.mhxg.org/data/2032.html",
+        "kind": "list",
+        "checkedAt": "2026-10-16"
+      }
+    ],
+    "verification": "partial",
+    "verificationNote": "日本版MHXXの攻略レシピ一覧・個別ページをHTTP取得して照合。HRは個別の備考に記載された値のみ採用。共通のダウンロード条件はカテゴリ説明に表示。装備生産は素材の用途であり、クリア時の自動取得・製法フラグの保証ではありません。受注・参加を区別した数値が原資料にないため、記載HRを記録上の前提としています。"
+  },
+  {
+    "id": "event-high-recipe-269612",
+    "name": "サンリオ・お魚たちを救え！",
+    "category": "event",
+    "rank": "上位",
+    "order": 28,
+    "role": "hunter",
+    "tags": [
+      "normal"
+    ],
+    "condition": {
+      "kind": "hr_at_least",
+      "value": 4
+    },
+    "unlocks": [
+      {
+        "kind": "other",
+        "label": "しゃけのきりみを使う装備の生産・強化",
+        "note": "報酬素材「しゃけのきりみ」を使用。生産：きりみステッキ（2個）、おめかしきりみちゃん（2個）。別途、各装備の他の必要素材・費用・生産／強化段階の条件を満たす必要があります。クリアだけで製法や装備を取得した扱いにはしません。報酬の抽選・必要個数により周回が必要な場合があります。"
+      }
+    ],
+    "sources": [
+      {
+        "site": "MHXX攻略レシピ",
+        "url": "http://wiki.mhxg.org/ida/269612.html",
+        "kind": "detail",
+        "checkedAt": "2026-10-16"
+      },
+      {
+        "site": "MHXX攻略レシピ（イベント上位一覧）",
+        "url": "http://wiki.mhxg.org/data/2032.html",
+        "kind": "list",
+        "checkedAt": "2026-10-16"
+      },
+      {
+        "site": "MHXX攻略レシピ（しゃけのきりみ：入手・用途）",
+        "url": "http://wiki.mhxg.org/ida/268708.html",
+        "kind": "detail",
+        "checkedAt": "2026-10-16"
+      }
+    ],
+    "verification": "partial",
+    "verificationNote": "日本版MHXXの攻略レシピ一覧・個別ページをHTTP取得して照合。HRは個別の備考に記載された値のみ採用。共通のダウンロード条件はカテゴリ説明に表示。装備生産は素材の用途であり、クリア時の自動取得・製法フラグの保証ではありません。受注・参加を区別した数値が原資料にないため、記載HRを記録上の前提としています。"
+  },
+  {
+    "id": "event-high-recipe-278993",
+    "name": "姿なき者・オオナズチ",
+    "category": "event",
+    "rank": "上位",
+    "order": 29,
+    "role": "hunter",
+    "tags": [
+      "normal"
+    ],
+    "condition": {
+      "kind": "hr_at_least",
+      "value": 8
+    },
+    "unlocks": [
+      {
+        "kind": "other",
+        "label": "EX霞龍チケットを使う装備の生産・強化",
+        "note": "報酬素材「EX霞龍チケット」を使用。生産：EXミヅハ【烏帽子】（1個）、EXミヅハ【胸当て】（1個）、EXミヅハ【大袖】（1個）、EXミヅハ【丸帯】（1個）、EXミヅハ【具足】（1個）。別途、各装備の他の必要素材・費用・生産／強化段階の条件を満たす必要があります。クリアだけで製法や装備を取得した扱いにはしません。報酬の抽選・必要個数により周回が必要な場合があります。"
+      }
+    ],
+    "sources": [
+      {
+        "site": "MHXX攻略レシピ",
+        "url": "http://wiki.mhxg.org/ida/278993.html",
+        "kind": "detail",
+        "checkedAt": "2026-10-16"
+      },
+      {
+        "site": "MHXX攻略レシピ（イベント上位一覧）",
+        "url": "http://wiki.mhxg.org/data/2032.html",
+        "kind": "list",
+        "checkedAt": "2026-10-16"
+      },
+      {
+        "site": "MHXX攻略レシピ（EX霞龍チケット：入手・用途）",
+        "url": "http://wiki.mhxg.org/ida/234117.html",
+        "kind": "detail",
+        "checkedAt": "2026-10-16"
+      }
+    ],
+    "verification": "partial",
+    "verificationNote": "日本版MHXXの攻略レシピ一覧・個別ページをHTTP取得して照合。HRは個別の備考に記載された値のみ採用。共通のダウンロード条件はカテゴリ説明に表示。装備生産は素材の用途であり、クリア時の自動取得・製法フラグの保証ではありません。受注・参加を区別した数値が原資料にないため、記載HRを記録上の前提としています。"
+  },
+  {
+    "id": "event-high-recipe-278948",
+    "name": "電撃・荒れ狂う海凶",
+    "category": "event",
+    "rank": "上位",
+    "order": 30,
+    "role": "hunter",
+    "tags": [
+      "normal"
+    ],
+    "condition": {
+      "kind": "hr_at_least",
+      "value": 4
+    },
+    "unlocks": [
+      {
+        "kind": "other",
+        "label": "デンゲキチケットを使う装備の生産・強化",
+        "note": "報酬素材「デンゲキチケット」を使用。生産：ライトワークス（1個）、イナズマワークス（1個）、サンダーワークス（1個）、ブリッツワークス（1個）、ボルトワークス（1個）、ライコウワークス（1個）。強化：ライトワークス2（2個）、ライトニングワークス3（3個）、イナズマワークス2（2個）、イカヅチワークス3（3個）、サンダーワークス2（2個）、ギガサンダーワークス3（3個）、ブリッツワークス2（2個）、ギガブリッツワークス3（3個）、ボルトワークス2（2個）、ボルティックワークス3（3個）、ライコウワークス2（2個）、ライデンワークス3（3個）。別途、各装備の他の必要素材・費用・生産／強化段階の条件を満たす必要があります。クリアだけで製法や装備を取得した扱いにはしません。報酬の抽選・必要個数により周回が必要な場合があります。"
+      }
+    ],
+    "sources": [
+      {
+        "site": "MHXX攻略レシピ",
+        "url": "http://wiki.mhxg.org/ida/278948.html",
+        "kind": "detail",
+        "checkedAt": "2026-10-16"
+      },
+      {
+        "site": "MHXX攻略レシピ（イベント上位一覧）",
+        "url": "http://wiki.mhxg.org/data/2032.html",
+        "kind": "list",
+        "checkedAt": "2026-10-16"
+      },
+      {
+        "site": "MHXX攻略レシピ（デンゲキチケット：入手・用途）",
+        "url": "http://wiki.mhxg.org/ida/268718.html",
+        "kind": "detail",
+        "checkedAt": "2026-10-16"
+      }
+    ],
+    "verification": "partial",
+    "verificationNote": "日本版MHXXの攻略レシピ一覧・個別ページをHTTP取得して照合。HRは個別の備考に記載された値のみ採用。共通のダウンロード条件はカテゴリ説明に表示。装備生産は素材の用途であり、クリア時の自動取得・製法フラグの保証ではありません。受注・参加を区別した数値が原資料にないため、記載HRを記録上の前提としています。"
+  },
+  {
+    "id": "event-high-recipe-278999",
+    "name": "遊戯王・美しき龍との決闘",
+    "category": "event",
+    "rank": "上位",
+    "order": 31,
+    "role": "hunter",
+    "tags": [
+      "normal"
+    ],
+    "condition": {
+      "kind": "hr_at_least",
+      "value": 4
+    },
+    "unlocks": [
+      {
+        "kind": "other",
+        "label": "運命のカードを使う装備の生産・強化",
+        "note": "報酬素材「運命のカード」を使用。生産：黒マジニャンの杖（2個）、黒マジニャンフード（1個）、黒マジニャンローブ（1個）。別途、各装備の他の必要素材・費用・生産／強化段階の条件を満たす必要があります。クリアだけで製法や装備を取得した扱いにはしません。報酬の抽選・必要個数により周回が必要な場合があります。"
+      }
+    ],
+    "sources": [
+      {
+        "site": "MHXX攻略レシピ",
+        "url": "http://wiki.mhxg.org/ida/278999.html",
+        "kind": "detail",
+        "checkedAt": "2026-10-16"
+      },
+      {
+        "site": "MHXX攻略レシピ（イベント上位一覧）",
+        "url": "http://wiki.mhxg.org/data/2032.html",
+        "kind": "list",
+        "checkedAt": "2026-10-16"
+      },
+      {
+        "site": "MHXX攻略レシピ（運命のカード：入手・用途）",
+        "url": "http://wiki.mhxg.org/ida/268697.html",
+        "kind": "detail",
+        "checkedAt": "2026-10-16"
+      }
+    ],
+    "verification": "partial",
+    "verificationNote": "日本版MHXXの攻略レシピ一覧・個別ページをHTTP取得して照合。HRは個別の備考に記載された値のみ採用。共通のダウンロード条件はカテゴリ説明に表示。装備生産は素材の用途であり、クリア時の自動取得・製法フラグの保証ではありません。受注・参加を区別した数値が原資料にないため、記載HRを記録上の前提としています。"
+  },
+  {
+    "id": "event-high-recipe-279000",
+    "name": "月下の夜会",
+    "category": "event",
+    "rank": "上位",
+    "order": 32,
+    "role": "hunter",
+    "tags": [
+      "normal"
+    ],
+    "condition": {
+      "kind": "hr_at_least",
+      "value": 8
+    },
+    "unlocks": [
+      {
+        "kind": "other",
+        "label": "EX金火竜チケットを使う装備の生産・強化",
+        "note": "報酬素材「EX金火竜チケット」を使用。生産：EXＧ・ルナヘルム（1個）、EXＧ・ルナメイル（1個）、EXＧ・ルナアーム（1個）、EXＧ・ルナコイル（1個）、EXＧ・ルナグリーヴ（1個）。別途、各装備の他の必要素材・費用・生産／強化段階の条件を満たす必要があります。クリアだけで製法や装備を取得した扱いにはしません。報酬の抽選・必要個数により周回が必要な場合があります。"
+      },
+      {
+        "kind": "other",
+        "label": "EX銀火竜チケットを使う装備の生産・強化",
+        "note": "報酬素材「EX銀火竜チケット」を使用。生産：EXS・ソルヘルム（1個）、EXS・ソルメイル（1個）、EXS・ソルアーム（1個）、EXS・ソルコイル（1個）、EXS・ソルグリーヴ（1個）。別途、各装備の他の必要素材・費用・生産／強化段階の条件を満たす必要があります。クリアだけで製法や装備を取得した扱いにはしません。報酬の抽選・必要個数により周回が必要な場合があります。"
+      }
+    ],
+    "sources": [
+      {
+        "site": "MHXX攻略レシピ",
+        "url": "http://wiki.mhxg.org/ida/279000.html",
+        "kind": "detail",
+        "checkedAt": "2026-10-16"
+      },
+      {
+        "site": "MHXX攻略レシピ（イベント上位一覧）",
+        "url": "http://wiki.mhxg.org/data/2032.html",
+        "kind": "list",
+        "checkedAt": "2026-10-16"
+      },
+      {
+        "site": "MHXX攻略レシピ（EX金火竜チケット：入手・用途）",
+        "url": "http://wiki.mhxg.org/ida/234120.html",
+        "kind": "detail",
+        "checkedAt": "2026-10-16"
+      },
+      {
+        "site": "MHXX攻略レシピ（EX銀火竜チケット：入手・用途）",
+        "url": "http://wiki.mhxg.org/ida/234121.html",
+        "kind": "detail",
+        "checkedAt": "2026-10-16"
+      }
+    ],
+    "verification": "partial",
+    "verificationNote": "日本版MHXXの攻略レシピ一覧・個別ページをHTTP取得して照合。HRは個別の備考に記載された値のみ採用。共通のダウンロード条件はカテゴリ説明に表示。装備生産は素材の用途であり、クリア時の自動取得・製法フラグの保証ではありません。受注・参加を区別した数値が原資料にないため、記載HRを記録上の前提としています。"
+  },
+  {
+    "id": "event-high-recipe-279001",
+    "name": "DMC・悪魔の如き重甲虫",
+    "category": "event",
+    "rank": "上位",
+    "order": 33,
+    "role": "hunter",
+    "tags": [
+      "normal"
+    ],
+    "condition": {
+      "kind": "hr_at_least",
+      "value": 4
+    },
+    "unlocks": [
+      {
+        "kind": "other",
+        "label": "レッドオーブを使う装備の生産・強化",
+        "note": "報酬素材「レッドオーブ」を使用。生産：魔剣アニャストル（2個）、ダンテネコウィッグ（1個）、ダンテネココート（1個）。別途、各装備の他の必要素材・費用・生産／強化段階の条件を満たす必要があります。クリアだけで製法や装備を取得した扱いにはしません。報酬の抽選・必要個数により周回が必要な場合があります。"
+      }
+    ],
+    "sources": [
+      {
+        "site": "MHXX攻略レシピ",
+        "url": "http://wiki.mhxg.org/ida/279001.html",
+        "kind": "detail",
+        "checkedAt": "2026-10-16"
+      },
+      {
+        "site": "MHXX攻略レシピ（イベント上位一覧）",
+        "url": "http://wiki.mhxg.org/data/2032.html",
+        "kind": "list",
+        "checkedAt": "2026-10-16"
+      },
+      {
+        "site": "MHXX攻略レシピ（レッドオーブ：入手・用途）",
+        "url": "http://wiki.mhxg.org/ida/268734.html",
+        "kind": "detail",
+        "checkedAt": "2026-10-16"
+      }
+    ],
+    "verification": "partial",
+    "verificationNote": "日本版MHXXの攻略レシピ一覧・個別ページをHTTP取得して照合。HRは個別の備考に記載された値のみ採用。共通のダウンロード条件はカテゴリ説明に表示。装備生産は素材の用途であり、クリア時の自動取得・製法フラグの保証ではありません。受注・参加を区別した数値が原資料にないため、記載HRを記録上の前提としています。"
+  },
+  {
+    "id": "event-high-recipe-279006",
+    "name": "カプコン・白と黒の乱舞",
+    "category": "event",
+    "rank": "上位",
+    "order": 34,
+    "role": "hunter",
+    "tags": [
+      "normal"
+    ],
+    "condition": {
+      "kind": "hr_at_least",
+      "value": 4
+    },
+    "unlocks": [
+      {
+        "kind": "other",
+        "label": "パペットチケットを使う装備の生産・強化",
+        "note": "報酬素材「パペットチケット」を使用。生産：アイルー君メラルー君（1個）。強化：アイルー君メラルー君2（2個）、アイルー様メラルー様3（3個）。別途、各装備の他の必要素材・費用・生産／強化段階の条件を満たす必要があります。クリアだけで製法や装備を取得した扱いにはしません。報酬の抽選・必要個数により周回が必要な場合があります。"
+      }
+    ],
+    "sources": [
+      {
+        "site": "MHXX攻略レシピ",
+        "url": "http://wiki.mhxg.org/ida/279006.html",
+        "kind": "detail",
+        "checkedAt": "2026-10-16"
+      },
+      {
+        "site": "MHXX攻略レシピ（イベント上位一覧）",
+        "url": "http://wiki.mhxg.org/data/2032.html",
+        "kind": "list",
+        "checkedAt": "2026-10-16"
+      },
+      {
+        "site": "MHXX攻略レシピ（パペットチケット：入手・用途）",
+        "url": "http://wiki.mhxg.org/ida/268721.html",
+        "kind": "detail",
+        "checkedAt": "2026-10-16"
+      }
+    ],
+    "verification": "partial",
+    "verificationNote": "日本版MHXXの攻略レシピ一覧・個別ページをHTTP取得して照合。HRは個別の備考に記載された値のみ採用。共通のダウンロード条件はカテゴリ説明に表示。装備生産は素材の用途であり、クリア時の自動取得・製法フラグの保証ではありません。受注・参加を区別した数値が原資料にないため、記載HRを記録上の前提としています。"
+  },
+  {
+    "id": "event-high-recipe-279007",
+    "name": "お願い！雌火竜の尻尾切断",
+    "category": "event",
+    "rank": "上位",
+    "order": 35,
+    "role": "prowler",
+    "tags": [
+      "normal"
+    ],
+    "condition": {
+      "kind": "hr_at_least",
+      "value": 4
+    },
+    "unlocks": [],
+    "sources": [
+      {
+        "site": "MHXX攻略レシピ",
+        "url": "http://wiki.mhxg.org/ida/279007.html",
+        "kind": "detail",
+        "checkedAt": "2026-10-16"
+      },
+      {
+        "site": "MHXX攻略レシピ（イベント上位一覧）",
+        "url": "http://wiki.mhxg.org/data/2032.html",
+        "kind": "list",
+        "checkedAt": "2026-10-16"
+      }
+    ],
+    "verification": "partial",
+    "verificationNote": "日本版MHXXの攻略レシピ一覧・個別ページをHTTP取得して照合。HRは個別の備考に記載された値のみ採用。共通のダウンロード条件はカテゴリ説明に表示。装備生産は素材の用途であり、クリア時の自動取得・製法フラグの保証ではありません。受注・参加を区別した数値が原資料にないため、記載HRを記録上の前提としています。"
+  },
+  {
+    "id": "event-high-recipe-279008",
+    "name": "火竜の尻尾切断に挑戦！",
+    "category": "event",
+    "rank": "上位",
+    "order": 36,
+    "role": "prowler",
+    "tags": [
+      "normal"
+    ],
+    "condition": {
+      "kind": "hr_at_least",
+      "value": 4
+    },
+    "unlocks": [],
+    "sources": [
+      {
+        "site": "MHXX攻略レシピ",
+        "url": "http://wiki.mhxg.org/ida/279008.html",
+        "kind": "detail",
+        "checkedAt": "2026-10-16"
+      },
+      {
+        "site": "MHXX攻略レシピ（イベント上位一覧）",
+        "url": "http://wiki.mhxg.org/data/2032.html",
+        "kind": "list",
+        "checkedAt": "2026-10-16"
+      }
+    ],
+    "verification": "partial",
+    "verificationNote": "日本版MHXXの攻略レシピ一覧・個別ページをHTTP取得して照合。HRは個別の備考に記載された値のみ採用。共通のダウンロード条件はカテゴリ説明に表示。装備生産は素材の用途であり、クリア時の自動取得・製法フラグの保証ではありません。受注・参加を区別した数値が原資料にないため、記載HRを記録上の前提としています。"
+  },
+  {
+    "id": "event-high-recipe-279009",
+    "name": "カプコン・壮大なオルケスタ",
+    "category": "event",
+    "rank": "上位",
+    "order": 37,
+    "role": "hunter",
+    "tags": [
+      "normal"
+    ],
+    "condition": {
+      "kind": "hr_at_least",
+      "value": 4
+    },
+    "unlocks": [
+      {
+        "kind": "other",
+        "label": "英雄の証を使う装備の生産・強化",
+        "note": "報酬素材「英雄の証」を使用。生産：メロディネコタクト（2個）、メロディネコカール（1個）、メロディネコスーツ（1個）。別途、各装備の他の必要素材・費用・生産／強化段階の条件を満たす必要があります。クリアだけで製法や装備を取得した扱いにはしません。報酬の抽選・必要個数により周回が必要な場合があります。"
+      }
+    ],
+    "sources": [
+      {
+        "site": "MHXX攻略レシピ",
+        "url": "http://wiki.mhxg.org/ida/279009.html",
+        "kind": "detail",
+        "checkedAt": "2026-10-16"
+      },
+      {
+        "site": "MHXX攻略レシピ（イベント上位一覧）",
+        "url": "http://wiki.mhxg.org/data/2032.html",
+        "kind": "list",
+        "checkedAt": "2026-10-16"
+      },
+      {
+        "site": "MHXX攻略レシピ（英雄の証：入手・用途）",
+        "url": "http://wiki.mhxg.org/ida/268698.html",
+        "kind": "detail",
+        "checkedAt": "2026-10-16"
+      }
+    ],
+    "verification": "partial",
+    "verificationNote": "日本版MHXXの攻略レシピ一覧・個別ページをHTTP取得して照合。HRは個別の備考に記載された値のみ採用。共通のダウンロード条件はカテゴリ説明に表示。装備生産は素材の用途であり、クリア時の自動取得・製法フラグの保証ではありません。受注・参加を区別した数値が原資料にないため、記載HRを記録上の前提としています。"
+  },
+  {
+    "id": "event-high-recipe-279015",
+    "name": "あっちっちなおとどけもの",
+    "category": "event",
+    "rank": "上位",
+    "order": 38,
+    "role": "prowler",
+    "tags": [
+      "normal"
+    ],
+    "condition": {
+      "kind": "hr_at_least",
+      "value": 4
+    },
+    "unlocks": [
+      {
+        "kind": "other",
+        "label": "郵便屋さんの手紙を使う装備の生産・強化",
+        "note": "報酬素材「郵便屋さんの手紙」を使用。生産：メイラーネコベレー（1個）、メイラーネコスーツ（1個）。別途、各装備の他の必要素材・費用・生産／強化段階の条件を満たす必要があります。クリアだけで製法や装備を取得した扱いにはしません。報酬の抽選・必要個数により周回が必要な場合があります。"
+      }
+    ],
+    "sources": [
+      {
+        "site": "MHXX攻略レシピ",
+        "url": "http://wiki.mhxg.org/ida/279015.html",
+        "kind": "detail",
+        "checkedAt": "2026-10-16"
+      },
+      {
+        "site": "MHXX攻略レシピ（イベント上位一覧）",
+        "url": "http://wiki.mhxg.org/data/2032.html",
+        "kind": "list",
+        "checkedAt": "2026-10-16"
+      },
+      {
+        "site": "MHXX攻略レシピ（郵便屋さんの手紙：入手・用途）",
+        "url": "http://wiki.mhxg.org/ida/268731.html",
+        "kind": "detail",
+        "checkedAt": "2026-10-16"
+      }
+    ],
+    "verification": "partial",
+    "verificationNote": "日本版MHXXの攻略レシピ一覧・個別ページをHTTP取得して照合。HRは個別の備考に記載された値のみ採用。共通のダウンロード条件はカテゴリ説明に表示。装備生産は素材の用途であり、クリア時の自動取得・製法フラグの保証ではありません。受注・参加を区別した数値が原資料にないため、記載HRを記録上の前提としています。"
+  },
+  {
+    "id": "event-high-recipe-279016",
+    "name": "モンハン部・闘技場連続特訓！",
+    "category": "event",
+    "rank": "上位",
+    "order": 39,
+    "role": "prowler",
+    "tags": [
+      "normal"
+    ],
+    "condition": {
+      "kind": "hr_at_least",
+      "value": 4
+    },
+    "unlocks": [
+      {
+        "kind": "other",
+        "label": "モンハン部会報誌を使う装備の生産・強化",
+        "note": "報酬素材「モンハン部会報誌」を使用。生産：ＭＨＢネコメガホン（2個）、ネコ鉄下駄【煮苦級】（2個）、マニャフェイク（1個）、ＭＨＢネコジャージ（1個）、ＭＨＢ応援番長帽（1個）、ＭＨＢ応援番長服（1個）。別途、各装備の他の必要素材・費用・生産／強化段階の条件を満たす必要があります。クリアだけで製法や装備を取得した扱いにはしません。報酬の抽選・必要個数により周回が必要な場合があります。"
+      }
+    ],
+    "sources": [
+      {
+        "site": "MHXX攻略レシピ",
+        "url": "http://wiki.mhxg.org/ida/279016.html",
+        "kind": "detail",
+        "checkedAt": "2026-10-16"
+      },
+      {
+        "site": "MHXX攻略レシピ（イベント上位一覧）",
+        "url": "http://wiki.mhxg.org/data/2032.html",
+        "kind": "list",
+        "checkedAt": "2026-10-16"
+      },
+      {
+        "site": "MHXX攻略レシピ（モンハン部会報誌：入手・用途）",
+        "url": "http://wiki.mhxg.org/ida/268729.html",
+        "kind": "detail",
+        "checkedAt": "2026-10-16"
+      }
+    ],
+    "verification": "partial",
+    "verificationNote": "日本版MHXXの攻略レシピ一覧・個別ページをHTTP取得して照合。HRは個別の備考に記載された値のみ採用。共通のダウンロード条件はカテゴリ説明に表示。装備生産は素材の用途であり、クリア時の自動取得・製法フラグの保証ではありません。受注・参加を区別した数値が原資料にないため、記載HRを記録上の前提としています。"
+  },
+  {
+    "id": "event-high-recipe-279019",
+    "name": "近寄りがたいアイツ",
+    "category": "event",
+    "rank": "上位",
+    "order": 40,
+    "role": "hunter",
+    "tags": [
+      "normal"
+    ],
+    "condition": {
+      "kind": "hr_at_least",
+      "value": 4
+    },
+    "unlocks": [],
+    "sources": [
+      {
+        "site": "MHXX攻略レシピ",
+        "url": "http://wiki.mhxg.org/ida/279019.html",
+        "kind": "detail",
+        "checkedAt": "2026-10-16"
+      },
+      {
+        "site": "MHXX攻略レシピ（イベント上位一覧）",
+        "url": "http://wiki.mhxg.org/data/2032.html",
+        "kind": "list",
+        "checkedAt": "2026-10-16"
+      }
+    ],
+    "verification": "partial",
+    "verificationNote": "日本版MHXXの攻略レシピ一覧・個別ページをHTTP取得して照合。HRは個別の備考に記載された値のみ採用。共通のダウンロード条件はカテゴリ説明に表示。装備生産は素材の用途であり、クリア時の自動取得・製法フラグの保証ではありません。受注・参加を区別した数値が原資料にないため、記載HRを記録上の前提としています。"
+  },
+  {
+    "id": "event-high-recipe-279020",
+    "name": "皐月に竜と泳ぐ",
+    "category": "event",
+    "rank": "上位",
+    "order": 41,
+    "role": "hunter",
+    "tags": [
+      "normal"
+    ],
+    "condition": {
+      "kind": "hr_at_least",
+      "value": 4
+    },
+    "unlocks": [],
+    "sources": [
+      {
+        "site": "MHXX攻略レシピ",
+        "url": "http://wiki.mhxg.org/ida/279020.html",
+        "kind": "detail",
+        "checkedAt": "2026-10-16"
+      },
+      {
+        "site": "MHXX攻略レシピ（イベント上位一覧）",
+        "url": "http://wiki.mhxg.org/data/2032.html",
+        "kind": "list",
+        "checkedAt": "2026-10-16"
+      }
+    ],
+    "verification": "partial",
+    "verificationNote": "日本版MHXXの攻略レシピ一覧・個別ページをHTTP取得して照合。HRは個別の備考に記載された値のみ採用。共通のダウンロード条件はカテゴリ説明に表示。装備生産は素材の用途であり、クリア時の自動取得・製法フラグの保証ではありません。受注・参加を区別した数値が原資料にないため、記載HRを記録上の前提としています。"
+  },
+  {
+    "id": "event-high-recipe-279021",
+    "name": "カプコン・覇王烈昂",
+    "category": "event",
+    "rank": "上位",
+    "order": 42,
+    "role": "hunter",
+    "tags": [
+      "normal"
+    ],
+    "condition": {
+      "kind": "hr_at_least",
+      "value": 8
+    },
+    "unlocks": [
+      {
+        "kind": "other",
+        "label": "グレートストーンを使う装備の生産・強化",
+        "note": "報酬素材「グレートストーン」を使用。生産：Ｇブレイド（1個）。強化：Ｇブレイド2（2個）、ＧＸブレイド3（3個）。別途、各装備の他の必要素材・費用・生産／強化段階の条件を満たす必要があります。クリアだけで製法や装備を取得した扱いにはしません。報酬の抽選・必要個数により周回が必要な場合があります。"
+      }
+    ],
+    "sources": [
+      {
+        "site": "MHXX攻略レシピ",
+        "url": "http://wiki.mhxg.org/ida/279021.html",
+        "kind": "detail",
+        "checkedAt": "2026-10-16"
+      },
+      {
+        "site": "MHXX攻略レシピ（イベント上位一覧）",
+        "url": "http://wiki.mhxg.org/data/2032.html",
+        "kind": "list",
+        "checkedAt": "2026-10-16"
+      },
+      {
+        "site": "MHXX攻略レシピ（グレートストーン：入手・用途）",
+        "url": "http://wiki.mhxg.org/ida/268702.html",
+        "kind": "detail",
+        "checkedAt": "2026-10-16"
+      }
+    ],
+    "verification": "partial",
+    "verificationNote": "日本版MHXXの攻略レシピ一覧・個別ページをHTTP取得して照合。HRは個別の備考に記載された値のみ採用。共通のダウンロード条件はカテゴリ説明に表示。装備生産は素材の用途であり、クリア時の自動取得・製法フラグの保証ではありません。受注・参加を区別した数値が原資料にないため、記載HRを記録上の前提としています。"
+  },
+  {
+    "id": "event-high-recipe-279025",
+    "name": "小さくても巨獣",
+    "category": "event",
+    "rank": "上位",
+    "order": 43,
+    "role": "hunter",
+    "tags": [
+      "normal"
+    ],
+    "condition": {
+      "kind": "hr_at_least",
+      "value": 4
+    },
+    "unlocks": [],
+    "sources": [
+      {
+        "site": "MHXX攻略レシピ",
+        "url": "http://wiki.mhxg.org/ida/279025.html",
+        "kind": "detail",
+        "checkedAt": "2026-10-16"
+      },
+      {
+        "site": "MHXX攻略レシピ（イベント上位一覧）",
+        "url": "http://wiki.mhxg.org/data/2032.html",
+        "kind": "list",
+        "checkedAt": "2026-10-16"
+      }
+    ],
+    "verification": "partial",
+    "verificationNote": "日本版MHXXの攻略レシピ一覧・個別ページをHTTP取得して照合。HRは個別の備考に記載された値のみ採用。共通のダウンロード条件はカテゴリ説明に表示。装備生産は素材の用途であり、クリア時の自動取得・製法フラグの保証ではありません。受注・参加を区別した数値が原資料にないため、記載HRを記録上の前提としています。"
+  },
+  {
+    "id": "event-high-recipe-279026",
+    "name": "超ビッグな狩猟依頼",
+    "category": "event",
+    "rank": "上位",
+    "order": 44,
+    "role": "hunter",
+    "tags": [
+      "normal"
+    ],
+    "condition": {
+      "kind": "hr_at_least",
+      "value": 4
+    },
+    "unlocks": [],
+    "sources": [
+      {
+        "site": "MHXX攻略レシピ",
+        "url": "http://wiki.mhxg.org/ida/279026.html",
+        "kind": "detail",
+        "checkedAt": "2026-10-16"
+      },
+      {
+        "site": "MHXX攻略レシピ（イベント上位一覧）",
+        "url": "http://wiki.mhxg.org/data/2032.html",
+        "kind": "list",
+        "checkedAt": "2026-10-16"
+      }
+    ],
+    "verification": "partial",
+    "verificationNote": "日本版MHXXの攻略レシピ一覧・個別ページをHTTP取得して照合。HRは個別の備考に記載された値のみ採用。共通のダウンロード条件はカテゴリ説明に表示。装備生産は素材の用途であり、クリア時の自動取得・製法フラグの保証ではありません。受注・参加を区別した数値が原資料にないため、記載HRを記録上の前提としています。"
+  },
+  {
+    "id": "event-high-recipe-279027",
+    "name": "幻想、地を奔る",
+    "category": "event",
+    "rank": "上位",
+    "order": 45,
+    "role": "hunter",
+    "tags": [
+      "normal"
+    ],
+    "condition": {
+      "kind": "hr_at_least",
+      "value": 8
+    },
+    "unlocks": [],
+    "sources": [
+      {
+        "site": "MHXX攻略レシピ",
+        "url": "http://wiki.mhxg.org/ida/279027.html",
+        "kind": "detail",
+        "checkedAt": "2026-10-16"
+      },
+      {
+        "site": "MHXX攻略レシピ（イベント上位一覧）",
+        "url": "http://wiki.mhxg.org/data/2032.html",
+        "kind": "list",
+        "checkedAt": "2026-10-16"
+      }
+    ],
+    "verification": "partial",
+    "verificationNote": "日本版MHXXの攻略レシピ一覧・個別ページをHTTP取得して照合。HRは個別の備考に記載された値のみ採用。共通のダウンロード条件はカテゴリ説明に表示。装備生産は素材の用途であり、クリア時の自動取得・製法フラグの保証ではありません。受注・参加を区別した数値が原資料にないため、記載HRを記録上の前提としています。"
+  },
+  {
+    "id": "event-high-recipe-279036",
+    "name": "鎚と戈の競演",
+    "category": "event",
+    "rank": "上位",
+    "order": 46,
+    "role": "hunter",
+    "tags": [
+      "normal"
+    ],
+    "condition": {
+      "kind": "hr_at_least",
+      "value": 4
+    },
+    "unlocks": [],
+    "sources": [
+      {
+        "site": "MHXX攻略レシピ",
+        "url": "http://wiki.mhxg.org/ida/279036.html",
+        "kind": "detail",
+        "checkedAt": "2026-10-16"
+      },
+      {
+        "site": "MHXX攻略レシピ（イベント上位一覧）",
+        "url": "http://wiki.mhxg.org/data/2032.html",
+        "kind": "list",
+        "checkedAt": "2026-10-16"
+      }
+    ],
+    "verification": "partial",
+    "verificationNote": "日本版MHXXの攻略レシピ一覧・個別ページをHTTP取得して照合。HRは個別の備考に記載された値のみ採用。共通のダウンロード条件はカテゴリ説明に表示。装備生産は素材の用途であり、クリア時の自動取得・製法フラグの保証ではありません。受注・参加を区別した数値が原資料にないため、記載HRを記録上の前提としています。"
+  },
+  {
+    "id": "event-high-recipe-279037",
+    "name": "荒ぶる連峰",
+    "category": "event",
+    "rank": "上位",
+    "order": 47,
+    "role": "hunter",
+    "tags": [
+      "normal"
+    ],
+    "condition": {
+      "kind": "hr_at_least",
+      "value": 4
+    },
+    "unlocks": [],
+    "sources": [
+      {
+        "site": "MHXX攻略レシピ",
+        "url": "http://wiki.mhxg.org/ida/279037.html",
+        "kind": "detail",
+        "checkedAt": "2026-10-16"
+      },
+      {
+        "site": "MHXX攻略レシピ（イベント上位一覧）",
+        "url": "http://wiki.mhxg.org/data/2032.html",
+        "kind": "list",
+        "checkedAt": "2026-10-16"
+      }
+    ],
+    "verification": "partial",
+    "verificationNote": "日本版MHXXの攻略レシピ一覧・個別ページをHTTP取得して照合。HRは個別の備考に記載された値のみ採用。共通のダウンロード条件はカテゴリ説明に表示。装備生産は素材の用途であり、クリア時の自動取得・製法フラグの保証ではありません。受注・参加を区別した数値が原資料にないため、記載HRを記録上の前提としています。"
+  },
+  {
+    "id": "event-high-recipe-279041",
+    "name": "紅蓮なる空の王",
+    "category": "event",
+    "rank": "上位",
+    "order": 48,
+    "role": "hunter",
+    "tags": [
+      "normal"
+    ],
+    "condition": {
+      "kind": "hr_at_least",
+      "value": 4
+    },
+    "unlocks": [],
+    "sources": [
+      {
+        "site": "MHXX攻略レシピ",
+        "url": "http://wiki.mhxg.org/ida/279041.html",
+        "kind": "detail",
+        "checkedAt": "2026-10-16"
+      },
+      {
+        "site": "MHXX攻略レシピ（イベント上位一覧）",
+        "url": "http://wiki.mhxg.org/data/2032.html",
+        "kind": "list",
+        "checkedAt": "2026-10-16"
+      }
+    ],
+    "verification": "partial",
+    "verificationNote": "日本版MHXXの攻略レシピ一覧・個別ページをHTTP取得して照合。HRは個別の備考に記載された値のみ採用。共通のダウンロード条件はカテゴリ説明に表示。装備生産は素材の用途であり、クリア時の自動取得・製法フラグの保証ではありません。受注・参加を区別した数値が原資料にないため、記載HRを記録上の前提としています。"
+  },
+  {
+    "id": "event-high-recipe-279042",
+    "name": "その怒り、制止不能",
+    "category": "event",
+    "rank": "上位",
+    "order": 49,
+    "role": "hunter",
+    "tags": [
+      "normal"
+    ],
+    "condition": {
+      "kind": "hr_at_least",
+      "value": 8
+    },
+    "unlocks": [],
+    "sources": [
+      {
+        "site": "MHXX攻略レシピ",
+        "url": "http://wiki.mhxg.org/ida/279042.html",
+        "kind": "detail",
+        "checkedAt": "2026-10-16"
+      },
+      {
+        "site": "MHXX攻略レシピ（イベント上位一覧）",
+        "url": "http://wiki.mhxg.org/data/2032.html",
+        "kind": "list",
+        "checkedAt": "2026-10-16"
+      }
+    ],
+    "verification": "partial",
+    "verificationNote": "日本版MHXXの攻略レシピ一覧・個別ページをHTTP取得して照合。HRは個別の備考に記載された値のみ採用。共通のダウンロード条件はカテゴリ説明に表示。装備生産は素材の用途であり、クリア時の自動取得・製法フラグの保証ではありません。受注・参加を区別した数値が原資料にないため、記載HRを記録上の前提としています。"
+  },
+  {
+    "id": "event-high-recipe-279045",
+    "name": "絶対強者",
+    "category": "event",
+    "rank": "上位",
+    "order": 50,
+    "role": "hunter",
+    "tags": [
+      "normal"
+    ],
+    "condition": {
+      "kind": "hr_at_least",
+      "value": 4
+    },
+    "unlocks": [],
+    "sources": [
+      {
+        "site": "MHXX攻略レシピ",
+        "url": "http://wiki.mhxg.org/ida/279045.html",
+        "kind": "detail",
+        "checkedAt": "2026-10-16"
+      },
+      {
+        "site": "MHXX攻略レシピ（イベント上位一覧）",
+        "url": "http://wiki.mhxg.org/data/2032.html",
+        "kind": "list",
+        "checkedAt": "2026-10-16"
+      }
+    ],
+    "verification": "partial",
+    "verificationNote": "日本版MHXXの攻略レシピ一覧・個別ページをHTTP取得して照合。HRは個別の備考に記載された値のみ採用。共通のダウンロード条件はカテゴリ説明に表示。装備生産は素材の用途であり、クリア時の自動取得・製法フラグの保証ではありません。受注・参加を区別した数値が原資料にないため、記載HRを記録上の前提としています。"
+  },
+  {
+    "id": "event-high-recipe-279046",
+    "name": "白銀の世界で荒天に吼える",
+    "category": "event",
+    "rank": "上位",
+    "order": 51,
+    "role": "hunter",
+    "tags": [
+      "normal"
+    ],
+    "condition": {
+      "kind": "hr_at_least",
+      "value": 4
+    },
+    "unlocks": [],
+    "sources": [
+      {
+        "site": "MHXX攻略レシピ",
+        "url": "http://wiki.mhxg.org/ida/279046.html",
+        "kind": "detail",
+        "checkedAt": "2026-10-16"
+      },
+      {
+        "site": "MHXX攻略レシピ（イベント上位一覧）",
+        "url": "http://wiki.mhxg.org/data/2032.html",
+        "kind": "list",
+        "checkedAt": "2026-10-16"
+      }
+    ],
+    "verification": "partial",
+    "verificationNote": "日本版MHXXの攻略レシピ一覧・個別ページをHTTP取得して照合。HRは個別の備考に記載された値のみ採用。共通のダウンロード条件はカテゴリ説明に表示。装備生産は素材の用途であり、クリア時の自動取得・製法フラグの保証ではありません。受注・参加を区別した数値が原資料にないため、記載HRを記録上の前提としています。"
+  },
+  {
+    "id": "event-high-recipe-279051",
+    "name": "狂気と破壊の化身",
+    "category": "event",
+    "rank": "上位",
+    "order": 52,
+    "role": "hunter",
+    "tags": [
+      "normal"
+    ],
+    "condition": {
+      "kind": "hr_at_least",
+      "value": 8
+    },
+    "unlocks": [],
+    "sources": [
+      {
+        "site": "MHXX攻略レシピ",
+        "url": "http://wiki.mhxg.org/ida/279051.html",
+        "kind": "detail",
+        "checkedAt": "2026-10-16"
+      },
+      {
+        "site": "MHXX攻略レシピ（イベント上位一覧）",
+        "url": "http://wiki.mhxg.org/data/2032.html",
+        "kind": "list",
+        "checkedAt": "2026-10-16"
+      }
+    ],
+    "verification": "partial",
+    "verificationNote": "日本版MHXXの攻略レシピ一覧・個別ページをHTTP取得して照合。HRは個別の備考に記載された値のみ採用。共通のダウンロード条件はカテゴリ説明に表示。装備生産は素材の用途であり、クリア時の自動取得・製法フラグの保証ではありません。受注・参加を区別した数値が原資料にないため、記載HRを記録上の前提としています。"
+  },
+  {
+    "id": "event-high-recipe-279052",
+    "name": "夜鳥の獰猛警報！！",
+    "category": "event",
+    "rank": "上位",
+    "order": 53,
+    "role": "hunter",
+    "tags": [
+      "normal"
+    ],
+    "condition": {
+      "kind": "hr_at_least",
+      "value": 4
+    },
+    "unlocks": [],
+    "sources": [
+      {
+        "site": "MHXX攻略レシピ",
+        "url": "http://wiki.mhxg.org/ida/279052.html",
+        "kind": "detail",
+        "checkedAt": "2026-10-16"
+      },
+      {
+        "site": "MHXX攻略レシピ（イベント上位一覧）",
+        "url": "http://wiki.mhxg.org/data/2032.html",
+        "kind": "list",
+        "checkedAt": "2026-10-16"
+      }
+    ],
+    "verification": "partial",
+    "verificationNote": "日本版MHXXの攻略レシピ一覧・個別ページをHTTP取得して照合。HRは個別の備考に記載された値のみ採用。共通のダウンロード条件はカテゴリ説明に表示。装備生産は素材の用途であり、クリア時の自動取得・製法フラグの保証ではありません。受注・参加を区別した数値が原資料にないため、記載HRを記録上の前提としています。"
+  },
+  {
+    "id": "event-high-recipe-268853",
+    "name": "ゼルダの伝説・力と知恵と勇気",
+    "category": "event",
+    "rank": "上位",
+    "order": 54,
+    "role": "hunter",
+    "tags": [
+      "normal"
+    ],
+    "condition": {
+      "kind": "hr_at_least",
+      "value": 4
+    },
+    "unlocks": [
+      {
+        "kind": "other",
+        "label": "トライフォースを使う装備の生産・強化",
+        "note": "報酬素材「トライフォース」を使用。生産：勇者の剣（1個）、勇者の弓（1個）、勇者の帽子（1個）、勇者の服（1個）、勇者の腕当て（1個）、勇者のベルト（1個）、勇者の靴（1個）。強化：勇者の剣2（2個）、マスターソード3（3個）、勇者の弓2（2個）、聖なる弓3（3個）、勇者シリーズ（Lv5 1個）、勇者シリーズ（Lv7 1個）。別途、各装備の他の必要素材・費用・生産／強化段階の条件を満たす必要があります。クリアだけで製法や装備を取得した扱いにはしません。報酬の抽選・必要個数により周回が必要な場合があります。"
+      }
+    ],
+    "sources": [
+      {
+        "site": "MHXX攻略レシピ",
+        "url": "http://wiki.mhxg.org/ida/268853.html",
+        "kind": "detail",
+        "checkedAt": "2026-10-16"
+      },
+      {
+        "site": "MHXX攻略レシピ（イベント上位一覧）",
+        "url": "http://wiki.mhxg.org/data/2032.html",
+        "kind": "list",
+        "checkedAt": "2026-10-16"
+      },
+      {
+        "site": "MHXX攻略レシピ（トライフォース：入手・用途）",
+        "url": "http://wiki.mhxg.org/ida/268720.html",
+        "kind": "detail",
+        "checkedAt": "2026-10-16"
+      }
+    ],
+    "verification": "partial",
+    "verificationNote": "日本版MHXXの攻略レシピ一覧・個別ページをHTTP取得して照合。HRは個別の備考に記載された値のみ採用。共通のダウンロード条件はカテゴリ説明に表示。装備生産は素材の用途であり、クリア時の自動取得・製法フラグの保証ではありません。受注・参加を区別した数値が原資料にないため、記載HRを記録上の前提としています。"
+  },
+  {
+    "id": "event-high-recipe-268855",
+    "name": "ゼルダの伝説・勇者、ふたたび",
+    "category": "event",
+    "rank": "上位",
+    "order": 55,
+    "role": "prowler",
+    "tags": [
+      "normal"
+    ],
+    "condition": {
+      "kind": "hr_at_least",
+      "value": 4
+    },
+    "unlocks": [
+      {
+        "kind": "other",
+        "label": "風のタクトを使う装備の生産・強化",
+        "note": "報酬素材「風のタクト」を使用。生産：ネコのタクト（2個）、リンクネコ耳マスク（1個）、リンクネコしっぽ服（1個）。別途、各装備の他の必要素材・費用・生産／強化段階の条件を満たす必要があります。クリアだけで製法や装備を取得した扱いにはしません。報酬の抽選・必要個数により周回が必要な場合があります。"
+      }
+    ],
+    "sources": [
+      {
+        "site": "MHXX攻略レシピ",
+        "url": "http://wiki.mhxg.org/ida/268855.html",
+        "kind": "detail",
+        "checkedAt": "2026-10-16"
+      },
+      {
+        "site": "MHXX攻略レシピ（イベント上位一覧）",
+        "url": "http://wiki.mhxg.org/data/2032.html",
+        "kind": "list",
+        "checkedAt": "2026-10-16"
+      },
+      {
+        "site": "MHXX攻略レシピ（風のタクト：入手・用途）",
+        "url": "http://wiki.mhxg.org/ida/268701.html",
+        "kind": "detail",
+        "checkedAt": "2026-10-16"
+      }
+    ],
+    "verification": "partial",
+    "verificationNote": "日本版MHXXの攻略レシピ一覧・個別ページをHTTP取得して照合。HRは個別の備考に記載された値のみ採用。共通のダウンロード条件はカテゴリ説明に表示。装備生産は素材の用途であり、クリア時の自動取得・製法フラグの保証ではありません。受注・参加を区別した数値が原資料にないため、記載HRを記録上の前提としています。"
+  },
+  {
+    "id": "event-high-recipe-268856",
+    "name": "マリオ・白いドンキーコング？",
+    "category": "event",
+    "rank": "上位",
+    "order": 56,
+    "role": "prowler",
+    "tags": [
+      "normal"
+    ],
+    "condition": {
+      "kind": "hr_at_least",
+      "value": 4
+    },
+    "unlocks": [
+      {
+        "kind": "other",
+        "label": "スーパーキノコを使う装備の生産・強化",
+        "note": "報酬素材「スーパーキノコ」を使用。生産：無敵のハンマー（2個）、マリオネコ帽子（1個）、マリオネコツナギ（1個）、ルイージネコ帽子（1個）、ルイージネコツナギ（1個）。別途、各装備の他の必要素材・費用・生産／強化段階の条件を満たす必要があります。クリアだけで製法や装備を取得した扱いにはしません。報酬の抽選・必要個数により周回が必要な場合があります。"
+      }
+    ],
+    "sources": [
+      {
+        "site": "MHXX攻略レシピ",
+        "url": "http://wiki.mhxg.org/ida/268856.html",
+        "kind": "detail",
+        "checkedAt": "2026-10-16"
+      },
+      {
+        "site": "MHXX攻略レシピ（イベント上位一覧）",
+        "url": "http://wiki.mhxg.org/data/2032.html",
+        "kind": "list",
+        "checkedAt": "2026-10-16"
+      },
+      {
+        "site": "MHXX攻略レシピ（スーパーキノコ：入手・用途）",
+        "url": "http://wiki.mhxg.org/ida/268709.html",
+        "kind": "detail",
+        "checkedAt": "2026-10-16"
+      }
+    ],
+    "verification": "partial",
+    "verificationNote": "日本版MHXXの攻略レシピ一覧・個別ページをHTTP取得して照合。HRは個別の備考に記載された値のみ採用。共通のダウンロード条件はカテゴリ説明に表示。装備生産は素材の用途であり、クリア時の自動取得・製法フラグの保証ではありません。受注・参加を区別した数値が原資料にないため、記載HRを記録上の前提としています。"
+  },
+  {
+    "id": "event-high-recipe-268857",
+    "name": "どうぶつの森・ピクニックの日",
+    "category": "event",
+    "rank": "上位",
+    "order": 57,
+    "role": "prowler",
+    "tags": [
+      "normal"
+    ],
+    "condition": {
+      "kind": "hr_at_least",
+      "value": 4
+    },
+    "unlocks": [
+      {
+        "kind": "other",
+        "label": "デザインパレットを使う装備の生産・強化",
+        "note": "報酬素材「デザインパレット」を使用。生産：監視員のつるはし（2個）、秘書のバインダー（2個）、おめかしリセットさん（2個）、おめかししずえさん（2個）。別途、各装備の他の必要素材・費用・生産／強化段階の条件を満たす必要があります。クリアだけで製法や装備を取得した扱いにはしません。報酬の抽選・必要個数により周回が必要な場合があります。"
+      }
+    ],
+    "sources": [
+      {
+        "site": "MHXX攻略レシピ",
+        "url": "http://wiki.mhxg.org/ida/268857.html",
+        "kind": "detail",
+        "checkedAt": "2026-10-16"
+      },
+      {
+        "site": "MHXX攻略レシピ（イベント上位一覧）",
+        "url": "http://wiki.mhxg.org/data/2032.html",
+        "kind": "list",
+        "checkedAt": "2026-10-16"
+      },
+      {
+        "site": "MHXX攻略レシピ（デザインパレット：入手・用途）",
+        "url": "http://wiki.mhxg.org/ida/268717.html",
+        "kind": "detail",
+        "checkedAt": "2026-10-16"
+      }
+    ],
+    "verification": "partial",
+    "verificationNote": "日本版MHXXの攻略レシピ一覧・個別ページをHTTP取得して照合。HRは個別の備考に記載された値のみ採用。共通のダウンロード条件はカテゴリ説明に表示。装備生産は素材の用途であり、クリア時の自動取得・製法フラグの保証ではありません。受注・参加を区別した数値が原資料にないため、記載HRを記録上の前提としています。"
+  },
+  {
+    "id": "event-high-recipe-268852",
+    "name": "スターフォックス・雪山決戦！",
+    "category": "event",
+    "rank": "上位",
+    "order": 58,
+    "role": "hunter",
+    "tags": [
+      "normal"
+    ],
+    "condition": {
+      "kind": "hr_at_least",
+      "value": 4
+    },
+    "unlocks": [
+      {
+        "kind": "other",
+        "label": "アーウィン搭乗券を使う装備の生産・強化",
+        "note": "報酬素材「アーウィン搭乗券」を使用。生産：ブニャスター（2個）、フォックスネコマイク（1個）、フォックスネコスーツ（1個）。別途、各装備の他の必要素材・費用・生産／強化段階の条件を満たす必要があります。クリアだけで製法や装備を取得した扱いにはしません。報酬の抽選・必要個数により周回が必要な場合があります。"
+      }
+    ],
+    "sources": [
+      {
+        "site": "MHXX攻略レシピ",
+        "url": "http://wiki.mhxg.org/ida/268852.html",
+        "kind": "detail",
+        "checkedAt": "2026-10-16"
+      },
+      {
+        "site": "MHXX攻略レシピ（イベント上位一覧）",
+        "url": "http://wiki.mhxg.org/data/2032.html",
+        "kind": "list",
+        "checkedAt": "2026-10-16"
+      },
+      {
+        "site": "MHXX攻略レシピ（アーウィン搭乗券：入手・用途）",
+        "url": "http://wiki.mhxg.org/ida/268695.html",
+        "kind": "detail",
+        "checkedAt": "2026-10-16"
+      }
+    ],
+    "verification": "partial",
+    "verificationNote": "日本版MHXXの攻略レシピ一覧・個別ページをHTTP取得して照合。HRは個別の備考に記載された値のみ採用。共通のダウンロード条件はカテゴリ説明に表示。装備生産は素材の用途であり、クリア時の自動取得・製法フラグの保証ではありません。受注・参加を区別した数値が原資料にないため、記載HRを記録上の前提としています。"
+  },
+  {
+    "id": "event-high-recipe-268854",
+    "name": "メトロイド・特殊任務",
+    "category": "event",
+    "rank": "上位",
+    "order": 59,
+    "role": "hunter",
+    "tags": [
+      "normal"
+    ],
+    "condition": {
+      "kind": "hr_at_least",
+      "value": 4
+    },
+    "unlocks": [
+      {
+        "kind": "other",
+        "label": "サムスコインを使う装備の生産・強化",
+        "note": "報酬素材「サムスコイン」を使用。生産：アームキャノン（1個）、バリアスーツバイザー（1個）、ゼロスーツフェイス（1個）、バリアスーツアーマー（1個）、ゼロスーツボディ（1個）、バリアスーツガード（1個）、ゼロスーツグラブ（1個）、バリアスーツレガース（1個）、ゼロスーツブーツ（1個）。強化：アームキャノン2（2個）、アームキャノンＸ3（3個）、バリアスーツシリーズ（Lv5 1個）、バリアスーツシリーズ（Lv7 1個）、ゼロスーツシリーズ（Lv5 1個）、ゼロスーツシリーズ（Lv7 1個）。別途、各装備の他の必要素材・費用・生産／強化段階の条件を満たす必要があります。クリアだけで製法や装備を取得した扱いにはしません。報酬の抽選・必要個数により周回が必要な場合があります。"
+      }
+    ],
+    "sources": [
+      {
+        "site": "MHXX攻略レシピ",
+        "url": "http://wiki.mhxg.org/ida/268854.html",
+        "kind": "detail",
+        "checkedAt": "2026-10-16"
+      },
+      {
+        "site": "MHXX攻略レシピ（イベント上位一覧）",
+        "url": "http://wiki.mhxg.org/data/2032.html",
+        "kind": "list",
+        "checkedAt": "2026-10-16"
+      },
+      {
+        "site": "MHXX攻略レシピ（サムスコイン：入手・用途）",
+        "url": "http://wiki.mhxg.org/ida/268706.html",
+        "kind": "detail",
+        "checkedAt": "2026-10-16"
+      }
+    ],
+    "verification": "partial",
+    "verificationNote": "日本版MHXXの攻略レシピ一覧・個別ページをHTTP取得して照合。HRは個別の備考に記載された値のみ採用。共通のダウンロード条件はカテゴリ説明に表示。装備生産は素材の用途であり、クリア時の自動取得・製法フラグの保証ではありません。受注・参加を区別した数値が原資料にないため、記載HRを記録上の前提としています。"
+  },
+  {
+    "id": "event-high-recipe-279061",
+    "name": "潜入任務潜口竜を狩猟せよ！",
+    "category": "event",
+    "rank": "上位",
+    "order": 60,
+    "role": "hunter",
+    "tags": [
+      "normal"
+    ],
+    "condition": {
+      "kind": "hr_at_least",
+      "value": 4
+    },
+    "unlocks": [],
+    "sources": [
+      {
+        "site": "MHXX攻略レシピ",
+        "url": "http://wiki.mhxg.org/ida/279061.html",
+        "kind": "detail",
+        "checkedAt": "2026-10-16"
+      },
+      {
+        "site": "MHXX攻略レシピ（イベント上位一覧）",
+        "url": "http://wiki.mhxg.org/data/2032.html",
+        "kind": "list",
+        "checkedAt": "2026-10-16"
+      }
+    ],
+    "verification": "partial",
+    "verificationNote": "日本版MHXXの攻略レシピ一覧・個別ページをHTTP取得して照合。HRは個別の備考に記載された値のみ採用。共通のダウンロード条件はカテゴリ説明に表示。装備生産は素材の用途であり、クリア時の自動取得・製法フラグの保証ではありません。受注・参加を区別した数値が原資料にないため、記載HRを記録上の前提としています。"
+  },
+  {
+    "id": "event-high-recipe-279062",
+    "name": "崩竜激震",
+    "category": "event",
+    "rank": "上位",
+    "order": 61,
+    "role": "hunter",
+    "tags": [
+      "normal"
+    ],
+    "condition": {
+      "kind": "hr_at_least",
+      "value": 8
+    },
+    "unlocks": [],
+    "sources": [
+      {
+        "site": "MHXX攻略レシピ",
+        "url": "http://wiki.mhxg.org/ida/279062.html",
+        "kind": "detail",
+        "checkedAt": "2026-10-16"
+      },
+      {
+        "site": "MHXX攻略レシピ（イベント上位一覧）",
+        "url": "http://wiki.mhxg.org/data/2032.html",
+        "kind": "list",
+        "checkedAt": "2026-10-16"
+      }
+    ],
+    "verification": "partial",
+    "verificationNote": "日本版MHXXの攻略レシピ一覧・個別ページをHTTP取得して照合。HRは個別の備考に記載された値のみ採用。共通のダウンロード条件はカテゴリ説明に表示。装備生産は素材の用途であり、クリア時の自動取得・製法フラグの保証ではありません。受注・参加を区別した数値が原資料にないため、記載HRを記録上の前提としています。"
+  },
+  {
+    "id": "event-high-recipe-279072",
+    "name": "火山の鉄血アイテム納品！",
+    "category": "event",
+    "rank": "上位",
+    "order": 62,
+    "role": "hunter",
+    "tags": [
+      "normal"
+    ],
+    "condition": {
+      "kind": "hr_at_least",
+      "value": 4
+    },
+    "unlocks": [],
+    "sources": [
+      {
+        "site": "MHXX攻略レシピ",
+        "url": "http://wiki.mhxg.org/ida/279072.html",
+        "kind": "detail",
+        "checkedAt": "2026-10-16"
+      },
+      {
+        "site": "MHXX攻略レシピ（イベント上位一覧）",
+        "url": "http://wiki.mhxg.org/data/2032.html",
+        "kind": "list",
+        "checkedAt": "2026-10-16"
+      }
+    ],
+    "verification": "partial",
+    "verificationNote": "日本版MHXXの攻略レシピ一覧・個別ページをHTTP取得して照合。HRは個別の備考に記載された値のみ採用。共通のダウンロード条件はカテゴリ説明に表示。装備生産は素材の用途であり、クリア時の自動取得・製法フラグの保証ではありません。受注・参加を区別した数値が原資料にないため、記載HRを記録上の前提としています。"
+  },
+  {
+    "id": "event-high-recipe-279071",
+    "name": "霊峰禍つ舞",
+    "category": "event",
+    "rank": "上位",
+    "order": 63,
+    "role": "hunter",
+    "tags": [
+      "normal"
+    ],
+    "condition": {
+      "kind": "hr_at_least",
+      "value": 8
+    },
+    "unlocks": [],
+    "sources": [
+      {
+        "site": "MHXX攻略レシピ",
+        "url": "http://wiki.mhxg.org/ida/279071.html",
+        "kind": "detail",
+        "checkedAt": "2026-10-16"
+      },
+      {
+        "site": "MHXX攻略レシピ（イベント上位一覧）",
+        "url": "http://wiki.mhxg.org/data/2032.html",
+        "kind": "list",
+        "checkedAt": "2026-10-16"
+      }
+    ],
+    "verification": "partial",
+    "verificationNote": "日本版MHXXの攻略レシピ一覧・個別ページをHTTP取得して照合。HRは個別の備考に記載された値のみ採用。共通のダウンロード条件はカテゴリ説明に表示。装備生産は素材の用途であり、クリア時の自動取得・製法フラグの保証ではありません。受注・参加を区別した数値が原資料にないため、記載HRを記録上の前提としています。"
+  },
+  {
+    "id": "event-high-recipe-279073",
+    "name": "猛なる連舞をご覧じろ",
+    "category": "event",
+    "rank": "上位",
+    "order": 64,
+    "role": "hunter",
+    "tags": [
+      "normal"
+    ],
+    "condition": {
+      "kind": "hr_at_least",
+      "value": 4
+    },
+    "unlocks": [],
+    "sources": [
+      {
+        "site": "MHXX攻略レシピ",
+        "url": "http://wiki.mhxg.org/ida/279073.html",
+        "kind": "detail",
+        "checkedAt": "2026-10-16"
+      },
+      {
+        "site": "MHXX攻略レシピ（イベント上位一覧）",
+        "url": "http://wiki.mhxg.org/data/2032.html",
+        "kind": "list",
+        "checkedAt": "2026-10-16"
+      }
+    ],
+    "verification": "partial",
+    "verificationNote": "日本版MHXXの攻略レシピ一覧・個別ページをHTTP取得して照合。HRは個別の備考に記載された値のみ採用。共通のダウンロード条件はカテゴリ説明に表示。装備生産は素材の用途であり、クリア時の自動取得・製法フラグの保証ではありません。受注・参加を区別した数値が原資料にないため、記載HRを記録上の前提としています。"
+  },
+  {
+    "id": "event-high-recipe-279074",
+    "name": "神への挑戦",
+    "category": "event",
+    "rank": "上位",
+    "order": 65,
+    "role": "hunter",
+    "tags": [
+      "normal"
+    ],
+    "condition": {
+      "kind": "hr_at_least",
+      "value": 8
+    },
+    "unlocks": [],
+    "sources": [
+      {
+        "site": "MHXX攻略レシピ",
+        "url": "http://wiki.mhxg.org/ida/279074.html",
+        "kind": "detail",
+        "checkedAt": "2026-10-16"
+      },
+      {
+        "site": "MHXX攻略レシピ（イベント上位一覧）",
+        "url": "http://wiki.mhxg.org/data/2032.html",
+        "kind": "list",
+        "checkedAt": "2026-10-16"
+      }
+    ],
+    "verification": "partial",
+    "verificationNote": "日本版MHXXの攻略レシピ一覧・個別ページをHTTP取得して照合。HRは個別の備考に記載された値のみ採用。共通のダウンロード条件はカテゴリ説明に表示。装備生産は素材の用途であり、クリア時の自動取得・製法フラグの保証ではありません。受注・参加を区別した数値が原資料にないため、記載HRを記録上の前提としています。"
+  },
+  {
+    "id": "event-high-recipe-279081",
+    "name": "死を喚ぶ妖星",
+    "category": "event",
+    "rank": "上位",
+    "order": 66,
+    "role": "hunter",
+    "tags": [
+      "normal"
+    ],
+    "condition": {
+      "kind": "hr_at_least",
+      "value": 8
+    },
+    "unlocks": [],
+    "sources": [
+      {
+        "site": "MHXX攻略レシピ",
+        "url": "http://wiki.mhxg.org/ida/279081.html",
+        "kind": "detail",
+        "checkedAt": "2026-10-16"
+      },
+      {
+        "site": "MHXX攻略レシピ（イベント上位一覧）",
+        "url": "http://wiki.mhxg.org/data/2032.html",
+        "kind": "list",
+        "checkedAt": "2026-10-16"
+      }
+    ],
+    "verification": "partial",
+    "verificationNote": "日本版MHXXの攻略レシピ一覧・個別ページをHTTP取得して照合。HRは個別の備考に記載された値のみ採用。共通のダウンロード条件はカテゴリ説明に表示。装備生産は素材の用途であり、クリア時の自動取得・製法フラグの保証ではありません。受注・参加を区別した数値が原資料にないため、記載HRを記録上の前提としています。"
+  },
+  {
+    "id": "event-high-recipe-279086",
+    "name": "双獅激天",
+    "category": "event",
+    "rank": "上位",
+    "order": 67,
+    "role": "hunter",
+    "tags": [
+      "normal"
+    ],
+    "condition": {
+      "kind": "hr_at_least",
+      "value": 8
+    },
+    "unlocks": [],
+    "sources": [
+      {
+        "site": "MHXX攻略レシピ",
+        "url": "http://wiki.mhxg.org/ida/279086.html",
+        "kind": "detail",
+        "checkedAt": "2026-10-16"
+      },
+      {
+        "site": "MHXX攻略レシピ（イベント上位一覧）",
+        "url": "http://wiki.mhxg.org/data/2032.html",
+        "kind": "list",
+        "checkedAt": "2026-10-16"
+      }
+    ],
+    "verification": "partial",
+    "verificationNote": "日本版MHXXの攻略レシピ一覧・個別ページをHTTP取得して照合。HRは個別の備考に記載された値のみ採用。共通のダウンロード条件はカテゴリ説明に表示。装備生産は素材の用途であり、クリア時の自動取得・製法フラグの保証ではありません。受注・参加を区別した数値が原資料にないため、記載HRを記録上の前提としています。"
+  },
+  {
+    "id": "event-high-recipe-279088",
+    "name": "最強への挑戦",
+    "category": "event",
+    "rank": "上位",
+    "order": 68,
+    "role": "hunter",
+    "tags": [
+      "normal"
+    ],
+    "condition": {
+      "kind": "hr_at_least",
+      "value": 8
+    },
+    "unlocks": [],
+    "sources": [
+      {
+        "site": "MHXX攻略レシピ",
+        "url": "http://wiki.mhxg.org/ida/279088.html",
+        "kind": "detail",
+        "checkedAt": "2026-10-16"
+      },
+      {
+        "site": "MHXX攻略レシピ（イベント上位一覧）",
+        "url": "http://wiki.mhxg.org/data/2032.html",
+        "kind": "list",
+        "checkedAt": "2026-10-16"
+      }
+    ],
+    "verification": "partial",
+    "verificationNote": "日本版MHXXの攻略レシピ一覧・個別ページをHTTP取得して照合。HRは個別の備考に記載された値のみ採用。共通のダウンロード条件はカテゴリ説明に表示。装備生産は素材の用途であり、クリア時の自動取得・製法フラグの保証ではありません。受注・参加を区別した数値が原資料にないため、記載HRを記録上の前提としています。"
+  },
+  {
+    "id": "event-high-recipe-279097",
+    "name": "狩人の頂",
+    "category": "event",
+    "rank": "上位",
+    "order": 69,
+    "role": "hunter",
+    "tags": [
+      "normal"
+    ],
+    "condition": {
+      "kind": "hr_at_least",
+      "value": 8
+    },
+    "unlocks": [],
+    "sources": [
+      {
+        "site": "MHXX攻略レシピ",
+        "url": "http://wiki.mhxg.org/ida/279097.html",
+        "kind": "detail",
+        "checkedAt": "2026-10-16"
+      },
+      {
+        "site": "MHXX攻略レシピ（イベント上位一覧）",
+        "url": "http://wiki.mhxg.org/data/2032.html",
+        "kind": "list",
+        "checkedAt": "2026-10-16"
+      }
+    ],
+    "verification": "partial",
+    "verificationNote": "日本版MHXXの攻略レシピ一覧・個別ページをHTTP取得して照合。HRは個別の備考に記載された値のみ採用。共通のダウンロード条件はカテゴリ説明に表示。装備生産は素材の用途であり、クリア時の自動取得・製法フラグの保証ではありません。受注・参加を区別した数値が原資料にないため、記載HRを記録上の前提としています。"
+  },
+  {
+    "id": "event-high-recipe-270535",
+    "name": "USJ・絢爛華麗な舞いを",
+    "category": "event",
+    "rank": "上位",
+    "order": 70,
+    "role": "hunter",
+    "tags": [
+      "normal"
+    ],
+    "condition": {
+      "kind": "hr_at_least",
+      "value": 4
+    },
+    "unlocks": [
+      {
+        "kind": "other",
+        "label": "スタジオXパスを使う装備の生産・強化",
+        "note": "報酬素材「スタジオXパス」を使用。生産：スターライトゲート（1個）、ブルースターロポス（1個）、ブルースタースーツ（1個）、ブルースターアーム（1個）、ブルースターコイル（1個）、ブルースターブーツ（1個）、ニャン星軍配・覇（2個）、ニャン星兜・覇（1個）、ニャン星陣羽織・覇（1個）。強化：スターライトゲート2（2個）、エターナルゲート3（3個）、ブルースターシリーズ（Lv5 1個）、ブルースターシリーズ（Lv7 1個）。別途、各装備の他の必要素材・費用・生産／強化段階の条件を満たす必要があります。クリアだけで製法や装備を取得した扱いにはしません。報酬の抽選・必要個数により周回が必要な場合があります。"
+      }
+    ],
+    "sources": [
+      {
+        "site": "MHXX攻略レシピ",
+        "url": "http://wiki.mhxg.org/ida/270535.html",
+        "kind": "detail",
+        "checkedAt": "2026-10-16"
+      },
+      {
+        "site": "MHXX攻略レシピ（イベント上位一覧）",
+        "url": "http://wiki.mhxg.org/data/2032.html",
+        "kind": "list",
+        "checkedAt": "2026-10-16"
+      },
+      {
+        "site": "MHXX攻略レシピ（スタジオXパス：入手・用途）",
+        "url": "http://wiki.mhxg.org/ida/268710.html",
+        "kind": "detail",
+        "checkedAt": "2026-10-16"
+      }
+    ],
+    "verification": "partial",
+    "verificationNote": "日本版MHXXの攻略レシピ一覧・個別ページをHTTP取得して照合。HRは個別の備考に記載された値のみ採用。共通のダウンロード条件はカテゴリ説明に表示。装備生産は素材の用途であり、クリア時の自動取得・製法フラグの保証ではありません。受注・参加を区別した数値が原資料にないため、記載HRを記録上の前提としています。"
+  },
+  {
+    "id": "event-high-recipe-270537",
+    "name": "USJ・昂る電光、猛る炎",
+    "category": "event",
+    "rank": "上位",
+    "order": 71,
+    "role": "hunter",
+    "tags": [
+      "normal"
+    ],
+    "condition": {
+      "kind": "hr_at_least",
+      "value": 4
+    },
+    "unlocks": [
+      {
+        "kind": "other",
+        "label": "スタジオGパスを使う装備の生産・強化",
+        "note": "報酬素材「スタジオGパス」を使用。生産：スタールークアクス（1個）、スタールークヘルム（1個）、瑞星・覇【兜】（1個）、夢見・覇【冠】（1個）、スタールークメイル（1個）、瑞星・覇【胴当て】（1個）、夢見・覇【衣】（1個）、スタールークアーム（1個）、瑞星・覇【篭手】（1個）、夢見・覇【篭手】（1個）、スタールークコイル（1個）、瑞星・覇【腰当て】（1個）、夢見・覇【腰当て】（1個）、スタールークグリーヴ（1個）、瑞星・覇【具足】（1個）、夢見・覇【具足】（1個）、スターネコワールド（2個）、スターネコハット（1個）、スターネコスーツ（1個）。強化：スタールークアクス2（2個）、グランドスターアクス3（3個）、スタールークシリーズ（Lv5 1個）、スタールークシリーズ（Lv7 1個）、瑞星・覇/景星・覇シリーズ（Lv5 1個）、瑞星・覇/景星・覇シリーズ（Lv7 1個）、夢見・覇/夢語・覇シリーズ（Lv5 1個）、夢見・覇/夢語・覇シリーズ（Lv7 1個）。別途、各装備の他の必要素材・費用・生産／強化段階の条件を満たす必要があります。クリアだけで製法や装備を取得した扱いにはしません。報酬の抽選・必要個数により周回が必要な場合があります。"
+      }
+    ],
+    "sources": [
+      {
+        "site": "MHXX攻略レシピ",
+        "url": "http://wiki.mhxg.org/ida/270537.html",
+        "kind": "detail",
+        "checkedAt": "2026-10-16"
+      },
+      {
+        "site": "MHXX攻略レシピ（イベント上位一覧）",
+        "url": "http://wiki.mhxg.org/data/2032.html",
+        "kind": "list",
+        "checkedAt": "2026-10-16"
+      },
+      {
+        "site": "MHXX攻略レシピ（スタジオGパス：入手・用途）",
+        "url": "http://wiki.mhxg.org/ida/268711.html",
+        "kind": "detail",
+        "checkedAt": "2026-10-16"
+      }
+    ],
+    "verification": "partial",
+    "verificationNote": "日本版MHXXの攻略レシピ一覧・個別ページをHTTP取得して照合。HRは個別の備考に記載された値のみ採用。共通のダウンロード条件はカテゴリ説明に表示。装備生産は素材の用途であり、クリア時の自動取得・製法フラグの保証ではありません。受注・参加を区別した数値が原資料にないため、記載HRを記録上の前提としています。"
+  },
+  {
+    "id": "event-high-recipe-270538",
+    "name": "USJ・極寒と灼熱のドリーム",
+    "category": "event",
+    "rank": "上位",
+    "order": 72,
+    "role": "hunter",
+    "tags": [
+      "normal"
+    ],
+    "condition": {
+      "kind": "hr_at_least",
+      "value": 4
+    },
+    "unlocks": [
+      {
+        "kind": "other",
+        "label": "スタジオWパスを使う装備の生産・強化",
+        "note": "報酬素材「スタジオWパス」を使用。生産：スターナイトソード（1個）、双星の紅蓮刃（1個）、スターナイトヘルム（1個）、スターナイトメイル（1個）、スターナイトアーム（1個）、スターナイトコイル（1個）、スターナイトグリーヴ（1個）、マジカルネコタクト（2個）、マジカルネコハット（1個）、マジカルネコローブ（1個）。強化：スターナイトソード2（2個）、エターナルソード3（3個）、双星の紅蓮刃2（2個）、双星の紅蓮刃【永遠】3（3個）、スターナイトシリーズ（Lv5 1個）、スターナイトシリーズ（Lv7 1個）。別途、各装備の他の必要素材・費用・生産／強化段階の条件を満たす必要があります。クリアだけで製法や装備を取得した扱いにはしません。報酬の抽選・必要個数により周回が必要な場合があります。"
+      }
+    ],
+    "sources": [
+      {
+        "site": "MHXX攻略レシピ",
+        "url": "http://wiki.mhxg.org/ida/270538.html",
+        "kind": "detail",
+        "checkedAt": "2026-10-16"
+      },
+      {
+        "site": "MHXX攻略レシピ（イベント上位一覧）",
+        "url": "http://wiki.mhxg.org/data/2032.html",
+        "kind": "list",
+        "checkedAt": "2026-10-16"
+      },
+      {
+        "site": "MHXX攻略レシピ（スタジオWパス：入手・用途）",
+        "url": "http://wiki.mhxg.org/ida/268712.html",
+        "kind": "detail",
+        "checkedAt": "2026-10-16"
+      }
+    ],
+    "verification": "partial",
+    "verificationNote": "日本版MHXXの攻略レシピ一覧・個別ページをHTTP取得して照合。HRは個別の備考に記載された値のみ採用。共通のダウンロード条件はカテゴリ説明に表示。装備生産は素材の用途であり、クリア時の自動取得・製法フラグの保証ではありません。受注・参加を区別した数値が原資料にないため、記載HRを記録上の前提としています。"
+  },
+  {
+    "id": "event-high-recipe-279043",
+    "name": "ＳＦ・サイキョー流入門試験",
+    "category": "event",
+    "rank": "上位",
+    "order": 73,
+    "role": "prowler",
+    "tags": [
+      "normal"
+    ],
+    "condition": {
+      "kind": "hr_at_least",
+      "value": 4
+    },
+    "unlocks": [
+      {
+        "kind": "other",
+        "label": "SFコインを使う装備の生産・強化",
+        "note": "報酬素材「SFコイン」を使用。生産：春麗ネコスパイク（2個）、ブランカネコピラルク（2個）、春麗ネコシニヨン（1個）、春麗ネコドレス（1個）、おめかしブランカ（1個）。別途、各装備の他の必要素材・費用・生産／強化段階の条件を満たす必要があります。クリアだけで製法や装備を取得した扱いにはしません。報酬の抽選・必要個数により周回が必要な場合があります。"
+      }
+    ],
+    "sources": [
+      {
+        "site": "MHXX攻略レシピ",
+        "url": "http://wiki.mhxg.org/ida/279043.html",
+        "kind": "detail",
+        "checkedAt": "2026-10-16"
+      },
+      {
+        "site": "MHXX攻略レシピ（イベント上位一覧）",
+        "url": "http://wiki.mhxg.org/data/2032.html",
+        "kind": "list",
+        "checkedAt": "2026-10-16"
+      },
+      {
+        "site": "MHXX攻略レシピ（SFコイン：入手・用途）",
+        "url": "http://wiki.mhxg.org/ida/268699.html",
+        "kind": "detail",
+        "checkedAt": "2026-10-16"
+      }
+    ],
+    "verification": "partial",
+    "verificationNote": "日本版MHXXの攻略レシピ一覧・個別ページをHTTP取得して照合。HRは個別の備考に記載された値のみ採用。共通のダウンロード条件はカテゴリ説明に表示。装備生産は素材の用途であり、クリア時の自動取得・製法フラグの保証ではありません。受注・参加を区別した数値が原資料にないため、記載HRを記録上の前提としています。"
+  },
+  {
+    "id": "event-high-recipe-279099",
+    "name": "四天王と暴喰の王",
+    "category": "event",
+    "rank": "上位",
+    "order": 74,
+    "role": "hunter",
+    "tags": [
+      "normal"
+    ],
+    "condition": {
+      "kind": "hr_at_least",
+      "value": 8
+    },
+    "unlocks": [],
+    "sources": [
+      {
+        "site": "MHXX攻略レシピ",
+        "url": "http://wiki.mhxg.org/ida/279099.html",
+        "kind": "detail",
+        "checkedAt": "2026-10-16"
+      },
+      {
+        "site": "MHXX攻略レシピ（イベント上位一覧）",
+        "url": "http://wiki.mhxg.org/data/2032.html",
+        "kind": "list",
+        "checkedAt": "2026-10-16"
+      }
+    ],
+    "verification": "partial",
+    "verificationNote": "日本版MHXXの攻略レシピ一覧・個別ページをHTTP取得して照合。HRは個別の備考に記載された値のみ採用。共通のダウンロード条件はカテゴリ説明に表示。装備生産は素材の用途であり、クリア時の自動取得・製法フラグの保証ではありません。受注・参加を区別した数値が原資料にないため、記載HRを記録上の前提としています。"
+  },
+  {
+    "id": "event-high-recipe-322463",
+    "name": "サンリオ・ひとぐでしようニャ",
+    "category": "event",
+    "rank": "上位",
+    "order": 75,
+    "role": "prowler",
+    "tags": [
+      "normal"
+    ],
+    "condition": {
+      "kind": "hr_at_least",
+      "value": 4
+    },
+    "unlocks": [
+      {
+        "kind": "other",
+        "label": "超ぐでっとした卵を使う装備の生産・強化",
+        "note": "報酬素材「超ぐでっとした卵」を使用。生産：うずらベーコン串（2個）、うずらベーコン串Ｘ（2個）、ぐでたまっぽい服（1個）、ぐでたまっぽい服Ｘ（1個）。別途、各装備の他の必要素材・費用・生産／強化段階の条件を満たす必要があります。クリアだけで製法や装備を取得した扱いにはしません。報酬の抽選・必要個数により周回が必要な場合があります。"
+      }
+    ],
+    "sources": [
+      {
+        "site": "MHXX攻略レシピ",
+        "url": "http://wiki.mhxg.org/ida/322463.html",
+        "kind": "detail",
+        "checkedAt": "2026-10-16"
+      },
+      {
+        "site": "MHXX攻略レシピ（イベント上位一覧）",
+        "url": "http://wiki.mhxg.org/data/2032.html",
+        "kind": "list",
+        "checkedAt": "2026-10-16"
+      },
+      {
+        "site": "MHXX攻略レシピ（超ぐでっとした卵：入手・用途）",
+        "url": "http://wiki.mhxg.org/ida/321600.html",
+        "kind": "detail",
+        "checkedAt": "2026-10-16"
+      }
+    ],
+    "verification": "partial",
+    "verificationNote": "日本版MHXXの攻略レシピ一覧・個別ページをHTTP取得して照合。HRは個別の備考に記載された値のみ採用。共通のダウンロード条件はカテゴリ説明に表示。装備生産は素材の用途であり、クリア時の自動取得・製法フラグの保証ではありません。受注・参加を区別した数値が原資料にないため、記載HRを記録上の前提としています。"
+  },
+  {
+    "id": "event-high-recipe-322464",
+    "name": "ストライダー飛竜・氷海任務",
+    "category": "event",
+    "rank": "上位",
+    "order": 76,
+    "role": "hunter",
+    "tags": [
+      "normal"
+    ],
+    "condition": {
+      "kind": "hr_at_least",
+      "value": 8
+    },
+    "unlocks": [
+      {
+        "kind": "other",
+        "label": "支援機械を使う装備の生産・強化",
+        "note": "報酬素材「支援機械」を使用。生産：光剣サイファー（1個）、飛竜ノ覆面・天（1個）、飛竜ノ装束・天（1個）、飛竜ノ篭手・天（1個）、飛竜ノ帯・天（1個）、飛竜ノ足袋・天（1個）。強化：光剣サイファーＸ2（2個）、飛竜ノシリーズ（Lv5 1個）、飛竜ノシリーズ（Lv7 1個）。別途、各装備の他の必要素材・費用・生産／強化段階の条件を満たす必要があります。クリアだけで製法や装備を取得した扱いにはしません。報酬の抽選・必要個数により周回が必要な場合があります。"
+      }
+    ],
+    "sources": [
+      {
+        "site": "MHXX攻略レシピ",
+        "url": "http://wiki.mhxg.org/ida/322464.html",
+        "kind": "detail",
+        "checkedAt": "2026-10-16"
+      },
+      {
+        "site": "MHXX攻略レシピ（イベント上位一覧）",
+        "url": "http://wiki.mhxg.org/data/2032.html",
+        "kind": "list",
+        "checkedAt": "2026-10-16"
+      },
+      {
+        "site": "MHXX攻略レシピ（支援機械：入手・用途）",
+        "url": "http://wiki.mhxg.org/ida/309563.html",
+        "kind": "detail",
+        "checkedAt": "2026-10-16"
+      }
+    ],
+    "verification": "partial",
+    "verificationNote": "日本版MHXXの攻略レシピ一覧・個別ページをHTTP取得して照合。HRは個別の備考に記載された値のみ採用。共通のダウンロード条件はカテゴリ説明に表示。装備生産は素材の用途であり、クリア時の自動取得・製法フラグの保証ではありません。受注・参加を区別した数値が原資料にないため、記載HRを記録上の前提としています。"
+  },
+  {
+    "id": "event-high-recipe-324592",
+    "name": "大神・妖怪手配書出張版",
+    "category": "event",
+    "rank": "上位",
+    "order": 77,
+    "role": "hunter",
+    "tags": [
+      "normal"
+    ],
+    "condition": {
+      "kind": "hr_at_least",
+      "value": 4
+    },
+    "unlocks": [
+      {
+        "kind": "other",
+        "label": "天道絵巻物を使う装備の生産・強化",
+        "note": "報酬素材「天道絵巻物」を使用。生産：都牟刈ネコ太刀（2個）、都牟刈Ｘネコ太刀（2個）、大神ネコ頭巾（1個）、真経津ネコ鏡（1個）、大神Ｘネコ頭巾（1個）、真経津Ｘネコ鏡（1個）。別途、各装備の他の必要素材・費用・生産／強化段階の条件を満たす必要があります。クリアだけで製法や装備を取得した扱いにはしません。報酬の抽選・必要個数により周回が必要な場合があります。"
+      }
+    ],
+    "sources": [
+      {
+        "site": "MHXX攻略レシピ",
+        "url": "http://wiki.mhxg.org/ida/324592.html",
+        "kind": "detail",
+        "checkedAt": "2026-10-16"
+      },
+      {
+        "site": "MHXX攻略レシピ（イベント上位一覧）",
+        "url": "http://wiki.mhxg.org/data/2032.html",
+        "kind": "list",
+        "checkedAt": "2026-10-16"
+      },
+      {
+        "site": "MHXX攻略レシピ（天道絵巻物：入手・用途）",
+        "url": "http://wiki.mhxg.org/ida/324584.html",
+        "kind": "detail",
+        "checkedAt": "2026-10-16"
+      }
+    ],
+    "verification": "partial",
+    "verificationNote": "日本版MHXXの攻略レシピ一覧・個別ページをHTTP取得して照合。HRは個別の備考に記載された値のみ採用。共通のダウンロード条件はカテゴリ説明に表示。装備生産は素材の用途であり、クリア時の自動取得・製法フラグの保証ではありません。受注・参加を区別した数値が原資料にないため、記載HRを記録上の前提としています。"
+  },
+  {
+    "id": "event-high-recipe-336955",
+    "name": "名探偵コナン・連続狩猟事件！",
+    "category": "event",
+    "rank": "上位",
+    "order": 78,
+    "role": "prowler",
+    "tags": [
+      "normal"
+    ],
+    "condition": {
+      "kind": "hr_at_least",
+      "value": 4
+    },
+    "unlocks": [
+      {
+        "kind": "other",
+        "label": "少年探偵団の証を使う装備の生産・強化",
+        "note": "報酬素材「少年探偵団の証」を使用。生産：探偵ネコメガネ（1個）、探偵ネコスーツ（1個）、名探偵Ｘネコメガネ（1個）、名探偵Ｘネコスーツ（1個）。別途、各装備の他の必要素材・費用・生産／強化段階の条件を満たす必要があります。クリアだけで製法や装備を取得した扱いにはしません。報酬の抽選・必要個数により周回が必要な場合があります。"
+      },
+      {
+        "kind": "other",
+        "label": "ネコ記憶の秘伝書（オトモのサポート・スキル変更用アイテム）",
+        "note": "報酬候補のアイテム。該当枠は1個50%。1回のクリアでの入手は保証しません。利用には道場の該当機能・変更対象の条件を満たす必要があり、このクエストだけで施設機能を解放するという意味ではありません。"
+      }
+    ],
+    "sources": [
+      {
+        "site": "MHXX攻略レシピ",
+        "url": "http://wiki.mhxg.org/ida/336955.html",
+        "kind": "detail",
+        "checkedAt": "2026-10-16"
+      },
+      {
+        "site": "MHXX攻略レシピ（イベント上位一覧）",
+        "url": "http://wiki.mhxg.org/data/2032.html",
+        "kind": "list",
+        "checkedAt": "2026-10-16"
+      },
+      {
+        "site": "MHXX攻略レシピ（少年探偵団の証：入手・用途）",
+        "url": "http://wiki.mhxg.org/ida/326042.html",
+        "kind": "detail",
+        "checkedAt": "2026-10-16"
+      },
+      {
+        "site": "MHXX攻略レシピ（ネコ記憶の秘伝書：入手）",
+        "url": "http://wiki.mhxg.org/ida/296097.html",
+        "kind": "detail",
+        "checkedAt": "2026-10-16"
+      },
+      {
+        "site": "MHXXニャンター専門Wiki（基本情報）",
+        "url": "https://w.atwiki.jp/mhxxnyanter/pages/20.html",
+        "kind": "detail",
+        "checkedAt": "2026-10-16"
+      }
+    ],
+    "verification": "partial",
+    "verificationNote": "日本版MHXXの攻略レシピ一覧・個別ページをHTTP取得して照合。HRは個別の備考に記載された値のみ採用。共通のダウンロード条件はカテゴリ説明に表示。装備生産は素材の用途であり、クリア時の自動取得・製法フラグの保証ではありません。受注・参加を区別した数値が原資料にないため、記載HRを記録上の前提としています。"
+  },
+  {
+    "id": "event-high-recipe-336956",
+    "name": "サンリオ・紅蓮の炎に抱かれて",
+    "category": "event",
+    "rank": "上位",
+    "order": 79,
+    "role": "hunter",
+    "tags": [
+      "normal"
+    ],
+    "condition": {
+      "kind": "hr_at_least",
+      "value": 4
+    },
+    "unlocks": [
+      {
+        "kind": "other",
+        "label": "ライブチケットを使う装備の生産・強化",
+        "note": "報酬素材「ライブチケット」を使用。生産：レッドトマホーク（1個）。強化：レッドトマホーク深紅2（2個）。別途、各装備の他の必要素材・費用・生産／強化段階の条件を満たす必要があります。クリアだけで製法や装備を取得した扱いにはしません。報酬の抽選・必要個数により周回が必要な場合があります。"
+      }
+    ],
+    "sources": [
+      {
+        "site": "MHXX攻略レシピ",
+        "url": "http://wiki.mhxg.org/ida/336956.html",
+        "kind": "detail",
+        "checkedAt": "2026-10-16"
+      },
+      {
+        "site": "MHXX攻略レシピ（イベント上位一覧）",
+        "url": "http://wiki.mhxg.org/data/2032.html",
+        "kind": "list",
+        "checkedAt": "2026-10-16"
+      },
+      {
+        "site": "MHXX攻略レシピ（ライブチケット：入手・用途）",
+        "url": "http://wiki.mhxg.org/ida/326055.html",
+        "kind": "detail",
+        "checkedAt": "2026-10-16"
+      }
+    ],
+    "verification": "partial",
+    "verificationNote": "日本版MHXXの攻略レシピ一覧・個別ページをHTTP取得して照合。HRは個別の備考に記載された値のみ採用。共通のダウンロード条件はカテゴリ説明に表示。装備生産は素材の用途であり、クリア時の自動取得・製法フラグの保証ではありません。受注・参加を区別した数値が原資料にないため、記載HRを記録上の前提としています。"
+  },
+  {
+    "id": "event-high-recipe-338411",
+    "name": "JUMP・砂漠に眠る王冠",
+    "category": "event",
+    "rank": "上位",
+    "order": 80,
+    "role": "hunter",
+    "tags": [
+      "normal"
+    ],
+    "condition": {
+      "kind": "hr_at_least",
+      "value": 4
+    },
+    "unlocks": [
+      {
+        "kind": "other",
+        "label": "大海賊Jチケットを使う装備の生産・強化",
+        "note": "報酬素材「大海賊Jチケット」を使用。生産：海賊Ｊラダーボウ（1個）。強化：大海賊Ｊラダーボウ2（3個）。別途、各装備の他の必要素材・費用・生産／強化段階の条件を満たす必要があります。クリアだけで製法や装備を取得した扱いにはしません。報酬の抽選・必要個数により周回が必要な場合があります。"
+      }
+    ],
+    "sources": [
+      {
+        "site": "MHXX攻略レシピ",
+        "url": "http://wiki.mhxg.org/ida/338411.html",
+        "kind": "detail",
+        "checkedAt": "2026-10-16"
+      },
+      {
+        "site": "MHXX攻略レシピ（イベント上位一覧）",
+        "url": "http://wiki.mhxg.org/data/2032.html",
+        "kind": "list",
+        "checkedAt": "2026-10-16"
+      },
+      {
+        "site": "MHXX攻略レシピ（大海賊Jチケット：入手・用途）",
+        "url": "http://wiki.mhxg.org/ida/326047.html",
+        "kind": "detail",
+        "checkedAt": "2026-10-16"
+      }
+    ],
+    "verification": "partial",
+    "verificationNote": "日本版MHXXの攻略レシピ一覧・個別ページをHTTP取得して照合。HRは個別の備考に記載された値のみ採用。共通のダウンロード条件はカテゴリ説明に表示。装備生産は素材の用途であり、クリア時の自動取得・製法フラグの保証ではありません。受注・参加を区別した数値が原資料にないため、記載HRを記録上の前提としています。"
+  },
+  {
+    "id": "event-high-recipe-341370",
+    "name": "ゼルダの伝説・力の試練",
+    "category": "event",
+    "rank": "上位",
+    "order": 81,
+    "role": "hunter",
+    "tags": [
+      "normal"
+    ],
+    "condition": {
+      "kind": "hr_at_least",
+      "value": 4
+    },
+    "unlocks": [
+      {
+        "kind": "other",
+        "label": "ゼルダチケットを使う装備の生産・強化",
+        "note": "報酬素材「ゼルダチケット」を使用。生産：古代兵装・弓（1個）。強化：古代兵装・弓Ｘ2（3個）。別途、各装備の他の必要素材・費用・生産／強化段階の条件を満たす必要があります。クリアだけで製法や装備を取得した扱いにはしません。報酬の抽選・必要個数により周回が必要な場合があります。"
+      }
+    ],
+    "sources": [
+      {
+        "site": "MHXX攻略レシピ",
+        "url": "http://wiki.mhxg.org/ida/341370.html",
+        "kind": "detail",
+        "checkedAt": "2026-10-16"
+      },
+      {
+        "site": "MHXX攻略レシピ（イベント上位一覧）",
+        "url": "http://wiki.mhxg.org/data/2032.html",
+        "kind": "list",
+        "checkedAt": "2026-10-16"
+      },
+      {
+        "site": "MHXX攻略レシピ（ゼルダチケット：入手・用途）",
+        "url": "http://wiki.mhxg.org/ida/313289.html",
+        "kind": "detail",
+        "checkedAt": "2026-10-16"
+      }
+    ],
+    "verification": "partial",
+    "verificationNote": "日本版MHXXの攻略レシピ一覧・個別ページをHTTP取得して照合。HRは個別の備考に記載された値のみ採用。共通のダウンロード条件はカテゴリ説明に表示。装備生産は素材の用途であり、クリア時の自動取得・製法フラグの保証ではありません。受注・参加を区別した数値が原資料にないため、記載HRを記録上の前提としています。"
+  },
+  {
+    "id": "event-high-recipe-322466",
+    "name": "魔界村・赤き強敵の危険な炎",
+    "category": "event",
+    "rank": "上位",
+    "order": 82,
+    "role": "hunter",
+    "tags": [
+      "normal"
+    ],
+    "condition": {
+      "kind": "hr_at_least",
+      "value": 4
+    },
+    "unlocks": [
+      {
+        "kind": "other",
+        "label": "アーサーの鎧を使う装備の生産・強化",
+        "note": "報酬素材「アーサーの鎧」を使用。生産：アーサーネコランス（2個）、アーサーＸネコランス（2個）、アーサーネコヘルム（1個）、アーサーネコメイル（1個）、アーサーＸネコヘルム（1個）、アーサーＸネコメイル（1個）。別途、各装備の他の必要素材・費用・生産／強化段階の条件を満たす必要があります。クリアだけで製法や装備を取得した扱いにはしません。報酬の抽選・必要個数により周回が必要な場合があります。"
+      }
+    ],
+    "sources": [
+      {
+        "site": "MHXX攻略レシピ",
+        "url": "http://wiki.mhxg.org/ida/322466.html",
+        "kind": "detail",
+        "checkedAt": "2026-10-16"
+      },
+      {
+        "site": "MHXX攻略レシピ（イベント上位一覧）",
+        "url": "http://wiki.mhxg.org/data/2032.html",
+        "kind": "list",
+        "checkedAt": "2026-10-16"
+      },
+      {
+        "site": "MHXX攻略レシピ（アーサーの鎧：入手・用途）",
+        "url": "http://wiki.mhxg.org/ida/321484.html",
+        "kind": "detail",
+        "checkedAt": "2026-10-16"
+      }
+    ],
+    "verification": "partial",
+    "verificationNote": "日本版MHXXの攻略レシピ一覧・個別ページをHTTP取得して照合。HRは個別の備考に記載された値のみ採用。共通のダウンロード条件はカテゴリ説明に表示。装備生産は素材の用途であり、クリア時の自動取得・製法フラグの保証ではありません。受注・参加を区別した数値が原資料にないため、記載HRを記録上の前提としています。"
+  },
+  {
+    "id": "event-high-recipe-322473",
+    "name": "USJ・天翔ける輝星の軌跡",
+    "category": "event",
+    "rank": "上位",
+    "order": 83,
+    "role": "hunter",
+    "tags": [
+      "normal"
+    ],
+    "condition": {
+      "kind": "hr_at_least",
+      "value": 4
+    },
+    "unlocks": [
+      {
+        "kind": "other",
+        "label": "スタジオOパスを使う装備の生産・強化",
+        "note": "報酬素材「スタジオOパス」を使用。生産：烈火・覇【笠】（1個）、和歌・覇【笠】（1個）、烈火・覇【胴当て】（1個）、和歌・覇【胴当て】（1個）、烈火・覇【篭手】（1個）、和歌・覇【篭手】（1個）、烈火・覇【腰当て】（1個）、和歌・覇【腰当て】（1個）、烈火・覇【袴】（1個）、和歌・覇【具足】（1個）、気炎のネコ薙刀・覇（2個）、ニャッ火・覇【笠】（1個）、ニャッ火・覇【鎧】（1個）。強化：烈火・覇/活火・覇シリーズ（Lv5 1個）、烈火・覇/活火・覇シリーズ（Lv7 1個）、和歌・覇/和楽・覇シリーズ（Lv5 1個）、和歌・覇/和楽・覇シリーズ（Lv7 1個）。別途、各装備の他の必要素材・費用・生産／強化段階の条件を満たす必要があります。クリアだけで製法や装備を取得した扱いにはしません。報酬の抽選・必要個数により周回が必要な場合があります。"
+      }
+    ],
+    "sources": [
+      {
+        "site": "MHXX攻略レシピ",
+        "url": "http://wiki.mhxg.org/ida/322473.html",
+        "kind": "detail",
+        "checkedAt": "2026-10-16"
+      },
+      {
+        "site": "MHXX攻略レシピ（イベント上位一覧）",
+        "url": "http://wiki.mhxg.org/data/2032.html",
+        "kind": "list",
+        "checkedAt": "2026-10-16"
+      },
+      {
+        "site": "MHXX攻略レシピ（スタジオOパス：入手・用途）",
+        "url": "http://wiki.mhxg.org/ida/309565.html",
+        "kind": "detail",
+        "checkedAt": "2026-10-16"
+      }
+    ],
+    "verification": "partial",
+    "verificationNote": "日本版MHXXの攻略レシピ一覧・個別ページをHTTP取得して照合。HRは個別の備考に記載された値のみ採用。共通のダウンロード条件はカテゴリ説明に表示。装備生産は素材の用途であり、クリア時の自動取得・製法フラグの保証ではありません。受注・参加を区別した数値が原資料にないため、記載HRを記録上の前提としています。"
+  },
+  {
+    "id": "event-high-recipe-322474",
+    "name": "FE・世界が絶望に染まる前に",
+    "category": "event",
+    "rank": "上位",
+    "order": 84,
+    "role": "hunter",
+    "tags": [
+      "normal"
+    ],
+    "condition": {
+      "kind": "hr_at_least",
+      "value": 8
+    },
+    "unlocks": [
+      {
+        "kind": "other",
+        "label": "封印の盾を使う装備の生産・強化",
+        "note": "報酬素材「封印の盾」を使用。生産：ファルシオン（1個）、スターロードバンド（1個）、スターロードスーツ（1個）、スターロードアーム（1個）、スターロードコイル（1個）、スターロードブーツ（1個）。強化：神剣ファルシオン2（2個）、スターロードシリーズ（Lv5 1個）、スターロードシリーズ（Lv7 1個）。別途、各装備の他の必要素材・費用・生産／強化段階の条件を満たす必要があります。クリアだけで製法や装備を取得した扱いにはしません。報酬の抽選・必要個数により周回が必要な場合があります。"
+      }
+    ],
+    "sources": [
+      {
+        "site": "MHXX攻略レシピ",
+        "url": "http://wiki.mhxg.org/ida/322474.html",
+        "kind": "detail",
+        "checkedAt": "2026-10-16"
+      },
+      {
+        "site": "MHXX攻略レシピ（イベント上位一覧）",
+        "url": "http://wiki.mhxg.org/data/2032.html",
+        "kind": "list",
+        "checkedAt": "2026-10-16"
+      },
+      {
+        "site": "MHXX攻略レシピ（封印の盾：入手・用途）",
+        "url": "http://wiki.mhxg.org/ida/309566.html",
+        "kind": "detail",
+        "checkedAt": "2026-10-16"
+      }
+    ],
+    "verification": "partial",
+    "verificationNote": "日本版MHXXの攻略レシピ一覧・個別ページをHTTP取得して照合。HRは個別の備考に記載された値のみ採用。共通のダウンロード条件はカテゴリ説明に表示。装備生産は素材の用途であり、クリア時の自動取得・製法フラグの保証ではありません。受注・参加を区別した数値が原資料にないため、記載HRを記録上の前提としています。"
+  }
+]

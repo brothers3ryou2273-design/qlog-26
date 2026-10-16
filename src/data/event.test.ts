@@ -8,6 +8,8 @@ import { parseSave, SAVE_KEY } from "../lib/storage";
 import baseline from "../../docs/progress-baseline-1167.json";
 import research from "../../docs/event-research-audit.json";
 import unlockAudit from "../../docs/event-unlock-indicators-audit.json";
+import lowRoster from "../../docs/event-low-observations.json";
+import highRoster from "../../docs/event-high-observations.json";
 import type { Quest } from "../lib/types";
 
 type Observation = {
@@ -29,13 +31,7 @@ type Observation = {
     hrFromDetail: number | null;
   }[];
 };
-const rosters = Object.values(
-  import.meta.glob<string>("../../docs/event-*-observations.json", {
-    query: "?raw",
-    import: "default",
-    eager: true,
-  }),
-).map((s) => JSON.parse(s) as Observation);
+const rosters: Observation[] = [lowRoster, highRoster];
 const oldDocs = import.meta.glob<string>("../../docs/*", {
   query: "?raw",
   import: "default",

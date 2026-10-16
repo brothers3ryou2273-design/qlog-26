@@ -4,9 +4,9 @@
 
 ## 現時点の収録
 
-下位11件を収録。上位84件・G級49件の一覧と個別ページも取得済みで、順次登録する。
+下位11件・上位84件を収録。G級49件の一覧と個別ページも取得済みで、順次登録する。
 
-個別の観測は `event-low-observations.json`、解放表示の完全一致分類は `event-unlock-indicators-audit.json`。旧1167件の全レコードのSHA-256を `progress-baseline-1167.json`、過去の全監査ファイルのハッシュを `event-research-audit.json` に保存した。
+個別の観測は `event-low-observations.json`・`event-high-observations.json`、解放表示の完全一致分類は `event-unlock-indicators-audit.json`。旧1167件の全レコードのSHA-256を `progress-baseline-1167.json`、過去の全監査ファイルのハッシュを `event-research-audit.json` に保存した。
 
 ## 表示・条件
 
