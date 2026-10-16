@@ -43,6 +43,8 @@ import permit15 from "./permit-boltreaver.json";
 import permit16 from "./permit-elderfrost.json";
 import permit17 from "./permit-bloodbath.json";
 
+import eventLow from "./event-low.json";
+
 // IDは表示名・参照元・並び順が変わっても固定。旧14件のg8由来IDも維持する。
 export const quests: Quest[] = [
   ...village1,
@@ -84,6 +86,7 @@ export const quests: Quest[] = [
   ...permit15,
   ...permit16,
   ...permit17,
+  ...eventLow,
 ] as Quest[];
 export const dataStatus = {
   complete: false,

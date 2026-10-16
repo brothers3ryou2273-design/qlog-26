@@ -1,0 +1,403 @@
+{
+  "rank": "下位",
+  "sourceUrl": "http://wiki.mhxg.org/data/2031.html",
+  "observedCount": 11,
+  "checkedAt": "2026-10-16",
+  "entries": [
+    {
+      "questId": "event-low-recipe-267299",
+      "name": "サンリオ・ひとぐでしようぜ",
+      "listName": "サンリオ・ひとぐでしようぜ",
+      "rank": "下位",
+      "order": 1,
+      "role": "hunter",
+      "tags": [
+        "normal"
+      ],
+      "url": "http://wiki.mhxg.org/ida/267299.html",
+      "listUrl": "http://wiki.mhxg.org/data/2031.html",
+      "icons": [
+        "採集"
+      ],
+      "detailTitle": "イベント★サンリオ・ひとぐでしようぜ | 【MHXX】モンハンダブルクロス攻略レシピ",
+      "httpStatus": 200,
+      "checkedAt": "2026-10-16",
+      "panels": [
+        {
+          "title": "備考",
+          "text": "2015年11月28日配信",
+          "links": []
+        }
+      ],
+      "hrFromDetail": null,
+      "condition": {
+        "kind": "none"
+      },
+      "specialMaterialUrls": [
+        "http://wiki.mhxg.org/ida/234130.html"
+      ],
+      "downloadStatus": "historical_source_only_current_availability_unverified",
+      "prerequisiteLinks": [],
+      "nameDifference": false
+    },
+    {
+      "questId": "event-low-recipe-267300",
+      "name": "溶岩塊の季節",
+      "listName": "溶岩塊の季節",
+      "rank": "下位",
+      "order": 2,
+      "role": "hunter",
+      "tags": [
+        "normal"
+      ],
+      "url": "http://wiki.mhxg.org/ida/267300.html",
+      "listUrl": "http://wiki.mhxg.org/data/2031.html",
+      "icons": [
+        "連続狩猟"
+      ],
+      "detailTitle": "イベント★溶岩塊の季節 | 【MHXX】モンハンダブルクロス攻略レシピ",
+      "httpStatus": 200,
+      "checkedAt": "2026-10-16",
+      "panels": [
+        {
+          "title": "備考",
+          "text": "配信中",
+          "links": []
+        }
+      ],
+      "hrFromDetail": null,
+      "condition": {
+        "kind": "none"
+      },
+      "specialMaterialUrls": [],
+      "downloadStatus": "historical_source_only_current_availability_unverified",
+      "prerequisiteLinks": [],
+      "nameDifference": false
+    },
+    {
+      "questId": "event-low-recipe-269613",
+      "name": "コロコロ・沼地に迷いこんだゾ",
+      "listName": "コロコロ・沼地に迷いこんだゾ",
+      "rank": "下位",
+      "order": 3,
+      "role": "prowler",
+      "tags": [
+        "normal"
+      ],
+      "url": "http://wiki.mhxg.org/ida/269613.html",
+      "listUrl": "http://wiki.mhxg.org/data/2031.html",
+      "icons": [
+        "ニャンター"
+      ],
+      "detailTitle": "イベント★コロコロ・沼地に迷いこんだゾ | 【MHXX】モンハンダブルクロス攻略レシピ",
+      "httpStatus": 200,
+      "checkedAt": "2026-10-16",
+      "panels": [
+        {
+          "title": "備考",
+          "text": "2016年1月15日配信",
+          "links": []
+        }
+      ],
+      "hrFromDetail": null,
+      "condition": {
+        "kind": "none"
+      },
+      "specialMaterialUrls": [
+        "http://wiki.mhxg.org/ida/268719.html"
+      ],
+      "downloadStatus": "historical_source_only_current_availability_unverified",
+      "prerequisiteLinks": [],
+      "nameDifference": false
+    },
+    {
+      "questId": "event-low-recipe-267304",
+      "name": "マガジン・最強獣人決定戦！",
+      "listName": "マガジン・最強獣人決定戦！",
+      "rank": "下位",
+      "order": 4,
+      "role": "prowler",
+      "tags": [
+        "normal"
+      ],
+      "url": "http://wiki.mhxg.org/ida/267304.html",
+      "listUrl": "http://wiki.mhxg.org/data/2031.html",
+      "icons": [
+        "ニャンター"
+      ],
+      "detailTitle": "イベント★マガジン・最強獣人決定戦！ | 【MHXX】モンハンダブルクロス攻略レシピ",
+      "httpStatus": 200,
+      "checkedAt": "2026-10-16",
+      "panels": [
+        {
+          "title": "備考",
+          "text": "配信中",
+          "links": []
+        }
+      ],
+      "hrFromDetail": null,
+      "condition": {
+        "kind": "none"
+      },
+      "specialMaterialUrls": [
+        "http://wiki.mhxg.org/ida/267377.html"
+      ],
+      "downloadStatus": "historical_source_only_current_availability_unverified",
+      "prerequisiteLinks": [],
+      "nameDifference": false
+    },
+    {
+      "questId": "event-low-recipe-267305",
+      "name": "JUMP・真紅の強者たち",
+      "listName": "JUMP・真紅の強者たち",
+      "rank": "下位",
+      "order": 5,
+      "role": "prowler",
+      "tags": [
+        "normal"
+      ],
+      "url": "http://wiki.mhxg.org/ida/267305.html",
+      "listUrl": "http://wiki.mhxg.org/data/2031.html",
+      "icons": [
+        "ニャンター"
+      ],
+      "detailTitle": "イベント★JUMP・真紅の強者たち | 【MHXX】モンハンダブルクロス攻略レシピ",
+      "httpStatus": 200,
+      "checkedAt": "2026-10-16",
+      "panels": [
+        {
+          "title": "備考",
+          "text": "配信中",
+          "links": []
+        }
+      ],
+      "hrFromDetail": null,
+      "condition": {
+        "kind": "none"
+      },
+      "specialMaterialUrls": [
+        "http://wiki.mhxg.org/ida/267370.html"
+      ],
+      "downloadStatus": "historical_source_only_current_availability_unverified",
+      "prerequisiteLinks": [],
+      "nameDifference": false
+    },
+    {
+      "questId": "event-low-recipe-268859",
+      "name": "ダンボーのムーファ大作戦！",
+      "listName": "ダンボーのムーファ大作戦！",
+      "rank": "下位",
+      "order": 6,
+      "role": "prowler",
+      "tags": [
+        "normal"
+      ],
+      "url": "http://wiki.mhxg.org/ida/268859.html",
+      "listUrl": "http://wiki.mhxg.org/data/2031.html",
+      "icons": [
+        "ニャンター"
+      ],
+      "detailTitle": "イベント★ダンボーのムーファ大作戦！ | 【MHXX】モンハンダブルクロス攻略レシピ",
+      "httpStatus": 200,
+      "checkedAt": "2026-10-16",
+      "panels": [
+        {
+          "title": "備考",
+          "text": "2016年1月8日配信",
+          "links": []
+        }
+      ],
+      "hrFromDetail": null,
+      "condition": {
+        "kind": "none"
+      },
+      "specialMaterialUrls": [
+        "http://wiki.mhxg.org/ida/268715.html"
+      ],
+      "downloadStatus": "historical_source_only_current_availability_unverified",
+      "prerequisiteLinks": [],
+      "nameDifference": false
+    },
+    {
+      "questId": "event-low-recipe-278945",
+      "name": "ユニクロ・新たなる挑戦",
+      "listName": "ユニクロ・新たなる挑戦",
+      "rank": "下位",
+      "order": 7,
+      "role": "prowler",
+      "tags": [
+        "normal"
+      ],
+      "url": "http://wiki.mhxg.org/ida/278945.html",
+      "listUrl": "http://wiki.mhxg.org/data/2031.html",
+      "icons": [
+        "ニャンター"
+      ],
+      "detailTitle": "イベント★ユニクロ・新たなる挑戦 | 【MHXX】モンハンダブルクロス攻略レシピ",
+      "httpStatus": 200,
+      "checkedAt": "2026-10-16",
+      "panels": [
+        {
+          "title": "備考",
+          "text": "2016年2月1日配信",
+          "links": []
+        }
+      ],
+      "hrFromDetail": null,
+      "condition": {
+        "kind": "none"
+      },
+      "specialMaterialUrls": [
+        "http://wiki.mhxg.org/ida/268733.html"
+      ],
+      "downloadStatus": "historical_source_only_current_availability_unverified",
+      "prerequisiteLinks": [],
+      "nameDifference": false
+    },
+    {
+      "questId": "event-low-recipe-270532",
+      "name": "カプコン・燃えるスピリッツ",
+      "listName": "カプコン・燃えるスピリッツ",
+      "rank": "下位",
+      "order": 8,
+      "role": "hunter",
+      "tags": [
+        "normal"
+      ],
+      "url": "http://wiki.mhxg.org/ida/270532.html",
+      "listUrl": "http://wiki.mhxg.org/data/2031.html",
+      "icons": [
+        "連続狩猟"
+      ],
+      "detailTitle": "イベント★カプコン・燃えるスピリッツ | 【MHXX】モンハンダブルクロス攻略レシピ",
+      "httpStatus": 200,
+      "checkedAt": "2026-10-16",
+      "panels": [
+        {
+          "title": "備考",
+          "text": "2016年4月15日配信モンスターハンタースピリッツ 先行配信2016年1月12日～2月29日",
+          "links": []
+        }
+      ],
+      "hrFromDetail": null,
+      "condition": {
+        "kind": "none"
+      },
+      "specialMaterialUrls": [
+        "http://wiki.mhxg.org/ida/268705.html"
+      ],
+      "downloadStatus": "historical_source_only_current_availability_unverified",
+      "prerequisiteLinks": [],
+      "nameDifference": false
+    },
+    {
+      "questId": "event-low-recipe-270533",
+      "name": "USJ・巨大斬竜との激闘",
+      "listName": "USJ・巨大斬竜との激闘",
+      "rank": "下位",
+      "order": 9,
+      "role": "hunter",
+      "tags": [
+        "normal"
+      ],
+      "url": "http://wiki.mhxg.org/ida/270533.html",
+      "listUrl": "http://wiki.mhxg.org/data/2031.html",
+      "icons": [
+        "狩猟"
+      ],
+      "detailTitle": "イベント★USJ・巨大斬竜との激闘 | 【MHXX】モンハンダブルクロス攻略レシピ",
+      "httpStatus": 200,
+      "checkedAt": "2026-10-16",
+      "panels": [
+        {
+          "title": "備考",
+          "text": "2016年7月29日配信USJ 先行配信2016年1月15日～3月31日",
+          "links": []
+        }
+      ],
+      "hrFromDetail": null,
+      "condition": {
+        "kind": "none"
+      },
+      "specialMaterialUrls": [
+        "http://wiki.mhxg.org/ida/268713.html"
+      ],
+      "downloadStatus": "historical_source_only_current_availability_unverified",
+      "prerequisiteLinks": [],
+      "nameDifference": false
+    },
+    {
+      "questId": "event-low-recipe-322462",
+      "name": "なかよし・幻の水晶を求めて",
+      "listName": "なかよし・幻の水晶を求めて",
+      "rank": "下位",
+      "order": 10,
+      "role": "prowler",
+      "tags": [
+        "normal"
+      ],
+      "url": "http://wiki.mhxg.org/ida/322462.html",
+      "listUrl": "http://wiki.mhxg.org/data/2031.html",
+      "icons": [
+        "ニャンター"
+      ],
+      "detailTitle": "イベント★なかよし・幻の水晶を求めて | 【MHXX】モンハンダブルクロス攻略レシピ",
+      "httpStatus": 200,
+      "checkedAt": "2026-10-16",
+      "panels": [
+        {
+          "title": "備考",
+          "text": "2017年3月24日配信",
+          "links": []
+        }
+      ],
+      "hrFromDetail": null,
+      "condition": {
+        "kind": "none"
+      },
+      "specialMaterialUrls": [
+        "http://wiki.mhxg.org/ida/322459.html"
+      ],
+      "downloadStatus": "historical_source_only_current_availability_unverified",
+      "prerequisiteLinks": [],
+      "nameDifference": false
+    },
+    {
+      "questId": "event-low-recipe-322472",
+      "name": "USJ・幻惑なる2頭の輪舞曲",
+      "listName": "USJ・幻惑なる2頭の輪舞曲",
+      "rank": "下位",
+      "order": 11,
+      "role": "hunter",
+      "tags": [
+        "normal"
+      ],
+      "url": "http://wiki.mhxg.org/ida/322472.html",
+      "listUrl": "http://wiki.mhxg.org/data/2031.html",
+      "icons": [
+        "討伐"
+      ],
+      "detailTitle": "イベント★USJ・幻惑なる2頭の輪舞曲 | 【MHXX】モンハンダブルクロス攻略レシピ",
+      "httpStatus": 200,
+      "checkedAt": "2026-10-16",
+      "panels": [
+        {
+          "title": "備考",
+          "text": "防具・護石未装備 2017年9月15日配信USJ 先行配信2017年3月18日～5月07日",
+          "links": []
+        }
+      ],
+      "hrFromDetail": null,
+      "condition": {
+        "kind": "external_flag",
+        "label": "防具・護石を装備せずに受注する（装備状態はこのアプリでは判定しません）"
+      },
+      "specialMaterialUrls": [
+        "http://wiki.mhxg.org/ida/309564.html"
+      ],
+      "downloadStatus": "historical_source_only_current_availability_unverified",
+      "prerequisiteLinks": [],
+      "nameDifference": false
+    }
+  ]
+}

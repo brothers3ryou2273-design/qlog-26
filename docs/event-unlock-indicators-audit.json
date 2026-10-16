@@ -1,0 +1,126 @@
+{
+  "checkedAt": "2026-10-16",
+  "otherEntries": [
+    {
+      "questId": "event-low-recipe-267299",
+      "name": "サンリオ・ひとぐでしようぜ",
+      "label": "ぐでぐでとした卵を使う装備の生産・強化",
+      "classification": "recipe_material",
+      "show": true,
+      "sourceUrl": "http://wiki.mhxg.org/ida/267299.html",
+      "evidenceUrls": [
+        "http://wiki.mhxg.org/ida/234130.html"
+      ],
+      "reason": "イベント固有素材から具体的な装備の生産・強化先を確認。素材と製法フラグは区別する。"
+    },
+    {
+      "questId": "event-low-recipe-269613",
+      "name": "コロコロ・沼地に迷いこんだゾ",
+      "label": "トマトジュースを使う装備の生産・強化",
+      "classification": "recipe_material",
+      "show": true,
+      "sourceUrl": "http://wiki.mhxg.org/ida/269613.html",
+      "evidenceUrls": [
+        "http://wiki.mhxg.org/ida/268719.html"
+      ],
+      "reason": "イベント固有素材から具体的な装備の生産・強化先を確認。素材と製法フラグは区別する。"
+    },
+    {
+      "questId": "event-low-recipe-267304",
+      "name": "マガジン・最強獣人決定戦！",
+      "label": "妖精の尻尾の紋章を使う装備の生産・強化",
+      "classification": "recipe_material",
+      "show": true,
+      "sourceUrl": "http://wiki.mhxg.org/ida/267304.html",
+      "evidenceUrls": [
+        "http://wiki.mhxg.org/ida/267377.html"
+      ],
+      "reason": "イベント固有素材から具体的な装備の生産・強化先を確認。素材と製法フラグは区別する。"
+    },
+    {
+      "questId": "event-low-recipe-267305",
+      "name": "JUMP・真紅の強者たち",
+      "label": "海賊Jネコ金貨を使う装備の生産・強化",
+      "classification": "recipe_material",
+      "show": true,
+      "sourceUrl": "http://wiki.mhxg.org/ida/267305.html",
+      "evidenceUrls": [
+        "http://wiki.mhxg.org/ida/267370.html"
+      ],
+      "reason": "イベント固有素材から具体的な装備の生産・強化先を確認。素材と製法フラグは区別する。"
+    },
+    {
+      "questId": "event-low-recipe-268859",
+      "name": "ダンボーのムーファ大作戦！",
+      "label": "ダンボールを使う装備の生産・強化",
+      "classification": "recipe_material",
+      "show": true,
+      "sourceUrl": "http://wiki.mhxg.org/ida/268859.html",
+      "evidenceUrls": [
+        "http://wiki.mhxg.org/ida/268715.html"
+      ],
+      "reason": "イベント固有素材から具体的な装備の生産・強化先を確認。素材と製法フラグは区別する。"
+    },
+    {
+      "questId": "event-low-recipe-278945",
+      "name": "ユニクロ・新たなる挑戦",
+      "label": "ユニクロコインを使う装備の生産・強化",
+      "classification": "recipe_material",
+      "show": true,
+      "sourceUrl": "http://wiki.mhxg.org/ida/278945.html",
+      "evidenceUrls": [
+        "http://wiki.mhxg.org/ida/268733.html"
+      ],
+      "reason": "イベント固有素材から具体的な装備の生産・強化先を確認。素材と製法フラグは区別する。"
+    },
+    {
+      "questId": "event-low-recipe-270532",
+      "name": "カプコン・燃えるスピリッツ",
+      "label": "魂石を使う装備の生産・強化",
+      "classification": "recipe_material",
+      "show": true,
+      "sourceUrl": "http://wiki.mhxg.org/ida/270532.html",
+      "evidenceUrls": [
+        "http://wiki.mhxg.org/ida/268705.html"
+      ],
+      "reason": "イベント固有素材から具体的な装備の生産・強化先を確認。素材と製法フラグは区別する。"
+    },
+    {
+      "questId": "event-low-recipe-270533",
+      "name": "USJ・巨大斬竜との激闘",
+      "label": "スタジオパスを使う装備の生産・強化",
+      "classification": "recipe_material",
+      "show": true,
+      "sourceUrl": "http://wiki.mhxg.org/ida/270533.html",
+      "evidenceUrls": [
+        "http://wiki.mhxg.org/ida/268713.html"
+      ],
+      "reason": "イベント固有素材から具体的な装備の生産・強化先を確認。素材と製法フラグは区別する。"
+    },
+    {
+      "questId": "event-low-recipe-322462",
+      "name": "なかよし・幻の水晶を求めて",
+      "label": "銀水晶のかけらを使う装備の生産・強化",
+      "classification": "recipe_material",
+      "show": true,
+      "sourceUrl": "http://wiki.mhxg.org/ida/322462.html",
+      "evidenceUrls": [
+        "http://wiki.mhxg.org/ida/322459.html"
+      ],
+      "reason": "イベント固有素材から具体的な装備の生産・強化先を確認。素材と製法フラグは区別する。"
+    },
+    {
+      "questId": "event-low-recipe-322472",
+      "name": "USJ・幻惑なる2頭の輪舞曲",
+      "label": "スタジオＵパスを使う装備の生産・強化",
+      "classification": "recipe_material",
+      "show": true,
+      "sourceUrl": "http://wiki.mhxg.org/ida/322472.html",
+      "evidenceUrls": [
+        "http://wiki.mhxg.org/ida/309564.html"
+      ],
+      "reason": "イベント固有素材から具体的な装備の生産・強化先を確認。素材と製法フラグは区別する。"
+    }
+  ],
+  "confirmedMarkers": []
+}
