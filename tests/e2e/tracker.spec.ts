@@ -1696,3 +1696,39 @@ test("old 709 checks restore unchanged while new G checks, HR, unknown IDs and b
     ),
   ).toBe(true);
 });
+
+test("unlock filter combines with role, search, incomplete and restores new and old view values", async ({ page }) => {
+  await page.addInitScript(() => {
+    if (!localStorage.getItem("qlog.mhxx.view.v1")) localStorage.setItem("qlog.mhxx.view.v1", JSON.stringify({ category:"hub",rank:"4",tag:"request",role:"",search:"",incomplete:false }));
+  });
+  await page.goto("./");
+  const type = page.getByRole("combobox", { name:"種別",exact:true });
+  await expect(type).toHaveValue("request");
+  await expect(page.locator(".quest-card")).toHaveCount(3);
+  await type.selectOption("unlock");
+  await expect(page.locator(".quest-card")).toHaveCount(6);
+  await expect(page.locator(".quest-card .tag-unlock")).toHaveCount(6);
+  await page.getByRole("combobox",{name:"プレイ種別",exact:true}).selectOption("prowler");
+  await expect(page.locator(".quest-card")).toHaveCount(1);
+  await page.getByRole("searchbox").fill("大師範");
+  await page.getByRole("checkbox",{name:"大師範の試練をクリア",exact:true}).check();
+  await page.getByRole("checkbox",{name:"未クリアのみ"}).check();
+  await expect(page.locator(".quest-card")).toHaveCount(0);
+  await page.reload();
+  await expect(type).toHaveValue("unlock");
+  await expect(page.getByRole("searchbox")).toHaveValue("大師範");
+  await expect(page.getByRole("checkbox",{name:"未クリアのみ"})).toBeChecked();
+  await page.getByRole("checkbox",{name:"未クリアのみ"}).uncheck();
+  await expect(page.getByRole("checkbox",{name:"大師範の試練をクリア",exact:true})).toBeChecked();
+  await page.getByRole("searchbox").fill("");
+  await page.getByRole("combobox",{name:"プレイ種別",exact:true}).selectOption("");
+  await type.selectOption("");
+  await expect(page.locator(".quest-card")).toHaveCount(38);
+  await page.getByRole("combobox",{name:"ランク",exact:true}).selectOption("7");
+  await type.selectOption("unlock");
+  await page.getByRole("searchbox").fill("奈落の妖星");
+  await expect(page.locator(".quest-card")).toHaveCount(0);
+  await type.selectOption("");
+  await expect(page.locator(".quest-card")).toHaveCount(1);
+  expect(await page.evaluate(()=>document.documentElement.scrollWidth<=innerWidth)).toBe(true);
+});

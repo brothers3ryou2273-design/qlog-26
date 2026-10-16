@@ -1,5 +1,5 @@
 import { useEffect, useRef, useState } from "react";
-import type { Category, Quest, Rule, SaveData } from "./lib/types";
+import type { Category, Quest, QuestTag, Rule, SaveData } from "./lib/types";
 import { categories, tagLabels } from "./lib/types";
 import { hasUnlockIndicator } from "./lib/unlocks";
 import { dependents, evaluate } from "./lib/rules";
@@ -18,7 +18,7 @@ type View = {
   category: Category;
   rank: string;
   search: string;
-  tag: string;
+  tag: QuestTag | "unlock" | "";
   role: string;
   incomplete: boolean;
 };
@@ -43,7 +43,7 @@ function loadView(): View {
       category: v.category,
       rank: v.rank,
       search: typeof v.search === "string" ? v.search : "",
-      tag: ["", ...Object.keys(tagLabels)].includes(v.tag) ? v.tag : "",
+      tag: ["", "unlock", ...Object.keys(tagLabels)].includes(v.tag) ? v.tag : "",
       role: ["", "hunter", "prowler"].includes(v.role) ? v.role : "",
       incomplete: v.incomplete === true,
     };
@@ -117,7 +117,7 @@ export default function App() {
           .normalize("NFKC")
           .toLocaleLowerCase("ja")
           .includes(view.search.normalize("NFKC").toLocaleLowerCase("ja"))) &&
-      (!view.tag || q.tags.includes(view.tag as keyof typeof tagLabels)) &&
+      (!view.tag || (view.tag === "unlock" ? hasUnlockIndicator(q) : q.tags.includes(view.tag))) &&
       (!view.role || q.role === view.role || q.role === "either") &&
       (!view.incomplete || !completed.has(q.id)),
   );
@@ -414,7 +414,7 @@ export default function App() {
               種別
               <select
                 value={view.tag}
-                onChange={(e) => setView({ ...view, tag: e.target.value })}
+                onChange={(e) => setView({ ...view, tag: e.target.value as View["tag"] })}
               >
                 <option value="">すべて</option>
                 {Object.entries(tagLabels).map(([id, label]) => (
@@ -422,6 +422,7 @@ export default function App() {
                     {label}
                   </option>
                 ))}
+                <option value="unlock">解放あり</option>
               </select>
             </label>
             <label>
