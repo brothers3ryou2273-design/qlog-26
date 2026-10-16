@@ -1,3 +1,4 @@
+import connections from "../../docs/g-rank-connections.json";
 import { describe, expect, it } from "vitest";
 import { quests } from "./quests";
 import audit from "../../docs/g-rank-audit.json";
@@ -26,6 +27,9 @@ describe("G-rank observed rosters and legacy compatibility", () => {
     for (const b of baseline) {
       const q = quests.find(q=>q.id===b.id)!;
       expect([q.name,q.category,q.rank,q.sources[0].url]).toEqual([b.name,b.category,b.rank,b.recipeUrl]);
+      const change=connections.changes.find(c=>c.questId===q.id);
+      expect(q.condition).toEqual(change?.after ?? b.condition);
+      if(change) expect(change.before).toEqual(b.condition);
       expect(q.unlocks.map(u=>[u.kind,u.label])).toEqual(expect.arrayContaining(b.unlocks.map(u=>[u.kind,u.label])));
     }
   });
@@ -36,4 +40,25 @@ describe("G-rank observed rosters and legacy compatibility", () => {
     expect(result.completedQuestIds).toContain('future-quest-id');
     for(const q of baseline)expect(result.completedQuestIds).toContain(q.id);
   });
+});
+
+it("G2 urgent requires all five G1 keys, and hyper alternatives never bypass the six G2 keys",()=>{
+  const named=(name:string)=>quests.find(q=>q.category==='g_rank'&&q.name===name)!;
+  const urgent=named('泥まみれの商魂！');
+  const keys1=quests.filter(q=>q.category==='g_rank'&&q.rank==='G1'&&q.tags.includes('key'));
+  const save=(ids:string[],hr=9)=>({schemaVersion:1 as const,completedQuestIds:ids,hr});
+  expect(keys1).toHaveLength(5);
+  expect(evaluate(urgent.condition,save(keys1.map(q=>q.id)))).toBe('met');
+  for(const key of keys1)expect(evaluate(urgent.condition,save(keys1.filter(q=>q!==key).map(q=>q.id)))).toBe('unmet');
+  const hyper=named('逆襲の怪鳥');
+  const keys2=quests.filter(q=>q.category==='g_rank'&&q.rank==='G2'&&q.tags.includes('key')).map(q=>q.id);
+  expect(keys2).toHaveLength(6);
+  for(const prior of ['つつかれて、またつつかれて','森丘の迷惑な怪鳥さん']){
+    const ids=[urgent.id,...keys2,named(prior).id];
+    expect(evaluate(hyper.condition,save(ids))).toBe('met');
+    expect(evaluate(hyper.condition,save(ids.filter(id=>id!==keys2[0])))).toBe('unmet');
+  }
+  const village=quests.find(q=>q.id==='village-9-recipe-286221')!;
+  expect(references(village.condition)).toContain(urgent.id);
+  expect(dependents(urgent.id,quests)).toContain(village);
 });

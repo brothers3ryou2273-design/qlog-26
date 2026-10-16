@@ -916,6 +916,2001 @@
           ]
         }
       ]
+    },
+    {
+      "rank": "2",
+      "recipeListUrl": "http://wiki.mhxg.org/data/2029.html",
+      "observedCount": 53,
+      "entries": [
+        {
+          "name": "密林の採集ツアー",
+          "recipeUrl": "http://wiki.mhxg.org/ida/288248.html",
+          "detailTitle": "G★2密林の採集ツアー | 【MHXX】モンハンダブルクロス攻略レシピ",
+          "icons": [
+            "採集"
+          ],
+          "role": "hunter",
+          "tags": [
+            "normal"
+          ],
+          "observations": []
+        },
+        {
+          "name": "氷海の採集ツアー",
+          "recipeUrl": "http://wiki.mhxg.org/ida/288249.html",
+          "detailTitle": "G★2氷海の採集ツアー | 【MHXX】モンハンダブルクロス攻略レシピ",
+          "icons": [
+            "採集"
+          ],
+          "role": "hunter",
+          "tags": [
+            "normal"
+          ],
+          "observations": []
+        },
+        {
+          "name": "孤島の採集ツアー",
+          "recipeUrl": "http://wiki.mhxg.org/ida/288250.html",
+          "detailTitle": "G★2孤島の採集ツアー | 【MHXX】モンハンダブルクロス攻略レシピ",
+          "icons": [
+            "採集"
+          ],
+          "role": "hunter",
+          "tags": [
+            "normal"
+          ],
+          "observations": []
+        },
+        {
+          "name": "沼地の採集ツアー",
+          "recipeUrl": "http://wiki.mhxg.org/ida/288251.html",
+          "detailTitle": "G★2沼地の採集ツアー | 【MHXX】モンハンダブルクロス攻略レシピ",
+          "icons": [
+            "採集"
+          ],
+          "role": "hunter",
+          "tags": [
+            "normal"
+          ],
+          "observations": []
+        },
+        {
+          "name": "火山の採集ツアー",
+          "recipeUrl": "http://wiki.mhxg.org/ida/288252.html",
+          "detailTitle": "G★2火山の採集ツアー | 【MHXX】モンハンダブルクロス攻略レシピ",
+          "icons": [
+            "採集"
+          ],
+          "role": "hunter",
+          "tags": [
+            "normal"
+          ],
+          "observations": []
+        },
+        {
+          "name": "泥まみれの商魂！",
+          "recipeUrl": "http://wiki.mhxg.org/ida/286190.html",
+          "detailTitle": "G★2泥まみれの商魂！ | 【MHXX】モンハンダブルクロス攻略レシピ",
+          "icons": [
+            "狩猟",
+            "緊急",
+            "食材",
+            "施設",
+            "フラグ"
+          ],
+          "role": "hunter",
+          "tags": [
+            "urgent"
+          ],
+          "observations": [
+            {
+              "title": "備考",
+              "text": "G★1のキークエスト全てクリア後",
+              "links": []
+            },
+            {
+              "title": "他のクエスト発生に必要",
+              "text": "G★3旧砂漠のすばらしい砂",
+              "links": [
+                {
+                  "label": "G★3旧砂漠のすばらしい砂",
+                  "url": "http://wiki.mhxg.org/ida/299045.html"
+                }
+              ]
+            },
+            {
+              "title": "他の依頼発生に必要",
+              "text": "依頼★筆頭リーダーの依頼3 依頼★筆頭ランサーの依頼1 依頼★筆頭ルーキーの依頼2 依頼★ミナガルデの看板娘の依頼3 依頼★休息中のハンターの依頼 依頼★ヘルブラザーズ・赤鬼の依頼2 依頼★キャラバンの料理長の依頼3 依頼★ドンドルマの道具屋の依頼2",
+              "links": [
+                {
+                  "label": "依頼★筆頭リーダーの依頼3",
+                  "url": "http://wiki.mhxg.org/ida/306642.html"
+                },
+                {
+                  "label": "依頼★筆頭ランサーの依頼1",
+                  "url": "http://wiki.mhxg.org/ida/306643.html"
+                },
+                {
+                  "label": "依頼★筆頭ルーキーの依頼2",
+                  "url": "http://wiki.mhxg.org/ida/306641.html"
+                },
+                {
+                  "label": "依頼★ミナガルデの看板娘の依頼3",
+                  "url": "http://wiki.mhxg.org/ida/306653.html"
+                },
+                {
+                  "label": "依頼★休息中のハンターの依頼",
+                  "url": "http://wiki.mhxg.org/ida/306651.html"
+                },
+                {
+                  "label": "依頼★ヘルブラザーズ・赤鬼の依頼2",
+                  "url": "http://wiki.mhxg.org/ida/306654.html"
+                },
+                {
+                  "label": "依頼★キャラバンの料理長の依頼3",
+                  "url": "http://wiki.mhxg.org/ida/306649.html"
+                },
+                {
+                  "label": "依頼★ドンドルマの道具屋の依頼2",
+                  "url": "http://wiki.mhxg.org/ida/306665.html"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "至宝の林檎王？",
+          "recipeUrl": "http://wiki.mhxg.org/ida/286204.html",
+          "detailTitle": "G★2至宝の林檎王？ | 【MHXX】モンハンダブルクロス攻略レシピ",
+          "icons": [
+            "狩猟",
+            "依頼",
+            "食材"
+          ],
+          "role": "hunter",
+          "tags": [
+            "request"
+          ],
+          "observations": [
+            {
+              "title": "依頼",
+              "text": "[受注] ユクモ村 ドンドルマの道具屋の依頼2 [依頼出現条件] 依頼★ドンドルマの道具屋の依頼1 クリア後G★2泥まみれの商魂！ クリア後ユクモノ足湯で会話 食材 林檎王【凜護】",
+              "links": [
+                {
+                  "label": "ドンドルマの道具屋の依頼2",
+                  "url": "http://wiki.mhxg.org/ida/306665.html"
+                },
+                {
+                  "label": "依頼★ドンドルマの道具屋の依頼1",
+                  "url": "http://wiki.mhxg.org/ida/265181.html"
+                },
+                {
+                  "label": "G★2泥まみれの商魂！",
+                  "url": "http://wiki.mhxg.org/ida/286190.html"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "遺群嶺のトレジャー！米の巻",
+          "recipeUrl": "http://wiki.mhxg.org/ida/286205.html",
+          "detailTitle": "G★2遺群嶺のトレジャー！米の巻 | 【MHXX】モンハンダブルクロス攻略レシピ",
+          "icons": [
+            "狩猟",
+            "依頼",
+            "食材",
+            "フラグ"
+          ],
+          "role": "hunter",
+          "tags": [
+            "request"
+          ],
+          "observations": [
+            {
+              "title": "備考",
+              "text": "G★2ネルスキュラの生態研究 クリア後",
+              "links": [
+                {
+                  "label": "G★2ネルスキュラの生態研究",
+                  "url": "http://wiki.mhxg.org/ida/286212.html"
+                }
+              ]
+            },
+            {
+              "title": "依頼",
+              "text": "[受注] ココット村 トレジィの依頼4 [依頼出現条件] 依頼★トレジィの依頼3 クリア後G★2ネルスキュラの生態研究 クリア後 食材 チョモラン米",
+              "links": [
+                {
+                  "label": "トレジィの依頼4",
+                  "url": "http://wiki.mhxg.org/ida/306646.html"
+                },
+                {
+                  "label": "依頼★トレジィの依頼3",
+                  "url": "http://wiki.mhxg.org/ida/261121.html"
+                },
+                {
+                  "label": "G★2ネルスキュラの生態研究",
+                  "url": "http://wiki.mhxg.org/ida/286212.html"
+                }
+              ]
+            },
+            {
+              "title": "他のクエスト発生に必要",
+              "text": "G★3妹奮闘記～夜鳥退治～ 【特殊許可】朧隠捕獲依頼G1",
+              "links": [
+                {
+                  "label": "G★3妹奮闘記～夜鳥退治～",
+                  "url": "http://wiki.mhxg.org/ida/299043.html"
+                },
+                {
+                  "label": "【特殊許可】朧隠捕獲依頼G1",
+                  "url": "http://wiki.mhxg.org/ida/299150.html"
+                }
+              ]
+            },
+            {
+              "title": "他の依頼発生に必要",
+              "text": "依頼★酒場の看板娘の依頼(1)",
+              "links": [
+                {
+                  "label": "依頼★酒場の看板娘の依頼(1)",
+                  "url": "http://wiki.mhxg.org/ida/313291.html"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "遺群嶺の緑の女王",
+          "recipeUrl": "http://wiki.mhxg.org/ida/286206.html",
+          "detailTitle": "G★2遺群嶺の緑の女王 | 【MHXX】モンハンダブルクロス攻略レシピ",
+          "icons": [
+            "狩猟",
+            "キー",
+            "フラグ"
+          ],
+          "role": "hunter",
+          "tags": [
+            "key"
+          ],
+          "observations": [
+            {
+              "title": "他のクエスト発生に必要",
+              "text": "G★3遺群嶺の怒れるリオレイア",
+              "links": [
+                {
+                  "label": "G★3遺群嶺の怒れるリオレイア",
+                  "url": "http://wiki.mhxg.org/ida/299036.html"
+                }
+              ]
+            },
+            {
+              "title": "他の依頼発生に必要",
+              "text": "依頼★キャラバンの看板娘の依頼4 依頼★筆頭ランサーの依頼2",
+              "links": [
+                {
+                  "label": "依頼★キャラバンの看板娘の依頼4",
+                  "url": "http://wiki.mhxg.org/ida/306640.html"
+                },
+                {
+                  "label": "依頼★筆頭ランサーの依頼2",
+                  "url": "http://wiki.mhxg.org/ida/306644.html"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "切り裂かれた誇り",
+          "recipeUrl": "http://wiki.mhxg.org/ida/288253.html",
+          "detailTitle": "G★2切り裂かれた誇り | 【MHXX】モンハンダブルクロス攻略レシピ",
+          "icons": [
+            "狩猟",
+            "フラグ"
+          ],
+          "role": "hunter",
+          "tags": [
+            "normal"
+          ],
+          "observations": [
+            {
+              "title": "他のクエスト発生に必要",
+              "text": "G★3鎌蟹は逃げ道を狩る 【特殊許可】鎧裂捕獲依頼G1",
+              "links": [
+                {
+                  "label": "G★3鎌蟹は逃げ道を狩る",
+                  "url": "http://wiki.mhxg.org/ida/299047.html"
+                },
+                {
+                  "label": "【特殊許可】鎧裂捕獲依頼G1",
+                  "url": "http://wiki.mhxg.org/ida/299152.html"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "武具屋のお使い",
+          "recipeUrl": "http://wiki.mhxg.org/ida/288254.html",
+          "detailTitle": "G★2武具屋のお使い | 【MHXX】モンハンダブルクロス攻略レシピ",
+          "icons": [
+            "採集"
+          ],
+          "role": "hunter",
+          "tags": [
+            "normal"
+          ],
+          "observations": []
+        },
+        {
+          "name": "転がれ！転がせ！赤い牙獣",
+          "recipeUrl": "http://wiki.mhxg.org/ida/288255.html",
+          "detailTitle": "G★2転がれ！転がせ！赤い牙獣 | 【MHXX】モンハンダブルクロス攻略レシピ",
+          "icons": [
+            "狩猟"
+          ],
+          "role": "hunter",
+          "tags": [
+            "normal"
+          ],
+          "observations": []
+        },
+        {
+          "name": "二人で特訓、成果は山分け",
+          "recipeUrl": "http://wiki.mhxg.org/ida/286207.html",
+          "detailTitle": "G★2二人で特訓、成果は山分け | 【MHXX】モンハンダブルクロス攻略レシピ",
+          "icons": [
+            "狩猟",
+            "依頼",
+            "狩技",
+            "フラグ"
+          ],
+          "role": "hunter",
+          "tags": [
+            "request"
+          ],
+          "observations": [
+            {
+              "title": "依頼",
+              "text": "[受注] ベルナ村 筆頭ルーキーの依頼2 [依頼出現条件] 依頼★筆頭ルーキーの依頼1G★2泥まみれの商魂！ クリア後",
+              "links": [
+                {
+                  "label": "筆頭ルーキーの依頼2",
+                  "url": "http://wiki.mhxg.org/ida/306641.html"
+                },
+                {
+                  "label": "依頼★筆頭ルーキーの依頼1",
+                  "url": "http://wiki.mhxg.org/ida/243415.html"
+                },
+                {
+                  "label": "G★2泥まみれの商魂！",
+                  "url": "http://wiki.mhxg.org/ida/286190.html"
+                }
+              ]
+            },
+            {
+              "title": "狩技開放",
+              "text": "テンペストアクス LV2 チェインソーサー LV2",
+              "links": [
+                {
+                  "label": "テンペストアクス",
+                  "url": "http://wiki.mhxg.org/data/1847.html#id285560"
+                },
+                {
+                  "label": "チェインソーサー",
+                  "url": "http://wiki.mhxg.org/data/1847.html#id285563"
+                }
+              ]
+            },
+            {
+              "title": "他のクエスト発生に必要",
+              "text": "G★3無茶苦茶ムシャムシャ",
+              "links": [
+                {
+                  "label": "G★3無茶苦茶ムシャムシャ",
+                  "url": "http://wiki.mhxg.org/ida/299037.html"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "砂漠の水面に潜む影",
+          "recipeUrl": "http://wiki.mhxg.org/ida/286208.html",
+          "detailTitle": "G★2砂漠の水面に潜む影 | 【MHXX】モンハンダブルクロス攻略レシピ",
+          "icons": [
+            "狩猟",
+            "キー",
+            "フラグ"
+          ],
+          "role": "hunter",
+          "tags": [
+            "key"
+          ],
+          "observations": [
+            {
+              "title": "他のクエスト発生に必要",
+              "text": "G★3災禍の水竜",
+              "links": [
+                {
+                  "label": "G★3災禍の水竜",
+                  "url": "http://wiki.mhxg.org/ida/299038.html"
+                }
+              ]
+            },
+            {
+              "title": "他の依頼発生に必要",
+              "text": "依頼★キャラバンの看板娘の依頼4 依頼★筆頭ランサーの依頼2",
+              "links": [
+                {
+                  "label": "依頼★キャラバンの看板娘の依頼4",
+                  "url": "http://wiki.mhxg.org/ida/306640.html"
+                },
+                {
+                  "label": "依頼★筆頭ランサーの依頼2",
+                  "url": "http://wiki.mhxg.org/ida/306644.html"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "ババコンガのキノコ品評会",
+          "recipeUrl": "http://wiki.mhxg.org/ida/286209.html",
+          "detailTitle": "G★2ババコンガのキノコ品評会 | 【MHXX】モンハンダブルクロス攻略レシピ",
+          "icons": [
+            "狩猟",
+            "キー",
+            "フラグ"
+          ],
+          "role": "hunter",
+          "tags": [
+            "key"
+          ],
+          "observations": [
+            {
+              "title": "他のクエスト発生に必要",
+              "text": "G★3桃毛獣による新人への洗礼",
+              "links": [
+                {
+                  "label": "G★3桃毛獣による新人への洗礼",
+                  "url": "http://wiki.mhxg.org/ida/299034.html"
+                }
+              ]
+            },
+            {
+              "title": "他の依頼発生に必要",
+              "text": "依頼★キャラバンの看板娘の依頼4 依頼★筆頭ランサーの依頼2",
+              "links": [
+                {
+                  "label": "依頼★キャラバンの看板娘の依頼4",
+                  "url": "http://wiki.mhxg.org/ida/306640.html"
+                },
+                {
+                  "label": "依頼★筆頭ランサーの依頼2",
+                  "url": "http://wiki.mhxg.org/ida/306644.html"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "空の家族・空路を守るッス",
+          "recipeUrl": "http://wiki.mhxg.org/ida/286210.html",
+          "detailTitle": "G★2空の家族・空路を守るッス | 【MHXX】モンハンダブルクロス攻略レシピ",
+          "icons": [
+            "狩猟",
+            "依頼",
+            "狩技",
+            "フラグ"
+          ],
+          "role": "hunter",
+          "tags": [
+            "request"
+          ],
+          "observations": [
+            {
+              "title": "依頼",
+              "text": "[受注] ベルナ村 狩猟船団・赤槍の依頼2 [依頼出現条件] 依頼★狩猟船団・赤槍の依頼1 クリア後G★2解放後",
+              "links": [
+                {
+                  "label": "狩猟船団・赤槍の依頼2",
+                  "url": "http://wiki.mhxg.org/ida/306635.html"
+                },
+                {
+                  "label": "依頼★狩猟船団・赤槍の依頼1",
+                  "url": "http://wiki.mhxg.org/ida/306634.html"
+                }
+              ]
+            },
+            {
+              "title": "狩技開放",
+              "text": "妖刀羅刹 LV2 射突型裂孔弾 LV2",
+              "links": [
+                {
+                  "label": "妖刀羅刹",
+                  "url": "http://wiki.mhxg.org/data/1847.html#id285539"
+                },
+                {
+                  "label": "射突型裂孔弾",
+                  "url": "http://wiki.mhxg.org/data/1847.html#id285572"
+                }
+              ]
+            },
+            {
+              "title": "他のクエスト発生に必要",
+              "text": "G★3遺群嶺の怒れるリオレイア",
+              "links": [
+                {
+                  "label": "G★3遺群嶺の怒れるリオレイア",
+                  "url": "http://wiki.mhxg.org/ida/299036.html"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "密林のナルガクルガと対峙せよ",
+          "recipeUrl": "http://wiki.mhxg.org/ida/286211.html",
+          "detailTitle": "G★2密林のナルガクルガと対峙せよ | 【MHXX】モンハンダブルクロス攻略レシピ",
+          "icons": [
+            "狩猟",
+            "依頼",
+            "狩技",
+            "フラグ"
+          ],
+          "role": "hunter",
+          "tags": [
+            "request"
+          ],
+          "observations": [
+            {
+              "title": "依頼",
+              "text": "[受注] ベルナ村 筆頭リーダーの依頼3 [依頼出現条件] 依頼★筆頭リーダーの依頼2 クリア後G★2泥まみれの商魂！ クリア後",
+              "links": [
+                {
+                  "label": "筆頭リーダーの依頼3",
+                  "url": "http://wiki.mhxg.org/ida/306642.html"
+                },
+                {
+                  "label": "依頼★筆頭リーダーの依頼2",
+                  "url": "http://wiki.mhxg.org/ida/261118.html"
+                },
+                {
+                  "label": "G★2泥まみれの商魂！",
+                  "url": "http://wiki.mhxg.org/ida/286190.html"
+                }
+              ]
+            },
+            {
+              "title": "狩技開放",
+              "text": "混沌の刃薬 LV2 ラセンザン LV2",
+              "links": [
+                {
+                  "label": "混沌の刃薬",
+                  "url": "http://wiki.mhxg.org/data/1847.html#id285542"
+                },
+                {
+                  "label": "ラセンザン",
+                  "url": "http://wiki.mhxg.org/data/1847.html#id285545"
+                }
+              ]
+            },
+            {
+              "title": "他のクエスト発生に必要",
+              "text": "G★3古代林で目撃された迅竜の報告 【特殊許可】白疾風捕獲依頼G1",
+              "links": [
+                {
+                  "label": "G★3古代林で目撃された迅竜の報告",
+                  "url": "http://wiki.mhxg.org/ida/299044.html"
+                },
+                {
+                  "label": "【特殊許可】白疾風捕獲依頼G1",
+                  "url": "http://wiki.mhxg.org/ida/299146.html"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "ゆらめく光はまぶしくて",
+          "recipeUrl": "http://wiki.mhxg.org/ida/288256.html",
+          "detailTitle": "G★2ゆらめく光はまぶしくて | 【MHXX】モンハンダブルクロス攻略レシピ",
+          "icons": [
+            "討伐"
+          ],
+          "role": "hunter",
+          "tags": [
+            "normal"
+          ],
+          "observations": []
+        },
+        {
+          "name": "貝殻に思いをのせて",
+          "recipeUrl": "http://wiki.mhxg.org/ida/288257.html",
+          "detailTitle": "G★2貝殻に思いをのせて | 【MHXX】モンハンダブルクロス攻略レシピ",
+          "icons": [
+            "採集"
+          ],
+          "role": "hunter",
+          "tags": [
+            "normal"
+          ],
+          "observations": []
+        },
+        {
+          "name": "女王、降臨す",
+          "recipeUrl": "http://wiki.mhxg.org/ida/288258.html",
+          "detailTitle": "G★2女王、降臨す | 【MHXX】モンハンダブルクロス攻略レシピ",
+          "icons": [
+            "狩猟",
+            "フラグ"
+          ],
+          "role": "hunter",
+          "tags": [
+            "normal"
+          ],
+          "observations": [
+            {
+              "title": "他のクエスト発生に必要",
+              "text": "G★3遺群嶺の怒れるリオレイア",
+              "links": [
+                {
+                  "label": "G★3遺群嶺の怒れるリオレイア",
+                  "url": "http://wiki.mhxg.org/ida/299036.html"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "ネルスキュラの生態研究",
+          "recipeUrl": "http://wiki.mhxg.org/ida/286212.html",
+          "detailTitle": "G★2ネルスキュラの生態研究 | 【MHXX】モンハンダブルクロス攻略レシピ",
+          "icons": [
+            "狩猟",
+            "キー",
+            "フラグ"
+          ],
+          "role": "hunter",
+          "tags": [
+            "key"
+          ],
+          "observations": [
+            {
+              "title": "他のクエスト発生に必要",
+              "text": "G★2遺群嶺のトレジャー！米の巻 G★2グルグルするらしいです G★2子分の自覚が足りないっチャ！ G★3先生の鬼門は獰猛な影蜘蛛",
+              "links": [
+                {
+                  "label": "G★2遺群嶺のトレジャー！米の巻",
+                  "url": "http://wiki.mhxg.org/ida/286205.html"
+                },
+                {
+                  "label": "G★2グルグルするらしいです",
+                  "url": "http://wiki.mhxg.org/ida/288265.html"
+                },
+                {
+                  "label": "G★2子分の自覚が足りないっチャ！",
+                  "url": "http://wiki.mhxg.org/ida/288279.html"
+                },
+                {
+                  "label": "G★3先生の鬼門は獰猛な影蜘蛛",
+                  "url": "http://wiki.mhxg.org/ida/299039.html"
+                }
+              ]
+            },
+            {
+              "title": "他の依頼発生に必要",
+              "text": "依頼★キャラバンの看板娘の依頼4 依頼★筆頭ランサーの依頼2 依頼★トレジィの依頼4 依頼★チャチャの依頼4 依頼★ユクモ村の受付嬢の依頼2",
+              "links": [
+                {
+                  "label": "依頼★キャラバンの看板娘の依頼4",
+                  "url": "http://wiki.mhxg.org/ida/306640.html"
+                },
+                {
+                  "label": "依頼★筆頭ランサーの依頼2",
+                  "url": "http://wiki.mhxg.org/ida/306644.html"
+                },
+                {
+                  "label": "依頼★トレジィの依頼4",
+                  "url": "http://wiki.mhxg.org/ida/306646.html"
+                },
+                {
+                  "label": "依頼★チャチャの依頼4",
+                  "url": "http://wiki.mhxg.org/ida/306657.html"
+                },
+                {
+                  "label": "依頼★ユクモ村の受付嬢の依頼2",
+                  "url": "http://wiki.mhxg.org/ida/306658.html"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "原生林は毒色に染まる",
+          "recipeUrl": "http://wiki.mhxg.org/ida/288259.html",
+          "detailTitle": "G★2原生林は毒色に染まる | 【MHXX】モンハンダブルクロス攻略レシピ",
+          "icons": [
+            "討伐"
+          ],
+          "role": "hunter",
+          "tags": [
+            "normal"
+          ],
+          "observations": []
+        },
+        {
+          "name": "閃きへの1ピースを求めて",
+          "recipeUrl": "http://wiki.mhxg.org/ida/288260.html",
+          "detailTitle": "G★2閃きへの1ピースを求めて | 【MHXX】モンハンダブルクロス攻略レシピ",
+          "icons": [
+            "狩猟",
+            "依頼",
+            "狩技",
+            "フラグ"
+          ],
+          "role": "hunter",
+          "tags": [
+            "request"
+          ],
+          "observations": [
+            {
+              "title": "依頼",
+              "text": "[受注] ココット村 休息中のハンターの依頼 [依頼出現条件] G★2泥まみれの商魂！ クリア後",
+              "links": [
+                {
+                  "label": "休息中のハンターの依頼",
+                  "url": "http://wiki.mhxg.org/ida/306651.html"
+                },
+                {
+                  "label": "G★2泥まみれの商魂！",
+                  "url": "http://wiki.mhxg.org/ida/286190.html"
+                }
+              ]
+            },
+            {
+              "title": "狩技開放",
+              "text": "チャージショット LV2 身躱し射法 LV2",
+              "links": [
+                {
+                  "label": "チャージショット",
+                  "url": "http://wiki.mhxg.org/data/1847.html#id285569"
+                },
+                {
+                  "label": "身躱し射法",
+                  "url": "http://wiki.mhxg.org/data/1847.html#id285575"
+                }
+              ]
+            },
+            {
+              "title": "他のクエスト発生に必要",
+              "text": "G★3シャークブリザード",
+              "links": [
+                {
+                  "label": "G★3シャークブリザード",
+                  "url": "http://wiki.mhxg.org/ida/299041.html"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "強暴なる矢尻たち",
+          "recipeUrl": "http://wiki.mhxg.org/ida/288261.html",
+          "detailTitle": "G★2強暴なる矢尻たち | 【MHXX】モンハンダブルクロス攻略レシピ",
+          "icons": [
+            "討伐"
+          ],
+          "role": "hunter",
+          "tags": [
+            "normal"
+          ],
+          "observations": []
+        },
+        {
+          "name": "たまには釣りでもいかが？",
+          "recipeUrl": "http://wiki.mhxg.org/ida/288262.html",
+          "detailTitle": "G★2たまには釣りでもいかが？ | 【MHXX】モンハンダブルクロス攻略レシピ",
+          "icons": [
+            "採集"
+          ],
+          "role": "hunter",
+          "tags": [
+            "normal"
+          ],
+          "observations": []
+        },
+        {
+          "name": "転んで跳ねて七転八倒",
+          "recipeUrl": "http://wiki.mhxg.org/ida/286213.html",
+          "detailTitle": "G★2転んで跳ねて七転八倒 | 【MHXX】モンハンダブルクロス攻略レシピ",
+          "icons": [
+            "狩猟",
+            "キー",
+            "フラグ"
+          ],
+          "role": "hunter",
+          "tags": [
+            "key"
+          ],
+          "observations": [
+            {
+              "title": "他の依頼発生に必要",
+              "text": "依頼★キャラバンの看板娘の依頼4 依頼★筆頭ランサーの依頼2",
+              "links": [
+                {
+                  "label": "依頼★キャラバンの看板娘の依頼4",
+                  "url": "http://wiki.mhxg.org/ida/306640.html"
+                },
+                {
+                  "label": "依頼★筆頭ランサーの依頼2",
+                  "url": "http://wiki.mhxg.org/ida/306644.html"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "土砂竜・ボルボロス！",
+          "recipeUrl": "http://wiki.mhxg.org/ida/288263.html",
+          "detailTitle": "G★2土砂竜・ボルボロス！ | 【MHXX】モンハンダブルクロス攻略レシピ",
+          "icons": [
+            "捕獲",
+            "フラグ"
+          ],
+          "role": "hunter",
+          "tags": [
+            "normal"
+          ],
+          "observations": [
+            {
+              "title": "他のクエスト発生に必要",
+              "text": "G★3旧砂漠のすばらしい砂",
+              "links": [
+                {
+                  "label": "G★3旧砂漠のすばらしい砂",
+                  "url": "http://wiki.mhxg.org/ida/299045.html"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "砂漠の積荷は誰の物？",
+          "recipeUrl": "http://wiki.mhxg.org/ida/288264.html",
+          "detailTitle": "G★2砂漠の積荷は誰の物？ | 【MHXX】モンハンダブルクロス攻略レシピ",
+          "icons": [
+            "狩猟",
+            "フラグ"
+          ],
+          "role": "hunter",
+          "tags": [
+            "normal"
+          ],
+          "observations": [
+            {
+              "title": "他のクエスト発生に必要",
+              "text": "G★3無茶苦茶ムシャムシャ",
+              "links": [
+                {
+                  "label": "G★3無茶苦茶ムシャムシャ",
+                  "url": "http://wiki.mhxg.org/ida/299037.html"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "グルグルするらしいです",
+          "recipeUrl": "http://wiki.mhxg.org/ida/288265.html",
+          "detailTitle": "G★2グルグルするらしいです | 【MHXX】モンハンダブルクロス攻略レシピ",
+          "icons": [
+            "狩猟",
+            "依頼",
+            "武具",
+            "フラグ"
+          ],
+          "role": "hunter",
+          "tags": [
+            "request"
+          ],
+          "observations": [
+            {
+              "title": "備考",
+              "text": "G★2ネルスキュラの生態研究 クリア後",
+              "links": [
+                {
+                  "label": "G★2ネルスキュラの生態研究",
+                  "url": "http://wiki.mhxg.org/ida/286212.html"
+                }
+              ]
+            },
+            {
+              "title": "依頼",
+              "text": "[受注] ユクモ村 ユクモ村の受付嬢の依頼2 [依頼出現条件] 依頼★ユクモ村の看板娘の依頼2 クリア後G★2ネルスキュラの生態研究 クリア後 装備開放(製法) 撫子・雅/桔梗・雅シリーズ オトモ装備開放 ニャでしこ雅【布冠】ニャでしこ雅【花衣】",
+              "links": [
+                {
+                  "label": "ユクモ村の受付嬢の依頼2",
+                  "url": "http://wiki.mhxg.org/ida/306658.html"
+                },
+                {
+                  "label": "依頼★ユクモ村の看板娘の依頼2",
+                  "url": "http://wiki.mhxg.org/ida/306659.html"
+                },
+                {
+                  "label": "G★2ネルスキュラの生態研究",
+                  "url": "http://wiki.mhxg.org/ida/286212.html"
+                },
+                {
+                  "label": "撫子・雅/桔梗・雅シリーズ",
+                  "url": "http://wiki.mhxg.org/ida/290545.html"
+                },
+                {
+                  "label": "ニャでしこ雅【布冠】",
+                  "url": "http://wiki.mhxg.org/ida/322089.html"
+                },
+                {
+                  "label": "ニャでしこ雅【花衣】",
+                  "url": "http://wiki.mhxg.org/ida/322090.html"
+                }
+              ]
+            },
+            {
+              "title": "他のクエスト発生に必要",
+              "text": "G★3絞蛇竜の消化能力について",
+              "links": [
+                {
+                  "label": "G★3絞蛇竜の消化能力について",
+                  "url": "http://wiki.mhxg.org/ida/299040.html"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "身体の芯までビッリビリ",
+          "recipeUrl": "http://wiki.mhxg.org/ida/288266.html",
+          "detailTitle": "G★2身体の芯までビッリビリ | 【MHXX】モンハンダブルクロス攻略レシピ",
+          "icons": [
+            "狩猟",
+            "依頼",
+            "武具",
+            "フラグ"
+          ],
+          "role": "hunter",
+          "tags": [
+            "request"
+          ],
+          "observations": [
+            {
+              "title": "備考",
+              "text": "G★2おのずと岩は動き出す クリア後",
+              "links": [
+                {
+                  "label": "G★2おのずと岩は動き出す",
+                  "url": "http://wiki.mhxg.org/ida/286214.html"
+                }
+              ]
+            },
+            {
+              "title": "依頼",
+              "text": "[受注] ユクモ村 集会浴場の番台さんの依頼4 [依頼出現条件] 依頼★集会浴場の番台さんの依頼3 クリア後G★2おのずと岩は動き出す クリア後 装備開放(製法) 最高級ユアミシリーズ",
+              "links": [
+                {
+                  "label": "集会浴場の番台さんの依頼4",
+                  "url": "http://wiki.mhxg.org/ida/306664.html"
+                },
+                {
+                  "label": "依頼★集会浴場の番台さんの依頼3",
+                  "url": "http://wiki.mhxg.org/ida/261138.html"
+                },
+                {
+                  "label": "G★2おのずと岩は動き出す",
+                  "url": "http://wiki.mhxg.org/ida/286214.html"
+                },
+                {
+                  "label": "最高級ユアミシリーズ",
+                  "url": "http://wiki.mhxg.org/ida/290544.html"
+                }
+              ]
+            },
+            {
+              "title": "他のクエスト発生に必要",
+              "text": "G★3氷海の恐怖体験",
+              "links": [
+                {
+                  "label": "G★3氷海の恐怖体験",
+                  "url": "http://wiki.mhxg.org/ida/299042.html"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "……欲するならば資格を示して",
+          "recipeUrl": "http://wiki.mhxg.org/ida/288267.html",
+          "detailTitle": "G★2……欲するならば資格を示して | 【MHXX】モンハンダブルクロス攻略レシピ",
+          "icons": [
+            "狩猟",
+            "依頼",
+            "狩技",
+            "フラグ"
+          ],
+          "role": "hunter",
+          "tags": [
+            "request"
+          ],
+          "observations": [
+            {
+              "title": "依頼",
+              "text": "[受注] ベルナ村 タンジアの銅鑼担当の依頼2 [依頼出現条件] 依頼★タンジアの銅鑼担当の依頼1 クリア後G★2解放後",
+              "links": [
+                {
+                  "label": "タンジアの銅鑼担当の依頼2",
+                  "url": "http://wiki.mhxg.org/ida/306637.html"
+                },
+                {
+                  "label": "依頼★タンジアの銅鑼担当の依頼1",
+                  "url": "http://wiki.mhxg.org/ida/306636.html"
+                }
+              ]
+            },
+            {
+              "title": "狩技開放",
+              "text": "インパクトプルス LV2 アニマートハイ LV2",
+              "links": [
+                {
+                  "label": "インパクトプルス",
+                  "url": "http://wiki.mhxg.org/data/1847.html#id285548"
+                },
+                {
+                  "label": "アニマートハイ",
+                  "url": "http://wiki.mhxg.org/data/1847.html#id285551"
+                }
+              ]
+            },
+            {
+              "title": "他のクエスト発生に必要",
+              "text": "G★3雪崩を呼ぶ遠吠え",
+              "links": [
+                {
+                  "label": "G★3雪崩を呼ぶ遠吠え",
+                  "url": "http://wiki.mhxg.org/ida/299046.html"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "ドドブランゴは2頭いる",
+          "recipeUrl": "http://wiki.mhxg.org/ida/288268.html",
+          "detailTitle": "G★2ドドブランゴは2頭いる | 【MHXX】モンハンダブルクロス攻略レシピ",
+          "icons": [
+            "狩猟",
+            "フラグ"
+          ],
+          "role": "hunter",
+          "tags": [
+            "normal"
+          ],
+          "observations": [
+            {
+              "title": "他のクエスト発生に必要",
+              "text": "G★3雪崩を呼ぶ遠吠え",
+              "links": [
+                {
+                  "label": "G★3雪崩を呼ぶ遠吠え",
+                  "url": "http://wiki.mhxg.org/ida/299046.html"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "チコ村を脅かす水竜を狩れ！",
+          "recipeUrl": "http://wiki.mhxg.org/ida/288269.html",
+          "detailTitle": "G★2チコ村を脅かす水竜を狩れ！ | 【MHXX】モンハンダブルクロス攻略レシピ",
+          "icons": [
+            "狩猟",
+            "依頼",
+            "食材",
+            "フラグ"
+          ],
+          "role": "hunter",
+          "tags": [
+            "request"
+          ],
+          "observations": [
+            {
+              "title": "依頼",
+              "text": "[受注] ココット村 キャラバンの料理長の依頼3 [依頼出現条件] 依頼★キャラバンの料理長の依頼1 クリア後G★2泥まみれの商魂！ クリア後 食材 天然チコフグ",
+              "links": [
+                {
+                  "label": "キャラバンの料理長の依頼3",
+                  "url": "http://wiki.mhxg.org/ida/306649.html"
+                },
+                {
+                  "label": "依頼★キャラバンの料理長の依頼1",
+                  "url": "http://wiki.mhxg.org/ida/243427.html"
+                },
+                {
+                  "label": "G★2泥まみれの商魂！",
+                  "url": "http://wiki.mhxg.org/ida/286190.html"
+                }
+              ]
+            },
+            {
+              "title": "他のクエスト発生に必要",
+              "text": "G★3災禍の水竜",
+              "links": [
+                {
+                  "label": "G★3災禍の水竜",
+                  "url": "http://wiki.mhxg.org/ida/299038.html"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "漆黒の影",
+          "recipeUrl": "http://wiki.mhxg.org/ida/288270.html",
+          "detailTitle": "G★2漆黒の影 | 【MHXX】モンハンダブルクロス攻略レシピ",
+          "icons": [
+            "狩猟",
+            "フラグ"
+          ],
+          "role": "hunter",
+          "tags": [
+            "normal"
+          ],
+          "observations": [
+            {
+              "title": "他のクエスト発生に必要",
+              "text": "G★3古代林で目撃された迅竜の報告 【特殊許可】白疾風捕獲依頼G1",
+              "links": [
+                {
+                  "label": "G★3古代林で目撃された迅竜の報告",
+                  "url": "http://wiki.mhxg.org/ida/299044.html"
+                },
+                {
+                  "label": "【特殊許可】白疾風捕獲依頼G1",
+                  "url": "http://wiki.mhxg.org/ida/299146.html"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "夜鳥のじけん",
+          "recipeUrl": "http://wiki.mhxg.org/ida/288271.html",
+          "detailTitle": "G★2夜鳥のじけん | 【MHXX】モンハンダブルクロス攻略レシピ",
+          "icons": [
+            "狩猟",
+            "フラグ"
+          ],
+          "role": "hunter",
+          "tags": [
+            "normal"
+          ],
+          "observations": [
+            {
+              "title": "他のクエスト発生に必要",
+              "text": "G★3妹奮闘記～夜鳥退治～ 【特殊許可】朧隠捕獲依頼G1",
+              "links": [
+                {
+                  "label": "G★3妹奮闘記～夜鳥退治～",
+                  "url": "http://wiki.mhxg.org/ida/299043.html"
+                },
+                {
+                  "label": "【特殊許可】朧隠捕獲依頼G1",
+                  "url": "http://wiki.mhxg.org/ida/299150.html"
+                }
+              ]
+            },
+            {
+              "title": "他の依頼発生に必要",
+              "text": "依頼★酒場の看板娘の依頼(1)",
+              "links": [
+                {
+                  "label": "依頼★酒場の看板娘の依頼(1)",
+                  "url": "http://wiki.mhxg.org/ida/313291.html"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "おのずと岩は動き出す",
+          "recipeUrl": "http://wiki.mhxg.org/ida/286214.html",
+          "detailTitle": "G★2おのずと岩は動き出す | 【MHXX】モンハンダブルクロス攻略レシピ",
+          "icons": [
+            "狩猟",
+            "キー",
+            "フラグ"
+          ],
+          "role": "hunter",
+          "tags": [
+            "key"
+          ],
+          "observations": [
+            {
+              "title": "他のクエスト発生に必要",
+              "text": "G★2身体の芯までビッリビリ G★2ぶつけろ生き様☆アフロソウル G★3遺群嶺の楽しい旅",
+              "links": [
+                {
+                  "label": "G★2身体の芯までビッリビリ",
+                  "url": "http://wiki.mhxg.org/ida/288266.html"
+                },
+                {
+                  "label": "G★2ぶつけろ生き様☆アフロソウル",
+                  "url": "http://wiki.mhxg.org/ida/288276.html"
+                },
+                {
+                  "label": "G★3遺群嶺の楽しい旅",
+                  "url": "http://wiki.mhxg.org/ida/299035.html"
+                }
+              ]
+            },
+            {
+              "title": "他の依頼発生に必要",
+              "text": "依頼★キャラバンの看板娘の依頼4 依頼★筆頭ランサーの依頼2 依頼★ココット村の受付嬢の依頼2 依頼★カリスマ美容師ネコの依頼2 依頼★集会浴場の番台さんの依頼4",
+              "links": [
+                {
+                  "label": "依頼★キャラバンの看板娘の依頼4",
+                  "url": "http://wiki.mhxg.org/ida/306640.html"
+                },
+                {
+                  "label": "依頼★筆頭ランサーの依頼2",
+                  "url": "http://wiki.mhxg.org/ida/306644.html"
+                },
+                {
+                  "label": "依頼★ココット村の受付嬢の依頼2",
+                  "url": "http://wiki.mhxg.org/ida/306645.html"
+                },
+                {
+                  "label": "依頼★カリスマ美容師ネコの依頼2",
+                  "url": "http://wiki.mhxg.org/ida/306655.html"
+                },
+                {
+                  "label": "依頼★集会浴場の番台さんの依頼4",
+                  "url": "http://wiki.mhxg.org/ida/306664.html"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "洞窟に潜む影",
+          "recipeUrl": "http://wiki.mhxg.org/ida/288272.html",
+          "detailTitle": "G★2洞窟に潜む影 | 【MHXX】モンハンダブルクロス攻略レシピ",
+          "icons": [
+            "狩猟",
+            "フラグ"
+          ],
+          "role": "hunter",
+          "tags": [
+            "normal"
+          ],
+          "observations": [
+            {
+              "title": "他のクエスト発生に必要",
+              "text": "G★3氷海の恐怖体験",
+              "links": [
+                {
+                  "label": "G★3氷海の恐怖体験",
+                  "url": "http://wiki.mhxg.org/ida/299042.html"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "陰湿毒沼の狂想曲",
+          "recipeUrl": "http://wiki.mhxg.org/ida/288273.html",
+          "detailTitle": "G★2陰湿毒沼の狂想曲 | 【MHXX】モンハンダブルクロス攻略レシピ",
+          "icons": [
+            "狩猟",
+            "フラグ"
+          ],
+          "role": "hunter",
+          "tags": [
+            "normal"
+          ],
+          "observations": [
+            {
+              "title": "他のクエスト発生に必要",
+              "text": "G★3絞蛇竜の消化能力について",
+              "links": [
+                {
+                  "label": "G★3絞蛇竜の消化能力について",
+                  "url": "http://wiki.mhxg.org/ida/299040.html"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "割り込み受注：2頭の桃毛獣",
+          "recipeUrl": "http://wiki.mhxg.org/ida/288274.html",
+          "detailTitle": "G★2割り込み受注：2頭の桃毛獣 | 【MHXX】モンハンダブルクロス攻略レシピ",
+          "icons": [
+            "狩猟",
+            "依頼",
+            "フラグ"
+          ],
+          "role": "hunter",
+          "tags": [
+            "request"
+          ],
+          "observations": [
+            {
+              "title": "依頼",
+              "text": "[受注] ココット村 ミナガルデの看板娘の依頼3 [依頼出現条件] 依頼★ココット村の受付嬢の依頼2 クリア後G★2泥まみれの商魂！ クリア後",
+              "links": [
+                {
+                  "label": "ミナガルデの看板娘の依頼3",
+                  "url": "http://wiki.mhxg.org/ida/306653.html"
+                },
+                {
+                  "label": "依頼★ココット村の受付嬢の依頼2",
+                  "url": "http://wiki.mhxg.org/ida/306645.html"
+                },
+                {
+                  "label": "G★2泥まみれの商魂！",
+                  "url": "http://wiki.mhxg.org/ida/286190.html"
+                }
+              ]
+            },
+            {
+              "title": "他のクエスト発生に必要",
+              "text": "G★3桃毛獣による新人への洗礼",
+              "links": [
+                {
+                  "label": "G★3桃毛獣による新人への洗礼",
+                  "url": "http://wiki.mhxg.org/ida/299034.html"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "依頼委託：火山の岩竜",
+          "recipeUrl": "http://wiki.mhxg.org/ida/288275.html",
+          "detailTitle": "G★2依頼委託：火山の岩竜 | 【MHXX】モンハンダブルクロス攻略レシピ",
+          "icons": [
+            "狩猟",
+            "依頼",
+            "狩技",
+            "フラグ"
+          ],
+          "role": "hunter",
+          "tags": [
+            "request"
+          ],
+          "observations": [
+            {
+              "title": "依頼",
+              "text": "[受注] ベルナ村 筆頭ランサーの依頼1 [依頼出現条件] G★2泥まみれの商魂！ クリア後",
+              "links": [
+                {
+                  "label": "筆頭ランサーの依頼1",
+                  "url": "http://wiki.mhxg.org/ida/306643.html"
+                },
+                {
+                  "label": "G★2泥まみれの商魂！",
+                  "url": "http://wiki.mhxg.org/ida/286190.html"
+                }
+              ]
+            },
+            {
+              "title": "狩技開放",
+              "text": "治癒の盾 LV2 AAフレア LV2",
+              "links": [
+                {
+                  "label": "治癒の盾",
+                  "url": "http://wiki.mhxg.org/data/1847.html#id285554"
+                },
+                {
+                  "label": "AAフレア",
+                  "url": "http://wiki.mhxg.org/data/1847.html#id285557"
+                }
+              ]
+            },
+            {
+              "title": "他のクエスト発生に必要",
+              "text": "G★3遺群嶺の楽しい旅",
+              "links": [
+                {
+                  "label": "G★3遺群嶺の楽しい旅",
+                  "url": "http://wiki.mhxg.org/ida/299035.html"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "ぶつけろ生き様☆アフロソウル",
+          "recipeUrl": "http://wiki.mhxg.org/ida/288276.html",
+          "detailTitle": "G★2ぶつけろ生き様☆アフロソウル | 【MHXX】モンハンダブルクロス攻略レシピ",
+          "icons": [
+            "狩猟",
+            "依頼",
+            "施設",
+            "フラグ"
+          ],
+          "role": "hunter",
+          "tags": [
+            "request"
+          ],
+          "observations": [
+            {
+              "title": "備考",
+              "text": "G★2おのずと岩は動き出す クリア後",
+              "links": [
+                {
+                  "label": "G★2おのずと岩は動き出す",
+                  "url": "http://wiki.mhxg.org/ida/286214.html"
+                }
+              ]
+            },
+            {
+              "title": "依頼",
+              "text": "[受注] ポッケ村 カリスマ美容師ネコの依頼2 [依頼出現条件] 依頼★カリスマ美容師ネコの依頼1 クリア後G★2おのずと岩は動き出す クリア後 施設・その他 ルームサービス変更可能",
+              "links": [
+                {
+                  "label": "カリスマ美容師ネコの依頼2",
+                  "url": "http://wiki.mhxg.org/ida/306655.html"
+                },
+                {
+                  "label": "依頼★カリスマ美容師ネコの依頼1",
+                  "url": "http://wiki.mhxg.org/ida/243448.html"
+                },
+                {
+                  "label": "G★2おのずと岩は動き出す",
+                  "url": "http://wiki.mhxg.org/ida/286214.html"
+                }
+              ]
+            },
+            {
+              "title": "他のクエスト発生に必要",
+              "text": "G★3鉱山哀歌",
+              "links": [
+                {
+                  "label": "G★3鉱山哀歌",
+                  "url": "http://wiki.mhxg.org/ida/299048.html"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "鎌蟹の狩猟をさせてやるぜ！",
+          "recipeUrl": "http://wiki.mhxg.org/ida/288277.html",
+          "detailTitle": "G★2鎌蟹の狩猟をさせてやるぜ！ | 【MHXX】モンハンダブルクロス攻略レシピ",
+          "icons": [
+            "狩猟",
+            "依頼",
+            "狩技",
+            "フラグ"
+          ],
+          "role": "hunter",
+          "tags": [
+            "request"
+          ],
+          "observations": [
+            {
+              "title": "依頼",
+              "text": "[受注] ココット村 ヘルブラザーズ・赤鬼の依頼3 [依頼出現条件] 依頼★ヘルブラザーズ・赤鬼の依頼2 クリア後G★2解放後",
+              "links": [
+                {
+                  "label": "ヘルブラザーズ・赤鬼の依頼3",
+                  "url": "http://wiki.mhxg.org/ida/313302.html"
+                },
+                {
+                  "label": "依頼★ヘルブラザーズ・赤鬼の依頼2",
+                  "url": "http://wiki.mhxg.org/ida/306654.html"
+                }
+              ]
+            },
+            {
+              "title": "狩技開放",
+              "text": "ムーンブレイク LV2 覚蟲強化 LV2",
+              "links": [
+                {
+                  "label": "ムーンブレイク",
+                  "url": "http://wiki.mhxg.org/data/1847.html#id285536"
+                },
+                {
+                  "label": "覚蟲強化",
+                  "url": "http://wiki.mhxg.org/data/1847.html#id285566"
+                }
+              ]
+            },
+            {
+              "title": "他のクエスト発生に必要",
+              "text": "G★3鎌蟹は逃げ道を狩る 【特殊許可】鎧裂捕獲依頼G1",
+              "links": [
+                {
+                  "label": "G★3鎌蟹は逃げ道を狩る",
+                  "url": "http://wiki.mhxg.org/ida/299047.html"
+                },
+                {
+                  "label": "【特殊許可】鎧裂捕獲依頼G1",
+                  "url": "http://wiki.mhxg.org/ida/299152.html"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "大鉱脈、発見さる！",
+          "recipeUrl": "http://wiki.mhxg.org/ida/288278.html",
+          "detailTitle": "G★2大鉱脈、発見さる！ | 【MHXX】モンハンダブルクロス攻略レシピ",
+          "icons": [
+            "採集"
+          ],
+          "role": "hunter",
+          "tags": [
+            "normal"
+          ],
+          "observations": []
+        },
+        {
+          "name": "子分の自覚が足りないっチャ！",
+          "recipeUrl": "http://wiki.mhxg.org/ida/288279.html",
+          "detailTitle": "G★2子分の自覚が足りないっチャ！ | 【MHXX】モンハンダブルクロス攻略レシピ",
+          "icons": [
+            "連続狩猟",
+            "依頼",
+            "武具"
+          ],
+          "role": "hunter",
+          "tags": [
+            "request"
+          ],
+          "observations": [
+            {
+              "title": "備考",
+              "text": "G★2ネルスキュラの生態研究 クリア後",
+              "links": [
+                {
+                  "label": "G★2ネルスキュラの生態研究",
+                  "url": "http://wiki.mhxg.org/ida/286212.html"
+                }
+              ]
+            },
+            {
+              "title": "依頼",
+              "text": "[受注] ポッケ村 チャチャの依頼4 [依頼出現条件] 依頼★チャチャの依頼3 クリア後G★2ネルスキュラの生態研究 クリア後 オトモ装備開放 大怪鳥のクックックどんぐりの奇面オレチャマの天晴れ着巨大猪のドッドッドカニ爪の奇面ワガハイのナイス大蓑",
+              "links": [
+                {
+                  "label": "チャチャの依頼4",
+                  "url": "http://wiki.mhxg.org/ida/306657.html"
+                },
+                {
+                  "label": "依頼★チャチャの依頼3",
+                  "url": "http://wiki.mhxg.org/ida/265177.html"
+                },
+                {
+                  "label": "G★2ネルスキュラの生態研究",
+                  "url": "http://wiki.mhxg.org/ida/286212.html"
+                },
+                {
+                  "label": "大怪鳥のクックック",
+                  "url": "http://wiki.mhxg.org/ida/321730.html"
+                },
+                {
+                  "label": "どんぐりの奇面",
+                  "url": "http://wiki.mhxg.org/ida/322093.html"
+                },
+                {
+                  "label": "オレチャマの天晴れ着",
+                  "url": "http://wiki.mhxg.org/ida/322094.html"
+                },
+                {
+                  "label": "巨大猪のドッドッド",
+                  "url": "http://wiki.mhxg.org/ida/321731.html"
+                },
+                {
+                  "label": "カニ爪の奇面",
+                  "url": "http://wiki.mhxg.org/ida/322095.html"
+                },
+                {
+                  "label": "ワガハイのナイス大蓑",
+                  "url": "http://wiki.mhxg.org/ida/322096.html"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "超☆メモ帳～獰猛化盾蟹編～",
+          "recipeUrl": "http://wiki.mhxg.org/ida/288280.html",
+          "detailTitle": "G★2超☆メモ帳～獰猛化盾蟹編～ | 【MHXX】モンハンダブルクロス攻略レシピ",
+          "icons": [
+            "狩猟",
+            "依頼",
+            "武具"
+          ],
+          "role": "hunter",
+          "tags": [
+            "request"
+          ],
+          "observations": [
+            {
+              "title": "備考",
+              "text": "G★2キークエとG★1アツアツ砂漠の盾蟹狩猟またはG★1砂中からのサプライズ クリア後",
+              "links": [
+                {
+                  "label": "G★1アツアツ砂漠の盾蟹狩猟",
+                  "url": "http://wiki.mhxg.org/ida/286180.html"
+                },
+                {
+                  "label": "G★1砂中からのサプライズ",
+                  "url": "http://wiki.mhxg.org/ida/285791.html"
+                }
+              ]
+            },
+            {
+              "title": "依頼",
+              "text": "[受注] ベルナ村 キャラバンの看板娘の依頼4 [依頼出現条件] 依頼★キャラバンの看板娘の依頼3G★1アツアツ砂漠の盾蟹狩猟G★2遺群嶺の緑の女王G★2砂漠の水面に潜む影G★2ババコンガのキノコ品評会G★2ネルスキュラの生態研究G★2転んで跳ねて七転八倒G★2おのずと岩は動き出す クリア後 装備開放(製法) エコールＸシリーズ オトモ装備開放 エコールＸネコフードエコールＸネコスーツ",
+              "links": [
+                {
+                  "label": "キャラバンの看板娘の依頼4",
+                  "url": "http://wiki.mhxg.org/ida/306640.html"
+                },
+                {
+                  "label": "依頼★キャラバンの看板娘の依頼3",
+                  "url": "http://wiki.mhxg.org/ida/261116.html"
+                },
+                {
+                  "label": "G★1アツアツ砂漠の盾蟹狩猟",
+                  "url": "http://wiki.mhxg.org/ida/286180.html"
+                },
+                {
+                  "label": "G★2遺群嶺の緑の女王",
+                  "url": "http://wiki.mhxg.org/ida/286206.html"
+                },
+                {
+                  "label": "G★2砂漠の水面に潜む影",
+                  "url": "http://wiki.mhxg.org/ida/286208.html"
+                },
+                {
+                  "label": "G★2ババコンガのキノコ品評会",
+                  "url": "http://wiki.mhxg.org/ida/286209.html"
+                },
+                {
+                  "label": "G★2ネルスキュラの生態研究",
+                  "url": "http://wiki.mhxg.org/ida/286212.html"
+                },
+                {
+                  "label": "G★2転んで跳ねて七転八倒",
+                  "url": "http://wiki.mhxg.org/ida/286213.html"
+                },
+                {
+                  "label": "G★2おのずと岩は動き出す",
+                  "url": "http://wiki.mhxg.org/ida/286214.html"
+                },
+                {
+                  "label": "エコールＸシリーズ",
+                  "url": "http://wiki.mhxg.org/ida/290494.html"
+                },
+                {
+                  "label": "エコールＸネコフード",
+                  "url": "http://wiki.mhxg.org/ida/322097.html"
+                },
+                {
+                  "label": "エコールＸネコスーツ",
+                  "url": "http://wiki.mhxg.org/ida/322098.html"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "逆襲の怪鳥",
+          "recipeUrl": "http://wiki.mhxg.org/ida/288281.html",
+          "detailTitle": "G★2逆襲の怪鳥 | 【MHXX】モンハンダブルクロス攻略レシピ",
+          "icons": [
+            "狩猟"
+          ],
+          "role": "hunter",
+          "tags": [
+            "normal"
+          ],
+          "observations": [
+            {
+              "title": "備考",
+              "text": "G★2キークエとG★1つつかれて、またつつかれてまたはG★1森丘の迷惑な怪鳥さん クリア後",
+              "links": [
+                {
+                  "label": "G★1つつかれて、またつつかれて",
+                  "url": "http://wiki.mhxg.org/ida/286174.html"
+                },
+                {
+                  "label": "G★1森丘の迷惑な怪鳥さん",
+                  "url": "http://wiki.mhxg.org/ida/285792.html"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "調査委託：獰猛な奇猿狐",
+          "recipeUrl": "http://wiki.mhxg.org/ida/288282.html",
+          "detailTitle": "G★2調査委託：獰猛な奇猿狐 | 【MHXX】モンハンダブルクロス攻略レシピ",
+          "icons": [
+            "狩猟",
+            "依頼",
+            "武具",
+            "フラグ"
+          ],
+          "role": "hunter",
+          "tags": [
+            "request"
+          ],
+          "observations": [
+            {
+              "title": "備考",
+              "text": "G★2キークエとG★1人騒がせないたずら者たちまたはG★1イタズラ猿に制裁を クリア後",
+              "links": [
+                {
+                  "label": "G★1人騒がせないたずら者たち",
+                  "url": "http://wiki.mhxg.org/ida/285789.html"
+                },
+                {
+                  "label": "G★1イタズラ猿に制裁を",
+                  "url": "http://wiki.mhxg.org/ida/286183.html"
+                }
+              ]
+            },
+            {
+              "title": "依頼",
+              "text": "[受注] ベルナ村 筆頭ランサーの依頼2 [依頼出現条件] 依頼★筆頭ランサーの依頼1(G★1人騒がせないたずら者たちまたはG★1イタズラ猿に制裁を)G★2遺群嶺の緑の女王G★2砂漠の水面に潜む影G★2ババコンガのキノコ品評会G★2ネルスキュラの生態研究G★2転んで跳ねて七転八倒G★2おのずと岩は動き出す クリア後 装備開放(製法) ハイハロウ",
+              "links": [
+                {
+                  "label": "筆頭ランサーの依頼2",
+                  "url": "http://wiki.mhxg.org/ida/306644.html"
+                },
+                {
+                  "label": "依頼★筆頭ランサーの依頼1",
+                  "url": "http://wiki.mhxg.org/ida/306643.html"
+                },
+                {
+                  "label": "G★1人騒がせないたずら者たち",
+                  "url": "http://wiki.mhxg.org/ida/285789.html"
+                },
+                {
+                  "label": "G★1イタズラ猿に制裁を",
+                  "url": "http://wiki.mhxg.org/ida/286183.html"
+                },
+                {
+                  "label": "G★2遺群嶺の緑の女王",
+                  "url": "http://wiki.mhxg.org/ida/286206.html"
+                },
+                {
+                  "label": "G★2砂漠の水面に潜む影",
+                  "url": "http://wiki.mhxg.org/ida/286208.html"
+                },
+                {
+                  "label": "G★2ババコンガのキノコ品評会",
+                  "url": "http://wiki.mhxg.org/ida/286209.html"
+                },
+                {
+                  "label": "G★2ネルスキュラの生態研究",
+                  "url": "http://wiki.mhxg.org/ida/286212.html"
+                },
+                {
+                  "label": "G★2転んで跳ねて七転八倒",
+                  "url": "http://wiki.mhxg.org/ida/286213.html"
+                },
+                {
+                  "label": "G★2おのずと岩は動き出す",
+                  "url": "http://wiki.mhxg.org/ida/286214.html"
+                },
+                {
+                  "label": "ハイハロウ",
+                  "url": "http://wiki.mhxg.org/ida/301782.html"
+                }
+              ]
+            },
+            {
+              "title": "他のクエスト発生に必要",
+              "text": "G★3本気の狩りは闘技場の中で",
+              "links": [
+                {
+                  "label": "G★3本気の狩りは闘技場の中で",
+                  "url": "http://wiki.mhxg.org/ida/299049.html"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "獰猛な蛙は鬼よりも強く",
+          "recipeUrl": "http://wiki.mhxg.org/ida/288283.html",
+          "detailTitle": "G★2獰猛な蛙は鬼よりも強く | 【MHXX】モンハンダブルクロス攻略レシピ",
+          "icons": [
+            "狩猟"
+          ],
+          "role": "hunter",
+          "tags": [
+            "normal"
+          ],
+          "observations": [
+            {
+              "title": "備考",
+              "text": "G★2キークエとG★1罪深きタルの食材探訪またはG★1嗚呼素晴らしき也、鬼蛙 クリア後",
+              "links": [
+                {
+                  "label": "G★1罪深きタルの食材探訪",
+                  "url": "http://wiki.mhxg.org/ida/286184.html"
+                },
+                {
+                  "label": "G★1嗚呼素晴らしき也、鬼蛙",
+                  "url": "http://wiki.mhxg.org/ida/286185.html"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "毒怪鳥は元気に走る",
+          "recipeUrl": "http://wiki.mhxg.org/ida/288284.html",
+          "detailTitle": "G★2毒怪鳥は元気に走る | 【MHXX】モンハンダブルクロス攻略レシピ",
+          "icons": [
+            "狩猟"
+          ],
+          "role": "hunter",
+          "tags": [
+            "normal"
+          ],
+          "observations": [
+            {
+              "title": "備考",
+              "text": "G★2キークエとG★1毒怪鳥が盗んだものを追ってまたはG★1奪われて、追いかけて クリア後",
+              "links": [
+                {
+                  "label": "G★1毒怪鳥が盗んだものを追って",
+                  "url": "http://wiki.mhxg.org/ida/286175.html"
+                },
+                {
+                  "label": "G★1奪われて、追いかけて",
+                  "url": "http://wiki.mhxg.org/ida/286182.html"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "水獣の獰猛化観察記録",
+          "recipeUrl": "http://wiki.mhxg.org/ida/288285.html",
+          "detailTitle": "G★2水獣の獰猛化観察記録 | 【MHXX】モンハンダブルクロス攻略レシピ",
+          "icons": [
+            "狩猟"
+          ],
+          "role": "hunter",
+          "tags": [
+            "normal"
+          ],
+          "observations": [
+            {
+              "title": "備考",
+              "text": "G★2キークエとG★1看板娘セレクト：遺群嶺の水獣またはG★1水獣たちの争い クリア後",
+              "links": [
+                {
+                  "label": "G★1看板娘セレクト：遺群嶺の水獣",
+                  "url": "http://wiki.mhxg.org/ida/286176.html"
+                },
+                {
+                  "label": "G★1水獣たちの争い",
+                  "url": "http://wiki.mhxg.org/ida/285795.html"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "原生林コンガ戦線",
+          "recipeUrl": "http://wiki.mhxg.org/ida/288286.html",
+          "detailTitle": "G★2原生林コンガ戦線 | 【MHXX】モンハンダブルクロス攻略レシピ",
+          "icons": [
+            "ニャンター",
+            "フラグ"
+          ],
+          "role": "prowler",
+          "tags": [
+            "normal"
+          ],
+          "observations": [
+            {
+              "title": "備考",
+              "text": "G★1砂漠ゲネポス戦線 クリア後",
+              "links": [
+                {
+                  "label": "G★1砂漠ゲネポス戦線",
+                  "url": "http://wiki.mhxg.org/ida/286189.html"
+                }
+              ]
+            },
+            {
+              "title": "他のクエスト発生に必要",
+              "text": "G★2カンシャのお仕事 G★2水獣のタテガミ破壊に挑戦！",
+              "links": [
+                {
+                  "label": "G★2カンシャのお仕事",
+                  "url": "http://wiki.mhxg.org/ida/288287.html"
+                },
+                {
+                  "label": "G★2水獣のタテガミ破壊に挑戦！",
+                  "url": "http://wiki.mhxg.org/ida/288288.html"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "カンシャのお仕事",
+          "recipeUrl": "http://wiki.mhxg.org/ida/288287.html",
+          "detailTitle": "G★2カンシャのお仕事 | 【MHXX】モンハンダブルクロス攻略レシピ",
+          "icons": [
+            "ニャンター"
+          ],
+          "role": "prowler",
+          "tags": [
+            "normal"
+          ],
+          "observations": [
+            {
+              "title": "備考",
+              "text": "G★2原生林コンガ戦線 クリア後",
+              "links": [
+                {
+                  "label": "G★2原生林コンガ戦線",
+                  "url": "http://wiki.mhxg.org/ida/288286.html"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "水獣のタテガミ破壊に挑戦！",
+          "recipeUrl": "http://wiki.mhxg.org/ida/288288.html",
+          "detailTitle": "G★2水獣のタテガミ破壊に挑戦！ | 【MHXX】モンハンダブルクロス攻略レシピ",
+          "icons": [
+            "ニャンター",
+            "フラグ"
+          ],
+          "role": "prowler",
+          "tags": [
+            "normal"
+          ],
+          "observations": [
+            {
+              "title": "備考",
+              "text": "G★2原生林コンガ戦線 クリア後",
+              "links": [
+                {
+                  "label": "G★2原生林コンガ戦線",
+                  "url": "http://wiki.mhxg.org/ida/288286.html"
+                }
+              ]
+            },
+            {
+              "title": "他のクエスト発生に必要",
+              "text": "G★3毒の洗礼",
+              "links": [
+                {
+                  "label": "G★3毒の洗礼",
+                  "url": "http://wiki.mhxg.org/ida/299054.html"
+                }
+              ]
+            }
+          ]
+        }
+      ]
     }
   ],
   "previousRequests": {
@@ -941,6 +2936,41 @@
             {
               "label": "シンドイワシ",
               "url": "http://wiki.mhxg.org/ida/189035.html"
+            }
+          ]
+        }
+      }
+    },
+    "http://wiki.mhxg.org/ida/306645.html": {
+      "name": "ココット村の受付嬢の依頼2",
+      "fields": {
+        "出現条件": {
+          "text": "依頼★ミナガルデの看板娘の依頼2 クリア後G★2おのずと岩は動き出す クリア後",
+          "links": [
+            {
+              "label": "依頼★ミナガルデの看板娘の依頼2",
+              "url": "http://wiki.mhxg.org/ida/306652.html"
+            },
+            {
+              "label": "G★2おのずと岩は動き出す",
+              "url": "http://wiki.mhxg.org/ida/286214.html"
+            }
+          ]
+        },
+        "達成条件": {
+          "text": "納品 鬼蛙の厚鱗 x5盾蟹の重殻 x5影蜘蛛の剛爪 x2",
+          "links": [
+            {
+              "label": "鬼蛙の厚鱗",
+              "url": "http://wiki.mhxg.org/ida/280772.html"
+            },
+            {
+              "label": "盾蟹の重殻",
+              "url": "http://wiki.mhxg.org/ida/280947.html"
+            },
+            {
+              "label": "影蜘蛛の剛爪",
+              "url": "http://wiki.mhxg.org/ida/282858.html"
             }
           ]
         }

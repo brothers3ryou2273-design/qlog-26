@@ -1,0 +1,49 @@
+{
+  "checkedAt": "2026-10-16",
+  "changes": [
+    {
+      "questId": "village-9-recipe-286221",
+      "name": "轟竜の狩猟をさせてやるぜ！",
+      "before": {
+        "kind": "all",
+        "rules": [
+          {
+            "kind": "quest_cleared",
+            "questId": "village-6-recipe-244681"
+          },
+          {
+            "kind": "quest_cleared",
+            "questId": "hub-7-recipe-244704"
+          },
+          {
+            "kind": "external_flag",
+            "label": "未収録の前提：G★2泥まみれの商魂！"
+          }
+        ]
+      },
+      "after": {
+        "kind": "all",
+        "rules": [
+          {
+            "kind": "quest_cleared",
+            "questId": "village-6-recipe-244681"
+          },
+          {
+            "kind": "quest_cleared",
+            "questId": "hub-7-recipe-244704"
+          },
+          {
+            "kind": "quest_cleared",
+            "questId": "g-rank-2-recipe-286190"
+          }
+        ]
+      },
+      "sourceUrls": [
+        "http://wiki.mhxg.org/ida/286221.html",
+        "http://wiki.mhxg.org/ida/286221.html"
+      ],
+      "reason": "確認済みの収録クエストで判定可能な部分のみ固定ID化。独立した納品・HR・対象未特定条件は保持。"
+    }
+  ],
+  "unlockNoteChanges": []
+}

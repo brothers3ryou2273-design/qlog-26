@@ -45,6 +45,12 @@
         "url": "https://game8.jp/mh-xx/823723",
         "kind": "detail",
         "checkedAt": "2026-10-16"
+      },
+      {
+        "site": "MHXX攻略レシピ（集会所キー・緊急一覧）",
+        "url": "http://wiki.mhxg.org/data/2987.html",
+        "kind": "list",
+        "checkedAt": "2026-10-16"
       }
     ],
     "verification": "partial",
@@ -96,6 +102,12 @@
         "site": "Game8 MHXX（受注HR・補完）",
         "url": "https://game8.jp/mh-xx/823724",
         "kind": "detail",
+        "checkedAt": "2026-10-16"
+      },
+      {
+        "site": "MHXX攻略レシピ（集会所キー・緊急一覧）",
+        "url": "http://wiki.mhxg.org/data/2987.html",
+        "kind": "list",
         "checkedAt": "2026-10-16"
       }
     ],
@@ -149,6 +161,12 @@
         "url": "https://game8.jp/mh-xx/823725",
         "kind": "detail",
         "checkedAt": "2026-10-16"
+      },
+      {
+        "site": "MHXX攻略レシピ（集会所キー・緊急一覧）",
+        "url": "http://wiki.mhxg.org/data/2987.html",
+        "kind": "list",
+        "checkedAt": "2026-10-16"
       }
     ],
     "verification": "partial",
@@ -200,6 +218,12 @@
         "site": "Game8 MHXX（受注HR・補完）",
         "url": "https://game8.jp/mh-xx/823726",
         "kind": "detail",
+        "checkedAt": "2026-10-16"
+      },
+      {
+        "site": "MHXX攻略レシピ（集会所キー・緊急一覧）",
+        "url": "http://wiki.mhxg.org/data/2987.html",
+        "kind": "list",
         "checkedAt": "2026-10-16"
       }
     ],
@@ -253,6 +277,12 @@
         "url": "https://game8.jp/mh-xx/823727",
         "kind": "detail",
         "checkedAt": "2026-10-16"
+      },
+      {
+        "site": "MHXX攻略レシピ（集会所キー・緊急一覧）",
+        "url": "http://wiki.mhxg.org/data/2987.html",
+        "kind": "list",
+        "checkedAt": "2026-10-16"
       }
     ],
     "verification": "partial",
@@ -304,6 +334,12 @@
         "site": "Game8 MHXX（受注HR・補完）",
         "url": "https://game8.jp/mh-xx/823728",
         "kind": "detail",
+        "checkedAt": "2026-10-16"
+      },
+      {
+        "site": "MHXX攻略レシピ（集会所キー・緊急一覧）",
+        "url": "http://wiki.mhxg.org/data/2987.html",
+        "kind": "list",
         "checkedAt": "2026-10-16"
       }
     ],
@@ -357,6 +393,12 @@
         "url": "https://game8.jp/mh-xx/823729",
         "kind": "detail",
         "checkedAt": "2026-10-16"
+      },
+      {
+        "site": "MHXX攻略レシピ（集会所キー・緊急一覧）",
+        "url": "http://wiki.mhxg.org/data/2987.html",
+        "kind": "list",
+        "checkedAt": "2026-10-16"
       }
     ],
     "verification": "partial",
@@ -408,6 +450,12 @@
         "site": "Game8 MHXX（受注HR・補完）",
         "url": "https://game8.jp/mh-xx/823730",
         "kind": "detail",
+        "checkedAt": "2026-10-16"
+      },
+      {
+        "site": "MHXX攻略レシピ（集会所キー・緊急一覧）",
+        "url": "http://wiki.mhxg.org/data/2987.html",
+        "kind": "list",
         "checkedAt": "2026-10-16"
       }
     ],
@@ -461,6 +509,12 @@
         "url": "https://game8.jp/mh-xx/823731",
         "kind": "detail",
         "checkedAt": "2026-10-16"
+      },
+      {
+        "site": "MHXX攻略レシピ（集会所キー・緊急一覧）",
+        "url": "http://wiki.mhxg.org/data/2987.html",
+        "kind": "list",
+        "checkedAt": "2026-10-16"
       }
     ],
     "verification": "partial",
@@ -494,13 +548,7 @@
       "受注・参加のHR条件：HR9以上（出現前提とは別）。",
       "酒場のマスターと話す。"
     ],
-    "unlocks": [
-      {
-        "kind": "other",
-        "label": "G★2逆襲の怪鳥（出現前提）",
-        "note": "未収録クエストの出現前提の一つ。その他の受注条件・実際の出現はゲーム内で確認してください。"
-      }
-    ],
+    "unlocks": [],
     "sources": [
       {
         "site": "MHXX攻略レシピ",
@@ -518,6 +566,12 @@
         "site": "Game8 MHXX（受注HR・補完）",
         "url": "https://game8.jp/mh-xx/823732",
         "kind": "detail",
+        "checkedAt": "2026-10-16"
+      },
+      {
+        "site": "MHXX攻略レシピ（集会所キー・緊急一覧）",
+        "url": "http://wiki.mhxg.org/data/2987.html",
+        "kind": "list",
         "checkedAt": "2026-10-16"
       }
     ],
@@ -549,6 +603,10 @@
         {
           "kind": "hr_at_least",
           "value": 9
+        },
+        {
+          "kind": "quest_cleared",
+          "questId": "hub-7-recipe-285741"
         }
       ]
     },
@@ -577,11 +635,6 @@
         "kind": "other",
         "label": "ムーファＸネコスーツ（製法）",
         "note": "依頼達成・報告後の製法解放。装備そのものの入手ではありません。"
-      },
-      {
-        "kind": "other",
-        "label": "G★2毒怪鳥は元気に走る（出現前提）",
-        "note": "未収録クエストの出現前提の一つ。その他の受注条件・実際の出現はゲーム内で確認してください。"
       }
     ],
     "sources": [
@@ -601,6 +654,12 @@
         "site": "Game8 MHXX（受注HR・補完）",
         "url": "https://game8.jp/mh-xx/823733",
         "kind": "detail",
+        "checkedAt": "2026-10-16"
+      },
+      {
+        "site": "MHXX攻略レシピ（集会所キー・緊急一覧）",
+        "url": "http://wiki.mhxg.org/data/2987.html",
+        "kind": "list",
         "checkedAt": "2026-10-16"
       }
     ],
@@ -632,6 +691,10 @@
         {
           "kind": "hr_at_least",
           "value": 9
+        },
+        {
+          "kind": "quest_cleared",
+          "questId": "hub-7-recipe-285741"
         }
       ]
     },
@@ -640,13 +703,7 @@
       "ユクモ村 ユクモ村の看板娘の依頼2を受注し、達成後に依頼主へ報告する。",
       "受注・参加のHR条件：HR9以上（出現前提とは別）。"
     ],
-    "unlocks": [
-      {
-        "kind": "other",
-        "label": "G★2水獣の獰猛化観察記録（出現前提）",
-        "note": "未収録クエストの出現前提の一つ。その他の受注条件・実際の出現はゲーム内で確認してください。"
-      }
-    ],
+    "unlocks": [],
     "sources": [
       {
         "site": "MHXX攻略レシピ",
@@ -664,6 +721,12 @@
         "site": "Game8 MHXX（受注HR・補完）",
         "url": "https://game8.jp/mh-xx/823734",
         "kind": "detail",
+        "checkedAt": "2026-10-16"
+      },
+      {
+        "site": "MHXX攻略レシピ（集会所キー・緊急一覧）",
+        "url": "http://wiki.mhxg.org/data/2987.html",
+        "kind": "list",
         "checkedAt": "2026-10-16"
       }
     ],
@@ -723,6 +786,12 @@
         "url": "https://game8.jp/mh-xx/823735",
         "kind": "detail",
         "checkedAt": "2026-10-16"
+      },
+      {
+        "site": "MHXX攻略レシピ（集会所キー・緊急一覧）",
+        "url": "http://wiki.mhxg.org/data/2987.html",
+        "kind": "list",
+        "checkedAt": "2026-10-16"
       }
     ],
     "verification": "partial",
@@ -774,6 +843,12 @@
         "site": "Game8 MHXX（受注HR・補完）",
         "url": "https://game8.jp/mh-xx/823736",
         "kind": "detail",
+        "checkedAt": "2026-10-16"
+      },
+      {
+        "site": "MHXX攻略レシピ（集会所キー・緊急一覧）",
+        "url": "http://wiki.mhxg.org/data/2987.html",
+        "kind": "list",
         "checkedAt": "2026-10-16"
       }
     ],
@@ -827,6 +902,12 @@
         "url": "https://game8.jp/mh-xx/823737",
         "kind": "detail",
         "checkedAt": "2026-10-16"
+      },
+      {
+        "site": "MHXX攻略レシピ（集会所キー・緊急一覧）",
+        "url": "http://wiki.mhxg.org/data/2987.html",
+        "kind": "list",
+        "checkedAt": "2026-10-16"
       }
     ],
     "verification": "partial",
@@ -873,11 +954,6 @@
       },
       {
         "kind": "other",
-        "label": "G★2超☆メモ帳～獰猛化盾蟹編～（出現前提）",
-        "note": "未収録クエストの出現前提の一つ。その他の受注条件・実際の出現はゲーム内で確認してください。"
-      },
-      {
-        "kind": "other",
         "label": "【特殊許可】矛砕捕獲依頼G1（出現前提）",
         "note": "未収録クエストの出現前提の一つ。その他の受注条件・実際の出現はゲーム内で確認してください。"
       }
@@ -899,6 +975,12 @@
         "site": "Game8 MHXX（受注HR・補完）",
         "url": "https://game8.jp/mh-xx/823738",
         "kind": "detail",
+        "checkedAt": "2026-10-16"
+      },
+      {
+        "site": "MHXX攻略レシピ（集会所キー・緊急一覧）",
+        "url": "http://wiki.mhxg.org/data/2987.html",
+        "kind": "list",
         "checkedAt": "2026-10-16"
       }
     ],
@@ -954,6 +1036,12 @@
         "url": "https://game8.jp/mh-xx/823739",
         "kind": "detail",
         "checkedAt": "2026-10-16"
+      },
+      {
+        "site": "MHXX攻略レシピ（集会所キー・緊急一覧）",
+        "url": "http://wiki.mhxg.org/data/2987.html",
+        "kind": "list",
+        "checkedAt": "2026-10-16"
       }
     ],
     "verification": "partial",
@@ -987,13 +1075,7 @@
       "受注・参加のHR条件：HR9以上（出現前提とは別）。",
       "酒場のマスターと話す。"
     ],
-    "unlocks": [
-      {
-        "kind": "other",
-        "label": "G★2毒怪鳥は元気に走る（出現前提）",
-        "note": "未収録クエストの出現前提の一つ。その他の受注条件・実際の出現はゲーム内で確認してください。"
-      }
-    ],
+    "unlocks": [],
     "sources": [
       {
         "site": "MHXX攻略レシピ",
@@ -1011,6 +1093,12 @@
         "site": "Game8 MHXX（受注HR・補完）",
         "url": "https://game8.jp/mh-xx/823740",
         "kind": "detail",
+        "checkedAt": "2026-10-16"
+      },
+      {
+        "site": "MHXX攻略レシピ（集会所キー・緊急一覧）",
+        "url": "http://wiki.mhxg.org/data/2987.html",
+        "kind": "list",
         "checkedAt": "2026-10-16"
       }
     ],
@@ -1045,13 +1133,7 @@
       "受注・参加のHR条件：HR9以上（出現前提とは別）。",
       "酒場のマスターと話す。"
     ],
-    "unlocks": [
-      {
-        "kind": "other",
-        "label": "G★2調査委託：獰猛な奇猿狐（出現前提）",
-        "note": "未収録クエストの出現前提の一つ。その他の受注条件・実際の出現はゲーム内で確認してください。"
-      }
-    ],
+    "unlocks": [],
     "sources": [
       {
         "site": "MHXX攻略レシピ",
@@ -1069,6 +1151,12 @@
         "site": "Game8 MHXX（受注HR・補完）",
         "url": "https://game8.jp/mh-xx/823741",
         "kind": "detail",
+        "checkedAt": "2026-10-16"
+      },
+      {
+        "site": "MHXX攻略レシピ（集会所キー・緊急一覧）",
+        "url": "http://wiki.mhxg.org/data/2987.html",
+        "kind": "list",
         "checkedAt": "2026-10-16"
       }
     ],
@@ -1103,13 +1191,7 @@
       "受注・参加のHR条件：HR9以上（出現前提とは別）。",
       "酒場のマスターと話す。"
     ],
-    "unlocks": [
-      {
-        "kind": "other",
-        "label": "G★2調査委託：獰猛な奇猿狐（出現前提）",
-        "note": "未収録クエストの出現前提の一つ。その他の受注条件・実際の出現はゲーム内で確認してください。"
-      }
-    ],
+    "unlocks": [],
     "sources": [
       {
         "site": "MHXX攻略レシピ",
@@ -1127,6 +1209,12 @@
         "site": "Game8 MHXX（受注HR・補完）",
         "url": "https://game8.jp/mh-xx/823742",
         "kind": "detail",
+        "checkedAt": "2026-10-16"
+      },
+      {
+        "site": "MHXX攻略レシピ（集会所キー・緊急一覧）",
+        "url": "http://wiki.mhxg.org/data/2987.html",
+        "kind": "list",
         "checkedAt": "2026-10-16"
       }
     ],
@@ -1158,6 +1246,10 @@
         {
           "kind": "hr_at_least",
           "value": 9
+        },
+        {
+          "kind": "quest_cleared",
+          "questId": "hub-7-recipe-285741"
         }
       ]
     },
@@ -1175,11 +1267,6 @@
         "kind": "other",
         "label": "タルネコボディ（製法）",
         "note": "依頼達成・報告後の製法解放。装備そのものの入手ではありません。"
-      },
-      {
-        "kind": "other",
-        "label": "G★2獰猛な蛙は鬼よりも強く（出現前提）",
-        "note": "未収録クエストの出現前提の一つ。その他の受注条件・実際の出現はゲーム内で確認してください。"
       },
       {
         "kind": "other",
@@ -1204,6 +1291,12 @@
         "site": "Game8 MHXX（受注HR・補完）",
         "url": "https://game8.jp/mh-xx/823743",
         "kind": "detail",
+        "checkedAt": "2026-10-16"
+      },
+      {
+        "site": "MHXX攻略レシピ（集会所キー・緊急一覧）",
+        "url": "http://wiki.mhxg.org/data/2987.html",
+        "kind": "list",
         "checkedAt": "2026-10-16"
       }
     ],
@@ -1241,11 +1334,6 @@
     "unlocks": [
       {
         "kind": "other",
-        "label": "G★2獰猛な蛙は鬼よりも強く（出現前提）",
-        "note": "未収録クエストの出現前提の一つ。その他の受注条件・実際の出現はゲーム内で確認してください。"
-      },
-      {
-        "kind": "other",
         "label": "【特殊許可】岩穿捕獲依頼G1（出現前提）",
         "note": "未収録クエストの出現前提の一つ。その他の受注条件・実際の出現はゲーム内で確認してください。"
       }
@@ -1267,6 +1355,12 @@
         "site": "Game8 MHXX（受注HR・補完）",
         "url": "https://game8.jp/mh-xx/823744",
         "kind": "detail",
+        "checkedAt": "2026-10-16"
+      },
+      {
+        "site": "MHXX攻略レシピ（集会所キー・緊急一覧）",
+        "url": "http://wiki.mhxg.org/data/2987.html",
+        "kind": "list",
         "checkedAt": "2026-10-16"
       }
     ],
@@ -1320,6 +1414,12 @@
         "url": "https://game8.jp/mh-xx/823745",
         "kind": "detail",
         "checkedAt": "2026-10-16"
+      },
+      {
+        "site": "MHXX攻略レシピ（集会所キー・緊急一覧）",
+        "url": "http://wiki.mhxg.org/data/2987.html",
+        "kind": "list",
+        "checkedAt": "2026-10-16"
       }
     ],
     "verification": "partial",
@@ -1356,11 +1456,6 @@
     "unlocks": [
       {
         "kind": "other",
-        "label": "G★2超☆メモ帳～獰猛化盾蟹編～（出現前提）",
-        "note": "未収録クエストの出現前提の一つ。その他の受注条件・実際の出現はゲーム内で確認してください。"
-      },
-      {
-        "kind": "other",
         "label": "【特殊許可】矛砕捕獲依頼G1（出現前提）",
         "note": "未収録クエストの出現前提の一つ。その他の受注条件・実際の出現はゲーム内で確認してください。"
       }
@@ -1382,6 +1477,12 @@
         "site": "Game8 MHXX（受注HR・補完）",
         "url": "https://game8.jp/mh-xx/823746",
         "kind": "detail",
+        "checkedAt": "2026-10-16"
+      },
+      {
+        "site": "MHXX攻略レシピ（集会所キー・緊急一覧）",
+        "url": "http://wiki.mhxg.org/data/2987.html",
+        "kind": "list",
         "checkedAt": "2026-10-16"
       }
     ],
@@ -1426,11 +1527,6 @@
         "kind": "food",
         "label": "大ドンドル豆",
         "note": "依頼達成後、依頼主に報告して追加。"
-      },
-      {
-        "kind": "other",
-        "label": "G★2逆襲の怪鳥（出現前提）",
-        "note": "未収録クエストの出現前提の一つ。その他の受注条件・実際の出現はゲーム内で確認してください。"
       }
     ],
     "sources": [
@@ -1450,6 +1546,12 @@
         "site": "Game8 MHXX（受注HR・補完）",
         "url": "https://game8.jp/mh-xx/823747",
         "kind": "detail",
+        "checkedAt": "2026-10-16"
+      },
+      {
+        "site": "MHXX攻略レシピ（集会所キー・緊急一覧）",
+        "url": "http://wiki.mhxg.org/data/2987.html",
+        "kind": "list",
         "checkedAt": "2026-10-16"
       }
     ],
@@ -1509,6 +1611,12 @@
         "url": "https://game8.jp/mh-xx/823748",
         "kind": "detail",
         "checkedAt": "2026-10-16"
+      },
+      {
+        "site": "MHXX攻略レシピ（集会所キー・緊急一覧）",
+        "url": "http://wiki.mhxg.org/data/2987.html",
+        "kind": "list",
+        "checkedAt": "2026-10-16"
       }
     ],
     "verification": "partial",
@@ -1561,6 +1669,12 @@
         "url": "https://game8.jp/mh-xx/823749",
         "kind": "detail",
         "checkedAt": "2026-10-16"
+      },
+      {
+        "site": "MHXX攻略レシピ（集会所キー・緊急一覧）",
+        "url": "http://wiki.mhxg.org/data/2987.html",
+        "kind": "list",
+        "checkedAt": "2026-10-16"
       }
     ],
     "verification": "partial",
@@ -1581,12 +1695,17 @@
       "kind": "all",
       "rules": [
         {
-          "kind": "quest_cleared",
-          "questId": "village-2-recipe-220164"
-        },
-        {
-          "kind": "external_flag",
-          "label": "漁港の女主人の依頼1：納品 はじけイワシ x5シンドイワシ x2"
+          "kind": "all",
+          "rules": [
+            {
+              "kind": "quest_cleared",
+              "questId": "village-2-recipe-220164"
+            },
+            {
+              "kind": "external_flag",
+              "label": "漁港の女主人の依頼1：納品 はじけイワシ x5シンドイワシ x2"
+            }
+          ]
         },
         {
           "kind": "quest_cleared",
@@ -1595,6 +1714,10 @@
         {
           "kind": "hr_at_least",
           "value": 9
+        },
+        {
+          "kind": "quest_cleared",
+          "questId": "hub-7-recipe-285741"
         }
       ]
     },
@@ -1639,6 +1762,12 @@
         "url": "https://game8.jp/mh-xx/823750",
         "kind": "detail",
         "checkedAt": "2026-10-16"
+      },
+      {
+        "site": "MHXX攻略レシピ（集会所キー・緊急一覧）",
+        "url": "http://wiki.mhxg.org/data/2987.html",
+        "kind": "list",
+        "checkedAt": "2026-10-16"
       }
     ],
     "verification": "partial",
@@ -1672,13 +1801,7 @@
       "受注・参加のHR条件：HR9以上（出現前提とは別）。",
       "酒場のマスターと話す。"
     ],
-    "unlocks": [
-      {
-        "kind": "other",
-        "label": "G★2水獣の獰猛化観察記録（出現前提）",
-        "note": "未収録クエストの出現前提の一つ。その他の受注条件・実際の出現はゲーム内で確認してください。"
-      }
-    ],
+    "unlocks": [],
     "sources": [
       {
         "site": "MHXX攻略レシピ",
@@ -1696,6 +1819,12 @@
         "site": "Game8 MHXX（受注HR・補完）",
         "url": "https://game8.jp/mh-xx/823751",
         "kind": "detail",
+        "checkedAt": "2026-10-16"
+      },
+      {
+        "site": "MHXX攻略レシピ（集会所キー・緊急一覧）",
+        "url": "http://wiki.mhxg.org/data/2987.html",
+        "kind": "list",
         "checkedAt": "2026-10-16"
       }
     ],
@@ -1749,6 +1878,12 @@
         "url": "https://game8.jp/mh-xx/823752",
         "kind": "detail",
         "checkedAt": "2026-10-16"
+      },
+      {
+        "site": "MHXX攻略レシピ（集会所キー・緊急一覧）",
+        "url": "http://wiki.mhxg.org/data/2987.html",
+        "kind": "list",
+        "checkedAt": "2026-10-16"
       }
     ],
     "verification": "partial",
@@ -1775,6 +1910,10 @@
         {
           "kind": "hr_at_least",
           "value": 9
+        },
+        {
+          "kind": "quest_cleared",
+          "questId": "hub-7-recipe-285741"
         }
       ]
     },
@@ -1799,6 +1938,12 @@
         "site": "Game8 MHXX（受注HR・補完）",
         "url": "https://game8.jp/mh-xx/823753",
         "kind": "detail",
+        "checkedAt": "2026-10-16"
+      },
+      {
+        "site": "MHXX攻略レシピ（集会所キー・緊急一覧）",
+        "url": "http://wiki.mhxg.org/data/2987.html",
+        "kind": "list",
         "checkedAt": "2026-10-16"
       }
     ],
@@ -1826,19 +1971,17 @@
         {
           "kind": "hr_at_least",
           "value": 9
+        },
+        {
+          "kind": "quest_cleared",
+          "questId": "hub-7-recipe-285741"
         }
       ]
     },
     "npcNotes": [
       "受注・参加のHR条件：HR9以上（出現前提とは別）。"
     ],
-    "unlocks": [
-      {
-        "kind": "other",
-        "label": "G★2原生林コンガ戦線（出現前提）",
-        "note": "未収録クエストの出現前提の一つ。その他の受注条件・実際の出現はゲーム内で確認してください。"
-      }
-    ],
+    "unlocks": [],
     "sources": [
       {
         "site": "MHXX攻略レシピ",
@@ -1856,6 +1999,12 @@
         "site": "Game8 MHXX（受注HR・補完）",
         "url": "https://game8.jp/mh-xx/823754",
         "kind": "detail",
+        "checkedAt": "2026-10-16"
+      },
+      {
+        "site": "MHXX攻略レシピ（集会所キー・緊急一覧）",
+        "url": "http://wiki.mhxg.org/data/2987.html",
+        "kind": "list",
         "checkedAt": "2026-10-16"
       }
     ],

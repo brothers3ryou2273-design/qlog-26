@@ -19,7 +19,9 @@ import hub5 from "./hub-5.json";
 import hub6 from "./hub-6.json";
 import hub7 from "./hub-7.json";
 
+
 import grank1 from "./g-rank-1.json";
+import grank2 from "./g-rank-2.json";
 
 // IDは表示名・参照元・並び順が変わっても固定。旧14件のg8由来IDも維持する。
 export const quests: Quest[] = [
@@ -41,8 +43,9 @@ export const quests: Quest[] = [
   ...hub6,
   ...hub7,
   ...grank1,
+  ...grank2,
 ] as Quest[];
 export const dataStatus = {
   complete: false,
-  note: "村★1〜10の370件、集会所★1〜7の339件とG★1〜1の32件を収録。攻略レシピの一覧と個別ページを照合しています。未確認点は個別に表示します。",
+  note: "村★1〜10の370件、集会所★1〜7の339件とG★1〜2の85件を収録。攻略レシピの一覧と個別ページを照合しています。未確認点は個別に表示します。",
 };
