@@ -33,7 +33,179 @@
     "docs/upper-hub-research-audit.json": "1e1ec48bbf4fea60b8c4259383a569feb3ad4338c317fede312353c8f2e82cf2",
     "docs/upper-research-audit.json": "e5067ef22b01df687a4465d9ea197f8dc5df5c5e128d26f28480eee5cddd5794"
   },
-  "platform": "日本国内向けMHXX、Switch基準。海外MHGUの一覧は使用しない。",
-  "downloadCaution": "出典の配信日・配信中は過去の記述。現在のダウンロード可否は未確認。保存済みクエストの存在とは区別。",
-  "pending": "下位→上位→G級の順に収録。全体の解放・接続監査は追補予定。"
+  "platform": "日本国内向けMHXX、Switch版基準。海外MHGUの資料は使用せず、日本版コラボを保持。実機・Switch各個体のダウンロード一覧は未確認。",
+  "counts": {
+    "下位": 11,
+    "上位": 84,
+    "G級": 49
+  },
+  "total": 1311,
+  "nameDifferences": [],
+  "roleCounts": {
+    "下位": {
+      "hunter": 5,
+      "prowler": 6
+    },
+    "上位": {
+      "hunter": 73,
+      "prowler": 11
+    },
+    "G級": {
+      "prowler": 7,
+      "hunter": 42
+    }
+  },
+  "downloadCaution": "原資料の2015～2017年の配信日・配信中は過去の記述。現在の配信・ダウンロード可否は未確認。保存済みクエストの存在と区別し、未確認という理由では除外しない。",
+  "prerequisiteDecision": "個別備考の数値HRを採用。下位は数値を推定しない。通常クエストの同名・同モンスターとの依存は生成しない。全144個別ページの前提用パネルに既存クエストのクリア指定は確認されなかった。",
+  "specialConditions": [
+    {
+      "questId": "event-g-recipe-338410",
+      "name": "ドリフターズ・孤島の漂流者",
+      "condition": {
+        "kind": "all",
+        "rules": [
+          {
+            "kind": "hr_at_least",
+            "value": 9
+          },
+          {
+            "kind": "external_flag",
+            "label": "弾・ビンポーチ以外のアイテムは持込不可（所持品はこのアプリでは判定しません）"
+          }
+        ]
+      }
+    },
+    {
+      "questId": "event-high-recipe-278962",
+      "name": "範馬刃牙・最大VS最強",
+      "condition": {
+        "kind": "all",
+        "rules": [
+          {
+            "kind": "hr_at_least",
+            "value": 4
+          },
+          {
+            "kind": "external_flag",
+            "label": "防具・護石を装備せずに受注する（装備状態はこのアプリでは判定しません）"
+          }
+        ]
+      }
+    },
+    {
+      "questId": "event-low-recipe-322472",
+      "name": "USJ・幻惑なる2頭の輪舞曲",
+      "condition": {
+        "kind": "external_flag",
+        "label": "防具・護石を装備せずに受注する（装備状態はこのアプリでは判定しません）"
+      }
+    }
+  ],
+  "unlockSummary": {
+    "totalEntries": 89,
+    "recipeMaterialEntries": 83,
+    "utilityItemEntries": 6,
+    "questsWithIndicator": 80,
+    "equipmentUseRows": 610
+  },
+  "additionalPrimarySources": [
+    {
+      "topic": "food",
+      "url": "http://wiki.mhxg.org/data/2950.html",
+      "httpStatus": 200,
+      "checkedAt": "2026-10-16",
+      "eventQuestMatches": [],
+      "sourceHtmlSha256": "ca95461bd4bd2a4a55c25a9ab4506f789843fb56490e045c63855b7ee9c5decd",
+      "decision": "取得した解放一覧には今回144件を条件とする明示的な記載を確認できず。無いことの証明とはしない。"
+    },
+    {
+      "topic": "facility",
+      "url": "http://wiki.mhxg.org/data/2951.html",
+      "httpStatus": 200,
+      "checkedAt": "2026-10-16",
+      "eventQuestMatches": [],
+      "sourceHtmlSha256": "a50535816f4896c48f9b00308b3bbd7d2365b072d34f95368eecaa4f329bbdf0",
+      "decision": "取得した解放一覧には今回144件を条件とする明示的な記載を確認できず。無いことの証明とはしない。"
+    },
+    {
+      "topic": "arts",
+      "url": "http://wiki.mhxg.org/data/2952.html",
+      "httpStatus": 200,
+      "checkedAt": "2026-10-16",
+      "eventQuestMatches": [],
+      "sourceHtmlSha256": "516488a959c38112bb1c126e15fb7bf50d16e4f85980b7887b7c218d79fa2e78",
+      "decision": "取得した解放一覧には今回144件を条件とする明示的な記載を確認できず。無いことの証明とはしない。"
+    }
+  ],
+  "sourceDifferences": [
+    {
+      "topic": "配信時期",
+      "primary": "http://wiki.mhxg.org/data/2032.html",
+      "supplement": "https://mhx-wiki.com/?%E3%82%A4%E3%83%99%E3%83%B3%E3%83%88%E3%83%BB%E3%83%80%E3%82%A6%E3%83%B3%E3%83%AD%E3%83%BC%E3%83%89%E3%82%AF%E3%82%A8%E3%82%B9%E3%83%88%E4%B8%80%E8%A6%A7",
+      "observation": "専門Wikiは2016年初頭までの配信予定・先行配信を含む部分一覧。攻略レシピは後日の一般配信日を含む。",
+      "decision": "現時点のダウンロード可否に読み替えず、主資料144件を収録。配信日違いで別クエストに分割しない。"
+    },
+    {
+      "topic": "JUMP表記",
+      "primary": "http://wiki.mhxg.org/data/2031.html",
+      "supplement": "https://w.atwiki.jp/mhxxnyanter/pages/49.html",
+      "observation": "専門Wikiは「JUMP・深紅の強者たち」。攻略レシピは「JUMP・真紅の強者たち」。",
+      "decision": "一覧と個別ページの一致した攻略レシピの「真紅」を採用。"
+    },
+    {
+      "topic": "SF・ゼルダ表記",
+      "primary": "http://wiki.mhxg.org/data/2032.html",
+      "supplement": "https://w.atwiki.jp/mhxxnyanter/pages/49.html",
+      "observation": "専門WikiのSFは半角、ゼルダの「再び」は漢字。主資料は全角ＳＦ、「ふたたび」。",
+      "decision": "主資料個別ページの正式表記を保持。NFKC検索は従来どおり。"
+    },
+    {
+      "topic": "S・ソルR／グリードRの説明",
+      "primary": [
+        "http://wiki.mhxg.org/ida/234890.html",
+        "http://wiki.mhxg.org/ida/234889.html"
+      ],
+      "supplement": "https://mhx-wiki.com/?%E3%82%A4%E3%83%99%E3%83%B3%E3%83%88%E3%83%BB%E3%83%80%E3%82%A6%E3%83%B3%E3%83%AD%E3%83%BC%E3%83%89%E3%82%AF%E3%82%A8%E3%82%B9%E3%83%88%E4%B8%80%E8%A6%A7",
+      "observation": "専門Wikiの作成可能欄にシリーズが挙がるが、主資料の防具ページに該当イベントのクリアによる独立した解放条件は確認できない。",
+      "decision": "通常モンスター素材から作れるというだけで独自の解放フラグ・表示を生成しない。幻譚の女神素材による装備は別に用途を確認して登録。"
+    }
+  ],
+  "unconfirmed": [
+    {
+      "topic": "現在の配信可否",
+      "scope": "全144件",
+      "decision": "過去の配信情報は取得済み。現在のダウンロード可否・サービス終了状況を検証していない。"
+    },
+    {
+      "topic": "プラットフォーム内容差",
+      "scope": "日本版Switchと3DS",
+      "decision": "実機比較未実施。資料から確認できない内容差は追加しない。"
+    },
+    {
+      "topic": "受注HRと参加HRの分離",
+      "scope": "個別備考に記載されたHRは区別なし",
+      "decision": "数値を採用し、参加専用の別値を推測しない。下位に数値HRを補作しない。"
+    },
+    {
+      "topic": "装備生産フラグ・追加条件",
+      "scope": "素材用途から登録した83項目",
+      "decision": "イベント素材の必要数・具体的な生産強化先は確認。全装備の他の素材・費用・進行段階・独立製法フラグは網羅確認していない。クリアのみで製法解放・装備取得とは表示しない。"
+    },
+    {
+      "topic": "称号・勲章・狩技・食材・施設",
+      "scope": "今回のイベント144件",
+      "decision": "主資料の該当一覧とニャンター専門資料を照合。個別イベントのクリアで付与されるものとして明確に特定できない項目は登録しない。報酬未登録は存在しないという断定ではない。"
+    }
+  ],
+  "sourcePriority": [
+    "実機直接確認（今回はなし）",
+    "MHXX攻略レシピHTTP",
+    "MHXX専門Wiki・ニャンター専門Wiki",
+    "企業系Wiki（今回採用なし）"
+  ],
+  "existingSourceCorrections": {
+    "count": 86,
+    "ledger": "event-connections.json.sourceListChanges",
+    "fields": "G★4の一覧URLのみ。ID・個別URL・条件・解放は無変更。"
+  }
 }

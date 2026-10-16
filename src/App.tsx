@@ -626,7 +626,9 @@ export default function App() {
                               ? "該当クエスト詳細"
                               : s.kind === "list"
                                 ? "一覧"
-                                : "トップページ"}
+                                : s.kind === "reference"
+                                  ? "参考資料"
+                                  : "トップページ"}
                             ） ↗
                           </a>
                           {s.checkedAt && ` / 確認日 ${s.checkedAt}`}

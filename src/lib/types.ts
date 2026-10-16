@@ -38,7 +38,7 @@ export type Quest = {
   sources: {
     site: string;
     url: string;
-    kind: "detail" | "list" | "home";
+    kind: "detail" | "list" | "home" | "reference";
     checkedAt?: string;
   }[];
   verification: "verified" | "partial" | "unverified";

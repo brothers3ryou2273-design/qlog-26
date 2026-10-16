@@ -33,7 +33,7 @@
         "checkedAt": "2026-10-16"
       },
       {
-        "site": "MHXX攻略レシピ（イベントG級一覧）",
+        "site": "MHXX攻略レシピ（イベントG級）",
         "url": "http://wiki.mhxg.org/data/2033.html",
         "kind": "list",
         "checkedAt": "2026-10-16"
@@ -41,19 +41,19 @@
       {
         "site": "MHXX攻略レシピ（逆転裁判傍聴券：入手・用途）",
         "url": "http://wiki.mhxg.org/ida/322458.html",
-        "kind": "detail",
+        "kind": "reference",
         "checkedAt": "2026-10-16"
       },
       {
         "site": "MHXX攻略レシピ（ネコ記憶の秘伝書：入手）",
         "url": "http://wiki.mhxg.org/ida/296097.html",
-        "kind": "detail",
+        "kind": "reference",
         "checkedAt": "2026-10-16"
       },
       {
         "site": "MHXXニャンター専門Wiki（基本情報）",
         "url": "https://w.atwiki.jp/mhxxnyanter/pages/20.html",
-        "kind": "detail",
+        "kind": "reference",
         "checkedAt": "2026-10-16"
       }
     ],
@@ -89,7 +89,7 @@
         "checkedAt": "2026-10-16"
       },
       {
-        "site": "MHXX攻略レシピ（イベントG級一覧）",
+        "site": "MHXX攻略レシピ（イベントG級）",
         "url": "http://wiki.mhxg.org/data/2033.html",
         "kind": "list",
         "checkedAt": "2026-10-16"
@@ -97,7 +97,7 @@
       {
         "site": "MHXX攻略レシピ（デンゲキXX券：入手・用途）",
         "url": "http://wiki.mhxg.org/ida/321603.html",
-        "kind": "detail",
+        "kind": "reference",
         "checkedAt": "2026-10-16"
       }
     ],
@@ -133,7 +133,7 @@
         "checkedAt": "2026-10-16"
       },
       {
-        "site": "MHXX攻略レシピ（イベントG級一覧）",
+        "site": "MHXX攻略レシピ（イベントG級）",
         "url": "http://wiki.mhxg.org/data/2033.html",
         "kind": "list",
         "checkedAt": "2026-10-16"
@@ -141,7 +141,7 @@
       {
         "site": "MHXX攻略レシピ（海王認定書：入手・用途）",
         "url": "http://wiki.mhxg.org/ida/321506.html",
-        "kind": "detail",
+        "kind": "reference",
         "checkedAt": "2026-10-16"
       }
     ],
@@ -171,7 +171,7 @@
         "checkedAt": "2026-10-16"
       },
       {
-        "site": "MHXX攻略レシピ（イベントG級一覧）",
+        "site": "MHXX攻略レシピ（イベントG級）",
         "url": "http://wiki.mhxg.org/data/2033.html",
         "kind": "list",
         "checkedAt": "2026-10-16"
@@ -203,7 +203,7 @@
         "checkedAt": "2026-10-16"
       },
       {
-        "site": "MHXX攻略レシピ（イベントG級一覧）",
+        "site": "MHXX攻略レシピ（イベントG級）",
         "url": "http://wiki.mhxg.org/data/2033.html",
         "kind": "list",
         "checkedAt": "2026-10-16"
@@ -241,7 +241,7 @@
         "checkedAt": "2026-10-16"
       },
       {
-        "site": "MHXX攻略レシピ（イベントG級一覧）",
+        "site": "MHXX攻略レシピ（イベントG級）",
         "url": "http://wiki.mhxg.org/data/2033.html",
         "kind": "list",
         "checkedAt": "2026-10-16"
@@ -249,7 +249,7 @@
       {
         "site": "MHXX攻略レシピ（ワーストコイン：入手・用途）",
         "url": "http://wiki.mhxg.org/ida/322460.html",
-        "kind": "detail",
+        "kind": "reference",
         "checkedAt": "2026-10-16"
       }
     ],
@@ -285,7 +285,7 @@
         "checkedAt": "2026-10-16"
       },
       {
-        "site": "MHXX攻略レシピ（イベントG級一覧）",
+        "site": "MHXX攻略レシピ（イベントG級）",
         "url": "http://wiki.mhxg.org/data/2033.html",
         "kind": "list",
         "checkedAt": "2026-10-16"
@@ -293,7 +293,7 @@
       {
         "site": "MHXX攻略レシピ（ファミ通ギフト券：入手・用途）",
         "url": "http://wiki.mhxg.org/ida/324585.html",
-        "kind": "detail",
+        "kind": "reference",
         "checkedAt": "2026-10-16"
       }
     ],
@@ -334,7 +334,7 @@
         "checkedAt": "2026-10-16"
       },
       {
-        "site": "MHXX攻略レシピ（イベントG級一覧）",
+        "site": "MHXX攻略レシピ（イベントG級）",
         "url": "http://wiki.mhxg.org/data/2033.html",
         "kind": "list",
         "checkedAt": "2026-10-16"
@@ -342,19 +342,19 @@
       {
         "site": "MHXX攻略レシピ（リーマンコイン：入手・用途）",
         "url": "http://wiki.mhxg.org/ida/324586.html",
-        "kind": "detail",
+        "kind": "reference",
         "checkedAt": "2026-10-16"
       },
       {
         "site": "MHXX攻略レシピ（ネコ記憶の秘伝書：入手）",
         "url": "http://wiki.mhxg.org/ida/296097.html",
-        "kind": "detail",
+        "kind": "reference",
         "checkedAt": "2026-10-16"
       },
       {
         "site": "MHXXニャンター専門Wiki（基本情報）",
         "url": "https://w.atwiki.jp/mhxxnyanter/pages/20.html",
-        "kind": "detail",
+        "kind": "reference",
         "checkedAt": "2026-10-16"
       }
     ],
@@ -390,7 +390,7 @@
         "checkedAt": "2026-10-16"
       },
       {
-        "site": "MHXX攻略レシピ（イベントG級一覧）",
+        "site": "MHXX攻略レシピ（イベントG級）",
         "url": "http://wiki.mhxg.org/data/2033.html",
         "kind": "list",
         "checkedAt": "2026-10-16"
@@ -398,7 +398,7 @@
       {
         "site": "MHXX攻略レシピ（犯行の証拠：入手・用途）",
         "url": "http://wiki.mhxg.org/ida/326050.html",
-        "kind": "detail",
+        "kind": "reference",
         "checkedAt": "2026-10-16"
       }
     ],
@@ -428,7 +428,7 @@
         "checkedAt": "2026-10-16"
       },
       {
-        "site": "MHXX攻略レシピ（イベントG級一覧）",
+        "site": "MHXX攻略レシピ（イベントG級）",
         "url": "http://wiki.mhxg.org/data/2033.html",
         "kind": "list",
         "checkedAt": "2026-10-16"
@@ -460,7 +460,7 @@
         "checkedAt": "2026-10-16"
       },
       {
-        "site": "MHXX攻略レシピ（イベントG級一覧）",
+        "site": "MHXX攻略レシピ（イベントG級）",
         "url": "http://wiki.mhxg.org/data/2033.html",
         "kind": "list",
         "checkedAt": "2026-10-16"
@@ -498,7 +498,7 @@
         "checkedAt": "2026-10-16"
       },
       {
-        "site": "MHXX攻略レシピ（イベントG級一覧）",
+        "site": "MHXX攻略レシピ（イベントG級）",
         "url": "http://wiki.mhxg.org/data/2033.html",
         "kind": "list",
         "checkedAt": "2026-10-16"
@@ -506,7 +506,7 @@
       {
         "site": "MHXX攻略レシピ（飛信隊の証：入手・用途）",
         "url": "http://wiki.mhxg.org/ida/326052.html",
-        "kind": "detail",
+        "kind": "reference",
         "checkedAt": "2026-10-16"
       }
     ],
@@ -551,7 +551,7 @@
         "checkedAt": "2026-10-16"
       },
       {
-        "site": "MHXX攻略レシピ（イベントG級一覧）",
+        "site": "MHXX攻略レシピ（イベントG級）",
         "url": "http://wiki.mhxg.org/data/2033.html",
         "kind": "list",
         "checkedAt": "2026-10-16"
@@ -559,7 +559,7 @@
       {
         "site": "MHXX攻略レシピ（タイ捨流奥義書：入手・用途）",
         "url": "http://wiki.mhxg.org/ida/326048.html",
-        "kind": "detail",
+        "kind": "reference",
         "checkedAt": "2026-10-16"
       }
     ],
@@ -595,7 +595,7 @@
         "checkedAt": "2026-10-16"
       },
       {
-        "site": "MHXX攻略レシピ（イベントG級一覧）",
+        "site": "MHXX攻略レシピ（イベントG級）",
         "url": "http://wiki.mhxg.org/data/2033.html",
         "kind": "list",
         "checkedAt": "2026-10-16"
@@ -603,7 +603,7 @@
       {
         "site": "MHXX攻略レシピ（EX老山龍チケットS：入手・用途）",
         "url": "http://wiki.mhxg.org/ida/296011.html",
-        "kind": "detail",
+        "kind": "reference",
         "checkedAt": "2026-10-16"
       }
     ],
@@ -639,7 +639,7 @@
         "checkedAt": "2026-10-16"
       },
       {
-        "site": "MHXX攻略レシピ（イベントG級一覧）",
+        "site": "MHXX攻略レシピ（イベントG級）",
         "url": "http://wiki.mhxg.org/data/2033.html",
         "kind": "list",
         "checkedAt": "2026-10-16"
@@ -647,7 +647,7 @@
       {
         "site": "MHXX攻略レシピ（魔法源解放鍵：入手・用途）",
         "url": "http://wiki.mhxg.org/ida/326053.html",
-        "kind": "detail",
+        "kind": "reference",
         "checkedAt": "2026-10-16"
       }
     ],
@@ -677,7 +677,7 @@
         "checkedAt": "2026-10-16"
       },
       {
-        "site": "MHXX攻略レシピ（イベントG級一覧）",
+        "site": "MHXX攻略レシピ（イベントG級）",
         "url": "http://wiki.mhxg.org/data/2033.html",
         "kind": "list",
         "checkedAt": "2026-10-16"
@@ -715,7 +715,7 @@
         "checkedAt": "2026-10-16"
       },
       {
-        "site": "MHXX攻略レシピ（イベントG級一覧）",
+        "site": "MHXX攻略レシピ（イベントG級）",
         "url": "http://wiki.mhxg.org/data/2033.html",
         "kind": "list",
         "checkedAt": "2026-10-16"
@@ -723,7 +723,7 @@
       {
         "site": "MHXX攻略レシピ（ザルバのかけら：入手・用途）",
         "url": "http://wiki.mhxg.org/ida/326041.html",
-        "kind": "detail",
+        "kind": "reference",
         "checkedAt": "2026-10-16"
       }
     ],
@@ -753,7 +753,7 @@
         "checkedAt": "2026-10-16"
       },
       {
-        "site": "MHXX攻略レシピ（イベントG級一覧）",
+        "site": "MHXX攻略レシピ（イベントG級）",
         "url": "http://wiki.mhxg.org/data/2033.html",
         "kind": "list",
         "checkedAt": "2026-10-16"
@@ -785,7 +785,7 @@
         "checkedAt": "2026-10-16"
       },
       {
-        "site": "MHXX攻略レシピ（イベントG級一覧）",
+        "site": "MHXX攻略レシピ（イベントG級）",
         "url": "http://wiki.mhxg.org/data/2033.html",
         "kind": "list",
         "checkedAt": "2026-10-16"
@@ -823,7 +823,7 @@
         "checkedAt": "2026-10-16"
       },
       {
-        "site": "MHXX攻略レシピ（イベントG級一覧）",
+        "site": "MHXX攻略レシピ（イベントG級）",
         "url": "http://wiki.mhxg.org/data/2033.html",
         "kind": "list",
         "checkedAt": "2026-10-16"
@@ -831,7 +831,7 @@
       {
         "site": "MHXX攻略レシピ（ハンター認定書：入手・用途）",
         "url": "http://wiki.mhxg.org/ida/326051.html",
-        "kind": "detail",
+        "kind": "reference",
         "checkedAt": "2026-10-16"
       }
     ],
@@ -861,7 +861,7 @@
         "checkedAt": "2026-10-16"
       },
       {
-        "site": "MHXX攻略レシピ（イベントG級一覧）",
+        "site": "MHXX攻略レシピ（イベントG級）",
         "url": "http://wiki.mhxg.org/data/2033.html",
         "kind": "list",
         "checkedAt": "2026-10-16"
@@ -893,7 +893,7 @@
         "checkedAt": "2026-10-16"
       },
       {
-        "site": "MHXX攻略レシピ（イベントG級一覧）",
+        "site": "MHXX攻略レシピ（イベントG級）",
         "url": "http://wiki.mhxg.org/data/2033.html",
         "kind": "list",
         "checkedAt": "2026-10-16"
@@ -925,7 +925,7 @@
         "checkedAt": "2026-10-16"
       },
       {
-        "site": "MHXX攻略レシピ（イベントG級一覧）",
+        "site": "MHXX攻略レシピ（イベントG級）",
         "url": "http://wiki.mhxg.org/data/2033.html",
         "kind": "list",
         "checkedAt": "2026-10-16"
@@ -963,7 +963,7 @@
         "checkedAt": "2026-10-16"
       },
       {
-        "site": "MHXX攻略レシピ（イベントG級一覧）",
+        "site": "MHXX攻略レシピ（イベントG級）",
         "url": "http://wiki.mhxg.org/data/2033.html",
         "kind": "list",
         "checkedAt": "2026-10-16"
@@ -971,7 +971,7 @@
       {
         "site": "MHXX攻略レシピ（モンハン部昇段書：入手・用途）",
         "url": "http://wiki.mhxg.org/ida/326054.html",
-        "kind": "detail",
+        "kind": "reference",
         "checkedAt": "2026-10-16"
       }
     ],
@@ -1001,7 +1001,7 @@
         "checkedAt": "2026-10-16"
       },
       {
-        "site": "MHXX攻略レシピ（イベントG級一覧）",
+        "site": "MHXX攻略レシピ（イベントG級）",
         "url": "http://wiki.mhxg.org/data/2033.html",
         "kind": "list",
         "checkedAt": "2026-10-16"
@@ -1033,7 +1033,7 @@
         "checkedAt": "2026-10-16"
       },
       {
-        "site": "MHXX攻略レシピ（イベントG級一覧）",
+        "site": "MHXX攻略レシピ（イベントG級）",
         "url": "http://wiki.mhxg.org/data/2033.html",
         "kind": "list",
         "checkedAt": "2026-10-16"
@@ -1065,7 +1065,7 @@
         "checkedAt": "2026-10-16"
       },
       {
-        "site": "MHXX攻略レシピ（イベントG級一覧）",
+        "site": "MHXX攻略レシピ（イベントG級）",
         "url": "http://wiki.mhxg.org/data/2033.html",
         "kind": "list",
         "checkedAt": "2026-10-16"
@@ -1097,7 +1097,7 @@
         "checkedAt": "2026-10-16"
       },
       {
-        "site": "MHXX攻略レシピ（イベントG級一覧）",
+        "site": "MHXX攻略レシピ（イベントG級）",
         "url": "http://wiki.mhxg.org/data/2033.html",
         "kind": "list",
         "checkedAt": "2026-10-16"
@@ -1129,7 +1129,7 @@
         "checkedAt": "2026-10-16"
       },
       {
-        "site": "MHXX攻略レシピ（イベントG級一覧）",
+        "site": "MHXX攻略レシピ（イベントG級）",
         "url": "http://wiki.mhxg.org/data/2033.html",
         "kind": "list",
         "checkedAt": "2026-10-16"
@@ -1167,7 +1167,7 @@
         "checkedAt": "2026-10-16"
       },
       {
-        "site": "MHXX攻略レシピ（イベントG級一覧）",
+        "site": "MHXX攻略レシピ（イベントG級）",
         "url": "http://wiki.mhxg.org/data/2033.html",
         "kind": "list",
         "checkedAt": "2026-10-16"
@@ -1175,7 +1175,7 @@
       {
         "site": "MHXX攻略レシピ（EX黒龍チケット・紅：入手・用途）",
         "url": "http://wiki.mhxg.org/ida/296009.html",
-        "kind": "detail",
+        "kind": "reference",
         "checkedAt": "2026-10-16"
       }
     ],
@@ -1205,7 +1205,7 @@
         "checkedAt": "2026-10-16"
       },
       {
-        "site": "MHXX攻略レシピ（イベントG級一覧）",
+        "site": "MHXX攻略レシピ（イベントG級）",
         "url": "http://wiki.mhxg.org/data/2033.html",
         "kind": "list",
         "checkedAt": "2026-10-16"
@@ -1237,7 +1237,7 @@
         "checkedAt": "2026-10-16"
       },
       {
-        "site": "MHXX攻略レシピ（イベントG級一覧）",
+        "site": "MHXX攻略レシピ（イベントG級）",
         "url": "http://wiki.mhxg.org/data/2033.html",
         "kind": "list",
         "checkedAt": "2026-10-16"
@@ -1275,7 +1275,7 @@
         "checkedAt": "2026-10-16"
       },
       {
-        "site": "MHXX攻略レシピ（イベントG級一覧）",
+        "site": "MHXX攻略レシピ（イベントG級）",
         "url": "http://wiki.mhxg.org/data/2033.html",
         "kind": "list",
         "checkedAt": "2026-10-16"
@@ -1283,7 +1283,7 @@
       {
         "site": "MHXX攻略レシピ（EX黒龍チケット・白：入手・用途）",
         "url": "http://wiki.mhxg.org/ida/296008.html",
-        "kind": "detail",
+        "kind": "reference",
         "checkedAt": "2026-10-16"
       }
     ],
@@ -1313,7 +1313,7 @@
         "checkedAt": "2026-10-16"
       },
       {
-        "site": "MHXX攻略レシピ（イベントG級一覧）",
+        "site": "MHXX攻略レシピ（イベントG級）",
         "url": "http://wiki.mhxg.org/data/2033.html",
         "kind": "list",
         "checkedAt": "2026-10-16"
@@ -1345,7 +1345,7 @@
         "checkedAt": "2026-10-16"
       },
       {
-        "site": "MHXX攻略レシピ（イベントG級一覧）",
+        "site": "MHXX攻略レシピ（イベントG級）",
         "url": "http://wiki.mhxg.org/data/2033.html",
         "kind": "list",
         "checkedAt": "2026-10-16"
@@ -1383,7 +1383,7 @@
         "checkedAt": "2026-10-16"
       },
       {
-        "site": "MHXX攻略レシピ（イベントG級一覧）",
+        "site": "MHXX攻略レシピ（イベントG級）",
         "url": "http://wiki.mhxg.org/data/2033.html",
         "kind": "list",
         "checkedAt": "2026-10-16"
@@ -1391,7 +1391,7 @@
       {
         "site": "MHXX攻略レシピ（ゼルダチケットG：入手・用途）",
         "url": "http://wiki.mhxg.org/ida/326046.html",
-        "kind": "detail",
+        "kind": "reference",
         "checkedAt": "2026-10-16"
       }
     ],
@@ -1432,7 +1432,7 @@
         "checkedAt": "2026-10-16"
       },
       {
-        "site": "MHXX攻略レシピ（イベントG級一覧）",
+        "site": "MHXX攻略レシピ（イベントG級）",
         "url": "http://wiki.mhxg.org/data/2033.html",
         "kind": "list",
         "checkedAt": "2026-10-16"
@@ -1440,19 +1440,19 @@
       {
         "site": "MHXX攻略レシピ（ゼルダチケットN：入手・用途）",
         "url": "http://wiki.mhxg.org/ida/326045.html",
-        "kind": "detail",
+        "kind": "reference",
         "checkedAt": "2026-10-16"
       },
       {
         "site": "MHXX攻略レシピ（ネコ記憶の秘伝書：入手）",
         "url": "http://wiki.mhxg.org/ida/296097.html",
-        "kind": "detail",
+        "kind": "reference",
         "checkedAt": "2026-10-16"
       },
       {
         "site": "MHXXニャンター専門Wiki（基本情報）",
         "url": "https://w.atwiki.jp/mhxxnyanter/pages/20.html",
-        "kind": "detail",
+        "kind": "reference",
         "checkedAt": "2026-10-16"
       }
     ],
@@ -1488,7 +1488,7 @@
         "checkedAt": "2026-10-16"
       },
       {
-        "site": "MHXX攻略レシピ（イベントG級一覧）",
+        "site": "MHXX攻略レシピ（イベントG級）",
         "url": "http://wiki.mhxg.org/data/2033.html",
         "kind": "list",
         "checkedAt": "2026-10-16"
@@ -1496,7 +1496,7 @@
       {
         "site": "MHXX攻略レシピ（スタジオXXパス：入手・用途）",
         "url": "http://wiki.mhxg.org/ida/326044.html",
-        "kind": "detail",
+        "kind": "reference",
         "checkedAt": "2026-10-16"
       }
     ],
@@ -1537,7 +1537,7 @@
         "checkedAt": "2026-10-16"
       },
       {
-        "site": "MHXX攻略レシピ（イベントG級一覧）",
+        "site": "MHXX攻略レシピ（イベントG級）",
         "url": "http://wiki.mhxg.org/data/2033.html",
         "kind": "list",
         "checkedAt": "2026-10-16"
@@ -1545,19 +1545,19 @@
       {
         "site": "MHXX攻略レシピ（スタジオNパス：入手・用途）",
         "url": "http://wiki.mhxg.org/ida/326043.html",
-        "kind": "detail",
+        "kind": "reference",
         "checkedAt": "2026-10-16"
       },
       {
         "site": "MHXX攻略レシピ（ネコ記憶の秘伝書：入手）",
         "url": "http://wiki.mhxg.org/ida/296097.html",
-        "kind": "detail",
+        "kind": "reference",
         "checkedAt": "2026-10-16"
       },
       {
         "site": "MHXXニャンター専門Wiki（基本情報）",
         "url": "https://w.atwiki.jp/mhxxnyanter/pages/20.html",
-        "kind": "detail",
+        "kind": "reference",
         "checkedAt": "2026-10-16"
       }
     ],
@@ -1587,7 +1587,7 @@
         "checkedAt": "2026-10-16"
       },
       {
-        "site": "MHXX攻略レシピ（イベントG級一覧）",
+        "site": "MHXX攻略レシピ（イベントG級）",
         "url": "http://wiki.mhxg.org/data/2033.html",
         "kind": "list",
         "checkedAt": "2026-10-16"
@@ -1630,7 +1630,7 @@
         "checkedAt": "2026-10-16"
       },
       {
-        "site": "MHXX攻略レシピ（イベントG級一覧）",
+        "site": "MHXX攻略レシピ（イベントG級）",
         "url": "http://wiki.mhxg.org/data/2033.html",
         "kind": "list",
         "checkedAt": "2026-10-16"
@@ -1638,19 +1638,19 @@
       {
         "site": "MHXX攻略レシピ（ネコ魂石：入手・用途）",
         "url": "http://wiki.mhxg.org/ida/326049.html",
-        "kind": "detail",
+        "kind": "reference",
         "checkedAt": "2026-10-16"
       },
       {
         "site": "MHXX攻略レシピ（ネコ記憶の秘伝書：入手）",
         "url": "http://wiki.mhxg.org/ida/296097.html",
-        "kind": "detail",
+        "kind": "reference",
         "checkedAt": "2026-10-16"
       },
       {
         "site": "MHXXニャンター専門Wiki（基本情報）",
         "url": "https://w.atwiki.jp/mhxxnyanter/pages/20.html",
-        "kind": "detail",
+        "kind": "reference",
         "checkedAt": "2026-10-16"
       }
     ],
@@ -1680,7 +1680,7 @@
         "checkedAt": "2026-10-16"
       },
       {
-        "site": "MHXX攻略レシピ（イベントG級一覧）",
+        "site": "MHXX攻略レシピ（イベントG級）",
         "url": "http://wiki.mhxg.org/data/2033.html",
         "kind": "list",
         "checkedAt": "2026-10-16"
@@ -1712,7 +1712,7 @@
         "checkedAt": "2026-10-16"
       },
       {
-        "site": "MHXX攻略レシピ（イベントG級一覧）",
+        "site": "MHXX攻略レシピ（イベントG級）",
         "url": "http://wiki.mhxg.org/data/2033.html",
         "kind": "list",
         "checkedAt": "2026-10-16"
@@ -1744,7 +1744,7 @@
         "checkedAt": "2026-10-16"
       },
       {
-        "site": "MHXX攻略レシピ（イベントG級一覧）",
+        "site": "MHXX攻略レシピ（イベントG級）",
         "url": "http://wiki.mhxg.org/data/2033.html",
         "kind": "list",
         "checkedAt": "2026-10-16"
@@ -1776,7 +1776,7 @@
         "checkedAt": "2026-10-16"
       },
       {
-        "site": "MHXX攻略レシピ（イベントG級一覧）",
+        "site": "MHXX攻略レシピ（イベントG級）",
         "url": "http://wiki.mhxg.org/data/2033.html",
         "kind": "list",
         "checkedAt": "2026-10-16"
@@ -1808,7 +1808,7 @@
         "checkedAt": "2026-10-16"
       },
       {
-        "site": "MHXX攻略レシピ（イベントG級一覧）",
+        "site": "MHXX攻略レシピ（イベントG級）",
         "url": "http://wiki.mhxg.org/data/2033.html",
         "kind": "list",
         "checkedAt": "2026-10-16"
@@ -1840,7 +1840,7 @@
         "checkedAt": "2026-10-16"
       },
       {
-        "site": "MHXX攻略レシピ（イベントG級一覧）",
+        "site": "MHXX攻略レシピ（イベントG級）",
         "url": "http://wiki.mhxg.org/data/2033.html",
         "kind": "list",
         "checkedAt": "2026-10-16"
@@ -1872,7 +1872,7 @@
         "checkedAt": "2026-10-16"
       },
       {
-        "site": "MHXX攻略レシピ（イベントG級一覧）",
+        "site": "MHXX攻略レシピ（イベントG級）",
         "url": "http://wiki.mhxg.org/data/2033.html",
         "kind": "list",
         "checkedAt": "2026-10-16"
@@ -1904,7 +1904,7 @@
         "checkedAt": "2026-10-16"
       },
       {
-        "site": "MHXX攻略レシピ（イベントG級一覧）",
+        "site": "MHXX攻略レシピ（イベントG級）",
         "url": "http://wiki.mhxg.org/data/2033.html",
         "kind": "list",
         "checkedAt": "2026-10-16"

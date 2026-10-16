@@ -38,7 +38,8 @@
       ],
       "downloadStatus": "historical_source_only_current_availability_unverified",
       "prerequisiteLinks": [],
-      "nameDifference": false
+      "nameDifference": false,
+      "detailHtmlSha256": "29a804240ec2ded68903a10b743b1c6599dc3a0cc92b4b12c0e5d6f35748b83f"
     },
     {
       "questId": "event-low-recipe-267300",
@@ -72,7 +73,8 @@
       "specialMaterialUrls": [],
       "downloadStatus": "historical_source_only_current_availability_unverified",
       "prerequisiteLinks": [],
-      "nameDifference": false
+      "nameDifference": false,
+      "detailHtmlSha256": "f9fd1437c6028b5c4b38837d5f109cc801524b60433d4296b8134c6b529f972e"
     },
     {
       "questId": "event-low-recipe-269613",
@@ -108,7 +110,8 @@
       ],
       "downloadStatus": "historical_source_only_current_availability_unverified",
       "prerequisiteLinks": [],
-      "nameDifference": false
+      "nameDifference": false,
+      "detailHtmlSha256": "e0141ff0189d8b455357f840307067f7f4040ffe235d35398fdfcf4a0b48973d"
     },
     {
       "questId": "event-low-recipe-267304",
@@ -144,7 +147,8 @@
       ],
       "downloadStatus": "historical_source_only_current_availability_unverified",
       "prerequisiteLinks": [],
-      "nameDifference": false
+      "nameDifference": false,
+      "detailHtmlSha256": "82e6a4370197e5412c493b5ab7fd64fc91b61ba85420124fb5281abe4b41d82a"
     },
     {
       "questId": "event-low-recipe-267305",
@@ -180,7 +184,8 @@
       ],
       "downloadStatus": "historical_source_only_current_availability_unverified",
       "prerequisiteLinks": [],
-      "nameDifference": false
+      "nameDifference": false,
+      "detailHtmlSha256": "f9be6ffd688a24aeac2dbf9c6ffd7d61be3e3957a048a7e0b013afd06281ec64"
     },
     {
       "questId": "event-low-recipe-268859",
@@ -216,7 +221,8 @@
       ],
       "downloadStatus": "historical_source_only_current_availability_unverified",
       "prerequisiteLinks": [],
-      "nameDifference": false
+      "nameDifference": false,
+      "detailHtmlSha256": "c03c450be590666b33efca4e8bee4342d1026f3f8e49a8a8c2cb3ae1ef3bcfa8"
     },
     {
       "questId": "event-low-recipe-278945",
@@ -252,7 +258,8 @@
       ],
       "downloadStatus": "historical_source_only_current_availability_unverified",
       "prerequisiteLinks": [],
-      "nameDifference": false
+      "nameDifference": false,
+      "detailHtmlSha256": "0261c0209aef9ef2504df08bd84e0d2671987e797746b497d1a6c1eb669bd998"
     },
     {
       "questId": "event-low-recipe-270532",
@@ -288,7 +295,8 @@
       ],
       "downloadStatus": "historical_source_only_current_availability_unverified",
       "prerequisiteLinks": [],
-      "nameDifference": false
+      "nameDifference": false,
+      "detailHtmlSha256": "c4f68e487c2a8625b77bc30f604a2533f31a5694a3da0129b7f9f5fc4309a54b"
     },
     {
       "questId": "event-low-recipe-270533",
@@ -324,7 +332,8 @@
       ],
       "downloadStatus": "historical_source_only_current_availability_unverified",
       "prerequisiteLinks": [],
-      "nameDifference": false
+      "nameDifference": false,
+      "detailHtmlSha256": "2e01c6ce76de9129d45d762e4a9b60919ec63aa25512ad0181dc9b7c08dc5155"
     },
     {
       "questId": "event-low-recipe-322462",
@@ -360,7 +369,8 @@
       ],
       "downloadStatus": "historical_source_only_current_availability_unverified",
       "prerequisiteLinks": [],
-      "nameDifference": false
+      "nameDifference": false,
+      "detailHtmlSha256": "bde5db95bd040bfa3d532cb5fbf90f602b77350569742cf2ae6c1c409dda6238"
     },
     {
       "questId": "event-low-recipe-322472",
@@ -397,7 +407,9 @@
       ],
       "downloadStatus": "historical_source_only_current_availability_unverified",
       "prerequisiteLinks": [],
-      "nameDifference": false
+      "nameDifference": false,
+      "detailHtmlSha256": "cf2c420fcf368c16d0e1b9fa8c814f064c25558c33f70a21e61ff94d80747a80"
     }
-  ]
+  ],
+  "listHtmlSha256": "e488e401a7260e2d0ca5c03d025556f1877bb5a56752df73daf9ce88408c915c"
 }

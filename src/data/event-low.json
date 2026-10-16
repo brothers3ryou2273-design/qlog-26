@@ -27,7 +27,7 @@
         "checkedAt": "2026-10-16"
       },
       {
-        "site": "MHXX攻略レシピ（イベント下位一覧）",
+        "site": "MHXX攻略レシピ（イベント下位）",
         "url": "http://wiki.mhxg.org/data/2031.html",
         "kind": "list",
         "checkedAt": "2026-10-16"
@@ -35,7 +35,7 @@
       {
         "site": "MHXX攻略レシピ（ぐでぐでとした卵：入手・用途）",
         "url": "http://wiki.mhxg.org/ida/234130.html",
-        "kind": "detail",
+        "kind": "reference",
         "checkedAt": "2026-10-16"
       }
     ],
@@ -64,7 +64,7 @@
         "checkedAt": "2026-10-16"
       },
       {
-        "site": "MHXX攻略レシピ（イベント下位一覧）",
+        "site": "MHXX攻略レシピ（イベント下位）",
         "url": "http://wiki.mhxg.org/data/2031.html",
         "kind": "list",
         "checkedAt": "2026-10-16"
@@ -101,7 +101,7 @@
         "checkedAt": "2026-10-16"
       },
       {
-        "site": "MHXX攻略レシピ（イベント下位一覧）",
+        "site": "MHXX攻略レシピ（イベント下位）",
         "url": "http://wiki.mhxg.org/data/2031.html",
         "kind": "list",
         "checkedAt": "2026-10-16"
@@ -109,7 +109,7 @@
       {
         "site": "MHXX攻略レシピ（トマトジュース：入手・用途）",
         "url": "http://wiki.mhxg.org/ida/268719.html",
-        "kind": "detail",
+        "kind": "reference",
         "checkedAt": "2026-10-16"
       }
     ],
@@ -144,7 +144,7 @@
         "checkedAt": "2026-10-16"
       },
       {
-        "site": "MHXX攻略レシピ（イベント下位一覧）",
+        "site": "MHXX攻略レシピ（イベント下位）",
         "url": "http://wiki.mhxg.org/data/2031.html",
         "kind": "list",
         "checkedAt": "2026-10-16"
@@ -152,7 +152,7 @@
       {
         "site": "MHXX攻略レシピ（妖精の尻尾の紋章：入手・用途）",
         "url": "http://wiki.mhxg.org/ida/267377.html",
-        "kind": "detail",
+        "kind": "reference",
         "checkedAt": "2026-10-16"
       }
     ],
@@ -187,7 +187,7 @@
         "checkedAt": "2026-10-16"
       },
       {
-        "site": "MHXX攻略レシピ（イベント下位一覧）",
+        "site": "MHXX攻略レシピ（イベント下位）",
         "url": "http://wiki.mhxg.org/data/2031.html",
         "kind": "list",
         "checkedAt": "2026-10-16"
@@ -195,7 +195,7 @@
       {
         "site": "MHXX攻略レシピ（海賊Jネコ金貨：入手・用途）",
         "url": "http://wiki.mhxg.org/ida/267370.html",
-        "kind": "detail",
+        "kind": "reference",
         "checkedAt": "2026-10-16"
       }
     ],
@@ -230,7 +230,7 @@
         "checkedAt": "2026-10-16"
       },
       {
-        "site": "MHXX攻略レシピ（イベント下位一覧）",
+        "site": "MHXX攻略レシピ（イベント下位）",
         "url": "http://wiki.mhxg.org/data/2031.html",
         "kind": "list",
         "checkedAt": "2026-10-16"
@@ -238,7 +238,7 @@
       {
         "site": "MHXX攻略レシピ（ダンボール：入手・用途）",
         "url": "http://wiki.mhxg.org/ida/268715.html",
-        "kind": "detail",
+        "kind": "reference",
         "checkedAt": "2026-10-16"
       }
     ],
@@ -273,7 +273,7 @@
         "checkedAt": "2026-10-16"
       },
       {
-        "site": "MHXX攻略レシピ（イベント下位一覧）",
+        "site": "MHXX攻略レシピ（イベント下位）",
         "url": "http://wiki.mhxg.org/data/2031.html",
         "kind": "list",
         "checkedAt": "2026-10-16"
@@ -281,7 +281,7 @@
       {
         "site": "MHXX攻略レシピ（ユニクロコイン：入手・用途）",
         "url": "http://wiki.mhxg.org/ida/268733.html",
-        "kind": "detail",
+        "kind": "reference",
         "checkedAt": "2026-10-16"
       }
     ],
@@ -316,7 +316,7 @@
         "checkedAt": "2026-10-16"
       },
       {
-        "site": "MHXX攻略レシピ（イベント下位一覧）",
+        "site": "MHXX攻略レシピ（イベント下位）",
         "url": "http://wiki.mhxg.org/data/2031.html",
         "kind": "list",
         "checkedAt": "2026-10-16"
@@ -324,7 +324,7 @@
       {
         "site": "MHXX攻略レシピ（魂石：入手・用途）",
         "url": "http://wiki.mhxg.org/ida/268705.html",
-        "kind": "detail",
+        "kind": "reference",
         "checkedAt": "2026-10-16"
       }
     ],
@@ -359,7 +359,7 @@
         "checkedAt": "2026-10-16"
       },
       {
-        "site": "MHXX攻略レシピ（イベント下位一覧）",
+        "site": "MHXX攻略レシピ（イベント下位）",
         "url": "http://wiki.mhxg.org/data/2031.html",
         "kind": "list",
         "checkedAt": "2026-10-16"
@@ -367,7 +367,7 @@
       {
         "site": "MHXX攻略レシピ（スタジオパス：入手・用途）",
         "url": "http://wiki.mhxg.org/ida/268713.html",
-        "kind": "detail",
+        "kind": "reference",
         "checkedAt": "2026-10-16"
       }
     ],
@@ -402,7 +402,7 @@
         "checkedAt": "2026-10-16"
       },
       {
-        "site": "MHXX攻略レシピ（イベント下位一覧）",
+        "site": "MHXX攻略レシピ（イベント下位）",
         "url": "http://wiki.mhxg.org/data/2031.html",
         "kind": "list",
         "checkedAt": "2026-10-16"
@@ -410,7 +410,7 @@
       {
         "site": "MHXX攻略レシピ（銀水晶のかけら：入手・用途）",
         "url": "http://wiki.mhxg.org/ida/322459.html",
-        "kind": "detail",
+        "kind": "reference",
         "checkedAt": "2026-10-16"
       }
     ],
@@ -446,7 +446,7 @@
         "checkedAt": "2026-10-16"
       },
       {
-        "site": "MHXX攻略レシピ（イベント下位一覧）",
+        "site": "MHXX攻略レシピ（イベント下位）",
         "url": "http://wiki.mhxg.org/data/2031.html",
         "kind": "list",
         "checkedAt": "2026-10-16"
@@ -454,7 +454,7 @@
       {
         "site": "MHXX攻略レシピ（スタジオＵパス：入手・用途）",
         "url": "http://wiki.mhxg.org/ida/309564.html",
-        "kind": "detail",
+        "kind": "reference",
         "checkedAt": "2026-10-16"
       }
     ],

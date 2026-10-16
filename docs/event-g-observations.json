@@ -39,7 +39,8 @@
       ],
       "downloadStatus": "historical_source_only_current_availability_unverified",
       "prerequisiteLinks": [],
-      "nameDifference": false
+      "nameDifference": false,
+      "detailHtmlSha256": "dbfde7ce766d949465edc8755df25940e992e7716ee5f88f4ce248fa0180d9ca"
     },
     {
       "questId": "event-g-recipe-322467",
@@ -76,7 +77,8 @@
       ],
       "downloadStatus": "historical_source_only_current_availability_unverified",
       "prerequisiteLinks": [],
-      "nameDifference": false
+      "nameDifference": false,
+      "detailHtmlSha256": "be16fa1cc03fdc2e36a3ad4a17858250f93ea5e9ff7e403d81d822446dab0742"
     },
     {
       "questId": "event-g-recipe-322468",
@@ -113,7 +115,8 @@
       ],
       "downloadStatus": "historical_source_only_current_availability_unverified",
       "prerequisiteLinks": [],
-      "nameDifference": false
+      "nameDifference": false,
+      "detailHtmlSha256": "de41b74c82182d28c269adf29196e405c329878efc186ce35b05f58cff22281e"
     },
     {
       "questId": "event-g-recipe-322469",
@@ -148,7 +151,8 @@
       "specialMaterialUrls": [],
       "downloadStatus": "historical_source_only_current_availability_unverified",
       "prerequisiteLinks": [],
-      "nameDifference": false
+      "nameDifference": false,
+      "detailHtmlSha256": "1203c266fb7f5f3f4763c85d7a12bdb45a73664971fe4d77c38c90ebfe376f2a"
     },
     {
       "questId": "event-g-recipe-322470",
@@ -183,7 +187,8 @@
       "specialMaterialUrls": [],
       "downloadStatus": "historical_source_only_current_availability_unverified",
       "prerequisiteLinks": [],
-      "nameDifference": false
+      "nameDifference": false,
+      "detailHtmlSha256": "43aefd35a3b4bf1a87d7796b4313c5dc39aff5580b5ac772d40fc8ea9137a98d"
     },
     {
       "questId": "event-g-recipe-322471",
@@ -220,7 +225,8 @@
       ],
       "downloadStatus": "historical_source_only_current_availability_unverified",
       "prerequisiteLinks": [],
-      "nameDifference": false
+      "nameDifference": false,
+      "detailHtmlSha256": "74dd8fca3a391fa0e84b640d711ecf6521237141a8a1ede3407d745cff3ee0b5"
     },
     {
       "questId": "event-g-recipe-324591",
@@ -257,7 +263,8 @@
       ],
       "downloadStatus": "historical_source_only_current_availability_unverified",
       "prerequisiteLinks": [],
-      "nameDifference": false
+      "nameDifference": false,
+      "detailHtmlSha256": "04f9ec89121ec23b591c5191439a8d10b92dd9c6c0242c13c5b033185df31092"
     },
     {
       "questId": "event-g-recipe-324593",
@@ -294,7 +301,8 @@
       ],
       "downloadStatus": "historical_source_only_current_availability_unverified",
       "prerequisiteLinks": [],
-      "nameDifference": false
+      "nameDifference": false,
+      "detailHtmlSha256": "5d9e8bae7e75e308e0d1ee8b1b8e6e818629e4a7a31d5eade33831499b525782"
     },
     {
       "questId": "event-g-recipe-336954",
@@ -331,7 +339,8 @@
       ],
       "downloadStatus": "historical_source_only_current_availability_unverified",
       "prerequisiteLinks": [],
-      "nameDifference": false
+      "nameDifference": false,
+      "detailHtmlSha256": "48f135889adf52bd43ce81f1ca1cc569d0100e6ad3e5aa8cfefe0fe836f9e73d"
     },
     {
       "questId": "event-g-recipe-336957",
@@ -366,7 +375,8 @@
       "specialMaterialUrls": [],
       "downloadStatus": "historical_source_only_current_availability_unverified",
       "prerequisiteLinks": [],
-      "nameDifference": false
+      "nameDifference": false,
+      "detailHtmlSha256": "6f2e91a768780982c70f6d7bb1c93ca61a37864d2c7623ab0bc32da8603fb3d9"
     },
     {
       "questId": "event-g-recipe-341276",
@@ -401,7 +411,8 @@
       "specialMaterialUrls": [],
       "downloadStatus": "historical_source_only_current_availability_unverified",
       "prerequisiteLinks": [],
-      "nameDifference": false
+      "nameDifference": false,
+      "detailHtmlSha256": "31fbf27a7f13f5f42a682d969bf5df92c8caaa25b6bc2b262a3dcac4e0cbb13c"
     },
     {
       "questId": "event-g-recipe-338409",
@@ -438,7 +449,8 @@
       ],
       "downloadStatus": "historical_source_only_current_availability_unverified",
       "prerequisiteLinks": [],
-      "nameDifference": false
+      "nameDifference": false,
+      "detailHtmlSha256": "8a4cc741cf9b3508f1fae494123bc2434c1eeef2bc097d04e39f151f5e56ac1e"
     },
     {
       "questId": "event-g-recipe-338410",
@@ -484,7 +496,8 @@
       ],
       "downloadStatus": "historical_source_only_current_availability_unverified",
       "prerequisiteLinks": [],
-      "nameDifference": false
+      "nameDifference": false,
+      "detailHtmlSha256": "8e553871976fcfe756d5cb3f25fc66bb70c4110692f70a6bb8e5c5eb55793a87"
     },
     {
       "questId": "event-g-recipe-347854",
@@ -521,7 +534,8 @@
       ],
       "downloadStatus": "historical_source_only_current_availability_unverified",
       "prerequisiteLinks": [],
-      "nameDifference": false
+      "nameDifference": false,
+      "detailHtmlSha256": "070dc69c2bd934a20962e0cea916bd0a1bbc44618c74ec6cb3075e4be028e1d6"
     },
     {
       "questId": "event-g-recipe-341373",
@@ -558,7 +572,8 @@
       ],
       "downloadStatus": "historical_source_only_current_availability_unverified",
       "prerequisiteLinks": [],
-      "nameDifference": false
+      "nameDifference": false,
+      "detailHtmlSha256": "a17c12837ec5b0b960f750590c899a91b0b3f824b34c17cb16afee66aa9cd48f"
     },
     {
       "questId": "event-g-recipe-341374",
@@ -593,7 +608,8 @@
       "specialMaterialUrls": [],
       "downloadStatus": "historical_source_only_current_availability_unverified",
       "prerequisiteLinks": [],
-      "nameDifference": false
+      "nameDifference": false,
+      "detailHtmlSha256": "ca1a1ff67502bd35da7a1b7663b68cbcfdd432567bfbf5274fee3e9174385bf7"
     },
     {
       "questId": "event-g-recipe-353121",
@@ -630,7 +646,8 @@
       ],
       "downloadStatus": "historical_source_only_current_availability_unverified",
       "prerequisiteLinks": [],
-      "nameDifference": false
+      "nameDifference": false,
+      "detailHtmlSha256": "842a929a98e2d561eb02642b3c8d418546372db95ad4e6b025c21443f549c38d"
     },
     {
       "questId": "event-g-recipe-353122",
@@ -665,7 +682,8 @@
       "specialMaterialUrls": [],
       "downloadStatus": "historical_source_only_current_availability_unverified",
       "prerequisiteLinks": [],
-      "nameDifference": false
+      "nameDifference": false,
+      "detailHtmlSha256": "c6070c002b82f506c7b4e8c567ec1f8df12a9df1edfb96d47f44109eab8a7ca2"
     },
     {
       "questId": "event-g-recipe-353218",
@@ -700,7 +718,8 @@
       "specialMaterialUrls": [],
       "downloadStatus": "historical_source_only_current_availability_unverified",
       "prerequisiteLinks": [],
-      "nameDifference": false
+      "nameDifference": false,
+      "detailHtmlSha256": "8769f6880e414aab0468a08703c4ba6047a6da7e965d04ed03107cfbd6196956"
     },
     {
       "questId": "event-g-recipe-353155",
@@ -737,7 +756,8 @@
       ],
       "downloadStatus": "historical_source_only_current_availability_unverified",
       "prerequisiteLinks": [],
-      "nameDifference": false
+      "nameDifference": false,
+      "detailHtmlSha256": "a7717a59335c010660913be993c9808f46abb78e034d9643ed5547a8cafcba9c"
     },
     {
       "questId": "event-g-recipe-353156",
@@ -772,7 +792,8 @@
       "specialMaterialUrls": [],
       "downloadStatus": "historical_source_only_current_availability_unverified",
       "prerequisiteLinks": [],
-      "nameDifference": false
+      "nameDifference": false,
+      "detailHtmlSha256": "7097ad728dafe1e512a1c40f7223666b3d551422593694450669b8fd24bb6c54"
     },
     {
       "questId": "event-g-recipe-353157",
@@ -807,7 +828,8 @@
       "specialMaterialUrls": [],
       "downloadStatus": "historical_source_only_current_availability_unverified",
       "prerequisiteLinks": [],
-      "nameDifference": false
+      "nameDifference": false,
+      "detailHtmlSha256": "2fa1601325c7b540d824896a35cbf26c9dcb206078692283f4f7f066f5e84536"
     },
     {
       "questId": "event-g-recipe-353219",
@@ -842,7 +864,8 @@
       "specialMaterialUrls": [],
       "downloadStatus": "historical_source_only_current_availability_unverified",
       "prerequisiteLinks": [],
-      "nameDifference": false
+      "nameDifference": false,
+      "detailHtmlSha256": "7b5795d49b6896e3a48e8350fe26c31bd173837b77280de7b163dbe61a65b2d1"
     },
     {
       "questId": "event-g-recipe-353332",
@@ -879,7 +902,8 @@
       ],
       "downloadStatus": "historical_source_only_current_availability_unverified",
       "prerequisiteLinks": [],
-      "nameDifference": false
+      "nameDifference": false,
+      "detailHtmlSha256": "67ef9f3a96e444c501f7617a87d5544541bf7253007a4fdd46165d241a82ea35"
     },
     {
       "questId": "event-g-recipe-353333",
@@ -914,7 +938,8 @@
       "specialMaterialUrls": [],
       "downloadStatus": "historical_source_only_current_availability_unverified",
       "prerequisiteLinks": [],
-      "nameDifference": false
+      "nameDifference": false,
+      "detailHtmlSha256": "95b52517f05718775539916a9ff567622fcec9e22e37e1dc4501c6bd7e4ccd79"
     },
     {
       "questId": "event-g-recipe-353398",
@@ -949,7 +974,8 @@
       "specialMaterialUrls": [],
       "downloadStatus": "historical_source_only_current_availability_unverified",
       "prerequisiteLinks": [],
-      "nameDifference": false
+      "nameDifference": false,
+      "detailHtmlSha256": "9f0b08aa1568876db368f5b84819baa333ad657f1159e154ded2fa3b538fd888"
     },
     {
       "questId": "event-g-recipe-353421",
@@ -984,7 +1010,8 @@
       "specialMaterialUrls": [],
       "downloadStatus": "historical_source_only_current_availability_unverified",
       "prerequisiteLinks": [],
-      "nameDifference": false
+      "nameDifference": false,
+      "detailHtmlSha256": "0b12ae6eba03c8dcccce18c9e39f287792b2e53164ebb53056b63ab188dd1cc3"
     },
     {
       "questId": "event-g-recipe-353440",
@@ -1019,7 +1046,8 @@
       "specialMaterialUrls": [],
       "downloadStatus": "historical_source_only_current_availability_unverified",
       "prerequisiteLinks": [],
-      "nameDifference": false
+      "nameDifference": false,
+      "detailHtmlSha256": "e2a69ce9ad87aa7a998bb4c85e192f849a7955ba619b1b9d33fd5211ea572c3f"
     },
     {
       "questId": "event-g-recipe-353475",
@@ -1054,7 +1082,8 @@
       "specialMaterialUrls": [],
       "downloadStatus": "historical_source_only_current_availability_unverified",
       "prerequisiteLinks": [],
-      "nameDifference": false
+      "nameDifference": false,
+      "detailHtmlSha256": "3b483f8db5c8c5f9a32e87dad4a738805795608d8bb6eba5d3a63651e8fcec23"
     },
     {
       "questId": "event-g-recipe-353502",
@@ -1091,7 +1120,8 @@
       ],
       "downloadStatus": "historical_source_only_current_availability_unverified",
       "prerequisiteLinks": [],
-      "nameDifference": false
+      "nameDifference": false,
+      "detailHtmlSha256": "f67feaa6c0a4358587a5049725461d51a2b0ac44d02251a7868522ca60f64d55"
     },
     {
       "questId": "event-g-recipe-353537",
@@ -1126,7 +1156,8 @@
       "specialMaterialUrls": [],
       "downloadStatus": "historical_source_only_current_availability_unverified",
       "prerequisiteLinks": [],
-      "nameDifference": false
+      "nameDifference": false,
+      "detailHtmlSha256": "3357c3d13bd57ab08d452cae55f49f7e909f7b57715eed161361f032298bdd77"
     },
     {
       "questId": "event-g-recipe-353563",
@@ -1161,7 +1192,8 @@
       "specialMaterialUrls": [],
       "downloadStatus": "historical_source_only_current_availability_unverified",
       "prerequisiteLinks": [],
-      "nameDifference": false
+      "nameDifference": false,
+      "detailHtmlSha256": "bb1dc36d7ff5cb44c63d73793f78d8261c1e5a5c978ec1fd0bf3deba48b5d4cb"
     },
     {
       "questId": "event-g-recipe-353587",
@@ -1198,7 +1230,8 @@
       ],
       "downloadStatus": "historical_source_only_current_availability_unverified",
       "prerequisiteLinks": [],
-      "nameDifference": false
+      "nameDifference": false,
+      "detailHtmlSha256": "dc852368cd528331b5333ab32c6acb67c12fab10996f74dce68e325a9d3ddeab"
     },
     {
       "questId": "event-g-recipe-353613",
@@ -1233,7 +1266,8 @@
       "specialMaterialUrls": [],
       "downloadStatus": "historical_source_only_current_availability_unverified",
       "prerequisiteLinks": [],
-      "nameDifference": false
+      "nameDifference": false,
+      "detailHtmlSha256": "38c0e431e7fc51a3911557e28524e8e83809c8987724d490dba8ce25cf560a8b"
     },
     {
       "questId": "event-g-recipe-353639",
@@ -1268,7 +1302,8 @@
       "specialMaterialUrls": [],
       "downloadStatus": "historical_source_only_current_availability_unverified",
       "prerequisiteLinks": [],
-      "nameDifference": false
+      "nameDifference": false,
+      "detailHtmlSha256": "a900c08a7cba237c2bc4265317cf0dbb8d24d75c76304aa99dfc62936aab9e89"
     },
     {
       "questId": "event-g-recipe-341371",
@@ -1305,7 +1340,8 @@
       ],
       "downloadStatus": "historical_source_only_current_availability_unverified",
       "prerequisiteLinks": [],
-      "nameDifference": false
+      "nameDifference": false,
+      "detailHtmlSha256": "d4f3ab08c988ec5420ea2b4ac9ab3cffd5ab4b4cff102d38e9ea9f0b14322958"
     },
     {
       "questId": "event-g-recipe-341372",
@@ -1342,7 +1378,8 @@
       ],
       "downloadStatus": "historical_source_only_current_availability_unverified",
       "prerequisiteLinks": [],
-      "nameDifference": false
+      "nameDifference": false,
+      "detailHtmlSha256": "b88860a483119fc2abc6c6eeefc6150dd98c732eeb33c172c37c38396b69b848"
     },
     {
       "questId": "event-g-recipe-353117",
@@ -1379,7 +1416,8 @@
       ],
       "downloadStatus": "historical_source_only_current_availability_unverified",
       "prerequisiteLinks": [],
-      "nameDifference": false
+      "nameDifference": false,
+      "detailHtmlSha256": "349c0b08a8ff4e355c20841eb3530719e954a43a466f46c0022d45f1a9d124ff"
     },
     {
       "questId": "event-g-recipe-353118",
@@ -1416,7 +1454,8 @@
       ],
       "downloadStatus": "historical_source_only_current_availability_unverified",
       "prerequisiteLinks": [],
-      "nameDifference": false
+      "nameDifference": false,
+      "detailHtmlSha256": "c331e9b0eae03ddefac35e1b6d6403df89ccbbd28df492944db36e214b443ed4"
     },
     {
       "questId": "event-g-recipe-353846",
@@ -1451,7 +1490,8 @@
       "specialMaterialUrls": [],
       "downloadStatus": "historical_source_only_current_availability_unverified",
       "prerequisiteLinks": [],
-      "nameDifference": false
+      "nameDifference": false,
+      "detailHtmlSha256": "b637eebc55284dce22083bb3b0fd59b1ec5ebb7e406ffe6b01a964d074a2d3b3"
     },
     {
       "questId": "event-g-recipe-353474",
@@ -1488,7 +1528,8 @@
       ],
       "downloadStatus": "historical_source_only_current_availability_unverified",
       "prerequisiteLinks": [],
-      "nameDifference": false
+      "nameDifference": false,
+      "detailHtmlSha256": "f307ee5d14584227f70511189f3ec18e5909a144c1184a0f000fb6fa6ce31039"
     },
     {
       "questId": "event-g-recipe-353952",
@@ -1523,7 +1564,8 @@
       "specialMaterialUrls": [],
       "downloadStatus": "historical_source_only_current_availability_unverified",
       "prerequisiteLinks": [],
-      "nameDifference": false
+      "nameDifference": false,
+      "detailHtmlSha256": "4cf888de21aa13b8527cc44c35cbfb3bc2499def190a2f9ba932c8e16bfff2e6"
     },
     {
       "questId": "event-g-recipe-353967",
@@ -1558,7 +1600,8 @@
       "specialMaterialUrls": [],
       "downloadStatus": "historical_source_only_current_availability_unverified",
       "prerequisiteLinks": [],
-      "nameDifference": false
+      "nameDifference": false,
+      "detailHtmlSha256": "bcdb3697becec337fd716c915eaaa3946c5b8c31aab5bf7734aed1a4b04a398c"
     },
     {
       "questId": "event-g-recipe-353993",
@@ -1593,7 +1636,8 @@
       "specialMaterialUrls": [],
       "downloadStatus": "historical_source_only_current_availability_unverified",
       "prerequisiteLinks": [],
-      "nameDifference": false
+      "nameDifference": false,
+      "detailHtmlSha256": "5bbf3db9b085dfd47a2ddef62da5d0ee87c8bacb402e7afce31bce87c7d1f432"
     },
     {
       "questId": "event-g-recipe-354021",
@@ -1628,7 +1672,8 @@
       "specialMaterialUrls": [],
       "downloadStatus": "historical_source_only_current_availability_unverified",
       "prerequisiteLinks": [],
-      "nameDifference": false
+      "nameDifference": false,
+      "detailHtmlSha256": "81a9c2d1454da683bbc2865e84a18371aed780fb4d3ec7c13216418a867780e9"
     },
     {
       "questId": "event-g-recipe-354050",
@@ -1663,7 +1708,8 @@
       "specialMaterialUrls": [],
       "downloadStatus": "historical_source_only_current_availability_unverified",
       "prerequisiteLinks": [],
-      "nameDifference": false
+      "nameDifference": false,
+      "detailHtmlSha256": "0ca4fd77e151c984a82742cd86b8e90da391393dbc69316ade072dd8f3865b66"
     },
     {
       "questId": "event-g-recipe-354082",
@@ -1698,7 +1744,8 @@
       "specialMaterialUrls": [],
       "downloadStatus": "historical_source_only_current_availability_unverified",
       "prerequisiteLinks": [],
-      "nameDifference": false
+      "nameDifference": false,
+      "detailHtmlSha256": "887892d289db353817386fd555ad0f9bbade2e8d1ce3a68fadc257c1de6f95cd"
     },
     {
       "questId": "event-g-recipe-354114",
@@ -1733,7 +1780,8 @@
       "specialMaterialUrls": [],
       "downloadStatus": "historical_source_only_current_availability_unverified",
       "prerequisiteLinks": [],
-      "nameDifference": false
+      "nameDifference": false,
+      "detailHtmlSha256": "86c624c3ad5f7dfa6d3dde11b11c5d2b88df7e1da15a4a5a7c7e920cc7d946d3"
     },
     {
       "questId": "event-g-recipe-354147",
@@ -1768,7 +1816,9 @@
       "specialMaterialUrls": [],
       "downloadStatus": "historical_source_only_current_availability_unverified",
       "prerequisiteLinks": [],
-      "nameDifference": false
+      "nameDifference": false,
+      "detailHtmlSha256": "f191d529f08b241a35b6790847f1eb143fe2170a1412fa5e7bbe1ae43b5da6ae"
     }
-  ]
+  ],
+  "listHtmlSha256": "ba8adf10b7c879255526b513b331951395b4551a819f875be0923a7dc167cb2a"
 }
