@@ -2090,3 +2090,58 @@ test("version-1 backup of 939 old checks restores with HR and unknown IDs alongs
     "schemaVersion",
   ]);
 });
+
+test("event has three published divisions and migrates the legacy view without losing filters", async ({
+  page,
+}) => {
+  await page.addInitScript(() => {
+    if (!localStorage.getItem("event-migration-seeded")) {
+      localStorage.setItem(
+        "qlog.mhxx.view.v1",
+        JSON.stringify({
+          category: "event",
+          rank: "全ランク",
+          search: "コラボ",
+          tag: "unlock",
+          role: "prowler",
+          incomplete: true,
+        }),
+      );
+      localStorage.setItem("event-migration-seeded", "yes");
+    }
+  });
+  await page.goto("./");
+  const rank = page.getByRole("combobox", { name: "ランク", exact: true });
+  await expect(rank).toHaveValue("下位");
+  await expect(rank.locator("option")).toHaveText(["下位", "上位", "G級"]);
+  await expect(page.getByRole("searchbox")).toHaveValue("コラボ");
+  await expect(
+    page.getByRole("combobox", { name: "種別", exact: true }),
+  ).toHaveValue("unlock");
+  await expect(
+    page.getByRole("combobox", { name: "プレイ種別", exact: true }),
+  ).toHaveValue("prowler");
+  await expect(
+    page.getByRole("checkbox", { name: "未クリアのみ" }),
+  ).toBeChecked();
+  for (const r of ["上位", "G級", "下位"]) {
+    await rank.selectOption(r);
+    await expect(
+      page.getByRole("heading", { name: `イベント ${r}`, exact: true }),
+    ).toBeVisible();
+  }
+  await page.reload();
+  await expect(rank).toHaveValue("下位");
+  await expect(page.getByRole("searchbox")).toHaveValue("コラボ");
+  expect(
+    await page.evaluate(
+      () => document.documentElement.scrollWidth <= innerWidth,
+    ),
+  ).toBe(true);
+  await page.getByRole("button", { name: "特殊許可", exact: true }).click();
+  await expect(
+    page
+      .getByRole("combobox", { name: "二つ名", exact: true })
+      .locator("option"),
+  ).toHaveCount(18);
+});
