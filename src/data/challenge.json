@@ -1,0 +1,931 @@
+[
+  {
+    "id": "challenge-recipe-267308",
+    "name": "タマミツネ討伐",
+    "category": "challenge",
+    "rank": "全ランク",
+    "order": 1,
+    "role": "hunter",
+    "tags": [
+      "normal"
+    ],
+    "condition": {
+      "kind": "none"
+    },
+    "arenaInfo": {
+      "targets": [
+        "タマミツネ"
+      ],
+      "participantLimit": "2人以下",
+      "rewardMaterials": [],
+      "notes": [
+        "評価時間は出典の表記をそのまま表示します。境界の等号・フレーム単位は未確認で、秒数への丸めや補完は行っていません。評価・自己ベスト・使用装備は保存しません。",
+        "使用可能な武器種・評価時間は今回確認できた資料では未確認です。"
+      ]
+    },
+    "unlocks": [],
+    "sources": [
+      {
+        "site": "MHXX攻略レシピ",
+        "url": "http://wiki.mhxg.org/ida/267308.html",
+        "kind": "detail",
+        "checkedAt": "2026-10-16"
+      },
+      {
+        "site": "MHXX攻略レシピ",
+        "url": "http://wiki.mhxg.org/data/2034.html",
+        "kind": "list",
+        "checkedAt": "2026-10-16"
+      }
+    ],
+    "verification": "partial",
+    "verificationNote": "日本版MHXXの攻略レシピ一覧・個別をHTTP取得。HRは記載された数値のみ採用し、難易度区分をHRから推測しません。実機確認は行っていません。名称・分類・装備・評価時間の独立照合が未完了の部分を監査に残しています。"
+  },
+  {
+    "id": "challenge-recipe-267309",
+    "name": "ディノバルド討伐",
+    "category": "challenge",
+    "rank": "全ランク",
+    "order": 2,
+    "role": "hunter",
+    "tags": [
+      "normal"
+    ],
+    "condition": {
+      "kind": "none"
+    },
+    "arenaInfo": {
+      "targets": [
+        "ディノバルド"
+      ],
+      "participantLimit": "2人以下",
+      "rewardMaterials": [],
+      "notes": [
+        "評価時間は出典の表記をそのまま表示します。境界の等号・フレーム単位は未確認で、秒数への丸めや補完は行っていません。評価・自己ベスト・使用装備は保存しません。",
+        "使用可能な武器種・評価時間は今回確認できた資料では未確認です。"
+      ]
+    },
+    "unlocks": [],
+    "sources": [
+      {
+        "site": "MHXX攻略レシピ",
+        "url": "http://wiki.mhxg.org/ida/267309.html",
+        "kind": "detail",
+        "checkedAt": "2026-10-16"
+      },
+      {
+        "site": "MHXX攻略レシピ",
+        "url": "http://wiki.mhxg.org/data/2034.html",
+        "kind": "list",
+        "checkedAt": "2026-10-16"
+      }
+    ],
+    "verification": "partial",
+    "verificationNote": "日本版MHXXの攻略レシピ一覧・個別をHTTP取得。HRは記載された数値のみ採用し、難易度区分をHRから推測しません。実機確認は行っていません。名称・分類・装備・評価時間の独立照合が未完了の部分を監査に残しています。"
+  },
+  {
+    "id": "challenge-recipe-267310",
+    "name": "ガムート討伐",
+    "category": "challenge",
+    "rank": "全ランク",
+    "order": 3,
+    "role": "hunter",
+    "tags": [
+      "normal"
+    ],
+    "condition": {
+      "kind": "none"
+    },
+    "arenaInfo": {
+      "targets": [
+        "ガムート"
+      ],
+      "participantLimit": "2人以下",
+      "rewardMaterials": [],
+      "notes": [
+        "評価時間は出典の表記をそのまま表示します。境界の等号・フレーム単位は未確認で、秒数への丸めや補完は行っていません。評価・自己ベスト・使用装備は保存しません。",
+        "使用可能な武器種・評価時間は今回確認できた資料では未確認です。"
+      ]
+    },
+    "unlocks": [],
+    "sources": [
+      {
+        "site": "MHXX攻略レシピ",
+        "url": "http://wiki.mhxg.org/ida/267310.html",
+        "kind": "detail",
+        "checkedAt": "2026-10-16"
+      },
+      {
+        "site": "MHXX攻略レシピ",
+        "url": "http://wiki.mhxg.org/data/2034.html",
+        "kind": "list",
+        "checkedAt": "2026-10-16"
+      }
+    ],
+    "verification": "partial",
+    "verificationNote": "日本版MHXXの攻略レシピ一覧・個別をHTTP取得。HRは記載された数値のみ採用し、難易度区分をHRから推測しません。実機確認は行っていません。名称・分類・装備・評価時間の独立照合が未完了の部分を監査に残しています。"
+  },
+  {
+    "id": "challenge-recipe-267311",
+    "name": "ライゼクス討伐",
+    "category": "challenge",
+    "rank": "全ランク",
+    "order": 4,
+    "role": "hunter",
+    "tags": [
+      "normal"
+    ],
+    "condition": {
+      "kind": "none"
+    },
+    "arenaInfo": {
+      "targets": [
+        "ライゼクス"
+      ],
+      "participantLimit": "2人以下",
+      "rewardMaterials": [],
+      "notes": [
+        "評価時間は出典の表記をそのまま表示します。境界の等号・フレーム単位は未確認で、秒数への丸めや補完は行っていません。評価・自己ベスト・使用装備は保存しません。",
+        "使用可能な武器種・評価時間は今回確認できた資料では未確認です。"
+      ]
+    },
+    "unlocks": [],
+    "sources": [
+      {
+        "site": "MHXX攻略レシピ",
+        "url": "http://wiki.mhxg.org/ida/267311.html",
+        "kind": "detail",
+        "checkedAt": "2026-10-16"
+      },
+      {
+        "site": "MHXX攻略レシピ",
+        "url": "http://wiki.mhxg.org/data/2034.html",
+        "kind": "list",
+        "checkedAt": "2026-10-16"
+      }
+    ],
+    "verification": "partial",
+    "verificationNote": "日本版MHXXの攻略レシピ一覧・個別をHTTP取得。HRは記載された数値のみ採用し、難易度区分をHRから推測しません。実機確認は行っていません。名称・分類・装備・評価時間の独立照合が未完了の部分を監査に残しています。"
+  },
+  {
+    "id": "challenge-recipe-268860",
+    "name": "ラギアクルス討伐",
+    "category": "challenge",
+    "rank": "全ランク",
+    "order": 5,
+    "role": "hunter",
+    "tags": [
+      "normal"
+    ],
+    "condition": {
+      "kind": "none"
+    },
+    "arenaInfo": {
+      "targets": [
+        "ラギアクルス"
+      ],
+      "participantLimit": "2人以下",
+      "rewardMaterials": [],
+      "notes": [
+        "評価時間は出典の表記をそのまま表示します。境界の等号・フレーム単位は未確認で、秒数への丸めや補完は行っていません。評価・自己ベスト・使用装備は保存しません。",
+        "使用可能な武器種・評価時間は今回確認できた資料では未確認です。"
+      ]
+    },
+    "unlocks": [],
+    "sources": [
+      {
+        "site": "MHXX攻略レシピ",
+        "url": "http://wiki.mhxg.org/ida/268860.html",
+        "kind": "detail",
+        "checkedAt": "2026-10-16"
+      },
+      {
+        "site": "MHXX攻略レシピ",
+        "url": "http://wiki.mhxg.org/data/2034.html",
+        "kind": "list",
+        "checkedAt": "2026-10-16"
+      }
+    ],
+    "verification": "partial",
+    "verificationNote": "日本版MHXXの攻略レシピ一覧・個別をHTTP取得。HRは記載された数値のみ採用し、難易度区分をHRから推測しません。実機確認は行っていません。名称・分類・装備・評価時間の独立照合が未完了の部分を監査に残しています。"
+  },
+  {
+    "id": "challenge-recipe-268861",
+    "name": "ジンオウガ討伐",
+    "category": "challenge",
+    "rank": "全ランク",
+    "order": 6,
+    "role": "hunter",
+    "tags": [
+      "normal"
+    ],
+    "condition": {
+      "kind": "none"
+    },
+    "arenaInfo": {
+      "targets": [
+        "ジンオウガ"
+      ],
+      "participantLimit": "2人以下",
+      "rewardMaterials": [],
+      "notes": [
+        "評価時間は出典の表記をそのまま表示します。境界の等号・フレーム単位は未確認で、秒数への丸めや補完は行っていません。評価・自己ベスト・使用装備は保存しません。",
+        "使用可能な武器種・評価時間は今回確認できた資料では未確認です。"
+      ]
+    },
+    "unlocks": [],
+    "sources": [
+      {
+        "site": "MHXX攻略レシピ",
+        "url": "http://wiki.mhxg.org/ida/268861.html",
+        "kind": "detail",
+        "checkedAt": "2026-10-16"
+      },
+      {
+        "site": "MHXX攻略レシピ",
+        "url": "http://wiki.mhxg.org/data/2034.html",
+        "kind": "list",
+        "checkedAt": "2026-10-16"
+      }
+    ],
+    "verification": "partial",
+    "verificationNote": "日本版MHXXの攻略レシピ一覧・個別をHTTP取得。HRは記載された数値のみ採用し、難易度区分をHRから推測しません。実機確認は行っていません。名称・分類・装備・評価時間の独立照合が未完了の部分を監査に残しています。"
+  },
+  {
+    "id": "challenge-recipe-268862",
+    "name": "ゴア・マガラ討伐",
+    "category": "challenge",
+    "rank": "全ランク",
+    "order": 7,
+    "role": "hunter",
+    "tags": [
+      "normal"
+    ],
+    "condition": {
+      "kind": "none"
+    },
+    "arenaInfo": {
+      "targets": [
+        "ゴア・マガラ"
+      ],
+      "participantLimit": "2人以下",
+      "rewardMaterials": [],
+      "notes": [
+        "評価時間は出典の表記をそのまま表示します。境界の等号・フレーム単位は未確認で、秒数への丸めや補完は行っていません。評価・自己ベスト・使用装備は保存しません。",
+        "使用可能な武器種・評価時間は今回確認できた資料では未確認です。"
+      ]
+    },
+    "unlocks": [],
+    "sources": [
+      {
+        "site": "MHXX攻略レシピ",
+        "url": "http://wiki.mhxg.org/ida/268862.html",
+        "kind": "detail",
+        "checkedAt": "2026-10-16"
+      },
+      {
+        "site": "MHXX攻略レシピ",
+        "url": "http://wiki.mhxg.org/data/2034.html",
+        "kind": "list",
+        "checkedAt": "2026-10-16"
+      }
+    ],
+    "verification": "partial",
+    "verificationNote": "日本版MHXXの攻略レシピ一覧・個別をHTTP取得。HRは記載された数値のみ採用し、難易度区分をHRから推測しません。実機確認は行っていません。名称・分類・装備・評価時間の独立照合が未完了の部分を監査に残しています。"
+  },
+  {
+    "id": "challenge-recipe-268863",
+    "name": "ティガレックス討伐",
+    "category": "challenge",
+    "rank": "全ランク",
+    "order": 8,
+    "role": "hunter",
+    "tags": [
+      "normal"
+    ],
+    "condition": {
+      "kind": "none"
+    },
+    "arenaInfo": {
+      "targets": [
+        "ティガレックス"
+      ],
+      "participantLimit": "2人以下",
+      "rewardMaterials": [],
+      "notes": [
+        "評価時間は出典の表記をそのまま表示します。境界の等号・フレーム単位は未確認で、秒数への丸めや補完は行っていません。評価・自己ベスト・使用装備は保存しません。",
+        "使用可能な武器種・評価時間は今回確認できた資料では未確認です。"
+      ]
+    },
+    "unlocks": [],
+    "sources": [
+      {
+        "site": "MHXX攻略レシピ",
+        "url": "http://wiki.mhxg.org/ida/268863.html",
+        "kind": "detail",
+        "checkedAt": "2026-10-16"
+      },
+      {
+        "site": "MHXX攻略レシピ",
+        "url": "http://wiki.mhxg.org/data/2034.html",
+        "kind": "list",
+        "checkedAt": "2026-10-16"
+      }
+    ],
+    "verification": "partial",
+    "verificationNote": "日本版MHXXの攻略レシピ一覧・個別をHTTP取得。HRは記載された数値のみ採用し、難易度区分をHRから推測しません。実機確認は行っていません。名称・分類・装備・評価時間の独立照合が未完了の部分を監査に残しています。"
+  },
+  {
+    "id": "challenge-recipe-268864",
+    "name": "リオレウス討伐",
+    "category": "challenge",
+    "rank": "全ランク",
+    "order": 9,
+    "role": "hunter",
+    "tags": [
+      "normal"
+    ],
+    "condition": {
+      "kind": "none"
+    },
+    "arenaInfo": {
+      "targets": [
+        "リオレウス"
+      ],
+      "participantLimit": "2人以下",
+      "rewardMaterials": [],
+      "notes": [
+        "評価時間は出典の表記をそのまま表示します。境界の等号・フレーム単位は未確認で、秒数への丸めや補完は行っていません。評価・自己ベスト・使用装備は保存しません。",
+        "使用可能な武器種・評価時間は今回確認できた資料では未確認です。"
+      ]
+    },
+    "unlocks": [],
+    "sources": [
+      {
+        "site": "MHXX攻略レシピ",
+        "url": "http://wiki.mhxg.org/ida/268864.html",
+        "kind": "detail",
+        "checkedAt": "2026-10-16"
+      },
+      {
+        "site": "MHXX攻略レシピ",
+        "url": "http://wiki.mhxg.org/data/2034.html",
+        "kind": "list",
+        "checkedAt": "2026-10-16"
+      }
+    ],
+    "verification": "partial",
+    "verificationNote": "日本版MHXXの攻略レシピ一覧・個別をHTTP取得。HRは記載された数値のみ採用し、難易度区分をHRから推測しません。実機確認は行っていません。名称・分類・装備・評価時間の独立照合が未完了の部分を監査に残しています。"
+  },
+  {
+    "id": "challenge-recipe-268865",
+    "name": "ナルガクルガ討伐",
+    "category": "challenge",
+    "rank": "全ランク",
+    "order": 10,
+    "role": "hunter",
+    "tags": [
+      "normal"
+    ],
+    "condition": {
+      "kind": "none"
+    },
+    "arenaInfo": {
+      "targets": [
+        "ナルガクルガ"
+      ],
+      "participantLimit": "2人以下",
+      "rewardMaterials": [],
+      "notes": [
+        "評価時間は出典の表記をそのまま表示します。境界の等号・フレーム単位は未確認で、秒数への丸めや補完は行っていません。評価・自己ベスト・使用装備は保存しません。",
+        "使用可能な武器種・評価時間は今回確認できた資料では未確認です。"
+      ]
+    },
+    "unlocks": [],
+    "sources": [
+      {
+        "site": "MHXX攻略レシピ",
+        "url": "http://wiki.mhxg.org/ida/268865.html",
+        "kind": "detail",
+        "checkedAt": "2026-10-16"
+      },
+      {
+        "site": "MHXX攻略レシピ",
+        "url": "http://wiki.mhxg.org/data/2034.html",
+        "kind": "list",
+        "checkedAt": "2026-10-16"
+      }
+    ],
+    "verification": "partial",
+    "verificationNote": "日本版MHXXの攻略レシピ一覧・個別をHTTP取得。HRは記載された数値のみ採用し、難易度区分をHRから推測しません。実機確認は行っていません。名称・分類・装備・評価時間の独立照合が未完了の部分を監査に残しています。"
+  },
+  {
+    "id": "challenge-recipe-268866",
+    "name": "ラングロトラ討伐",
+    "category": "challenge",
+    "rank": "全ランク",
+    "order": 11,
+    "role": "prowler",
+    "tags": [
+      "normal"
+    ],
+    "condition": {
+      "kind": "none"
+    },
+    "arenaInfo": {
+      "targets": [
+        "ラングロトラ"
+      ],
+      "participantLimit": "2人以下",
+      "rewardMaterials": [],
+      "notes": [
+        "評価時間は出典の表記をそのまま表示します。境界の等号・フレーム単位は未確認で、秒数への丸めや補完は行っていません。評価・自己ベスト・使用装備は保存しません。"
+      ],
+      "supportTypes": [
+        "カリスマ",
+        "ガード",
+        "回復",
+        "ボマー",
+        "コレクト"
+      ],
+      "evaluationNotation": "S7:00 A:14:00 B30:00"
+    },
+    "unlocks": [],
+    "sources": [
+      {
+        "site": "MHXX攻略レシピ",
+        "url": "http://wiki.mhxg.org/ida/268866.html",
+        "kind": "detail",
+        "checkedAt": "2026-10-16"
+      },
+      {
+        "site": "MHXX攻略レシピ",
+        "url": "http://wiki.mhxg.org/data/2034.html",
+        "kind": "list",
+        "checkedAt": "2026-10-16"
+      },
+      {
+        "site": "MHXXニャンター専門Wiki（傾向・評価時間）",
+        "url": "https://w.atwiki.jp/mhxxnyanter/pages/70.html#id_ad30915d",
+        "kind": "reference",
+        "checkedAt": "2026-10-16"
+      }
+    ],
+    "verification": "partial",
+    "verificationNote": "日本版MHXXの攻略レシピ一覧・個別をHTTP取得。HRは記載された数値のみ採用し、難易度区分をHRから推測しません。実機確認は行っていません。名称・分類・装備・評価時間の独立照合が未完了の部分を監査に残しています。"
+  },
+  {
+    "id": "challenge-recipe-268867",
+    "name": "ロアルドロス討伐",
+    "category": "challenge",
+    "rank": "全ランク",
+    "order": 12,
+    "role": "prowler",
+    "tags": [
+      "normal"
+    ],
+    "condition": {
+      "kind": "none"
+    },
+    "arenaInfo": {
+      "targets": [
+        "ロアルドロス"
+      ],
+      "participantLimit": "2人以下",
+      "rewardMaterials": [],
+      "notes": [
+        "評価時間は出典の表記をそのまま表示します。境界の等号・フレーム単位は未確認で、秒数への丸めや補完は行っていません。評価・自己ベスト・使用装備は保存しません。"
+      ],
+      "supportTypes": [
+        "カリスマ",
+        "ファイト",
+        "ガード",
+        "回復",
+        "ボマー"
+      ],
+      "evaluationNotation": "S7:00 A:14:00 B30:00"
+    },
+    "unlocks": [],
+    "sources": [
+      {
+        "site": "MHXX攻略レシピ",
+        "url": "http://wiki.mhxg.org/ida/268867.html",
+        "kind": "detail",
+        "checkedAt": "2026-10-16"
+      },
+      {
+        "site": "MHXX攻略レシピ",
+        "url": "http://wiki.mhxg.org/data/2034.html",
+        "kind": "list",
+        "checkedAt": "2026-10-16"
+      },
+      {
+        "site": "MHXXニャンター専門Wiki（傾向・評価時間）",
+        "url": "https://w.atwiki.jp/mhxxnyanter/pages/70.html#id_6c458263",
+        "kind": "reference",
+        "checkedAt": "2026-10-16"
+      }
+    ],
+    "verification": "partial",
+    "verificationNote": "日本版MHXXの攻略レシピ一覧・個別をHTTP取得。HRは記載された数値のみ採用し、難易度区分をHRから推測しません。実機確認は行っていません。名称・分類・装備・評価時間の独立照合が未完了の部分を監査に残しています。"
+  },
+  {
+    "id": "challenge-recipe-268868",
+    "name": "ウルクスス討伐",
+    "category": "challenge",
+    "rank": "全ランク",
+    "order": 13,
+    "role": "prowler",
+    "tags": [
+      "normal"
+    ],
+    "condition": {
+      "kind": "none"
+    },
+    "arenaInfo": {
+      "targets": [
+        "ウルクスス"
+      ],
+      "participantLimit": "2人以下",
+      "rewardMaterials": [],
+      "notes": [
+        "評価時間は出典の表記をそのまま表示します。境界の等号・フレーム単位は未確認で、秒数への丸めや補完は行っていません。評価・自己ベスト・使用装備は保存しません。"
+      ],
+      "supportTypes": [
+        "カリスマ",
+        "ファイト",
+        "ガード",
+        "ボマー",
+        "コレクト"
+      ],
+      "evaluationNotation": "S7:00 A:14:00 B30:00"
+    },
+    "unlocks": [],
+    "sources": [
+      {
+        "site": "MHXX攻略レシピ",
+        "url": "http://wiki.mhxg.org/ida/268868.html",
+        "kind": "detail",
+        "checkedAt": "2026-10-16"
+      },
+      {
+        "site": "MHXX攻略レシピ",
+        "url": "http://wiki.mhxg.org/data/2034.html",
+        "kind": "list",
+        "checkedAt": "2026-10-16"
+      },
+      {
+        "site": "MHXXニャンター専門Wiki（傾向・評価時間）",
+        "url": "https://w.atwiki.jp/mhxxnyanter/pages/70.html#id_21f45800",
+        "kind": "reference",
+        "checkedAt": "2026-10-16"
+      }
+    ],
+    "verification": "partial",
+    "verificationNote": "日本版MHXXの攻略レシピ一覧・個別をHTTP取得。HRは記載された数値のみ採用し、難易度区分をHRから推測しません。実機確認は行っていません。名称・分類・装備・評価時間の独立照合が未完了の部分を監査に残しています。"
+  },
+  {
+    "id": "challenge-recipe-268869",
+    "name": "イャンクック討伐",
+    "category": "challenge",
+    "rank": "全ランク",
+    "order": 14,
+    "role": "prowler",
+    "tags": [
+      "normal"
+    ],
+    "condition": {
+      "kind": "none"
+    },
+    "arenaInfo": {
+      "targets": [
+        "イャンクック"
+      ],
+      "participantLimit": "2人以下",
+      "rewardMaterials": [],
+      "notes": [
+        "評価時間は出典の表記をそのまま表示します。境界の等号・フレーム単位は未確認で、秒数への丸めや補完は行っていません。評価・自己ベスト・使用装備は保存しません。"
+      ],
+      "supportTypes": [
+        "ファイト",
+        "ガード",
+        "回復",
+        "ボマー",
+        "コレクト"
+      ],
+      "evaluationNotation": "S7:00 A:14:00 B30:00"
+    },
+    "unlocks": [],
+    "sources": [
+      {
+        "site": "MHXX攻略レシピ",
+        "url": "http://wiki.mhxg.org/ida/268869.html",
+        "kind": "detail",
+        "checkedAt": "2026-10-16"
+      },
+      {
+        "site": "MHXX攻略レシピ",
+        "url": "http://wiki.mhxg.org/data/2034.html",
+        "kind": "list",
+        "checkedAt": "2026-10-16"
+      },
+      {
+        "site": "MHXXニャンター専門Wiki（傾向・評価時間）",
+        "url": "https://w.atwiki.jp/mhxxnyanter/pages/70.html#id_f64b7940",
+        "kind": "reference",
+        "checkedAt": "2026-10-16"
+      }
+    ],
+    "verification": "partial",
+    "verificationNote": "日本版MHXXの攻略レシピ一覧・個別をHTTP取得。HRは記載された数値のみ採用し、難易度区分をHRから推測しません。実機確認は行っていません。名称・分類・装備・評価時間の独立照合が未完了の部分を監査に残しています。"
+  },
+  {
+    "id": "challenge-recipe-268870",
+    "name": "アオアシラ討伐",
+    "category": "challenge",
+    "rank": "全ランク",
+    "order": 15,
+    "role": "prowler",
+    "tags": [
+      "normal"
+    ],
+    "condition": {
+      "kind": "none"
+    },
+    "arenaInfo": {
+      "targets": [
+        "アオアシラ"
+      ],
+      "participantLimit": "2人以下",
+      "rewardMaterials": [],
+      "notes": [
+        "評価時間は出典の表記をそのまま表示します。境界の等号・フレーム単位は未確認で、秒数への丸めや補完は行っていません。評価・自己ベスト・使用装備は保存しません。"
+      ],
+      "supportTypes": [
+        "カリスマ",
+        "ファイト",
+        "ガード",
+        "ボマー",
+        "コレクト"
+      ],
+      "evaluationNotation": "S7:00 A:14:00 B30:00"
+    },
+    "unlocks": [],
+    "sources": [
+      {
+        "site": "MHXX攻略レシピ",
+        "url": "http://wiki.mhxg.org/ida/268870.html",
+        "kind": "detail",
+        "checkedAt": "2026-10-16"
+      },
+      {
+        "site": "MHXX攻略レシピ",
+        "url": "http://wiki.mhxg.org/data/2034.html",
+        "kind": "list",
+        "checkedAt": "2026-10-16"
+      },
+      {
+        "site": "MHXXニャンター専門Wiki（傾向・評価時間）",
+        "url": "https://w.atwiki.jp/mhxxnyanter/pages/70.html#id_ff2c6318",
+        "kind": "reference",
+        "checkedAt": "2026-10-16"
+      }
+    ],
+    "verification": "partial",
+    "verificationNote": "日本版MHXXの攻略レシピ一覧・個別をHTTP取得。HRは記載された数値のみ採用し、難易度区分をHRから推測しません。実機確認は行っていません。名称・分類・装備・評価時間の独立照合が未完了の部分を監査に残しています。"
+  },
+  {
+    "id": "challenge-recipe-278971",
+    "name": "大連続狩猟1",
+    "category": "challenge",
+    "rank": "全ランク",
+    "order": 16,
+    "role": "hunter",
+    "tags": [
+      "normal"
+    ],
+    "condition": {
+      "kind": "none"
+    },
+    "arenaInfo": {
+      "targets": [
+        "ティガレックス",
+        "ナルガクルガ",
+        "ジンオウガ"
+      ],
+      "participantLimit": "2人以下",
+      "rewardMaterials": [],
+      "notes": [
+        "評価時間は出典の表記をそのまま表示します。境界の等号・フレーム単位は未確認で、秒数への丸めや補完は行っていません。評価・自己ベスト・使用装備は保存しません。",
+        "使用可能な武器種・評価時間は今回確認できた資料では未確認です。"
+      ]
+    },
+    "unlocks": [],
+    "sources": [
+      {
+        "site": "MHXX攻略レシピ",
+        "url": "http://wiki.mhxg.org/ida/278971.html",
+        "kind": "detail",
+        "checkedAt": "2026-10-16"
+      },
+      {
+        "site": "MHXX攻略レシピ",
+        "url": "http://wiki.mhxg.org/data/2034.html",
+        "kind": "list",
+        "checkedAt": "2026-10-16"
+      }
+    ],
+    "verification": "partial",
+    "verificationNote": "日本版MHXXの攻略レシピ一覧・個別をHTTP取得。HRは記載された数値のみ採用し、難易度区分をHRから推測しません。実機確認は行っていません。名称・分類・装備・評価時間の独立照合が未完了の部分を監査に残しています。"
+  },
+  {
+    "id": "challenge-recipe-278972",
+    "name": "大連続狩猟2",
+    "category": "challenge",
+    "rank": "全ランク",
+    "order": 17,
+    "role": "hunter",
+    "tags": [
+      "normal"
+    ],
+    "condition": {
+      "kind": "none"
+    },
+    "arenaInfo": {
+      "targets": [
+        "ラージャン",
+        "イビルジョー"
+      ],
+      "participantLimit": "2人以下",
+      "rewardMaterials": [],
+      "notes": [
+        "評価時間は出典の表記をそのまま表示します。境界の等号・フレーム単位は未確認で、秒数への丸めや補完は行っていません。評価・自己ベスト・使用装備は保存しません。",
+        "使用可能な武器種・評価時間は今回確認できた資料では未確認です。"
+      ]
+    },
+    "unlocks": [],
+    "sources": [
+      {
+        "site": "MHXX攻略レシピ",
+        "url": "http://wiki.mhxg.org/ida/278972.html",
+        "kind": "detail",
+        "checkedAt": "2026-10-16"
+      },
+      {
+        "site": "MHXX攻略レシピ",
+        "url": "http://wiki.mhxg.org/data/2034.html",
+        "kind": "list",
+        "checkedAt": "2026-10-16"
+      }
+    ],
+    "verification": "partial",
+    "verificationNote": "日本版MHXXの攻略レシピ一覧・個別をHTTP取得。HRは記載された数値のみ採用し、難易度区分をHRから推測しません。実機確認は行っていません。名称・分類・装備・評価時間の独立照合が未完了の部分を監査に残しています。"
+  },
+  {
+    "id": "challenge-recipe-278973",
+    "name": "大連続狩猟3",
+    "category": "challenge",
+    "rank": "全ランク",
+    "order": 18,
+    "role": "hunter",
+    "tags": [
+      "normal"
+    ],
+    "condition": {
+      "kind": "none"
+    },
+    "arenaInfo": {
+      "targets": [
+        "ガムート",
+        "ライゼクス",
+        "タマミツネ",
+        "ディノバルド"
+      ],
+      "participantLimit": "2人以下",
+      "rewardMaterials": [],
+      "notes": [
+        "評価時間は出典の表記をそのまま表示します。境界の等号・フレーム単位は未確認で、秒数への丸めや補完は行っていません。評価・自己ベスト・使用装備は保存しません。",
+        "使用可能な武器種・評価時間は今回確認できた資料では未確認です。"
+      ]
+    },
+    "unlocks": [],
+    "sources": [
+      {
+        "site": "MHXX攻略レシピ",
+        "url": "http://wiki.mhxg.org/ida/278973.html",
+        "kind": "detail",
+        "checkedAt": "2026-10-16"
+      },
+      {
+        "site": "MHXX攻略レシピ",
+        "url": "http://wiki.mhxg.org/data/2034.html",
+        "kind": "list",
+        "checkedAt": "2026-10-16"
+      }
+    ],
+    "verification": "partial",
+    "verificationNote": "日本版MHXXの攻略レシピ一覧・個別をHTTP取得。HRは記載された数値のみ採用し、難易度区分をHRから推測しません。実機確認は行っていません。名称・分類・装備・評価時間の独立照合が未完了の部分を監査に残しています。"
+  },
+  {
+    "id": "challenge-recipe-278974",
+    "name": "大連続狩猟4",
+    "category": "challenge",
+    "rank": "全ランク",
+    "order": 19,
+    "role": "hunter",
+    "tags": [
+      "normal"
+    ],
+    "condition": {
+      "kind": "none"
+    },
+    "arenaInfo": {
+      "targets": [
+        "ガムート",
+        "タマミツネ",
+        "ディノバルド",
+        "ライゼクス"
+      ],
+      "participantLimit": "2人以下",
+      "rewardMaterials": [],
+      "notes": [
+        "評価時間は出典の表記をそのまま表示します。境界の等号・フレーム単位は未確認で、秒数への丸めや補完は行っていません。評価・自己ベスト・使用装備は保存しません。",
+        "使用可能な武器種・評価時間は今回確認できた資料では未確認です。"
+      ]
+    },
+    "unlocks": [],
+    "sources": [
+      {
+        "site": "MHXX攻略レシピ",
+        "url": "http://wiki.mhxg.org/ida/278974.html",
+        "kind": "detail",
+        "checkedAt": "2026-10-16"
+      },
+      {
+        "site": "MHXX攻略レシピ",
+        "url": "http://wiki.mhxg.org/data/2034.html",
+        "kind": "list",
+        "checkedAt": "2026-10-16"
+      }
+    ],
+    "verification": "partial",
+    "verificationNote": "日本版MHXXの攻略レシピ一覧・個別をHTTP取得。HRは記載された数値のみ採用し、難易度区分をHRから推測しません。実機確認は行っていません。名称・分類・装備・評価時間の独立照合が未完了の部分を監査に残しています。"
+  },
+  {
+    "id": "challenge-recipe-278975",
+    "name": "大連続狩猟5",
+    "category": "challenge",
+    "rank": "全ランク",
+    "order": 20,
+    "role": "prowler",
+    "tags": [
+      "normal"
+    ],
+    "condition": {
+      "kind": "none"
+    },
+    "arenaInfo": {
+      "targets": [
+        "ドスランポス",
+        "アオアシラ",
+        "イャンクック"
+      ],
+      "participantLimit": "2人以下",
+      "rewardMaterials": [],
+      "notes": [
+        "評価時間は出典の表記をそのまま表示します。境界の等号・フレーム単位は未確認で、秒数への丸めや補完は行っていません。評価・自己ベスト・使用装備は保存しません。"
+      ],
+      "supportTypes": [
+        "カリスマ",
+        "ファイト",
+        "ガード",
+        "回復",
+        "コレクト"
+      ],
+      "evaluationNotation": "S10:00 A20:00 B35:00"
+    },
+    "unlocks": [],
+    "sources": [
+      {
+        "site": "MHXX攻略レシピ",
+        "url": "http://wiki.mhxg.org/ida/278975.html",
+        "kind": "detail",
+        "checkedAt": "2026-10-16"
+      },
+      {
+        "site": "MHXX攻略レシピ",
+        "url": "http://wiki.mhxg.org/data/2034.html",
+        "kind": "list",
+        "checkedAt": "2026-10-16"
+      },
+      {
+        "site": "MHXXニャンター専門Wiki（傾向・評価時間）",
+        "url": "https://w.atwiki.jp/mhxxnyanter/pages/70.html#id_703dd738",
+        "kind": "reference",
+        "checkedAt": "2026-10-16"
+      }
+    ],
+    "verification": "partial",
+    "verificationNote": "日本版MHXXの攻略レシピ一覧・個別をHTTP取得。HRは記載された数値のみ採用し、難易度区分をHRから推測しません。実機確認は行っていません。名称・分類・装備・評価時間の独立照合が未完了の部分を監査に残しています。"
+  }
+]

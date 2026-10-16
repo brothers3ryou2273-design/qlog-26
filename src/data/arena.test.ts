@@ -7,6 +7,7 @@ import { evaluate, dependents, references, validateQuests } from "../lib/rules";
 import { hasUnlockIndicator } from "../lib/unlocks";
 import { parseSave, SAVE_KEY } from "../lib/storage";
 import baseline from "../../docs/progress-baseline-1311.json";
+import challenge from "../../docs/challenge-observations.json";
 import arena from "../../docs/arena-observations.json";
 import indicators from "../../docs/arena-unlock-indicators-audit.json";
 import achievements from "./arena-achievements.json";
@@ -25,7 +26,7 @@ type Roster = {
     condition: unknown;
   }[];
 };
-const rosters = [arena] as Roster[];
+const rosters = [arena, challenge] as Roster[];
 const named = (name: string) =>
   quests.find((q) => q.category === "arena" && q.name === name)!;
 describe("arena and challenge observed source facts", () => {

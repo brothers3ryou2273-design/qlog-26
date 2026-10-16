@@ -1,0 +1,700 @@
+{
+  "category": "challenge",
+  "sourceUrl": "http://wiki.mhxg.org/data/2034.html",
+  "observedCount": 20,
+  "checkedAt": "2026-10-16",
+  "listHtmlSha256": "2dde65b32a43769906ffd55c50ae2489db281220af1dca786890e825043befdc",
+  "entries": [
+    {
+      "key": "challenge",
+      "rank": "全ランク",
+      "order": 1,
+      "listName": "タマミツネ討伐",
+      "listUrl": "http://wiki.mhxg.org/data/2034.html",
+      "url": "http://wiki.mhxg.org/ida/267308.html",
+      "icons": [
+        "討伐"
+      ],
+      "name": "タマミツネ討伐",
+      "detailTitle": "チャレンジ★タマミツネ討伐 | 【MHXX】モンハンダブルクロス攻略レシピ",
+      "panels": [
+        {
+          "title": "備考",
+          "text": "2人以下",
+          "links": []
+        }
+      ],
+      "targets": [
+        "タマミツネ"
+      ],
+      "questId": "challenge-recipe-267308",
+      "role": "hunter",
+      "tags": [
+        "normal"
+      ],
+      "condition": {
+        "kind": "none"
+      },
+      "httpStatus": 200,
+      "checkedAt": "2026-10-16",
+      "detailHtmlSha256": "26f886afc0ce88e53ddc8024b7fa7e47d4c639afa4f4f8a111b7c033e13fb55f"
+    },
+    {
+      "key": "challenge",
+      "rank": "全ランク",
+      "order": 2,
+      "listName": "ディノバルド討伐",
+      "listUrl": "http://wiki.mhxg.org/data/2034.html",
+      "url": "http://wiki.mhxg.org/ida/267309.html",
+      "icons": [
+        "討伐"
+      ],
+      "name": "ディノバルド討伐",
+      "detailTitle": "チャレンジ★ディノバルド討伐 | 【MHXX】モンハンダブルクロス攻略レシピ",
+      "panels": [
+        {
+          "title": "備考",
+          "text": "2人以下",
+          "links": []
+        }
+      ],
+      "targets": [
+        "ディノバルド"
+      ],
+      "questId": "challenge-recipe-267309",
+      "role": "hunter",
+      "tags": [
+        "normal"
+      ],
+      "condition": {
+        "kind": "none"
+      },
+      "httpStatus": 200,
+      "checkedAt": "2026-10-16",
+      "detailHtmlSha256": "2363a1ecd908c08f30471c6aed49ac2a8811a6e509ce8c33afe0e824c03af04a"
+    },
+    {
+      "key": "challenge",
+      "rank": "全ランク",
+      "order": 3,
+      "listName": "ガムート討伐",
+      "listUrl": "http://wiki.mhxg.org/data/2034.html",
+      "url": "http://wiki.mhxg.org/ida/267310.html",
+      "icons": [
+        "討伐"
+      ],
+      "name": "ガムート討伐",
+      "detailTitle": "チャレンジ★ガムート討伐 | 【MHXX】モンハンダブルクロス攻略レシピ",
+      "panels": [
+        {
+          "title": "備考",
+          "text": "2人以下",
+          "links": []
+        }
+      ],
+      "targets": [
+        "ガムート"
+      ],
+      "questId": "challenge-recipe-267310",
+      "role": "hunter",
+      "tags": [
+        "normal"
+      ],
+      "condition": {
+        "kind": "none"
+      },
+      "httpStatus": 200,
+      "checkedAt": "2026-10-16",
+      "detailHtmlSha256": "e87bec1376a9579cc8a76fbea86e120e3bae1b2e9d475fb51a74ca2e7bae6665"
+    },
+    {
+      "key": "challenge",
+      "rank": "全ランク",
+      "order": 4,
+      "listName": "ライゼクス討伐",
+      "listUrl": "http://wiki.mhxg.org/data/2034.html",
+      "url": "http://wiki.mhxg.org/ida/267311.html",
+      "icons": [
+        "討伐"
+      ],
+      "name": "ライゼクス討伐",
+      "detailTitle": "チャレンジ★ライゼクス討伐 | 【MHXX】モンハンダブルクロス攻略レシピ",
+      "panels": [
+        {
+          "title": "備考",
+          "text": "2人以下",
+          "links": []
+        }
+      ],
+      "targets": [
+        "ライゼクス"
+      ],
+      "questId": "challenge-recipe-267311",
+      "role": "hunter",
+      "tags": [
+        "normal"
+      ],
+      "condition": {
+        "kind": "none"
+      },
+      "httpStatus": 200,
+      "checkedAt": "2026-10-16",
+      "detailHtmlSha256": "6282aceef3e430e2c3e8c760af656668da9812eac46022e01bf434dc8092b55e"
+    },
+    {
+      "key": "challenge",
+      "rank": "全ランク",
+      "order": 5,
+      "listName": "ラギアクルス討伐",
+      "listUrl": "http://wiki.mhxg.org/data/2034.html",
+      "url": "http://wiki.mhxg.org/ida/268860.html",
+      "icons": [
+        "討伐"
+      ],
+      "name": "ラギアクルス討伐",
+      "detailTitle": "チャレンジ★ラギアクルス討伐 | 【MHXX】モンハンダブルクロス攻略レシピ",
+      "panels": [
+        {
+          "title": "備考",
+          "text": "2人以下",
+          "links": []
+        }
+      ],
+      "targets": [
+        "ラギアクルス"
+      ],
+      "questId": "challenge-recipe-268860",
+      "role": "hunter",
+      "tags": [
+        "normal"
+      ],
+      "condition": {
+        "kind": "none"
+      },
+      "httpStatus": 200,
+      "checkedAt": "2026-10-16",
+      "detailHtmlSha256": "6b60c750369df6dbb5035c6266b74bc39d7cdf93382dfa069ec6ac3996e45b74"
+    },
+    {
+      "key": "challenge",
+      "rank": "全ランク",
+      "order": 6,
+      "listName": "ジンオウガ討伐",
+      "listUrl": "http://wiki.mhxg.org/data/2034.html",
+      "url": "http://wiki.mhxg.org/ida/268861.html",
+      "icons": [
+        "討伐"
+      ],
+      "name": "ジンオウガ討伐",
+      "detailTitle": "チャレンジ★ジンオウガ討伐 | 【MHXX】モンハンダブルクロス攻略レシピ",
+      "panels": [
+        {
+          "title": "備考",
+          "text": "2人以下",
+          "links": []
+        }
+      ],
+      "targets": [
+        "ジンオウガ"
+      ],
+      "questId": "challenge-recipe-268861",
+      "role": "hunter",
+      "tags": [
+        "normal"
+      ],
+      "condition": {
+        "kind": "none"
+      },
+      "httpStatus": 200,
+      "checkedAt": "2026-10-16",
+      "detailHtmlSha256": "ab86e2d6231077fb21807b4d89134534dece3c7a0cdf510fd17e2070102882e1"
+    },
+    {
+      "key": "challenge",
+      "rank": "全ランク",
+      "order": 7,
+      "listName": "ゴア・マガラ討伐",
+      "listUrl": "http://wiki.mhxg.org/data/2034.html",
+      "url": "http://wiki.mhxg.org/ida/268862.html",
+      "icons": [
+        "討伐"
+      ],
+      "name": "ゴア・マガラ討伐",
+      "detailTitle": "チャレンジ★ゴア・マガラ討伐 | 【MHXX】モンハンダブルクロス攻略レシピ",
+      "panels": [
+        {
+          "title": "備考",
+          "text": "2人以下",
+          "links": []
+        }
+      ],
+      "targets": [
+        "ゴア・マガラ"
+      ],
+      "questId": "challenge-recipe-268862",
+      "role": "hunter",
+      "tags": [
+        "normal"
+      ],
+      "condition": {
+        "kind": "none"
+      },
+      "httpStatus": 200,
+      "checkedAt": "2026-10-16",
+      "detailHtmlSha256": "2a67674d3a7cf91a173ed0f1ed6d515e8ae848abc930decf69081384859747cd"
+    },
+    {
+      "key": "challenge",
+      "rank": "全ランク",
+      "order": 8,
+      "listName": "ティガレックス討伐",
+      "listUrl": "http://wiki.mhxg.org/data/2034.html",
+      "url": "http://wiki.mhxg.org/ida/268863.html",
+      "icons": [
+        "討伐"
+      ],
+      "name": "ティガレックス討伐",
+      "detailTitle": "チャレンジ★ティガレックス討伐 | 【MHXX】モンハンダブルクロス攻略レシピ",
+      "panels": [
+        {
+          "title": "備考",
+          "text": "2人以下",
+          "links": []
+        }
+      ],
+      "targets": [
+        "ティガレックス"
+      ],
+      "questId": "challenge-recipe-268863",
+      "role": "hunter",
+      "tags": [
+        "normal"
+      ],
+      "condition": {
+        "kind": "none"
+      },
+      "httpStatus": 200,
+      "checkedAt": "2026-10-16",
+      "detailHtmlSha256": "83dd2119de1bfa5bf64143344ebb3d4ccc586ab2d6617589fda81448b70fcc69"
+    },
+    {
+      "key": "challenge",
+      "rank": "全ランク",
+      "order": 9,
+      "listName": "リオレウス討伐",
+      "listUrl": "http://wiki.mhxg.org/data/2034.html",
+      "url": "http://wiki.mhxg.org/ida/268864.html",
+      "icons": [
+        "討伐"
+      ],
+      "name": "リオレウス討伐",
+      "detailTitle": "チャレンジ★リオレウス討伐 | 【MHXX】モンハンダブルクロス攻略レシピ",
+      "panels": [
+        {
+          "title": "備考",
+          "text": "2人以下",
+          "links": []
+        }
+      ],
+      "targets": [
+        "リオレウス"
+      ],
+      "questId": "challenge-recipe-268864",
+      "role": "hunter",
+      "tags": [
+        "normal"
+      ],
+      "condition": {
+        "kind": "none"
+      },
+      "httpStatus": 200,
+      "checkedAt": "2026-10-16",
+      "detailHtmlSha256": "8e67742c6d6b8fa82278b4c1822ac168612cc35cfda69685ef517935d15072ae"
+    },
+    {
+      "key": "challenge",
+      "rank": "全ランク",
+      "order": 10,
+      "listName": "ナルガクルガ討伐",
+      "listUrl": "http://wiki.mhxg.org/data/2034.html",
+      "url": "http://wiki.mhxg.org/ida/268865.html",
+      "icons": [
+        "討伐"
+      ],
+      "name": "ナルガクルガ討伐",
+      "detailTitle": "チャレンジ★ナルガクルガ討伐 | 【MHXX】モンハンダブルクロス攻略レシピ",
+      "panels": [
+        {
+          "title": "備考",
+          "text": "2人以下",
+          "links": []
+        }
+      ],
+      "targets": [
+        "ナルガクルガ"
+      ],
+      "questId": "challenge-recipe-268865",
+      "role": "hunter",
+      "tags": [
+        "normal"
+      ],
+      "condition": {
+        "kind": "none"
+      },
+      "httpStatus": 200,
+      "checkedAt": "2026-10-16",
+      "detailHtmlSha256": "36ab072ae15ddba5a51a686e494c826bc33965acdf454616bc88380e209b8a2c"
+    },
+    {
+      "key": "challenge",
+      "rank": "全ランク",
+      "order": 11,
+      "listName": "ラングロトラ討伐",
+      "listUrl": "http://wiki.mhxg.org/data/2034.html",
+      "url": "http://wiki.mhxg.org/ida/268866.html",
+      "icons": [
+        "ニャンター"
+      ],
+      "name": "ラングロトラ討伐",
+      "detailTitle": "チャレンジ★ラングロトラ討伐 | 【MHXX】モンハンダブルクロス攻略レシピ",
+      "panels": [
+        {
+          "title": "備考",
+          "text": "2人以下",
+          "links": []
+        }
+      ],
+      "targets": [
+        "ラングロトラ"
+      ],
+      "questId": "challenge-recipe-268866",
+      "role": "prowler",
+      "tags": [
+        "normal"
+      ],
+      "condition": {
+        "kind": "none"
+      },
+      "httpStatus": 200,
+      "checkedAt": "2026-10-16",
+      "detailHtmlSha256": "a27c57d36b29126966bf9106637fa6fc7f4413214a4237c77ebf2674b38b4be3"
+    },
+    {
+      "key": "challenge",
+      "rank": "全ランク",
+      "order": 12,
+      "listName": "ロアルドロス討伐",
+      "listUrl": "http://wiki.mhxg.org/data/2034.html",
+      "url": "http://wiki.mhxg.org/ida/268867.html",
+      "icons": [
+        "ニャンター"
+      ],
+      "name": "ロアルドロス討伐",
+      "detailTitle": "チャレンジ★ロアルドロス討伐 | 【MHXX】モンハンダブルクロス攻略レシピ",
+      "panels": [
+        {
+          "title": "備考",
+          "text": "2人以下",
+          "links": []
+        }
+      ],
+      "targets": [
+        "ロアルドロス"
+      ],
+      "questId": "challenge-recipe-268867",
+      "role": "prowler",
+      "tags": [
+        "normal"
+      ],
+      "condition": {
+        "kind": "none"
+      },
+      "httpStatus": 200,
+      "checkedAt": "2026-10-16",
+      "detailHtmlSha256": "46418c85add494d94c979faf2dfaca7a41c49fdc60bda520a652472a4f4f6ff8"
+    },
+    {
+      "key": "challenge",
+      "rank": "全ランク",
+      "order": 13,
+      "listName": "ウルクスス討伐",
+      "listUrl": "http://wiki.mhxg.org/data/2034.html",
+      "url": "http://wiki.mhxg.org/ida/268868.html",
+      "icons": [
+        "ニャンター"
+      ],
+      "name": "ウルクスス討伐",
+      "detailTitle": "チャレンジ★ウルクスス討伐 | 【MHXX】モンハンダブルクロス攻略レシピ",
+      "panels": [
+        {
+          "title": "備考",
+          "text": "2人以下",
+          "links": []
+        }
+      ],
+      "targets": [
+        "ウルクスス"
+      ],
+      "questId": "challenge-recipe-268868",
+      "role": "prowler",
+      "tags": [
+        "normal"
+      ],
+      "condition": {
+        "kind": "none"
+      },
+      "httpStatus": 200,
+      "checkedAt": "2026-10-16",
+      "detailHtmlSha256": "ba426437845d763e72b8cc7527a84fbe2a6d77110ea0828a9919aaaf5f65e927"
+    },
+    {
+      "key": "challenge",
+      "rank": "全ランク",
+      "order": 14,
+      "listName": "イャンクック討伐",
+      "listUrl": "http://wiki.mhxg.org/data/2034.html",
+      "url": "http://wiki.mhxg.org/ida/268869.html",
+      "icons": [
+        "ニャンター"
+      ],
+      "name": "イャンクック討伐",
+      "detailTitle": "チャレンジ★イャンクック討伐 | 【MHXX】モンハンダブルクロス攻略レシピ",
+      "panels": [
+        {
+          "title": "備考",
+          "text": "2人以下",
+          "links": []
+        }
+      ],
+      "targets": [
+        "イャンクック"
+      ],
+      "questId": "challenge-recipe-268869",
+      "role": "prowler",
+      "tags": [
+        "normal"
+      ],
+      "condition": {
+        "kind": "none"
+      },
+      "httpStatus": 200,
+      "checkedAt": "2026-10-16",
+      "detailHtmlSha256": "a02267c31e6cc159d65cf00d7e02c3c5f5ebb618e483ccb64b3a4296d1219546"
+    },
+    {
+      "key": "challenge",
+      "rank": "全ランク",
+      "order": 15,
+      "listName": "アオアシラ討伐",
+      "listUrl": "http://wiki.mhxg.org/data/2034.html",
+      "url": "http://wiki.mhxg.org/ida/268870.html",
+      "icons": [
+        "ニャンター"
+      ],
+      "name": "アオアシラ討伐",
+      "detailTitle": "チャレンジ★アオアシラ討伐 | 【MHXX】モンハンダブルクロス攻略レシピ",
+      "panels": [
+        {
+          "title": "備考",
+          "text": "2人以下",
+          "links": []
+        }
+      ],
+      "targets": [
+        "アオアシラ"
+      ],
+      "questId": "challenge-recipe-268870",
+      "role": "prowler",
+      "tags": [
+        "normal"
+      ],
+      "condition": {
+        "kind": "none"
+      },
+      "httpStatus": 200,
+      "checkedAt": "2026-10-16",
+      "detailHtmlSha256": "c772ef8ceeedc31ded92974dcc38f3e12bad2f4f1341f6c7d57e7f3579f74afe"
+    },
+    {
+      "key": "challenge",
+      "rank": "全ランク",
+      "order": 16,
+      "listName": "大連続狩猟1",
+      "listUrl": "http://wiki.mhxg.org/data/2034.html",
+      "url": "http://wiki.mhxg.org/ida/278971.html",
+      "icons": [
+        "討伐"
+      ],
+      "name": "大連続狩猟1",
+      "detailTitle": "チャレンジ★大連続狩猟1 | 【MHXX】モンハンダブルクロス攻略レシピ",
+      "panels": [
+        {
+          "title": "備考",
+          "text": "2人以下",
+          "links": []
+        }
+      ],
+      "targets": [
+        "ティガレックス",
+        "ナルガクルガ",
+        "ジンオウガ"
+      ],
+      "questId": "challenge-recipe-278971",
+      "role": "hunter",
+      "tags": [
+        "normal"
+      ],
+      "condition": {
+        "kind": "none"
+      },
+      "httpStatus": 200,
+      "checkedAt": "2026-10-16",
+      "detailHtmlSha256": "3fcf3be7754128933f54ee87f689988f1e1c7927a17b570709d28421d074fd0e"
+    },
+    {
+      "key": "challenge",
+      "rank": "全ランク",
+      "order": 17,
+      "listName": "大連続狩猟2",
+      "listUrl": "http://wiki.mhxg.org/data/2034.html",
+      "url": "http://wiki.mhxg.org/ida/278972.html",
+      "icons": [
+        "討伐"
+      ],
+      "name": "大連続狩猟2",
+      "detailTitle": "チャレンジ★大連続狩猟2 | 【MHXX】モンハンダブルクロス攻略レシピ",
+      "panels": [
+        {
+          "title": "備考",
+          "text": "2人以下",
+          "links": []
+        }
+      ],
+      "targets": [
+        "ラージャン",
+        "イビルジョー"
+      ],
+      "questId": "challenge-recipe-278972",
+      "role": "hunter",
+      "tags": [
+        "normal"
+      ],
+      "condition": {
+        "kind": "none"
+      },
+      "httpStatus": 200,
+      "checkedAt": "2026-10-16",
+      "detailHtmlSha256": "e8c04d07abfb5f34ad037bbc0c982b28c5ecbd1472a2afc42eabdc958062898a"
+    },
+    {
+      "key": "challenge",
+      "rank": "全ランク",
+      "order": 18,
+      "listName": "大連続狩猟3",
+      "listUrl": "http://wiki.mhxg.org/data/2034.html",
+      "url": "http://wiki.mhxg.org/ida/278973.html",
+      "icons": [
+        "討伐"
+      ],
+      "name": "大連続狩猟3",
+      "detailTitle": "チャレンジ★大連続狩猟3 | 【MHXX】モンハンダブルクロス攻略レシピ",
+      "panels": [
+        {
+          "title": "備考",
+          "text": "2人以下",
+          "links": []
+        }
+      ],
+      "targets": [
+        "ガムート",
+        "ライゼクス",
+        "タマミツネ",
+        "ディノバルド"
+      ],
+      "questId": "challenge-recipe-278973",
+      "role": "hunter",
+      "tags": [
+        "normal"
+      ],
+      "condition": {
+        "kind": "none"
+      },
+      "httpStatus": 200,
+      "checkedAt": "2026-10-16",
+      "detailHtmlSha256": "9a6efb35eaf0691d48c1f7f843baf936e57be72c538686177f69d136b614efbb"
+    },
+    {
+      "key": "challenge",
+      "rank": "全ランク",
+      "order": 19,
+      "listName": "大連続狩猟4",
+      "listUrl": "http://wiki.mhxg.org/data/2034.html",
+      "url": "http://wiki.mhxg.org/ida/278974.html",
+      "icons": [
+        "討伐"
+      ],
+      "name": "大連続狩猟4",
+      "detailTitle": "チャレンジ★大連続狩猟4 | 【MHXX】モンハンダブルクロス攻略レシピ",
+      "panels": [
+        {
+          "title": "備考",
+          "text": "2人以下",
+          "links": []
+        }
+      ],
+      "targets": [
+        "ガムート",
+        "タマミツネ",
+        "ディノバルド",
+        "ライゼクス"
+      ],
+      "questId": "challenge-recipe-278974",
+      "role": "hunter",
+      "tags": [
+        "normal"
+      ],
+      "condition": {
+        "kind": "none"
+      },
+      "httpStatus": 200,
+      "checkedAt": "2026-10-16",
+      "detailHtmlSha256": "1a1d68ff70a52980fc0a1bca0155de953f4dfeab6ac28fd32b2cef217e36945f"
+    },
+    {
+      "key": "challenge",
+      "rank": "全ランク",
+      "order": 20,
+      "listName": "大連続狩猟5",
+      "listUrl": "http://wiki.mhxg.org/data/2034.html",
+      "url": "http://wiki.mhxg.org/ida/278975.html",
+      "icons": [
+        "ニャンター"
+      ],
+      "name": "大連続狩猟5",
+      "detailTitle": "チャレンジ★大連続狩猟5 | 【MHXX】モンハンダブルクロス攻略レシピ",
+      "panels": [
+        {
+          "title": "備考",
+          "text": "2人以下",
+          "links": []
+        }
+      ],
+      "targets": [
+        "ドスランポス",
+        "アオアシラ",
+        "イャンクック"
+      ],
+      "questId": "challenge-recipe-278975",
+      "role": "prowler",
+      "tags": [
+        "normal"
+      ],
+      "condition": {
+        "kind": "none"
+      },
+      "httpStatus": 200,
+      "checkedAt": "2026-10-16",
+      "detailHtmlSha256": "6700e2f4ca03e17f1ce9a6b333ef2b7c5a09d2d5b041522479d04c8682a6c46b"
+    }
+  ]
+}
