@@ -349,12 +349,12 @@ progress::-moz-progress-bar {
   min-width: 0;
   font-weight: 500;
 }
-.quest-title:hover .tag-unlock {
+.tag-unlock {
   color: #215747;
   background: #edf5f1;
   border-color: #b9d3c6;
 }
-.quest-name {
+.quest-title:hover .quest-name {
   text-decoration: underline;
   text-underline-offset: 4px;
 }

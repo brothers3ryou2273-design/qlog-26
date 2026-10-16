@@ -6,9 +6,7 @@
     "rank": "7",
     "order": 0,
     "role": "hunter",
-    "tags": [
-      "key"
-    ],
+    "tags": ["key"],
     "condition": {
       "kind": "all",
       "rules": [
@@ -22,9 +20,7 @@
         }
       ]
     },
-    "npcNotes": [
-      "受注・参加のHR条件：HR4以上（出現前提とは別）。"
-    ],
+    "npcNotes": ["受注・参加のHR条件：HR4以上（出現前提とは別）。"],
     "unlocks": [],
     "sources": [
       {
@@ -57,9 +53,7 @@
     "rank": "7",
     "order": 1,
     "role": "hunter",
-    "tags": [
-      "key"
-    ],
+    "tags": ["key"],
     "condition": {
       "kind": "all",
       "rules": [
@@ -73,9 +67,7 @@
         }
       ]
     },
-    "npcNotes": [
-      "受注・参加のHR条件：HR4以上（出現前提とは別）。"
-    ],
+    "npcNotes": ["受注・参加のHR条件：HR4以上（出現前提とは別）。"],
     "unlocks": [],
     "sources": [
       {
@@ -108,9 +100,7 @@
     "rank": "7",
     "order": 2,
     "role": "hunter",
-    "tags": [
-      "key"
-    ],
+    "tags": ["key"],
     "condition": {
       "kind": "all",
       "rules": [
@@ -124,9 +114,7 @@
         }
       ]
     },
-    "npcNotes": [
-      "受注・参加のHR条件：HR4以上（出現前提とは別）。"
-    ],
+    "npcNotes": ["受注・参加のHR条件：HR4以上（出現前提とは別）。"],
     "unlocks": [],
     "sources": [
       {
@@ -159,9 +147,7 @@
     "rank": "7",
     "order": 3,
     "role": "hunter",
-    "tags": [
-      "key"
-    ],
+    "tags": ["key"],
     "condition": {
       "kind": "all",
       "rules": [
@@ -175,9 +161,7 @@
         }
       ]
     },
-    "npcNotes": [
-      "受注・参加のHR条件：HR4以上（出現前提とは別）。"
-    ],
+    "npcNotes": ["受注・参加のHR条件：HR4以上（出現前提とは別）。"],
     "unlocks": [],
     "sources": [
       {
@@ -210,9 +194,7 @@
     "rank": "7",
     "order": 4,
     "role": "hunter",
-    "tags": [
-      "key"
-    ],
+    "tags": ["key"],
     "condition": {
       "kind": "all",
       "rules": [
@@ -226,9 +208,7 @@
         }
       ]
     },
-    "npcNotes": [
-      "受注・参加のHR条件：HR4以上（出現前提とは別）。"
-    ],
+    "npcNotes": ["受注・参加のHR条件：HR4以上（出現前提とは別）。"],
     "unlocks": [],
     "sources": [
       {
@@ -261,9 +241,7 @@
     "rank": "7",
     "order": 5,
     "role": "hunter",
-    "tags": [
-      "request"
-    ],
+    "tags": ["request"],
     "condition": {
       "kind": "all",
       "rules": [
@@ -320,9 +298,7 @@
     "rank": "7",
     "order": 6,
     "role": "hunter",
-    "tags": [
-      "key"
-    ],
+    "tags": ["key"],
     "condition": {
       "kind": "all",
       "rules": [
@@ -336,9 +312,7 @@
         }
       ]
     },
-    "npcNotes": [
-      "受注・参加のHR条件：HR4以上（出現前提とは別）。"
-    ],
+    "npcNotes": ["受注・参加のHR条件：HR4以上（出現前提とは別）。"],
     "unlocks": [],
     "sources": [
       {
@@ -371,9 +345,7 @@
     "rank": "7",
     "order": 7,
     "role": "hunter",
-    "tags": [
-      "normal"
-    ],
+    "tags": ["normal"],
     "condition": {
       "kind": "all",
       "rules": [
@@ -387,9 +359,7 @@
         }
       ]
     },
-    "npcNotes": [
-      "受注・参加のHR条件：HR4以上（出現前提とは別）。"
-    ],
+    "npcNotes": ["受注・参加のHR条件：HR4以上（出現前提とは別）。"],
     "unlocks": [],
     "sources": [
       {
@@ -422,9 +392,7 @@
     "rank": "7",
     "order": 8,
     "role": "hunter",
-    "tags": [
-      "request"
-    ],
+    "tags": ["request"],
     "condition": {
       "kind": "all",
       "rules": [
@@ -484,9 +452,7 @@
     "rank": "7",
     "order": 9,
     "role": "hunter",
-    "tags": [
-      "urgent"
-    ],
+    "tags": ["urgent"],
     "condition": {
       "kind": "all",
       "rules": [
@@ -569,9 +535,7 @@
     "rank": "7",
     "order": 10,
     "role": "hunter",
-    "tags": [
-      "urgent"
-    ],
+    "tags": ["urgent"],
     "condition": {
       "kind": "all",
       "rules": [
@@ -749,9 +713,7 @@
     "rank": "7",
     "order": 11,
     "role": "hunter",
-    "tags": [
-      "request"
-    ],
+    "tags": ["request"],
     "condition": {
       "kind": "all",
       "rules": [
@@ -817,9 +779,7 @@
     "rank": "7",
     "order": 12,
     "role": "hunter",
-    "tags": [
-      "request"
-    ],
+    "tags": ["request"],
     "condition": {
       "kind": "all",
       "rules": [
@@ -881,9 +841,7 @@
     "rank": "7",
     "order": 13,
     "role": "hunter",
-    "tags": [
-      "normal"
-    ],
+    "tags": ["normal"],
     "condition": {
       "kind": "all",
       "rules": [
@@ -897,9 +855,7 @@
         }
       ]
     },
-    "npcNotes": [
-      "受注・参加のHR条件：HR4以上（出現前提とは別）。"
-    ],
+    "npcNotes": ["受注・参加のHR条件：HR4以上（出現前提とは別）。"],
     "unlocks": [],
     "sources": [
       {
@@ -932,9 +888,7 @@
     "rank": "7",
     "order": 14,
     "role": "hunter",
-    "tags": [
-      "normal"
-    ],
+    "tags": ["normal"],
     "condition": {
       "kind": "all",
       "rules": [
@@ -948,9 +902,7 @@
         }
       ]
     },
-    "npcNotes": [
-      "受注・参加のHR条件：HR4以上（出現前提とは別）。"
-    ],
+    "npcNotes": ["受注・参加のHR条件：HR4以上（出現前提とは別）。"],
     "unlocks": [],
     "sources": [
       {
@@ -983,9 +935,7 @@
     "rank": "7",
     "order": 15,
     "role": "hunter",
-    "tags": [
-      "normal"
-    ],
+    "tags": ["normal"],
     "condition": {
       "kind": "all",
       "rules": [
@@ -999,9 +949,7 @@
         }
       ]
     },
-    "npcNotes": [
-      "受注・参加のHR条件：HR4以上（出現前提とは別）。"
-    ],
+    "npcNotes": ["受注・参加のHR条件：HR4以上（出現前提とは別）。"],
     "unlocks": [],
     "sources": [
       {
@@ -1034,9 +982,7 @@
     "rank": "7",
     "order": 16,
     "role": "hunter",
-    "tags": [
-      "normal"
-    ],
+    "tags": ["normal"],
     "condition": {
       "kind": "all",
       "rules": [
@@ -1050,9 +996,7 @@
         }
       ]
     },
-    "npcNotes": [
-      "受注・参加のHR条件：HR4以上（出現前提とは別）。"
-    ],
+    "npcNotes": ["受注・参加のHR条件：HR4以上（出現前提とは別）。"],
     "unlocks": [],
     "sources": [
       {
@@ -1085,9 +1029,7 @@
     "rank": "7",
     "order": 17,
     "role": "hunter",
-    "tags": [
-      "normal"
-    ],
+    "tags": ["normal"],
     "condition": {
       "kind": "all",
       "rules": [
@@ -1101,9 +1043,7 @@
         }
       ]
     },
-    "npcNotes": [
-      "受注・参加のHR条件：HR4以上（出現前提とは別）。"
-    ],
+    "npcNotes": ["受注・参加のHR条件：HR4以上（出現前提とは別）。"],
     "unlocks": [
       {
         "kind": "hunter_art",
@@ -1147,9 +1087,7 @@
     "rank": "7",
     "order": 18,
     "role": "hunter",
-    "tags": [
-      "normal"
-    ],
+    "tags": ["normal"],
     "condition": {
       "kind": "all",
       "rules": [
@@ -1163,9 +1101,7 @@
         }
       ]
     },
-    "npcNotes": [
-      "受注・参加のHR条件：HR4以上（出現前提とは別）。"
-    ],
+    "npcNotes": ["受注・参加のHR条件：HR4以上（出現前提とは別）。"],
     "unlocks": [
       {
         "kind": "hunter_art",
@@ -1209,9 +1145,7 @@
     "rank": "7",
     "order": 19,
     "role": "hunter",
-    "tags": [
-      "normal"
-    ],
+    "tags": ["normal"],
     "condition": {
       "kind": "all",
       "rules": [
@@ -1225,9 +1159,7 @@
         }
       ]
     },
-    "npcNotes": [
-      "受注・参加のHR条件：HR4以上（出現前提とは別）。"
-    ],
+    "npcNotes": ["受注・参加のHR条件：HR4以上（出現前提とは別）。"],
     "unlocks": [
       {
         "kind": "hunter_art",
@@ -1271,9 +1203,7 @@
     "rank": "7",
     "order": 20,
     "role": "hunter",
-    "tags": [
-      "normal"
-    ],
+    "tags": ["normal"],
     "condition": {
       "kind": "all",
       "rules": [
@@ -1287,9 +1217,7 @@
         }
       ]
     },
-    "npcNotes": [
-      "受注・参加のHR条件：HR4以上（出現前提とは別）。"
-    ],
+    "npcNotes": ["受注・参加のHR条件：HR4以上（出現前提とは別）。"],
     "unlocks": [
       {
         "kind": "hunter_art",
@@ -1333,9 +1261,7 @@
     "rank": "7",
     "order": 21,
     "role": "hunter",
-    "tags": [
-      "normal"
-    ],
+    "tags": ["normal"],
     "condition": {
       "kind": "all",
       "rules": [
@@ -1349,9 +1275,7 @@
         }
       ]
     },
-    "npcNotes": [
-      "受注・参加のHR条件：HR4以上（出現前提とは別）。"
-    ],
+    "npcNotes": ["受注・参加のHR条件：HR4以上（出現前提とは別）。"],
     "unlocks": [],
     "sources": [
       {
@@ -1384,9 +1308,7 @@
     "rank": "7",
     "order": 22,
     "role": "hunter",
-    "tags": [
-      "urgent"
-    ],
+    "tags": ["urgent"],
     "condition": {
       "kind": "all",
       "rules": [
@@ -1462,9 +1384,7 @@
     "rank": "7",
     "order": 23,
     "role": "hunter",
-    "tags": [
-      "request"
-    ],
+    "tags": ["request"],
     "condition": {
       "kind": "all",
       "rules": [
@@ -1530,9 +1450,7 @@
     "rank": "7",
     "order": 24,
     "role": "hunter",
-    "tags": [
-      "normal"
-    ],
+    "tags": ["normal"],
     "condition": {
       "kind": "all",
       "rules": [
@@ -1746,9 +1664,7 @@
         }
       ]
     },
-    "npcNotes": [
-      "受注・参加のHR条件：HR8以上（出現前提とは別）。"
-    ],
+    "npcNotes": ["受注・参加のHR条件：HR8以上（出現前提とは別）。"],
     "unlocks": [],
     "sources": [
       {
@@ -1781,9 +1697,7 @@
     "rank": "7",
     "order": 25,
     "role": "hunter",
-    "tags": [
-      "request"
-    ],
+    "tags": ["request"],
     "condition": {
       "kind": "all",
       "rules": [
@@ -1840,9 +1754,7 @@
     "rank": "7",
     "order": 26,
     "role": "hunter",
-    "tags": [
-      "normal"
-    ],
+    "tags": ["normal"],
     "condition": {
       "kind": "all",
       "rules": [
@@ -2056,9 +1968,7 @@
         }
       ]
     },
-    "npcNotes": [
-      "受注・参加のHR条件：HR4以上（出現前提とは別）。"
-    ],
+    "npcNotes": ["受注・参加のHR条件：HR4以上（出現前提とは別）。"],
     "unlocks": [],
     "sources": [
       {
@@ -2091,9 +2001,7 @@
     "rank": "7",
     "order": 27,
     "role": "hunter",
-    "tags": [
-      "request"
-    ],
+    "tags": ["request"],
     "condition": {
       "kind": "all",
       "rules": [
@@ -2159,9 +2067,7 @@
     "rank": "7",
     "order": 28,
     "role": "hunter",
-    "tags": [
-      "normal"
-    ],
+    "tags": ["normal"],
     "condition": {
       "kind": "all",
       "rules": [
@@ -2375,9 +2281,7 @@
         }
       ]
     },
-    "npcNotes": [
-      "受注・参加のHR条件：HR4以上（出現前提とは別）。"
-    ],
+    "npcNotes": ["受注・参加のHR条件：HR4以上（出現前提とは別）。"],
     "unlocks": [],
     "sources": [
       {
@@ -2410,9 +2314,7 @@
     "rank": "7",
     "order": 29,
     "role": "hunter",
-    "tags": [
-      "normal"
-    ],
+    "tags": ["normal"],
     "condition": {
       "kind": "all",
       "rules": [
@@ -2626,9 +2528,7 @@
         }
       ]
     },
-    "npcNotes": [
-      "受注・参加のHR条件：HR8以上（出現前提とは別）。"
-    ],
+    "npcNotes": ["受注・参加のHR条件：HR8以上（出現前提とは別）。"],
     "unlocks": [],
     "sources": [
       {
@@ -2661,9 +2561,7 @@
     "rank": "7",
     "order": 30,
     "role": "hunter",
-    "tags": [
-      "normal"
-    ],
+    "tags": ["normal"],
     "condition": {
       "kind": "all",
       "rules": [
@@ -2877,9 +2775,7 @@
         }
       ]
     },
-    "npcNotes": [
-      "受注・参加のHR条件：HR4以上（出現前提とは別）。"
-    ],
+    "npcNotes": ["受注・参加のHR条件：HR4以上（出現前提とは別）。"],
     "unlocks": [],
     "sources": [
       {
@@ -2912,9 +2808,7 @@
     "rank": "7",
     "order": 31,
     "role": "hunter",
-    "tags": [
-      "normal"
-    ],
+    "tags": ["normal"],
     "condition": {
       "kind": "all",
       "rules": [
@@ -3128,9 +3022,7 @@
         }
       ]
     },
-    "npcNotes": [
-      "受注・参加のHR条件：HR4以上（出現前提とは別）。"
-    ],
+    "npcNotes": ["受注・参加のHR条件：HR4以上（出現前提とは別）。"],
     "unlocks": [],
     "sources": [
       {
@@ -3163,9 +3055,7 @@
     "rank": "7",
     "order": 32,
     "role": "hunter",
-    "tags": [
-      "request"
-    ],
+    "tags": ["request"],
     "condition": {
       "kind": "all",
       "rules": [
@@ -3216,9 +3106,7 @@
     "rank": "7",
     "order": 33,
     "role": "hunter",
-    "tags": [
-      "normal"
-    ],
+    "tags": ["normal"],
     "condition": {
       "kind": "all",
       "rules": [
@@ -3432,9 +3320,7 @@
         }
       ]
     },
-    "npcNotes": [
-      "受注・参加のHR条件：HR4以上（出現前提とは別）。"
-    ],
+    "npcNotes": ["受注・参加のHR条件：HR4以上（出現前提とは別）。"],
     "unlocks": [],
     "sources": [
       {
@@ -3467,9 +3353,7 @@
     "rank": "7",
     "order": 34,
     "role": "hunter",
-    "tags": [
-      "request"
-    ],
+    "tags": ["request"],
     "condition": {
       "kind": "all",
       "rules": [
@@ -3540,9 +3424,7 @@
     "rank": "7",
     "order": 35,
     "role": "hunter",
-    "tags": [
-      "normal"
-    ],
+    "tags": ["normal"],
     "condition": {
       "kind": "all",
       "rules": [
@@ -3756,9 +3638,7 @@
         }
       ]
     },
-    "npcNotes": [
-      "受注・参加のHR条件：HR4以上（出現前提とは別）。"
-    ],
+    "npcNotes": ["受注・参加のHR条件：HR4以上（出現前提とは別）。"],
     "unlocks": [],
     "sources": [
       {
@@ -3791,9 +3671,7 @@
     "rank": "7",
     "order": 36,
     "role": "hunter",
-    "tags": [
-      "normal"
-    ],
+    "tags": ["normal"],
     "condition": {
       "kind": "all",
       "rules": [
@@ -4007,9 +3885,7 @@
         }
       ]
     },
-    "npcNotes": [
-      "受注・参加のHR条件：HR4以上（出現前提とは別）。"
-    ],
+    "npcNotes": ["受注・参加のHR条件：HR4以上（出現前提とは別）。"],
     "unlocks": [],
     "sources": [
       {
@@ -4042,9 +3918,7 @@
     "rank": "7",
     "order": 37,
     "role": "hunter",
-    "tags": [
-      "request"
-    ],
+    "tags": ["request"],
     "condition": {
       "kind": "all",
       "rules": [
@@ -4105,9 +3979,7 @@
     "rank": "7",
     "order": 38,
     "role": "hunter",
-    "tags": [
-      "request"
-    ],
+    "tags": ["request"],
     "condition": {
       "kind": "all",
       "rules": [
@@ -4165,9 +4037,7 @@
     "rank": "7",
     "order": 39,
     "role": "hunter",
-    "tags": [
-      "request"
-    ],
+    "tags": ["request"],
     "condition": {
       "kind": "all",
       "rules": [
@@ -4229,9 +4099,7 @@
     "rank": "7",
     "order": 40,
     "role": "hunter",
-    "tags": [
-      "normal"
-    ],
+    "tags": ["normal"],
     "condition": {
       "kind": "all",
       "rules": [
@@ -4445,9 +4313,7 @@
         }
       ]
     },
-    "npcNotes": [
-      "受注・参加のHR条件：HR4以上（出現前提とは別）。"
-    ],
+    "npcNotes": ["受注・参加のHR条件：HR4以上（出現前提とは別）。"],
     "unlocks": [],
     "sources": [
       {
@@ -4480,9 +4346,7 @@
     "rank": "7",
     "order": 41,
     "role": "hunter",
-    "tags": [
-      "request"
-    ],
+    "tags": ["request"],
     "condition": {
       "kind": "all",
       "rules": [
@@ -4563,9 +4427,7 @@
     "rank": "7",
     "order": 42,
     "role": "hunter",
-    "tags": [
-      "request"
-    ],
+    "tags": ["request"],
     "condition": {
       "kind": "all",
       "rules": [
@@ -4647,9 +4509,7 @@
     "rank": "7",
     "order": 43,
     "role": "hunter",
-    "tags": [
-      "request"
-    ],
+    "tags": ["request"],
     "condition": {
       "kind": "all",
       "rules": [
@@ -4716,9 +4576,7 @@
     "rank": "7",
     "order": 44,
     "role": "hunter",
-    "tags": [
-      "request"
-    ],
+    "tags": ["request"],
     "condition": {
       "kind": "all",
       "rules": [
@@ -4790,9 +4648,7 @@
     "rank": "7",
     "order": 45,
     "role": "hunter",
-    "tags": [
-      "request"
-    ],
+    "tags": ["request"],
     "condition": {
       "kind": "all",
       "rules": [
@@ -4859,9 +4715,7 @@
     "rank": "7",
     "order": 46,
     "role": "hunter",
-    "tags": [
-      "request"
-    ],
+    "tags": ["request"],
     "condition": {
       "kind": "all",
       "rules": [
@@ -4942,9 +4796,7 @@
     "rank": "7",
     "order": 47,
     "role": "hunter",
-    "tags": [
-      "normal"
-    ],
+    "tags": ["normal"],
     "condition": {
       "kind": "all",
       "rules": [
@@ -5158,9 +5010,7 @@
         }
       ]
     },
-    "npcNotes": [
-      "受注・参加のHR条件：HR8以上（出現前提とは別）。"
-    ],
+    "npcNotes": ["受注・参加のHR条件：HR8以上（出現前提とは別）。"],
     "unlocks": [
       {
         "kind": "hunter_art",
@@ -5204,9 +5054,7 @@
     "rank": "7",
     "order": 48,
     "role": "hunter",
-    "tags": [
-      "normal"
-    ],
+    "tags": ["normal"],
     "condition": {
       "kind": "all",
       "rules": [
@@ -5420,9 +5268,7 @@
         }
       ]
     },
-    "npcNotes": [
-      "受注・参加のHR条件：HR8以上（出現前提とは別）。"
-    ],
+    "npcNotes": ["受注・参加のHR条件：HR8以上（出現前提とは別）。"],
     "unlocks": [
       {
         "kind": "hunter_art",
@@ -5466,9 +5312,7 @@
     "rank": "7",
     "order": 49,
     "role": "hunter",
-    "tags": [
-      "normal"
-    ],
+    "tags": ["normal"],
     "condition": {
       "kind": "all",
       "rules": [
@@ -5682,9 +5526,7 @@
         }
       ]
     },
-    "npcNotes": [
-      "受注・参加のHR条件：HR8以上（出現前提とは別）。"
-    ],
+    "npcNotes": ["受注・参加のHR条件：HR8以上（出現前提とは別）。"],
     "unlocks": [
       {
         "kind": "hunter_art",
@@ -5728,9 +5570,7 @@
     "rank": "7",
     "order": 50,
     "role": "hunter",
-    "tags": [
-      "normal"
-    ],
+    "tags": ["normal"],
     "condition": {
       "kind": "all",
       "rules": [
@@ -5944,9 +5784,7 @@
         }
       ]
     },
-    "npcNotes": [
-      "受注・参加のHR条件：HR8以上（出現前提とは別）。"
-    ],
+    "npcNotes": ["受注・参加のHR条件：HR8以上（出現前提とは別）。"],
     "unlocks": [],
     "sources": [
       {
@@ -5979,9 +5817,7 @@
     "rank": "7",
     "order": 51,
     "role": "hunter",
-    "tags": [
-      "normal"
-    ],
+    "tags": ["normal"],
     "condition": {
       "kind": "all",
       "rules": [
@@ -6195,9 +6031,7 @@
         }
       ]
     },
-    "npcNotes": [
-      "受注・参加のHR条件：HR8以上（出現前提とは別）。"
-    ],
+    "npcNotes": ["受注・参加のHR条件：HR8以上（出現前提とは別）。"],
     "unlocks": [
       {
         "kind": "hunter_art",
@@ -6241,9 +6075,7 @@
     "rank": "7",
     "order": 52,
     "role": "hunter",
-    "tags": [
-      "normal"
-    ],
+    "tags": ["normal"],
     "condition": {
       "kind": "all",
       "rules": [
@@ -6257,9 +6089,7 @@
         }
       ]
     },
-    "npcNotes": [
-      "受注・参加のHR条件：HR7以上（出現前提とは別）。"
-    ],
+    "npcNotes": ["受注・参加のHR条件：HR7以上（出現前提とは別）。"],
     "unlocks": [],
     "sources": [
       {
@@ -6292,9 +6122,7 @@
     "rank": "7",
     "order": 53,
     "role": "hunter",
-    "tags": [
-      "normal"
-    ],
+    "tags": ["normal"],
     "condition": {
       "kind": "all",
       "rules": [
@@ -6308,9 +6136,7 @@
         }
       ]
     },
-    "npcNotes": [
-      "受注・参加のHR条件：HR7以上（出現前提とは別）。"
-    ],
+    "npcNotes": ["受注・参加のHR条件：HR7以上（出現前提とは別）。"],
     "unlocks": [],
     "sources": [
       {
@@ -6343,9 +6169,7 @@
     "rank": "7",
     "order": 54,
     "role": "hunter",
-    "tags": [
-      "normal"
-    ],
+    "tags": ["normal"],
     "condition": {
       "kind": "all",
       "rules": [
@@ -6363,9 +6187,7 @@
         }
       ]
     },
-    "npcNotes": [
-      "受注・参加のHR条件：HR7以上（出現前提とは別）。"
-    ],
+    "npcNotes": ["受注・参加のHR条件：HR7以上（出現前提とは別）。"],
     "unlocks": [],
     "sources": [
       {
@@ -6398,9 +6220,7 @@
     "rank": "7",
     "order": 55,
     "role": "hunter",
-    "tags": [
-      "normal"
-    ],
+    "tags": ["normal"],
     "condition": {
       "kind": "all",
       "rules": [
@@ -6618,9 +6438,7 @@
         }
       ]
     },
-    "npcNotes": [
-      "受注・参加のHR条件：HR8以上（出現前提とは別）。"
-    ],
+    "npcNotes": ["受注・参加のHR条件：HR8以上（出現前提とは別）。"],
     "unlocks": [],
     "sources": [
       {
@@ -6653,9 +6471,7 @@
     "rank": "7",
     "order": 56,
     "role": "hunter",
-    "tags": [
-      "normal"
-    ],
+    "tags": ["normal"],
     "condition": {
       "kind": "all",
       "rules": [
@@ -6873,9 +6689,7 @@
         }
       ]
     },
-    "npcNotes": [
-      "受注・参加のHR条件：HR8以上（出現前提とは別）。"
-    ],
+    "npcNotes": ["受注・参加のHR条件：HR8以上（出現前提とは別）。"],
     "unlocks": [],
     "sources": [
       {
@@ -6908,9 +6722,7 @@
     "rank": "7",
     "order": 57,
     "role": "hunter",
-    "tags": [
-      "normal"
-    ],
+    "tags": ["normal"],
     "condition": {
       "kind": "all",
       "rules": [
@@ -7132,9 +6944,7 @@
         }
       ]
     },
-    "npcNotes": [
-      "受注・参加のHR条件：HR8以上（出現前提とは別）。"
-    ],
+    "npcNotes": ["受注・参加のHR条件：HR8以上（出現前提とは別）。"],
     "unlocks": [],
     "sources": [
       {
@@ -7167,16 +6977,12 @@
     "rank": "7",
     "order": 58,
     "role": "hunter",
-    "tags": [
-      "normal"
-    ],
+    "tags": ["normal"],
     "condition": {
       "kind": "hr_at_least",
       "value": 9
     },
-    "npcNotes": [
-      "受注・参加のHR条件：HR8以上（出現前提とは別）。"
-    ],
+    "npcNotes": ["受注・参加のHR条件：HR8以上（出現前提とは別）。"],
     "unlocks": [
       {
         "kind": "hunter_art",
@@ -7220,16 +7026,12 @@
     "rank": "7",
     "order": 59,
     "role": "hunter",
-    "tags": [
-      "normal"
-    ],
+    "tags": ["normal"],
     "condition": {
       "kind": "hr_at_least",
       "value": 9
     },
-    "npcNotes": [
-      "受注・参加のHR条件：HR8以上（出現前提とは別）。"
-    ],
+    "npcNotes": ["受注・参加のHR条件：HR8以上（出現前提とは別）。"],
     "unlocks": [],
     "sources": [
       {
@@ -7262,9 +7064,7 @@
     "rank": "7",
     "order": 60,
     "role": "hunter",
-    "tags": [
-      "request"
-    ],
+    "tags": ["request"],
     "condition": {
       "kind": "all",
       "rules": [
@@ -7331,9 +7131,7 @@
     "rank": "7",
     "order": 61,
     "role": "hunter",
-    "tags": [
-      "normal"
-    ],
+    "tags": ["normal"],
     "condition": {
       "kind": "all",
       "rules": [
@@ -7347,9 +7145,7 @@
         }
       ]
     },
-    "npcNotes": [
-      "受注・参加のHR条件：HR8以上（出現前提とは別）。"
-    ],
+    "npcNotes": ["受注・参加のHR条件：HR8以上（出現前提とは別）。"],
     "unlocks": [
       {
         "kind": "hunter_art",
@@ -7393,9 +7189,7 @@
     "rank": "7",
     "order": 62,
     "role": "hunter",
-    "tags": [
-      "normal"
-    ],
+    "tags": ["normal"],
     "condition": {
       "kind": "all",
       "rules": [
@@ -7409,9 +7203,7 @@
         }
       ]
     },
-    "npcNotes": [
-      "受注・参加のHR条件：HR8以上（出現前提とは別）。"
-    ],
+    "npcNotes": ["受注・参加のHR条件：HR8以上（出現前提とは別）。"],
     "unlocks": [],
     "sources": [
       {
@@ -7444,9 +7236,7 @@
     "rank": "7",
     "order": 63,
     "role": "hunter",
-    "tags": [
-      "normal"
-    ],
+    "tags": ["normal"],
     "condition": {
       "kind": "all",
       "rules": [
@@ -7460,9 +7250,7 @@
         }
       ]
     },
-    "npcNotes": [
-      "受注・参加のHR条件：HR8以上（出現前提とは別）。"
-    ],
+    "npcNotes": ["受注・参加のHR条件：HR8以上（出現前提とは別）。"],
     "unlocks": [
       {
         "kind": "hunter_art",
@@ -7506,9 +7294,7 @@
     "rank": "7",
     "order": 64,
     "role": "hunter",
-    "tags": [
-      "normal"
-    ],
+    "tags": ["normal"],
     "condition": {
       "kind": "all",
       "rules": [
@@ -7522,9 +7308,7 @@
         }
       ]
     },
-    "npcNotes": [
-      "受注・参加のHR条件：HR8以上（出現前提とは別）。"
-    ],
+    "npcNotes": ["受注・参加のHR条件：HR8以上（出現前提とは別）。"],
     "unlocks": [],
     "sources": [
       {
@@ -7557,9 +7341,7 @@
     "rank": "7",
     "order": 65,
     "role": "hunter",
-    "tags": [
-      "normal"
-    ],
+    "tags": ["normal"],
     "condition": {
       "kind": "all",
       "rules": [
@@ -7573,9 +7355,7 @@
         }
       ]
     },
-    "npcNotes": [
-      "受注・参加のHR条件：HR8以上（出現前提とは別）。"
-    ],
+    "npcNotes": ["受注・参加のHR条件：HR8以上（出現前提とは別）。"],
     "unlocks": [
       {
         "kind": "hunter_art",
@@ -7619,9 +7399,7 @@
     "rank": "7",
     "order": 66,
     "role": "hunter",
-    "tags": [
-      "normal"
-    ],
+    "tags": ["normal"],
     "condition": {
       "kind": "all",
       "rules": [
@@ -7635,9 +7413,7 @@
         }
       ]
     },
-    "npcNotes": [
-      "受注・参加のHR条件：HR8以上（出現前提とは別）。"
-    ],
+    "npcNotes": ["受注・参加のHR条件：HR8以上（出現前提とは別）。"],
     "unlocks": [],
     "sources": [
       {
@@ -7670,16 +7446,12 @@
     "rank": "7",
     "order": 67,
     "role": "hunter",
-    "tags": [
-      "normal"
-    ],
+    "tags": ["normal"],
     "condition": {
       "kind": "hr_at_least",
       "value": 9
     },
-    "npcNotes": [
-      "受注・参加のHR条件：HR8以上（出現前提とは別）。"
-    ],
+    "npcNotes": ["受注・参加のHR条件：HR8以上（出現前提とは別）。"],
     "unlocks": [],
     "sources": [
       {
@@ -7712,16 +7484,12 @@
     "rank": "7",
     "order": 68,
     "role": "hunter",
-    "tags": [
-      "normal"
-    ],
+    "tags": ["normal"],
     "condition": {
       "kind": "hr_at_least",
       "value": 9
     },
-    "npcNotes": [
-      "受注・参加のHR条件：HR8以上（出現前提とは別）。"
-    ],
+    "npcNotes": ["受注・参加のHR条件：HR8以上（出現前提とは別）。"],
     "unlocks": [],
     "sources": [
       {
@@ -7754,16 +7522,12 @@
     "rank": "7",
     "order": 69,
     "role": "hunter",
-    "tags": [
-      "normal"
-    ],
+    "tags": ["normal"],
     "condition": {
       "kind": "hr_at_least",
       "value": 9
     },
-    "npcNotes": [
-      "受注・参加のHR条件：HR8以上（出現前提とは別）。"
-    ],
+    "npcNotes": ["受注・参加のHR条件：HR8以上（出現前提とは別）。"],
     "unlocks": [],
     "sources": [
       {
@@ -7796,9 +7560,7 @@
     "rank": "7",
     "order": 70,
     "role": "hunter",
-    "tags": [
-      "normal"
-    ],
+    "tags": ["normal"],
     "condition": {
       "kind": "hr_at_least",
       "value": 9
@@ -7830,9 +7592,7 @@
     "rank": "7",
     "order": 71,
     "role": "prowler",
-    "tags": [
-      "normal"
-    ],
+    "tags": ["normal"],
     "condition": {
       "kind": "all",
       "rules": [
@@ -7850,9 +7610,7 @@
         }
       ]
     },
-    "npcNotes": [
-      "受注・参加のHR条件：HR4以上（出現前提とは別）。"
-    ],
+    "npcNotes": ["受注・参加のHR条件：HR4以上（出現前提とは別）。"],
     "unlocks": [],
     "sources": [
       {
@@ -7885,9 +7643,7 @@
     "rank": "7",
     "order": 72,
     "role": "prowler",
-    "tags": [
-      "normal"
-    ],
+    "tags": ["normal"],
     "condition": {
       "kind": "all",
       "rules": [
@@ -7901,9 +7657,7 @@
         }
       ]
     },
-    "npcNotes": [
-      "受注・参加のHR条件：HR4以上（出現前提とは別）。"
-    ],
+    "npcNotes": ["受注・参加のHR条件：HR4以上（出現前提とは別）。"],
     "unlocks": [],
     "sources": [
       {
@@ -7936,9 +7690,7 @@
     "rank": "7",
     "order": 73,
     "role": "prowler",
-    "tags": [
-      "normal"
-    ],
+    "tags": ["normal"],
     "condition": {
       "kind": "all",
       "rules": [
@@ -7952,9 +7704,7 @@
         }
       ]
     },
-    "npcNotes": [
-      "受注・参加のHR条件：HR4以上（出現前提とは別）。"
-    ],
+    "npcNotes": ["受注・参加のHR条件：HR4以上（出現前提とは別）。"],
     "unlocks": [],
     "sources": [
       {
@@ -7987,9 +7737,7 @@
     "rank": "7",
     "order": 74,
     "role": "prowler",
-    "tags": [
-      "normal"
-    ],
+    "tags": ["normal"],
     "condition": {
       "kind": "all",
       "rules": [
@@ -8007,9 +7755,7 @@
         }
       ]
     },
-    "npcNotes": [
-      "受注・参加のHR条件：HR8以上（出現前提とは別）。"
-    ],
+    "npcNotes": ["受注・参加のHR条件：HR8以上（出現前提とは別）。"],
     "unlocks": [
       {
         "kind": "facility",

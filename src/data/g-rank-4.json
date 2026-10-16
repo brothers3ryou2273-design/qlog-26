@@ -2199,14 +2199,6 @@
           "questId": "hub-5-recipe-238239"
         },
         {
-          "kind": "quest_cleared",
-          "questId": "g-rank-3-recipe-299008"
-        },
-        {
-          "kind": "quest_cleared",
-          "questId": "g-rank-3-recipe-299026"
-        },
-        {
           "kind": "hr_at_least",
           "value": 13
         },
@@ -2261,7 +2253,7 @@
       }
     ],
     "verification": "partial",
-    "verificationNote": "攻略レシピの一覧・個別ページを照合。条件と解放要素の完全確認を意味しません。記録上の前提達成とゲーム内での受注・受領状態を区別します。",
+    "verificationNote": "攻略レシピの一覧・個別ページを照合。条件と解放要素の完全確認を意味しません。記録上の前提達成とゲーム内での受注・受領状態を区別します。 前段の選択肢は備考の明示的な「または」を採用。依頼欄に併記された同じ候補を追加のANDにしません。",
     "warnings": []
   },
   {
@@ -3312,14 +3304,6 @@
           "questId": "hub-3-recipe-220281"
         },
         {
-          "kind": "quest_cleared",
-          "questId": "g-rank-3-recipe-299009"
-        },
-        {
-          "kind": "quest_cleared",
-          "questId": "g-rank-3-recipe-299023"
-        },
-        {
           "kind": "hr_at_least",
           "value": 13
         },
@@ -3384,7 +3368,7 @@
       }
     ],
     "verification": "partial",
-    "verificationNote": "攻略レシピの一覧・個別ページを照合。条件と解放要素の完全確認を意味しません。記録上の前提達成とゲーム内での受注・受領状態を区別します。",
+    "verificationNote": "攻略レシピの一覧・個別ページを照合。条件と解放要素の完全確認を意味しません。記録上の前提達成とゲーム内での受注・受領状態を区別します。 前段の選択肢は備考の明示的な「または」を採用。依頼欄に併記された同じ候補を追加のANDにしません。",
     "warnings": []
   },
   {
@@ -3420,14 +3404,6 @@
         {
           "kind": "quest_cleared",
           "questId": "village-3-recipe-220191"
-        },
-        {
-          "kind": "quest_cleared",
-          "questId": "g-rank-4-recipe-299065"
-        },
-        {
-          "kind": "quest_cleared",
-          "questId": "g-rank-4-recipe-299070"
         },
         {
           "kind": "hr_at_least",
@@ -3484,7 +3460,7 @@
       }
     ],
     "verification": "partial",
-    "verificationNote": "攻略レシピの一覧・個別ページを照合。条件と解放要素の完全確認を意味しません。記録上の前提達成とゲーム内での受注・受領状態を区別します。",
+    "verificationNote": "攻略レシピの一覧・個別ページを照合。条件と解放要素の完全確認を意味しません。記録上の前提達成とゲーム内での受注・受領状態を区別します。 前段の選択肢は備考の明示的な「または」を採用。依頼欄に併記された同じ候補を追加のANDにしません。",
     "warnings": []
   },
   {
