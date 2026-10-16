@@ -1,0 +1,1977 @@
+{
+  "checkedAt": "2026-10-16",
+  "policy": "kind otherは全項目を分類し、実際の製法・特別入手・衣装のみ表示。後続・参考・HR進行は除外。型付きの食材・狩技・交易・施設は対象。警告文や未調査という状態からは存在を推測しない。",
+  "otherEntries": [
+    {
+      "questId": "village-10-recipe-286240",
+      "name": "恐れ見よ、赤き災厄の彗星を",
+      "label": "斬炎のピアス（特別入手）",
+      "classification": "special_grant",
+      "show": true,
+      "sourceUrl": "http://wiki.mhxg.org/ida/286240.html"
+    },
+    {
+      "questId": "village-10-recipe-286240",
+      "name": "恐れ見よ、赤き災厄の彗星を",
+      "label": "雷電のピアス（特別入手）",
+      "classification": "special_grant",
+      "show": true,
+      "sourceUrl": "http://wiki.mhxg.org/ida/286240.html"
+    },
+    {
+      "questId": "village-10-recipe-286240",
+      "name": "恐れ見よ、赤き災厄の彗星を",
+      "label": "巨氷のピアス（特別入手）",
+      "classification": "special_grant",
+      "show": true,
+      "sourceUrl": "http://wiki.mhxg.org/ida/286240.html"
+    },
+    {
+      "questId": "village-10-recipe-286240",
+      "name": "恐れ見よ、赤き災厄の彗星を",
+      "label": "水狐のピアス（特別入手）",
+      "classification": "special_grant",
+      "show": true,
+      "sourceUrl": "http://wiki.mhxg.org/ida/286240.html"
+    },
+    {
+      "questId": "village-10-recipe-286240",
+      "name": "恐れ見よ、赤き災厄の彗星を",
+      "label": "龍彗のピアス（特別入手）",
+      "classification": "special_grant",
+      "show": true,
+      "sourceUrl": "http://wiki.mhxg.org/ida/286240.html"
+    },
+    {
+      "questId": "village-10-recipe-298960",
+      "name": "遺群嶺を塞ぐ恐暴竜",
+      "label": "エルドラジェズル（製法）",
+      "classification": "recipe",
+      "show": true,
+      "sourceUrl": "http://wiki.mhxg.org/ida/298960.html"
+    },
+    {
+      "questId": "village-10-recipe-298960",
+      "name": "遺群嶺を塞ぐ恐暴竜",
+      "label": "エルドラカノーネ（製法）",
+      "classification": "recipe",
+      "show": true,
+      "sourceUrl": "http://wiki.mhxg.org/ida/298960.html"
+    },
+    {
+      "questId": "village-10-recipe-298960",
+      "name": "遺群嶺を塞ぐ恐暴竜",
+      "label": "ジャギィフェイク（製法）",
+      "classification": "recipe",
+      "show": true,
+      "sourceUrl": "http://wiki.mhxg.org/ida/298960.html"
+    },
+    {
+      "questId": "village-10-recipe-298960",
+      "name": "遺群嶺を塞ぐ恐暴竜",
+      "label": "ジャギィＸフェイク（製法）",
+      "classification": "recipe",
+      "show": true,
+      "sourceUrl": "http://wiki.mhxg.org/ida/298960.html"
+    },
+    {
+      "questId": "village-10-recipe-298985",
+      "name": "高難度：森丘にて火竜は旋廻す",
+      "label": "ココットチケットG（特別入手）",
+      "classification": "special_grant",
+      "show": true,
+      "sourceUrl": "http://wiki.mhxg.org/ida/298985.html"
+    },
+    {
+      "questId": "village-10-recipe-298985",
+      "name": "高難度：森丘にて火竜は旋廻す",
+      "label": "ハントＸネコナイフ（製法）",
+      "classification": "recipe",
+      "show": true,
+      "sourceUrl": "http://wiki.mhxg.org/ida/298985.html"
+    },
+    {
+      "questId": "village-10-recipe-298985",
+      "name": "高難度：森丘にて火竜は旋廻す",
+      "label": "ハントＸネコヘルム（製法）",
+      "classification": "recipe",
+      "show": true,
+      "sourceUrl": "http://wiki.mhxg.org/ida/298985.html"
+    },
+    {
+      "questId": "village-10-recipe-298985",
+      "name": "高難度：森丘にて火竜は旋廻す",
+      "label": "ハントＸネコメイル（製法）",
+      "classification": "recipe",
+      "show": true,
+      "sourceUrl": "http://wiki.mhxg.org/ida/298985.html"
+    },
+    {
+      "questId": "village-10-recipe-298986",
+      "name": "高難度：雪山に佇む轟竜",
+      "label": "ポッケチケットG（特別入手）",
+      "classification": "special_grant",
+      "show": true,
+      "sourceUrl": "http://wiki.mhxg.org/ida/298986.html"
+    },
+    {
+      "questId": "village-10-recipe-298986",
+      "name": "高難度：雪山に佇む轟竜",
+      "label": "マフモフＸネコフード（製法）",
+      "classification": "recipe",
+      "show": true,
+      "sourceUrl": "http://wiki.mhxg.org/ida/298986.html"
+    },
+    {
+      "questId": "village-10-recipe-298986",
+      "name": "高難度：雪山に佇む轟竜",
+      "label": "マフモフＸネコベスト（製法）",
+      "classification": "recipe",
+      "show": true,
+      "sourceUrl": "http://wiki.mhxg.org/ida/298986.html"
+    },
+    {
+      "questId": "village-10-recipe-298987",
+      "name": "高難度：月夜を仰ぐ雷狼竜",
+      "label": "ユクモチケットG（特別入手）",
+      "classification": "special_grant",
+      "show": true,
+      "sourceUrl": "http://wiki.mhxg.org/ida/298987.html"
+    },
+    {
+      "questId": "village-10-recipe-298987",
+      "name": "高難度：月夜を仰ぐ雷狼竜",
+      "label": "ユクモノＸネコ扇子（製法）",
+      "classification": "recipe",
+      "show": true,
+      "sourceUrl": "http://wiki.mhxg.org/ida/298987.html"
+    },
+    {
+      "questId": "village-10-recipe-298987",
+      "name": "高難度：月夜を仰ぐ雷狼竜",
+      "label": "ユクモノＸネコカサ（製法）",
+      "classification": "recipe",
+      "show": true,
+      "sourceUrl": "http://wiki.mhxg.org/ida/298987.html"
+    },
+    {
+      "questId": "village-10-recipe-298987",
+      "name": "高難度：月夜を仰ぐ雷狼竜",
+      "label": "ユクモノＸネコドウギ（製法）",
+      "classification": "recipe",
+      "show": true,
+      "sourceUrl": "http://wiki.mhxg.org/ida/298987.html"
+    },
+    {
+      "questId": "village-10-recipe-298994",
+      "name": "高難度：古代林に現る２頭の影",
+      "label": "龍歴士Ｘシリーズ（製法）",
+      "classification": "recipe",
+      "show": true,
+      "sourceUrl": "http://wiki.mhxg.org/ida/298994.html"
+    },
+    {
+      "questId": "village-10-recipe-298994",
+      "name": "高難度：古代林に現る２頭の影",
+      "label": "エーデルＸネコロッド（製法）",
+      "classification": "recipe",
+      "show": true,
+      "sourceUrl": "http://wiki.mhxg.org/ida/298994.html"
+    },
+    {
+      "questId": "village-10-recipe-298994",
+      "name": "高難度：古代林に現る２頭の影",
+      "label": "エーデルＸネコツイン（製法）",
+      "classification": "recipe",
+      "show": true,
+      "sourceUrl": "http://wiki.mhxg.org/ida/298994.html"
+    },
+    {
+      "questId": "village-10-recipe-298994",
+      "name": "高難度：古代林に現る２頭の影",
+      "label": "エーデルＸネコフリル（製法）",
+      "classification": "recipe",
+      "show": true,
+      "sourceUrl": "http://wiki.mhxg.org/ida/298994.html"
+    },
+    {
+      "questId": "village-10-recipe-298995",
+      "name": "高難度：喧嘩の仲裁は村を救う",
+      "label": "ヘルパーＸ/ヒーラーＸシリーズ（製法）",
+      "classification": "recipe",
+      "show": true,
+      "sourceUrl": "http://wiki.mhxg.org/ida/298995.html"
+    },
+    {
+      "questId": "village-10-recipe-298995",
+      "name": "高難度：喧嘩の仲裁は村を救う",
+      "label": "ヘルパーＺ/ヒーラーＺシリーズ（製法）",
+      "classification": "recipe",
+      "show": true,
+      "sourceUrl": "http://wiki.mhxg.org/ida/298995.html"
+    },
+    {
+      "questId": "village-10-recipe-298995",
+      "name": "高難度：喧嘩の仲裁は村を救う",
+      "label": "ポッケＸネコモップ（製法）",
+      "classification": "recipe",
+      "show": true,
+      "sourceUrl": "http://wiki.mhxg.org/ida/298995.html"
+    },
+    {
+      "questId": "village-10-recipe-298995",
+      "name": "高難度：喧嘩の仲裁は村を救う",
+      "label": "ヘルパーＸネコフード（製法）",
+      "classification": "recipe",
+      "show": true,
+      "sourceUrl": "http://wiki.mhxg.org/ida/298995.html"
+    },
+    {
+      "questId": "village-10-recipe-298995",
+      "name": "高難度：喧嘩の仲裁は村を救う",
+      "label": "ヘルパーＸネコメイル（製法）",
+      "classification": "recipe",
+      "show": true,
+      "sourceUrl": "http://wiki.mhxg.org/ida/298995.html"
+    },
+    {
+      "questId": "village-10-recipe-298996",
+      "name": "高難度：モンスターハンター",
+      "label": "ポッケ・ネーヴェ（特別入手）",
+      "classification": "special_grant",
+      "show": true,
+      "sourceUrl": "http://wiki.mhxg.org/ida/298996.html"
+    },
+    {
+      "questId": "village-10-recipe-298997",
+      "name": "高難度：覇者の証明",
+      "label": "ココット・アルベロ（特別入手）",
+      "classification": "special_grant",
+      "show": true,
+      "sourceUrl": "http://wiki.mhxg.org/ida/298997.html"
+    },
+    {
+      "questId": "village-10-recipe-298998",
+      "name": "高難度：龍歴院からの挑戦状",
+      "label": "ユクモ・テルメ（特別入手）",
+      "classification": "special_grant",
+      "show": true,
+      "sourceUrl": "http://wiki.mhxg.org/ida/298998.html"
+    },
+    {
+      "questId": "village-10-recipe-298999",
+      "name": "高難度：ギルドからの試練",
+      "label": "ベルナ・フィオーレ（特別入手）",
+      "classification": "special_grant",
+      "show": true,
+      "sourceUrl": "http://wiki.mhxg.org/ida/298999.html"
+    },
+    {
+      "questId": "village-2-recipe-220154",
+      "name": "ドスランポスを狩猟せよ！",
+      "label": "ハントシリーズ（製法）",
+      "classification": "recipe",
+      "show": true,
+      "sourceUrl": "http://wiki.mhxg.org/ida/220154.html"
+    },
+    {
+      "questId": "village-2-recipe-220154",
+      "name": "ドスランポスを狩猟せよ！",
+      "label": "ハントネコナイフ（製法）",
+      "classification": "recipe",
+      "show": true,
+      "sourceUrl": "http://wiki.mhxg.org/ida/220154.html"
+    },
+    {
+      "questId": "village-2-recipe-220154",
+      "name": "ドスランポスを狩猟せよ！",
+      "label": "ハントネコヘルム（製法）",
+      "classification": "recipe",
+      "show": true,
+      "sourceUrl": "http://wiki.mhxg.org/ida/220154.html"
+    },
+    {
+      "questId": "village-2-recipe-220154",
+      "name": "ドスランポスを狩猟せよ！",
+      "label": "ハントネコメイル（製法）",
+      "classification": "recipe",
+      "show": true,
+      "sourceUrl": "http://wiki.mhxg.org/ida/220154.html"
+    },
+    {
+      "questId": "village-2-recipe-220154",
+      "name": "ドスランポスを狩猟せよ！",
+      "label": "後続依頼：シナト村の長老の依頼",
+      "classification": "successor_reference",
+      "show": false,
+      "sourceUrl": "http://wiki.mhxg.org/ida/220154.html"
+    },
+    {
+      "questId": "village-2-recipe-220159",
+      "name": "雪山の荒くれ者",
+      "label": "マフモフシリーズ（製法）",
+      "classification": "recipe",
+      "show": true,
+      "sourceUrl": "http://wiki.mhxg.org/ida/220159.html"
+    },
+    {
+      "questId": "village-2-recipe-220159",
+      "name": "雪山の荒くれ者",
+      "label": "マフモフネコフード（製法）",
+      "classification": "recipe",
+      "show": true,
+      "sourceUrl": "http://wiki.mhxg.org/ida/220159.html"
+    },
+    {
+      "questId": "village-2-recipe-220159",
+      "name": "雪山の荒くれ者",
+      "label": "マフモフネコベスト（製法）",
+      "classification": "recipe",
+      "show": true,
+      "sourceUrl": "http://wiki.mhxg.org/ida/220159.html"
+    },
+    {
+      "questId": "village-2-recipe-220159",
+      "name": "雪山の荒くれ者",
+      "label": "後続依頼：ポッケ村の看板娘の依頼",
+      "classification": "successor_reference",
+      "show": false,
+      "sourceUrl": "http://wiki.mhxg.org/ida/220159.html"
+    },
+    {
+      "questId": "village-2-recipe-220164",
+      "name": "青熊獣アオアシラ",
+      "label": "ユクモノシリーズ（製法）",
+      "classification": "recipe",
+      "show": true,
+      "sourceUrl": "http://wiki.mhxg.org/ida/220164.html"
+    },
+    {
+      "questId": "village-2-recipe-220164",
+      "name": "青熊獣アオアシラ",
+      "label": "ユクモノネコ木刀（製法）",
+      "classification": "recipe",
+      "show": true,
+      "sourceUrl": "http://wiki.mhxg.org/ida/220164.html"
+    },
+    {
+      "questId": "village-2-recipe-220164",
+      "name": "青熊獣アオアシラ",
+      "label": "ユクモノネコカサ（製法）",
+      "classification": "recipe",
+      "show": true,
+      "sourceUrl": "http://wiki.mhxg.org/ida/220164.html"
+    },
+    {
+      "questId": "village-2-recipe-220164",
+      "name": "青熊獣アオアシラ",
+      "label": "ユクモノネコドウギ（製法）",
+      "classification": "recipe",
+      "show": true,
+      "sourceUrl": "http://wiki.mhxg.org/ida/220164.html"
+    },
+    {
+      "questId": "village-2-recipe-220164",
+      "name": "青熊獣アオアシラ",
+      "label": "後続依頼：タンジアの港の看板娘の依頼1",
+      "classification": "successor_reference",
+      "show": false,
+      "sourceUrl": "http://wiki.mhxg.org/ida/220164.html"
+    },
+    {
+      "questId": "village-3-recipe-220174",
+      "name": "ステキなお魚、錦魚",
+      "label": "しろねこスタンプ（製法）",
+      "classification": "recipe",
+      "show": true,
+      "sourceUrl": "http://wiki.mhxg.org/ida/220174.html"
+    },
+    {
+      "questId": "village-3-recipe-218331",
+      "name": "観光客の旅路を守れ！",
+      "label": "サージュシリーズ（製法）",
+      "classification": "recipe",
+      "show": true,
+      "sourceUrl": "http://wiki.mhxg.org/ida/218331.html"
+    },
+    {
+      "questId": "village-3-recipe-218331",
+      "name": "観光客の旅路を守れ！",
+      "label": "サージュネコブック（製法）",
+      "classification": "recipe",
+      "show": true,
+      "sourceUrl": "http://wiki.mhxg.org/ida/218331.html"
+    },
+    {
+      "questId": "village-3-recipe-218331",
+      "name": "観光客の旅路を守れ！",
+      "label": "サージュネコフート（製法）",
+      "classification": "recipe",
+      "show": true,
+      "sourceUrl": "http://wiki.mhxg.org/ida/218331.html"
+    },
+    {
+      "questId": "village-3-recipe-218331",
+      "name": "観光客の旅路を守れ！",
+      "label": "サージュネコスーツ（製法）",
+      "classification": "recipe",
+      "show": true,
+      "sourceUrl": "http://wiki.mhxg.org/ida/218331.html"
+    },
+    {
+      "questId": "village-4-recipe-220202",
+      "name": "厄介者のドスゲネポス",
+      "label": "ブレイブシリーズ（製法）",
+      "classification": "recipe",
+      "show": true,
+      "sourceUrl": "http://wiki.mhxg.org/ida/220202.html"
+    },
+    {
+      "questId": "village-4-recipe-220202",
+      "name": "厄介者のドスゲネポス",
+      "label": "ブレイブネコランス（製法）",
+      "classification": "recipe",
+      "show": true,
+      "sourceUrl": "http://wiki.mhxg.org/ida/220202.html"
+    },
+    {
+      "questId": "village-4-recipe-220202",
+      "name": "厄介者のドスゲネポス",
+      "label": "ブレイブネコガレア（製法）",
+      "classification": "recipe",
+      "show": true,
+      "sourceUrl": "http://wiki.mhxg.org/ida/220202.html"
+    },
+    {
+      "questId": "village-4-recipe-220202",
+      "name": "厄介者のドスゲネポス",
+      "label": "ブレイブネコロリカ（製法）",
+      "classification": "recipe",
+      "show": true,
+      "sourceUrl": "http://wiki.mhxg.org/ida/220202.html"
+    },
+    {
+      "questId": "village-4-recipe-220202",
+      "name": "厄介者のドスゲネポス",
+      "label": "プーギーの服 夢追いアミーゴ",
+      "classification": "clothing",
+      "show": true,
+      "sourceUrl": "http://wiki.mhxg.org/ida/220202.html"
+    },
+    {
+      "questId": "village-4-recipe-220213",
+      "name": "チコ村のヒーロー伝説",
+      "label": "アイルーラグドール（製法）",
+      "classification": "recipe",
+      "show": true,
+      "sourceUrl": "http://wiki.mhxg.org/ida/220213.html"
+    },
+    {
+      "questId": "village-4-recipe-220213",
+      "name": "チコ村のヒーロー伝説",
+      "label": "メラルーラグドール（製法）",
+      "classification": "recipe",
+      "show": true,
+      "sourceUrl": "http://wiki.mhxg.org/ida/220213.html"
+    },
+    {
+      "questId": "village-5-recipe-220224",
+      "name": "ビリビリするらしいです×？？",
+      "label": "撫子/桔梗シリーズ（製法）",
+      "classification": "recipe",
+      "show": true,
+      "sourceUrl": "http://wiki.mhxg.org/ida/220224.html"
+    },
+    {
+      "questId": "village-5-recipe-220224",
+      "name": "ビリビリするらしいです×？？",
+      "label": "ユクモノネコ扇子（製法）",
+      "classification": "recipe",
+      "show": true,
+      "sourceUrl": "http://wiki.mhxg.org/ida/220224.html"
+    },
+    {
+      "questId": "village-5-recipe-220224",
+      "name": "ビリビリするらしいです×？？",
+      "label": "ニャでしこ【布冠】（製法）",
+      "classification": "recipe",
+      "show": true,
+      "sourceUrl": "http://wiki.mhxg.org/ida/220224.html"
+    },
+    {
+      "questId": "village-5-recipe-220224",
+      "name": "ビリビリするらしいです×？？",
+      "label": "ニャでしこ【花衣】（製法）",
+      "classification": "recipe",
+      "show": true,
+      "sourceUrl": "http://wiki.mhxg.org/ida/220224.html"
+    },
+    {
+      "questId": "village-5-recipe-220224",
+      "name": "ビリビリするらしいです×？？",
+      "label": "後続：依頼★ユクモ村の看板娘の依頼1",
+      "classification": "successor_reference",
+      "show": false,
+      "sourceUrl": "http://wiki.mhxg.org/ida/220224.html"
+    },
+    {
+      "questId": "village-6-recipe-220240",
+      "name": "灼熱の刃",
+      "label": "後続：依頼★チャチャの依頼1",
+      "classification": "successor_reference",
+      "show": false,
+      "sourceUrl": "http://wiki.mhxg.org/ida/220240.html"
+    },
+    {
+      "questId": "village-6-recipe-238198",
+      "name": "英雄への道",
+      "label": "英雄の双刃（製法）",
+      "classification": "recipe",
+      "show": true,
+      "sourceUrl": "http://wiki.mhxg.org/ida/238198.html"
+    },
+    {
+      "questId": "village-6-recipe-244680",
+      "name": "高難度：古代林のトレジャー！",
+      "label": "グレイトフルハム（製法）",
+      "classification": "recipe",
+      "show": true,
+      "sourceUrl": "http://wiki.mhxg.org/ida/244680.html"
+    },
+    {
+      "questId": "village-6-recipe-238204",
+      "name": "高難度：黒狼鳥は舞い降りた",
+      "label": "ガーディアンシリーズ（製法）",
+      "classification": "recipe",
+      "show": true,
+      "sourceUrl": "http://wiki.mhxg.org/ida/238204.html"
+    },
+    {
+      "questId": "village-6-recipe-238204",
+      "name": "高難度：黒狼鳥は舞い降りた",
+      "label": "ガーディアンUシリーズ（製法）",
+      "classification": "recipe",
+      "show": true,
+      "sourceUrl": "http://wiki.mhxg.org/ida/238204.html"
+    },
+    {
+      "questId": "village-6-recipe-238204",
+      "name": "高難度：黒狼鳥は舞い降りた",
+      "label": "ガーディアンランス（製法）",
+      "classification": "recipe",
+      "show": true,
+      "sourceUrl": "http://wiki.mhxg.org/ida/238204.html"
+    },
+    {
+      "questId": "village-6-recipe-244682",
+      "name": "高難度：異常震域",
+      "label": "EXレックスSシリーズ（製法）",
+      "classification": "recipe",
+      "show": true,
+      "sourceUrl": "http://wiki.mhxg.org/ida/244682.html"
+    },
+    {
+      "questId": "village-6-recipe-244682",
+      "name": "高難度：異常震域",
+      "label": "ネコートさんのコート（製法）",
+      "classification": "recipe",
+      "show": true,
+      "sourceUrl": "http://wiki.mhxg.org/ida/244682.html"
+    },
+    {
+      "questId": "village-6-recipe-238205",
+      "name": "高難度：渾身のドボルベルク",
+      "label": "ポルトマルク（製法）",
+      "classification": "recipe",
+      "show": true,
+      "sourceUrl": "http://wiki.mhxg.org/ida/238205.html"
+    },
+    {
+      "questId": "village-6-recipe-243399",
+      "name": "高難度：天地征服せし強者",
+      "label": "龍歴士シリーズ（製法）",
+      "classification": "recipe",
+      "show": true,
+      "sourceUrl": "http://wiki.mhxg.org/ida/243399.html"
+    },
+    {
+      "questId": "village-6-recipe-238207",
+      "name": "高難度：青の連撃！",
+      "label": "ギルドガード蒼シリーズ（製法）",
+      "classification": "recipe",
+      "show": true,
+      "sourceUrl": "http://wiki.mhxg.org/ida/238207.html"
+    },
+    {
+      "questId": "village-6-recipe-238208",
+      "name": "高難度：赤の猛攻！",
+      "label": "ギルドガード紅シリーズ（製法）",
+      "classification": "recipe",
+      "show": true,
+      "sourceUrl": "http://wiki.mhxg.org/ida/238208.html"
+    },
+    {
+      "questId": "village-6-recipe-243400",
+      "name": "高難度：廻帰せし災厄の古龍",
+      "label": "イサナ船ハンマー！（製法）",
+      "classification": "recipe",
+      "show": true,
+      "sourceUrl": "http://wiki.mhxg.org/ida/243400.html"
+    },
+    {
+      "questId": "village-6-recipe-243400",
+      "name": "高難度：廻帰せし災厄の古龍",
+      "label": "ホークシリーズ（製法）",
+      "classification": "recipe",
+      "show": true,
+      "sourceUrl": "http://wiki.mhxg.org/ida/243400.html"
+    },
+    {
+      "questId": "village-6-recipe-243400",
+      "name": "高難度：廻帰せし災厄の古龍",
+      "label": "団長の腕輪（製法）",
+      "classification": "recipe",
+      "show": true,
+      "sourceUrl": "http://wiki.mhxg.org/ida/243400.html"
+    },
+    {
+      "questId": "village-6-recipe-243400",
+      "name": "高難度：廻帰せし災厄の古龍",
+      "label": "団長の腕輪Ｘ（製法）",
+      "classification": "recipe",
+      "show": true,
+      "sourceUrl": "http://wiki.mhxg.org/ida/243400.html"
+    },
+    {
+      "questId": "village-6-recipe-244684",
+      "name": "高難度：対霞龍防衛作戦！",
+      "label": "龍頭琴（製法）",
+      "classification": "recipe",
+      "show": true,
+      "sourceUrl": "http://wiki.mhxg.org/ida/244684.html"
+    },
+    {
+      "questId": "village-6-recipe-244684",
+      "name": "高難度：対霞龍防衛作戦！",
+      "label": "悠久の龍頭琴（製法）",
+      "classification": "recipe",
+      "show": true,
+      "sourceUrl": "http://wiki.mhxg.org/ida/244684.html"
+    },
+    {
+      "questId": "village-6-recipe-244684",
+      "name": "高難度：対霞龍防衛作戦！",
+      "label": "魂を宿す髪飾り（製法）",
+      "classification": "recipe",
+      "show": true,
+      "sourceUrl": "http://wiki.mhxg.org/ida/244684.html"
+    },
+    {
+      "questId": "village-6-recipe-244684",
+      "name": "高難度：対霞龍防衛作戦！",
+      "label": "まほろばの衣（製法）",
+      "classification": "recipe",
+      "show": true,
+      "sourceUrl": "http://wiki.mhxg.org/ida/244684.html"
+    },
+    {
+      "questId": "village-6-recipe-244685",
+      "name": "高難度：炎王の帰還",
+      "label": "後続：集★6凍てつく牙は獰猛に",
+      "classification": "successor_reference",
+      "show": false,
+      "sourceUrl": "http://wiki.mhxg.org/ida/244685.html"
+    },
+    {
+      "questId": "village-6-recipe-244685",
+      "name": "高難度：炎王の帰還",
+      "label": "後続：集★6孤島の暴君、ダイミョウザザミ",
+      "classification": "successor_reference",
+      "show": false,
+      "sourceUrl": "http://wiki.mhxg.org/ida/244685.html"
+    },
+    {
+      "questId": "village-6-recipe-244685",
+      "name": "高難度：炎王の帰還",
+      "label": "後続：集★6攻究せよ、鎌持つショウグン",
+      "classification": "successor_reference",
+      "show": false,
+      "sourceUrl": "http://wiki.mhxg.org/ida/244685.html"
+    },
+    {
+      "questId": "village-8-recipe-286200",
+      "name": "宣伝ネコの受難",
+      "label": "プリティネコリボン（製法）",
+      "classification": "recipe",
+      "show": true,
+      "sourceUrl": "http://wiki.mhxg.org/ida/286200.html"
+    },
+    {
+      "questId": "village-8-recipe-286200",
+      "name": "宣伝ネコの受難",
+      "label": "プリティネコワンピ（製法）",
+      "classification": "recipe",
+      "show": true,
+      "sourceUrl": "http://wiki.mhxg.org/ida/286200.html"
+    },
+    {
+      "questId": "village-9-recipe-286221",
+      "name": "轟竜の狩猟をさせてやるぜ！",
+      "label": "クリスタルロック（製法）",
+      "classification": "recipe",
+      "show": true,
+      "sourceUrl": "http://wiki.mhxg.org/ida/286221.html"
+    },
+    {
+      "questId": "village-9-recipe-286221",
+      "name": "轟竜の狩猟をさせてやるぜ！",
+      "label": "アルバレッド（製法）",
+      "classification": "recipe",
+      "show": true,
+      "sourceUrl": "http://wiki.mhxg.org/ida/286221.html"
+    },
+    {
+      "questId": "village-9-recipe-286225",
+      "name": "空路を阻む電竜退治！",
+      "label": "チアフルシリーズ（製法）",
+      "classification": "recipe",
+      "show": true,
+      "sourceUrl": "http://wiki.mhxg.org/ida/286225.html"
+    },
+    {
+      "questId": "village-9-recipe-286225",
+      "name": "空路を阻む電竜退治！",
+      "label": "チアフルＸシリーズ（製法）",
+      "classification": "recipe",
+      "show": true,
+      "sourceUrl": "http://wiki.mhxg.org/ida/286225.html"
+    },
+    {
+      "questId": "village-9-recipe-286225",
+      "name": "空路を阻む電竜退治！",
+      "label": "チアフルネコフート（製法）",
+      "classification": "recipe",
+      "show": true,
+      "sourceUrl": "http://wiki.mhxg.org/ida/286225.html"
+    },
+    {
+      "questId": "village-9-recipe-286225",
+      "name": "空路を阻む電竜退治！",
+      "label": "チアフルネコスーツ（製法）",
+      "classification": "recipe",
+      "show": true,
+      "sourceUrl": "http://wiki.mhxg.org/ida/286225.html"
+    },
+    {
+      "questId": "village-9-recipe-286239",
+      "name": "……求めるならば力を示して",
+      "label": "マリネロシリーズ（製法）",
+      "classification": "recipe",
+      "show": true,
+      "sourceUrl": "http://wiki.mhxg.org/ida/286239.html"
+    },
+    {
+      "questId": "village-9-recipe-286239",
+      "name": "……求めるならば力を示して",
+      "label": "マリネロＸシリーズ（製法）",
+      "classification": "recipe",
+      "show": true,
+      "sourceUrl": "http://wiki.mhxg.org/ida/286239.html"
+    },
+    {
+      "questId": "village-9-recipe-286239",
+      "name": "……求めるならば力を示して",
+      "label": "マリネロネコフード（製法）",
+      "classification": "recipe",
+      "show": true,
+      "sourceUrl": "http://wiki.mhxg.org/ida/286239.html"
+    },
+    {
+      "questId": "village-9-recipe-286239",
+      "name": "……求めるならば力を示して",
+      "label": "マリネロネコスーツ（製法）",
+      "classification": "recipe",
+      "show": true,
+      "sourceUrl": "http://wiki.mhxg.org/ida/286239.html"
+    },
+    {
+      "questId": "hub-1-recipe-219149",
+      "name": "鉄壁の盾蟹",
+      "label": "【特殊許可】矛砕狩猟依頼１（出現前提）",
+      "classification": "successor_reference",
+      "show": false,
+      "sourceUrl": "http://wiki.mhxg.org/ida/219149.html"
+    },
+    {
+      "questId": "hub-1-recipe-219155",
+      "name": "雪のちウルクスス",
+      "label": "【特殊許可】大雪主狩猟依頼１（出現前提）",
+      "classification": "successor_reference",
+      "show": false,
+      "sourceUrl": "http://wiki.mhxg.org/ida/219155.html"
+    },
+    {
+      "questId": "hub-1-recipe-220242",
+      "name": "伝説のメニューに不可欠なモノ",
+      "label": "プーギーの服 魅惑のピンク",
+      "classification": "clothing",
+      "show": true,
+      "sourceUrl": "http://wiki.mhxg.org/ida/220242.html"
+    },
+    {
+      "questId": "hub-1-recipe-220242",
+      "name": "伝説のメニューに不可欠なモノ",
+      "label": "【特殊許可】紅兜狩猟依頼１（出現前提）",
+      "classification": "successor_reference",
+      "show": false,
+      "sourceUrl": "http://wiki.mhxg.org/ida/220242.html"
+    },
+    {
+      "questId": "hub-2-recipe-220252",
+      "name": "無謀な弟子の、後始末",
+      "label": "ランポスネコピック（製法）",
+      "classification": "recipe",
+      "show": true,
+      "sourceUrl": "http://wiki.mhxg.org/ida/220252.html"
+    },
+    {
+      "questId": "hub-2-recipe-220252",
+      "name": "無謀な弟子の、後始末",
+      "label": "大タルネコハンマー（製法）",
+      "classification": "recipe",
+      "show": true,
+      "sourceUrl": "http://wiki.mhxg.org/ida/220252.html"
+    },
+    {
+      "questId": "hub-2-recipe-219996",
+      "name": "雪山の主、ドドブランゴ",
+      "label": "集会所★2（HR2）への進行",
+      "classification": "rank_progression",
+      "show": false,
+      "sourceUrl": "http://wiki.mhxg.org/ida/219996.html"
+    },
+    {
+      "questId": "hub-2-recipe-220001",
+      "name": "女王、降臨す",
+      "label": "【特殊許可】紫毒姫狩猟依頼１（出現前提）",
+      "classification": "successor_reference",
+      "show": false,
+      "sourceUrl": "http://wiki.mhxg.org/ida/220001.html"
+    },
+    {
+      "questId": "hub-2-recipe-220256",
+      "name": "輸送中！水獣の追従！",
+      "label": "謎の武器の秘伝書（特別入手）",
+      "classification": "special_grant",
+      "show": true,
+      "sourceUrl": "http://wiki.mhxg.org/ida/220256.html"
+    },
+    {
+      "questId": "hub-2-recipe-220256",
+      "name": "輸送中！水獣の追従！",
+      "label": "プーギーの服 カエルのマーチ",
+      "classification": "clothing",
+      "show": true,
+      "sourceUrl": "http://wiki.mhxg.org/ida/220256.html"
+    },
+    {
+      "questId": "hub-3-recipe-220003",
+      "name": "電の反逆者",
+      "label": "集会所★3（HR3）への進行",
+      "classification": "rank_progression",
+      "show": false,
+      "sourceUrl": "http://wiki.mhxg.org/ida/220003.html"
+    },
+    {
+      "questId": "hub-3-recipe-220283",
+      "name": "パッション炸裂☆究極アフロ",
+      "label": "プーギーの服 ひよっこアフロ",
+      "classification": "clothing",
+      "show": true,
+      "sourceUrl": "http://wiki.mhxg.org/ida/220283.html"
+    },
+    {
+      "questId": "hub-3-recipe-220429",
+      "name": "双頭の骸",
+      "label": "集会所★4（HR4）への進行",
+      "classification": "rank_progression",
+      "show": false,
+      "sourceUrl": "http://wiki.mhxg.org/ida/220429.html"
+    },
+    {
+      "questId": "hub-4-recipe-228754",
+      "name": "鬼蛙テツカブラの狩猟",
+      "label": "【特殊許可】岩穿狩猟依頼１（出現前提）",
+      "classification": "successor_reference",
+      "show": false,
+      "sourceUrl": "http://wiki.mhxg.org/ida/228754.html"
+    },
+    {
+      "questId": "hub-4-recipe-228755",
+      "name": "超☆メモ帳～跳狗竜狩猟編～",
+      "label": "エコールシリーズ（製法）",
+      "classification": "recipe",
+      "show": true,
+      "sourceUrl": "http://wiki.mhxg.org/ida/228755.html"
+    },
+    {
+      "questId": "hub-4-recipe-228755",
+      "name": "超☆メモ帳～跳狗竜狩猟編～",
+      "label": "エコールネコフード（製法）",
+      "classification": "recipe",
+      "show": true,
+      "sourceUrl": "http://wiki.mhxg.org/ida/228755.html"
+    },
+    {
+      "questId": "hub-4-recipe-228755",
+      "name": "超☆メモ帳～跳狗竜狩猟編～",
+      "label": "エコールネコスーツ（製法）",
+      "classification": "recipe",
+      "show": true,
+      "sourceUrl": "http://wiki.mhxg.org/ida/228755.html"
+    },
+    {
+      "questId": "hub-4-recipe-228755",
+      "name": "超☆メモ帳～跳狗竜狩猟編～",
+      "label": "プーギーの服 いやされムーチョ",
+      "classification": "clothing",
+      "show": true,
+      "sourceUrl": "http://wiki.mhxg.org/ida/228755.html"
+    },
+    {
+      "questId": "hub-4-recipe-238226",
+      "name": "ライバルの激突！！",
+      "label": "奇面案山子（製法）",
+      "classification": "recipe",
+      "show": true,
+      "sourceUrl": "http://wiki.mhxg.org/ida/238226.html"
+    },
+    {
+      "questId": "hub-4-recipe-238226",
+      "name": "ライバルの激突！！",
+      "label": "棍ガリアチャチャ（製法）",
+      "classification": "recipe",
+      "show": true,
+      "sourceUrl": "http://wiki.mhxg.org/ida/238226.html"
+    },
+    {
+      "questId": "hub-5-recipe-238230",
+      "name": "超☆メモ帳～奇猿狐狩猟編～",
+      "label": "知略の眼鏡（製法）",
+      "classification": "recipe",
+      "show": true,
+      "sourceUrl": "http://wiki.mhxg.org/ida/238230.html"
+    },
+    {
+      "questId": "hub-5-recipe-238230",
+      "name": "超☆メモ帳～奇猿狐狩猟編～",
+      "label": "知略の眼鏡Ｘ（製法）",
+      "classification": "recipe",
+      "show": true,
+      "sourceUrl": "http://wiki.mhxg.org/ida/238230.html"
+    },
+    {
+      "questId": "hub-5-recipe-238232",
+      "name": "キモ・キモ・キモ！！！",
+      "label": "セイラーシリーズ（製法）",
+      "classification": "recipe",
+      "show": true,
+      "sourceUrl": "http://wiki.mhxg.org/ida/238232.html"
+    },
+    {
+      "questId": "hub-5-recipe-238232",
+      "name": "キモ・キモ・キモ！！！",
+      "label": "セイラーネコフード（製法）",
+      "classification": "recipe",
+      "show": true,
+      "sourceUrl": "http://wiki.mhxg.org/ida/238232.html"
+    },
+    {
+      "questId": "hub-5-recipe-238232",
+      "name": "キモ・キモ・キモ！！！",
+      "label": "セイラーネコスーツ（製法）",
+      "classification": "recipe",
+      "show": true,
+      "sourceUrl": "http://wiki.mhxg.org/ida/238232.html"
+    },
+    {
+      "questId": "hub-5-recipe-228783",
+      "name": "脅威！火山の鉄槌！",
+      "label": "【特殊許可】宝纏狩猟依頼１（出現前提）",
+      "classification": "successor_reference",
+      "show": false,
+      "sourceUrl": "http://wiki.mhxg.org/ida/228783.html"
+    },
+    {
+      "questId": "hub-5-recipe-228784",
+      "name": "イャンガルルガの洗礼",
+      "label": "【特殊許可】隻眼狩猟依頼１（出現前提）",
+      "classification": "successor_reference",
+      "show": false,
+      "sourceUrl": "http://wiki.mhxg.org/ida/228784.html"
+    },
+    {
+      "questId": "hub-5-recipe-238233",
+      "name": "疾き迅竜の狩猟披露",
+      "label": "【特殊許可】白疾風狩猟依頼１（出現前提）",
+      "classification": "successor_reference",
+      "show": false,
+      "sourceUrl": "http://wiki.mhxg.org/ida/238233.html"
+    },
+    {
+      "questId": "hub-5-recipe-238235",
+      "name": "２頭のドスランポス",
+      "label": "EXイーオスシリーズ（製法）",
+      "classification": "recipe",
+      "show": true,
+      "sourceUrl": "http://wiki.mhxg.org/ida/238235.html"
+    },
+    {
+      "questId": "hub-5-recipe-238235",
+      "name": "２頭のドスランポス",
+      "label": "EXゲネポスシリーズ（製法）",
+      "classification": "recipe",
+      "show": true,
+      "sourceUrl": "http://wiki.mhxg.org/ida/238235.html"
+    },
+    {
+      "questId": "hub-5-recipe-238235",
+      "name": "２頭のドスランポス",
+      "label": "EXタロスシリーズ（製法）",
+      "classification": "recipe",
+      "show": true,
+      "sourceUrl": "http://wiki.mhxg.org/ida/238235.html"
+    },
+    {
+      "questId": "hub-5-recipe-238235",
+      "name": "２頭のドスランポス",
+      "label": "EXガレオスシリーズ（製法）",
+      "classification": "recipe",
+      "show": true,
+      "sourceUrl": "http://wiki.mhxg.org/ida/238235.html"
+    },
+    {
+      "questId": "hub-5-recipe-238235",
+      "name": "２頭のドスランポス",
+      "label": "EXランゴシリーズ（製法）",
+      "classification": "recipe",
+      "show": true,
+      "sourceUrl": "http://wiki.mhxg.org/ida/238235.html"
+    },
+    {
+      "questId": "hub-5-recipe-228790",
+      "name": "渓流の水竜",
+      "label": "HR5への進行",
+      "classification": "rank_progression",
+      "show": false,
+      "sourceUrl": "http://wiki.mhxg.org/ida/228790.html"
+    },
+    {
+      "questId": "hub-5-recipe-238237",
+      "name": "孤島の迷惑客",
+      "label": "スカラーシリーズ（製法）",
+      "classification": "recipe",
+      "show": true,
+      "sourceUrl": "http://wiki.mhxg.org/ida/238237.html"
+    },
+    {
+      "questId": "hub-5-recipe-238237",
+      "name": "孤島の迷惑客",
+      "label": "ガイドネコフード（製法）",
+      "classification": "recipe",
+      "show": true,
+      "sourceUrl": "http://wiki.mhxg.org/ida/238237.html"
+    },
+    {
+      "questId": "hub-5-recipe-238237",
+      "name": "孤島の迷惑客",
+      "label": "ガイドネコスーツ（製法）",
+      "classification": "recipe",
+      "show": true,
+      "sourceUrl": "http://wiki.mhxg.org/ida/238237.html"
+    },
+    {
+      "questId": "hub-5-recipe-238239",
+      "name": "熱砂の喧嘩は武器の素",
+      "label": "ヒーローアームズ（製法）",
+      "classification": "recipe",
+      "show": true,
+      "sourceUrl": "http://wiki.mhxg.org/ida/238239.html"
+    },
+    {
+      "questId": "hub-5-recipe-238239",
+      "name": "熱砂の喧嘩は武器の素",
+      "label": "ヒーローガンランス（製法）",
+      "classification": "recipe",
+      "show": true,
+      "sourceUrl": "http://wiki.mhxg.org/ida/238239.html"
+    },
+    {
+      "questId": "hub-5-recipe-238239",
+      "name": "熱砂の喧嘩は武器の素",
+      "label": "ヒーローブラスター（製法）",
+      "classification": "recipe",
+      "show": true,
+      "sourceUrl": "http://wiki.mhxg.org/ida/238239.html"
+    },
+    {
+      "questId": "hub-6-recipe-229705",
+      "name": "轟竜狩猟は妹のため",
+      "label": "【特殊許可】荒鉤爪狩猟依頼１（出現前提）",
+      "classification": "successor_reference",
+      "show": false,
+      "sourceUrl": "http://wiki.mhxg.org/ida/229705.html"
+    },
+    {
+      "questId": "hub-6-recipe-229706",
+      "name": "空の王者・リオレウス",
+      "label": "【特殊許可】黒炎王狩猟依頼１（出現前提）",
+      "classification": "successor_reference",
+      "show": false,
+      "sourceUrl": "http://wiki.mhxg.org/ida/229706.html"
+    },
+    {
+      "questId": "hub-6-recipe-228799",
+      "name": "妖艶なる舞",
+      "label": "HR6への進行",
+      "classification": "rank_progression",
+      "show": false,
+      "sourceUrl": "http://wiki.mhxg.org/ida/228799.html"
+    },
+    {
+      "questId": "hub-6-recipe-228800",
+      "name": "不動の山神",
+      "label": "HR6への進行",
+      "classification": "rank_progression",
+      "show": false,
+      "sourceUrl": "http://wiki.mhxg.org/ida/228800.html"
+    },
+    {
+      "questId": "hub-6-recipe-229709",
+      "name": "狩られる前に狩れ！",
+      "label": "【特殊許可】金雷公狩猟依頼１（出現前提）",
+      "classification": "successor_reference",
+      "show": false,
+      "sourceUrl": "http://wiki.mhxg.org/ida/229709.html"
+    },
+    {
+      "questId": "hub-6-recipe-229713",
+      "name": "出陣！地底火山の果し合い！",
+      "label": "【特殊許可】燼滅刃狩猟依頼１（出現前提）",
+      "classification": "successor_reference",
+      "show": false,
+      "sourceUrl": "http://wiki.mhxg.org/ida/229713.html"
+    },
+    {
+      "questId": "hub-6-recipe-229720",
+      "name": "リオレウス狩猟指令",
+      "label": "【特殊許可】黒炎王狩猟依頼１（出現前提）",
+      "classification": "successor_reference",
+      "show": false,
+      "sourceUrl": "http://wiki.mhxg.org/ida/229720.html"
+    },
+    {
+      "questId": "hub-6-recipe-238245",
+      "name": "ドドドドブランゴ！",
+      "label": "ヘルパーS/ヒーラーSシリーズ（製法）",
+      "classification": "recipe",
+      "show": true,
+      "sourceUrl": "http://wiki.mhxg.org/ida/238245.html"
+    },
+    {
+      "questId": "hub-6-recipe-238245",
+      "name": "ドドドドブランゴ！",
+      "label": "ヘルパーU/ヒーラーUシリーズ（製法）",
+      "classification": "recipe",
+      "show": true,
+      "sourceUrl": "http://wiki.mhxg.org/ida/238245.html"
+    },
+    {
+      "questId": "hub-6-recipe-238245",
+      "name": "ドドドドブランゴ！",
+      "label": "ポッケＳネコモップ（製法）",
+      "classification": "recipe",
+      "show": true,
+      "sourceUrl": "http://wiki.mhxg.org/ida/238245.html"
+    },
+    {
+      "questId": "hub-6-recipe-238245",
+      "name": "ドドドドブランゴ！",
+      "label": "ヘルパーＳネコフード（製法）",
+      "classification": "recipe",
+      "show": true,
+      "sourceUrl": "http://wiki.mhxg.org/ida/238245.html"
+    },
+    {
+      "questId": "hub-6-recipe-238245",
+      "name": "ドドドドブランゴ！",
+      "label": "ヘルパーＳネコメイル（製法）",
+      "classification": "recipe",
+      "show": true,
+      "sourceUrl": "http://wiki.mhxg.org/ida/238245.html"
+    },
+    {
+      "questId": "hub-6-recipe-238246",
+      "name": "たんと掘れ燃石炭",
+      "label": "マスターネコブレイド（製法）",
+      "classification": "recipe",
+      "show": true,
+      "sourceUrl": "http://wiki.mhxg.org/ida/238246.html"
+    },
+    {
+      "questId": "hub-6-recipe-238246",
+      "name": "たんと掘れ燃石炭",
+      "label": "マスターネコヘルム（製法）",
+      "classification": "recipe",
+      "show": true,
+      "sourceUrl": "http://wiki.mhxg.org/ida/238246.html"
+    },
+    {
+      "questId": "hub-6-recipe-238246",
+      "name": "たんと掘れ燃石炭",
+      "label": "マスターネコメイル（製法）",
+      "classification": "recipe",
+      "show": true,
+      "sourceUrl": "http://wiki.mhxg.org/ida/238246.html"
+    },
+    {
+      "questId": "hub-6-recipe-243489",
+      "name": "３頭寄れば獰猛蛙",
+      "label": "アークRシリーズ（製法）",
+      "classification": "recipe",
+      "show": true,
+      "sourceUrl": "http://wiki.mhxg.org/ida/243489.html"
+    },
+    {
+      "questId": "hub-6-recipe-243489",
+      "name": "３頭寄れば獰猛蛙",
+      "label": "アーティアRシリーズ（製法）",
+      "classification": "recipe",
+      "show": true,
+      "sourceUrl": "http://wiki.mhxg.org/ida/243489.html"
+    },
+    {
+      "questId": "hub-6-recipe-243489",
+      "name": "３頭寄れば獰猛蛙",
+      "label": "アカムトRシリーズ（製法）",
+      "classification": "recipe",
+      "show": true,
+      "sourceUrl": "http://wiki.mhxg.org/ida/243489.html"
+    },
+    {
+      "questId": "hub-6-recipe-243489",
+      "name": "３頭寄れば獰猛蛙",
+      "label": "アロイRシリーズ（製法）",
+      "classification": "recipe",
+      "show": true,
+      "sourceUrl": "http://wiki.mhxg.org/ida/243489.html"
+    },
+    {
+      "questId": "hub-6-recipe-243489",
+      "name": "３頭寄れば獰猛蛙",
+      "label": "インゴットRシリーズ（製法）",
+      "classification": "recipe",
+      "show": true,
+      "sourceUrl": "http://wiki.mhxg.org/ida/243489.html"
+    },
+    {
+      "questId": "hub-6-recipe-243489",
+      "name": "３頭寄れば獰猛蛙",
+      "label": "エスカドラRシリーズ（製法）",
+      "classification": "recipe",
+      "show": true,
+      "sourceUrl": "http://wiki.mhxg.org/ida/243489.html"
+    },
+    {
+      "questId": "hub-6-recipe-243489",
+      "name": "３頭寄れば獰猛蛙",
+      "label": "ギザミRシリーズ（製法）",
+      "classification": "recipe",
+      "show": true,
+      "sourceUrl": "http://wiki.mhxg.org/ida/243489.html"
+    },
+    {
+      "questId": "hub-6-recipe-243489",
+      "name": "３頭寄れば獰猛蛙",
+      "label": "キリンRシリーズ（製法）",
+      "classification": "recipe",
+      "show": true,
+      "sourceUrl": "http://wiki.mhxg.org/ida/243489.html"
+    },
+    {
+      "questId": "hub-6-recipe-243489",
+      "name": "３頭寄れば獰猛蛙",
+      "label": "クシャナRシリーズ（製法）",
+      "classification": "recipe",
+      "show": true,
+      "sourceUrl": "http://wiki.mhxg.org/ida/243489.html"
+    },
+    {
+      "questId": "hub-6-recipe-243489",
+      "name": "３頭寄れば獰猛蛙",
+      "label": "グリードRシリーズ（製法）",
+      "classification": "recipe",
+      "show": true,
+      "sourceUrl": "http://wiki.mhxg.org/ida/243489.html"
+    },
+    {
+      "questId": "hub-6-recipe-243489",
+      "name": "３頭寄れば獰猛蛙",
+      "label": "ゲリョスRシリーズ（製法）",
+      "classification": "recipe",
+      "show": true,
+      "sourceUrl": "http://wiki.mhxg.org/ida/243489.html"
+    },
+    {
+      "questId": "hub-6-recipe-243489",
+      "name": "３頭寄れば獰猛蛙",
+      "label": "ゴアRシリーズ（製法）",
+      "classification": "recipe",
+      "show": true,
+      "sourceUrl": "http://wiki.mhxg.org/ida/243489.html"
+    },
+    {
+      "questId": "hub-6-recipe-243489",
+      "name": "３頭寄れば獰猛蛙",
+      "label": "S・ソルRシリーズ（製法）",
+      "classification": "recipe",
+      "show": true,
+      "sourceUrl": "http://wiki.mhxg.org/ida/243489.html"
+    },
+    {
+      "questId": "hub-6-recipe-243489",
+      "name": "３頭寄れば獰猛蛙",
+      "label": "ザザミRシリーズ（製法）",
+      "classification": "recipe",
+      "show": true,
+      "sourceUrl": "http://wiki.mhxg.org/ida/243489.html"
+    },
+    {
+      "questId": "hub-6-recipe-243489",
+      "name": "３頭寄れば獰猛蛙",
+      "label": "ダマスクRシリーズ（製法）",
+      "classification": "recipe",
+      "show": true,
+      "sourceUrl": "http://wiki.mhxg.org/ida/243489.html"
+    },
+    {
+      "questId": "hub-6-recipe-243489",
+      "name": "３頭寄れば獰猛蛙",
+      "label": "タロスRシリーズ（製法）",
+      "classification": "recipe",
+      "show": true,
+      "sourceUrl": "http://wiki.mhxg.org/ida/243489.html"
+    },
+    {
+      "questId": "hub-6-recipe-243489",
+      "name": "３頭寄れば獰猛蛙",
+      "label": "デスギアRシリーズ（製法）",
+      "classification": "recipe",
+      "show": true,
+      "sourceUrl": "http://wiki.mhxg.org/ida/243489.html"
+    },
+    {
+      "questId": "hub-6-recipe-243489",
+      "name": "３頭寄れば獰猛蛙",
+      "label": "ハンターRシリーズ（製法）",
+      "classification": "recipe",
+      "show": true,
+      "sourceUrl": "http://wiki.mhxg.org/ida/243489.html"
+    },
+    {
+      "questId": "hub-6-recipe-243489",
+      "name": "３頭寄れば獰猛蛙",
+      "label": "フィリアRシリーズ（製法）",
+      "classification": "recipe",
+      "show": true,
+      "sourceUrl": "http://wiki.mhxg.org/ida/243489.html"
+    },
+    {
+      "questId": "hub-6-recipe-243489",
+      "name": "３頭寄れば獰猛蛙",
+      "label": "フルフルRシリーズ（製法）",
+      "classification": "recipe",
+      "show": true,
+      "sourceUrl": "http://wiki.mhxg.org/ida/243489.html"
+    },
+    {
+      "questId": "hub-6-recipe-243489",
+      "name": "３頭寄れば獰猛蛙",
+      "label": "ラギアRシリーズ（製法）",
+      "classification": "recipe",
+      "show": true,
+      "sourceUrl": "http://wiki.mhxg.org/ida/243489.html"
+    },
+    {
+      "questId": "hub-6-recipe-243489",
+      "name": "３頭寄れば獰猛蛙",
+      "label": "ルドロスRシリーズ（製法）",
+      "classification": "recipe",
+      "show": true,
+      "sourceUrl": "http://wiki.mhxg.org/ida/243489.html"
+    },
+    {
+      "questId": "hub-6-recipe-243489",
+      "name": "３頭寄れば獰猛蛙",
+      "label": "レイアRシリーズ（製法）",
+      "classification": "recipe",
+      "show": true,
+      "sourceUrl": "http://wiki.mhxg.org/ida/243489.html"
+    },
+    {
+      "questId": "hub-6-recipe-243489",
+      "name": "３頭寄れば獰猛蛙",
+      "label": "レウスRシリーズ（製法）",
+      "classification": "recipe",
+      "show": true,
+      "sourceUrl": "http://wiki.mhxg.org/ida/243489.html"
+    },
+    {
+      "questId": "hub-6-recipe-243489",
+      "name": "３頭寄れば獰猛蛙",
+      "label": "レックスRシリーズ（製法）",
+      "classification": "recipe",
+      "show": true,
+      "sourceUrl": "http://wiki.mhxg.org/ida/243489.html"
+    },
+    {
+      "questId": "hub-6-recipe-243401",
+      "name": "夜鳥の会・危機一髪！",
+      "label": "サージュSシリーズ（製法）",
+      "classification": "recipe",
+      "show": true,
+      "sourceUrl": "http://wiki.mhxg.org/ida/243401.html"
+    },
+    {
+      "questId": "hub-6-recipe-243401",
+      "name": "夜鳥の会・危機一髪！",
+      "label": "サージュＳネコブック（製法）",
+      "classification": "recipe",
+      "show": true,
+      "sourceUrl": "http://wiki.mhxg.org/ida/243401.html"
+    },
+    {
+      "questId": "hub-6-recipe-243401",
+      "name": "夜鳥の会・危機一髪！",
+      "label": "サージュＳネコフート（製法）",
+      "classification": "recipe",
+      "show": true,
+      "sourceUrl": "http://wiki.mhxg.org/ida/243401.html"
+    },
+    {
+      "questId": "hub-6-recipe-243401",
+      "name": "夜鳥の会・危機一髪！",
+      "label": "サージュＳネコスーツ（製法）",
+      "classification": "recipe",
+      "show": true,
+      "sourceUrl": "http://wiki.mhxg.org/ida/243401.html"
+    },
+    {
+      "questId": "hub-6-recipe-244691",
+      "name": "幻のハップル？",
+      "label": "プーギーの服 ドスの気持ち",
+      "classification": "clothing",
+      "show": true,
+      "sourceUrl": "http://wiki.mhxg.org/ida/244691.html"
+    },
+    {
+      "questId": "hub-6-recipe-244693",
+      "name": "ガノトトス冒険記",
+      "label": "イカリハンマー（特別入手）",
+      "classification": "special_grant",
+      "show": true,
+      "sourceUrl": "http://wiki.mhxg.org/ida/244693.html"
+    },
+    {
+      "questId": "hub-6-recipe-244696",
+      "name": "極秘依頼！獰猛なる溶岩竜！",
+      "label": "EXラヴァシリーズ（製法）",
+      "classification": "recipe",
+      "show": true,
+      "sourceUrl": "http://wiki.mhxg.org/ida/244696.html"
+    },
+    {
+      "questId": "hub-6-recipe-251363",
+      "name": "子分・取り分・イイ気分♪",
+      "label": "怪鳥のクックック（製法）",
+      "classification": "recipe",
+      "show": true,
+      "sourceUrl": "http://wiki.mhxg.org/ida/251363.html"
+    },
+    {
+      "questId": "hub-6-recipe-251363",
+      "name": "子分・取り分・イイ気分♪",
+      "label": "どんぐりのお面（製法）",
+      "classification": "recipe",
+      "show": true,
+      "sourceUrl": "http://wiki.mhxg.org/ida/251363.html"
+    },
+    {
+      "questId": "hub-6-recipe-251363",
+      "name": "子分・取り分・イイ気分♪",
+      "label": "オレチャマの一張羅（製法）",
+      "classification": "recipe",
+      "show": true,
+      "sourceUrl": "http://wiki.mhxg.org/ida/251363.html"
+    },
+    {
+      "questId": "hub-6-recipe-251363",
+      "name": "子分・取り分・イイ気分♪",
+      "label": "大猪のドッドッド（製法）",
+      "classification": "recipe",
+      "show": true,
+      "sourceUrl": "http://wiki.mhxg.org/ida/251363.html"
+    },
+    {
+      "questId": "hub-6-recipe-251363",
+      "name": "子分・取り分・イイ気分♪",
+      "label": "カニ爪のお面（製法）",
+      "classification": "recipe",
+      "show": true,
+      "sourceUrl": "http://wiki.mhxg.org/ida/251363.html"
+    },
+    {
+      "questId": "hub-6-recipe-251363",
+      "name": "子分・取り分・イイ気分♪",
+      "label": "ワガハイのナイスな蓑（製法）",
+      "classification": "recipe",
+      "show": true,
+      "sourceUrl": "http://wiki.mhxg.org/ida/251363.html"
+    },
+    {
+      "questId": "hub-7-recipe-251365",
+      "name": "容赦なき、金獅子相手に用心棒",
+      "label": "マスターシリーズ（製法）",
+      "classification": "recipe",
+      "show": true,
+      "sourceUrl": "http://wiki.mhxg.org/ida/251365.html"
+    },
+    {
+      "questId": "hub-7-recipe-229753",
+      "name": "千刃竜セルレギオス",
+      "label": "HR7への進行",
+      "classification": "rank_progression",
+      "show": false,
+      "sourceUrl": "http://wiki.mhxg.org/ida/229753.html"
+    },
+    {
+      "questId": "hub-7-recipe-285741",
+      "name": "その腕前、噂通りかしら…？",
+      "label": "G級（G★1・HR9）への進行",
+      "classification": "rank_progression",
+      "show": false,
+      "sourceUrl": "http://wiki.mhxg.org/ida/285741.html"
+    },
+    {
+      "questId": "hub-7-recipe-244697",
+      "name": "受付嬢オススメ！雷狼竜×２",
+      "label": "撫子・華/桔梗・華シリーズ（製法）",
+      "classification": "recipe",
+      "show": true,
+      "sourceUrl": "http://wiki.mhxg.org/ida/244697.html"
+    },
+    {
+      "questId": "hub-7-recipe-244697",
+      "name": "受付嬢オススメ！雷狼竜×２",
+      "label": "ニャでしこ華【布冠】（製法）",
+      "classification": "recipe",
+      "show": true,
+      "sourceUrl": "http://wiki.mhxg.org/ida/244697.html"
+    },
+    {
+      "questId": "hub-7-recipe-244697",
+      "name": "受付嬢オススメ！雷狼竜×２",
+      "label": "ニャでしこ華【花衣】（製法）",
+      "classification": "recipe",
+      "show": true,
+      "sourceUrl": "http://wiki.mhxg.org/ida/244697.html"
+    },
+    {
+      "questId": "hub-7-recipe-244698",
+      "name": "無理した弟子の、後始末",
+      "label": "転がし三度笠（製法）",
+      "classification": "recipe",
+      "show": true,
+      "sourceUrl": "http://wiki.mhxg.org/ida/244698.html"
+    },
+    {
+      "questId": "hub-7-recipe-244698",
+      "name": "無理した弟子の、後始末",
+      "label": "転がしマント（製法）",
+      "classification": "recipe",
+      "show": true,
+      "sourceUrl": "http://wiki.mhxg.org/ida/244698.html"
+    },
+    {
+      "questId": "hub-7-recipe-229763",
+      "name": "奈落の妖星",
+      "label": "HR8への進行",
+      "classification": "rank_progression",
+      "show": false,
+      "sourceUrl": "http://wiki.mhxg.org/ida/229763.html"
+    },
+    {
+      "questId": "hub-7-recipe-251366",
+      "name": "顕現せし黒蝕竜",
+      "label": "エースシリーズ（製法）",
+      "classification": "recipe",
+      "show": true,
+      "sourceUrl": "http://wiki.mhxg.org/ida/251366.html"
+    },
+    {
+      "questId": "hub-7-recipe-251366",
+      "name": "顕現せし黒蝕竜",
+      "label": "クイーンシリーズ（製法）",
+      "classification": "recipe",
+      "show": true,
+      "sourceUrl": "http://wiki.mhxg.org/ida/251366.html"
+    },
+    {
+      "questId": "hub-7-recipe-244686",
+      "name": "轟虎馮海",
+      "label": "EXレックスシリーズ（製法）",
+      "classification": "recipe",
+      "show": true,
+      "sourceUrl": "http://wiki.mhxg.org/ida/244686.html"
+    },
+    {
+      "questId": "hub-7-recipe-244700",
+      "name": "獰にして猛だが火でもある",
+      "label": "メイドS/プライベートSシリーズ（製法）",
+      "classification": "recipe",
+      "show": true,
+      "sourceUrl": "http://wiki.mhxg.org/ida/244700.html"
+    },
+    {
+      "questId": "hub-7-recipe-244700",
+      "name": "獰にして猛だが火でもある",
+      "label": "メイドＳネコフード（製法）",
+      "classification": "recipe",
+      "show": true,
+      "sourceUrl": "http://wiki.mhxg.org/ida/244700.html"
+    },
+    {
+      "questId": "hub-7-recipe-244700",
+      "name": "獰にして猛だが火でもある",
+      "label": "メイドＳネコメイル（製法）",
+      "classification": "recipe",
+      "show": true,
+      "sourceUrl": "http://wiki.mhxg.org/ida/244700.html"
+    },
+    {
+      "questId": "hub-7-recipe-244706",
+      "name": "蒼く渦巻く登竜門",
+      "label": "南蛮刀（特別入手）",
+      "classification": "special_grant",
+      "show": true,
+      "sourceUrl": "http://wiki.mhxg.org/ida/244706.html"
+    },
+    {
+      "questId": "hub-7-recipe-244709",
+      "name": "ユクモノ足湯と雷狼竜",
+      "label": "EXジンオウシリーズ（製法）",
+      "classification": "recipe",
+      "show": true,
+      "sourceUrl": "http://wiki.mhxg.org/ida/244709.html"
+    },
+    {
+      "questId": "hub-7-recipe-251367",
+      "name": "凶賊ゲリョス狩り",
+      "label": "工房謹製・オオナグリ（製法）",
+      "classification": "recipe",
+      "show": true,
+      "sourceUrl": "http://wiki.mhxg.org/ida/251367.html"
+    },
+    {
+      "questId": "hub-7-recipe-251368",
+      "name": "湯けむりと噴煙と",
+      "label": "EXブラキシリーズ（製法）",
+      "classification": "recipe",
+      "show": true,
+      "sourceUrl": "http://wiki.mhxg.org/ida/251368.html"
+    },
+    {
+      "questId": "hub-7-recipe-244711",
+      "name": "原生林の平和を守れ",
+      "label": "ブレイブSシリーズ（製法）",
+      "classification": "recipe",
+      "show": true,
+      "sourceUrl": "http://wiki.mhxg.org/ida/244711.html"
+    },
+    {
+      "questId": "hub-7-recipe-244711",
+      "name": "原生林の平和を守れ",
+      "label": "ブレイブＸシリーズ（製法）",
+      "classification": "recipe",
+      "show": true,
+      "sourceUrl": "http://wiki.mhxg.org/ida/244711.html"
+    },
+    {
+      "questId": "hub-7-recipe-244711",
+      "name": "原生林の平和を守れ",
+      "label": "ブレイブＳネコランス（製法）",
+      "classification": "recipe",
+      "show": true,
+      "sourceUrl": "http://wiki.mhxg.org/ida/244711.html"
+    },
+    {
+      "questId": "hub-7-recipe-244711",
+      "name": "原生林の平和を守れ",
+      "label": "ブレイブＳネコガレア（製法）",
+      "classification": "recipe",
+      "show": true,
+      "sourceUrl": "http://wiki.mhxg.org/ida/244711.html"
+    },
+    {
+      "questId": "hub-7-recipe-244711",
+      "name": "原生林の平和を守れ",
+      "label": "ブレイブＳネコロリカ（製法）",
+      "classification": "recipe",
+      "show": true,
+      "sourceUrl": "http://wiki.mhxg.org/ida/244711.html"
+    },
+    {
+      "questId": "hub-7-recipe-251369",
+      "name": "試練の帰結点",
+      "label": "ギルドチケット（特別入手）",
+      "classification": "special_grant",
+      "show": true,
+      "sourceUrl": "http://wiki.mhxg.org/ida/251369.html"
+    },
+    {
+      "questId": "hub-7-recipe-251369",
+      "name": "試練の帰結点",
+      "label": "ニンジャソード（製法）",
+      "classification": "recipe",
+      "show": true,
+      "sourceUrl": "http://wiki.mhxg.org/ida/251369.html"
+    },
+    {
+      "questId": "hub-7-recipe-251369",
+      "name": "試練の帰結点",
+      "label": "忍・天/忍・地シリーズ（製法）",
+      "classification": "recipe",
+      "show": true,
+      "sourceUrl": "http://wiki.mhxg.org/ida/251369.html"
+    },
+    {
+      "questId": "hub-7-recipe-251369",
+      "name": "試練の帰結点",
+      "label": "忍・空/忍・海シリーズ（製法）",
+      "classification": "recipe",
+      "show": true,
+      "sourceUrl": "http://wiki.mhxg.org/ida/251369.html"
+    },
+    {
+      "questId": "hub-7-recipe-251370",
+      "name": "森丘の黒い霧",
+      "label": "大長老の脇差（製法）",
+      "classification": "recipe",
+      "show": true,
+      "sourceUrl": "http://wiki.mhxg.org/ida/251370.html"
+    },
+    {
+      "questId": "hub-7-recipe-251371",
+      "name": "まだ見ぬ秘湯をもとめて",
+      "label": "桐花/三葵シリーズ（製法）",
+      "classification": "recipe",
+      "show": true,
+      "sourceUrl": "http://wiki.mhxg.org/ida/251371.html"
+    },
+    {
+      "questId": "hub-7-recipe-251372",
+      "name": "汝ノチカラヲ、見セテミヨ",
+      "label": "最高のお面（製法）",
+      "classification": "recipe",
+      "show": true,
+      "sourceUrl": "http://wiki.mhxg.org/ida/251372.html"
+    },
+    {
+      "questId": "hub-7-recipe-251373",
+      "name": "沼地酔夢譚",
+      "label": "番傘【秋雨】（製法）",
+      "classification": "recipe",
+      "show": true,
+      "sourceUrl": "http://wiki.mhxg.org/ida/251373.html"
+    },
+    {
+      "questId": "hub-7-recipe-251373",
+      "name": "沼地酔夢譚",
+      "label": "アイリューシカ（製法）",
+      "classification": "recipe",
+      "show": true,
+      "sourceUrl": "http://wiki.mhxg.org/ida/251373.html"
+    },
+    {
+      "questId": "hub-7-recipe-251373",
+      "name": "沼地酔夢譚",
+      "label": "瓢弾（製法）",
+      "classification": "recipe",
+      "show": true,
+      "sourceUrl": "http://wiki.mhxg.org/ida/251373.html"
+    },
+    {
+      "questId": "hub-7-recipe-251374",
+      "name": "憤怒の雄叫び",
+      "label": "城塞遊撃隊/城塞弓撃隊シリーズ（製法）",
+      "classification": "recipe",
+      "show": true,
+      "sourceUrl": "http://wiki.mhxg.org/ida/251374.html"
+    }
+  ],
+  "confirmedMarkers": [
+    {
+      "questId": "village-2-recipe-220164",
+      "name": "青熊獣アオアシラ",
+      "markers": [
+        "武具",
+        "施設"
+      ],
+      "sourceUrl": "http://wiki.mhxg.org/ida/220164.html",
+      "basis": "既存の攻略レシピ一覧・個別ページの観測アイコンを照合。具体名・条件の未確認警告は維持。"
+    },
+    {
+      "questId": "village-3-g8-822877",
+      "name": "鬼面狩人を威す",
+      "markers": [
+        "狩技",
+        "食材",
+        "施設"
+      ],
+      "sourceUrl": "http://wiki.mhxg.org/ida/219318.html",
+      "basis": "既存の攻略レシピ一覧・個別ページの観測アイコンを照合。具体名・条件の未確認警告は維持。"
+    },
+    {
+      "questId": "village-3-recipe-218333",
+      "name": "森丘の悪戯っ子",
+      "markers": [
+        "施設"
+      ],
+      "sourceUrl": "http://wiki.mhxg.org/ida/218333.html",
+      "basis": "既存の攻略レシピ一覧・個別ページの観測アイコンを照合。具体名・条件の未確認警告は維持。"
+    },
+    {
+      "questId": "village-4-recipe-238187",
+      "name": "跳狗竜の頭部破壊に挑戦！",
+      "markers": [
+        "施設"
+      ],
+      "sourceUrl": "http://wiki.mhxg.org/ida/238187.html",
+      "basis": "既存の攻略レシピ一覧・個別ページの観測アイコンを照合。具体名・条件の未確認警告は維持。"
+    },
+    {
+      "questId": "village-6-recipe-220240",
+      "name": "灼熱の刃",
+      "markers": [
+        "狩技",
+        "施設"
+      ],
+      "sourceUrl": "http://wiki.mhxg.org/ida/220240.html",
+      "basis": "既存の攻略レシピ一覧・個別ページの観測アイコンを照合。具体名・条件の未確認警告は維持。"
+    },
+    {
+      "questId": "village-6-recipe-238216",
+      "name": "盾蟹のヤド破壊に挑戦！",
+      "markers": [
+        "施設"
+      ],
+      "sourceUrl": "http://wiki.mhxg.org/ida/238216.html",
+      "basis": "既存の攻略レシピ一覧・個別ページの観測アイコンを照合。具体名・条件の未確認警告は維持。"
+    },
+    {
+      "questId": "village-7-recipe-285740",
+      "name": "調査隊初陣！遺群嶺の桃毛獣",
+      "markers": [
+        "狩技",
+        "施設"
+      ],
+      "sourceUrl": "http://wiki.mhxg.org/ida/285740.html",
+      "basis": "既存の攻略レシピ一覧・個別ページの観測アイコンを照合。具体名・条件の未確認警告は維持。"
+    },
+    {
+      "questId": "village-7-recipe-285981",
+      "name": "友に迫る土砂竜",
+      "markers": [
+        "施設"
+      ],
+      "sourceUrl": "http://wiki.mhxg.org/ida/285981.html",
+      "basis": "既存の攻略レシピ一覧・個別ページの観測アイコンを照合。具体名・条件の未確認警告は維持。"
+    },
+    {
+      "questId": "village-8-recipe-286172",
+      "name": "原生林に巣食う蜘蛛",
+      "markers": [
+        "食材",
+        "施設"
+      ],
+      "sourceUrl": "http://wiki.mhxg.org/ida/286172.html",
+      "basis": "既存の攻略レシピ一覧・個別ページの観測アイコンを照合。具体名・条件の未確認警告は維持。"
+    },
+    {
+      "questId": "village-9-recipe-286230",
+      "name": "ディノバルド、再び！",
+      "markers": [
+        "施設"
+      ],
+      "sourceUrl": "http://wiki.mhxg.org/ida/286230.html",
+      "basis": "既存の攻略レシピ一覧・個別ページの観測アイコンを照合。具体名・条件の未確認警告は維持。"
+    },
+    {
+      "questId": "village-9-recipe-286232",
+      "name": "ライゼクス、再び！",
+      "markers": [
+        "施設"
+      ],
+      "sourceUrl": "http://wiki.mhxg.org/ida/286232.html",
+      "basis": "既存の攻略レシピ一覧・個別ページの観測アイコンを照合。具体名・条件の未確認警告は維持。"
+    },
+    {
+      "questId": "village-9-recipe-286235",
+      "name": "ガムート、再び！",
+      "markers": [
+        "施設"
+      ],
+      "sourceUrl": "http://wiki.mhxg.org/ida/286235.html",
+      "basis": "既存の攻略レシピ一覧・個別ページの観測アイコンを照合。具体名・条件の未確認警告は維持。"
+    },
+    {
+      "questId": "village-9-recipe-286237",
+      "name": "タマミツネ、再び！",
+      "markers": [
+        "施設"
+      ],
+      "sourceUrl": "http://wiki.mhxg.org/ida/286237.html",
+      "basis": "既存の攻略レシピ一覧・個別ページの観測アイコンを照合。具体名・条件の未確認警告は維持。"
+    },
+    {
+      "questId": "hub-2-recipe-219996",
+      "name": "雪山の主、ドドブランゴ",
+      "markers": [
+        "狩技",
+        "施設"
+      ],
+      "sourceUrl": "http://wiki.mhxg.org/ida/219996.html",
+      "basis": "既存の攻略レシピ一覧・個別ページの観測アイコンを照合。具体名・条件の未確認警告は維持。"
+    },
+    {
+      "questId": "hub-3-recipe-220003",
+      "name": "電の反逆者",
+      "markers": [
+        "狩技",
+        "施設"
+      ],
+      "sourceUrl": "http://wiki.mhxg.org/ida/220003.html",
+      "basis": "既存の攻略レシピ一覧・個別ページの観測アイコンを照合。具体名・条件の未確認警告は維持。"
+    },
+    {
+      "questId": "hub-3-recipe-220429",
+      "name": "双頭の骸",
+      "markers": [
+        "狩技",
+        "施設"
+      ],
+      "sourceUrl": "http://wiki.mhxg.org/ida/220429.html",
+      "basis": "既存の攻略レシピ一覧・個別ページの観測アイコンを照合。具体名・条件の未確認警告は維持。"
+    }
+  ]
+}

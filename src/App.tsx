@@ -1,6 +1,7 @@
 import { useEffect, useRef, useState } from "react";
 import type { Category, Quest, Rule, SaveData } from "./lib/types";
 import { categories, tagLabels } from "./lib/types";
+import { hasUnlockIndicator } from "./lib/unlocks";
 import { dependents, evaluate } from "./lib/rules";
 import {
   DEMO_SAVE_KEY,
@@ -487,6 +488,7 @@ export default function App() {
                             {q.role === "prowler" ? "ニャンター" : "共通"}
                           </span>
                         )}
+                        {hasUnlockIndicator(q) && <span className="tag tag-unlock">解放あり</span>}
                       </span>
                       <span className="quest-name">{q.name}</span>
                       <span className="quest-meta">

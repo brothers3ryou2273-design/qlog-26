@@ -1470,3 +1470,38 @@ test("upper progress distinguishes G-transition HR, random spawns, deliveries an
     ),
   ).toBe(true);
 });
+
+
+test("unlock badges show once, distinguish reference-only data, and survive checks/reload", async ({ page }) => {
+  await page.goto("./");
+  await page.getByRole("button", { name: "集会所", exact: true }).click();
+  await page.getByRole("combobox", { name: "ランク", exact: true }).selectOption("4");
+  for (const name of ["ライバルの激突！！", "大地を泳ぐモンスター", "超☆メモ帳～跳狗竜狩猟編～"]) {
+    const card = page.locator(".quest-card").filter({ has: page.locator(".quest-name", { hasText: name }) });
+    await expect(card.locator(".tag-unlock")).toHaveCount(1);
+  }
+  await page.getByRole("searchbox").fill("ライバルの激突");
+  const card = page.locator(".quest-card");
+  await card.getByRole("checkbox").check();
+  await expect(card.locator(".tag-unlock")).toHaveText("解放あり");
+  await card.locator(".quest-title").click();
+  await expect(card.locator(".quest-details")).toBeVisible();
+  await expect(card.locator(".quest-details")).toContainText("製法");
+  const bounds = await card.boundingBox();
+  expect(bounds!.x + bounds!.width).toBeLessThanOrEqual(page.viewportSize()!.width);
+  await page.reload();
+  await page.getByRole("button", { name: "集会所", exact: true }).click();
+  await page.getByRole("combobox", { name: "ランク", exact: true }).selectOption("4");
+  await page.getByRole("searchbox").fill("ライバルの激突");
+  await expect(page.locator(".quest-card").getByRole("checkbox")).toBeChecked();
+  await expect(page.locator(".tag-unlock")).toHaveCount(1);
+  await page.getByRole("searchbox").fill("");
+  await page.getByRole("combobox", { name: "ランク", exact: true }).selectOption("7");
+  const hrOnly = page.locator(".quest-card").filter({ has: page.getByText("奈落の妖星", { exact: true }) });
+  await expect(hrOnly.locator(".tag-unlock")).toHaveCount(0);
+  await page.getByRole("button", { name: "村", exact: true }).click();
+  await page.getByRole("combobox", { name: "ランク", exact: true }).selectOption("2");
+  const marker = page.locator(".quest-card").filter({ has: page.getByText("青熊獣アオアシラ", { exact: true }) });
+  await expect(marker.locator(".tag-unlock")).toHaveCount(1);
+  expect(await page.evaluate(() => document.documentElement.scrollWidth <= window.innerWidth)).toBe(true);
+});
