@@ -1,0 +1,936 @@
+[
+  {
+    "id": "permit-stonefist-lv1-recipe-261198",
+    "name": "【特殊許可】矛砕狩猟依頼１",
+    "category": "permit",
+    "rank": "矛砕",
+    "order": 0,
+    "permitStage": "LV1",
+    "role": "hunter",
+    "tags": [
+      "normal"
+    ],
+    "condition": {
+      "kind": "all",
+      "rules": [
+        {
+          "kind": "quest_cleared",
+          "questId": "hub-1-recipe-219149"
+        },
+        {
+          "kind": "hr_at_least",
+          "value": 2
+        }
+      ]
+    },
+    "npcNotes": [
+      "受注・参加資料：HR2以上、特殊許可券【矛砕】を所持。券の所持数・消費は管理していません。"
+    ],
+    "unlocks": [
+      {
+        "kind": "other",
+        "label": "矛砕：オトモ二つ名武器・防具【無印】（製法）",
+        "note": "ニャンター専門Wikiが明記した作成条件のクリア段階。オトモ装備が対象で、ハンター装備全般の製法解放を意味しません。生産には対応する証・端材・素材・費用が別途必要。XXは証の入手条件も必要です。"
+      }
+    ],
+    "sources": [
+      {
+        "url": "http://wiki.mhxg.org/ida/261198.html",
+        "site": "MHXX攻略レシピ",
+        "kind": "detail",
+        "checkedAt": "2026-10-16"
+      },
+      {
+        "url": "http://wiki.mhxg.org/data/2036.html",
+        "site": "MHXX攻略レシピ（特殊許可一覧）",
+        "kind": "list",
+        "checkedAt": "2026-10-16"
+      },
+      {
+        "url": "https://game8.jp/mh-xx/824040",
+        "site": "Game8 MHXX（受注HR・許可券）",
+        "kind": "detail",
+        "checkedAt": "2026-10-16"
+      },
+      {
+        "url": "https://w.atwiki.jp/mhxxnyanter/pages/20.html",
+        "site": "MHXXニャンターwiki（二つ名オトモ武具）",
+        "kind": "list",
+        "checkedAt": "2026-10-16"
+      }
+    ],
+    "verification": "partial",
+    "verificationNote": "攻略レシピの一覧・個別タイトル・条件を照合。自分で受注して段階が進んだクリアを記録。素材・狩猟証だけを機能解放と判断しません。",
+    "warnings": []
+  },
+  {
+    "id": "permit-stonefist-lv2-recipe-261199",
+    "name": "【特殊許可】矛砕捕獲依頼２",
+    "category": "permit",
+    "rank": "矛砕",
+    "order": 1,
+    "permitStage": "LV2",
+    "role": "hunter",
+    "tags": [
+      "normal"
+    ],
+    "condition": {
+      "kind": "all",
+      "rules": [
+        {
+          "kind": "quest_cleared",
+          "questId": "permit-stonefist-lv1-recipe-261198"
+        },
+        {
+          "kind": "hr_at_least",
+          "value": 2
+        }
+      ]
+    },
+    "npcNotes": [
+      "受注・参加資料：HR2以上、特殊許可券【矛砕】を所持。券の所持数・消費は管理していません。"
+    ],
+    "unlocks": [],
+    "sources": [
+      {
+        "url": "http://wiki.mhxg.org/ida/261199.html",
+        "site": "MHXX攻略レシピ",
+        "kind": "detail",
+        "checkedAt": "2026-10-16"
+      },
+      {
+        "url": "http://wiki.mhxg.org/data/2036.html",
+        "site": "MHXX攻略レシピ（特殊許可一覧）",
+        "kind": "list",
+        "checkedAt": "2026-10-16"
+      },
+      {
+        "url": "https://game8.jp/mh-xx/824041",
+        "site": "Game8 MHXX（受注HR・許可券）",
+        "kind": "detail",
+        "checkedAt": "2026-10-16"
+      }
+    ],
+    "verification": "partial",
+    "verificationNote": "攻略レシピの一覧・個別タイトル・条件を照合。自分で受注して段階が進んだクリアを記録。素材・狩猟証だけを機能解放と判断しません。",
+    "warnings": []
+  },
+  {
+    "id": "permit-stonefist-lv3-recipe-261200",
+    "name": "【特殊許可】矛砕狩猟依頼３",
+    "category": "permit",
+    "rank": "矛砕",
+    "order": 2,
+    "permitStage": "LV3",
+    "role": "hunter",
+    "tags": [
+      "normal"
+    ],
+    "condition": {
+      "kind": "all",
+      "rules": [
+        {
+          "kind": "quest_cleared",
+          "questId": "permit-stonefist-lv2-recipe-261199"
+        },
+        {
+          "kind": "hr_at_least",
+          "value": 2
+        }
+      ]
+    },
+    "npcNotes": [
+      "受注・参加資料：HR2以上、特殊許可券【矛砕】を所持。券の所持数・消費は管理していません。"
+    ],
+    "unlocks": [],
+    "sources": [
+      {
+        "url": "http://wiki.mhxg.org/ida/261200.html",
+        "site": "MHXX攻略レシピ",
+        "kind": "detail",
+        "checkedAt": "2026-10-16"
+      },
+      {
+        "url": "http://wiki.mhxg.org/data/2036.html",
+        "site": "MHXX攻略レシピ（特殊許可一覧）",
+        "kind": "list",
+        "checkedAt": "2026-10-16"
+      },
+      {
+        "url": "https://game8.jp/mh-xx/824042",
+        "site": "Game8 MHXX（受注HR・許可券）",
+        "kind": "detail",
+        "checkedAt": "2026-10-16"
+      }
+    ],
+    "verification": "partial",
+    "verificationNote": "攻略レシピの一覧・個別タイトル・条件を照合。自分で受注して段階が進んだクリアを記録。素材・狩猟証だけを機能解放と判断しません。",
+    "warnings": []
+  },
+  {
+    "id": "permit-stonefist-lv4-recipe-261201",
+    "name": "【特殊許可】矛砕狩猟依頼４",
+    "category": "permit",
+    "rank": "矛砕",
+    "order": 3,
+    "permitStage": "LV4",
+    "role": "hunter",
+    "tags": [
+      "normal"
+    ],
+    "condition": {
+      "kind": "all",
+      "rules": [
+        {
+          "kind": "quest_cleared",
+          "questId": "permit-stonefist-lv3-recipe-261200"
+        },
+        {
+          "kind": "hr_at_least",
+          "value": 4
+        }
+      ]
+    },
+    "npcNotes": [
+      "受注・参加資料：HR4以上、特殊許可券【矛砕】を3枚以上所持。券の所持数・消費は管理していません。"
+    ],
+    "unlocks": [],
+    "sources": [
+      {
+        "url": "http://wiki.mhxg.org/ida/261201.html",
+        "site": "MHXX攻略レシピ",
+        "kind": "detail",
+        "checkedAt": "2026-10-16"
+      },
+      {
+        "url": "http://wiki.mhxg.org/data/2036.html",
+        "site": "MHXX攻略レシピ（特殊許可一覧）",
+        "kind": "list",
+        "checkedAt": "2026-10-16"
+      },
+      {
+        "url": "https://game8.jp/mh-xx/824043",
+        "site": "Game8 MHXX（受注HR・許可券）",
+        "kind": "detail",
+        "checkedAt": "2026-10-16"
+      }
+    ],
+    "verification": "partial",
+    "verificationNote": "攻略レシピの一覧・個別タイトル・条件を照合。自分で受注して段階が進んだクリアを記録。素材・狩猟証だけを機能解放と判断しません。",
+    "warnings": []
+  },
+  {
+    "id": "permit-stonefist-lv5-recipe-261202",
+    "name": "【特殊許可】矛砕狩猟依頼５",
+    "category": "permit",
+    "rank": "矛砕",
+    "order": 4,
+    "permitStage": "LV5",
+    "role": "hunter",
+    "tags": [
+      "normal"
+    ],
+    "condition": {
+      "kind": "all",
+      "rules": [
+        {
+          "kind": "quest_cleared",
+          "questId": "permit-stonefist-lv4-recipe-261201"
+        },
+        {
+          "kind": "hr_at_least",
+          "value": 4
+        }
+      ]
+    },
+    "npcNotes": [
+      "受注・参加資料：HR4以上、特殊許可券【矛砕】を3枚以上所持。券の所持数・消費は管理していません。"
+    ],
+    "unlocks": [],
+    "sources": [
+      {
+        "url": "http://wiki.mhxg.org/ida/261202.html",
+        "site": "MHXX攻略レシピ",
+        "kind": "detail",
+        "checkedAt": "2026-10-16"
+      },
+      {
+        "url": "http://wiki.mhxg.org/data/2036.html",
+        "site": "MHXX攻略レシピ（特殊許可一覧）",
+        "kind": "list",
+        "checkedAt": "2026-10-16"
+      },
+      {
+        "url": "https://game8.jp/mh-xx/824044",
+        "site": "Game8 MHXX（受注HR・許可券）",
+        "kind": "detail",
+        "checkedAt": "2026-10-16"
+      }
+    ],
+    "verification": "partial",
+    "verificationNote": "攻略レシピの一覧・個別タイトル・条件を照合。自分で受注して段階が進んだクリアを記録。素材・狩猟証だけを機能解放と判断しません。",
+    "warnings": []
+  },
+  {
+    "id": "permit-stonefist-lv6-recipe-261203",
+    "name": "【特殊許可】矛砕狩猟依頼６",
+    "category": "permit",
+    "rank": "矛砕",
+    "order": 5,
+    "permitStage": "LV6",
+    "role": "hunter",
+    "tags": [
+      "normal"
+    ],
+    "condition": {
+      "kind": "all",
+      "rules": [
+        {
+          "kind": "quest_cleared",
+          "questId": "permit-stonefist-lv5-recipe-261202"
+        },
+        {
+          "kind": "hr_at_least",
+          "value": 6
+        }
+      ]
+    },
+    "npcNotes": [
+      "受注・参加資料：HR6以上、特殊許可券【矛砕】を5枚以上所持。券の所持数・消費は管理していません。"
+    ],
+    "unlocks": [],
+    "sources": [
+      {
+        "url": "http://wiki.mhxg.org/ida/261203.html",
+        "site": "MHXX攻略レシピ",
+        "kind": "detail",
+        "checkedAt": "2026-10-16"
+      },
+      {
+        "url": "http://wiki.mhxg.org/data/2036.html",
+        "site": "MHXX攻略レシピ（特殊許可一覧）",
+        "kind": "list",
+        "checkedAt": "2026-10-16"
+      },
+      {
+        "url": "https://game8.jp/mh-xx/824045",
+        "site": "Game8 MHXX（受注HR・許可券）",
+        "kind": "detail",
+        "checkedAt": "2026-10-16"
+      }
+    ],
+    "verification": "partial",
+    "verificationNote": "攻略レシピの一覧・個別タイトル・条件を照合。自分で受注して段階が進んだクリアを記録。素材・狩猟証だけを機能解放と判断しません。",
+    "warnings": []
+  },
+  {
+    "id": "permit-stonefist-lv7-recipe-261204",
+    "name": "【特殊許可】矛砕捕獲依頼７",
+    "category": "permit",
+    "rank": "矛砕",
+    "order": 6,
+    "permitStage": "LV7",
+    "role": "hunter",
+    "tags": [
+      "normal"
+    ],
+    "condition": {
+      "kind": "all",
+      "rules": [
+        {
+          "kind": "quest_cleared",
+          "questId": "permit-stonefist-lv6-recipe-261203"
+        },
+        {
+          "kind": "hr_at_least",
+          "value": 6
+        }
+      ]
+    },
+    "npcNotes": [
+      "受注・参加資料：HR6以上、特殊許可券【矛砕】を5枚以上所持、弾・ビンポーチ以外のアイテム持ち込み不可。券の所持数・消費は管理していません。"
+    ],
+    "unlocks": [],
+    "sources": [
+      {
+        "url": "http://wiki.mhxg.org/ida/261204.html",
+        "site": "MHXX攻略レシピ",
+        "kind": "detail",
+        "checkedAt": "2026-10-16"
+      },
+      {
+        "url": "http://wiki.mhxg.org/data/2036.html",
+        "site": "MHXX攻略レシピ（特殊許可一覧）",
+        "kind": "list",
+        "checkedAt": "2026-10-16"
+      },
+      {
+        "url": "https://game8.jp/mh-xx/824046",
+        "site": "Game8 MHXX（受注HR・許可券）",
+        "kind": "detail",
+        "checkedAt": "2026-10-16"
+      }
+    ],
+    "verification": "partial",
+    "verificationNote": "攻略レシピの一覧・個別タイトル・条件を照合。自分で受注して段階が進んだクリアを記録。素材・狩猟証だけを機能解放と判断しません。",
+    "warnings": []
+  },
+  {
+    "id": "permit-stonefist-lv8-recipe-261205",
+    "name": "【特殊許可】矛砕狩猟依頼８",
+    "category": "permit",
+    "rank": "矛砕",
+    "order": 7,
+    "permitStage": "LV8",
+    "role": "hunter",
+    "tags": [
+      "normal"
+    ],
+    "condition": {
+      "kind": "all",
+      "rules": [
+        {
+          "kind": "quest_cleared",
+          "questId": "permit-stonefist-lv7-recipe-261204"
+        },
+        {
+          "kind": "hr_at_least",
+          "value": 6
+        }
+      ]
+    },
+    "npcNotes": [
+      "受注・参加資料：HR6以上、特殊許可券【矛砕】を5枚以上所持。券の所持数・消費は管理していません。"
+    ],
+    "unlocks": [],
+    "sources": [
+      {
+        "url": "http://wiki.mhxg.org/ida/261205.html",
+        "site": "MHXX攻略レシピ",
+        "kind": "detail",
+        "checkedAt": "2026-10-16"
+      },
+      {
+        "url": "http://wiki.mhxg.org/data/2036.html",
+        "site": "MHXX攻略レシピ（特殊許可一覧）",
+        "kind": "list",
+        "checkedAt": "2026-10-16"
+      },
+      {
+        "url": "https://game8.jp/mh-xx/824047",
+        "site": "Game8 MHXX（受注HR・許可券）",
+        "kind": "detail",
+        "checkedAt": "2026-10-16"
+      }
+    ],
+    "verification": "partial",
+    "verificationNote": "攻略レシピの一覧・個別タイトル・条件を照合。自分で受注して段階が進んだクリアを記録。素材・狩猟証だけを機能解放と判断しません。",
+    "warnings": []
+  },
+  {
+    "id": "permit-stonefist-lv9-recipe-261206",
+    "name": "【特殊許可】矛砕狩猟依頼９",
+    "category": "permit",
+    "rank": "矛砕",
+    "order": 8,
+    "permitStage": "LV9",
+    "role": "hunter",
+    "tags": [
+      "normal"
+    ],
+    "condition": {
+      "kind": "all",
+      "rules": [
+        {
+          "kind": "quest_cleared",
+          "questId": "permit-stonefist-lv8-recipe-261205"
+        },
+        {
+          "kind": "hr_at_least",
+          "value": 8
+        }
+      ]
+    },
+    "npcNotes": [
+      "受注・参加資料：HR8以上、特殊許可券【矛砕】を6枚以上所持。券の所持数・消費は管理していません。"
+    ],
+    "unlocks": [],
+    "sources": [
+      {
+        "url": "http://wiki.mhxg.org/ida/261206.html",
+        "site": "MHXX攻略レシピ",
+        "kind": "detail",
+        "checkedAt": "2026-10-16"
+      },
+      {
+        "url": "http://wiki.mhxg.org/data/2036.html",
+        "site": "MHXX攻略レシピ（特殊許可一覧）",
+        "kind": "list",
+        "checkedAt": "2026-10-16"
+      },
+      {
+        "url": "https://game8.jp/mh-xx/824048",
+        "site": "Game8 MHXX（受注HR・許可券）",
+        "kind": "detail",
+        "checkedAt": "2026-10-16"
+      }
+    ],
+    "verification": "partial",
+    "verificationNote": "攻略レシピの一覧・個別タイトル・条件を照合。自分で受注して段階が進んだクリアを記録。素材・狩猟証だけを機能解放と判断しません。",
+    "warnings": []
+  },
+  {
+    "id": "permit-stonefist-lv10-recipe-235921",
+    "name": "【特殊許可】矛砕狩猟依頼１０",
+    "category": "permit",
+    "rank": "矛砕",
+    "order": 9,
+    "permitStage": "LV10",
+    "role": "hunter",
+    "tags": [
+      "normal"
+    ],
+    "condition": {
+      "kind": "all",
+      "rules": [
+        {
+          "kind": "quest_cleared",
+          "questId": "permit-stonefist-lv9-recipe-261206"
+        },
+        {
+          "kind": "hr_at_least",
+          "value": 8
+        }
+      ]
+    },
+    "npcNotes": [
+      "受注・参加資料：HR8以上、特殊許可券【矛砕】を6枚以上所持。券の所持数・消費は管理していません。"
+    ],
+    "unlocks": [
+      {
+        "kind": "other",
+        "label": "勲章：狩ノ極意 矛砕之巻",
+        "note": "この二つ名のLV1〜10を自分で受注して全てクリア。参加クリアだけの記録とは区別します。取得状態を自動管理するものではありません。"
+      }
+    ],
+    "sources": [
+      {
+        "url": "http://wiki.mhxg.org/ida/235921.html",
+        "site": "MHXX攻略レシピ",
+        "kind": "detail",
+        "checkedAt": "2026-10-16"
+      },
+      {
+        "url": "http://wiki.mhxg.org/data/2036.html",
+        "site": "MHXX攻略レシピ（特殊許可一覧）",
+        "kind": "list",
+        "checkedAt": "2026-10-16"
+      },
+      {
+        "url": "https://game8.jp/mh-xx/824049",
+        "site": "Game8 MHXX（受注HR・許可券）",
+        "kind": "detail",
+        "checkedAt": "2026-10-16"
+      },
+      {
+        "url": "https://mhx-wiki.com/?%E5%8B%B2%E7%AB%A0%E4%B8%80%E8%A6%A7",
+        "site": "MHXX攻略Wiki（勲章の入手条件）",
+        "kind": "list",
+        "checkedAt": "2026-10-16"
+      }
+    ],
+    "verification": "partial",
+    "verificationNote": "攻略レシピの一覧・個別タイトル・条件を照合。自分で受注して段階が進んだクリアを記録。素材・狩猟証だけを機能解放と判断しません。",
+    "warnings": []
+  },
+  {
+    "id": "permit-stonefist-g1-recipe-299140",
+    "name": "【特殊許可】矛砕捕獲依頼G1",
+    "category": "permit",
+    "rank": "矛砕",
+    "order": 10,
+    "permitStage": "G1",
+    "role": "hunter",
+    "tags": [
+      "normal"
+    ],
+    "condition": {
+      "kind": "all",
+      "rules": [
+        {
+          "kind": "quest_cleared",
+          "questId": "permit-stonefist-lv10-recipe-235921"
+        },
+        {
+          "kind": "any",
+          "rules": [
+            {
+              "kind": "quest_cleared",
+              "questId": "g-rank-1-recipe-286180"
+            },
+            {
+              "kind": "quest_cleared",
+              "questId": "g-rank-1-recipe-285791"
+            }
+          ]
+        },
+        {
+          "kind": "hr_at_least",
+          "value": 9
+        }
+      ]
+    },
+    "npcNotes": [
+      "受注・参加資料：HR9以上、特殊許可券【矛砕】を8枚以上所持。券の所持数・消費は管理していません。"
+    ],
+    "unlocks": [
+      {
+        "kind": "other",
+        "label": "矛砕：オトモ二つ名武器・防具【X】（製法）",
+        "note": "ニャンター専門Wikiが明記した作成条件のクリア段階。オトモ装備が対象で、ハンター装備全般の製法解放を意味しません。生産には対応する証・端材・素材・費用が別途必要。XXは証の入手条件も必要です。"
+      }
+    ],
+    "sources": [
+      {
+        "url": "http://wiki.mhxg.org/ida/299140.html",
+        "site": "MHXX攻略レシピ",
+        "kind": "detail",
+        "checkedAt": "2026-10-16"
+      },
+      {
+        "url": "http://wiki.mhxg.org/data/2997.html",
+        "site": "MHXX攻略レシピ（特殊許可一覧）",
+        "kind": "list",
+        "checkedAt": "2026-10-16"
+      },
+      {
+        "url": "https://game8.jp/mh-xx/824050",
+        "site": "Game8 MHXX（受注HR・許可券）",
+        "kind": "detail",
+        "checkedAt": "2026-10-16"
+      },
+      {
+        "url": "https://w.atwiki.jp/mhxxnyanter/pages/20.html",
+        "site": "MHXXニャンターwiki（二つ名オトモ武具）",
+        "kind": "list",
+        "checkedAt": "2026-10-16"
+      }
+    ],
+    "verification": "partial",
+    "verificationNote": "攻略レシピの一覧・個別タイトル・条件を照合。自分で受注して段階が進んだクリアを記録。素材・狩猟証だけを機能解放と判断しません。",
+    "warnings": []
+  },
+  {
+    "id": "permit-stonefist-g2-recipe-299141",
+    "name": "【特殊許可】矛砕狩猟依頼G2",
+    "category": "permit",
+    "rank": "矛砕",
+    "order": 11,
+    "permitStage": "G2",
+    "role": "hunter",
+    "tags": [
+      "normal"
+    ],
+    "condition": {
+      "kind": "all",
+      "rules": [
+        {
+          "kind": "quest_cleared",
+          "questId": "permit-stonefist-g1-recipe-299140"
+        },
+        {
+          "kind": "hr_at_least",
+          "value": 9
+        }
+      ]
+    },
+    "npcNotes": [
+      "受注・参加資料：HR9以上、特殊許可券【矛砕】を8枚以上所持。券の所持数・消費は管理していません。"
+    ],
+    "unlocks": [],
+    "sources": [
+      {
+        "url": "http://wiki.mhxg.org/ida/299141.html",
+        "site": "MHXX攻略レシピ",
+        "kind": "detail",
+        "checkedAt": "2026-10-16"
+      },
+      {
+        "url": "http://wiki.mhxg.org/data/2997.html",
+        "site": "MHXX攻略レシピ（特殊許可一覧）",
+        "kind": "list",
+        "checkedAt": "2026-10-16"
+      },
+      {
+        "url": "https://game8.jp/mh-xx/824051",
+        "site": "Game8 MHXX（受注HR・許可券）",
+        "kind": "detail",
+        "checkedAt": "2026-10-16"
+      }
+    ],
+    "verification": "partial",
+    "verificationNote": "攻略レシピの一覧・個別タイトル・条件を照合。自分で受注して段階が進んだクリアを記録。素材・狩猟証だけを機能解放と判断しません。",
+    "warnings": []
+  },
+  {
+    "id": "permit-stonefist-g3-recipe-309833",
+    "name": "【特殊許可】矛砕狩猟依頼G3",
+    "category": "permit",
+    "rank": "矛砕",
+    "order": 12,
+    "permitStage": "G3",
+    "role": "hunter",
+    "tags": [
+      "normal"
+    ],
+    "condition": {
+      "kind": "all",
+      "rules": [
+        {
+          "kind": "quest_cleared",
+          "questId": "permit-stonefist-g2-recipe-299141"
+        },
+        {
+          "kind": "hr_at_least",
+          "value": 11
+        }
+      ]
+    },
+    "npcNotes": [
+      "受注・参加資料：HR11以上、特殊許可券【矛砕】を9枚以上所持。券の所持数・消費は管理していません。"
+    ],
+    "unlocks": [
+      {
+        "kind": "other",
+        "label": "矛砕：オトモ二つ名防具【XX】（製法）",
+        "note": "ニャンター専門Wikiが明記した作成条件のクリア段階。オトモ装備が対象で、ハンター装備全般の製法解放を意味しません。生産には対応する証・端材・素材・費用が別途必要。XXは証の入手条件も必要です。"
+      }
+    ],
+    "sources": [
+      {
+        "url": "http://wiki.mhxg.org/ida/309833.html",
+        "site": "MHXX攻略レシピ",
+        "kind": "detail",
+        "checkedAt": "2026-10-16"
+      },
+      {
+        "url": "http://wiki.mhxg.org/data/2997.html",
+        "site": "MHXX攻略レシピ（特殊許可一覧）",
+        "kind": "list",
+        "checkedAt": "2026-10-16"
+      },
+      {
+        "url": "https://game8.jp/mh-xx/824052",
+        "site": "Game8 MHXX（受注HR・許可券）",
+        "kind": "detail",
+        "checkedAt": "2026-10-16"
+      },
+      {
+        "url": "https://w.atwiki.jp/mhxxnyanter/pages/20.html",
+        "site": "MHXXニャンターwiki（二つ名オトモ武具）",
+        "kind": "list",
+        "checkedAt": "2026-10-16"
+      }
+    ],
+    "verification": "partial",
+    "verificationNote": "攻略レシピの一覧・個別タイトル・条件を照合。自分で受注して段階が進んだクリアを記録。素材・狩猟証だけを機能解放と判断しません。",
+    "warnings": []
+  },
+  {
+    "id": "permit-stonefist-g4-recipe-309834",
+    "name": "【特殊許可】矛砕狩猟依頼G4",
+    "category": "permit",
+    "rank": "矛砕",
+    "order": 13,
+    "permitStage": "G4",
+    "role": "hunter",
+    "tags": [
+      "normal"
+    ],
+    "condition": {
+      "kind": "all",
+      "rules": [
+        {
+          "kind": "quest_cleared",
+          "questId": "permit-stonefist-g3-recipe-309833"
+        },
+        {
+          "kind": "hr_at_least",
+          "value": 12
+        }
+      ]
+    },
+    "npcNotes": [
+      "受注・参加資料：HR12以上、特殊許可券【矛砕】を9枚以上所持。券の所持数・消費は管理していません。"
+    ],
+    "unlocks": [
+      {
+        "kind": "other",
+        "label": "矛砕：オトモ二つ名武器【XX】（製法）",
+        "note": "ニャンター専門Wikiが明記した作成条件のクリア段階。オトモ装備が対象で、ハンター装備全般の製法解放を意味しません。生産には対応する証・端材・素材・費用が別途必要。XXは証の入手条件も必要です。"
+      }
+    ],
+    "sources": [
+      {
+        "url": "http://wiki.mhxg.org/ida/309834.html",
+        "site": "MHXX攻略レシピ",
+        "kind": "detail",
+        "checkedAt": "2026-10-16"
+      },
+      {
+        "url": "http://wiki.mhxg.org/data/2997.html",
+        "site": "MHXX攻略レシピ（特殊許可一覧）",
+        "kind": "list",
+        "checkedAt": "2026-10-16"
+      },
+      {
+        "url": "https://game8.jp/mh-xx/824053",
+        "site": "Game8 MHXX（受注HR・許可券）",
+        "kind": "detail",
+        "checkedAt": "2026-10-16"
+      },
+      {
+        "url": "https://w.atwiki.jp/mhxxnyanter/pages/20.html",
+        "site": "MHXXニャンターwiki（二つ名オトモ武具）",
+        "kind": "list",
+        "checkedAt": "2026-10-16"
+      }
+    ],
+    "verification": "partial",
+    "verificationNote": "攻略レシピの一覧・個別タイトル・条件を照合。自分で受注して段階が進んだクリアを記録。素材・狩猟証だけを機能解放と判断しません。",
+    "warnings": []
+  },
+  {
+    "id": "permit-stonefist-g5-recipe-309835",
+    "name": "【特殊許可】矛砕狩猟依頼G5",
+    "category": "permit",
+    "rank": "矛砕",
+    "order": 14,
+    "permitStage": "G5",
+    "role": "hunter",
+    "tags": [
+      "normal"
+    ],
+    "condition": {
+      "kind": "all",
+      "rules": [
+        {
+          "kind": "quest_cleared",
+          "questId": "permit-stonefist-g4-recipe-309834"
+        },
+        {
+          "kind": "hr_at_least",
+          "value": 13
+        }
+      ]
+    },
+    "npcNotes": [
+      "受注・参加資料：HR13以上、特殊許可券【矛砕】を9枚以上所持。券の所持数・消費は管理していません。"
+    ],
+    "unlocks": [],
+    "sources": [
+      {
+        "url": "http://wiki.mhxg.org/ida/309835.html",
+        "site": "MHXX攻略レシピ",
+        "kind": "detail",
+        "checkedAt": "2026-10-16"
+      },
+      {
+        "url": "http://wiki.mhxg.org/data/2997.html",
+        "site": "MHXX攻略レシピ（特殊許可一覧）",
+        "kind": "list",
+        "checkedAt": "2026-10-16"
+      },
+      {
+        "url": "https://game8.jp/mh-xx/824054",
+        "site": "Game8 MHXX（受注HR・許可券）",
+        "kind": "detail",
+        "checkedAt": "2026-10-16"
+      }
+    ],
+    "verification": "partial",
+    "verificationNote": "攻略レシピの一覧・個別タイトル・条件を照合。自分で受注して段階が進んだクリアを記録。素材・狩猟証だけを機能解放と判断しません。",
+    "warnings": []
+  },
+  {
+    "id": "permit-stonefist-super-recipe-309836",
+    "name": "【超特殊許可】矛砕狩猟依頼",
+    "category": "permit",
+    "rank": "矛砕",
+    "order": 15,
+    "permitStage": "超特殊許可",
+    "role": "hunter",
+    "tags": [
+      "normal"
+    ],
+    "condition": {
+      "kind": "all",
+      "rules": [
+        {
+          "kind": "quest_cleared",
+          "questId": "permit-stonefist-g5-recipe-309835"
+        },
+        {
+          "kind": "hr_at_least",
+          "value": 100
+        }
+      ]
+    },
+    "npcNotes": [
+      "受注・参加資料：HR100以上、特殊許可券【矛砕】を10枚以上所持。券の所持数・消費は管理していません。"
+    ],
+    "unlocks": [
+      {
+        "kind": "facility",
+        "label": "防具合成の研究：矛砕",
+        "note": "HR100以上で対象の超特殊許可をクリアした後の研究項目。研究室の開放と、研究室での研究・ポイント／素材等を使う操作が別途必要です。参加クリアだけでの開放可否は今回の資料から明確に確認できていません。このアプリでは自分で受注してクリアした記録を使用します。"
+      },
+      {
+        "kind": "other",
+        "label": "称号：蟹城壁",
+        "note": "対象の超特殊許可クリアで入手する称号。参加クリアでの取得可否の詳細は未確認で、このアプリは自分で受注したクリアを記録します。"
+      }
+    ],
+    "sources": [
+      {
+        "url": "http://wiki.mhxg.org/ida/309836.html",
+        "site": "MHXX攻略レシピ",
+        "kind": "detail",
+        "checkedAt": "2026-10-16"
+      },
+      {
+        "url": "http://wiki.mhxg.org/data/2997.html",
+        "site": "MHXX攻略レシピ（特殊許可一覧）",
+        "kind": "list",
+        "checkedAt": "2026-10-16"
+      },
+      {
+        "url": "https://game8.jp/mh-xx/824055",
+        "site": "Game8 MHXX（受注HR・許可券）",
+        "kind": "detail",
+        "checkedAt": "2026-10-16"
+      },
+      {
+        "url": "https://mhx-wiki.com/?%E7%A0%94%E7%A9%B6%E5%AE%A4%E3%81%AE%E6%8B%A1%E5%BC%B5",
+        "site": "MHXX攻略Wiki（防具合成の研究）",
+        "kind": "list",
+        "checkedAt": "2026-10-16"
+      },
+      {
+        "url": "https://mhx-wiki.com/?%E8%B6%85%E7%89%B9%E6%AE%8A%E8%A8%B1%E5%8F%AF",
+        "site": "MHXX攻略Wiki（自分の特殊許可進行）",
+        "kind": "list",
+        "checkedAt": "2026-10-16"
+      },
+      {
+        "url": "https://mhx-wiki.com/?%E7%A7%B0%E5%8F%B7%E4%B8%80%E8%A6%A7",
+        "site": "MHXX攻略Wiki（称号）",
+        "kind": "list",
+        "checkedAt": "2026-10-16"
+      }
+    ],
+    "verification": "partial",
+    "verificationNote": "攻略レシピの一覧・個別タイトル・条件を照合。自分で受注して段階が進んだクリアを記録。素材・狩猟証だけを機能解放と判断しません。",
+    "warnings": []
+  }
+]

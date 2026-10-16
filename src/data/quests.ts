@@ -28,6 +28,19 @@ import grank2 from "./g-rank-2.json";
 import grank3 from "./g-rank-3.json";
 import grank4 from "./g-rank-4.json";
 
+import permit0 from "./permit-redhelm.json";
+import permit1 from "./permit-snowbaron.json";
+import permit2 from "./permit-stonefist.json";
+import permit3 from "./permit-dreadqueen.json";
+import permit4 from "./permit-drilltusk.json";
+import permit5 from "./permit-silverwind.json";
+import permit6 from "./permit-crystalbeard.json";
+import permit7 from "./permit-deadeye.json";
+import permit8 from "./permit-dreadking.json";
+import permit9 from "./permit-thunderlord.json";
+import permit10 from "./permit-grimclaw.json";
+import permit11 from "./permit-hellblade.json";
+
 // IDは表示名・参照元・並び順が変わっても固定。旧14件のg8由来IDも維持する。
 export const quests: Quest[] = [
   ...village1,
@@ -51,8 +64,20 @@ export const quests: Quest[] = [
   ...grank2,
   ...grank3,
   ...grank4,
+  ...permit0,
+  ...permit1,
+  ...permit2,
+  ...permit3,
+  ...permit4,
+  ...permit5,
+  ...permit6,
+  ...permit7,
+  ...permit8,
+  ...permit9,
+  ...permit10,
+  ...permit11,
 ] as Quest[];
 export const dataStatus = {
   complete: false,
-  note: "村★1〜10の370件、集会所★1〜7の339件とG★1〜4の230件を収録。攻略レシピの一覧と個別ページを照合しています。未確認点は個別に表示します。",
+  note: "村370件・集会所339件・G級230件と特殊許可192件を収録。攻略レシピの一覧と個別ページを照合しています。未確認点は個別に表示します。",
 };
