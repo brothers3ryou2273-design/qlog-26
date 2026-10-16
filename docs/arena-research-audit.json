@@ -1,0 +1,220 @@
+{
+  "checkedAt": "2026-10-16",
+  "baselineMain": "37da304",
+  "priorAuditFiles": {
+    "docs/DATA.md": "197d47cb26daec04e95cf9c822104a52cc05d52863f8f1f6d3972e119bec2658",
+    "docs/EVENT_AUDIT.md": "8b932ad7bcf26a94f3c9f1a175d8ecaa713a6e68b87bc7700c9e9beefce5532f",
+    "docs/FACILITY_AUDIT.md": "3fe0d5140b68d3206f64deeee3f5e74c2b6c0b16eb67228e790234a36412a076",
+    "docs/G_RANK_AUDIT.md": "b52885247cb845b83baf1f4ffeefb37ab6af0c42386826c7d55e87d3df6bbeb8",
+    "docs/HUB_AUDIT.md": "50b59d4927d8d4f34354c60c5453007bccbdeac19e25ad60ab4548cf91d72fa2",
+    "docs/PERMIT_AUDIT.md": "d0e5876c6dbefe69d6098e16217edc87af44970e5611a6d7af9776d17678211e",
+    "docs/UPPER_HUB_AUDIT.md": "20a68df948513d94713ccfcc6f7447ee9780458d32883aff55d20927478b0dde",
+    "docs/UPPER_VILLAGE_AUDIT.md": "d2aa7bc6c260d01214624c8a1ca110d72b926967d80948ef9d849e0392daa6fb",
+    "docs/data-audit.json": "43276f5205eb9a88438c68d39379b69a338b922cae2be7ff71a14f7fb6429bf2",
+    "docs/event-connections.json": "3e5c7348d19e3c1393e18f2cb827fe1f886c920d2bfd1767734a0076c84d47b8",
+    "docs/event-g-observations.json": "df72277cea3e257e294e2adf215310972001e268aa4c7feff67f1cb05e445f0a",
+    "docs/event-high-observations.json": "cba283d08991ec4e94bde06da849841865ad19ac0bf9498ef1b17c995f72435b",
+    "docs/event-low-observations.json": "4b49821d14161fc009c488669ae165290aabae491829e0fd1f7727c4f4cea969",
+    "docs/event-materials-audit.json": "c6179130c5eda65cf08e723f6863f3580331de58144e1a32cbc5a49fcd0e5364",
+    "docs/event-research-audit.json": "419e42e2c990d11d01cb5a2b17797221af8a4db315595ffe0af26ad63a6c7ee3",
+    "docs/event-specialist-audit.json": "55ddc8ea03ec78cc106f7203fdd1da0f1b7da479885287308bea99a3c136f2ea",
+    "docs/event-unlock-indicators-audit.json": "25ba6a3428c9bb25265a969d1f09be04d50e0d9004febba6046eec438d28473c",
+    "docs/facility-unlocks-audit.json": "ae7b1025e6911b5913e93eb5f5b608f7c817677e42e909e13400ce8f00761944",
+    "docs/g-rank-audit.json": "f47eb75fe8768a945d4b4cfb59c0e4bea6e6e9f4be598a9f173d1d43c8033347",
+    "docs/g-rank-connections.json": "5b8f1e285afd88e9402dfc6f7e67438eaa74a033ec4abae50f857df5eb4d585d",
+    "docs/g-rank-research-audit.json": "64cd1643dbb6e025d77c1e7ff61c6788a73d2150963ffceface2e1f94899d5f9",
+    "docs/hub-audit.json": "daa067bf77abd76e38da0b9e5b40e822dd3c5c64d3b027c346369ceb084e17cb",
+    "docs/hub-research-audit.json": "f5d4a77ca3122eb8e5413c550d81156b3ae0f3a1de67dded0306430d0a102172",
+    "docs/hub-village-connections.json": "651db846e45306f66b53807dd41eb22dd8b50e81b54857e69ff3b151fc5acd0e",
+    "docs/permit-connections.json": "40ba9821256630a4ae23006679c9b441f4735f870439e87135e93aa866ed67a6",
+    "docs/permit-research-audit.json": "eccd972dd31db604781b2772185fd393bd0ba4cae0809b9a84235de2708fd5f6",
+    "docs/permit-roster-audit.json": "087b40b41daee71fb6fadfb1c8e5d7982b6fe4d8f4f6ba8a38995d89f5450e41",
+    "docs/permit-unlock-indicators-audit.json": "65a50ee0223ddcc821697e7bb59ebf4926d31c493b1a5f295d03081e7e3d0016",
+    "docs/progress-baseline-1167.json": "5ba37ca9951f7ad5406d34963089734e18d0b64d871edb681c0b0be6d86bc3ec",
+    "docs/progress-baseline-197.json": "2be6057dfe62c8dadd1c684876aef1b08deb1523e912a96d57d7125830a31938",
+    "docs/progress-baseline-370.json": "355c29754f2efdb08190f78b7e3372e817742517babacda65c05d8eab57b2150",
+    "docs/progress-baseline-474.json": "75aa444f9212f97aa9ec536a3c85d11ccb123327cf705228dac6d205a099f251",
+    "docs/progress-baseline-709.json": "97aa062210d63813071bc4c93775cb3a6401b76f20de9be7f52325b66eebfbf5",
+    "docs/progress-baseline-939.json": "924e5f0857e6bfd12ff3b056de29f6d2a6b0fd17906d80d6d6259ecf2991368f",
+    "docs/progress-id-baseline.json": "29ffbcab2774345ed48b3cdfbd9b80f37168871f50688cf3e370d008d8886feb",
+    "docs/unlock-indicators-audit.json": "bcb4f53ff5b8b258d400d24060ab7e387f5bf7c25af1bef584c68dda610706af",
+    "docs/upper-hub-audit.json": "6c5028d67588e20812e2627c77c23f0781e4b37b5df820212e9027859b534163",
+    "docs/upper-hub-connections.json": "f982cb25f532fc990699edf273c15020377623e138b8fd5027cede72c47c431a",
+    "docs/upper-hub-research-audit.json": "1e1ec48bbf4fea60b8c4259383a569feb3ad4338c317fede312353c8f2e82cf2",
+    "docs/upper-research-audit.json": "e5067ef22b01df687a4465d9ea197f8dc5df5c5e128d26f28480eee5cddd5794"
+  },
+  "coverage": "partial",
+  "counts": {
+    "arena": {
+      "total": 17,
+      "hunter": 11,
+      "prowler": 6
+    },
+    "challenge": {
+      "total": 20,
+      "hunter": 14,
+      "prowler": 6
+    }
+  },
+  "totalRegistered": 1348,
+  "unmatchedChallengeCandidates": [
+    {
+      "category": "challenge",
+      "sourceHeading": "ＸＸイベント：火竜討伐",
+      "name": "火竜討伐",
+      "sourceUrl": "https://w.atwiki.jp/mhxxnyanter/pages/70.html#id_76e8e70e",
+      "evaluationNotation": "S7:00 A:14:00 B30:00",
+      "supportTypes": [
+        "カリスマ",
+        "アシスト",
+        "回復",
+        "ボマー",
+        "コレクト"
+      ],
+      "matchedRecipeUrl": null,
+      "status": "unmatched_candidate",
+      "comparisonNote": "全半角の数字のみNFKC正規化して照合。XXイベントは同モンスターの既存ハンター版へ統合しない。"
+    },
+    {
+      "category": "challenge",
+      "sourceHeading": "ＸＸイベント：轟竜討伐",
+      "name": "轟竜討伐",
+      "sourceUrl": "https://w.atwiki.jp/mhxxnyanter/pages/70.html#id_3b17d3a4",
+      "evaluationNotation": "S7:00 A:14:00 B30:00",
+      "supportTypes": [
+        "カリスマ",
+        "ファイト",
+        "ガード",
+        "アシスト",
+        "ビースト"
+      ],
+      "matchedRecipeUrl": null,
+      "status": "unmatched_candidate",
+      "comparisonNote": "全半角の数字のみNFKC正規化して照合。XXイベントは同モンスターの既存ハンター版へ統合しない。"
+    },
+    {
+      "category": "challenge",
+      "sourceHeading": "ＸＸイベント：迅竜討伐",
+      "name": "迅竜討伐",
+      "sourceUrl": "https://w.atwiki.jp/mhxxnyanter/pages/70.html#id_4815b752",
+      "evaluationNotation": "S7:00 A:14:00 B30:00",
+      "supportTypes": [
+        "ファイト",
+        "ガード",
+        "アシスト",
+        "ボマー",
+        "ビースト"
+      ],
+      "matchedRecipeUrl": null,
+      "status": "unmatched_candidate",
+      "comparisonNote": "全半角の数字のみNFKC正規化して照合。XXイベントは同モンスターの既存ハンター版へ統合しない。"
+    },
+    {
+      "category": "challenge",
+      "sourceHeading": "ＸＸイベント：雷狼竜討伐",
+      "name": "雷狼竜討伐",
+      "sourceUrl": "https://w.atwiki.jp/mhxxnyanter/pages/70.html#id_cda6ff39",
+      "evaluationNotation": "S7:00 A:14:00 B30:00",
+      "supportTypes": [
+        "ファイト",
+        "アシスト",
+        "回復",
+        "ボマー",
+        "ビースト"
+      ],
+      "matchedRecipeUrl": null,
+      "status": "unmatched_candidate",
+      "comparisonNote": "全半角の数字のみNFKC正規化して照合。XXイベントは同モンスターの既存ハンター版へ統合しない。"
+    },
+    {
+      "category": "challenge",
+      "sourceHeading": "ＸＸイベント：砕竜討伐",
+      "name": "砕竜討伐",
+      "sourceUrl": "https://w.atwiki.jp/mhxxnyanter/pages/70.html#id_70dd4d68",
+      "evaluationNotation": "S7:00 A:14:00 B30:00",
+      "supportTypes": [
+        "ファイト",
+        "ガード",
+        "アシスト",
+        "コレクト",
+        "ビースト"
+      ],
+      "matchedRecipeUrl": null,
+      "status": "unmatched_candidate",
+      "comparisonNote": "全半角の数字のみNFKC正規化して照合。XXイベントは同モンスターの既存ハンター版へ統合しない。"
+    },
+    {
+      "category": "challenge",
+      "sourceHeading": "ＸＸイベント：大連続狩猟４",
+      "name": "大連続狩猟4",
+      "sourceUrl": "https://w.atwiki.jp/mhxxnyanter/pages/70.html#id_4eb7b3c3",
+      "evaluationNotation": "S12:00 A25:00 B40:00",
+      "supportTypes": [
+        "カリスマ",
+        "ファイト",
+        "ガード",
+        "回復",
+        "ビースト"
+      ],
+      "matchedRecipeUrl": null,
+      "status": "unmatched_candidate",
+      "comparisonNote": "全半角の数字のみNFKC正規化して照合。XXイベントは同モンスターの既存ハンター版へ統合しない。"
+    }
+  ],
+  "candidateDecision": "専門WikiのXX追加6項目を原資料の同モンスターのハンター版へ統合しない。正式名・実在個別URL・配信分類の独立確認が不足するため、現時点ではランタイムへ追加しない。全体の未収録数を6件に確定しない。",
+  "unconfirmedOriginalArenaPrerequisites": 10,
+  "unconfirmedHunterWeaponTimeEntries": 25,
+  "verifiedProwlerTimeSupportEntries": 12,
+  "verifiedNewConnections": 5,
+  "unlockSummary": {
+    "otherEntries": 28,
+    "hunterArts": 2,
+    "indicatorQuestCount": 15
+  },
+  "networkAttempts": [
+    {
+      "url": "https://x.mh4info.com/quest/?no=7",
+      "result": "Initially CONNECT 403; after user permission HTTPS timed out at 25s without data."
+    },
+    {
+      "url": "https://x.mh4info.com/quest/?no=8",
+      "result": "Initial HTTP 403; HTTPS retry chain did not reach this request after no=7 timeout."
+    },
+    {
+      "url": "http://x.mh4info.com/quest/?no=7",
+      "httpStatus": 200,
+      "result": "HTML取得。ただしタイトル分類が空で、抽出可能なクエスト行なし。実在クエスト0件という観測としては使わない。"
+    },
+    {
+      "url": "http://x.mh4info.com/quest/?no=8",
+      "httpStatus": 200,
+      "result": "HTML取得。ただしクエスト一覧の行なし。名称集合・件数は照合できない。"
+    },
+    {
+      "url": "http://x.mh4info.com/?p=2658",
+      "httpStatus": 200,
+      "result": "闘技大会解説取得。ピアス条件に主資料との不一致あり。"
+    },
+    {
+      "url": "https://game.capcom.com/manual/MHXX/page/5/6",
+      "result": "HTTP 403 before and after user permission. Official body not verified."
+    },
+    {
+      "url": "https://mhx-wiki.com/?%E9%97%98%E6%8A%80%E5%A4%A7%E4%BC%9A",
+      "httpStatus": 200,
+      "result": "ログインフォームのみ。実在する一覧として採用しない。"
+    }
+  ],
+  "platform": "日本版MHXXを対象。実機・Switch/3DS差の検証なし。MHGUの一覧や差分は混入しない。",
+  "downloadStatus": "現在の配信・ダウンロード可否は未確認。過去の配信表示と現在の可否を区別。",
+  "remaining": [
+    "チャレンジ追加候補6項目と、その他の追加があるかの全件確認",
+    "従来の闘技大会10件の出現前提",
+    "ハンター25件の使用武器と評価時間",
+    "全37件の難易度区分・受注/参加HRの分離",
+    "チャレンジ20件の特別なコイン等の報酬（主資料には通常消耗品のみ）",
+    "横断報酬の厳密な対象集合・受取操作",
+    "S/A/Bの境界等号・フレーム単位"
+  ],
+  "configurationDraft": "x.mh4info.comを既存許可リストへ追加保存。ユーザー許可後にHTTP取得成功。公式マニュアル403は未解決。"
+}

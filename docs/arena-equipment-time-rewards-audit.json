@@ -1,0 +1,1460 @@
+{
+  "checkedAt": "2026-10-16",
+  "metadataPolicy": "出典の時間表記をそのまま保存。分秒への変換・境界補完・武器推定なし。サポート傾向以外の攻略本文は収録しない。",
+  "entries": [
+    {
+      "questId": "arena-recipe-218340",
+      "category": "arena",
+      "name": "ホロロホルル討伐",
+      "recipeUrl": "http://wiki.mhxg.org/ida/218340.html",
+      "facts": {
+        "targets": [
+          "ホロロホルル"
+        ],
+        "participantLimit": "2人以下",
+        "rewardMaterials": [
+          "クロオビチケット"
+        ],
+        "notes": [
+          "評価時間は出典の表記をそのまま表示します。境界の等号・フレーム単位は未確認で、秒数への丸めや補完は行っていません。評価・自己ベスト・使用装備は保存しません。",
+          "使用可能な武器種・評価時間は今回確認できた資料では未確認です。"
+        ]
+      },
+      "sources": [
+        "http://wiki.mhxg.org/ida/218340.html",
+        "http://wiki.mhxg.org/data/2035.html",
+        "http://wiki.mhxg.org/ida/226813.html"
+      ],
+      "missingFacts": [
+        "difficulty",
+        "weapons",
+        "evaluation_times"
+      ]
+    },
+    {
+      "questId": "arena-recipe-238253",
+      "category": "arena",
+      "name": "フルフル討伐",
+      "recipeUrl": "http://wiki.mhxg.org/ida/238253.html",
+      "facts": {
+        "targets": [
+          "フルフル"
+        ],
+        "participantLimit": "2人以下",
+        "rewardMaterials": [
+          "フルフルコイン",
+          "クロオビチケット"
+        ],
+        "notes": [
+          "評価時間は出典の表記をそのまま表示します。境界の等号・フレーム単位は未確認で、秒数への丸めや補完は行っていません。評価・自己ベスト・使用装備は保存しません。",
+          "使用可能な武器種・評価時間は今回確認できた資料では未確認です。"
+        ]
+      },
+      "sources": [
+        "http://wiki.mhxg.org/ida/238253.html",
+        "http://wiki.mhxg.org/data/2035.html",
+        "http://wiki.mhxg.org/ida/229905.html",
+        "http://wiki.mhxg.org/ida/226813.html"
+      ],
+      "missingFacts": [
+        "difficulty",
+        "weapons",
+        "evaluation_times"
+      ]
+    },
+    {
+      "questId": "arena-recipe-238254",
+      "category": "arena",
+      "name": "ガララアジャラ討伐",
+      "recipeUrl": "http://wiki.mhxg.org/ida/238254.html",
+      "facts": {
+        "targets": [
+          "ガララアジャラ"
+        ],
+        "participantLimit": "2人以下",
+        "rewardMaterials": [
+          "ガララコイン",
+          "クロオビチケット"
+        ],
+        "notes": [
+          "評価時間は出典の表記をそのまま表示します。境界の等号・フレーム単位は未確認で、秒数への丸めや補完は行っていません。評価・自己ベスト・使用装備は保存しません。",
+          "使用可能な武器種・評価時間は今回確認できた資料では未確認です。"
+        ]
+      },
+      "sources": [
+        "http://wiki.mhxg.org/ida/238254.html",
+        "http://wiki.mhxg.org/data/2035.html",
+        "http://wiki.mhxg.org/ida/229787.html",
+        "http://wiki.mhxg.org/ida/226813.html"
+      ],
+      "missingFacts": [
+        "difficulty",
+        "weapons",
+        "evaluation_times"
+      ]
+    },
+    {
+      "questId": "arena-recipe-238255",
+      "category": "arena",
+      "name": "リオレウス討伐",
+      "recipeUrl": "http://wiki.mhxg.org/ida/238255.html",
+      "facts": {
+        "targets": [
+          "リオレウス"
+        ],
+        "participantLimit": "2人以下",
+        "rewardMaterials": [
+          "レウスコイン",
+          "クロオビチケット"
+        ],
+        "notes": [
+          "評価時間は出典の表記をそのまま表示します。境界の等号・フレーム単位は未確認で、秒数への丸めや補完は行っていません。評価・自己ベスト・使用装備は保存しません。",
+          "使用可能な武器種・評価時間は今回確認できた資料では未確認です。"
+        ]
+      },
+      "sources": [
+        "http://wiki.mhxg.org/ida/238255.html",
+        "http://wiki.mhxg.org/data/2035.html",
+        "http://wiki.mhxg.org/ida/229932.html",
+        "http://wiki.mhxg.org/ida/226813.html"
+      ],
+      "missingFacts": [
+        "difficulty",
+        "weapons",
+        "evaluation_times"
+      ]
+    },
+    {
+      "questId": "arena-recipe-238256",
+      "category": "arena",
+      "name": "ケチャワチャ討伐",
+      "recipeUrl": "http://wiki.mhxg.org/ida/238256.html",
+      "facts": {
+        "targets": [
+          "ケチャワチャ"
+        ],
+        "participantLimit": "2人以下",
+        "rewardMaterials": [
+          "ケチャコイン",
+          "タツジンチケット"
+        ],
+        "notes": [
+          "評価時間は出典の表記をそのまま表示します。境界の等号・フレーム単位は未確認で、秒数への丸めや補完は行っていません。評価・自己ベスト・使用装備は保存しません。",
+          "使用可能な武器種・評価時間は今回確認できた資料では未確認です。"
+        ]
+      },
+      "sources": [
+        "http://wiki.mhxg.org/ida/238256.html",
+        "http://wiki.mhxg.org/data/2035.html",
+        "http://wiki.mhxg.org/ida/229823.html",
+        "http://wiki.mhxg.org/ida/229844.html"
+      ],
+      "missingFacts": [
+        "difficulty",
+        "weapons",
+        "evaluation_times"
+      ]
+    },
+    {
+      "questId": "arena-recipe-238257",
+      "category": "arena",
+      "name": "ガノトトス討伐",
+      "recipeUrl": "http://wiki.mhxg.org/ida/238257.html",
+      "facts": {
+        "targets": [
+          "ガノトトス"
+        ],
+        "participantLimit": "2人以下",
+        "rewardMaterials": [
+          "ガノスコイン",
+          "タツジンチケット"
+        ],
+        "notes": [
+          "評価時間は出典の表記をそのまま表示します。境界の等号・フレーム単位は未確認で、秒数への丸めや補完は行っていません。評価・自己ベスト・使用装備は保存しません。",
+          "使用可能な武器種・評価時間は今回確認できた資料では未確認です。"
+        ]
+      },
+      "sources": [
+        "http://wiki.mhxg.org/ida/238257.html",
+        "http://wiki.mhxg.org/data/2035.html",
+        "http://wiki.mhxg.org/ida/229786.html",
+        "http://wiki.mhxg.org/ida/229844.html"
+      ],
+      "missingFacts": [
+        "difficulty",
+        "weapons",
+        "evaluation_times"
+      ]
+    },
+    {
+      "questId": "arena-recipe-267307",
+      "category": "arena",
+      "name": "ブラキディオス討伐",
+      "recipeUrl": "http://wiki.mhxg.org/ida/267307.html",
+      "facts": {
+        "targets": [
+          "ブラキディオス"
+        ],
+        "participantLimit": "2人以下",
+        "rewardMaterials": [
+          "ブラキコイン",
+          "デンセツチケット"
+        ],
+        "notes": [
+          "評価時間は出典の表記をそのまま表示します。境界の等号・フレーム単位は未確認で、秒数への丸めや補完は行っていません。評価・自己ベスト・使用装備は保存しません。",
+          "使用可能な武器種・評価時間は今回確認できた資料では未確認です。"
+        ]
+      },
+      "sources": [
+        "http://wiki.mhxg.org/ida/267307.html",
+        "http://wiki.mhxg.org/data/2035.html",
+        "http://wiki.mhxg.org/ida/229904.html",
+        "http://wiki.mhxg.org/ida/229854.html"
+      ],
+      "missingFacts": [
+        "difficulty",
+        "weapons",
+        "evaluation_times"
+      ]
+    },
+    {
+      "questId": "arena-recipe-322498",
+      "category": "arena",
+      "name": "ベリオロス討伐",
+      "recipeUrl": "http://wiki.mhxg.org/ida/322498.html",
+      "facts": {
+        "targets": [
+          "ベリオロス"
+        ],
+        "participantLimit": "2人以下",
+        "rewardMaterials": [],
+        "notes": [
+          "評価時間は出典の表記をそのまま表示します。境界の等号・フレーム単位は未確認で、秒数への丸めや補完は行っていません。評価・自己ベスト・使用装備は保存しません。",
+          "使用可能な武器種・評価時間は今回確認できた資料では未確認です。"
+        ]
+      },
+      "sources": [
+        "http://wiki.mhxg.org/ida/322498.html",
+        "http://wiki.mhxg.org/data/2035.html",
+        "https://mhx-wiki.com/?%E7%BE%BD%E9%A3%BE%E3%82%8A%E3%83%BB%E3%83%94%E3%82%A2%E3%82%B9%E3%81%AE%E5%85%A5%E6%89%8B%E6%96%B9%E6%B3%95"
+      ],
+      "missingFacts": [
+        "difficulty",
+        "weapons",
+        "evaluation_times",
+        "special_coins_or_tickets"
+      ]
+    },
+    {
+      "questId": "arena-recipe-322499",
+      "category": "arena",
+      "name": "イャンガルルガ討伐",
+      "recipeUrl": "http://wiki.mhxg.org/ida/322499.html",
+      "facts": {
+        "targets": [
+          "イャンガルルガ"
+        ],
+        "participantLimit": "2人以下",
+        "rewardMaterials": [
+          "ガルルガコイン",
+          "タツジンチケットG"
+        ],
+        "notes": [
+          "評価時間は出典の表記をそのまま表示します。境界の等号・フレーム単位は未確認で、秒数への丸めや補完は行っていません。評価・自己ベスト・使用装備は保存しません。",
+          "使用可能な武器種・評価時間は今回確認できた資料では未確認です。"
+        ]
+      },
+      "sources": [
+        "http://wiki.mhxg.org/ida/322499.html",
+        "http://wiki.mhxg.org/data/2035.html",
+        "https://mhx-wiki.com/?%E7%BE%BD%E9%A3%BE%E3%82%8A%E3%83%BB%E3%83%94%E3%82%A2%E3%82%B9%E3%81%AE%E5%85%A5%E6%89%8B%E6%96%B9%E6%B3%95",
+        "http://wiki.mhxg.org/ida/296019.html",
+        "http://wiki.mhxg.org/ida/296038.html"
+      ],
+      "missingFacts": [
+        "difficulty",
+        "weapons",
+        "evaluation_times"
+      ]
+    },
+    {
+      "questId": "arena-recipe-322500",
+      "category": "arena",
+      "name": "ウラガンキン討伐",
+      "recipeUrl": "http://wiki.mhxg.org/ida/322500.html",
+      "facts": {
+        "targets": [
+          "ウラガンキン"
+        ],
+        "participantLimit": "2人以下",
+        "rewardMaterials": [
+          "ガンキンコイン",
+          "デンセツチケットG"
+        ],
+        "notes": [
+          "評価時間は出典の表記をそのまま表示します。境界の等号・フレーム単位は未確認で、秒数への丸めや補完は行っていません。評価・自己ベスト・使用装備は保存しません。",
+          "使用可能な武器種・評価時間は今回確認できた資料では未確認です。"
+        ]
+      },
+      "sources": [
+        "http://wiki.mhxg.org/ida/322500.html",
+        "http://wiki.mhxg.org/data/2035.html",
+        "https://mhx-wiki.com/?%E7%BE%BD%E9%A3%BE%E3%82%8A%E3%83%BB%E3%83%94%E3%82%A2%E3%82%B9%E3%81%AE%E5%85%A5%E6%89%8B%E6%96%B9%E6%B3%95",
+        "http://wiki.mhxg.org/ida/296020.html",
+        "http://wiki.mhxg.org/ida/296043.html"
+      ],
+      "missingFacts": [
+        "difficulty",
+        "weapons",
+        "evaluation_times"
+      ]
+    },
+    {
+      "questId": "arena-recipe-322501",
+      "category": "arena",
+      "name": "セルレギオス討伐",
+      "recipeUrl": "http://wiki.mhxg.org/ida/322501.html",
+      "facts": {
+        "targets": [
+          "セルレギオス"
+        ],
+        "participantLimit": "2人以下",
+        "rewardMaterials": [
+          "レギオスコイン",
+          "デンセツチケットG"
+        ],
+        "notes": [
+          "評価時間は出典の表記をそのまま表示します。境界の等号・フレーム単位は未確認で、秒数への丸めや補完は行っていません。評価・自己ベスト・使用装備は保存しません。",
+          "使用可能な武器種・評価時間は今回確認できた資料では未確認です。"
+        ]
+      },
+      "sources": [
+        "http://wiki.mhxg.org/ida/322501.html",
+        "http://wiki.mhxg.org/data/2035.html",
+        "https://mhx-wiki.com/?%E7%BE%BD%E9%A3%BE%E3%82%8A%E3%83%BB%E3%83%94%E3%82%A2%E3%82%B9%E3%81%AE%E5%85%A5%E6%89%8B%E6%96%B9%E6%B3%95",
+        "http://wiki.mhxg.org/ida/296116.html",
+        "http://wiki.mhxg.org/ida/296043.html"
+      ],
+      "missingFacts": [
+        "difficulty",
+        "weapons",
+        "evaluation_times"
+      ]
+    },
+    {
+      "questId": "arena-recipe-218341",
+      "category": "arena",
+      "name": "ドスマッカォ討伐",
+      "recipeUrl": "http://wiki.mhxg.org/ida/218341.html",
+      "facts": {
+        "targets": [
+          "ドスマッカォ"
+        ],
+        "participantLimit": "2人以下",
+        "rewardMaterials": [
+          "クロオビチケット"
+        ],
+        "notes": [
+          "評価時間は出典の表記をそのまま表示します。境界の等号・フレーム単位は未確認で、秒数への丸めや補完は行っていません。評価・自己ベスト・使用装備は保存しません。"
+        ],
+        "supportTypes": [
+          "ファイト",
+          "ガード",
+          "回復",
+          "ボマー",
+          "コレクト"
+        ],
+        "evaluationNotation": "S5:00 A:10:00 B13:00"
+      },
+      "sources": [
+        "http://wiki.mhxg.org/ida/218341.html",
+        "http://wiki.mhxg.org/data/2035.html",
+        "http://wiki.mhxg.org/ida/226813.html",
+        "https://w.atwiki.jp/mhxxnyanter/pages/58.html#id_b25556c9"
+      ],
+      "missingFacts": [
+        "difficulty"
+      ]
+    },
+    {
+      "questId": "arena-recipe-238258",
+      "category": "arena",
+      "name": "ゲリョス討伐",
+      "recipeUrl": "http://wiki.mhxg.org/ida/238258.html",
+      "facts": {
+        "targets": [
+          "ゲリョス"
+        ],
+        "participantLimit": "2人以下",
+        "rewardMaterials": [
+          "ゲリョスコイン",
+          "クロオビチケット"
+        ],
+        "notes": [
+          "評価時間は出典の表記をそのまま表示します。境界の等号・フレーム単位は未確認で、秒数への丸めや補完は行っていません。評価・自己ベスト・使用装備は保存しません。"
+        ],
+        "supportTypes": [
+          "カリスマ",
+          "ファイト",
+          "ガード",
+          "回復",
+          "コレクト"
+        ],
+        "evaluationNotation": "S5:00 A:10:00 B15:00"
+      },
+      "sources": [
+        "http://wiki.mhxg.org/ida/238258.html",
+        "http://wiki.mhxg.org/data/2035.html",
+        "http://wiki.mhxg.org/ida/226814.html",
+        "http://wiki.mhxg.org/ida/226813.html",
+        "https://w.atwiki.jp/mhxxnyanter/pages/58.html#id_f3d53401"
+      ],
+      "missingFacts": [
+        "difficulty"
+      ]
+    },
+    {
+      "questId": "arena-recipe-238259",
+      "category": "arena",
+      "name": "鳥竜種２頭討伐",
+      "recipeUrl": "http://wiki.mhxg.org/ida/238259.html",
+      "facts": {
+        "targets": [
+          "ドスゲネポス",
+          "ドスイーオス"
+        ],
+        "participantLimit": "2人以下",
+        "rewardMaterials": [
+          "ドスコイン",
+          "デンセツチケット"
+        ],
+        "notes": [
+          "評価時間は出典の表記をそのまま表示します。境界の等号・フレーム単位は未確認で、秒数への丸めや補完は行っていません。評価・自己ベスト・使用装備は保存しません。"
+        ],
+        "supportTypes": [
+          "カリスマ",
+          "ファイト",
+          "回復",
+          "ボマー",
+          "コレクト"
+        ],
+        "evaluationNotation": "S5:00 A:10:00 B15:00"
+      },
+      "sources": [
+        "http://wiki.mhxg.org/ida/238259.html",
+        "http://wiki.mhxg.org/data/2035.html",
+        "http://wiki.mhxg.org/ida/229889.html",
+        "http://wiki.mhxg.org/ida/229854.html",
+        "https://w.atwiki.jp/mhxxnyanter/pages/58.html#id_c174f242"
+      ],
+      "missingFacts": [
+        "difficulty"
+      ]
+    },
+    {
+      "questId": "arena-recipe-322502",
+      "category": "arena",
+      "name": "ボルボロス討伐",
+      "recipeUrl": "http://wiki.mhxg.org/ida/322502.html",
+      "facts": {
+        "targets": [
+          "ボルボロス"
+        ],
+        "participantLimit": "2人以下",
+        "rewardMaterials": [],
+        "notes": [
+          "評価時間は出典の表記をそのまま表示します。境界の等号・フレーム単位は未確認で、秒数への丸めや補完は行っていません。評価・自己ベスト・使用装備は保存しません。"
+        ],
+        "supportTypes": [
+          "カリスマ",
+          "ガード",
+          "アシスト",
+          "ボマー",
+          "ビースト"
+        ],
+        "evaluationNotation": "S5:00 A:09:00 B13:00"
+      },
+      "sources": [
+        "http://wiki.mhxg.org/ida/322502.html",
+        "http://wiki.mhxg.org/data/2035.html",
+        "https://mhx-wiki.com/?%E7%BE%BD%E9%A3%BE%E3%82%8A%E3%83%BB%E3%83%94%E3%82%A2%E3%82%B9%E3%81%AE%E5%85%A5%E6%89%8B%E6%96%B9%E6%B3%95",
+        "https://w.atwiki.jp/mhxxnyanter/pages/58.html#id_5e085596"
+      ],
+      "missingFacts": [
+        "difficulty",
+        "special_coins_or_tickets"
+      ]
+    },
+    {
+      "questId": "arena-recipe-322503",
+      "category": "arena",
+      "name": "テツカブラ討伐",
+      "recipeUrl": "http://wiki.mhxg.org/ida/322503.html",
+      "facts": {
+        "targets": [
+          "テツカブラ"
+        ],
+        "participantLimit": "2人以下",
+        "rewardMaterials": [
+          "カブラコイン",
+          "タツジンチケットG"
+        ],
+        "notes": [
+          "評価時間は出典の表記をそのまま表示します。境界の等号・フレーム単位は未確認で、秒数への丸めや補完は行っていません。評価・自己ベスト・使用装備は保存しません。"
+        ],
+        "supportTypes": [
+          "ファイト",
+          "アシスト",
+          "回復",
+          "コレクト",
+          "ビースト"
+        ],
+        "evaluationNotation": "S5:00 A:10:00 B15:00"
+      },
+      "sources": [
+        "http://wiki.mhxg.org/ida/322503.html",
+        "http://wiki.mhxg.org/data/2035.html",
+        "https://mhx-wiki.com/?%E7%BE%BD%E9%A3%BE%E3%82%8A%E3%83%BB%E3%83%94%E3%82%A2%E3%82%B9%E3%81%AE%E5%85%A5%E6%89%8B%E6%96%B9%E6%B3%95",
+        "http://wiki.mhxg.org/ida/296018.html",
+        "http://wiki.mhxg.org/ida/296038.html",
+        "https://w.atwiki.jp/mhxxnyanter/pages/58.html#id_c233e7e5"
+      ],
+      "missingFacts": [
+        "difficulty"
+      ]
+    },
+    {
+      "questId": "arena-recipe-322504",
+      "category": "arena",
+      "name": "ババコンガ討伐",
+      "recipeUrl": "http://wiki.mhxg.org/ida/322504.html",
+      "facts": {
+        "targets": [
+          "ババコンガ"
+        ],
+        "participantLimit": "2人以下",
+        "rewardMaterials": [
+          "ババコイン",
+          "タツジンチケットG"
+        ],
+        "notes": [
+          "評価時間は出典の表記をそのまま表示します。境界の等号・フレーム単位は未確認で、秒数への丸めや補完は行っていません。評価・自己ベスト・使用装備は保存しません。"
+        ],
+        "supportTypes": [
+          "カリスマ",
+          "ガード",
+          "アシスト",
+          "ボマー",
+          "ビースト"
+        ],
+        "evaluationNotation": "S7:00 A14:00 B20:00"
+      },
+      "sources": [
+        "http://wiki.mhxg.org/ida/322504.html",
+        "http://wiki.mhxg.org/data/2035.html",
+        "https://mhx-wiki.com/?%E7%BE%BD%E9%A3%BE%E3%82%8A%E3%83%BB%E3%83%94%E3%82%A2%E3%82%B9%E3%81%AE%E5%85%A5%E6%89%8B%E6%96%B9%E6%B3%95",
+        "http://wiki.mhxg.org/ida/296099.html",
+        "http://wiki.mhxg.org/ida/296038.html",
+        "https://w.atwiki.jp/mhxxnyanter/pages/58.html#id_f456f3c6"
+      ],
+      "missingFacts": [
+        "difficulty"
+      ]
+    },
+    {
+      "questId": "challenge-recipe-267308",
+      "category": "challenge",
+      "name": "タマミツネ討伐",
+      "recipeUrl": "http://wiki.mhxg.org/ida/267308.html",
+      "facts": {
+        "targets": [
+          "タマミツネ"
+        ],
+        "participantLimit": "2人以下",
+        "rewardMaterials": [],
+        "notes": [
+          "評価時間は出典の表記をそのまま表示します。境界の等号・フレーム単位は未確認で、秒数への丸めや補完は行っていません。評価・自己ベスト・使用装備は保存しません。",
+          "使用可能な武器種・評価時間は今回確認できた資料では未確認です。"
+        ]
+      },
+      "sources": [
+        "http://wiki.mhxg.org/ida/267308.html",
+        "http://wiki.mhxg.org/data/2034.html"
+      ],
+      "missingFacts": [
+        "difficulty",
+        "weapons",
+        "evaluation_times",
+        "special_coins_or_tickets"
+      ]
+    },
+    {
+      "questId": "challenge-recipe-267309",
+      "category": "challenge",
+      "name": "ディノバルド討伐",
+      "recipeUrl": "http://wiki.mhxg.org/ida/267309.html",
+      "facts": {
+        "targets": [
+          "ディノバルド"
+        ],
+        "participantLimit": "2人以下",
+        "rewardMaterials": [],
+        "notes": [
+          "評価時間は出典の表記をそのまま表示します。境界の等号・フレーム単位は未確認で、秒数への丸めや補完は行っていません。評価・自己ベスト・使用装備は保存しません。",
+          "使用可能な武器種・評価時間は今回確認できた資料では未確認です。"
+        ]
+      },
+      "sources": [
+        "http://wiki.mhxg.org/ida/267309.html",
+        "http://wiki.mhxg.org/data/2034.html"
+      ],
+      "missingFacts": [
+        "difficulty",
+        "weapons",
+        "evaluation_times",
+        "special_coins_or_tickets"
+      ]
+    },
+    {
+      "questId": "challenge-recipe-267310",
+      "category": "challenge",
+      "name": "ガムート討伐",
+      "recipeUrl": "http://wiki.mhxg.org/ida/267310.html",
+      "facts": {
+        "targets": [
+          "ガムート"
+        ],
+        "participantLimit": "2人以下",
+        "rewardMaterials": [],
+        "notes": [
+          "評価時間は出典の表記をそのまま表示します。境界の等号・フレーム単位は未確認で、秒数への丸めや補完は行っていません。評価・自己ベスト・使用装備は保存しません。",
+          "使用可能な武器種・評価時間は今回確認できた資料では未確認です。"
+        ]
+      },
+      "sources": [
+        "http://wiki.mhxg.org/ida/267310.html",
+        "http://wiki.mhxg.org/data/2034.html"
+      ],
+      "missingFacts": [
+        "difficulty",
+        "weapons",
+        "evaluation_times",
+        "special_coins_or_tickets"
+      ]
+    },
+    {
+      "questId": "challenge-recipe-267311",
+      "category": "challenge",
+      "name": "ライゼクス討伐",
+      "recipeUrl": "http://wiki.mhxg.org/ida/267311.html",
+      "facts": {
+        "targets": [
+          "ライゼクス"
+        ],
+        "participantLimit": "2人以下",
+        "rewardMaterials": [],
+        "notes": [
+          "評価時間は出典の表記をそのまま表示します。境界の等号・フレーム単位は未確認で、秒数への丸めや補完は行っていません。評価・自己ベスト・使用装備は保存しません。",
+          "使用可能な武器種・評価時間は今回確認できた資料では未確認です。"
+        ]
+      },
+      "sources": [
+        "http://wiki.mhxg.org/ida/267311.html",
+        "http://wiki.mhxg.org/data/2034.html"
+      ],
+      "missingFacts": [
+        "difficulty",
+        "weapons",
+        "evaluation_times",
+        "special_coins_or_tickets"
+      ]
+    },
+    {
+      "questId": "challenge-recipe-268860",
+      "category": "challenge",
+      "name": "ラギアクルス討伐",
+      "recipeUrl": "http://wiki.mhxg.org/ida/268860.html",
+      "facts": {
+        "targets": [
+          "ラギアクルス"
+        ],
+        "participantLimit": "2人以下",
+        "rewardMaterials": [],
+        "notes": [
+          "評価時間は出典の表記をそのまま表示します。境界の等号・フレーム単位は未確認で、秒数への丸めや補完は行っていません。評価・自己ベスト・使用装備は保存しません。",
+          "使用可能な武器種・評価時間は今回確認できた資料では未確認です。"
+        ]
+      },
+      "sources": [
+        "http://wiki.mhxg.org/ida/268860.html",
+        "http://wiki.mhxg.org/data/2034.html"
+      ],
+      "missingFacts": [
+        "difficulty",
+        "weapons",
+        "evaluation_times",
+        "special_coins_or_tickets"
+      ]
+    },
+    {
+      "questId": "challenge-recipe-268861",
+      "category": "challenge",
+      "name": "ジンオウガ討伐",
+      "recipeUrl": "http://wiki.mhxg.org/ida/268861.html",
+      "facts": {
+        "targets": [
+          "ジンオウガ"
+        ],
+        "participantLimit": "2人以下",
+        "rewardMaterials": [],
+        "notes": [
+          "評価時間は出典の表記をそのまま表示します。境界の等号・フレーム単位は未確認で、秒数への丸めや補完は行っていません。評価・自己ベスト・使用装備は保存しません。",
+          "使用可能な武器種・評価時間は今回確認できた資料では未確認です。"
+        ]
+      },
+      "sources": [
+        "http://wiki.mhxg.org/ida/268861.html",
+        "http://wiki.mhxg.org/data/2034.html"
+      ],
+      "missingFacts": [
+        "difficulty",
+        "weapons",
+        "evaluation_times",
+        "special_coins_or_tickets"
+      ]
+    },
+    {
+      "questId": "challenge-recipe-268862",
+      "category": "challenge",
+      "name": "ゴア・マガラ討伐",
+      "recipeUrl": "http://wiki.mhxg.org/ida/268862.html",
+      "facts": {
+        "targets": [
+          "ゴア・マガラ"
+        ],
+        "participantLimit": "2人以下",
+        "rewardMaterials": [],
+        "notes": [
+          "評価時間は出典の表記をそのまま表示します。境界の等号・フレーム単位は未確認で、秒数への丸めや補完は行っていません。評価・自己ベスト・使用装備は保存しません。",
+          "使用可能な武器種・評価時間は今回確認できた資料では未確認です。"
+        ]
+      },
+      "sources": [
+        "http://wiki.mhxg.org/ida/268862.html",
+        "http://wiki.mhxg.org/data/2034.html"
+      ],
+      "missingFacts": [
+        "difficulty",
+        "weapons",
+        "evaluation_times",
+        "special_coins_or_tickets"
+      ]
+    },
+    {
+      "questId": "challenge-recipe-268863",
+      "category": "challenge",
+      "name": "ティガレックス討伐",
+      "recipeUrl": "http://wiki.mhxg.org/ida/268863.html",
+      "facts": {
+        "targets": [
+          "ティガレックス"
+        ],
+        "participantLimit": "2人以下",
+        "rewardMaterials": [],
+        "notes": [
+          "評価時間は出典の表記をそのまま表示します。境界の等号・フレーム単位は未確認で、秒数への丸めや補完は行っていません。評価・自己ベスト・使用装備は保存しません。",
+          "使用可能な武器種・評価時間は今回確認できた資料では未確認です。"
+        ]
+      },
+      "sources": [
+        "http://wiki.mhxg.org/ida/268863.html",
+        "http://wiki.mhxg.org/data/2034.html"
+      ],
+      "missingFacts": [
+        "difficulty",
+        "weapons",
+        "evaluation_times",
+        "special_coins_or_tickets"
+      ]
+    },
+    {
+      "questId": "challenge-recipe-268864",
+      "category": "challenge",
+      "name": "リオレウス討伐",
+      "recipeUrl": "http://wiki.mhxg.org/ida/268864.html",
+      "facts": {
+        "targets": [
+          "リオレウス"
+        ],
+        "participantLimit": "2人以下",
+        "rewardMaterials": [],
+        "notes": [
+          "評価時間は出典の表記をそのまま表示します。境界の等号・フレーム単位は未確認で、秒数への丸めや補完は行っていません。評価・自己ベスト・使用装備は保存しません。",
+          "使用可能な武器種・評価時間は今回確認できた資料では未確認です。"
+        ]
+      },
+      "sources": [
+        "http://wiki.mhxg.org/ida/268864.html",
+        "http://wiki.mhxg.org/data/2034.html"
+      ],
+      "missingFacts": [
+        "difficulty",
+        "weapons",
+        "evaluation_times",
+        "special_coins_or_tickets"
+      ]
+    },
+    {
+      "questId": "challenge-recipe-268865",
+      "category": "challenge",
+      "name": "ナルガクルガ討伐",
+      "recipeUrl": "http://wiki.mhxg.org/ida/268865.html",
+      "facts": {
+        "targets": [
+          "ナルガクルガ"
+        ],
+        "participantLimit": "2人以下",
+        "rewardMaterials": [],
+        "notes": [
+          "評価時間は出典の表記をそのまま表示します。境界の等号・フレーム単位は未確認で、秒数への丸めや補完は行っていません。評価・自己ベスト・使用装備は保存しません。",
+          "使用可能な武器種・評価時間は今回確認できた資料では未確認です。"
+        ]
+      },
+      "sources": [
+        "http://wiki.mhxg.org/ida/268865.html",
+        "http://wiki.mhxg.org/data/2034.html"
+      ],
+      "missingFacts": [
+        "difficulty",
+        "weapons",
+        "evaluation_times",
+        "special_coins_or_tickets"
+      ]
+    },
+    {
+      "questId": "challenge-recipe-268866",
+      "category": "challenge",
+      "name": "ラングロトラ討伐",
+      "recipeUrl": "http://wiki.mhxg.org/ida/268866.html",
+      "facts": {
+        "targets": [
+          "ラングロトラ"
+        ],
+        "participantLimit": "2人以下",
+        "rewardMaterials": [],
+        "notes": [
+          "評価時間は出典の表記をそのまま表示します。境界の等号・フレーム単位は未確認で、秒数への丸めや補完は行っていません。評価・自己ベスト・使用装備は保存しません。"
+        ],
+        "supportTypes": [
+          "カリスマ",
+          "ガード",
+          "回復",
+          "ボマー",
+          "コレクト"
+        ],
+        "evaluationNotation": "S7:00 A:14:00 B30:00"
+      },
+      "sources": [
+        "http://wiki.mhxg.org/ida/268866.html",
+        "http://wiki.mhxg.org/data/2034.html",
+        "https://w.atwiki.jp/mhxxnyanter/pages/70.html#id_ad30915d"
+      ],
+      "missingFacts": [
+        "difficulty",
+        "special_coins_or_tickets"
+      ]
+    },
+    {
+      "questId": "challenge-recipe-268867",
+      "category": "challenge",
+      "name": "ロアルドロス討伐",
+      "recipeUrl": "http://wiki.mhxg.org/ida/268867.html",
+      "facts": {
+        "targets": [
+          "ロアルドロス"
+        ],
+        "participantLimit": "2人以下",
+        "rewardMaterials": [],
+        "notes": [
+          "評価時間は出典の表記をそのまま表示します。境界の等号・フレーム単位は未確認で、秒数への丸めや補完は行っていません。評価・自己ベスト・使用装備は保存しません。"
+        ],
+        "supportTypes": [
+          "カリスマ",
+          "ファイト",
+          "ガード",
+          "回復",
+          "ボマー"
+        ],
+        "evaluationNotation": "S7:00 A:14:00 B30:00"
+      },
+      "sources": [
+        "http://wiki.mhxg.org/ida/268867.html",
+        "http://wiki.mhxg.org/data/2034.html",
+        "https://w.atwiki.jp/mhxxnyanter/pages/70.html#id_6c458263"
+      ],
+      "missingFacts": [
+        "difficulty",
+        "special_coins_or_tickets"
+      ]
+    },
+    {
+      "questId": "challenge-recipe-268868",
+      "category": "challenge",
+      "name": "ウルクスス討伐",
+      "recipeUrl": "http://wiki.mhxg.org/ida/268868.html",
+      "facts": {
+        "targets": [
+          "ウルクスス"
+        ],
+        "participantLimit": "2人以下",
+        "rewardMaterials": [],
+        "notes": [
+          "評価時間は出典の表記をそのまま表示します。境界の等号・フレーム単位は未確認で、秒数への丸めや補完は行っていません。評価・自己ベスト・使用装備は保存しません。"
+        ],
+        "supportTypes": [
+          "カリスマ",
+          "ファイト",
+          "ガード",
+          "ボマー",
+          "コレクト"
+        ],
+        "evaluationNotation": "S7:00 A:14:00 B30:00"
+      },
+      "sources": [
+        "http://wiki.mhxg.org/ida/268868.html",
+        "http://wiki.mhxg.org/data/2034.html",
+        "https://w.atwiki.jp/mhxxnyanter/pages/70.html#id_21f45800"
+      ],
+      "missingFacts": [
+        "difficulty",
+        "special_coins_or_tickets"
+      ]
+    },
+    {
+      "questId": "challenge-recipe-268869",
+      "category": "challenge",
+      "name": "イャンクック討伐",
+      "recipeUrl": "http://wiki.mhxg.org/ida/268869.html",
+      "facts": {
+        "targets": [
+          "イャンクック"
+        ],
+        "participantLimit": "2人以下",
+        "rewardMaterials": [],
+        "notes": [
+          "評価時間は出典の表記をそのまま表示します。境界の等号・フレーム単位は未確認で、秒数への丸めや補完は行っていません。評価・自己ベスト・使用装備は保存しません。"
+        ],
+        "supportTypes": [
+          "ファイト",
+          "ガード",
+          "回復",
+          "ボマー",
+          "コレクト"
+        ],
+        "evaluationNotation": "S7:00 A:14:00 B30:00"
+      },
+      "sources": [
+        "http://wiki.mhxg.org/ida/268869.html",
+        "http://wiki.mhxg.org/data/2034.html",
+        "https://w.atwiki.jp/mhxxnyanter/pages/70.html#id_f64b7940"
+      ],
+      "missingFacts": [
+        "difficulty",
+        "special_coins_or_tickets"
+      ]
+    },
+    {
+      "questId": "challenge-recipe-268870",
+      "category": "challenge",
+      "name": "アオアシラ討伐",
+      "recipeUrl": "http://wiki.mhxg.org/ida/268870.html",
+      "facts": {
+        "targets": [
+          "アオアシラ"
+        ],
+        "participantLimit": "2人以下",
+        "rewardMaterials": [],
+        "notes": [
+          "評価時間は出典の表記をそのまま表示します。境界の等号・フレーム単位は未確認で、秒数への丸めや補完は行っていません。評価・自己ベスト・使用装備は保存しません。"
+        ],
+        "supportTypes": [
+          "カリスマ",
+          "ファイト",
+          "ガード",
+          "ボマー",
+          "コレクト"
+        ],
+        "evaluationNotation": "S7:00 A:14:00 B30:00"
+      },
+      "sources": [
+        "http://wiki.mhxg.org/ida/268870.html",
+        "http://wiki.mhxg.org/data/2034.html",
+        "https://w.atwiki.jp/mhxxnyanter/pages/70.html#id_ff2c6318"
+      ],
+      "missingFacts": [
+        "difficulty",
+        "special_coins_or_tickets"
+      ]
+    },
+    {
+      "questId": "challenge-recipe-278971",
+      "category": "challenge",
+      "name": "大連続狩猟1",
+      "recipeUrl": "http://wiki.mhxg.org/ida/278971.html",
+      "facts": {
+        "targets": [
+          "ティガレックス",
+          "ナルガクルガ",
+          "ジンオウガ"
+        ],
+        "participantLimit": "2人以下",
+        "rewardMaterials": [],
+        "notes": [
+          "評価時間は出典の表記をそのまま表示します。境界の等号・フレーム単位は未確認で、秒数への丸めや補完は行っていません。評価・自己ベスト・使用装備は保存しません。",
+          "使用可能な武器種・評価時間は今回確認できた資料では未確認です。"
+        ]
+      },
+      "sources": [
+        "http://wiki.mhxg.org/ida/278971.html",
+        "http://wiki.mhxg.org/data/2034.html"
+      ],
+      "missingFacts": [
+        "difficulty",
+        "weapons",
+        "evaluation_times",
+        "special_coins_or_tickets"
+      ]
+    },
+    {
+      "questId": "challenge-recipe-278972",
+      "category": "challenge",
+      "name": "大連続狩猟2",
+      "recipeUrl": "http://wiki.mhxg.org/ida/278972.html",
+      "facts": {
+        "targets": [
+          "ラージャン",
+          "イビルジョー"
+        ],
+        "participantLimit": "2人以下",
+        "rewardMaterials": [],
+        "notes": [
+          "評価時間は出典の表記をそのまま表示します。境界の等号・フレーム単位は未確認で、秒数への丸めや補完は行っていません。評価・自己ベスト・使用装備は保存しません。",
+          "使用可能な武器種・評価時間は今回確認できた資料では未確認です。"
+        ]
+      },
+      "sources": [
+        "http://wiki.mhxg.org/ida/278972.html",
+        "http://wiki.mhxg.org/data/2034.html"
+      ],
+      "missingFacts": [
+        "difficulty",
+        "weapons",
+        "evaluation_times",
+        "special_coins_or_tickets"
+      ]
+    },
+    {
+      "questId": "challenge-recipe-278973",
+      "category": "challenge",
+      "name": "大連続狩猟3",
+      "recipeUrl": "http://wiki.mhxg.org/ida/278973.html",
+      "facts": {
+        "targets": [
+          "ガムート",
+          "ライゼクス",
+          "タマミツネ",
+          "ディノバルド"
+        ],
+        "participantLimit": "2人以下",
+        "rewardMaterials": [],
+        "notes": [
+          "評価時間は出典の表記をそのまま表示します。境界の等号・フレーム単位は未確認で、秒数への丸めや補完は行っていません。評価・自己ベスト・使用装備は保存しません。",
+          "使用可能な武器種・評価時間は今回確認できた資料では未確認です。"
+        ]
+      },
+      "sources": [
+        "http://wiki.mhxg.org/ida/278973.html",
+        "http://wiki.mhxg.org/data/2034.html"
+      ],
+      "missingFacts": [
+        "difficulty",
+        "weapons",
+        "evaluation_times",
+        "special_coins_or_tickets"
+      ]
+    },
+    {
+      "questId": "challenge-recipe-278974",
+      "category": "challenge",
+      "name": "大連続狩猟4",
+      "recipeUrl": "http://wiki.mhxg.org/ida/278974.html",
+      "facts": {
+        "targets": [
+          "ガムート",
+          "タマミツネ",
+          "ディノバルド",
+          "ライゼクス"
+        ],
+        "participantLimit": "2人以下",
+        "rewardMaterials": [],
+        "notes": [
+          "評価時間は出典の表記をそのまま表示します。境界の等号・フレーム単位は未確認で、秒数への丸めや補完は行っていません。評価・自己ベスト・使用装備は保存しません。",
+          "使用可能な武器種・評価時間は今回確認できた資料では未確認です。"
+        ]
+      },
+      "sources": [
+        "http://wiki.mhxg.org/ida/278974.html",
+        "http://wiki.mhxg.org/data/2034.html"
+      ],
+      "missingFacts": [
+        "difficulty",
+        "weapons",
+        "evaluation_times",
+        "special_coins_or_tickets"
+      ]
+    },
+    {
+      "questId": "challenge-recipe-278975",
+      "category": "challenge",
+      "name": "大連続狩猟5",
+      "recipeUrl": "http://wiki.mhxg.org/ida/278975.html",
+      "facts": {
+        "targets": [
+          "ドスランポス",
+          "アオアシラ",
+          "イャンクック"
+        ],
+        "participantLimit": "2人以下",
+        "rewardMaterials": [],
+        "notes": [
+          "評価時間は出典の表記をそのまま表示します。境界の等号・フレーム単位は未確認で、秒数への丸めや補完は行っていません。評価・自己ベスト・使用装備は保存しません。"
+        ],
+        "supportTypes": [
+          "カリスマ",
+          "ファイト",
+          "ガード",
+          "回復",
+          "コレクト"
+        ],
+        "evaluationNotation": "S10:00 A20:00 B35:00"
+      },
+      "sources": [
+        "http://wiki.mhxg.org/ida/278975.html",
+        "http://wiki.mhxg.org/data/2034.html",
+        "https://w.atwiki.jp/mhxxnyanter/pages/70.html#id_703dd738"
+      ],
+      "missingFacts": [
+        "difficulty",
+        "special_coins_or_tickets"
+      ]
+    }
+  ],
+  "specialistObservations": [
+    {
+      "category": "arena",
+      "sourceHeading": "ドスマッカォ討伐",
+      "name": "ドスマッカォ討伐",
+      "sourceUrl": "https://w.atwiki.jp/mhxxnyanter/pages/58.html#id_b25556c9",
+      "evaluationNotation": "S5:00 A:10:00 B13:00",
+      "supportTypes": [
+        "ファイト",
+        "ガード",
+        "回復",
+        "ボマー",
+        "コレクト"
+      ],
+      "matchedRecipeUrl": "http://wiki.mhxg.org/ida/218341.html",
+      "status": "matched",
+      "comparisonNote": "全半角の数字のみNFKC正規化して照合。XXイベントは同モンスターの既存ハンター版へ統合しない。"
+    },
+    {
+      "category": "arena",
+      "sourceHeading": "ゲリョス討伐",
+      "name": "ゲリョス討伐",
+      "sourceUrl": "https://w.atwiki.jp/mhxxnyanter/pages/58.html#id_f3d53401",
+      "evaluationNotation": "S5:00 A:10:00 B15:00",
+      "supportTypes": [
+        "カリスマ",
+        "ファイト",
+        "ガード",
+        "回復",
+        "コレクト"
+      ],
+      "matchedRecipeUrl": "http://wiki.mhxg.org/ida/238258.html",
+      "status": "matched",
+      "comparisonNote": "全半角の数字のみNFKC正規化して照合。XXイベントは同モンスターの既存ハンター版へ統合しない。"
+    },
+    {
+      "category": "arena",
+      "sourceHeading": "鳥竜種2頭討伐",
+      "name": "鳥竜種2頭討伐",
+      "sourceUrl": "https://w.atwiki.jp/mhxxnyanter/pages/58.html#id_c174f242",
+      "evaluationNotation": "S5:00 A:10:00 B15:00",
+      "supportTypes": [
+        "カリスマ",
+        "ファイト",
+        "回復",
+        "ボマー",
+        "コレクト"
+      ],
+      "matchedRecipeUrl": "http://wiki.mhxg.org/ida/238259.html",
+      "status": "matched",
+      "comparisonNote": "全半角の数字のみNFKC正規化して照合。XXイベントは同モンスターの既存ハンター版へ統合しない。"
+    },
+    {
+      "category": "arena",
+      "sourceHeading": "ボルボロス討伐",
+      "name": "ボルボロス討伐",
+      "sourceUrl": "https://w.atwiki.jp/mhxxnyanter/pages/58.html#id_5e085596",
+      "evaluationNotation": "S5:00 A:09:00 B13:00",
+      "supportTypes": [
+        "カリスマ",
+        "ガード",
+        "アシスト",
+        "ボマー",
+        "ビースト"
+      ],
+      "matchedRecipeUrl": "http://wiki.mhxg.org/ida/322502.html",
+      "status": "matched",
+      "comparisonNote": "全半角の数字のみNFKC正規化して照合。XXイベントは同モンスターの既存ハンター版へ統合しない。"
+    },
+    {
+      "category": "arena",
+      "sourceHeading": "テツカブラ討伐",
+      "name": "テツカブラ討伐",
+      "sourceUrl": "https://w.atwiki.jp/mhxxnyanter/pages/58.html#id_c233e7e5",
+      "evaluationNotation": "S5:00 A:10:00 B15:00",
+      "supportTypes": [
+        "ファイト",
+        "アシスト",
+        "回復",
+        "コレクト",
+        "ビースト"
+      ],
+      "matchedRecipeUrl": "http://wiki.mhxg.org/ida/322503.html",
+      "status": "matched",
+      "comparisonNote": "全半角の数字のみNFKC正規化して照合。XXイベントは同モンスターの既存ハンター版へ統合しない。"
+    },
+    {
+      "category": "arena",
+      "sourceHeading": "ババコンガ討伐",
+      "name": "ババコンガ討伐",
+      "sourceUrl": "https://w.atwiki.jp/mhxxnyanter/pages/58.html#id_f456f3c6",
+      "evaluationNotation": "S7:00 A14:00 B20:00",
+      "supportTypes": [
+        "カリスマ",
+        "ガード",
+        "アシスト",
+        "ボマー",
+        "ビースト"
+      ],
+      "matchedRecipeUrl": "http://wiki.mhxg.org/ida/322504.html",
+      "status": "matched",
+      "comparisonNote": "全半角の数字のみNFKC正規化して照合。XXイベントは同モンスターの既存ハンター版へ統合しない。"
+    },
+    {
+      "category": "challenge",
+      "sourceHeading": "ＸＸイベント：火竜討伐",
+      "name": "火竜討伐",
+      "sourceUrl": "https://w.atwiki.jp/mhxxnyanter/pages/70.html#id_76e8e70e",
+      "evaluationNotation": "S7:00 A:14:00 B30:00",
+      "supportTypes": [
+        "カリスマ",
+        "アシスト",
+        "回復",
+        "ボマー",
+        "コレクト"
+      ],
+      "matchedRecipeUrl": null,
+      "status": "unmatched_candidate",
+      "comparisonNote": "全半角の数字のみNFKC正規化して照合。XXイベントは同モンスターの既存ハンター版へ統合しない。"
+    },
+    {
+      "category": "challenge",
+      "sourceHeading": "ＸＸイベント：轟竜討伐",
+      "name": "轟竜討伐",
+      "sourceUrl": "https://w.atwiki.jp/mhxxnyanter/pages/70.html#id_3b17d3a4",
+      "evaluationNotation": "S7:00 A:14:00 B30:00",
+      "supportTypes": [
+        "カリスマ",
+        "ファイト",
+        "ガード",
+        "アシスト",
+        "ビースト"
+      ],
+      "matchedRecipeUrl": null,
+      "status": "unmatched_candidate",
+      "comparisonNote": "全半角の数字のみNFKC正規化して照合。XXイベントは同モンスターの既存ハンター版へ統合しない。"
+    },
+    {
+      "category": "challenge",
+      "sourceHeading": "ＸＸイベント：迅竜討伐",
+      "name": "迅竜討伐",
+      "sourceUrl": "https://w.atwiki.jp/mhxxnyanter/pages/70.html#id_4815b752",
+      "evaluationNotation": "S7:00 A:14:00 B30:00",
+      "supportTypes": [
+        "ファイト",
+        "ガード",
+        "アシスト",
+        "ボマー",
+        "ビースト"
+      ],
+      "matchedRecipeUrl": null,
+      "status": "unmatched_candidate",
+      "comparisonNote": "全半角の数字のみNFKC正規化して照合。XXイベントは同モンスターの既存ハンター版へ統合しない。"
+    },
+    {
+      "category": "challenge",
+      "sourceHeading": "ＸＸイベント：雷狼竜討伐",
+      "name": "雷狼竜討伐",
+      "sourceUrl": "https://w.atwiki.jp/mhxxnyanter/pages/70.html#id_cda6ff39",
+      "evaluationNotation": "S7:00 A:14:00 B30:00",
+      "supportTypes": [
+        "ファイト",
+        "アシスト",
+        "回復",
+        "ボマー",
+        "ビースト"
+      ],
+      "matchedRecipeUrl": null,
+      "status": "unmatched_candidate",
+      "comparisonNote": "全半角の数字のみNFKC正規化して照合。XXイベントは同モンスターの既存ハンター版へ統合しない。"
+    },
+    {
+      "category": "challenge",
+      "sourceHeading": "ＸＸイベント：砕竜討伐",
+      "name": "砕竜討伐",
+      "sourceUrl": "https://w.atwiki.jp/mhxxnyanter/pages/70.html#id_70dd4d68",
+      "evaluationNotation": "S7:00 A:14:00 B30:00",
+      "supportTypes": [
+        "ファイト",
+        "ガード",
+        "アシスト",
+        "コレクト",
+        "ビースト"
+      ],
+      "matchedRecipeUrl": null,
+      "status": "unmatched_candidate",
+      "comparisonNote": "全半角の数字のみNFKC正規化して照合。XXイベントは同モンスターの既存ハンター版へ統合しない。"
+    },
+    {
+      "category": "challenge",
+      "sourceHeading": "ＸＸイベント：大連続狩猟４",
+      "name": "大連続狩猟4",
+      "sourceUrl": "https://w.atwiki.jp/mhxxnyanter/pages/70.html#id_4eb7b3c3",
+      "evaluationNotation": "S12:00 A25:00 B40:00",
+      "supportTypes": [
+        "カリスマ",
+        "ファイト",
+        "ガード",
+        "回復",
+        "ビースト"
+      ],
+      "matchedRecipeUrl": null,
+      "status": "unmatched_candidate",
+      "comparisonNote": "全半角の数字のみNFKC正規化して照合。XXイベントは同モンスターの既存ハンター版へ統合しない。"
+    },
+    {
+      "category": "challenge",
+      "sourceHeading": "イベント：ラングロトラ討伐",
+      "name": "ラングロトラ討伐",
+      "sourceUrl": "https://w.atwiki.jp/mhxxnyanter/pages/70.html#id_ad30915d",
+      "evaluationNotation": "S7:00 A:14:00 B30:00",
+      "supportTypes": [
+        "カリスマ",
+        "ガード",
+        "回復",
+        "ボマー",
+        "コレクト"
+      ],
+      "matchedRecipeUrl": "http://wiki.mhxg.org/ida/268866.html",
+      "status": "matched",
+      "comparisonNote": "全半角の数字のみNFKC正規化して照合。XXイベントは同モンスターの既存ハンター版へ統合しない。"
+    },
+    {
+      "category": "challenge",
+      "sourceHeading": "イベント：ロアルドロス討伐",
+      "name": "ロアルドロス討伐",
+      "sourceUrl": "https://w.atwiki.jp/mhxxnyanter/pages/70.html#id_6c458263",
+      "evaluationNotation": "S7:00 A:14:00 B30:00",
+      "supportTypes": [
+        "カリスマ",
+        "ファイト",
+        "ガード",
+        "回復",
+        "ボマー"
+      ],
+      "matchedRecipeUrl": "http://wiki.mhxg.org/ida/268867.html",
+      "status": "matched",
+      "comparisonNote": "全半角の数字のみNFKC正規化して照合。XXイベントは同モンスターの既存ハンター版へ統合しない。"
+    },
+    {
+      "category": "challenge",
+      "sourceHeading": "イベント：ウルクスス討伐",
+      "name": "ウルクスス討伐",
+      "sourceUrl": "https://w.atwiki.jp/mhxxnyanter/pages/70.html#id_21f45800",
+      "evaluationNotation": "S7:00 A:14:00 B30:00",
+      "supportTypes": [
+        "カリスマ",
+        "ファイト",
+        "ガード",
+        "ボマー",
+        "コレクト"
+      ],
+      "matchedRecipeUrl": "http://wiki.mhxg.org/ida/268868.html",
+      "status": "matched",
+      "comparisonNote": "全半角の数字のみNFKC正規化して照合。XXイベントは同モンスターの既存ハンター版へ統合しない。"
+    },
+    {
+      "category": "challenge",
+      "sourceHeading": "イベント：イャンクック討伐",
+      "name": "イャンクック討伐",
+      "sourceUrl": "https://w.atwiki.jp/mhxxnyanter/pages/70.html#id_f64b7940",
+      "evaluationNotation": "S7:00 A:14:00 B30:00",
+      "supportTypes": [
+        "ファイト",
+        "ガード",
+        "回復",
+        "ボマー",
+        "コレクト"
+      ],
+      "matchedRecipeUrl": "http://wiki.mhxg.org/ida/268869.html",
+      "status": "matched",
+      "comparisonNote": "全半角の数字のみNFKC正規化して照合。XXイベントは同モンスターの既存ハンター版へ統合しない。"
+    },
+    {
+      "category": "challenge",
+      "sourceHeading": "イベント：アオアシラ討伐",
+      "name": "アオアシラ討伐",
+      "sourceUrl": "https://w.atwiki.jp/mhxxnyanter/pages/70.html#id_ff2c6318",
+      "evaluationNotation": "S7:00 A:14:00 B30:00",
+      "supportTypes": [
+        "カリスマ",
+        "ファイト",
+        "ガード",
+        "ボマー",
+        "コレクト"
+      ],
+      "matchedRecipeUrl": "http://wiki.mhxg.org/ida/268870.html",
+      "status": "matched",
+      "comparisonNote": "全半角の数字のみNFKC正規化して照合。XXイベントは同モンスターの既存ハンター版へ統合しない。"
+    },
+    {
+      "category": "challenge",
+      "sourceHeading": "イベント：大連続狩猟５",
+      "name": "大連続狩猟5",
+      "sourceUrl": "https://w.atwiki.jp/mhxxnyanter/pages/70.html#id_703dd738",
+      "evaluationNotation": "S10:00 A20:00 B35:00",
+      "supportTypes": [
+        "カリスマ",
+        "ファイト",
+        "ガード",
+        "回復",
+        "コレクト"
+      ],
+      "matchedRecipeUrl": "http://wiki.mhxg.org/ida/278975.html",
+      "status": "matched",
+      "comparisonNote": "全半角の数字のみNFKC正規化して照合。XXイベントは同モンスターの既存ハンター版へ統合しない。"
+    }
+  ]
+}

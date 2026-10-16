@@ -22,5 +22,35 @@
     "condition": "MHXXの全ての闘技大会をAランク以上でクリア",
     "sourceUrl": "http://wiki.mhxg.org/ida/295692.html",
     "note": "攻略レシピの記述。ハンター／ニャンター・追加分の厳密な対象集合と受取操作は未確認。自動取得判定はしません。"
+  },
+  {
+    "label": "碧玉の盾",
+    "condition": "闘技大会のクエストを全てクリア",
+    "sourceUrl": "https://mhx-wiki.com/?%E5%8B%B2%E7%AB%A0%E4%B8%80%E8%A6%A7",
+    "note": "専門Wikiの龍歴院欄。対象クエスト集合・ニャンターと追加分の範囲は未確定。自動取得判定はしません。"
+  },
+  {
+    "label": "蒼玉の盾",
+    "condition": "闘技大会のクエストを全てAランク以上でクリア",
+    "sourceUrl": "https://mhx-wiki.com/?%E5%8B%B2%E7%AB%A0%E4%B8%80%E8%A6%A7",
+    "note": "専門Wikiの龍歴院欄。対象クエスト集合・ニャンターと追加分の範囲は未確定。自動取得判定はしません。"
+  },
+  {
+    "label": "金陽の盾",
+    "condition": "闘技大会のクエストを全てSランクでクリア",
+    "sourceUrl": "https://mhx-wiki.com/?%E5%8B%B2%E7%AB%A0%E4%B8%80%E8%A6%A7",
+    "note": "専門Wikiの龍歴院欄。対象クエスト集合・ニャンターと追加分の範囲は未確定。自動取得判定はしません。"
+  },
+  {
+    "label": "紅玉の盾",
+    "condition": "闘技大会のすべてのクエストでAランク以上",
+    "sourceUrl": "https://mhx-wiki.com/?%E5%8B%B2%E7%AB%A0%E4%B8%80%E8%A6%A7",
+    "note": "専門Wikiの龍識船欄。対象クエスト集合・ニャンターと追加分の範囲は未確定。自動取得判定はしません。"
+  },
+  {
+    "label": "白金の盾",
+    "condition": "闘技大会のすべてのクエストでSランク",
+    "sourceUrl": "https://mhx-wiki.com/?%E5%8B%B2%E7%AB%A0%E4%B8%80%E8%A6%A7",
+    "note": "専門Wikiの龍識船欄。対象クエスト集合・ニャンターと追加分の範囲は未確定。自動取得判定はしません。"
   }
 ]

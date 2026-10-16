@@ -6,6 +6,8 @@ import type { Quest } from "../lib/types";
 import { evaluate, dependents, references, validateQuests } from "../lib/rules";
 import { hasUnlockIndicator } from "../lib/unlocks";
 import { parseSave, SAVE_KEY } from "../lib/storage";
+import research from "../../docs/arena-research-audit.json";
+import metadata from "../../docs/arena-equipment-time-rewards-audit.json";
 import baseline from "../../docs/progress-baseline-1311.json";
 import challenge from "../../docs/challenge-observations.json";
 import arena from "../../docs/arena-observations.json";
@@ -128,9 +130,13 @@ describe("arena and challenge observed source facts", () => {
     );
   });
   it("does not duplicate cross-quest piercings into single-clear rewards or auto-evaluate A/S", () => {
-    expect(achievements).toHaveLength(4);
+    expect(achievements.filter((a) => a.label.endsWith("ピアス"))).toHaveLength(
+      4,
+    );
     expect(
-      achievements.filter((a) => a.condition.includes("Aランク")),
+      achievements.filter(
+        (a) => a.label.endsWith("ピアス") && a.condition.includes("Aランク"),
+      ),
     ).toHaveLength(2);
     for (const q of quests.filter(
       (q) => q.category === "arena" || q.category === "challenge",
@@ -211,4 +217,35 @@ it("keeps version-1 checks, HR and unknown IDs, without persisting arena display
     "hr",
     "schemaVersion",
   ]);
+});
+
+it("keeps all historic audits byte-identical and leaves six unmatched XX candidates unmerged", async () => {
+  const files = import.meta.glob<string>("../../docs/*", {
+    query: "?raw",
+    import: "default",
+    eager: true,
+  });
+  for (const [path, sha] of Object.entries(research.priorAuditFiles)) {
+    const text = files[`../../${path}`];
+    expect(text).toBeDefined();
+    const hash = Array.from(
+      new Uint8Array(
+        await crypto.subtle.digest("SHA-256", new TextEncoder().encode(text)),
+      ),
+    )
+      .map((b) => b.toString(16).padStart(2, "0"))
+      .join("");
+    expect(hash).toBe(sha);
+  }
+  expect(
+    metadata.specialistObservations.filter(
+      (m) => m.status === "unmatched_candidate",
+    ),
+  ).toHaveLength(6);
+  expect(quests.filter((q) => q.category === "challenge")).toHaveLength(20);
+  expect(
+    quests.find((q) => q.category === "challenge" && q.name === "大連続狩猟4")!
+      .role,
+  ).toBe("hunter");
+  expect(quests).toHaveLength(1348);
 });
