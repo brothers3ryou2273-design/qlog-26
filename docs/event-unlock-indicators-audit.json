@@ -2,6 +2,338 @@
   "checkedAt": "2026-10-16",
   "otherEntries": [
     {
+      "questId": "event-g-recipe-322465",
+      "name": "逆転裁判・闘技場で法廷バトル",
+      "label": "逆転裁判傍聴券を使う装備の生産・強化",
+      "classification": "recipe_material",
+      "show": true,
+      "sourceUrl": "http://wiki.mhxg.org/ida/322465.html",
+      "evidenceUrls": [
+        "http://wiki.mhxg.org/ida/322458.html",
+        "http://wiki.mhxg.org/ida/296097.html",
+        "https://w.atwiki.jp/mhxxnyanter/pages/20.html"
+      ],
+      "reason": "イベント固有素材から具体的な装備の生産・強化先を確認。素材と製法フラグは区別する。"
+    },
+    {
+      "questId": "event-g-recipe-322465",
+      "name": "逆転裁判・闘技場で法廷バトル",
+      "label": "ネコ記憶の秘伝書（オトモのサポート・スキル変更用アイテム）",
+      "classification": "special_item",
+      "show": true,
+      "sourceUrl": "http://wiki.mhxg.org/ida/322465.html",
+      "evidenceUrls": [
+        "http://wiki.mhxg.org/ida/322458.html",
+        "http://wiki.mhxg.org/ida/296097.html",
+        "https://w.atwiki.jp/mhxxnyanter/pages/20.html"
+      ],
+      "reason": "用途が確認された特別な機能用アイテムの入手経路。施設そのものの解放ではない。"
+    },
+    {
+      "questId": "event-g-recipe-322467",
+      "name": "電撃・迅雷閃く遺群嶺",
+      "label": "デンゲキXX券を使う装備の生産・強化",
+      "classification": "recipe_material",
+      "show": true,
+      "sourceUrl": "http://wiki.mhxg.org/ida/322467.html",
+      "evidenceUrls": [
+        "http://wiki.mhxg.org/ida/321603.html"
+      ],
+      "reason": "イベント固有素材から具体的な装備の生産・強化先を確認。素材と製法フラグは区別する。"
+    },
+    {
+      "questId": "event-g-recipe-322468",
+      "name": "刃牙道・尻尾こそが剣！！！",
+      "label": "海王認定書を使う装備の生産・強化",
+      "classification": "recipe_material",
+      "show": true,
+      "sourceUrl": "http://wiki.mhxg.org/ida/322468.html",
+      "evidenceUrls": [
+        "http://wiki.mhxg.org/ida/321506.html"
+      ],
+      "reason": "イベント固有素材から具体的な装備の生産・強化先を確認。素材と製法フラグは区別する。"
+    },
+    {
+      "questId": "event-g-recipe-322471",
+      "name": "WORST・セニドクロ",
+      "label": "ワーストコインを使う装備の生産・強化",
+      "classification": "recipe_material",
+      "show": true,
+      "sourceUrl": "http://wiki.mhxg.org/ida/322471.html",
+      "evidenceUrls": [
+        "http://wiki.mhxg.org/ida/322460.html"
+      ],
+      "reason": "イベント固有素材から具体的な装備の生産・強化先を確認。素材と製法フラグは区別する。"
+    },
+    {
+      "questId": "event-g-recipe-324591",
+      "name": "ファミ通・奇猿狐に突撃取材！",
+      "label": "ファミ通ギフト券を使う装備の生産・強化",
+      "classification": "recipe_material",
+      "show": true,
+      "sourceUrl": "http://wiki.mhxg.org/ida/324591.html",
+      "evidenceUrls": [
+        "http://wiki.mhxg.org/ida/324585.html"
+      ],
+      "reason": "イベント固有素材から具体的な装備の生産・強化先を確認。素材と製法フラグは区別する。"
+    },
+    {
+      "questId": "event-g-recipe-324593",
+      "name": "コロコロ・キケンな屁をこく獣",
+      "label": "リーマンコインを使う装備の生産・強化",
+      "classification": "recipe_material",
+      "show": true,
+      "sourceUrl": "http://wiki.mhxg.org/ida/324593.html",
+      "evidenceUrls": [
+        "http://wiki.mhxg.org/ida/324586.html",
+        "http://wiki.mhxg.org/ida/296097.html",
+        "https://w.atwiki.jp/mhxxnyanter/pages/20.html"
+      ],
+      "reason": "イベント固有素材から具体的な装備の生産・強化先を確認。素材と製法フラグは区別する。"
+    },
+    {
+      "questId": "event-g-recipe-324593",
+      "name": "コロコロ・キケンな屁をこく獣",
+      "label": "ネコ記憶の秘伝書（オトモのサポート・スキル変更用アイテム）",
+      "classification": "special_item",
+      "show": true,
+      "sourceUrl": "http://wiki.mhxg.org/ida/324593.html",
+      "evidenceUrls": [
+        "http://wiki.mhxg.org/ida/324586.html",
+        "http://wiki.mhxg.org/ida/296097.html",
+        "https://w.atwiki.jp/mhxxnyanter/pages/20.html"
+      ],
+      "reason": "用途が確認された特別な機能用アイテムの入手経路。施設そのものの解放ではない。"
+    },
+    {
+      "questId": "event-g-recipe-336954",
+      "name": "名探偵コナン・砂漠の逮捕劇！",
+      "label": "犯行の証拠を使う装備の生産・強化",
+      "classification": "recipe_material",
+      "show": true,
+      "sourceUrl": "http://wiki.mhxg.org/ida/336954.html",
+      "evidenceUrls": [
+        "http://wiki.mhxg.org/ida/326050.html"
+      ],
+      "reason": "イベント固有素材から具体的な装備の生産・強化先を確認。素材と製法フラグは区別する。"
+    },
+    {
+      "questId": "event-g-recipe-338409",
+      "name": "キングダム・大陸最強決定戦！",
+      "label": "飛信隊の証を使う装備の生産・強化",
+      "classification": "recipe_material",
+      "show": true,
+      "sourceUrl": "http://wiki.mhxg.org/ida/338409.html",
+      "evidenceUrls": [
+        "http://wiki.mhxg.org/ida/326052.html"
+      ],
+      "reason": "イベント固有素材から具体的な装備の生産・強化先を確認。素材と製法フラグは区別する。"
+    },
+    {
+      "questId": "event-g-recipe-338410",
+      "name": "ドリフターズ・孤島の漂流者",
+      "label": "タイ捨流奥義書を使う装備の生産・強化",
+      "classification": "recipe_material",
+      "show": true,
+      "sourceUrl": "http://wiki.mhxg.org/ida/338410.html",
+      "evidenceUrls": [
+        "http://wiki.mhxg.org/ida/326048.html"
+      ],
+      "reason": "イベント固有素材から具体的な装備の生産・強化先を確認。素材と製法フラグは区別する。"
+    },
+    {
+      "questId": "event-g-recipe-347854",
+      "name": "老山龍、侵攻中！",
+      "label": "EX老山龍チケットSを使う装備の生産・強化",
+      "classification": "recipe_material",
+      "show": true,
+      "sourceUrl": "http://wiki.mhxg.org/ida/347854.html",
+      "evidenceUrls": [
+        "http://wiki.mhxg.org/ida/296011.html"
+      ],
+      "reason": "イベント固有素材から具体的な装備の生産・強化先を確認。素材と製法フラグは区別する。"
+    },
+    {
+      "questId": "event-g-recipe-341373",
+      "name": "マガジン・星降る翼の夜想曲",
+      "label": "魔法源解放鍵を使う装備の生産・強化",
+      "classification": "recipe_material",
+      "show": true,
+      "sourceUrl": "http://wiki.mhxg.org/ida/341373.html",
+      "evidenceUrls": [
+        "http://wiki.mhxg.org/ida/326053.html"
+      ],
+      "reason": "イベント固有素材から具体的な装備の生産・強化先を確認。素材と製法フラグは区別する。"
+    },
+    {
+      "questId": "event-g-recipe-353121",
+      "name": "牙狼・闇に堕ちし呀",
+      "label": "ザルバのかけらを使う装備の生産・強化",
+      "classification": "recipe_material",
+      "show": true,
+      "sourceUrl": "http://wiki.mhxg.org/ida/353121.html",
+      "evidenceUrls": [
+        "http://wiki.mhxg.org/ida/326041.html"
+      ],
+      "reason": "イベント固有素材から具体的な装備の生産・強化先を確認。素材と製法フラグは区別する。"
+    },
+    {
+      "questId": "event-g-recipe-353155",
+      "name": "ハンター×ハンター・最終試験",
+      "label": "ハンター認定書を使う装備の生産・強化",
+      "classification": "recipe_material",
+      "show": true,
+      "sourceUrl": "http://wiki.mhxg.org/ida/353155.html",
+      "evidenceUrls": [
+        "http://wiki.mhxg.org/ida/326051.html"
+      ],
+      "reason": "イベント固有素材から具体的な装備の生産・強化先を確認。素材と製法フラグは区別する。"
+    },
+    {
+      "questId": "event-g-recipe-353332",
+      "name": "モンハン部・熱血昇段試験",
+      "label": "モンハン部昇段書を使う装備の生産・強化",
+      "classification": "recipe_material",
+      "show": true,
+      "sourceUrl": "http://wiki.mhxg.org/ida/353332.html",
+      "evidenceUrls": [
+        "http://wiki.mhxg.org/ida/326054.html"
+      ],
+      "reason": "イベント固有素材から具体的な装備の生産・強化先を確認。素材と製法フラグは区別する。"
+    },
+    {
+      "questId": "event-g-recipe-353502",
+      "name": "伝説との戦い",
+      "label": "EX黒龍チケット・紅を使う装備の生産・強化",
+      "classification": "recipe_material",
+      "show": true,
+      "sourceUrl": "http://wiki.mhxg.org/ida/353502.html",
+      "evidenceUrls": [
+        "http://wiki.mhxg.org/ida/296009.html"
+      ],
+      "reason": "イベント固有素材から具体的な装備の生産・強化先を確認。素材と製法フラグは区別する。"
+    },
+    {
+      "questId": "event-g-recipe-353587",
+      "name": "滅びの伝説に挑みし者",
+      "label": "EX黒龍チケット・白を使う装備の生産・強化",
+      "classification": "recipe_material",
+      "show": true,
+      "sourceUrl": "http://wiki.mhxg.org/ida/353587.html",
+      "evidenceUrls": [
+        "http://wiki.mhxg.org/ida/296008.html"
+      ],
+      "reason": "イベント固有素材から具体的な装備の生産・強化先を確認。素材と製法フラグは区別する。"
+    },
+    {
+      "questId": "event-g-recipe-341371",
+      "name": "ゼルダの伝説・勇気の試練",
+      "label": "ゼルダチケットGを使う装備の生産・強化",
+      "classification": "recipe_material",
+      "show": true,
+      "sourceUrl": "http://wiki.mhxg.org/ida/341371.html",
+      "evidenceUrls": [
+        "http://wiki.mhxg.org/ida/326046.html"
+      ],
+      "reason": "イベント固有素材から具体的な装備の生産・強化先を確認。素材と製法フラグは区別する。"
+    },
+    {
+      "questId": "event-g-recipe-341372",
+      "name": "ゼルダの伝説・知恵の試練",
+      "label": "ゼルダチケットNを使う装備の生産・強化",
+      "classification": "recipe_material",
+      "show": true,
+      "sourceUrl": "http://wiki.mhxg.org/ida/341372.html",
+      "evidenceUrls": [
+        "http://wiki.mhxg.org/ida/326045.html",
+        "http://wiki.mhxg.org/ida/296097.html",
+        "https://w.atwiki.jp/mhxxnyanter/pages/20.html"
+      ],
+      "reason": "イベント固有素材から具体的な装備の生産・強化先を確認。素材と製法フラグは区別する。"
+    },
+    {
+      "questId": "event-g-recipe-341372",
+      "name": "ゼルダの伝説・知恵の試練",
+      "label": "ネコ記憶の秘伝書（オトモのサポート・スキル変更用アイテム）",
+      "classification": "special_item",
+      "show": true,
+      "sourceUrl": "http://wiki.mhxg.org/ida/341372.html",
+      "evidenceUrls": [
+        "http://wiki.mhxg.org/ida/326045.html",
+        "http://wiki.mhxg.org/ida/296097.html",
+        "https://w.atwiki.jp/mhxxnyanter/pages/20.html"
+      ],
+      "reason": "用途が確認された特別な機能用アイテムの入手経路。施設そのものの解放ではない。"
+    },
+    {
+      "questId": "event-g-recipe-353117",
+      "name": "USJ・霊峰に吹き荒れる嵐",
+      "label": "スタジオXXパスを使う装備の生産・強化",
+      "classification": "recipe_material",
+      "show": true,
+      "sourceUrl": "http://wiki.mhxg.org/ida/353117.html",
+      "evidenceUrls": [
+        "http://wiki.mhxg.org/ida/326044.html"
+      ],
+      "reason": "イベント固有素材から具体的な装備の生産・強化先を確認。素材と製法フラグは区別する。"
+    },
+    {
+      "questId": "event-g-recipe-353118",
+      "name": "USJ・乱れ荒れ暴れ狂う角",
+      "label": "スタジオNパスを使う装備の生産・強化",
+      "classification": "recipe_material",
+      "show": true,
+      "sourceUrl": "http://wiki.mhxg.org/ida/353118.html",
+      "evidenceUrls": [
+        "http://wiki.mhxg.org/ida/326043.html",
+        "http://wiki.mhxg.org/ida/296097.html",
+        "https://w.atwiki.jp/mhxxnyanter/pages/20.html"
+      ],
+      "reason": "イベント固有素材から具体的な装備の生産・強化先を確認。素材と製法フラグは区別する。"
+    },
+    {
+      "questId": "event-g-recipe-353118",
+      "name": "USJ・乱れ荒れ暴れ狂う角",
+      "label": "ネコ記憶の秘伝書（オトモのサポート・スキル変更用アイテム）",
+      "classification": "special_item",
+      "show": true,
+      "sourceUrl": "http://wiki.mhxg.org/ida/353118.html",
+      "evidenceUrls": [
+        "http://wiki.mhxg.org/ida/326043.html",
+        "http://wiki.mhxg.org/ida/296097.html",
+        "https://w.atwiki.jp/mhxxnyanter/pages/20.html"
+      ],
+      "reason": "用途が確認された特別な機能用アイテムの入手経路。施設そのものの解放ではない。"
+    },
+    {
+      "questId": "event-g-recipe-353474",
+      "name": "カプコン・見よ！ニャンター魂",
+      "label": "ネコ魂石を使う装備の生産・強化",
+      "classification": "recipe_material",
+      "show": true,
+      "sourceUrl": "http://wiki.mhxg.org/ida/353474.html",
+      "evidenceUrls": [
+        "http://wiki.mhxg.org/ida/326049.html",
+        "http://wiki.mhxg.org/ida/296097.html",
+        "https://w.atwiki.jp/mhxxnyanter/pages/20.html"
+      ],
+      "reason": "イベント固有素材から具体的な装備の生産・強化先を確認。素材と製法フラグは区別する。"
+    },
+    {
+      "questId": "event-g-recipe-353474",
+      "name": "カプコン・見よ！ニャンター魂",
+      "label": "ネコ記憶の秘伝書（オトモのサポート・スキル変更用アイテム）",
+      "classification": "special_item",
+      "show": true,
+      "sourceUrl": "http://wiki.mhxg.org/ida/353474.html",
+      "evidenceUrls": [
+        "http://wiki.mhxg.org/ida/326049.html",
+        "http://wiki.mhxg.org/ida/296097.html",
+        "https://w.atwiki.jp/mhxxnyanter/pages/20.html"
+      ],
+      "reason": "用途が確認された特別な機能用アイテムの入手経路。施設そのものの解放ではない。"
+    },
+    {
       "questId": "event-high-recipe-267301",
       "name": "弱虫ペダル・ヒーメヒメヒメ！",
       "label": "自転車部入部届を使う装備の生産・強化",

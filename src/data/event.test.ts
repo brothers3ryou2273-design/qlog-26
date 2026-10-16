@@ -9,6 +9,7 @@ import baseline from "../../docs/progress-baseline-1167.json";
 import research from "../../docs/event-research-audit.json";
 import unlockAudit from "../../docs/event-unlock-indicators-audit.json";
 import lowRoster from "../../docs/event-low-observations.json";
+import gRoster from "../../docs/event-g-observations.json";
 import highRoster from "../../docs/event-high-observations.json";
 import type { Quest } from "../lib/types";
 
@@ -31,7 +32,7 @@ type Observation = {
     hrFromDetail: number | null;
   }[];
 };
-const rosters: Observation[] = [lowRoster, highRoster];
+const rosters = [lowRoster, highRoster, gRoster] as Observation[];
 const oldDocs = import.meta.glob<string>("../../docs/*", {
   query: "?raw",
   import: "default",

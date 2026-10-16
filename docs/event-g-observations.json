@@ -1,0 +1,1774 @@
+{
+  "rank": "G級",
+  "sourceUrl": "http://wiki.mhxg.org/data/2033.html",
+  "observedCount": 49,
+  "checkedAt": "2026-10-16",
+  "entries": [
+    {
+      "questId": "event-g-recipe-322465",
+      "name": "逆転裁判・闘技場で法廷バトル",
+      "listName": "逆転裁判・闘技場で法廷バトル",
+      "rank": "G級",
+      "order": 1,
+      "role": "prowler",
+      "tags": [
+        "normal"
+      ],
+      "url": "http://wiki.mhxg.org/ida/322465.html",
+      "listUrl": "http://wiki.mhxg.org/data/2033.html",
+      "icons": [
+        "ニャンター"
+      ],
+      "detailTitle": "イベント★逆転裁判・闘技場で法廷バトル | 【MHXX】モンハンダブルクロス攻略レシピ",
+      "httpStatus": 200,
+      "checkedAt": "2026-10-16",
+      "panels": [
+        {
+          "title": "備考",
+          "text": "HR9以上 2017年3月18日～3月20日 先行配信",
+          "links": []
+        }
+      ],
+      "hrFromDetail": 9,
+      "condition": {
+        "kind": "hr_at_least",
+        "value": 9
+      },
+      "specialMaterialUrls": [
+        "http://wiki.mhxg.org/ida/322458.html"
+      ],
+      "downloadStatus": "historical_source_only_current_availability_unverified",
+      "prerequisiteLinks": [],
+      "nameDifference": false
+    },
+    {
+      "questId": "event-g-recipe-322467",
+      "name": "電撃・迅雷閃く遺群嶺",
+      "listName": "電撃・迅雷閃く遺群嶺",
+      "rank": "G級",
+      "order": 2,
+      "role": "hunter",
+      "tags": [
+        "normal"
+      ],
+      "url": "http://wiki.mhxg.org/ida/322467.html",
+      "listUrl": "http://wiki.mhxg.org/data/2033.html",
+      "icons": [
+        "討伐"
+      ],
+      "detailTitle": "イベント★電撃・迅雷閃く遺群嶺 | 【MHXX】モンハンダブルクロス攻略レシピ",
+      "httpStatus": 200,
+      "checkedAt": "2026-10-16",
+      "panels": [
+        {
+          "title": "備考",
+          "text": "HR9以上 2017年3月31日配信",
+          "links": []
+        }
+      ],
+      "hrFromDetail": 9,
+      "condition": {
+        "kind": "hr_at_least",
+        "value": 9
+      },
+      "specialMaterialUrls": [
+        "http://wiki.mhxg.org/ida/321603.html"
+      ],
+      "downloadStatus": "historical_source_only_current_availability_unverified",
+      "prerequisiteLinks": [],
+      "nameDifference": false
+    },
+    {
+      "questId": "event-g-recipe-322468",
+      "name": "刃牙道・尻尾こそが剣！！！",
+      "listName": "刃牙道・尻尾こそが剣！！！",
+      "rank": "G級",
+      "order": 3,
+      "role": "prowler",
+      "tags": [
+        "normal"
+      ],
+      "url": "http://wiki.mhxg.org/ida/322468.html",
+      "listUrl": "http://wiki.mhxg.org/data/2033.html",
+      "icons": [
+        "ニャンター"
+      ],
+      "detailTitle": "イベント★刃牙道・尻尾こそが剣！！！ | 【MHXX】モンハンダブルクロス攻略レシピ",
+      "httpStatus": 200,
+      "checkedAt": "2026-10-16",
+      "panels": [
+        {
+          "title": "備考",
+          "text": "HR9以上 2017年3月31日配信",
+          "links": []
+        }
+      ],
+      "hrFromDetail": 9,
+      "condition": {
+        "kind": "hr_at_least",
+        "value": 9
+      },
+      "specialMaterialUrls": [
+        "http://wiki.mhxg.org/ida/321506.html"
+      ],
+      "downloadStatus": "historical_source_only_current_availability_unverified",
+      "prerequisiteLinks": [],
+      "nameDifference": false
+    },
+    {
+      "questId": "event-g-recipe-322469",
+      "name": "氷海の大決闘：化け鮫VS鬼蛙",
+      "listName": "氷海の大決闘：化け鮫VS鬼蛙",
+      "rank": "G級",
+      "order": 4,
+      "role": "hunter",
+      "tags": [
+        "normal"
+      ],
+      "url": "http://wiki.mhxg.org/ida/322469.html",
+      "listUrl": "http://wiki.mhxg.org/data/2033.html",
+      "icons": [
+        "狩猟"
+      ],
+      "detailTitle": "イベント★氷海の大決闘：化け鮫VS鬼蛙 | 【MHXX】モンハンダブルクロス攻略レシピ",
+      "httpStatus": 200,
+      "checkedAt": "2026-10-16",
+      "panels": [
+        {
+          "title": "備考",
+          "text": "HR9以上 2017年3月24日配信",
+          "links": []
+        }
+      ],
+      "hrFromDetail": 9,
+      "condition": {
+        "kind": "hr_at_least",
+        "value": 9
+      },
+      "specialMaterialUrls": [],
+      "downloadStatus": "historical_source_only_current_availability_unverified",
+      "prerequisiteLinks": [],
+      "nameDifference": false
+    },
+    {
+      "questId": "event-g-recipe-322470",
+      "name": "消しても消えない状態異常！？",
+      "listName": "消しても消えない状態異常！？",
+      "rank": "G級",
+      "order": 5,
+      "role": "hunter",
+      "tags": [
+        "normal"
+      ],
+      "url": "http://wiki.mhxg.org/ida/322470.html",
+      "listUrl": "http://wiki.mhxg.org/data/2033.html",
+      "icons": [
+        "狩猟"
+      ],
+      "detailTitle": "イベント★消しても消えない状態異常！？ | 【MHXX】モンハンダブルクロス攻略レシピ",
+      "httpStatus": 200,
+      "checkedAt": "2026-10-16",
+      "panels": [
+        {
+          "title": "備考",
+          "text": "HR9以上 2017年4月7日配信",
+          "links": []
+        }
+      ],
+      "hrFromDetail": 9,
+      "condition": {
+        "kind": "hr_at_least",
+        "value": 9
+      },
+      "specialMaterialUrls": [],
+      "downloadStatus": "historical_source_only_current_availability_unverified",
+      "prerequisiteLinks": [],
+      "nameDifference": false
+    },
+    {
+      "questId": "event-g-recipe-322471",
+      "name": "WORST・セニドクロ",
+      "listName": "WORST・セニドクロ",
+      "rank": "G級",
+      "order": 6,
+      "role": "prowler",
+      "tags": [
+        "normal"
+      ],
+      "url": "http://wiki.mhxg.org/ida/322471.html",
+      "listUrl": "http://wiki.mhxg.org/data/2033.html",
+      "icons": [
+        "ニャンター"
+      ],
+      "detailTitle": "イベント★WORST・セニドクロ | 【MHXX】モンハンダブルクロス攻略レシピ",
+      "httpStatus": 200,
+      "checkedAt": "2026-10-16",
+      "panels": [
+        {
+          "title": "備考",
+          "text": "HR9以上 2017年4月7日配信",
+          "links": []
+        }
+      ],
+      "hrFromDetail": 9,
+      "condition": {
+        "kind": "hr_at_least",
+        "value": 9
+      },
+      "specialMaterialUrls": [
+        "http://wiki.mhxg.org/ida/322460.html"
+      ],
+      "downloadStatus": "historical_source_only_current_availability_unverified",
+      "prerequisiteLinks": [],
+      "nameDifference": false
+    },
+    {
+      "questId": "event-g-recipe-324591",
+      "name": "ファミ通・奇猿狐に突撃取材！",
+      "listName": "ファミ通・奇猿狐に突撃取材！",
+      "rank": "G級",
+      "order": 7,
+      "role": "hunter",
+      "tags": [
+        "normal"
+      ],
+      "url": "http://wiki.mhxg.org/ida/324591.html",
+      "listUrl": "http://wiki.mhxg.org/data/2033.html",
+      "icons": [
+        "狩猟"
+      ],
+      "detailTitle": "イベント★ファミ通・奇猿狐に突撃取材！ | 【MHXX】モンハンダブルクロス攻略レシピ",
+      "httpStatus": 200,
+      "checkedAt": "2026-10-16",
+      "panels": [
+        {
+          "title": "備考",
+          "text": "HR9以上 2017年4月14日配信",
+          "links": []
+        }
+      ],
+      "hrFromDetail": 9,
+      "condition": {
+        "kind": "hr_at_least",
+        "value": 9
+      },
+      "specialMaterialUrls": [
+        "http://wiki.mhxg.org/ida/324585.html"
+      ],
+      "downloadStatus": "historical_source_only_current_availability_unverified",
+      "prerequisiteLinks": [],
+      "nameDifference": false
+    },
+    {
+      "questId": "event-g-recipe-324593",
+      "name": "コロコロ・キケンな屁をこく獣",
+      "listName": "コロコロ・キケンな屁をこく獣",
+      "rank": "G級",
+      "order": 8,
+      "role": "prowler",
+      "tags": [
+        "normal"
+      ],
+      "url": "http://wiki.mhxg.org/ida/324593.html",
+      "listUrl": "http://wiki.mhxg.org/data/2033.html",
+      "icons": [
+        "ニャンター"
+      ],
+      "detailTitle": "イベント★コロコロ・キケンな屁をこく獣 | 【MHXX】モンハンダブルクロス攻略レシピ",
+      "httpStatus": 200,
+      "checkedAt": "2026-10-16",
+      "panels": [
+        {
+          "title": "備考",
+          "text": "HR9以上 2017年4月14日配信",
+          "links": []
+        }
+      ],
+      "hrFromDetail": 9,
+      "condition": {
+        "kind": "hr_at_least",
+        "value": 9
+      },
+      "specialMaterialUrls": [
+        "http://wiki.mhxg.org/ida/324586.html"
+      ],
+      "downloadStatus": "historical_source_only_current_availability_unverified",
+      "prerequisiteLinks": [],
+      "nameDifference": false
+    },
+    {
+      "questId": "event-g-recipe-336954",
+      "name": "名探偵コナン・砂漠の逮捕劇！",
+      "listName": "名探偵コナン・砂漠の逮捕劇！",
+      "rank": "G級",
+      "order": 9,
+      "role": "hunter",
+      "tags": [
+        "normal"
+      ],
+      "url": "http://wiki.mhxg.org/ida/336954.html",
+      "listUrl": "http://wiki.mhxg.org/data/2033.html",
+      "icons": [
+        "捕獲"
+      ],
+      "detailTitle": "イベント★名探偵コナン・砂漠の逮捕劇！ | 【MHXX】モンハンダブルクロス攻略レシピ",
+      "httpStatus": 200,
+      "checkedAt": "2026-10-16",
+      "panels": [
+        {
+          "title": "備考",
+          "text": "HR9以上 2017年4月19日配信",
+          "links": []
+        }
+      ],
+      "hrFromDetail": 9,
+      "condition": {
+        "kind": "hr_at_least",
+        "value": 9
+      },
+      "specialMaterialUrls": [
+        "http://wiki.mhxg.org/ida/326050.html"
+      ],
+      "downloadStatus": "historical_source_only_current_availability_unverified",
+      "prerequisiteLinks": [],
+      "nameDifference": false
+    },
+    {
+      "questId": "event-g-recipe-336957",
+      "name": "雪山に咲け、恋の花",
+      "listName": "雪山に咲け、恋の花",
+      "rank": "G級",
+      "order": 10,
+      "role": "hunter",
+      "tags": [
+        "normal"
+      ],
+      "url": "http://wiki.mhxg.org/ida/336957.html",
+      "listUrl": "http://wiki.mhxg.org/data/2033.html",
+      "icons": [
+        "狩猟"
+      ],
+      "detailTitle": "イベント★雪山に咲け、恋の花 | 【MHXX】モンハンダブルクロス攻略レシピ",
+      "httpStatus": 200,
+      "checkedAt": "2026-10-16",
+      "panels": [
+        {
+          "title": "備考",
+          "text": "HR9以上 2017年4月21日配信",
+          "links": []
+        }
+      ],
+      "hrFromDetail": 9,
+      "condition": {
+        "kind": "hr_at_least",
+        "value": 9
+      },
+      "specialMaterialUrls": [],
+      "downloadStatus": "historical_source_only_current_availability_unverified",
+      "prerequisiteLinks": [],
+      "nameDifference": false
+    },
+    {
+      "questId": "event-g-recipe-341276",
+      "name": "急募・炭鉱採掘求ム",
+      "listName": "急募・炭鉱採掘求ム",
+      "rank": "G級",
+      "order": 11,
+      "role": "hunter",
+      "tags": [
+        "normal"
+      ],
+      "url": "http://wiki.mhxg.org/ida/341276.html",
+      "listUrl": "http://wiki.mhxg.org/data/2033.html",
+      "icons": [
+        "採集"
+      ],
+      "detailTitle": "イベント★急募・炭鉱採掘求ム | 【MHXX】モンハンダブルクロス攻略レシピ",
+      "httpStatus": 200,
+      "checkedAt": "2026-10-16",
+      "panels": [
+        {
+          "title": "備考",
+          "text": "HR13以上 2017年4月24日配信",
+          "links": []
+        }
+      ],
+      "hrFromDetail": 13,
+      "condition": {
+        "kind": "hr_at_least",
+        "value": 13
+      },
+      "specialMaterialUrls": [],
+      "downloadStatus": "historical_source_only_current_availability_unverified",
+      "prerequisiteLinks": [],
+      "nameDifference": false
+    },
+    {
+      "questId": "event-g-recipe-338409",
+      "name": "キングダム・大陸最強決定戦！",
+      "listName": "キングダム・大陸最強決定戦！",
+      "rank": "G級",
+      "order": 12,
+      "role": "hunter",
+      "tags": [
+        "normal"
+      ],
+      "url": "http://wiki.mhxg.org/ida/338409.html",
+      "listUrl": "http://wiki.mhxg.org/data/2033.html",
+      "icons": [
+        "狩猟"
+      ],
+      "detailTitle": "イベント★キングダム・大陸最強決定戦！ | 【MHXX】モンハンダブルクロス攻略レシピ",
+      "httpStatus": 200,
+      "checkedAt": "2026-10-16",
+      "panels": [
+        {
+          "title": "備考",
+          "text": "HR9以上 2017年4月27日配信",
+          "links": []
+        }
+      ],
+      "hrFromDetail": 9,
+      "condition": {
+        "kind": "hr_at_least",
+        "value": 9
+      },
+      "specialMaterialUrls": [
+        "http://wiki.mhxg.org/ida/326052.html"
+      ],
+      "downloadStatus": "historical_source_only_current_availability_unverified",
+      "prerequisiteLinks": [],
+      "nameDifference": false
+    },
+    {
+      "questId": "event-g-recipe-338410",
+      "name": "ドリフターズ・孤島の漂流者",
+      "listName": "ドリフターズ・孤島の漂流者",
+      "rank": "G級",
+      "order": 13,
+      "role": "hunter",
+      "tags": [
+        "normal"
+      ],
+      "url": "http://wiki.mhxg.org/ida/338410.html",
+      "listUrl": "http://wiki.mhxg.org/data/2033.html",
+      "icons": [
+        "狩猟"
+      ],
+      "detailTitle": "イベント★ドリフターズ・孤島の漂流者 | 【MHXX】モンハンダブルクロス攻略レシピ",
+      "httpStatus": 200,
+      "checkedAt": "2026-10-16",
+      "panels": [
+        {
+          "title": "備考",
+          "text": "HR9以上 弾・ビンポーチ以外持込不可 2017年4月28日配信",
+          "links": []
+        }
+      ],
+      "hrFromDetail": 9,
+      "condition": {
+        "kind": "all",
+        "rules": [
+          {
+            "kind": "hr_at_least",
+            "value": 9
+          },
+          {
+            "kind": "external_flag",
+            "label": "弾・ビンポーチ以外のアイテムは持込不可（所持品はこのアプリでは判定しません）"
+          }
+        ]
+      },
+      "specialMaterialUrls": [
+        "http://wiki.mhxg.org/ida/326048.html"
+      ],
+      "downloadStatus": "historical_source_only_current_availability_unverified",
+      "prerequisiteLinks": [],
+      "nameDifference": false
+    },
+    {
+      "questId": "event-g-recipe-347854",
+      "name": "老山龍、侵攻中！",
+      "listName": "老山龍、侵攻中！",
+      "rank": "G級",
+      "order": 14,
+      "role": "hunter",
+      "tags": [
+        "normal"
+      ],
+      "url": "http://wiki.mhxg.org/ida/347854.html",
+      "listUrl": "http://wiki.mhxg.org/data/2033.html",
+      "icons": [
+        "特殊"
+      ],
+      "detailTitle": "イベント★老山龍、侵攻中！ | 【MHXX】モンハンダブルクロス攻略レシピ",
+      "httpStatus": 200,
+      "checkedAt": "2026-10-16",
+      "panels": [
+        {
+          "title": "備考",
+          "text": "HR13以上 2017年5月1日配信",
+          "links": []
+        }
+      ],
+      "hrFromDetail": 13,
+      "condition": {
+        "kind": "hr_at_least",
+        "value": 13
+      },
+      "specialMaterialUrls": [
+        "http://wiki.mhxg.org/ida/296011.html"
+      ],
+      "downloadStatus": "historical_source_only_current_availability_unverified",
+      "prerequisiteLinks": [],
+      "nameDifference": false
+    },
+    {
+      "questId": "event-g-recipe-341373",
+      "name": "マガジン・星降る翼の夜想曲",
+      "listName": "マガジン・星降る翼の夜想曲",
+      "rank": "G級",
+      "order": 15,
+      "role": "hunter",
+      "tags": [
+        "normal"
+      ],
+      "url": "http://wiki.mhxg.org/ida/341373.html",
+      "listUrl": "http://wiki.mhxg.org/data/2033.html",
+      "icons": [
+        "狩猟"
+      ],
+      "detailTitle": "イベント★マガジン・星降る翼の夜想曲 | 【MHXX】モンハンダブルクロス攻略レシピ",
+      "httpStatus": 200,
+      "checkedAt": "2026-10-16",
+      "panels": [
+        {
+          "title": "備考",
+          "text": "HR9以上 2017年5月3日配信",
+          "links": []
+        }
+      ],
+      "hrFromDetail": 9,
+      "condition": {
+        "kind": "hr_at_least",
+        "value": 9
+      },
+      "specialMaterialUrls": [
+        "http://wiki.mhxg.org/ida/326053.html"
+      ],
+      "downloadStatus": "historical_source_only_current_availability_unverified",
+      "prerequisiteLinks": [],
+      "nameDifference": false
+    },
+    {
+      "questId": "event-g-recipe-341374",
+      "name": "岩の如き硬い鎧",
+      "listName": "岩の如き硬い鎧",
+      "rank": "G級",
+      "order": 16,
+      "role": "hunter",
+      "tags": [
+        "normal"
+      ],
+      "url": "http://wiki.mhxg.org/ida/341374.html",
+      "listUrl": "http://wiki.mhxg.org/data/2033.html",
+      "icons": [
+        "狩猟"
+      ],
+      "detailTitle": "イベント★岩の如き硬い鎧 | 【MHXX】モンハンダブルクロス攻略レシピ",
+      "httpStatus": 200,
+      "checkedAt": "2026-10-16",
+      "panels": [
+        {
+          "title": "備考",
+          "text": "HR9以上 2017年5月12日配信",
+          "links": []
+        }
+      ],
+      "hrFromDetail": 9,
+      "condition": {
+        "kind": "hr_at_least",
+        "value": 9
+      },
+      "specialMaterialUrls": [],
+      "downloadStatus": "historical_source_only_current_availability_unverified",
+      "prerequisiteLinks": [],
+      "nameDifference": false
+    },
+    {
+      "questId": "event-g-recipe-353121",
+      "name": "牙狼・闇に堕ちし呀",
+      "listName": "牙狼・闇に堕ちし呀",
+      "rank": "G級",
+      "order": 17,
+      "role": "hunter",
+      "tags": [
+        "normal"
+      ],
+      "url": "http://wiki.mhxg.org/ida/353121.html",
+      "listUrl": "http://wiki.mhxg.org/data/2033.html",
+      "icons": [
+        "狩猟"
+      ],
+      "detailTitle": "イベント★牙狼・闇に堕ちし呀 | 【MHXX】モンハンダブルクロス攻略レシピ",
+      "httpStatus": 200,
+      "checkedAt": "2026-10-16",
+      "panels": [
+        {
+          "title": "備考",
+          "text": "HR13以上 2017年5月19日配信",
+          "links": []
+        }
+      ],
+      "hrFromDetail": 13,
+      "condition": {
+        "kind": "hr_at_least",
+        "value": 13
+      },
+      "specialMaterialUrls": [
+        "http://wiki.mhxg.org/ida/326041.html"
+      ],
+      "downloadStatus": "historical_source_only_current_availability_unverified",
+      "prerequisiteLinks": [],
+      "nameDifference": false
+    },
+    {
+      "questId": "event-g-recipe-353122",
+      "name": "飢え渇き生態を蹂躙す",
+      "listName": "飢え渇き生態を蹂躙す",
+      "rank": "G級",
+      "order": 18,
+      "role": "hunter",
+      "tags": [
+        "normal"
+      ],
+      "url": "http://wiki.mhxg.org/ida/353122.html",
+      "listUrl": "http://wiki.mhxg.org/data/2033.html",
+      "icons": [
+        "狩猟"
+      ],
+      "detailTitle": "イベント★飢え渇き生態を蹂躙す | 【MHXX】モンハンダブルクロス攻略レシピ",
+      "httpStatus": 200,
+      "checkedAt": "2026-10-16",
+      "panels": [
+        {
+          "title": "備考",
+          "text": "HR13以上 2017年5月19日配信",
+          "links": []
+        }
+      ],
+      "hrFromDetail": 13,
+      "condition": {
+        "kind": "hr_at_least",
+        "value": 13
+      },
+      "specialMaterialUrls": [],
+      "downloadStatus": "historical_source_only_current_availability_unverified",
+      "prerequisiteLinks": [],
+      "nameDifference": false
+    },
+    {
+      "questId": "event-g-recipe-353218",
+      "name": "４本の角",
+      "listName": "４本の角",
+      "rank": "G級",
+      "order": 19,
+      "role": "hunter",
+      "tags": [
+        "normal"
+      ],
+      "url": "http://wiki.mhxg.org/ida/353218.html",
+      "listUrl": "http://wiki.mhxg.org/data/2033.html",
+      "icons": [
+        "狩猟"
+      ],
+      "detailTitle": "イベント★４本の角 | 【MHXX】モンハンダブルクロス攻略レシピ",
+      "httpStatus": 200,
+      "checkedAt": "2026-10-16",
+      "panels": [
+        {
+          "title": "備考",
+          "text": "HR9以上 2017年5月22日配信",
+          "links": []
+        }
+      ],
+      "hrFromDetail": 9,
+      "condition": {
+        "kind": "hr_at_least",
+        "value": 9
+      },
+      "specialMaterialUrls": [],
+      "downloadStatus": "historical_source_only_current_availability_unverified",
+      "prerequisiteLinks": [],
+      "nameDifference": false
+    },
+    {
+      "questId": "event-g-recipe-353155",
+      "name": "ハンター×ハンター・最終試験",
+      "listName": "ハンター×ハンター・最終試験",
+      "rank": "G級",
+      "order": 20,
+      "role": "hunter",
+      "tags": [
+        "normal"
+      ],
+      "url": "http://wiki.mhxg.org/ida/353155.html",
+      "listUrl": "http://wiki.mhxg.org/data/2033.html",
+      "icons": [
+        "狩猟"
+      ],
+      "detailTitle": "イベント★ハンター×ハンター・最終試験 | 【MHXX】モンハンダブルクロス攻略レシピ",
+      "httpStatus": 200,
+      "checkedAt": "2026-10-16",
+      "panels": [
+        {
+          "title": "備考",
+          "text": "HR9以上 2017年5月26日配信",
+          "links": []
+        }
+      ],
+      "hrFromDetail": 9,
+      "condition": {
+        "kind": "hr_at_least",
+        "value": 9
+      },
+      "specialMaterialUrls": [
+        "http://wiki.mhxg.org/ida/326051.html"
+      ],
+      "downloadStatus": "historical_source_only_current_availability_unverified",
+      "prerequisiteLinks": [],
+      "nameDifference": false
+    },
+    {
+      "questId": "event-g-recipe-353156",
+      "name": "哭き呻くもの",
+      "listName": "哭き呻くもの",
+      "rank": "G級",
+      "order": 21,
+      "role": "hunter",
+      "tags": [
+        "normal"
+      ],
+      "url": "http://wiki.mhxg.org/ida/353156.html",
+      "listUrl": "http://wiki.mhxg.org/data/2033.html",
+      "icons": [
+        "狩猟"
+      ],
+      "detailTitle": "イベント★哭き呻くもの | 【MHXX】モンハンダブルクロス攻略レシピ",
+      "httpStatus": 200,
+      "checkedAt": "2026-10-16",
+      "panels": [
+        {
+          "title": "備考",
+          "text": "HR13以上 2017年5月26日配信",
+          "links": []
+        }
+      ],
+      "hrFromDetail": 13,
+      "condition": {
+        "kind": "hr_at_least",
+        "value": 13
+      },
+      "specialMaterialUrls": [],
+      "downloadStatus": "historical_source_only_current_availability_unverified",
+      "prerequisiteLinks": [],
+      "nameDifference": false
+    },
+    {
+      "questId": "event-g-recipe-353157",
+      "name": "影蜘蛛ハンティング！",
+      "listName": "影蜘蛛ハンティング！",
+      "rank": "G級",
+      "order": 22,
+      "role": "hunter",
+      "tags": [
+        "normal"
+      ],
+      "url": "http://wiki.mhxg.org/ida/353157.html",
+      "listUrl": "http://wiki.mhxg.org/data/2033.html",
+      "icons": [
+        "狩猟"
+      ],
+      "detailTitle": "イベント★影蜘蛛ハンティング！ | 【MHXX】モンハンダブルクロス攻略レシピ",
+      "httpStatus": 200,
+      "checkedAt": "2026-10-16",
+      "panels": [
+        {
+          "title": "備考",
+          "text": "HR9以上 2017年5月26日配信",
+          "links": []
+        }
+      ],
+      "hrFromDetail": 9,
+      "condition": {
+        "kind": "hr_at_least",
+        "value": 9
+      },
+      "specialMaterialUrls": [],
+      "downloadStatus": "historical_source_only_current_availability_unverified",
+      "prerequisiteLinks": [],
+      "nameDifference": false
+    },
+    {
+      "questId": "event-g-recipe-353219",
+      "name": "黒き伝説との対峙",
+      "listName": "黒き伝説との対峙",
+      "rank": "G級",
+      "order": 23,
+      "role": "hunter",
+      "tags": [
+        "normal"
+      ],
+      "url": "http://wiki.mhxg.org/ida/353219.html",
+      "listUrl": "http://wiki.mhxg.org/data/2033.html",
+      "icons": [
+        "特殊"
+      ],
+      "detailTitle": "イベント★黒き伝説との対峙 | 【MHXX】モンハンダブルクロス攻略レシピ",
+      "httpStatus": 200,
+      "checkedAt": "2026-10-16",
+      "panels": [
+        {
+          "title": "備考",
+          "text": "HR13以上 2017年6月2日配信",
+          "links": []
+        }
+      ],
+      "hrFromDetail": 13,
+      "condition": {
+        "kind": "hr_at_least",
+        "value": 13
+      },
+      "specialMaterialUrls": [],
+      "downloadStatus": "historical_source_only_current_availability_unverified",
+      "prerequisiteLinks": [],
+      "nameDifference": false
+    },
+    {
+      "questId": "event-g-recipe-353332",
+      "name": "モンハン部・熱血昇段試験",
+      "listName": "モンハン部・熱血昇段試験",
+      "rank": "G級",
+      "order": 24,
+      "role": "hunter",
+      "tags": [
+        "normal"
+      ],
+      "url": "http://wiki.mhxg.org/ida/353332.html",
+      "listUrl": "http://wiki.mhxg.org/data/2033.html",
+      "icons": [
+        "狩猟"
+      ],
+      "detailTitle": "イベント★モンハン部・熱血昇段試験 | 【MHXX】モンハンダブルクロス攻略レシピ",
+      "httpStatus": 200,
+      "checkedAt": "2026-10-16",
+      "panels": [
+        {
+          "title": "備考",
+          "text": "HR9以上 2017年6月2日配信",
+          "links": []
+        }
+      ],
+      "hrFromDetail": 9,
+      "condition": {
+        "kind": "hr_at_least",
+        "value": 9
+      },
+      "specialMaterialUrls": [
+        "http://wiki.mhxg.org/ida/326054.html"
+      ],
+      "downloadStatus": "historical_source_only_current_availability_unverified",
+      "prerequisiteLinks": [],
+      "nameDifference": false
+    },
+    {
+      "questId": "event-g-recipe-353333",
+      "name": "夜空照らすは偽りの月陽",
+      "listName": "夜空照らすは偽りの月陽",
+      "rank": "G級",
+      "order": 25,
+      "role": "hunter",
+      "tags": [
+        "normal"
+      ],
+      "url": "http://wiki.mhxg.org/ida/353333.html",
+      "listUrl": "http://wiki.mhxg.org/data/2033.html",
+      "icons": [
+        "狩猟"
+      ],
+      "detailTitle": "イベント★夜空照らすは偽りの月陽 | 【MHXX】モンハンダブルクロス攻略レシピ",
+      "httpStatus": 200,
+      "checkedAt": "2026-10-16",
+      "panels": [
+        {
+          "title": "備考",
+          "text": "HR13以上 2017年6月9日配信",
+          "links": []
+        }
+      ],
+      "hrFromDetail": 13,
+      "condition": {
+        "kind": "hr_at_least",
+        "value": 13
+      },
+      "specialMaterialUrls": [],
+      "downloadStatus": "historical_source_only_current_availability_unverified",
+      "prerequisiteLinks": [],
+      "nameDifference": false
+    },
+    {
+      "questId": "event-g-recipe-353398",
+      "name": "怒髪天を貫き何処へ往く",
+      "listName": "怒髪天を貫き何処へ往く",
+      "rank": "G級",
+      "order": 26,
+      "role": "hunter",
+      "tags": [
+        "normal"
+      ],
+      "url": "http://wiki.mhxg.org/ida/353398.html",
+      "listUrl": "http://wiki.mhxg.org/data/2033.html",
+      "icons": [
+        "討伐"
+      ],
+      "detailTitle": "イベント★怒髪天を貫き何処へ往く | 【MHXX】モンハンダブルクロス攻略レシピ",
+      "httpStatus": 200,
+      "checkedAt": "2026-10-16",
+      "panels": [
+        {
+          "title": "備考",
+          "text": "HR13以上 2017年6月16日配信",
+          "links": []
+        }
+      ],
+      "hrFromDetail": 13,
+      "condition": {
+        "kind": "hr_at_least",
+        "value": 13
+      },
+      "specialMaterialUrls": [],
+      "downloadStatus": "historical_source_only_current_availability_unverified",
+      "prerequisiteLinks": [],
+      "nameDifference": false
+    },
+    {
+      "questId": "event-g-recipe-353421",
+      "name": "ナイショの霞龍",
+      "listName": "ナイショの霞龍",
+      "rank": "G級",
+      "order": 27,
+      "role": "hunter",
+      "tags": [
+        "normal"
+      ],
+      "url": "http://wiki.mhxg.org/ida/353421.html",
+      "listUrl": "http://wiki.mhxg.org/data/2033.html",
+      "icons": [
+        "討伐"
+      ],
+      "detailTitle": "イベント★ナイショの霞龍 | 【MHXX】モンハンダブルクロス攻略レシピ",
+      "httpStatus": 200,
+      "checkedAt": "2026-10-16",
+      "panels": [
+        {
+          "title": "備考",
+          "text": "HR13以上 2017年6月23日配信",
+          "links": []
+        }
+      ],
+      "hrFromDetail": 13,
+      "condition": {
+        "kind": "hr_at_least",
+        "value": 13
+      },
+      "specialMaterialUrls": [],
+      "downloadStatus": "historical_source_only_current_availability_unverified",
+      "prerequisiteLinks": [],
+      "nameDifference": false
+    },
+    {
+      "questId": "event-g-recipe-353440",
+      "name": "覇竜との聖戦さ…",
+      "listName": "覇竜との聖戦さ…",
+      "rank": "G級",
+      "order": 28,
+      "role": "hunter",
+      "tags": [
+        "normal"
+      ],
+      "url": "http://wiki.mhxg.org/ida/353440.html",
+      "listUrl": "http://wiki.mhxg.org/data/2033.html",
+      "icons": [
+        "特殊"
+      ],
+      "detailTitle": "イベント★覇竜との聖戦さ… | 【MHXX】モンハンダブルクロス攻略レシピ",
+      "httpStatus": 200,
+      "checkedAt": "2026-10-16",
+      "panels": [
+        {
+          "title": "備考",
+          "text": "HR13以上 2017年6月30日配信",
+          "links": []
+        }
+      ],
+      "hrFromDetail": 13,
+      "condition": {
+        "kind": "hr_at_least",
+        "value": 13
+      },
+      "specialMaterialUrls": [],
+      "downloadStatus": "historical_source_only_current_availability_unverified",
+      "prerequisiteLinks": [],
+      "nameDifference": false
+    },
+    {
+      "questId": "event-g-recipe-353475",
+      "name": "地底火山の炎の王",
+      "listName": "地底火山の炎の王",
+      "rank": "G級",
+      "order": 29,
+      "role": "hunter",
+      "tags": [
+        "normal"
+      ],
+      "url": "http://wiki.mhxg.org/ida/353475.html",
+      "listUrl": "http://wiki.mhxg.org/data/2033.html",
+      "icons": [
+        "討伐"
+      ],
+      "detailTitle": "イベント★地底火山の炎の王 | 【MHXX】モンハンダブルクロス攻略レシピ",
+      "httpStatus": 200,
+      "checkedAt": "2026-10-16",
+      "panels": [
+        {
+          "title": "備考",
+          "text": "HR13以上 2017年7月7日配信",
+          "links": []
+        }
+      ],
+      "hrFromDetail": 13,
+      "condition": {
+        "kind": "hr_at_least",
+        "value": 13
+      },
+      "specialMaterialUrls": [],
+      "downloadStatus": "historical_source_only_current_availability_unverified",
+      "prerequisiteLinks": [],
+      "nameDifference": false
+    },
+    {
+      "questId": "event-g-recipe-353502",
+      "name": "伝説との戦い",
+      "listName": "伝説との戦い",
+      "rank": "G級",
+      "order": 30,
+      "role": "hunter",
+      "tags": [
+        "normal"
+      ],
+      "url": "http://wiki.mhxg.org/ida/353502.html",
+      "listUrl": "http://wiki.mhxg.org/data/2033.html",
+      "icons": [
+        "特殊"
+      ],
+      "detailTitle": "イベント★伝説との戦い | 【MHXX】モンハンダブルクロス攻略レシピ",
+      "httpStatus": 200,
+      "checkedAt": "2026-10-16",
+      "panels": [
+        {
+          "title": "備考",
+          "text": "HR13以上 2017年7月14日配信",
+          "links": []
+        }
+      ],
+      "hrFromDetail": 13,
+      "condition": {
+        "kind": "hr_at_least",
+        "value": 13
+      },
+      "specialMaterialUrls": [
+        "http://wiki.mhxg.org/ida/296009.html"
+      ],
+      "downloadStatus": "historical_source_only_current_availability_unverified",
+      "prerequisiteLinks": [],
+      "nameDifference": false
+    },
+    {
+      "questId": "event-g-recipe-353537",
+      "name": "心を照らす畏怖の光",
+      "listName": "心を照らす畏怖の光",
+      "rank": "G級",
+      "order": 31,
+      "role": "hunter",
+      "tags": [
+        "normal"
+      ],
+      "url": "http://wiki.mhxg.org/ida/353537.html",
+      "listUrl": "http://wiki.mhxg.org/data/2033.html",
+      "icons": [
+        "討伐"
+      ],
+      "detailTitle": "イベント★心を照らす畏怖の光 | 【MHXX】モンハンダブルクロス攻略レシピ",
+      "httpStatus": 200,
+      "checkedAt": "2026-10-16",
+      "panels": [
+        {
+          "title": "備考",
+          "text": "HR13以上 2017年7月21日配信",
+          "links": []
+        }
+      ],
+      "hrFromDetail": 13,
+      "condition": {
+        "kind": "hr_at_least",
+        "value": 13
+      },
+      "specialMaterialUrls": [],
+      "downloadStatus": "historical_source_only_current_availability_unverified",
+      "prerequisiteLinks": [],
+      "nameDifference": false
+    },
+    {
+      "questId": "event-g-recipe-353563",
+      "name": "古の白き神",
+      "listName": "古の白き神",
+      "rank": "G級",
+      "order": 32,
+      "role": "hunter",
+      "tags": [
+        "normal"
+      ],
+      "url": "http://wiki.mhxg.org/ida/353563.html",
+      "listUrl": "http://wiki.mhxg.org/data/2033.html",
+      "icons": [
+        "特殊"
+      ],
+      "detailTitle": "イベント★古の白き神 | 【MHXX】モンハンダブルクロス攻略レシピ",
+      "httpStatus": 200,
+      "checkedAt": "2026-10-16",
+      "panels": [
+        {
+          "title": "備考",
+          "text": "HR13以上 2017年7月28日配信",
+          "links": []
+        }
+      ],
+      "hrFromDetail": 13,
+      "condition": {
+        "kind": "hr_at_least",
+        "value": 13
+      },
+      "specialMaterialUrls": [],
+      "downloadStatus": "historical_source_only_current_availability_unverified",
+      "prerequisiteLinks": [],
+      "nameDifference": false
+    },
+    {
+      "questId": "event-g-recipe-353587",
+      "name": "滅びの伝説に挑みし者",
+      "listName": "滅びの伝説に挑みし者",
+      "rank": "G級",
+      "order": 33,
+      "role": "hunter",
+      "tags": [
+        "normal"
+      ],
+      "url": "http://wiki.mhxg.org/ida/353587.html",
+      "listUrl": "http://wiki.mhxg.org/data/2033.html",
+      "icons": [
+        "特殊"
+      ],
+      "detailTitle": "イベント★滅びの伝説に挑みし者 | 【MHXX】モンハンダブルクロス攻略レシピ",
+      "httpStatus": 200,
+      "checkedAt": "2026-10-16",
+      "panels": [
+        {
+          "title": "備考",
+          "text": "HR13以上 2017年8月10日配信",
+          "links": []
+        }
+      ],
+      "hrFromDetail": 13,
+      "condition": {
+        "kind": "hr_at_least",
+        "value": 13
+      },
+      "specialMaterialUrls": [
+        "http://wiki.mhxg.org/ida/296008.html"
+      ],
+      "downloadStatus": "historical_source_only_current_availability_unverified",
+      "prerequisiteLinks": [],
+      "nameDifference": false
+    },
+    {
+      "questId": "event-g-recipe-353613",
+      "name": "絶望の淵の溶岩島",
+      "listName": "絶望の淵の溶岩島",
+      "rank": "G級",
+      "order": 34,
+      "role": "hunter",
+      "tags": [
+        "normal"
+      ],
+      "url": "http://wiki.mhxg.org/ida/353613.html",
+      "listUrl": "http://wiki.mhxg.org/data/2033.html",
+      "icons": [
+        "討伐"
+      ],
+      "detailTitle": "イベント★絶望の淵の溶岩島 | 【MHXX】モンハンダブルクロス攻略レシピ",
+      "httpStatus": 200,
+      "checkedAt": "2026-10-16",
+      "panels": [
+        {
+          "title": "備考",
+          "text": "HR13以上 2017年8月18日配信",
+          "links": []
+        }
+      ],
+      "hrFromDetail": 13,
+      "condition": {
+        "kind": "hr_at_least",
+        "value": 13
+      },
+      "specialMaterialUrls": [],
+      "downloadStatus": "historical_source_only_current_availability_unverified",
+      "prerequisiteLinks": [],
+      "nameDifference": false
+    },
+    {
+      "questId": "event-g-recipe-353639",
+      "name": "千夜一夜の太古の閣",
+      "listName": "千夜一夜の太古の閣",
+      "rank": "G級",
+      "order": 35,
+      "role": "hunter",
+      "tags": [
+        "normal"
+      ],
+      "url": "http://wiki.mhxg.org/ida/353639.html",
+      "listUrl": "http://wiki.mhxg.org/data/2033.html",
+      "icons": [
+        "特殊"
+      ],
+      "detailTitle": "イベント★千夜一夜の太古の閣 | 【MHXX】モンハンダブルクロス攻略レシピ",
+      "httpStatus": 200,
+      "checkedAt": "2026-10-16",
+      "panels": [
+        {
+          "title": "備考",
+          "text": "HR13以上 2017年8月25日配信",
+          "links": []
+        }
+      ],
+      "hrFromDetail": 13,
+      "condition": {
+        "kind": "hr_at_least",
+        "value": 13
+      },
+      "specialMaterialUrls": [],
+      "downloadStatus": "historical_source_only_current_availability_unverified",
+      "prerequisiteLinks": [],
+      "nameDifference": false
+    },
+    {
+      "questId": "event-g-recipe-341371",
+      "name": "ゼルダの伝説・勇気の試練",
+      "listName": "ゼルダの伝説・勇気の試練",
+      "rank": "G級",
+      "order": 36,
+      "role": "hunter",
+      "tags": [
+        "normal"
+      ],
+      "url": "http://wiki.mhxg.org/ida/341371.html",
+      "listUrl": "http://wiki.mhxg.org/data/2033.html",
+      "icons": [
+        "討伐"
+      ],
+      "detailTitle": "イベント★ゼルダの伝説・勇気の試練 | 【MHXX】モンハンダブルクロス攻略レシピ",
+      "httpStatus": 200,
+      "checkedAt": "2026-10-16",
+      "panels": [
+        {
+          "title": "備考",
+          "text": "HR13以上 2017年9月1日配信セブンイレブン 先行配信2017年4月24日～5月31日",
+          "links": []
+        }
+      ],
+      "hrFromDetail": 13,
+      "condition": {
+        "kind": "hr_at_least",
+        "value": 13
+      },
+      "specialMaterialUrls": [
+        "http://wiki.mhxg.org/ida/326046.html"
+      ],
+      "downloadStatus": "historical_source_only_current_availability_unverified",
+      "prerequisiteLinks": [],
+      "nameDifference": false
+    },
+    {
+      "questId": "event-g-recipe-341372",
+      "name": "ゼルダの伝説・知恵の試練",
+      "listName": "ゼルダの伝説・知恵の試練",
+      "rank": "G級",
+      "order": 37,
+      "role": "prowler",
+      "tags": [
+        "normal"
+      ],
+      "url": "http://wiki.mhxg.org/ida/341372.html",
+      "listUrl": "http://wiki.mhxg.org/data/2033.html",
+      "icons": [
+        "ニャンター"
+      ],
+      "detailTitle": "イベント★ゼルダの伝説・知恵の試練 | 【MHXX】モンハンダブルクロス攻略レシピ",
+      "httpStatus": 200,
+      "checkedAt": "2026-10-16",
+      "panels": [
+        {
+          "title": "備考",
+          "text": "HR9以上 2017年9月1日配信セブンイレブン 先行配信2017年4月24日～5月31日",
+          "links": []
+        }
+      ],
+      "hrFromDetail": 9,
+      "condition": {
+        "kind": "hr_at_least",
+        "value": 9
+      },
+      "specialMaterialUrls": [
+        "http://wiki.mhxg.org/ida/326045.html"
+      ],
+      "downloadStatus": "historical_source_only_current_availability_unverified",
+      "prerequisiteLinks": [],
+      "nameDifference": false
+    },
+    {
+      "questId": "event-g-recipe-353117",
+      "name": "USJ・霊峰に吹き荒れる嵐",
+      "listName": "USJ・霊峰に吹き荒れる嵐",
+      "rank": "G級",
+      "order": 38,
+      "role": "hunter",
+      "tags": [
+        "normal"
+      ],
+      "url": "http://wiki.mhxg.org/ida/353117.html",
+      "listUrl": "http://wiki.mhxg.org/data/2033.html",
+      "icons": [
+        "特殊"
+      ],
+      "detailTitle": "イベント★USJ・霊峰に吹き荒れる嵐 | 【MHXX】モンハンダブルクロス攻略レシピ",
+      "httpStatus": 200,
+      "checkedAt": "2026-10-16",
+      "panels": [
+        {
+          "title": "備考",
+          "text": "HR13以上 2017年9月15日配信USJ 先行配信2017年5月8日～6月25日",
+          "links": []
+        }
+      ],
+      "hrFromDetail": 13,
+      "condition": {
+        "kind": "hr_at_least",
+        "value": 13
+      },
+      "specialMaterialUrls": [
+        "http://wiki.mhxg.org/ida/326044.html"
+      ],
+      "downloadStatus": "historical_source_only_current_availability_unverified",
+      "prerequisiteLinks": [],
+      "nameDifference": false
+    },
+    {
+      "questId": "event-g-recipe-353118",
+      "name": "USJ・乱れ荒れ暴れ狂う角",
+      "listName": "USJ・乱れ荒れ暴れ狂う角",
+      "rank": "G級",
+      "order": 39,
+      "role": "prowler",
+      "tags": [
+        "normal"
+      ],
+      "url": "http://wiki.mhxg.org/ida/353118.html",
+      "listUrl": "http://wiki.mhxg.org/data/2033.html",
+      "icons": [
+        "ニャンター"
+      ],
+      "detailTitle": "イベント★USJ・乱れ荒れ暴れ狂う角 | 【MHXX】モンハンダブルクロス攻略レシピ",
+      "httpStatus": 200,
+      "checkedAt": "2026-10-16",
+      "panels": [
+        {
+          "title": "備考",
+          "text": "HR9以上 2017年9月15日配信USJ 先行配信2017年5月8日～6月25日",
+          "links": []
+        }
+      ],
+      "hrFromDetail": 9,
+      "condition": {
+        "kind": "hr_at_least",
+        "value": 9
+      },
+      "specialMaterialUrls": [
+        "http://wiki.mhxg.org/ida/326043.html"
+      ],
+      "downloadStatus": "historical_source_only_current_availability_unverified",
+      "prerequisiteLinks": [],
+      "nameDifference": false
+    },
+    {
+      "questId": "event-g-recipe-353846",
+      "name": "天彗龍より姉御が怖いぜぃ！",
+      "listName": "天彗龍より姉御が怖いぜぃ！",
+      "rank": "G級",
+      "order": 40,
+      "role": "hunter",
+      "tags": [
+        "normal"
+      ],
+      "url": "http://wiki.mhxg.org/ida/353846.html",
+      "listUrl": "http://wiki.mhxg.org/data/2033.html",
+      "icons": [
+        "討伐"
+      ],
+      "detailTitle": "イベント★天彗龍より姉御が怖いぜぃ！ | 【MHXX】モンハンダブルクロス攻略レシピ",
+      "httpStatus": 200,
+      "checkedAt": "2026-10-16",
+      "panels": [
+        {
+          "title": "備考",
+          "text": "HR13以上 2017年9月22日配信",
+          "links": []
+        }
+      ],
+      "hrFromDetail": 13,
+      "condition": {
+        "kind": "hr_at_least",
+        "value": 13
+      },
+      "specialMaterialUrls": [],
+      "downloadStatus": "historical_source_only_current_availability_unverified",
+      "prerequisiteLinks": [],
+      "nameDifference": false
+    },
+    {
+      "questId": "event-g-recipe-353474",
+      "name": "カプコン・見よ！ニャンター魂",
+      "listName": "カプコン・見よ！ニャンター魂",
+      "rank": "G級",
+      "order": 41,
+      "role": "prowler",
+      "tags": [
+        "normal"
+      ],
+      "url": "http://wiki.mhxg.org/ida/353474.html",
+      "listUrl": "http://wiki.mhxg.org/data/2033.html",
+      "icons": [
+        "ニャンター"
+      ],
+      "detailTitle": "イベント★カプコン・見よ！ニャンター魂 | 【MHXX】モンハンダブルクロス攻略レシピ",
+      "httpStatus": 200,
+      "checkedAt": "2026-10-16",
+      "panels": [
+        {
+          "title": "備考",
+          "text": "HR9以上 2017年9月29日配信「モンスターハンタースピリッツ2トリプルソウル」のマシンで 先行配信2017年6月22日～7月24日",
+          "links": []
+        }
+      ],
+      "hrFromDetail": 9,
+      "condition": {
+        "kind": "hr_at_least",
+        "value": 9
+      },
+      "specialMaterialUrls": [
+        "http://wiki.mhxg.org/ida/326049.html"
+      ],
+      "downloadStatus": "historical_source_only_current_availability_unverified",
+      "prerequisiteLinks": [],
+      "nameDifference": false
+    },
+    {
+      "questId": "event-g-recipe-353952",
+      "name": "奈落からの招待状",
+      "listName": "奈落からの招待状",
+      "rank": "G級",
+      "order": 42,
+      "role": "hunter",
+      "tags": [
+        "normal"
+      ],
+      "url": "http://wiki.mhxg.org/ida/353952.html",
+      "listUrl": "http://wiki.mhxg.org/data/2033.html",
+      "icons": [
+        "特殊"
+      ],
+      "detailTitle": "イベント★奈落からの招待状 | 【MHXX】モンハンダブルクロス攻略レシピ",
+      "httpStatus": 200,
+      "checkedAt": "2026-10-16",
+      "panels": [
+        {
+          "title": "備考",
+          "text": "HR13以上 2017年10月13日配信",
+          "links": []
+        }
+      ],
+      "hrFromDetail": 13,
+      "condition": {
+        "kind": "hr_at_least",
+        "value": 13
+      },
+      "specialMaterialUrls": [],
+      "downloadStatus": "historical_source_only_current_availability_unverified",
+      "prerequisiteLinks": [],
+      "nameDifference": false
+    },
+    {
+      "questId": "event-g-recipe-353967",
+      "name": "煌黒はとこしえに",
+      "listName": "煌黒はとこしえに",
+      "rank": "G級",
+      "order": 43,
+      "role": "hunter",
+      "tags": [
+        "normal"
+      ],
+      "url": "http://wiki.mhxg.org/ida/353967.html",
+      "listUrl": "http://wiki.mhxg.org/data/2033.html",
+      "icons": [
+        "特殊"
+      ],
+      "detailTitle": "イベント★煌黒はとこしえに | 【MHXX】モンハンダブルクロス攻略レシピ",
+      "httpStatus": 200,
+      "checkedAt": "2026-10-16",
+      "panels": [
+        {
+          "title": "備考",
+          "text": "HR13以上 2017年10月20日配信",
+          "links": []
+        }
+      ],
+      "hrFromDetail": 13,
+      "condition": {
+        "kind": "hr_at_least",
+        "value": 13
+      },
+      "specialMaterialUrls": [],
+      "downloadStatus": "historical_source_only_current_availability_unverified",
+      "prerequisiteLinks": [],
+      "nameDifference": false
+    },
+    {
+      "questId": "event-g-recipe-353993",
+      "name": "黒く燃える灼熱の刃",
+      "listName": "黒く燃える灼熱の刃",
+      "rank": "G級",
+      "order": 44,
+      "role": "hunter",
+      "tags": [
+        "normal"
+      ],
+      "url": "http://wiki.mhxg.org/ida/353993.html",
+      "listUrl": "http://wiki.mhxg.org/data/2033.html",
+      "icons": [
+        "狩猟"
+      ],
+      "detailTitle": "イベント★黒く燃える灼熱の刃 | 【MHXX】モンハンダブルクロス攻略レシピ",
+      "httpStatus": 200,
+      "checkedAt": "2026-10-16",
+      "panels": [
+        {
+          "title": "備考",
+          "text": "HR9以上 2017年10月27日配信",
+          "links": []
+        }
+      ],
+      "hrFromDetail": 9,
+      "condition": {
+        "kind": "hr_at_least",
+        "value": 9
+      },
+      "specialMaterialUrls": [],
+      "downloadStatus": "historical_source_only_current_availability_unverified",
+      "prerequisiteLinks": [],
+      "nameDifference": false
+    },
+    {
+      "questId": "event-g-recipe-354021",
+      "name": "森丘で暴虐の限りをつくすもの",
+      "listName": "森丘で暴虐の限りをつくすもの",
+      "rank": "G級",
+      "order": 45,
+      "role": "hunter",
+      "tags": [
+        "normal"
+      ],
+      "url": "http://wiki.mhxg.org/ida/354021.html",
+      "listUrl": "http://wiki.mhxg.org/data/2033.html",
+      "icons": [
+        "狩猟"
+      ],
+      "detailTitle": "イベント★森丘で暴虐の限りをつくすもの | 【MHXX】モンハンダブルクロス攻略レシピ",
+      "httpStatus": 200,
+      "checkedAt": "2026-10-16",
+      "panels": [
+        {
+          "title": "備考",
+          "text": "HR9以上 2017年11月2日配信",
+          "links": []
+        }
+      ],
+      "hrFromDetail": 9,
+      "condition": {
+        "kind": "hr_at_least",
+        "value": 9
+      },
+      "specialMaterialUrls": [],
+      "downloadStatus": "historical_source_only_current_availability_unverified",
+      "prerequisiteLinks": [],
+      "nameDifference": false
+    },
+    {
+      "questId": "event-g-recipe-354050",
+      "name": "きょじゅうをやっつけて",
+      "listName": "きょじゅうをやっつけて",
+      "rank": "G級",
+      "order": 46,
+      "role": "hunter",
+      "tags": [
+        "normal"
+      ],
+      "url": "http://wiki.mhxg.org/ida/354050.html",
+      "listUrl": "http://wiki.mhxg.org/data/2033.html",
+      "icons": [
+        "狩猟"
+      ],
+      "detailTitle": "イベント★きょじゅうをやっつけて | 【MHXX】モンハンダブルクロス攻略レシピ",
+      "httpStatus": 200,
+      "checkedAt": "2026-10-16",
+      "panels": [
+        {
+          "title": "備考",
+          "text": "HR9以上 2017年11月17日配信",
+          "links": []
+        }
+      ],
+      "hrFromDetail": 9,
+      "condition": {
+        "kind": "hr_at_least",
+        "value": 9
+      },
+      "specialMaterialUrls": [],
+      "downloadStatus": "historical_source_only_current_availability_unverified",
+      "prerequisiteLinks": [],
+      "nameDifference": false
+    },
+    {
+      "questId": "event-g-recipe-354082",
+      "name": "釣り場の平和を守ってニャ！",
+      "listName": "釣り場の平和を守ってニャ！",
+      "rank": "G級",
+      "order": 47,
+      "role": "hunter",
+      "tags": [
+        "normal"
+      ],
+      "url": "http://wiki.mhxg.org/ida/354082.html",
+      "listUrl": "http://wiki.mhxg.org/data/2033.html",
+      "icons": [
+        "狩猟"
+      ],
+      "detailTitle": "イベント★釣り場の平和を守ってニャ！ | 【MHXX】モンハンダブルクロス攻略レシピ",
+      "httpStatus": 200,
+      "checkedAt": "2026-10-16",
+      "panels": [
+        {
+          "title": "備考",
+          "text": "HR9以上 2017年12月1日配信",
+          "links": []
+        }
+      ],
+      "hrFromDetail": 9,
+      "condition": {
+        "kind": "hr_at_least",
+        "value": 9
+      },
+      "specialMaterialUrls": [],
+      "downloadStatus": "historical_source_only_current_availability_unverified",
+      "prerequisiteLinks": [],
+      "nameDifference": false
+    },
+    {
+      "questId": "event-g-recipe-354114",
+      "name": "MHヒストリーⅠ",
+      "listName": "MHヒストリーⅠ",
+      "rank": "G級",
+      "order": 48,
+      "role": "hunter",
+      "tags": [
+        "normal"
+      ],
+      "url": "http://wiki.mhxg.org/ida/354114.html",
+      "listUrl": "http://wiki.mhxg.org/data/2033.html",
+      "icons": [
+        "連続狩猟"
+      ],
+      "detailTitle": "イベント★MHヒストリーⅠ | 【MHXX】モンハンダブルクロス攻略レシピ",
+      "httpStatus": 200,
+      "checkedAt": "2026-10-16",
+      "panels": [
+        {
+          "title": "備考",
+          "text": "HR13以上 2017年12月15日配信",
+          "links": []
+        }
+      ],
+      "hrFromDetail": 13,
+      "condition": {
+        "kind": "hr_at_least",
+        "value": 13
+      },
+      "specialMaterialUrls": [],
+      "downloadStatus": "historical_source_only_current_availability_unverified",
+      "prerequisiteLinks": [],
+      "nameDifference": false
+    },
+    {
+      "questId": "event-g-recipe-354147",
+      "name": "MHヒストリーⅡ",
+      "listName": "MHヒストリーⅡ",
+      "rank": "G級",
+      "order": 49,
+      "role": "hunter",
+      "tags": [
+        "normal"
+      ],
+      "url": "http://wiki.mhxg.org/ida/354147.html",
+      "listUrl": "http://wiki.mhxg.org/data/2033.html",
+      "icons": [
+        "連続狩猟"
+      ],
+      "detailTitle": "イベント★MHヒストリーⅡ | 【MHXX】モンハンダブルクロス攻略レシピ",
+      "httpStatus": 200,
+      "checkedAt": "2026-10-16",
+      "panels": [
+        {
+          "title": "備考",
+          "text": "HR13以上 2017年12月29日配信",
+          "links": []
+        }
+      ],
+      "hrFromDetail": 13,
+      "condition": {
+        "kind": "hr_at_least",
+        "value": 13
+      },
+      "specialMaterialUrls": [],
+      "downloadStatus": "historical_source_only_current_availability_unverified",
+      "prerequisiteLinks": [],
+      "nameDifference": false
+    }
+  ]
+}
