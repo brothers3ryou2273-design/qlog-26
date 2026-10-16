@@ -670,6 +670,11 @@ input.sr-only {
   .rank-top h2 {
     font-size: 1.4rem;
   }
+  .permit-rank-top {
+    flex-direction: column;
+    align-items: stretch;
+    gap: 12px;
+  }
   .rank-select {
     min-width: 86px;
   }

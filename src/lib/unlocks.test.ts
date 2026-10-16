@@ -1,7 +1,12 @@
 import { describe, expect, it } from "vitest";
 import { hasUnlockIndicator } from "./unlocks";
 import { quests } from "../data/quests";
-import audit from "../../docs/unlock-indicators-audit.json";
+import legacyAudit from "../../docs/unlock-indicators-audit.json";
+import permitAudit from "../../docs/permit-unlock-indicators-audit.json";
+const audit = {
+  otherEntries: [...legacyAudit.otherEntries, ...permitAudit.otherEntries],
+  confirmedMarkers: legacyAudit.confirmedMarkers,
+};
 const named = (name: string, category = "village", rank?: string) =>
   quests.find(
     (q) =>

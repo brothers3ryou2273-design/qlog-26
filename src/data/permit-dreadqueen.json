@@ -1,0 +1,964 @@
+[
+  {
+    "id": "permit-dreadqueen-lv1-recipe-235920",
+    "name": "【特殊許可】紫毒姫狩猟依頼１",
+    "category": "permit",
+    "rank": "紫毒姫",
+    "order": 0,
+    "permitStage": "LV1",
+    "role": "hunter",
+    "tags": [
+      "normal"
+    ],
+    "condition": {
+      "kind": "all",
+      "rules": [
+        {
+          "kind": "quest_cleared",
+          "questId": "hub-2-recipe-220001"
+        },
+        {
+          "kind": "hr_at_least",
+          "value": 2
+        }
+      ]
+    },
+    "npcNotes": [
+      "受注・参加資料：HR2以上、特殊許可券【紫毒姫】を所持。券の所持数・消費は管理していません。"
+    ],
+    "unlocks": [
+      {
+        "kind": "other",
+        "label": "紫毒姫：オトモ二つ名武器・防具【無印】（製法）",
+        "note": "ニャンター専門Wikiが明記した作成条件のクリア段階。オトモ装備が対象で、ハンター装備全般の製法解放を意味しません。生産には対応する証・端材・素材・費用が別途必要。XXは証の入手条件も必要です。"
+      }
+    ],
+    "sources": [
+      {
+        "url": "http://wiki.mhxg.org/ida/235920.html",
+        "site": "MHXX攻略レシピ",
+        "kind": "detail",
+        "checkedAt": "2026-10-16"
+      },
+      {
+        "url": "http://wiki.mhxg.org/data/2036.html",
+        "site": "MHXX攻略レシピ（特殊許可一覧）",
+        "kind": "list",
+        "checkedAt": "2026-10-16"
+      },
+      {
+        "url": "https://game8.jp/mh-xx/824056",
+        "site": "Game8 MHXX（受注HR・許可券）",
+        "kind": "detail",
+        "checkedAt": "2026-10-16"
+      },
+      {
+        "url": "https://w.atwiki.jp/mhxxnyanter/pages/20.html",
+        "site": "MHXXニャンターwiki（二つ名オトモ武具）",
+        "kind": "list",
+        "checkedAt": "2026-10-16"
+      }
+    ],
+    "verification": "partial",
+    "verificationNote": "攻略レシピの一覧・個別タイトル・条件を照合。自分で受注して段階が進んだクリアを記録。素材・狩猟証だけを機能解放と判断しません。",
+    "warnings": []
+  },
+  {
+    "id": "permit-dreadqueen-lv2-recipe-261207",
+    "name": "【特殊許可】紫毒姫捕獲依頼２",
+    "category": "permit",
+    "rank": "紫毒姫",
+    "order": 1,
+    "permitStage": "LV2",
+    "role": "hunter",
+    "tags": [
+      "normal"
+    ],
+    "condition": {
+      "kind": "all",
+      "rules": [
+        {
+          "kind": "quest_cleared",
+          "questId": "permit-dreadqueen-lv1-recipe-235920"
+        },
+        {
+          "kind": "hr_at_least",
+          "value": 2
+        }
+      ]
+    },
+    "npcNotes": [
+      "受注・参加資料：HR2以上、特殊許可券【紫毒姫】を所持。券の所持数・消費は管理していません。"
+    ],
+    "unlocks": [],
+    "sources": [
+      {
+        "url": "http://wiki.mhxg.org/ida/261207.html",
+        "site": "MHXX攻略レシピ",
+        "kind": "detail",
+        "checkedAt": "2026-10-16"
+      },
+      {
+        "url": "http://wiki.mhxg.org/data/2036.html",
+        "site": "MHXX攻略レシピ（特殊許可一覧）",
+        "kind": "list",
+        "checkedAt": "2026-10-16"
+      },
+      {
+        "url": "https://game8.jp/mh-xx/824057",
+        "site": "Game8 MHXX（受注HR・許可券）",
+        "kind": "detail",
+        "checkedAt": "2026-10-16"
+      }
+    ],
+    "verification": "partial",
+    "verificationNote": "攻略レシピの一覧・個別タイトル・条件を照合。自分で受注して段階が進んだクリアを記録。素材・狩猟証だけを機能解放と判断しません。",
+    "warnings": []
+  },
+  {
+    "id": "permit-dreadqueen-lv3-recipe-261208",
+    "name": "【特殊許可】紫毒姫狩猟依頼３",
+    "category": "permit",
+    "rank": "紫毒姫",
+    "order": 2,
+    "permitStage": "LV3",
+    "role": "hunter",
+    "tags": [
+      "normal"
+    ],
+    "condition": {
+      "kind": "all",
+      "rules": [
+        {
+          "kind": "quest_cleared",
+          "questId": "permit-dreadqueen-lv2-recipe-261207"
+        },
+        {
+          "kind": "hr_at_least",
+          "value": 2
+        }
+      ]
+    },
+    "npcNotes": [
+      "受注・参加資料：HR2以上、特殊許可券【紫毒姫】を所持。券の所持数・消費は管理していません。"
+    ],
+    "unlocks": [],
+    "sources": [
+      {
+        "url": "http://wiki.mhxg.org/ida/261208.html",
+        "site": "MHXX攻略レシピ",
+        "kind": "detail",
+        "checkedAt": "2026-10-16"
+      },
+      {
+        "url": "http://wiki.mhxg.org/data/2036.html",
+        "site": "MHXX攻略レシピ（特殊許可一覧）",
+        "kind": "list",
+        "checkedAt": "2026-10-16"
+      },
+      {
+        "url": "https://game8.jp/mh-xx/824058",
+        "site": "Game8 MHXX（受注HR・許可券）",
+        "kind": "detail",
+        "checkedAt": "2026-10-16"
+      }
+    ],
+    "verification": "partial",
+    "verificationNote": "攻略レシピの一覧・個別タイトル・条件を照合。自分で受注して段階が進んだクリアを記録。素材・狩猟証だけを機能解放と判断しません。",
+    "warnings": []
+  },
+  {
+    "id": "permit-dreadqueen-lv4-recipe-261209",
+    "name": "【特殊許可】紫毒姫狩猟依頼４",
+    "category": "permit",
+    "rank": "紫毒姫",
+    "order": 3,
+    "permitStage": "LV4",
+    "role": "hunter",
+    "tags": [
+      "normal"
+    ],
+    "condition": {
+      "kind": "all",
+      "rules": [
+        {
+          "kind": "quest_cleared",
+          "questId": "permit-dreadqueen-lv3-recipe-261208"
+        },
+        {
+          "kind": "hr_at_least",
+          "value": 5
+        }
+      ]
+    },
+    "npcNotes": [
+      "受注・参加資料：HR5以上、特殊許可券【紫毒姫】を3枚以上所持。券の所持数・消費は管理していません。"
+    ],
+    "unlocks": [],
+    "sources": [
+      {
+        "url": "http://wiki.mhxg.org/ida/261209.html",
+        "site": "MHXX攻略レシピ",
+        "kind": "detail",
+        "checkedAt": "2026-10-16"
+      },
+      {
+        "url": "http://wiki.mhxg.org/data/2036.html",
+        "site": "MHXX攻略レシピ（特殊許可一覧）",
+        "kind": "list",
+        "checkedAt": "2026-10-16"
+      },
+      {
+        "url": "https://game8.jp/mh-xx/824059",
+        "site": "Game8 MHXX（受注HR・許可券）",
+        "kind": "detail",
+        "checkedAt": "2026-10-16"
+      }
+    ],
+    "verification": "partial",
+    "verificationNote": "攻略レシピの一覧・個別タイトル・条件を照合。自分で受注して段階が進んだクリアを記録。素材・狩猟証だけを機能解放と判断しません。",
+    "warnings": []
+  },
+  {
+    "id": "permit-dreadqueen-lv5-recipe-261210",
+    "name": "【特殊許可】紫毒姫狩猟依頼５",
+    "category": "permit",
+    "rank": "紫毒姫",
+    "order": 4,
+    "permitStage": "LV5",
+    "role": "hunter",
+    "tags": [
+      "normal"
+    ],
+    "condition": {
+      "kind": "all",
+      "rules": [
+        {
+          "kind": "quest_cleared",
+          "questId": "permit-dreadqueen-lv4-recipe-261209"
+        },
+        {
+          "kind": "hr_at_least",
+          "value": 5
+        }
+      ]
+    },
+    "npcNotes": [
+      "受注・参加資料：HR5以上、特殊許可券【紫毒姫】を3枚以上所持。券の所持数・消費は管理していません。"
+    ],
+    "unlocks": [],
+    "sources": [
+      {
+        "url": "http://wiki.mhxg.org/ida/261210.html",
+        "site": "MHXX攻略レシピ",
+        "kind": "detail",
+        "checkedAt": "2026-10-16"
+      },
+      {
+        "url": "http://wiki.mhxg.org/data/2036.html",
+        "site": "MHXX攻略レシピ（特殊許可一覧）",
+        "kind": "list",
+        "checkedAt": "2026-10-16"
+      },
+      {
+        "url": "https://game8.jp/mh-xx/824060",
+        "site": "Game8 MHXX（受注HR・許可券）",
+        "kind": "detail",
+        "checkedAt": "2026-10-16"
+      }
+    ],
+    "verification": "partial",
+    "verificationNote": "攻略レシピの一覧・個別タイトル・条件を照合。自分で受注して段階が進んだクリアを記録。素材・狩猟証だけを機能解放と判断しません。",
+    "warnings": []
+  },
+  {
+    "id": "permit-dreadqueen-lv6-recipe-261211",
+    "name": "【特殊許可】紫毒姫狩猟依頼６",
+    "category": "permit",
+    "rank": "紫毒姫",
+    "order": 5,
+    "permitStage": "LV6",
+    "role": "hunter",
+    "tags": [
+      "normal"
+    ],
+    "condition": {
+      "kind": "all",
+      "rules": [
+        {
+          "kind": "quest_cleared",
+          "questId": "permit-dreadqueen-lv5-recipe-261210"
+        },
+        {
+          "kind": "hr_at_least",
+          "value": 7
+        }
+      ]
+    },
+    "npcNotes": [
+      "受注・参加資料：HR7以上、特殊許可券【紫毒姫】を5枚以上所持。券の所持数・消費は管理していません。"
+    ],
+    "unlocks": [],
+    "sources": [
+      {
+        "url": "http://wiki.mhxg.org/ida/261211.html",
+        "site": "MHXX攻略レシピ",
+        "kind": "detail",
+        "checkedAt": "2026-10-16"
+      },
+      {
+        "url": "http://wiki.mhxg.org/data/2036.html",
+        "site": "MHXX攻略レシピ（特殊許可一覧）",
+        "kind": "list",
+        "checkedAt": "2026-10-16"
+      },
+      {
+        "url": "https://game8.jp/mh-xx/824061",
+        "site": "Game8 MHXX（受注HR・許可券）",
+        "kind": "detail",
+        "checkedAt": "2026-10-16"
+      }
+    ],
+    "verification": "partial",
+    "verificationNote": "攻略レシピの一覧・個別タイトル・条件を照合。自分で受注して段階が進んだクリアを記録。素材・狩猟証だけを機能解放と判断しません。",
+    "warnings": []
+  },
+  {
+    "id": "permit-dreadqueen-lv7-recipe-261212",
+    "name": "【特殊許可】紫毒姫捕獲依頼７",
+    "category": "permit",
+    "rank": "紫毒姫",
+    "order": 6,
+    "permitStage": "LV7",
+    "role": "hunter",
+    "tags": [
+      "normal"
+    ],
+    "condition": {
+      "kind": "all",
+      "rules": [
+        {
+          "kind": "quest_cleared",
+          "questId": "permit-dreadqueen-lv6-recipe-261211"
+        },
+        {
+          "kind": "hr_at_least",
+          "value": 7
+        }
+      ]
+    },
+    "npcNotes": [
+      "受注・参加資料：HR7以上、特殊許可券【紫毒姫】を5枚以上所持、弾・ビンポーチ以外のアイテム持ち込み不可。券の所持数・消費は管理していません。"
+    ],
+    "unlocks": [],
+    "sources": [
+      {
+        "url": "http://wiki.mhxg.org/ida/261212.html",
+        "site": "MHXX攻略レシピ",
+        "kind": "detail",
+        "checkedAt": "2026-10-16"
+      },
+      {
+        "url": "http://wiki.mhxg.org/data/2036.html",
+        "site": "MHXX攻略レシピ（特殊許可一覧）",
+        "kind": "list",
+        "checkedAt": "2026-10-16"
+      },
+      {
+        "url": "https://game8.jp/mh-xx/824062",
+        "site": "Game8 MHXX（受注HR・許可券）",
+        "kind": "detail",
+        "checkedAt": "2026-10-16"
+      }
+    ],
+    "verification": "partial",
+    "verificationNote": "攻略レシピの一覧・個別タイトル・条件を照合。自分で受注して段階が進んだクリアを記録。素材・狩猟証だけを機能解放と判断しません。",
+    "warnings": []
+  },
+  {
+    "id": "permit-dreadqueen-lv8-recipe-261213",
+    "name": "【特殊許可】紫毒姫狩猟依頼８",
+    "category": "permit",
+    "rank": "紫毒姫",
+    "order": 7,
+    "permitStage": "LV8",
+    "role": "hunter",
+    "tags": [
+      "normal"
+    ],
+    "condition": {
+      "kind": "all",
+      "rules": [
+        {
+          "kind": "quest_cleared",
+          "questId": "permit-dreadqueen-lv7-recipe-261212"
+        },
+        {
+          "kind": "hr_at_least",
+          "value": 7
+        }
+      ]
+    },
+    "npcNotes": [
+      "受注・参加資料：HR7以上、特殊許可券【紫毒姫】を5枚以上所持。券の所持数・消費は管理していません。"
+    ],
+    "unlocks": [],
+    "sources": [
+      {
+        "url": "http://wiki.mhxg.org/ida/261213.html",
+        "site": "MHXX攻略レシピ",
+        "kind": "detail",
+        "checkedAt": "2026-10-16"
+      },
+      {
+        "url": "http://wiki.mhxg.org/data/2036.html",
+        "site": "MHXX攻略レシピ（特殊許可一覧）",
+        "kind": "list",
+        "checkedAt": "2026-10-16"
+      },
+      {
+        "url": "https://game8.jp/mh-xx/824063",
+        "site": "Game8 MHXX（受注HR・許可券）",
+        "kind": "detail",
+        "checkedAt": "2026-10-16"
+      }
+    ],
+    "verification": "partial",
+    "verificationNote": "攻略レシピの一覧・個別タイトル・条件を照合。自分で受注して段階が進んだクリアを記録。素材・狩猟証だけを機能解放と判断しません。",
+    "warnings": []
+  },
+  {
+    "id": "permit-dreadqueen-lv9-recipe-261214",
+    "name": "【特殊許可】紫毒姫狩猟依頼９",
+    "category": "permit",
+    "rank": "紫毒姫",
+    "order": 8,
+    "permitStage": "LV9",
+    "role": "hunter",
+    "tags": [
+      "normal"
+    ],
+    "condition": {
+      "kind": "all",
+      "rules": [
+        {
+          "kind": "quest_cleared",
+          "questId": "permit-dreadqueen-lv8-recipe-261213"
+        },
+        {
+          "kind": "hr_at_least",
+          "value": 8
+        }
+      ]
+    },
+    "npcNotes": [
+      "受注・参加資料：HR8以上、特殊許可券【紫毒姫】を6枚以上所持。券の所持数・消費は管理していません。"
+    ],
+    "unlocks": [],
+    "sources": [
+      {
+        "url": "http://wiki.mhxg.org/ida/261214.html",
+        "site": "MHXX攻略レシピ",
+        "kind": "detail",
+        "checkedAt": "2026-10-16"
+      },
+      {
+        "url": "http://wiki.mhxg.org/data/2036.html",
+        "site": "MHXX攻略レシピ（特殊許可一覧）",
+        "kind": "list",
+        "checkedAt": "2026-10-16"
+      },
+      {
+        "url": "https://game8.jp/mh-xx/824064",
+        "site": "Game8 MHXX（受注HR・許可券）",
+        "kind": "detail",
+        "checkedAt": "2026-10-16"
+      }
+    ],
+    "verification": "partial",
+    "verificationNote": "攻略レシピの一覧・個別タイトル・条件を照合。自分で受注して段階が進んだクリアを記録。素材・狩猟証だけを機能解放と判断しません。",
+    "warnings": []
+  },
+  {
+    "id": "permit-dreadqueen-lv10-recipe-261215",
+    "name": "【特殊許可】紫毒姫狩猟依頼１０",
+    "category": "permit",
+    "rank": "紫毒姫",
+    "order": 9,
+    "permitStage": "LV10",
+    "role": "hunter",
+    "tags": [
+      "normal"
+    ],
+    "condition": {
+      "kind": "all",
+      "rules": [
+        {
+          "kind": "quest_cleared",
+          "questId": "permit-dreadqueen-lv9-recipe-261214"
+        },
+        {
+          "kind": "hr_at_least",
+          "value": 8
+        }
+      ]
+    },
+    "npcNotes": [
+      "受注・参加資料：HR8以上、特殊許可券【紫毒姫】を6枚以上所持。券の所持数・消費は管理していません。"
+    ],
+    "unlocks": [
+      {
+        "kind": "other",
+        "label": "勲章：狩ノ極意 紫毒姫之巻",
+        "note": "この二つ名のLV1〜10を自分で受注して全てクリア。参加クリアだけの記録とは区別します。取得状態を自動管理するものではありません。"
+      }
+    ],
+    "sources": [
+      {
+        "url": "http://wiki.mhxg.org/ida/261215.html",
+        "site": "MHXX攻略レシピ",
+        "kind": "detail",
+        "checkedAt": "2026-10-16"
+      },
+      {
+        "url": "http://wiki.mhxg.org/data/2036.html",
+        "site": "MHXX攻略レシピ（特殊許可一覧）",
+        "kind": "list",
+        "checkedAt": "2026-10-16"
+      },
+      {
+        "url": "https://game8.jp/mh-xx/824065",
+        "site": "Game8 MHXX（受注HR・許可券）",
+        "kind": "detail",
+        "checkedAt": "2026-10-16"
+      },
+      {
+        "url": "https://mhx-wiki.com/?%E5%8B%B2%E7%AB%A0%E4%B8%80%E8%A6%A7",
+        "site": "MHXX攻略Wiki（勲章の入手条件）",
+        "kind": "list",
+        "checkedAt": "2026-10-16"
+      }
+    ],
+    "verification": "partial",
+    "verificationNote": "攻略レシピの一覧・個別タイトル・条件を照合。自分で受注して段階が進んだクリアを記録。素材・狩猟証だけを機能解放と判断しません。",
+    "warnings": []
+  },
+  {
+    "id": "permit-dreadqueen-g1-recipe-299142",
+    "name": "【特殊許可】紫毒姫捕獲依頼G1",
+    "category": "permit",
+    "rank": "紫毒姫",
+    "order": 10,
+    "permitStage": "G1",
+    "role": "hunter",
+    "tags": [
+      "normal"
+    ],
+    "condition": {
+      "kind": "all",
+      "rules": [
+        {
+          "kind": "quest_cleared",
+          "questId": "permit-dreadqueen-lv10-recipe-261215"
+        },
+        {
+          "kind": "hr_at_least",
+          "value": 10
+        },
+        {
+          "kind": "any",
+          "rules": [
+            {
+              "kind": "quest_cleared",
+              "questId": "g-rank-2-recipe-286206"
+            },
+            {
+              "kind": "quest_cleared",
+              "questId": "g-rank-2-recipe-286210"
+            },
+            {
+              "kind": "quest_cleared",
+              "questId": "g-rank-2-recipe-288258"
+            },
+            {
+              "kind": "quest_cleared",
+              "questId": "g-rank-3-recipe-299019"
+            },
+            {
+              "kind": "quest_cleared",
+              "questId": "g-rank-3-recipe-299036"
+            },
+            {
+              "kind": "external_flag",
+              "label": "別のG級リオレイア出現クエストを1件以上クリア（未収録・未照合の候補は保存記録から判定できません）"
+            }
+          ]
+        }
+      ]
+    },
+    "npcNotes": [
+      "受注・参加資料：HR10以上、特殊許可券【紫毒姫】を8枚以上所持。券の所持数・消費は管理していません。"
+    ],
+    "unlocks": [
+      {
+        "kind": "other",
+        "label": "紫毒姫：オトモ二つ名武器・防具【X】（製法）",
+        "note": "ニャンター専門Wikiが明記した作成条件のクリア段階。オトモ装備が対象で、ハンター装備全般の製法解放を意味しません。生産には対応する証・端材・素材・費用が別途必要。XXは証の入手条件も必要です。"
+      }
+    ],
+    "sources": [
+      {
+        "url": "http://wiki.mhxg.org/ida/299142.html",
+        "site": "MHXX攻略レシピ",
+        "kind": "detail",
+        "checkedAt": "2026-10-16"
+      },
+      {
+        "url": "http://wiki.mhxg.org/data/2997.html",
+        "site": "MHXX攻略レシピ（特殊許可一覧）",
+        "kind": "list",
+        "checkedAt": "2026-10-16"
+      },
+      {
+        "url": "https://game8.jp/mh-xx/824066",
+        "site": "Game8 MHXX（受注HR・許可券）",
+        "kind": "detail",
+        "checkedAt": "2026-10-16"
+      },
+      {
+        "url": "http://wiki.mhxg.org/data/2029.html",
+        "site": "MHXX攻略レシピ（G級候補の出現モンスター）",
+        "kind": "list",
+        "checkedAt": "2026-10-16"
+      },
+      {
+        "url": "http://wiki.mhxg.org/data/2030.html",
+        "site": "MHXX攻略レシピ（G級候補の出現モンスター）",
+        "kind": "list",
+        "checkedAt": "2026-10-16"
+      },
+      {
+        "url": "https://w.atwiki.jp/mhxxnyanter/pages/20.html",
+        "site": "MHXXニャンターwiki（二つ名オトモ武具）",
+        "kind": "list",
+        "checkedAt": "2026-10-16"
+      }
+    ],
+    "verification": "partial",
+    "verificationNote": "攻略レシピの一覧・個別タイトル・条件を照合。自分で受注して段階が進んだクリアを記録。素材・狩猟証だけを機能解放と判断しません。",
+    "warnings": []
+  },
+  {
+    "id": "permit-dreadqueen-g2-recipe-299143",
+    "name": "【特殊許可】紫毒姫狩猟依頼G2",
+    "category": "permit",
+    "rank": "紫毒姫",
+    "order": 11,
+    "permitStage": "G2",
+    "role": "hunter",
+    "tags": [
+      "normal"
+    ],
+    "condition": {
+      "kind": "all",
+      "rules": [
+        {
+          "kind": "quest_cleared",
+          "questId": "permit-dreadqueen-g1-recipe-299142"
+        },
+        {
+          "kind": "hr_at_least",
+          "value": 10
+        }
+      ]
+    },
+    "npcNotes": [
+      "受注・参加資料：HR10以上、特殊許可券【紫毒姫】を8枚以上所持。券の所持数・消費は管理していません。"
+    ],
+    "unlocks": [],
+    "sources": [
+      {
+        "url": "http://wiki.mhxg.org/ida/299143.html",
+        "site": "MHXX攻略レシピ",
+        "kind": "detail",
+        "checkedAt": "2026-10-16"
+      },
+      {
+        "url": "http://wiki.mhxg.org/data/2997.html",
+        "site": "MHXX攻略レシピ（特殊許可一覧）",
+        "kind": "list",
+        "checkedAt": "2026-10-16"
+      },
+      {
+        "url": "https://game8.jp/mh-xx/824067",
+        "site": "Game8 MHXX（受注HR・許可券）",
+        "kind": "detail",
+        "checkedAt": "2026-10-16"
+      }
+    ],
+    "verification": "partial",
+    "verificationNote": "攻略レシピの一覧・個別タイトル・条件を照合。自分で受注して段階が進んだクリアを記録。素材・狩猟証だけを機能解放と判断しません。",
+    "warnings": []
+  },
+  {
+    "id": "permit-dreadqueen-g3-recipe-309837",
+    "name": "【特殊許可】紫毒姫狩猟依頼G3",
+    "category": "permit",
+    "rank": "紫毒姫",
+    "order": 12,
+    "permitStage": "G3",
+    "role": "hunter",
+    "tags": [
+      "normal"
+    ],
+    "condition": {
+      "kind": "all",
+      "rules": [
+        {
+          "kind": "quest_cleared",
+          "questId": "permit-dreadqueen-g2-recipe-299143"
+        },
+        {
+          "kind": "hr_at_least",
+          "value": 12
+        }
+      ]
+    },
+    "npcNotes": [
+      "受注・参加資料：HR12以上、特殊許可券【紫毒姫】を9枚以上所持。券の所持数・消費は管理していません。"
+    ],
+    "unlocks": [
+      {
+        "kind": "other",
+        "label": "紫毒姫：オトモ二つ名防具【XX】（製法）",
+        "note": "ニャンター専門Wikiが明記した作成条件のクリア段階。オトモ装備が対象で、ハンター装備全般の製法解放を意味しません。生産には対応する証・端材・素材・費用が別途必要。XXは証の入手条件も必要です。"
+      }
+    ],
+    "sources": [
+      {
+        "url": "http://wiki.mhxg.org/ida/309837.html",
+        "site": "MHXX攻略レシピ",
+        "kind": "detail",
+        "checkedAt": "2026-10-16"
+      },
+      {
+        "url": "http://wiki.mhxg.org/data/2997.html",
+        "site": "MHXX攻略レシピ（特殊許可一覧）",
+        "kind": "list",
+        "checkedAt": "2026-10-16"
+      },
+      {
+        "url": "https://game8.jp/mh-xx/824068",
+        "site": "Game8 MHXX（受注HR・許可券）",
+        "kind": "detail",
+        "checkedAt": "2026-10-16"
+      },
+      {
+        "url": "https://w.atwiki.jp/mhxxnyanter/pages/20.html",
+        "site": "MHXXニャンターwiki（二つ名オトモ武具）",
+        "kind": "list",
+        "checkedAt": "2026-10-16"
+      }
+    ],
+    "verification": "partial",
+    "verificationNote": "攻略レシピの一覧・個別タイトル・条件を照合。自分で受注して段階が進んだクリアを記録。素材・狩猟証だけを機能解放と判断しません。",
+    "warnings": []
+  },
+  {
+    "id": "permit-dreadqueen-g4-recipe-309838",
+    "name": "【特殊許可】紫毒姫狩猟依頼G4",
+    "category": "permit",
+    "rank": "紫毒姫",
+    "order": 13,
+    "permitStage": "G4",
+    "role": "hunter",
+    "tags": [
+      "normal"
+    ],
+    "condition": {
+      "kind": "all",
+      "rules": [
+        {
+          "kind": "quest_cleared",
+          "questId": "permit-dreadqueen-g3-recipe-309837"
+        },
+        {
+          "kind": "hr_at_least",
+          "value": 12
+        }
+      ]
+    },
+    "npcNotes": [
+      "受注・参加資料：HR12以上、特殊許可券【紫毒姫】を9枚以上所持。券の所持数・消費は管理していません。"
+    ],
+    "unlocks": [
+      {
+        "kind": "other",
+        "label": "紫毒姫：オトモ二つ名武器【XX】（製法）",
+        "note": "ニャンター専門Wikiが明記した作成条件のクリア段階。オトモ装備が対象で、ハンター装備全般の製法解放を意味しません。生産には対応する証・端材・素材・費用が別途必要。XXは証の入手条件も必要です。"
+      }
+    ],
+    "sources": [
+      {
+        "url": "http://wiki.mhxg.org/ida/309838.html",
+        "site": "MHXX攻略レシピ",
+        "kind": "detail",
+        "checkedAt": "2026-10-16"
+      },
+      {
+        "url": "http://wiki.mhxg.org/data/2997.html",
+        "site": "MHXX攻略レシピ（特殊許可一覧）",
+        "kind": "list",
+        "checkedAt": "2026-10-16"
+      },
+      {
+        "url": "https://game8.jp/mh-xx/824069",
+        "site": "Game8 MHXX（受注HR・許可券）",
+        "kind": "detail",
+        "checkedAt": "2026-10-16"
+      },
+      {
+        "url": "https://w.atwiki.jp/mhxxnyanter/pages/20.html",
+        "site": "MHXXニャンターwiki（二つ名オトモ武具）",
+        "kind": "list",
+        "checkedAt": "2026-10-16"
+      }
+    ],
+    "verification": "partial",
+    "verificationNote": "攻略レシピの一覧・個別タイトル・条件を照合。自分で受注して段階が進んだクリアを記録。素材・狩猟証だけを機能解放と判断しません。",
+    "warnings": []
+  },
+  {
+    "id": "permit-dreadqueen-g5-recipe-309839",
+    "name": "【特殊許可】紫毒姫狩猟依頼G5",
+    "category": "permit",
+    "rank": "紫毒姫",
+    "order": 14,
+    "permitStage": "G5",
+    "role": "hunter",
+    "tags": [
+      "normal"
+    ],
+    "condition": {
+      "kind": "all",
+      "rules": [
+        {
+          "kind": "quest_cleared",
+          "questId": "permit-dreadqueen-g4-recipe-309838"
+        },
+        {
+          "kind": "hr_at_least",
+          "value": 13
+        }
+      ]
+    },
+    "npcNotes": [
+      "受注・参加資料：HR13以上、特殊許可券【紫毒姫】を9枚以上所持。券の所持数・消費は管理していません。"
+    ],
+    "unlocks": [],
+    "sources": [
+      {
+        "url": "http://wiki.mhxg.org/ida/309839.html",
+        "site": "MHXX攻略レシピ",
+        "kind": "detail",
+        "checkedAt": "2026-10-16"
+      },
+      {
+        "url": "http://wiki.mhxg.org/data/2997.html",
+        "site": "MHXX攻略レシピ（特殊許可一覧）",
+        "kind": "list",
+        "checkedAt": "2026-10-16"
+      },
+      {
+        "url": "https://game8.jp/mh-xx/824070",
+        "site": "Game8 MHXX（受注HR・許可券）",
+        "kind": "detail",
+        "checkedAt": "2026-10-16"
+      }
+    ],
+    "verification": "partial",
+    "verificationNote": "攻略レシピの一覧・個別タイトル・条件を照合。自分で受注して段階が進んだクリアを記録。素材・狩猟証だけを機能解放と判断しません。",
+    "warnings": []
+  },
+  {
+    "id": "permit-dreadqueen-super-recipe-309840",
+    "name": "【超特殊許可】紫毒姫狩猟依頼",
+    "category": "permit",
+    "rank": "紫毒姫",
+    "order": 15,
+    "permitStage": "超特殊許可",
+    "role": "hunter",
+    "tags": [
+      "normal"
+    ],
+    "condition": {
+      "kind": "all",
+      "rules": [
+        {
+          "kind": "quest_cleared",
+          "questId": "permit-dreadqueen-g5-recipe-309839"
+        },
+        {
+          "kind": "hr_at_least",
+          "value": 100
+        }
+      ]
+    },
+    "npcNotes": [
+      "受注・参加資料：HR100以上、特殊許可券【紫毒姫】を10枚以上所持。券の所持数・消費は管理していません。"
+    ],
+    "unlocks": [
+      {
+        "kind": "facility",
+        "label": "防具合成の研究：紫毒姫",
+        "note": "HR100以上で対象の超特殊許可をクリアした後の研究項目。研究室の開放と、研究室での研究・ポイント／素材等を使う操作が別途必要です。参加クリアだけでの開放可否は今回の資料から明確に確認できていません。このアプリでは自分で受注してクリアした記録を使用します。"
+      },
+      {
+        "kind": "other",
+        "label": "称号：デッドリー",
+        "note": "対象の超特殊許可クリアで入手する称号。参加クリアでの取得可否の詳細は未確認で、このアプリは自分で受注したクリアを記録します。"
+      }
+    ],
+    "sources": [
+      {
+        "url": "http://wiki.mhxg.org/ida/309840.html",
+        "site": "MHXX攻略レシピ",
+        "kind": "detail",
+        "checkedAt": "2026-10-16"
+      },
+      {
+        "url": "http://wiki.mhxg.org/data/2997.html",
+        "site": "MHXX攻略レシピ（特殊許可一覧）",
+        "kind": "list",
+        "checkedAt": "2026-10-16"
+      },
+      {
+        "url": "https://game8.jp/mh-xx/824071",
+        "site": "Game8 MHXX（受注HR・許可券）",
+        "kind": "detail",
+        "checkedAt": "2026-10-16"
+      },
+      {
+        "url": "https://mhx-wiki.com/?%E7%A0%94%E7%A9%B6%E5%AE%A4%E3%81%AE%E6%8B%A1%E5%BC%B5",
+        "site": "MHXX攻略Wiki（防具合成の研究）",
+        "kind": "list",
+        "checkedAt": "2026-10-16"
+      },
+      {
+        "url": "https://mhx-wiki.com/?%E8%B6%85%E7%89%B9%E6%AE%8A%E8%A8%B1%E5%8F%AF",
+        "site": "MHXX攻略Wiki（自分の特殊許可進行）",
+        "kind": "list",
+        "checkedAt": "2026-10-16"
+      },
+      {
+        "url": "https://mhx-wiki.com/?%E7%A7%B0%E5%8F%B7%E4%B8%80%E8%A6%A7",
+        "site": "MHXX攻略Wiki（称号）",
+        "kind": "list",
+        "checkedAt": "2026-10-16"
+      }
+    ],
+    "verification": "partial",
+    "verificationNote": "攻略レシピの一覧・個別タイトル・条件を照合。自分で受注して段階が進んだクリアを記録。素材・狩猟証だけを機能解放と判断しません。",
+    "warnings": []
+  }
+]

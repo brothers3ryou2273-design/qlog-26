@@ -1,3 +1,4 @@
+import permitConnections from "../../docs/permit-connections.json";
 import gConnections from "../../docs/g-rank-connections.json";
 import upperConnections from "../../docs/upper-hub-connections.json";
 import { describe, expect, it } from "vitest";
@@ -76,12 +77,19 @@ describe("upper hub primary rosters and released progress", () => {
         expect.arrayContaining(
           b.unlocks.map(
             (u) =>
+              permitConnections.unlockNoteChanges.find(
+                (c) =>
+                  c.questId === b.id &&
+                  c.kind === u.kind &&
+                  c.label === u.label,
+              )?.after ??
               upperConnections.unlockNoteChanges.find(
                 (c) =>
                   c.questId === b.id &&
                   c.kind === u.kind &&
                   c.label === u.label,
-              )?.after ?? u,
+              )?.after ??
+              u,
           ),
         ),
       );
@@ -244,10 +252,10 @@ it("only changes audited legacy prerequisites and preserves their residual gates
   for (const b of baseline) {
     const q = quests.find((q) => q.id === b.id)!;
     const c = upperConnections.changes.find((c) => c.questId === b.id);
-    const g = gConnections.changes.find(x => x.questId === b.id);
+    const g = gConnections.changes.find((x) => x.questId === b.id);
     if (g) {
       expect(q.condition).toEqual(g.after);
-      if(c) expect(g.before).toEqual(c.after);
+      if (c) expect(g.before).toEqual(c.after);
     } else if (c) {
       expect(q.condition).toEqual(c.after);
       const inherited = (c.resolvedInheritedPrerequisites ??
@@ -372,10 +380,7 @@ it("known completion resolves an inherited request without claiming its unknown 
 
 it("retains material delivery, total hunt counts, random spawns and remaining HR-cap gates", () => {
   const all = quests.map((q) => q.id);
-  for (const name of [
-    "高難度：喧嘩の仲裁は村を救う",
-    "高難度：炎王の帰還",
-  ]) {
+  for (const name of ["高難度：喧嘩の仲裁は村を救う", "高難度：炎王の帰還"]) {
     const q = quests.find((q) => q.category === "village" && q.name === name)!;
     expect(
       evaluate(q.condition, {

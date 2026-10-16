@@ -25,7 +25,7 @@ test("production shows partial coverage and noindex", async ({ page }) => {
   ).toBeVisible();
   await expect(page.locator(".quest-card")).toHaveCount(45);
   await expect(
-    page.getByText("データ整備中 · 実クエスト939件収録"),
+    page.getByText("データ整備中 · 実クエスト1167件収録"),
   ).toBeVisible();
   await page.getByRole("button", { name: "G級", exact: true }).click();
   await expect(page.locator(".quest-card")).toHaveCount(32);
@@ -1695,4 +1695,398 @@ test("old 709 checks restore unchanged while new G checks, HR, unknown IDs and b
       () => document.documentElement.scrollWidth <= innerWidth,
     ),
   ).toBe(true);
+});
+
+test("unlock filter combines with role, search, incomplete and restores new and old view values", async ({
+  page,
+}) => {
+  await page.addInitScript(() => {
+    if (!localStorage.getItem("qlog.mhxx.view.v1"))
+      localStorage.setItem(
+        "qlog.mhxx.view.v1",
+        JSON.stringify({
+          category: "hub",
+          rank: "4",
+          tag: "request",
+          role: "",
+          search: "",
+          incomplete: false,
+        }),
+      );
+  });
+  await page.goto("./");
+  const type = page.getByRole("combobox", { name: "種別", exact: true });
+  await expect(type).toHaveValue("request");
+  await expect(page.locator(".quest-card")).toHaveCount(3);
+  await type.selectOption("unlock");
+  await expect(page.locator(".quest-card")).toHaveCount(6);
+  await expect(page.locator(".quest-card .tag-unlock")).toHaveCount(6);
+  await page
+    .getByRole("combobox", { name: "プレイ種別", exact: true })
+    .selectOption("prowler");
+  await expect(page.locator(".quest-card")).toHaveCount(1);
+  await page.getByRole("searchbox").fill("大師範");
+  await page
+    .getByRole("checkbox", { name: "大師範の試練をクリア", exact: true })
+    .check();
+  await page.getByRole("checkbox", { name: "未クリアのみ" }).check();
+  await expect(page.locator(".quest-card")).toHaveCount(0);
+  await page.reload();
+  await expect(type).toHaveValue("unlock");
+  await expect(page.getByRole("searchbox")).toHaveValue("大師範");
+  await expect(
+    page.getByRole("checkbox", { name: "未クリアのみ" }),
+  ).toBeChecked();
+  await page.getByRole("checkbox", { name: "未クリアのみ" }).uncheck();
+  await expect(
+    page.getByRole("checkbox", { name: "大師範の試練をクリア", exact: true }),
+  ).toBeChecked();
+  await page.getByRole("searchbox").fill("");
+  await page
+    .getByRole("combobox", { name: "プレイ種別", exact: true })
+    .selectOption("");
+  await type.selectOption("");
+  await expect(page.locator(".quest-card")).toHaveCount(38);
+  await page
+    .getByRole("combobox", { name: "ランク", exact: true })
+    .selectOption("7");
+  await type.selectOption("unlock");
+  await page.getByRole("searchbox").fill("奈落の妖星");
+  await expect(page.locator(".quest-card")).toHaveCount(0);
+  await type.selectOption("");
+  await expect(page.locator(".quest-card")).toHaveCount(1);
+  expect(
+    await page.evaluate(
+      () => document.documentElement.scrollWidth <= innerWidth,
+    ),
+  ).toBe(true);
+});
+
+test("permit selector uses 18 named groups and migrates the legacy all-stages view", async ({
+  page,
+}) => {
+  await page.addInitScript(() => {
+    if (!localStorage.getItem("qlog.mhxx.view.v1"))
+      localStorage.setItem(
+        "qlog.mhxx.view.v1",
+        JSON.stringify({
+          category: "permit",
+          rank: "全段階",
+          tag: "unlock",
+          role: "hunter",
+          search: "",
+          incomplete: false,
+        }),
+      );
+  });
+  await page.goto("./");
+  const selector = page.getByRole("combobox", { name: "二つ名", exact: true });
+  await expect(selector).toHaveValue("紅兜");
+  await expect(selector.locator("option")).toHaveCount(18);
+  await expect(
+    page.getByRole("combobox", { name: "種別", exact: true }),
+  ).toHaveValue("unlock");
+  await expect(
+    page.getByText(/自分の特殊許可として受注・クリアし/),
+  ).toBeVisible();
+  for (const [id, label] of [
+    ["紅兜", "紅兜アオアシラ"],
+    ["大雪主", "大雪主ウルクスス"],
+    ["矛砕", "矛砕ダイミョウザザミ"],
+    ["紫毒姫", "紫毒姫リオレイア"],
+    ["岩穿", "岩穿テツカブラ"],
+    ["白疾風", "白疾風ナルガクルガ"],
+    ["宝纏", "宝纏ウラガンキン"],
+    ["隻眼", "隻眼イャンガルルガ"],
+    ["黒炎王", "黒炎王リオレウス"],
+    ["金雷公", "金雷公ジンオウガ"],
+    ["荒鉤爪", "荒鉤爪ティガレックス"],
+    ["燼滅刃", "燼滅刃ディノバルド"],
+    ["朧隠", "朧隠ホロロホルル"],
+    ["鎧裂", "鎧裂ショウグンギザミ"],
+    ["天眼", "天眼タマミツネ"],
+    ["青電主", "青電主ライゼクス"],
+    ["銀嶺", "銀嶺ガムート"],
+    ["鏖魔", "鏖魔ディアブロス"],
+  ]) {
+    await selector.selectOption(id);
+    await expect(
+      page.getByRole("heading", { name: `特殊許可 ${label}`, exact: true }),
+    ).toBeVisible();
+    await expect(page.getByRole("progressbar")).toHaveAttribute("value", "0");
+  }
+  await page.reload();
+  await expect(selector).toHaveValue("鏖魔");
+  await page
+    .getByRole("combobox", { name: "種別", exact: true })
+    .selectOption("");
+  await page
+    .getByRole("combobox", { name: "プレイ種別", exact: true })
+    .selectOption("");
+  await page.getByRole("button", { name: "村", exact: true }).click();
+  await page
+    .getByRole("combobox", { name: "ランク", exact: true })
+    .selectOption("3");
+  await expect(page.locator(".quest-card")).toHaveCount(45);
+  expect(
+    await page.evaluate(
+      () => document.documentElement.scrollWidth <= innerWidth,
+    ),
+  ).toBe(true);
+});
+
+test("all permit groups show audited stages, real unlock filters and independent saved progress", async ({
+  page,
+}) => {
+  const audit = JSON.parse(
+    await readFile("docs/permit-roster-audit.json", "utf8"),
+  ) as {
+    groups: {
+      id: string;
+      legacy: boolean;
+      observedCount: number;
+      entries: { name: string; permitStage: string }[];
+    }[];
+  };
+  await page.goto("./");
+  await page.getByRole("button", { name: "特殊許可", exact: true }).click();
+  const group = page.getByRole("combobox", { name: "二つ名", exact: true }),
+    type = page.getByRole("combobox", { name: "種別", exact: true });
+  for (const g of audit.groups) {
+    await group.selectOption(g.id);
+    await expect(page.locator(".quest-card")).toHaveCount(g.observedCount);
+    await expect(page.locator(".quest-name")).toHaveText(
+      g.entries.map((e) => e.name),
+    );
+    await expect(page.locator(".quest-tags > span:first-child")).toHaveText(
+      g.entries.map((e) => e.permitStage),
+    );
+    await expect(page.getByRole("progressbar")).toHaveAttribute(
+      "max",
+      String(g.observedCount),
+    );
+    await type.selectOption("unlock");
+    await expect(page.locator(".quest-card")).toHaveCount(g.legacy ? 6 : 4);
+    await expect(page.locator(".tag-unlock")).toHaveCount(g.legacy ? 6 : 4);
+    await type.selectOption("");
+    expect(
+      await page.evaluate(
+        () => document.documentElement.scrollWidth <= innerWidth,
+      ),
+    ).toBe(true);
+  }
+  await type.selectOption("request");
+  await expect(page.locator(".quest-card")).toHaveCount(1);
+  await expect(page.locator(".quest-name")).toHaveText(
+    "【特殊許可】鏖魔狩猟依頼G1",
+  );
+  await type.selectOption("");
+  await page
+    .getByRole("combobox", { name: "プレイ種別", exact: true })
+    .selectOption("prowler");
+  await expect(page.locator(".quest-card")).toHaveCount(0);
+  await page
+    .getByRole("combobox", { name: "プレイ種別", exact: true })
+    .selectOption("");
+  await group.selectOption("紅兜");
+  await page
+    .getByRole("checkbox", {
+      name: "【特殊許可】紅兜狩猟依頼１をクリア",
+      exact: true,
+    })
+    .check();
+  await expect(page.getByRole("progressbar")).toHaveAttribute("value", "1");
+  await page
+    .locator(".quest-card")
+    .first()
+    .screenshot({
+      path: `test-results/permit-card-${test.info().project.name}.png`,
+    });
+  await group.selectOption("大雪主");
+  await expect(page.getByRole("progressbar")).toHaveAttribute("value", "0");
+  await group.selectOption("紅兜");
+  await page.reload();
+  await expect(group).toHaveValue("紅兜");
+  await expect(page.getByRole("progressbar")).toHaveAttribute("value", "1");
+  await expect(
+    page.getByRole("checkbox", {
+      name: "【特殊許可】紅兜狩猟依頼１をクリア",
+      exact: true,
+    }),
+  ).toBeChecked();
+});
+
+test("permit predecessor and successor navigation preserves HR100 and Bloodbath's ordered residual", async ({
+  page,
+}) => {
+  const ids = (
+    JSON.parse(await readFile("docs/progress-baseline-939.json", "utf8")) as {
+      id: string;
+    }[]
+  ).map((q) => q.id);
+  await page.addInitScript((ids) => {
+    if (!localStorage.getItem("qlog.mhxx.progress.v1"))
+      localStorage.setItem(
+        "qlog.mhxx.progress.v1",
+        JSON.stringify({ schemaVersion: 1, completedQuestIds: ids, hr: 99 }),
+      );
+  }, ids);
+  await page.goto("./");
+  await page.getByRole("button", { name: "特殊許可", exact: true }).click();
+  const card = page.locator("#quest-permit-redhelm-lv1-recipe-218339");
+  await card.locator(".quest-title").click();
+  await expect(card.locator(".state")).toHaveText("記録上の前提達成");
+  await expect(
+    card.locator('a[href="http://wiki.mhxg.org/ida/218339.html"]'),
+  ).toBeVisible();
+  await card.getByRole("checkbox").check();
+  await page
+    .getByRole("button", {
+      name: "特殊許可 紅兜アオアシラ / 【特殊許可】紅兜捕獲依頼２",
+      exact: true,
+    })
+    .click();
+  await expect(page.locator(".state")).toHaveText("記録上の前提達成");
+  await page
+    .getByRole("button", {
+      name: "特殊許可 紅兜アオアシラ / 【特殊許可】紅兜狩猟依頼１",
+      exact: true,
+    })
+    .click();
+  await page
+    .getByRole("button", {
+      name: "集会所 ★1（下位） / 伝説のメニューに不可欠なモノ",
+      exact: true,
+    })
+    .click();
+  await expect(
+    page.getByRole("button", {
+      name: "特殊許可 紅兜アオアシラ / 【特殊許可】紅兜狩猟依頼１",
+      exact: true,
+    }),
+  ).toBeVisible();
+  await page
+    .getByRole("button", {
+      name: "特殊許可 紅兜アオアシラ / 【特殊許可】紅兜狩猟依頼１",
+      exact: true,
+    })
+    .click();
+  await page.getByRole("searchbox").fill("超特殊許可");
+  await page.locator(".quest-title").click();
+  await expect(page.locator(".state")).toHaveText("未達成");
+  await page.getByLabel("現在のHR").fill("100");
+  await page.getByRole("button", { name: "HRを保存" }).click();
+  await expect(page.locator(".state")).toHaveText("未達成");
+  await page
+    .getByRole("button", {
+      name: "特殊許可 紅兜アオアシラ / 【特殊許可】紅兜狩猟依頼G5",
+      exact: true,
+    })
+    .click();
+  await page
+    .getByRole("checkbox", {
+      name: "【特殊許可】紅兜狩猟依頼G5をクリア",
+      exact: true,
+    })
+    .check();
+  await page
+    .getByRole("button", {
+      name: "特殊許可 紅兜アオアシラ / 【超特殊許可】紅兜狩猟依頼",
+      exact: true,
+    })
+    .click();
+  await expect(page.locator(".state")).toHaveText("記録上の前提達成");
+  await expect(page.locator(".quest-details")).toContainText(
+    "防具合成の研究：紅兜",
+  );
+  for (const g of ["朧隠", "鎧裂", "天眼", "青電主", "銀嶺"]) {
+    await page
+      .getByRole("combobox", { name: "二つ名", exact: true })
+      .selectOption(g);
+    await page
+      .getByRole("checkbox", {
+        name: `【特殊許可】${g}捕獲依頼G1をクリア`,
+        exact: true,
+      })
+      .check();
+  }
+  await page
+    .getByRole("combobox", { name: "二つ名", exact: true })
+    .selectOption("鏖魔");
+  await page.getByRole("searchbox").fill("鏖魔狩猟依頼G1");
+  await page.locator(".quest-title").click();
+  await expect(page.locator(".state")).toHaveText("要確認");
+  await expect(
+    page.getByText(/前提達成後の酒場での会話→クエスト1回クリア/),
+  ).toBeVisible();
+  expect(
+    await page.evaluate(
+      () => document.documentElement.scrollWidth <= innerWidth,
+    ),
+  ).toBe(true);
+});
+
+test("version-1 backup of 939 old checks restores with HR and unknown IDs alongside new permit checks", async ({
+  page,
+}) => {
+  const ids = (
+    JSON.parse(await readFile("docs/progress-baseline-939.json", "utf8")) as {
+      id: string;
+    }[]
+  ).map((q) => q.id);
+  await page.goto("./");
+  await page.getByLabel("バックアップファイル").setInputFiles(
+    backup({
+      schemaVersion: 1,
+      completedQuestIds: [...ids, "future-stage9-id"],
+      hr: 100,
+    }),
+  );
+  await page
+    .getByRole("checkbox", { name: "現在の進捗をファイルで置き換える" })
+    .check();
+  await page.getByRole("button", { name: "置き換えて復元" }).click();
+  await page.getByRole("button", { name: "特殊許可", exact: true }).click();
+  for (const [group, name] of [
+    ["紅兜", "【特殊許可】紅兜狩猟依頼１"],
+    ["大雪主", "【特殊許可】大雪主狩猟依頼１"],
+    ["朧隠", "【特殊許可】朧隠捕獲依頼G1"],
+  ]) {
+    await page
+      .getByRole("combobox", { name: "二つ名", exact: true })
+      .selectOption(group);
+    await page
+      .getByRole("checkbox", { name: `${name}をクリア`, exact: true })
+      .check();
+  }
+  await page.reload();
+  await expect(
+    page.getByRole("checkbox", {
+      name: "【特殊許可】朧隠捕獲依頼G1をクリア",
+      exact: true,
+    }),
+  ).toBeChecked();
+  await expect(page.getByLabel("現在のHR")).toHaveValue("100");
+  const pending = page.waitForEvent("download");
+  await page.getByRole("button", { name: "JSONを書き出す" }).click();
+  const exported = JSON.parse(
+    await readFile((await (await pending).path())!, "utf8"),
+  );
+  expect(exported.schemaVersion).toBe(1);
+  expect(exported.hr).toBe(100);
+  expect(exported.completedQuestIds).toHaveLength(943);
+  expect(exported.completedQuestIds).toEqual(
+    expect.arrayContaining([
+      ...ids,
+      "future-stage9-id",
+      "permit-redhelm-lv1-recipe-218339",
+    ]),
+  );
+  expect(exported.dataset).toBe("mhxx");
+  expect(Object.keys(exported).sort()).toEqual([
+    "completedQuestIds",
+    "dataset",
+    "hr",
+    "schemaVersion",
+  ]);
 });
