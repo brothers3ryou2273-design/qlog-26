@@ -1,0 +1,68 @@
+{
+  "checkedAt": "2026-10-16",
+  "entries": [
+    {
+      "label": "剣聖のピアス",
+      "condition": "MHXの全ての闘技大会をクリア",
+      "sourceUrl": "http://wiki.mhxg.org/ida/232738.html",
+      "note": "攻略レシピの記述。ハンター／ニャンター・追加分の厳密な対象集合と受取操作は未確認。自動取得判定はしません。"
+    },
+    {
+      "label": "増弾のピアス",
+      "condition": "MHXの全ての闘技大会をAランク以上でクリア",
+      "sourceUrl": "http://wiki.mhxg.org/ida/232740.html",
+      "note": "攻略レシピの記述。ハンター／ニャンター・追加分の厳密な対象集合と受取操作は未確認。自動取得判定はしません。"
+    },
+    {
+      "label": "虚心のピアス",
+      "condition": "MHXXの全ての闘技大会をクリア",
+      "sourceUrl": "http://wiki.mhxg.org/ida/295687.html",
+      "note": "攻略レシピの記述。ハンター／ニャンター・追加分の厳密な対象集合と受取操作は未確認。自動取得判定はしません。"
+    },
+    {
+      "label": "切望のピアス",
+      "condition": "MHXXの全ての闘技大会をAランク以上でクリア",
+      "sourceUrl": "http://wiki.mhxg.org/ida/295692.html",
+      "note": "攻略レシピの記述。ハンター／ニャンター・追加分の厳密な対象集合と受取操作は未確認。自動取得判定はしません。"
+    },
+    {
+      "label": "碧玉の盾",
+      "condition": "闘技大会のクエストを全てクリア",
+      "sourceUrl": "https://mhx-wiki.com/?%E5%8B%B2%E7%AB%A0%E4%B8%80%E8%A6%A7",
+      "note": "専門Wikiの龍歴院欄。対象クエスト集合・ニャンターと追加分の範囲は未確定。自動取得判定はしません。"
+    },
+    {
+      "label": "蒼玉の盾",
+      "condition": "闘技大会のクエストを全てAランク以上でクリア",
+      "sourceUrl": "https://mhx-wiki.com/?%E5%8B%B2%E7%AB%A0%E4%B8%80%E8%A6%A7",
+      "note": "専門Wikiの龍歴院欄。対象クエスト集合・ニャンターと追加分の範囲は未確定。自動取得判定はしません。"
+    },
+    {
+      "label": "金陽の盾",
+      "condition": "闘技大会のクエストを全てSランクでクリア",
+      "sourceUrl": "https://mhx-wiki.com/?%E5%8B%B2%E7%AB%A0%E4%B8%80%E8%A6%A7",
+      "note": "専門Wikiの龍歴院欄。対象クエスト集合・ニャンターと追加分の範囲は未確定。自動取得判定はしません。"
+    },
+    {
+      "label": "紅玉の盾",
+      "condition": "闘技大会のすべてのクエストでAランク以上",
+      "sourceUrl": "https://mhx-wiki.com/?%E5%8B%B2%E7%AB%A0%E4%B8%80%E8%A6%A7",
+      "note": "専門Wikiの龍識船欄。対象クエスト集合・ニャンターと追加分の範囲は未確定。自動取得判定はしません。"
+    },
+    {
+      "label": "白金の盾",
+      "condition": "闘技大会のすべてのクエストでSランク",
+      "sourceUrl": "https://mhx-wiki.com/?%E5%8B%B2%E7%AB%A0%E4%B8%80%E8%A6%A7",
+      "note": "専門Wikiの龍識船欄。対象クエスト集合・ニャンターと追加分の範囲は未確定。自動取得判定はしません。"
+    }
+  ],
+  "policy": "横断条件を個別クエストの無条件解放へ複製しない。A/S評価を保存していないため自動判定しない。",
+  "scopeUncertainty": "主資料はMHX／MHXXの全闘技大会と記載。具体的なハンター／ニャンター・追加G級の対象ID集合、受取NPC操作は未確認。チャレンジを含むとは確認できない。勲章の龍歴院／龍識船は出典の区分であり、対象集合を独自に確定する根拠にはしない。",
+  "supplementalPierceCondition": "専門Wikiは虚心に剣聖入手後、切望に増弾入手後を追記。主資料は全闘技クリア／全A以上と記載。受取順を断定せず併記。",
+  "conflict": {
+    "source": "http://x.mh4info.com/?p=2658",
+    "claim": "虚心のピアスは闘技大会の初回クリア",
+    "adopted": "http://wiki.mhxg.org/ida/295687.html",
+    "decision": "明確な主資料「MHXXの全ての闘技大会をクリア」を優先。初回クリアをどの単独クエストにも割り当てない。"
+  }
+}

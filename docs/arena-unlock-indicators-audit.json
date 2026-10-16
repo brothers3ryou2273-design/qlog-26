@@ -1,0 +1,387 @@
+{
+  "checkedAt": "2026-10-16",
+  "otherEntries": [
+    {
+      "questId": "arena-recipe-218340",
+      "name": "ホロロホルル討伐",
+      "label": "クロオビチケットを使う装備の生産・強化",
+      "classification": "recipe_material",
+      "show": true,
+      "sourceUrl": "http://wiki.mhxg.org/ida/218340.html",
+      "evidenceUrls": [
+        "http://wiki.mhxg.org/ida/226813.html"
+      ],
+      "reason": "素材ページに実在する具体的な装備の生産・強化用途と必要個数を確認。コイン名だけを理由に表示しない。横断達成報酬は個別に登録しない。"
+    },
+    {
+      "questId": "arena-recipe-238253",
+      "name": "フルフル討伐",
+      "label": "フルフルコインを使う装備の生産・強化",
+      "classification": "recipe_material",
+      "show": true,
+      "sourceUrl": "http://wiki.mhxg.org/ida/238253.html",
+      "evidenceUrls": [
+        "http://wiki.mhxg.org/ida/229905.html",
+        "http://wiki.mhxg.org/ida/226813.html"
+      ],
+      "reason": "素材ページに実在する具体的な装備の生産・強化用途と必要個数を確認。コイン名だけを理由に表示しない。横断達成報酬は個別に登録しない。"
+    },
+    {
+      "questId": "arena-recipe-238253",
+      "name": "フルフル討伐",
+      "label": "クロオビチケットを使う装備の生産・強化",
+      "classification": "recipe_material",
+      "show": true,
+      "sourceUrl": "http://wiki.mhxg.org/ida/238253.html",
+      "evidenceUrls": [
+        "http://wiki.mhxg.org/ida/229905.html",
+        "http://wiki.mhxg.org/ida/226813.html"
+      ],
+      "reason": "素材ページに実在する具体的な装備の生産・強化用途と必要個数を確認。コイン名だけを理由に表示しない。横断達成報酬は個別に登録しない。"
+    },
+    {
+      "questId": "arena-recipe-238254",
+      "name": "ガララアジャラ討伐",
+      "label": "ガララコインを使う装備の生産・強化",
+      "classification": "recipe_material",
+      "show": true,
+      "sourceUrl": "http://wiki.mhxg.org/ida/238254.html",
+      "evidenceUrls": [
+        "http://wiki.mhxg.org/ida/229787.html",
+        "http://wiki.mhxg.org/ida/226813.html"
+      ],
+      "reason": "素材ページに実在する具体的な装備の生産・強化用途と必要個数を確認。コイン名だけを理由に表示しない。横断達成報酬は個別に登録しない。"
+    },
+    {
+      "questId": "arena-recipe-238254",
+      "name": "ガララアジャラ討伐",
+      "label": "クロオビチケットを使う装備の生産・強化",
+      "classification": "recipe_material",
+      "show": true,
+      "sourceUrl": "http://wiki.mhxg.org/ida/238254.html",
+      "evidenceUrls": [
+        "http://wiki.mhxg.org/ida/229787.html",
+        "http://wiki.mhxg.org/ida/226813.html"
+      ],
+      "reason": "素材ページに実在する具体的な装備の生産・強化用途と必要個数を確認。コイン名だけを理由に表示しない。横断達成報酬は個別に登録しない。"
+    },
+    {
+      "questId": "arena-recipe-238255",
+      "name": "リオレウス討伐",
+      "label": "レウスコインを使う装備の生産・強化",
+      "classification": "recipe_material",
+      "show": true,
+      "sourceUrl": "http://wiki.mhxg.org/ida/238255.html",
+      "evidenceUrls": [
+        "http://wiki.mhxg.org/ida/229932.html",
+        "http://wiki.mhxg.org/ida/226813.html"
+      ],
+      "reason": "素材ページに実在する具体的な装備の生産・強化用途と必要個数を確認。コイン名だけを理由に表示しない。横断達成報酬は個別に登録しない。"
+    },
+    {
+      "questId": "arena-recipe-238255",
+      "name": "リオレウス討伐",
+      "label": "クロオビチケットを使う装備の生産・強化",
+      "classification": "recipe_material",
+      "show": true,
+      "sourceUrl": "http://wiki.mhxg.org/ida/238255.html",
+      "evidenceUrls": [
+        "http://wiki.mhxg.org/ida/229932.html",
+        "http://wiki.mhxg.org/ida/226813.html"
+      ],
+      "reason": "素材ページに実在する具体的な装備の生産・強化用途と必要個数を確認。コイン名だけを理由に表示しない。横断達成報酬は個別に登録しない。"
+    },
+    {
+      "questId": "arena-recipe-238256",
+      "name": "ケチャワチャ討伐",
+      "label": "ケチャコインを使う装備の生産・強化",
+      "classification": "recipe_material",
+      "show": true,
+      "sourceUrl": "http://wiki.mhxg.org/ida/238256.html",
+      "evidenceUrls": [
+        "http://wiki.mhxg.org/ida/229823.html",
+        "http://wiki.mhxg.org/ida/229844.html"
+      ],
+      "reason": "素材ページに実在する具体的な装備の生産・強化用途と必要個数を確認。コイン名だけを理由に表示しない。横断達成報酬は個別に登録しない。"
+    },
+    {
+      "questId": "arena-recipe-238256",
+      "name": "ケチャワチャ討伐",
+      "label": "タツジンチケットを使う装備の生産・強化",
+      "classification": "recipe_material",
+      "show": true,
+      "sourceUrl": "http://wiki.mhxg.org/ida/238256.html",
+      "evidenceUrls": [
+        "http://wiki.mhxg.org/ida/229823.html",
+        "http://wiki.mhxg.org/ida/229844.html"
+      ],
+      "reason": "素材ページに実在する具体的な装備の生産・強化用途と必要個数を確認。コイン名だけを理由に表示しない。横断達成報酬は個別に登録しない。"
+    },
+    {
+      "questId": "arena-recipe-238257",
+      "name": "ガノトトス討伐",
+      "label": "ガノスコインを使う装備の生産・強化",
+      "classification": "recipe_material",
+      "show": true,
+      "sourceUrl": "http://wiki.mhxg.org/ida/238257.html",
+      "evidenceUrls": [
+        "http://wiki.mhxg.org/ida/229786.html",
+        "http://wiki.mhxg.org/ida/229844.html"
+      ],
+      "reason": "素材ページに実在する具体的な装備の生産・強化用途と必要個数を確認。コイン名だけを理由に表示しない。横断達成報酬は個別に登録しない。"
+    },
+    {
+      "questId": "arena-recipe-238257",
+      "name": "ガノトトス討伐",
+      "label": "タツジンチケットを使う装備の生産・強化",
+      "classification": "recipe_material",
+      "show": true,
+      "sourceUrl": "http://wiki.mhxg.org/ida/238257.html",
+      "evidenceUrls": [
+        "http://wiki.mhxg.org/ida/229786.html",
+        "http://wiki.mhxg.org/ida/229844.html"
+      ],
+      "reason": "素材ページに実在する具体的な装備の生産・強化用途と必要個数を確認。コイン名だけを理由に表示しない。横断達成報酬は個別に登録しない。"
+    },
+    {
+      "questId": "arena-recipe-267307",
+      "name": "ブラキディオス討伐",
+      "label": "ブラキコインを使う装備の生産・強化",
+      "classification": "recipe_material",
+      "show": true,
+      "sourceUrl": "http://wiki.mhxg.org/ida/267307.html",
+      "evidenceUrls": [
+        "http://wiki.mhxg.org/ida/229904.html",
+        "http://wiki.mhxg.org/ida/229854.html"
+      ],
+      "reason": "素材ページに実在する具体的な装備の生産・強化用途と必要個数を確認。コイン名だけを理由に表示しない。横断達成報酬は個別に登録しない。"
+    },
+    {
+      "questId": "arena-recipe-267307",
+      "name": "ブラキディオス討伐",
+      "label": "デンセツチケットを使う装備の生産・強化",
+      "classification": "recipe_material",
+      "show": true,
+      "sourceUrl": "http://wiki.mhxg.org/ida/267307.html",
+      "evidenceUrls": [
+        "http://wiki.mhxg.org/ida/229904.html",
+        "http://wiki.mhxg.org/ida/229854.html"
+      ],
+      "reason": "素材ページに実在する具体的な装備の生産・強化用途と必要個数を確認。コイン名だけを理由に表示しない。横断達成報酬は個別に登録しない。"
+    },
+    {
+      "questId": "arena-recipe-322499",
+      "name": "イャンガルルガ討伐",
+      "label": "ガルルガコインを使う装備の生産・強化",
+      "classification": "recipe_material",
+      "show": true,
+      "sourceUrl": "http://wiki.mhxg.org/ida/322499.html",
+      "evidenceUrls": [
+        "https://mhx-wiki.com/?%E7%BE%BD%E9%A3%BE%E3%82%8A%E3%83%BB%E3%83%94%E3%82%A2%E3%82%B9%E3%81%AE%E5%85%A5%E6%89%8B%E6%96%B9%E6%B3%95",
+        "http://wiki.mhxg.org/ida/296019.html",
+        "http://wiki.mhxg.org/ida/296038.html"
+      ],
+      "reason": "素材ページに実在する具体的な装備の生産・強化用途と必要個数を確認。コイン名だけを理由に表示しない。横断達成報酬は個別に登録しない。"
+    },
+    {
+      "questId": "arena-recipe-322499",
+      "name": "イャンガルルガ討伐",
+      "label": "タツジンチケットGを使う装備の生産・強化",
+      "classification": "recipe_material",
+      "show": true,
+      "sourceUrl": "http://wiki.mhxg.org/ida/322499.html",
+      "evidenceUrls": [
+        "https://mhx-wiki.com/?%E7%BE%BD%E9%A3%BE%E3%82%8A%E3%83%BB%E3%83%94%E3%82%A2%E3%82%B9%E3%81%AE%E5%85%A5%E6%89%8B%E6%96%B9%E6%B3%95",
+        "http://wiki.mhxg.org/ida/296019.html",
+        "http://wiki.mhxg.org/ida/296038.html"
+      ],
+      "reason": "素材ページに実在する具体的な装備の生産・強化用途と必要個数を確認。コイン名だけを理由に表示しない。横断達成報酬は個別に登録しない。"
+    },
+    {
+      "questId": "arena-recipe-322500",
+      "name": "ウラガンキン討伐",
+      "label": "ガンキンコインを使う装備の生産・強化",
+      "classification": "recipe_material",
+      "show": true,
+      "sourceUrl": "http://wiki.mhxg.org/ida/322500.html",
+      "evidenceUrls": [
+        "https://mhx-wiki.com/?%E7%BE%BD%E9%A3%BE%E3%82%8A%E3%83%BB%E3%83%94%E3%82%A2%E3%82%B9%E3%81%AE%E5%85%A5%E6%89%8B%E6%96%B9%E6%B3%95",
+        "http://wiki.mhxg.org/ida/296020.html",
+        "http://wiki.mhxg.org/ida/296043.html"
+      ],
+      "reason": "素材ページに実在する具体的な装備の生産・強化用途と必要個数を確認。コイン名だけを理由に表示しない。横断達成報酬は個別に登録しない。"
+    },
+    {
+      "questId": "arena-recipe-322500",
+      "name": "ウラガンキン討伐",
+      "label": "デンセツチケットGを使う装備の生産・強化",
+      "classification": "recipe_material",
+      "show": true,
+      "sourceUrl": "http://wiki.mhxg.org/ida/322500.html",
+      "evidenceUrls": [
+        "https://mhx-wiki.com/?%E7%BE%BD%E9%A3%BE%E3%82%8A%E3%83%BB%E3%83%94%E3%82%A2%E3%82%B9%E3%81%AE%E5%85%A5%E6%89%8B%E6%96%B9%E6%B3%95",
+        "http://wiki.mhxg.org/ida/296020.html",
+        "http://wiki.mhxg.org/ida/296043.html"
+      ],
+      "reason": "素材ページに実在する具体的な装備の生産・強化用途と必要個数を確認。コイン名だけを理由に表示しない。横断達成報酬は個別に登録しない。"
+    },
+    {
+      "questId": "arena-recipe-322501",
+      "name": "セルレギオス討伐",
+      "label": "レギオスコインを使う装備の生産・強化",
+      "classification": "recipe_material",
+      "show": true,
+      "sourceUrl": "http://wiki.mhxg.org/ida/322501.html",
+      "evidenceUrls": [
+        "https://mhx-wiki.com/?%E7%BE%BD%E9%A3%BE%E3%82%8A%E3%83%BB%E3%83%94%E3%82%A2%E3%82%B9%E3%81%AE%E5%85%A5%E6%89%8B%E6%96%B9%E6%B3%95",
+        "http://wiki.mhxg.org/ida/296116.html",
+        "http://wiki.mhxg.org/ida/296043.html"
+      ],
+      "reason": "素材ページに実在する具体的な装備の生産・強化用途と必要個数を確認。コイン名だけを理由に表示しない。横断達成報酬は個別に登録しない。"
+    },
+    {
+      "questId": "arena-recipe-322501",
+      "name": "セルレギオス討伐",
+      "label": "デンセツチケットGを使う装備の生産・強化",
+      "classification": "recipe_material",
+      "show": true,
+      "sourceUrl": "http://wiki.mhxg.org/ida/322501.html",
+      "evidenceUrls": [
+        "https://mhx-wiki.com/?%E7%BE%BD%E9%A3%BE%E3%82%8A%E3%83%BB%E3%83%94%E3%82%A2%E3%82%B9%E3%81%AE%E5%85%A5%E6%89%8B%E6%96%B9%E6%B3%95",
+        "http://wiki.mhxg.org/ida/296116.html",
+        "http://wiki.mhxg.org/ida/296043.html"
+      ],
+      "reason": "素材ページに実在する具体的な装備の生産・強化用途と必要個数を確認。コイン名だけを理由に表示しない。横断達成報酬は個別に登録しない。"
+    },
+    {
+      "questId": "arena-recipe-218341",
+      "name": "ドスマッカォ討伐",
+      "label": "クロオビチケットを使う装備の生産・強化",
+      "classification": "recipe_material",
+      "show": true,
+      "sourceUrl": "http://wiki.mhxg.org/ida/218341.html",
+      "evidenceUrls": [
+        "http://wiki.mhxg.org/ida/226813.html",
+        "https://w.atwiki.jp/mhxxnyanter/pages/58.html#id_b25556c9"
+      ],
+      "reason": "素材ページに実在する具体的な装備の生産・強化用途と必要個数を確認。コイン名だけを理由に表示しない。横断達成報酬は個別に登録しない。"
+    },
+    {
+      "questId": "arena-recipe-238258",
+      "name": "ゲリョス討伐",
+      "label": "ゲリョスコインを使う装備の生産・強化",
+      "classification": "recipe_material",
+      "show": true,
+      "sourceUrl": "http://wiki.mhxg.org/ida/238258.html",
+      "evidenceUrls": [
+        "http://wiki.mhxg.org/ida/226814.html",
+        "http://wiki.mhxg.org/ida/226813.html",
+        "https://w.atwiki.jp/mhxxnyanter/pages/58.html#id_f3d53401"
+      ],
+      "reason": "素材ページに実在する具体的な装備の生産・強化用途と必要個数を確認。コイン名だけを理由に表示しない。横断達成報酬は個別に登録しない。"
+    },
+    {
+      "questId": "arena-recipe-238258",
+      "name": "ゲリョス討伐",
+      "label": "クロオビチケットを使う装備の生産・強化",
+      "classification": "recipe_material",
+      "show": true,
+      "sourceUrl": "http://wiki.mhxg.org/ida/238258.html",
+      "evidenceUrls": [
+        "http://wiki.mhxg.org/ida/226814.html",
+        "http://wiki.mhxg.org/ida/226813.html",
+        "https://w.atwiki.jp/mhxxnyanter/pages/58.html#id_f3d53401"
+      ],
+      "reason": "素材ページに実在する具体的な装備の生産・強化用途と必要個数を確認。コイン名だけを理由に表示しない。横断達成報酬は個別に登録しない。"
+    },
+    {
+      "questId": "arena-recipe-238259",
+      "name": "鳥竜種２頭討伐",
+      "label": "ドスコインを使う装備の生産・強化",
+      "classification": "recipe_material",
+      "show": true,
+      "sourceUrl": "http://wiki.mhxg.org/ida/238259.html",
+      "evidenceUrls": [
+        "http://wiki.mhxg.org/ida/229889.html",
+        "http://wiki.mhxg.org/ida/229854.html",
+        "https://w.atwiki.jp/mhxxnyanter/pages/58.html#id_c174f242"
+      ],
+      "reason": "素材ページに実在する具体的な装備の生産・強化用途と必要個数を確認。コイン名だけを理由に表示しない。横断達成報酬は個別に登録しない。"
+    },
+    {
+      "questId": "arena-recipe-238259",
+      "name": "鳥竜種２頭討伐",
+      "label": "デンセツチケットを使う装備の生産・強化",
+      "classification": "recipe_material",
+      "show": true,
+      "sourceUrl": "http://wiki.mhxg.org/ida/238259.html",
+      "evidenceUrls": [
+        "http://wiki.mhxg.org/ida/229889.html",
+        "http://wiki.mhxg.org/ida/229854.html",
+        "https://w.atwiki.jp/mhxxnyanter/pages/58.html#id_c174f242"
+      ],
+      "reason": "素材ページに実在する具体的な装備の生産・強化用途と必要個数を確認。コイン名だけを理由に表示しない。横断達成報酬は個別に登録しない。"
+    },
+    {
+      "questId": "arena-recipe-322503",
+      "name": "テツカブラ討伐",
+      "label": "カブラコインを使う装備の生産・強化",
+      "classification": "recipe_material",
+      "show": true,
+      "sourceUrl": "http://wiki.mhxg.org/ida/322503.html",
+      "evidenceUrls": [
+        "https://mhx-wiki.com/?%E7%BE%BD%E9%A3%BE%E3%82%8A%E3%83%BB%E3%83%94%E3%82%A2%E3%82%B9%E3%81%AE%E5%85%A5%E6%89%8B%E6%96%B9%E6%B3%95",
+        "http://wiki.mhxg.org/ida/296018.html",
+        "http://wiki.mhxg.org/ida/296038.html",
+        "https://w.atwiki.jp/mhxxnyanter/pages/58.html#id_c233e7e5"
+      ],
+      "reason": "素材ページに実在する具体的な装備の生産・強化用途と必要個数を確認。コイン名だけを理由に表示しない。横断達成報酬は個別に登録しない。"
+    },
+    {
+      "questId": "arena-recipe-322503",
+      "name": "テツカブラ討伐",
+      "label": "タツジンチケットGを使う装備の生産・強化",
+      "classification": "recipe_material",
+      "show": true,
+      "sourceUrl": "http://wiki.mhxg.org/ida/322503.html",
+      "evidenceUrls": [
+        "https://mhx-wiki.com/?%E7%BE%BD%E9%A3%BE%E3%82%8A%E3%83%BB%E3%83%94%E3%82%A2%E3%82%B9%E3%81%AE%E5%85%A5%E6%89%8B%E6%96%B9%E6%B3%95",
+        "http://wiki.mhxg.org/ida/296018.html",
+        "http://wiki.mhxg.org/ida/296038.html",
+        "https://w.atwiki.jp/mhxxnyanter/pages/58.html#id_c233e7e5"
+      ],
+      "reason": "素材ページに実在する具体的な装備の生産・強化用途と必要個数を確認。コイン名だけを理由に表示しない。横断達成報酬は個別に登録しない。"
+    },
+    {
+      "questId": "arena-recipe-322504",
+      "name": "ババコンガ討伐",
+      "label": "ババコインを使う装備の生産・強化",
+      "classification": "recipe_material",
+      "show": true,
+      "sourceUrl": "http://wiki.mhxg.org/ida/322504.html",
+      "evidenceUrls": [
+        "https://mhx-wiki.com/?%E7%BE%BD%E9%A3%BE%E3%82%8A%E3%83%BB%E3%83%94%E3%82%A2%E3%82%B9%E3%81%AE%E5%85%A5%E6%89%8B%E6%96%B9%E6%B3%95",
+        "http://wiki.mhxg.org/ida/296099.html",
+        "http://wiki.mhxg.org/ida/296038.html",
+        "https://w.atwiki.jp/mhxxnyanter/pages/58.html#id_f456f3c6"
+      ],
+      "reason": "素材ページに実在する具体的な装備の生産・強化用途と必要個数を確認。コイン名だけを理由に表示しない。横断達成報酬は個別に登録しない。"
+    },
+    {
+      "questId": "arena-recipe-322504",
+      "name": "ババコンガ討伐",
+      "label": "タツジンチケットGを使う装備の生産・強化",
+      "classification": "recipe_material",
+      "show": true,
+      "sourceUrl": "http://wiki.mhxg.org/ida/322504.html",
+      "evidenceUrls": [
+        "https://mhx-wiki.com/?%E7%BE%BD%E9%A3%BE%E3%82%8A%E3%83%BB%E3%83%94%E3%82%A2%E3%82%B9%E3%81%AE%E5%85%A5%E6%89%8B%E6%96%B9%E6%B3%95",
+        "http://wiki.mhxg.org/ida/296099.html",
+        "http://wiki.mhxg.org/ida/296038.html",
+        "https://w.atwiki.jp/mhxxnyanter/pages/58.html#id_f456f3c6"
+      ],
+      "reason": "素材ページに実在する具体的な装備の生産・強化用途と必要個数を確認。コイン名だけを理由に表示しない。横断達成報酬は個別に登録しない。"
+    }
+  ],
+  "confirmedMarkers": []
+}

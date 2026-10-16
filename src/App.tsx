@@ -13,6 +13,7 @@ import {
 } from "./lib/storage";
 import { quests, dataStatus } from "./data/quests";
 import { permitGroupLabel } from "./data/permit-groups";
+import arenaAchievements from "./data/arena-achievements.json";
 import { demoQuests } from "./data/demo";
 
 type View = {
@@ -434,6 +435,40 @@ export default function App() {
               日本版MHXX（Switch版基準）の配信クエストです。プレイにはゲーム内へのダウンロード・保存が必要です。現在の配信・ダウンロード可否は未確認です。保存済みのクエストはプレイできる場合があります。チェックは通常クエストとは別に記録します。特別な素材・装備はクリアだけで取得済みにはなりません。
             </p>
           )}
+          {(view.category === "arena" || view.category === "challenge") && (
+            <div className="small muted">
+              <p>
+                記録するのはクリアの有無のみです。評価ランク・自己ベスト・使用装備・ソロ／ペアは保存しません。A・S評価を条件とする報酬を、チェックだけで取得済みにはしません。
+              </p>
+              {view.category === "challenge" && (
+                <p>
+                  チャレンジは通常の闘技大会・イベントとは別メニューです。プレイには配信クエストのダウンロード・保存が必要です。現在の配信可否は未確認で、過去の配信情報とは区別します。攻略レシピ一覧外の追加候補を調査中のため、全件収録とは判定していません。
+                </p>
+              )}
+              {view.category === "arena" && (
+                <details>
+                  <summary>複数の闘技大会を条件とする報酬</summary>
+                  <ul>
+                    {arenaAchievements.map((a) => (
+                      <li key={a.label}>
+                        {a.label}：{a.condition}。{a.note}{" "}
+                        <a
+                          href={a.sourceUrl}
+                          target="_blank"
+                          rel="noopener noreferrer"
+                        >
+                          根拠 ↗
+                        </a>
+                      </li>
+                    ))}
+                  </ul>
+                  <p>
+                    対象範囲・受取手順の未確認点は監査に記録しています。チャレンジを自動で対象へ含めず、各クエストの単独報酬にも複製しません。
+                  </p>
+                </details>
+              )}
+            </div>
+          )}
           <div className="filters">
             <label className="search-label">
               クエスト名で検索
@@ -543,6 +578,42 @@ export default function App() {
                   </div>
                   {open && (
                     <div className="quest-details" id={`detail-${q.id}`}>
+                      {q.arenaInfo && (
+                        <section aria-label="闘技大会・チャレンジの参考情報">
+                          <h3>挑戦の参考情報</h3>
+                          <p className="small">
+                            狩猟対象：
+                            {q.arenaInfo.targets.join("、") || "未確認"}
+                          </p>
+                          <p className="small">
+                            難易度区分：{q.arenaInfo.difficulty ?? "未確認"} /
+                            人数：{q.arenaInfo.participantLimit}
+                          </p>
+                          <p className="small">
+                            {q.role === "prowler"
+                              ? "サポート傾向"
+                              : "使用可能な武器種"}
+                            ：
+                            {(q.role === "prowler"
+                              ? q.arenaInfo.supportTypes
+                              : q.arenaInfo.weapons
+                            )?.join("、") || "未確認"}
+                          </p>
+                          <p className="small">
+                            評価時間（出典表記）：
+                            {q.arenaInfo.evaluationNotation ?? "未確認"}
+                          </p>
+                          <p className="small">
+                            主なコイン・チケット：
+                            {q.arenaInfo.rewardMaterials.join("、") || "未確認"}
+                          </p>
+                          {q.arenaInfo.notes?.map((n) => (
+                            <p className="small muted" key={n}>
+                              {n}
+                            </p>
+                          ))}
+                        </section>
+                      )}
                       <h3>このクエストの出現前提</h3>
                       <p className={`state state-${state}`}>
                         {evaluationLabels[state]}

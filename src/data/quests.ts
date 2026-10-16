@@ -49,6 +49,10 @@ import eventHigh from "./event-high.json";
 
 import eventG from "./event-g.json";
 
+import arena from "./arena.json";
+
+import challenge from "./challenge.json";
+
 // IDは表示名・参照元・並び順が変わっても固定。旧14件のg8由来IDも維持する。
 export const quests: Quest[] = [
   ...village1,
@@ -93,8 +97,10 @@ export const quests: Quest[] = [
   ...eventLow,
   ...eventHigh,
   ...eventG,
+  ...arena,
+  ...challenge,
 ] as Quest[];
 export const dataStatus = {
   complete: false,
-  note: "村370件・集会所339件・G級230件・特殊許可228件・イベント144件を収録。攻略レシピの一覧と個別ページを照合しています。未確認点は個別に表示します。",
+  note: "村370件・集会所339件・G級230件・特殊許可228件・イベント144件と闘技大会17件・チャレンジ20件を収録。闘技大会・チャレンジの一部条件や追加候補は調査中です。攻略レシピの一覧と個別ページを照合しています。未確認点は個別に表示します。",
 };

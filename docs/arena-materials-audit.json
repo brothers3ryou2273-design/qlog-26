@@ -1,0 +1,1140 @@
+{
+  "checkedAt": "2026-10-16",
+  "entries": [
+    {
+      "name": "ガノスコイン",
+      "url": "http://wiki.mhxg.org/ida/229786.html",
+      "title": "ガノスコイン | 【MHXX】モンハンダブルクロス攻略レシピ",
+      "httpStatus": 200,
+      "uses": [
+        {
+          "kind": "[用途]武器",
+          "name": "シハンブレイド4",
+          "url": "http://wiki.mhxg.org/ida/228505.html",
+          "requirement": "[強化] 2個"
+        },
+        {
+          "kind": "[用途]武器",
+          "name": "シハンソード4",
+          "url": "http://wiki.mhxg.org/ida/227097.html",
+          "requirement": "[強化] 2個"
+        },
+        {
+          "kind": "[用途]武器",
+          "name": "シハンハンマー4",
+          "url": "http://wiki.mhxg.org/ida/228544.html",
+          "requirement": "[強化] 2個"
+        },
+        {
+          "kind": "[用途]武器",
+          "name": "シハンランス4",
+          "url": "http://wiki.mhxg.org/ida/227177.html",
+          "requirement": "[強化] 2個"
+        },
+        {
+          "kind": "[用途]武器",
+          "name": "シハンアックス4",
+          "url": "http://wiki.mhxg.org/ida/227320.html",
+          "requirement": "[強化] 2個"
+        },
+        {
+          "kind": "[用途]武器",
+          "name": "クロオビボウガン3",
+          "url": "http://wiki.mhxg.org/ida/228431.html",
+          "requirement": "[強化] 3個"
+        },
+        {
+          "kind": "[用途]防具生産",
+          "name": "クロオビSヘルム",
+          "url": "http://wiki.mhxg.org/ida/232730.html",
+          "requirement": "[生産] 2個"
+        },
+        {
+          "kind": "[用途]防具生産",
+          "name": "クロオビSメイル",
+          "url": "http://wiki.mhxg.org/ida/232730.html",
+          "requirement": "[生産] 2個"
+        },
+        {
+          "kind": "[用途]防具生産",
+          "name": "クロオビSグリーヴ",
+          "url": "http://wiki.mhxg.org/ida/232730.html",
+          "requirement": "[生産] 2個"
+        },
+        {
+          "kind": "[用途]防具強化",
+          "name": "クロオビシリーズ",
+          "url": "http://wiki.mhxg.org/ida/226291.html",
+          "requirement": "Lv8 [強化] 1個"
+        },
+        {
+          "kind": "[用途]防具強化",
+          "name": "クロオビSシリーズ",
+          "url": "http://wiki.mhxg.org/ida/232730.html",
+          "requirement": "Lv7 [強化] 1個"
+        }
+      ],
+      "sourceHtmlSha256": "4a7397607afbbfe3dbdb52a9c72d4a1ba7546f26b16c83e808f657073d78412d"
+    },
+    {
+      "name": "カブラコイン",
+      "url": "http://wiki.mhxg.org/ida/296018.html",
+      "title": "カブラコイン | 【MHXX】モンハンダブルクロス攻略レシピ",
+      "httpStatus": 200,
+      "uses": [
+        {
+          "kind": "[用途]武器",
+          "name": "キューキョクハンマー6",
+          "url": "http://wiki.mhxg.org/ida/228544.html",
+          "requirement": "[強化] 2個"
+        },
+        {
+          "kind": "[用途]武器",
+          "name": "キューキョクランス6",
+          "url": "http://wiki.mhxg.org/ida/227177.html",
+          "requirement": "[強化] 2個"
+        },
+        {
+          "kind": "[用途]武器",
+          "name": "シハンボウガン5",
+          "url": "http://wiki.mhxg.org/ida/228431.html",
+          "requirement": "[強化] 2個"
+        },
+        {
+          "kind": "[用途]防具生産",
+          "name": "クロオビＸヘルム",
+          "url": "http://wiki.mhxg.org/ida/295239.html",
+          "requirement": "[生産] 2個"
+        },
+        {
+          "kind": "[用途]防具生産",
+          "name": "クロオビＸアーム",
+          "url": "http://wiki.mhxg.org/ida/295239.html",
+          "requirement": "[生産] 2個"
+        },
+        {
+          "kind": "[用途]防具生産",
+          "name": "クロオビＸフォールド",
+          "url": "http://wiki.mhxg.org/ida/295239.html",
+          "requirement": "[生産] 2個"
+        },
+        {
+          "kind": "[用途]防具強化",
+          "name": "クロオビSシリーズ",
+          "url": "http://wiki.mhxg.org/ida/232730.html",
+          "requirement": "Lv9 [強化] 2個"
+        },
+        {
+          "kind": "[用途]防具強化",
+          "name": "アイルーヘアバンド",
+          "url": "http://wiki.mhxg.org/ida/232714.html",
+          "requirement": "Lv8 [強化] 1個"
+        }
+      ],
+      "sourceHtmlSha256": "e3b31ede0ca7cb63853f37f35a07b3c6c8007480074a89f3af5aebace30b4069"
+    },
+    {
+      "name": "ガララコイン",
+      "url": "http://wiki.mhxg.org/ida/229787.html",
+      "title": "ガララコイン | 【MHXX】モンハンダブルクロス攻略レシピ",
+      "httpStatus": 200,
+      "uses": [
+        {
+          "kind": "[用途]武器",
+          "name": "クロオビブレイド2",
+          "url": "http://wiki.mhxg.org/ida/228505.html",
+          "requirement": "[強化] 3個"
+        },
+        {
+          "kind": "[用途]武器",
+          "name": "クロオビソード2",
+          "url": "http://wiki.mhxg.org/ida/227097.html",
+          "requirement": "[強化] 3個"
+        },
+        {
+          "kind": "[用途]武器",
+          "name": "クロオビハンマー",
+          "url": "http://wiki.mhxg.org/ida/228544.html",
+          "requirement": "[生産] 2個"
+        },
+        {
+          "kind": "[用途]武器",
+          "name": "クロオビランス",
+          "url": "http://wiki.mhxg.org/ida/227177.html",
+          "requirement": "[生産] 2個"
+        },
+        {
+          "kind": "[用途]武器",
+          "name": "クロオビアックス",
+          "url": "http://wiki.mhxg.org/ida/227320.html",
+          "requirement": "[生産] 2個"
+        },
+        {
+          "kind": "[用途]武器",
+          "name": "クロオビボウガン",
+          "url": "http://wiki.mhxg.org/ida/228431.html",
+          "requirement": "[生産] 2個"
+        },
+        {
+          "kind": "[用途]防具生産",
+          "name": "クロオビフォールド",
+          "url": "http://wiki.mhxg.org/ida/226291.html",
+          "requirement": "[生産] 2個"
+        }
+      ],
+      "sourceHtmlSha256": "19331c110828ba6eba85154d0d321650ccae2eb571ff421c5bbe2a8eefbafa18"
+    },
+    {
+      "name": "ガルルガコイン",
+      "url": "http://wiki.mhxg.org/ida/296019.html",
+      "title": "ガルルガコイン | 【MHXX】モンハンダブルクロス攻略レシピ",
+      "httpStatus": 200,
+      "uses": [
+        {
+          "kind": "[用途]武器",
+          "name": "シハンハンマー5",
+          "url": "http://wiki.mhxg.org/ida/228544.html",
+          "requirement": "[強化] 3個"
+        },
+        {
+          "kind": "[用途]武器",
+          "name": "シハンランス5",
+          "url": "http://wiki.mhxg.org/ida/227177.html",
+          "requirement": "[強化] 3個"
+        },
+        {
+          "kind": "[用途]武器",
+          "name": "シハンボウガン5",
+          "url": "http://wiki.mhxg.org/ida/228431.html",
+          "requirement": "[強化] 2個"
+        },
+        {
+          "kind": "[用途]防具生産",
+          "name": "クロオビＸメイル",
+          "url": "http://wiki.mhxg.org/ida/295239.html",
+          "requirement": "[生産] 2個"
+        },
+        {
+          "kind": "[用途]防具生産",
+          "name": "クロオビＸフォールド",
+          "url": "http://wiki.mhxg.org/ida/295239.html",
+          "requirement": "[生産] 2個"
+        },
+        {
+          "kind": "[用途]防具生産",
+          "name": "クロオビＸグリーヴ",
+          "url": "http://wiki.mhxg.org/ida/295239.html",
+          "requirement": "[生産] 2個"
+        },
+        {
+          "kind": "[用途]防具強化",
+          "name": "虚心のピアス",
+          "url": "http://wiki.mhxg.org/ida/295687.html",
+          "requirement": "Lv5 [強化] 1個"
+        }
+      ],
+      "sourceHtmlSha256": "91beb72745053aeee4cc0679289503ba3909a9c72c906d23480a0f0cea218061"
+    },
+    {
+      "name": "ガンキンコイン",
+      "url": "http://wiki.mhxg.org/ida/296020.html",
+      "title": "ガンキンコイン | 【MHXX】モンハンダブルクロス攻略レシピ",
+      "httpStatus": 200,
+      "uses": [
+        {
+          "kind": "[用途]武器",
+          "name": "キューキョクブレイド6",
+          "url": "http://wiki.mhxg.org/ida/228505.html",
+          "requirement": "[強化] 2個"
+        },
+        {
+          "kind": "[用途]武器",
+          "name": "キューキョクソード6",
+          "url": "http://wiki.mhxg.org/ida/227097.html",
+          "requirement": "[強化] 2個"
+        },
+        {
+          "kind": "[用途]武器",
+          "name": "キューキョクアックス6",
+          "url": "http://wiki.mhxg.org/ida/227320.html",
+          "requirement": "[強化] 2個"
+        },
+        {
+          "kind": "[用途]武器",
+          "name": "キューキョクボウガン6",
+          "url": "http://wiki.mhxg.org/ida/228431.html",
+          "requirement": "[強化] 2個"
+        },
+        {
+          "kind": "[用途]防具生産",
+          "name": "クロオビＸアーム",
+          "url": "http://wiki.mhxg.org/ida/295239.html",
+          "requirement": "[生産] 2個"
+        },
+        {
+          "kind": "[用途]防具生産",
+          "name": "クロオビＸグリーヴ",
+          "url": "http://wiki.mhxg.org/ida/295239.html",
+          "requirement": "[生産] 2個"
+        },
+        {
+          "kind": "[用途]防具強化",
+          "name": "クロオビSシリーズ",
+          "url": "http://wiki.mhxg.org/ida/232730.html",
+          "requirement": "Lv12 [強化] 2個"
+        },
+        {
+          "kind": "[用途]防具強化",
+          "name": "虚心のピアス",
+          "url": "http://wiki.mhxg.org/ida/295687.html",
+          "requirement": "Lv6 [強化] 1個"
+        },
+        {
+          "kind": "[用途]防具強化",
+          "name": "切望のピアス",
+          "url": "http://wiki.mhxg.org/ida/295692.html",
+          "requirement": "Lv5 [強化] 1個"
+        }
+      ],
+      "sourceHtmlSha256": "ac111717cbce8d892ba803f8390a72a8a8871c999cf796bbd868e1a4bf25c3d0"
+    },
+    {
+      "name": "クロオビチケット",
+      "url": "http://wiki.mhxg.org/ida/226813.html",
+      "title": "クロオビチケット | 【MHXX】モンハンダブルクロス攻略レシピ",
+      "httpStatus": 200,
+      "uses": [
+        {
+          "kind": "[用途]武器",
+          "name": "クロオビブレイド",
+          "url": "http://wiki.mhxg.org/ida/228505.html",
+          "requirement": "[生産] 1個"
+        },
+        {
+          "kind": "[用途]武器",
+          "name": "クロオビソード",
+          "url": "http://wiki.mhxg.org/ida/227097.html",
+          "requirement": "[生産] 1個"
+        },
+        {
+          "kind": "[用途]武器",
+          "name": "クロオビハンマー",
+          "url": "http://wiki.mhxg.org/ida/228544.html",
+          "requirement": "[生産] 1個"
+        },
+        {
+          "kind": "[用途]武器",
+          "name": "クロオビランス",
+          "url": "http://wiki.mhxg.org/ida/227177.html",
+          "requirement": "[生産] 1個"
+        },
+        {
+          "kind": "[用途]武器",
+          "name": "クロオビアックス",
+          "url": "http://wiki.mhxg.org/ida/227320.html",
+          "requirement": "[生産] 1個"
+        },
+        {
+          "kind": "[用途]武器",
+          "name": "クロオビボウガン",
+          "url": "http://wiki.mhxg.org/ida/228431.html",
+          "requirement": "[生産] 1個"
+        },
+        {
+          "kind": "[用途]防具生産",
+          "name": "クロオビヘルム",
+          "url": "http://wiki.mhxg.org/ida/226291.html",
+          "requirement": "[生産] 1個"
+        },
+        {
+          "kind": "[用途]防具生産",
+          "name": "クロオビメイル",
+          "url": "http://wiki.mhxg.org/ida/226291.html",
+          "requirement": "[生産] 1個"
+        },
+        {
+          "kind": "[用途]防具生産",
+          "name": "クロオビアーム",
+          "url": "http://wiki.mhxg.org/ida/226291.html",
+          "requirement": "[生産] 1個"
+        },
+        {
+          "kind": "[用途]防具生産",
+          "name": "クロオビフォールド",
+          "url": "http://wiki.mhxg.org/ida/226291.html",
+          "requirement": "[生産] 1個"
+        },
+        {
+          "kind": "[用途]防具生産",
+          "name": "クロオビグリーヴ",
+          "url": "http://wiki.mhxg.org/ida/226291.html",
+          "requirement": "[生産] 1個"
+        },
+        {
+          "kind": "[用途]防具強化",
+          "name": "クロオビシリーズ",
+          "url": "http://wiki.mhxg.org/ida/226291.html",
+          "requirement": "Lv4 [強化] 1個"
+        },
+        {
+          "kind": "[用途]防具強化",
+          "name": "剣聖のピアス",
+          "url": "http://wiki.mhxg.org/ida/232738.html",
+          "requirement": "Lv5 [強化] 2個"
+        },
+        {
+          "kind": "[用途]防具強化",
+          "name": "増弾のピアス",
+          "url": "http://wiki.mhxg.org/ida/232740.html",
+          "requirement": "Lv5 [強化] 2個"
+        },
+        {
+          "kind": "[用途]山菜爺",
+          "name": "山菜爺と交換",
+          "url": "http://wiki.mhxg.org/data/2504.html#id269679",
+          "requirement": "クロオビチケット →"
+        },
+        {
+          "kind": "[用途]山菜爺",
+          "name": "素材玉",
+          "url": "http://wiki.mhxg.org/ida/189138.html",
+          "requirement": "1個"
+        }
+      ],
+      "sourceHtmlSha256": "2d878a1ed15b5840be5f3949901dd60db89c81a74aac9f64ef1f1d1c2cc039bc"
+    },
+    {
+      "name": "ケチャコイン",
+      "url": "http://wiki.mhxg.org/ida/229823.html",
+      "title": "ケチャコイン | 【MHXX】モンハンダブルクロス攻略レシピ",
+      "httpStatus": 200,
+      "uses": [
+        {
+          "kind": "[用途]武器",
+          "name": "クロオビブレイド3",
+          "url": "http://wiki.mhxg.org/ida/228505.html",
+          "requirement": "[強化] 3個"
+        },
+        {
+          "kind": "[用途]武器",
+          "name": "クロオビソード3",
+          "url": "http://wiki.mhxg.org/ida/227097.html",
+          "requirement": "[強化] 3個"
+        },
+        {
+          "kind": "[用途]武器",
+          "name": "クロオビハンマー3",
+          "url": "http://wiki.mhxg.org/ida/228544.html",
+          "requirement": "[強化] 3個"
+        },
+        {
+          "kind": "[用途]武器",
+          "name": "クロオビランス3",
+          "url": "http://wiki.mhxg.org/ida/227177.html",
+          "requirement": "[強化] 3個"
+        },
+        {
+          "kind": "[用途]武器",
+          "name": "クロオビアックス3",
+          "url": "http://wiki.mhxg.org/ida/227320.html",
+          "requirement": "[強化] 3個"
+        },
+        {
+          "kind": "[用途]武器",
+          "name": "シハンボウガン4",
+          "url": "http://wiki.mhxg.org/ida/228431.html",
+          "requirement": "[強化] 2個"
+        },
+        {
+          "kind": "[用途]防具生産",
+          "name": "クロオビSアーム",
+          "url": "http://wiki.mhxg.org/ida/232730.html",
+          "requirement": "[生産] 2個"
+        },
+        {
+          "kind": "[用途]防具生産",
+          "name": "クロオビSフォールド",
+          "url": "http://wiki.mhxg.org/ida/232730.html",
+          "requirement": "[生産] 2個"
+        },
+        {
+          "kind": "[用途]防具強化",
+          "name": "クロオビシリーズ",
+          "url": "http://wiki.mhxg.org/ida/226291.html",
+          "requirement": "Lv8 [強化] 1個"
+        }
+      ],
+      "sourceHtmlSha256": "81262070e2cb63924813dd61cd6f7aa15ecf138400fdfeafdd40e70fb1a45c1b"
+    },
+    {
+      "name": "ゲリョスコイン",
+      "url": "http://wiki.mhxg.org/ida/226814.html",
+      "title": "ゲリョスコイン | 【MHXX】モンハンダブルクロス攻略レシピ",
+      "httpStatus": 200,
+      "uses": [
+        {
+          "kind": "[用途]防具生産",
+          "name": "クロオビヘルム",
+          "url": "http://wiki.mhxg.org/ida/226291.html",
+          "requirement": "[生産] 2個"
+        },
+        {
+          "kind": "[用途]防具生産",
+          "name": "クロオビメイル",
+          "url": "http://wiki.mhxg.org/ida/226291.html",
+          "requirement": "[生産] 2個"
+        },
+        {
+          "kind": "[用途]防具生産",
+          "name": "クロオビグリーヴ",
+          "url": "http://wiki.mhxg.org/ida/226291.html",
+          "requirement": "[生産] 2個"
+        },
+        {
+          "kind": "[用途]防具強化",
+          "name": "アイルーヘアバンド",
+          "url": "http://wiki.mhxg.org/ida/232714.html",
+          "requirement": "Lv5 [強化] 2個"
+        }
+      ],
+      "sourceHtmlSha256": "802c6b30dd97536850f7c23d394ec3e1a289ed20a8663efa01b893c2bc9cd4e4"
+    },
+    {
+      "name": "タツジンチケット",
+      "url": "http://wiki.mhxg.org/ida/229844.html",
+      "title": "タツジンチケット | 【MHXX】モンハンダブルクロス攻略レシピ",
+      "httpStatus": 200,
+      "uses": [
+        {
+          "kind": "[用途]防具生産",
+          "name": "クロオビSヘルム",
+          "url": "http://wiki.mhxg.org/ida/232730.html",
+          "requirement": "[生産] 1個"
+        },
+        {
+          "kind": "[用途]防具生産",
+          "name": "クロオビSメイル",
+          "url": "http://wiki.mhxg.org/ida/232730.html",
+          "requirement": "[生産] 1個"
+        },
+        {
+          "kind": "[用途]防具生産",
+          "name": "クロオビSアーム",
+          "url": "http://wiki.mhxg.org/ida/232730.html",
+          "requirement": "[生産] 1個"
+        },
+        {
+          "kind": "[用途]防具生産",
+          "name": "クロオビSフォールド",
+          "url": "http://wiki.mhxg.org/ida/232730.html",
+          "requirement": "[生産] 1個"
+        },
+        {
+          "kind": "[用途]防具生産",
+          "name": "クロオビSグリーヴ",
+          "url": "http://wiki.mhxg.org/ida/232730.html",
+          "requirement": "[生産] 1個"
+        },
+        {
+          "kind": "[用途]防具強化",
+          "name": "クロオビシリーズ",
+          "url": "http://wiki.mhxg.org/ida/226291.html",
+          "requirement": "Lv10 [強化] 1個"
+        },
+        {
+          "kind": "[用途]防具強化",
+          "name": "クロオビSシリーズ",
+          "url": "http://wiki.mhxg.org/ida/232730.html",
+          "requirement": "Lv4 [強化] 1個"
+        },
+        {
+          "kind": "[用途]防具強化",
+          "name": "クロオビSシリーズ",
+          "url": "http://wiki.mhxg.org/ida/232730.html",
+          "requirement": "Lv7 [強化] 1個"
+        },
+        {
+          "kind": "[用途]防具強化",
+          "name": "剣聖のピアス",
+          "url": "http://wiki.mhxg.org/ida/232738.html",
+          "requirement": "Lv7 [強化] 1個"
+        },
+        {
+          "kind": "[用途]防具強化",
+          "name": "増弾のピアス",
+          "url": "http://wiki.mhxg.org/ida/232740.html",
+          "requirement": "Lv7 [強化] 1個"
+        },
+        {
+          "kind": "[用途]山菜爺",
+          "name": "山菜爺と交換",
+          "url": "http://wiki.mhxg.org/data/2504.html#id336958",
+          "requirement": "タツジンチケット →"
+        },
+        {
+          "kind": "[用途]山菜爺",
+          "name": "増強剤",
+          "url": "http://wiki.mhxg.org/ida/189118.html",
+          "requirement": "1個"
+        }
+      ],
+      "sourceHtmlSha256": "43c96bd9f8723511404458e0a944eac911bf2af4a92357531782203026ec14c0"
+    },
+    {
+      "name": "タツジンチケットG",
+      "url": "http://wiki.mhxg.org/ida/296038.html",
+      "title": "タツジンチケットG | 【MHXX】モンハンダブルクロス攻略レシピ",
+      "httpStatus": 200,
+      "uses": [
+        {
+          "kind": "[用途]武器",
+          "name": "シハンブレイド5",
+          "url": "http://wiki.mhxg.org/ida/228505.html",
+          "requirement": "[強化] 1個"
+        },
+        {
+          "kind": "[用途]武器",
+          "name": "シハンソード5",
+          "url": "http://wiki.mhxg.org/ida/227097.html",
+          "requirement": "[強化] 1個"
+        },
+        {
+          "kind": "[用途]武器",
+          "name": "シハンハンマー5",
+          "url": "http://wiki.mhxg.org/ida/228544.html",
+          "requirement": "[強化] 1個"
+        },
+        {
+          "kind": "[用途]武器",
+          "name": "シハンランス5",
+          "url": "http://wiki.mhxg.org/ida/227177.html",
+          "requirement": "[強化] 1個"
+        },
+        {
+          "kind": "[用途]武器",
+          "name": "シハンアックス5",
+          "url": "http://wiki.mhxg.org/ida/227320.html",
+          "requirement": "[強化] 1個"
+        },
+        {
+          "kind": "[用途]武器",
+          "name": "シハンボウガン5",
+          "url": "http://wiki.mhxg.org/ida/228431.html",
+          "requirement": "[強化] 1個"
+        },
+        {
+          "kind": "[用途]防具生産",
+          "name": "クロオビＸヘルム",
+          "url": "http://wiki.mhxg.org/ida/295239.html",
+          "requirement": "[生産] 1個"
+        },
+        {
+          "kind": "[用途]防具生産",
+          "name": "クロオビＸメイル",
+          "url": "http://wiki.mhxg.org/ida/295239.html",
+          "requirement": "[生産] 1個"
+        },
+        {
+          "kind": "[用途]防具生産",
+          "name": "クロオビＸアーム",
+          "url": "http://wiki.mhxg.org/ida/295239.html",
+          "requirement": "[生産] 1個"
+        },
+        {
+          "kind": "[用途]防具生産",
+          "name": "クロオビＸフォールド",
+          "url": "http://wiki.mhxg.org/ida/295239.html",
+          "requirement": "[生産] 1個"
+        },
+        {
+          "kind": "[用途]防具生産",
+          "name": "クロオビＸグリーヴ",
+          "url": "http://wiki.mhxg.org/ida/295239.html",
+          "requirement": "[生産] 1個"
+        },
+        {
+          "kind": "[用途]防具強化",
+          "name": "クロオビSシリーズ",
+          "url": "http://wiki.mhxg.org/ida/232730.html",
+          "requirement": "Lv9 [強化] 2個"
+        },
+        {
+          "kind": "[用途]防具強化",
+          "name": "剣聖のピアス",
+          "url": "http://wiki.mhxg.org/ida/232738.html",
+          "requirement": "Lv8 [強化] 2個"
+        },
+        {
+          "kind": "[用途]防具強化",
+          "name": "増弾のピアス",
+          "url": "http://wiki.mhxg.org/ida/232740.html",
+          "requirement": "Lv8 [強化] 2個"
+        },
+        {
+          "kind": "[用途]防具強化",
+          "name": "クロオビＸシリーズ",
+          "url": "http://wiki.mhxg.org/ida/295239.html",
+          "requirement": "Lv4 [強化] 2個"
+        },
+        {
+          "kind": "[用途]防具強化",
+          "name": "虚心のピアス",
+          "url": "http://wiki.mhxg.org/ida/295687.html",
+          "requirement": "Lv4 [強化] 1個"
+        },
+        {
+          "kind": "[用途]防具強化",
+          "name": "虚心のピアス",
+          "url": "http://wiki.mhxg.org/ida/295687.html",
+          "requirement": "Lv5 [強化] 1個"
+        },
+        {
+          "kind": "[用途]防具強化",
+          "name": "切望のピアス",
+          "url": "http://wiki.mhxg.org/ida/295692.html",
+          "requirement": "Lv4 [強化] 1個"
+        },
+        {
+          "kind": "[用途]装飾品",
+          "name": "会心珠【3】",
+          "url": "http://wiki.mhxg.org/ida/288541.html",
+          "requirement": "[生産] 2個"
+        },
+        {
+          "kind": "[用途]山菜爺",
+          "name": "山菜爺と交換",
+          "url": "http://wiki.mhxg.org/data/2504.html#id337117",
+          "requirement": "タツジンチケットG →"
+        },
+        {
+          "kind": "[用途]山菜爺",
+          "name": "栄養剤",
+          "url": "http://wiki.mhxg.org/ida/188322.html",
+          "requirement": "1個"
+        }
+      ],
+      "sourceHtmlSha256": "c3eb6cd3210f06ad522e6ac4a43bce7ac0db19e792bfc4b78dcfb342286e9060"
+    },
+    {
+      "name": "デンセツチケット",
+      "url": "http://wiki.mhxg.org/ida/229854.html",
+      "title": "デンセツチケット | 【MHXX】モンハンダブルクロス攻略レシピ",
+      "httpStatus": 200,
+      "uses": [
+        {
+          "kind": "[用途]防具強化",
+          "name": "クロオビシリーズ",
+          "url": "http://wiki.mhxg.org/ida/226291.html",
+          "requirement": "Lv10 [強化] 1個"
+        },
+        {
+          "kind": "[用途]防具強化",
+          "name": "クロオビSシリーズ",
+          "url": "http://wiki.mhxg.org/ida/232730.html",
+          "requirement": "Lv8 [強化] 1個"
+        },
+        {
+          "kind": "[用途]防具強化",
+          "name": "剣聖のピアス",
+          "url": "http://wiki.mhxg.org/ida/232738.html",
+          "requirement": "Lv7 [強化] 1個"
+        },
+        {
+          "kind": "[用途]防具強化",
+          "name": "増弾のピアス",
+          "url": "http://wiki.mhxg.org/ida/232740.html",
+          "requirement": "Lv7 [強化] 1個"
+        },
+        {
+          "kind": "[用途]装飾品",
+          "name": "会心珠【1】",
+          "url": "http://wiki.mhxg.org/ida/231085.html",
+          "requirement": "[生産] 2個"
+        },
+        {
+          "kind": "[用途]山菜爺",
+          "name": "山菜爺と交換",
+          "url": "http://wiki.mhxg.org/data/2504.html#id336959",
+          "requirement": "デンセツチケット →"
+        },
+        {
+          "kind": "[用途]山菜爺",
+          "name": "生命の粉",
+          "url": "http://wiki.mhxg.org/ida/189073.html",
+          "requirement": "1個"
+        }
+      ],
+      "sourceHtmlSha256": "9042e33780d32d0635f7d5d1e08b681ef0ac5c72e4aba543ab718b7fa7f34c0d"
+    },
+    {
+      "name": "デンセツチケットG",
+      "url": "http://wiki.mhxg.org/ida/296043.html",
+      "title": "デンセツチケットG | 【MHXX】モンハンダブルクロス攻略レシピ",
+      "httpStatus": 200,
+      "uses": [
+        {
+          "kind": "[用途]武器",
+          "name": "キューキョクブレイド6",
+          "url": "http://wiki.mhxg.org/ida/228505.html",
+          "requirement": "[強化] 1個"
+        },
+        {
+          "kind": "[用途]武器",
+          "name": "キューキョクソード6",
+          "url": "http://wiki.mhxg.org/ida/227097.html",
+          "requirement": "[強化] 1個"
+        },
+        {
+          "kind": "[用途]武器",
+          "name": "キューキョクハンマー6",
+          "url": "http://wiki.mhxg.org/ida/228544.html",
+          "requirement": "[強化] 1個"
+        },
+        {
+          "kind": "[用途]武器",
+          "name": "キューキョクランス6",
+          "url": "http://wiki.mhxg.org/ida/227177.html",
+          "requirement": "[強化] 1個"
+        },
+        {
+          "kind": "[用途]武器",
+          "name": "キューキョクアックス6",
+          "url": "http://wiki.mhxg.org/ida/227320.html",
+          "requirement": "[強化] 1個"
+        },
+        {
+          "kind": "[用途]武器",
+          "name": "キューキョクボウガン6",
+          "url": "http://wiki.mhxg.org/ida/228431.html",
+          "requirement": "[強化] 1個"
+        },
+        {
+          "kind": "[用途]防具強化",
+          "name": "クロオビSシリーズ",
+          "url": "http://wiki.mhxg.org/ida/232730.html",
+          "requirement": "Lv12 [強化] 2個"
+        },
+        {
+          "kind": "[用途]防具強化",
+          "name": "剣聖のピアス",
+          "url": "http://wiki.mhxg.org/ida/232738.html",
+          "requirement": "Lv10 [強化] 1個"
+        },
+        {
+          "kind": "[用途]防具強化",
+          "name": "増弾のピアス",
+          "url": "http://wiki.mhxg.org/ida/232740.html",
+          "requirement": "Lv10 [強化] 1個"
+        },
+        {
+          "kind": "[用途]防具強化",
+          "name": "クロオビＸシリーズ",
+          "url": "http://wiki.mhxg.org/ida/295239.html",
+          "requirement": "Lv5 [強化] 2個"
+        },
+        {
+          "kind": "[用途]防具強化",
+          "name": "クロオビＸシリーズ",
+          "url": "http://wiki.mhxg.org/ida/295239.html",
+          "requirement": "Lv6 [強化] 2個"
+        },
+        {
+          "kind": "[用途]防具強化",
+          "name": "虚心のピアス",
+          "url": "http://wiki.mhxg.org/ida/295687.html",
+          "requirement": "Lv6 [強化] 1個"
+        },
+        {
+          "kind": "[用途]防具強化",
+          "name": "切望のピアス",
+          "url": "http://wiki.mhxg.org/ida/295692.html",
+          "requirement": "Lv5 [強化] 1個"
+        },
+        {
+          "kind": "[用途]防具強化",
+          "name": "切望のピアス",
+          "url": "http://wiki.mhxg.org/ida/295692.html",
+          "requirement": "Lv6 [強化] 1個"
+        },
+        {
+          "kind": "[用途]山菜爺",
+          "name": "山菜爺と交換",
+          "url": "http://wiki.mhxg.org/data/2504.html#id337118",
+          "requirement": "デンセツチケットG →"
+        },
+        {
+          "kind": "[用途]山菜爺",
+          "name": "活力剤",
+          "url": "http://wiki.mhxg.org/ida/188467.html",
+          "requirement": "1個"
+        }
+      ],
+      "sourceHtmlSha256": "2053e0cde40183631a22f5ce62940737551860ee6474b5ad375f5eea1c79baaf"
+    },
+    {
+      "name": "ドスコイン",
+      "url": "http://wiki.mhxg.org/ida/229889.html",
+      "title": "ドスコイン | 【MHXX】モンハンダブルクロス攻略レシピ",
+      "httpStatus": 200,
+      "uses": [
+        {
+          "kind": "[用途]防具生産",
+          "name": "アイルーヘアバンド",
+          "url": "http://wiki.mhxg.org/ida/232714.html",
+          "requirement": "[生産] 2個"
+        },
+        {
+          "kind": "[用途]防具強化",
+          "name": "クロオビSシリーズ",
+          "url": "http://wiki.mhxg.org/ida/232730.html",
+          "requirement": "Lv8 [強化] 1個"
+        },
+        {
+          "kind": "[用途]防具強化",
+          "name": "アイルーヘアバンド",
+          "url": "http://wiki.mhxg.org/ida/232714.html",
+          "requirement": "Lv5 [強化] 2個"
+        }
+      ],
+      "sourceHtmlSha256": "19d6cce81ba2477903432ca1cebdcd60510b00d0e0f7ecf74f55a44a20e6c92b"
+    },
+    {
+      "name": "ババコイン",
+      "url": "http://wiki.mhxg.org/ida/296099.html",
+      "title": "ババコイン | 【MHXX】モンハンダブルクロス攻略レシピ",
+      "httpStatus": 200,
+      "uses": [
+        {
+          "kind": "[用途]武器",
+          "name": "シハンブレイド5",
+          "url": "http://wiki.mhxg.org/ida/228505.html",
+          "requirement": "[強化] 3個"
+        },
+        {
+          "kind": "[用途]武器",
+          "name": "シハンソード5",
+          "url": "http://wiki.mhxg.org/ida/227097.html",
+          "requirement": "[強化] 3個"
+        },
+        {
+          "kind": "[用途]武器",
+          "name": "シハンアックス5",
+          "url": "http://wiki.mhxg.org/ida/227320.html",
+          "requirement": "[強化] 3個"
+        },
+        {
+          "kind": "[用途]防具生産",
+          "name": "クロオビＸヘルム",
+          "url": "http://wiki.mhxg.org/ida/295239.html",
+          "requirement": "[生産] 2個"
+        },
+        {
+          "kind": "[用途]防具生産",
+          "name": "クロオビＸメイル",
+          "url": "http://wiki.mhxg.org/ida/295239.html",
+          "requirement": "[生産] 2個"
+        }
+      ],
+      "sourceHtmlSha256": "cc779637653d73b4143627471116230e8a8721e755fd3e48cb389308de7f3a67"
+    },
+    {
+      "name": "ブラキコイン",
+      "url": "http://wiki.mhxg.org/ida/229904.html",
+      "title": "ブラキコイン | 【MHXX】モンハンダブルクロス攻略レシピ",
+      "httpStatus": 200,
+      "uses": [
+        {
+          "kind": "[用途]武器",
+          "name": "シハンブレイド4",
+          "url": "http://wiki.mhxg.org/ida/228505.html",
+          "requirement": "[強化] 2個"
+        },
+        {
+          "kind": "[用途]武器",
+          "name": "シハンソード4",
+          "url": "http://wiki.mhxg.org/ida/227097.html",
+          "requirement": "[強化] 2個"
+        },
+        {
+          "kind": "[用途]武器",
+          "name": "シハンハンマー4",
+          "url": "http://wiki.mhxg.org/ida/228544.html",
+          "requirement": "[強化] 2個"
+        },
+        {
+          "kind": "[用途]武器",
+          "name": "シハンランス4",
+          "url": "http://wiki.mhxg.org/ida/227177.html",
+          "requirement": "[強化] 2個"
+        },
+        {
+          "kind": "[用途]武器",
+          "name": "シハンアックス4",
+          "url": "http://wiki.mhxg.org/ida/227320.html",
+          "requirement": "[強化] 2個"
+        },
+        {
+          "kind": "[用途]武器",
+          "name": "シハンボウガン4",
+          "url": "http://wiki.mhxg.org/ida/228431.html",
+          "requirement": "[強化] 2個"
+        }
+      ],
+      "sourceHtmlSha256": "ba67caabef857ffdae79e23c79c0e5c4d5bb52427363d0db948a53f7db25e8a5"
+    },
+    {
+      "name": "フルフルコイン",
+      "url": "http://wiki.mhxg.org/ida/229905.html",
+      "title": "フルフルコイン | 【MHXX】モンハンダブルクロス攻略レシピ",
+      "httpStatus": 200,
+      "uses": [
+        {
+          "kind": "[用途]武器",
+          "name": "クロオビブレイド",
+          "url": "http://wiki.mhxg.org/ida/228505.html",
+          "requirement": "[生産] 2個"
+        },
+        {
+          "kind": "[用途]武器",
+          "name": "クロオビソード",
+          "url": "http://wiki.mhxg.org/ida/227097.html",
+          "requirement": "[生産] 2個"
+        },
+        {
+          "kind": "[用途]武器",
+          "name": "クロオビハンマー2",
+          "url": "http://wiki.mhxg.org/ida/228544.html",
+          "requirement": "[強化] 3個"
+        },
+        {
+          "kind": "[用途]武器",
+          "name": "クロオビランス2",
+          "url": "http://wiki.mhxg.org/ida/227177.html",
+          "requirement": "[強化] 3個"
+        },
+        {
+          "kind": "[用途]武器",
+          "name": "クロオビアックス2",
+          "url": "http://wiki.mhxg.org/ida/227320.html",
+          "requirement": "[強化] 3個"
+        },
+        {
+          "kind": "[用途]武器",
+          "name": "クロオビボウガン",
+          "url": "http://wiki.mhxg.org/ida/228431.html",
+          "requirement": "[生産] 2個"
+        },
+        {
+          "kind": "[用途]防具生産",
+          "name": "クロオビアーム",
+          "url": "http://wiki.mhxg.org/ida/226291.html",
+          "requirement": "[生産] 2個"
+        }
+      ],
+      "sourceHtmlSha256": "c0484946b5d026f4968010589ccb1ad13690472cfd100d4c8162271b7b01edb2"
+    },
+    {
+      "name": "レウスコイン",
+      "url": "http://wiki.mhxg.org/ida/229932.html",
+      "title": "レウスコイン | 【MHXX】モンハンダブルクロス攻略レシピ",
+      "httpStatus": 200,
+      "uses": [
+        {
+          "kind": "[用途]武器",
+          "name": "クロオビブレイド",
+          "url": "http://wiki.mhxg.org/ida/228505.html",
+          "requirement": "[生産] 2個"
+        },
+        {
+          "kind": "[用途]武器",
+          "name": "クロオビソード",
+          "url": "http://wiki.mhxg.org/ida/227097.html",
+          "requirement": "[生産] 2個"
+        },
+        {
+          "kind": "[用途]武器",
+          "name": "クロオビハンマー",
+          "url": "http://wiki.mhxg.org/ida/228544.html",
+          "requirement": "[生産] 2個"
+        },
+        {
+          "kind": "[用途]武器",
+          "name": "クロオビランス",
+          "url": "http://wiki.mhxg.org/ida/227177.html",
+          "requirement": "[生産] 2個"
+        },
+        {
+          "kind": "[用途]武器",
+          "name": "クロオビアックス",
+          "url": "http://wiki.mhxg.org/ida/227320.html",
+          "requirement": "[生産] 2個"
+        },
+        {
+          "kind": "[用途]武器",
+          "name": "クロオビボウガン2",
+          "url": "http://wiki.mhxg.org/ida/228431.html",
+          "requirement": "[強化] 3個"
+        }
+      ],
+      "sourceHtmlSha256": "3d053aee25ee0207c84fb8046dea2d9fc770c9453ce3954d68cf305ff5a4b4c2"
+    },
+    {
+      "name": "レギオスコイン",
+      "url": "http://wiki.mhxg.org/ida/296116.html",
+      "title": "レギオスコイン | 【MHXX】モンハンダブルクロス攻略レシピ",
+      "httpStatus": 200,
+      "uses": [
+        {
+          "kind": "[用途]武器",
+          "name": "キューキョクブレイド6",
+          "url": "http://wiki.mhxg.org/ida/228505.html",
+          "requirement": "[強化] 2個"
+        },
+        {
+          "kind": "[用途]武器",
+          "name": "キューキョクソード6",
+          "url": "http://wiki.mhxg.org/ida/227097.html",
+          "requirement": "[強化] 2個"
+        },
+        {
+          "kind": "[用途]武器",
+          "name": "キューキョクハンマー6",
+          "url": "http://wiki.mhxg.org/ida/228544.html",
+          "requirement": "[強化] 2個"
+        },
+        {
+          "kind": "[用途]武器",
+          "name": "キューキョクランス6",
+          "url": "http://wiki.mhxg.org/ida/227177.html",
+          "requirement": "[強化] 2個"
+        },
+        {
+          "kind": "[用途]武器",
+          "name": "キューキョクアックス6",
+          "url": "http://wiki.mhxg.org/ida/227320.html",
+          "requirement": "[強化] 2個"
+        },
+        {
+          "kind": "[用途]武器",
+          "name": "キューキョクボウガン6",
+          "url": "http://wiki.mhxg.org/ida/228431.html",
+          "requirement": "[強化] 2個"
+        },
+        {
+          "kind": "[用途]防具強化",
+          "name": "クロオビＸシリーズ",
+          "url": "http://wiki.mhxg.org/ida/295239.html",
+          "requirement": "Lv5 [強化] 2個"
+        },
+        {
+          "kind": "[用途]防具強化",
+          "name": "切望のピアス",
+          "url": "http://wiki.mhxg.org/ida/295692.html",
+          "requirement": "Lv6 [強化] 1個"
+        }
+      ],
+      "sourceHtmlSha256": "6d0c26b0963b1f15ff767777ed9a01bf1e20655041cbbed40f4d59d9d9e78d07"
+    }
+  ],
+  "policy": "コイン／チケット18件の具体的な生産・強化先を確認。通常報酬素材のみのチャレンジに解放表示を付けない。個別の報酬数・評価別確定枠は未確認。"
+}
