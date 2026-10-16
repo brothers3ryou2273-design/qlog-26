@@ -1,0 +1,951 @@
+{
+  "checkedAt": "2026-10-16",
+  "category": "g_rank",
+  "ranks": [
+    {
+      "rank": "1",
+      "recipeListUrl": "http://wiki.mhxg.org/data/2028.html",
+      "observedCount": 32,
+      "entries": [
+        {
+          "name": "遺群嶺の採集ツアー",
+          "recipeUrl": "http://wiki.mhxg.org/ida/285781.html",
+          "detailTitle": "G★1遺群嶺の採集ツアー | 【MHXX】モンハンダブルクロス攻略レシピ",
+          "icons": [
+            "採集"
+          ],
+          "role": "hunter",
+          "tags": [
+            "normal"
+          ],
+          "observations": []
+        },
+        {
+          "name": "砂漠の採集ツアー",
+          "recipeUrl": "http://wiki.mhxg.org/ida/285782.html",
+          "detailTitle": "G★1砂漠の採集ツアー | 【MHXX】モンハンダブルクロス攻略レシピ",
+          "icons": [
+            "採集"
+          ],
+          "role": "hunter",
+          "tags": [
+            "normal"
+          ],
+          "observations": []
+        },
+        {
+          "name": "遺跡平原の採集ツアー",
+          "recipeUrl": "http://wiki.mhxg.org/ida/285783.html",
+          "detailTitle": "G★1遺跡平原の採集ツアー | 【MHXX】モンハンダブルクロス攻略レシピ",
+          "icons": [
+            "採集"
+          ],
+          "role": "hunter",
+          "tags": [
+            "normal"
+          ],
+          "observations": []
+        },
+        {
+          "name": "原生林の採集ツアー",
+          "recipeUrl": "http://wiki.mhxg.org/ida/285784.html",
+          "detailTitle": "G★1原生林の採集ツアー | 【MHXX】モンハンダブルクロス攻略レシピ",
+          "icons": [
+            "採集"
+          ],
+          "role": "hunter",
+          "tags": [
+            "normal"
+          ],
+          "observations": []
+        },
+        {
+          "name": "古代林の採集ツアー",
+          "recipeUrl": "http://wiki.mhxg.org/ida/285785.html",
+          "detailTitle": "G★1古代林の採集ツアー | 【MHXX】モンハンダブルクロス攻略レシピ",
+          "icons": [
+            "採集"
+          ],
+          "role": "hunter",
+          "tags": [
+            "normal"
+          ],
+          "observations": []
+        },
+        {
+          "name": "旧砂漠の採集ツアー",
+          "recipeUrl": "http://wiki.mhxg.org/ida/285786.html",
+          "detailTitle": "G★1旧砂漠の採集ツアー | 【MHXX】モンハンダブルクロス攻略レシピ",
+          "icons": [
+            "採集"
+          ],
+          "role": "hunter",
+          "tags": [
+            "normal"
+          ],
+          "observations": []
+        },
+        {
+          "name": "森丘の採集ツアー",
+          "recipeUrl": "http://wiki.mhxg.org/ida/285787.html",
+          "detailTitle": "G★1森丘の採集ツアー | 【MHXX】モンハンダブルクロス攻略レシピ",
+          "icons": [
+            "採集"
+          ],
+          "role": "hunter",
+          "tags": [
+            "normal"
+          ],
+          "observations": []
+        },
+        {
+          "name": "雪山の採集ツアー",
+          "recipeUrl": "http://wiki.mhxg.org/ida/285788.html",
+          "detailTitle": "G★1雪山の採集ツアー | 【MHXX】モンハンダブルクロス攻略レシピ",
+          "icons": [
+            "採集"
+          ],
+          "role": "hunter",
+          "tags": [
+            "normal"
+          ],
+          "observations": []
+        },
+        {
+          "name": "渓流の採集ツアー",
+          "recipeUrl": "http://wiki.mhxg.org/ida/286173.html",
+          "detailTitle": "G★1渓流の採集ツアー | 【MHXX】モンハンダブルクロス攻略レシピ",
+          "icons": [
+            "採集"
+          ],
+          "role": "hunter",
+          "tags": [
+            "normal"
+          ],
+          "observations": []
+        },
+        {
+          "name": "つつかれて、またつつかれて",
+          "recipeUrl": "http://wiki.mhxg.org/ida/286174.html",
+          "detailTitle": "G★1つつかれて、またつつかれて | 【MHXX】モンハンダブルクロス攻略レシピ",
+          "icons": [
+            "狩猟",
+            "キー",
+            "フラグ"
+          ],
+          "role": "hunter",
+          "tags": [
+            "key"
+          ],
+          "observations": [
+            {
+              "title": "他のクエスト発生に必要",
+              "text": "G★2逆襲の怪鳥",
+              "links": [
+                {
+                  "label": "G★2逆襲の怪鳥",
+                  "url": "http://wiki.mhxg.org/ida/288281.html"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "毒怪鳥が盗んだものを追って",
+          "recipeUrl": "http://wiki.mhxg.org/ida/286175.html",
+          "detailTitle": "G★1毒怪鳥が盗んだものを追って | 【MHXX】モンハンダブルクロス攻略レシピ",
+          "icons": [
+            "狩猟",
+            "依頼",
+            "武具",
+            "フラグ"
+          ],
+          "role": "hunter",
+          "tags": [
+            "request"
+          ],
+          "observations": [
+            {
+              "title": "備考",
+              "text": "G★1奪われて、追いかけて クリア後",
+              "links": [
+                {
+                  "label": "G★1奪われて、追いかけて",
+                  "url": "http://wiki.mhxg.org/ida/286182.html"
+                }
+              ]
+            },
+            {
+              "title": "依頼",
+              "text": "[受注] ベルナ村 ネコ嬢の依頼3 [依頼出現条件] 依頼★ネコ嬢の依頼2 クリア後G★1奪われて、追いかけて クリア後 装備開放(製法) ムーファＸシリーズ オトモ装備開放 ムーファＸネコウールムーファＸネコヘッドムーファＸネコスーツ",
+              "links": [
+                {
+                  "label": "ネコ嬢の依頼3",
+                  "url": "http://wiki.mhxg.org/ida/306639.html"
+                },
+                {
+                  "label": "依頼★ネコ嬢の依頼2",
+                  "url": "http://wiki.mhxg.org/ida/306638.html"
+                },
+                {
+                  "label": "G★1奪われて、追いかけて",
+                  "url": "http://wiki.mhxg.org/ida/286182.html"
+                },
+                {
+                  "label": "ムーファＸシリーズ",
+                  "url": "http://wiki.mhxg.org/ida/293633.html"
+                },
+                {
+                  "label": "ムーファＸネコウール",
+                  "url": "http://wiki.mhxg.org/ida/321700.html"
+                },
+                {
+                  "label": "ムーファＸネコヘッド",
+                  "url": "http://wiki.mhxg.org/ida/322034.html"
+                },
+                {
+                  "label": "ムーファＸネコスーツ",
+                  "url": "http://wiki.mhxg.org/ida/322035.html"
+                }
+              ]
+            },
+            {
+              "title": "他のクエスト発生に必要",
+              "text": "G★2毒怪鳥は元気に走る",
+              "links": [
+                {
+                  "label": "G★2毒怪鳥は元気に走る",
+                  "url": "http://wiki.mhxg.org/ida/288284.html"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "看板娘セレクト：遺群嶺の水獣",
+          "recipeUrl": "http://wiki.mhxg.org/ida/286176.html",
+          "detailTitle": "G★1看板娘セレクト：遺群嶺の水獣 | 【MHXX】モンハンダブルクロス攻略レシピ",
+          "icons": [
+            "狩猟",
+            "依頼",
+            "入手",
+            "フラグ"
+          ],
+          "role": "hunter",
+          "tags": [
+            "request"
+          ],
+          "observations": [
+            {
+              "title": "備考",
+              "text": "G★1奪われて、追いかけて クリア後",
+              "links": [
+                {
+                  "label": "G★1奪われて、追いかけて",
+                  "url": "http://wiki.mhxg.org/ida/286182.html"
+                }
+              ]
+            },
+            {
+              "title": "依頼",
+              "text": "[受注] ユクモ村 ユクモ村の看板娘の依頼2 [依頼出現条件] 依頼★ユクモ村の看板娘の依頼1 クリア後G★1奪われて、追いかけて クリア後 入手 ユクモ村の村貢献度500pts",
+              "links": [
+                {
+                  "label": "ユクモ村の看板娘の依頼2",
+                  "url": "http://wiki.mhxg.org/ida/306659.html"
+                },
+                {
+                  "label": "依頼★ユクモ村の看板娘の依頼1",
+                  "url": "http://wiki.mhxg.org/ida/265180.html"
+                },
+                {
+                  "label": "G★1奪われて、追いかけて",
+                  "url": "http://wiki.mhxg.org/ida/286182.html"
+                }
+              ]
+            },
+            {
+              "title": "他のクエスト発生に必要",
+              "text": "G★2水獣の獰猛化観察記録",
+              "links": [
+                {
+                  "label": "G★2水獣の獰猛化観察記録",
+                  "url": "http://wiki.mhxg.org/ida/288285.html"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "牙獣の行水",
+          "recipeUrl": "http://wiki.mhxg.org/ida/286177.html",
+          "detailTitle": "G★1牙獣の行水 | 【MHXX】モンハンダブルクロス攻略レシピ",
+          "icons": [
+            "狩猟",
+            "フラグ"
+          ],
+          "role": "hunter",
+          "tags": [
+            "normal"
+          ],
+          "observations": [
+            {
+              "title": "他のクエスト発生に必要",
+              "text": "【特殊許可】紅兜捕獲依頼G1",
+              "links": [
+                {
+                  "label": "【特殊許可】紅兜捕獲依頼G1",
+                  "url": "http://wiki.mhxg.org/ida/299136.html"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "不潔ものの大集会",
+          "recipeUrl": "http://wiki.mhxg.org/ida/286178.html",
+          "detailTitle": "G★1不潔ものの大集会 | 【MHXX】モンハンダブルクロス攻略レシピ",
+          "icons": [
+            "討伐"
+          ],
+          "role": "hunter",
+          "tags": [
+            "normal"
+          ],
+          "observations": []
+        },
+        {
+          "name": "高層エリンギは寝て待て",
+          "recipeUrl": "http://wiki.mhxg.org/ida/286179.html",
+          "detailTitle": "G★1高層エリンギは寝て待て | 【MHXX】モンハンダブルクロス攻略レシピ",
+          "icons": [
+            "採集"
+          ],
+          "role": "hunter",
+          "tags": [
+            "normal"
+          ],
+          "observations": []
+        },
+        {
+          "name": "アツアツ砂漠の盾蟹狩猟",
+          "recipeUrl": "http://wiki.mhxg.org/ida/286180.html",
+          "detailTitle": "G★1アツアツ砂漠の盾蟹狩猟 | 【MHXX】モンハンダブルクロス攻略レシピ",
+          "icons": [
+            "狩猟",
+            "依頼",
+            "食材",
+            "施設",
+            "フラグ"
+          ],
+          "role": "hunter",
+          "tags": [
+            "request"
+          ],
+          "observations": [
+            {
+              "title": "依頼",
+              "text": "[受注] ポッケ村 さすらいのコックの依頼2 [依頼出現条件] 依頼★さすらいのコックの依頼1 クリア後集★7その腕前、噂通りかしら…？ クリア後 食材 エンペラーセロリ",
+              "links": [
+                {
+                  "label": "さすらいのコックの依頼2",
+                  "url": "http://wiki.mhxg.org/ida/306656.html"
+                },
+                {
+                  "label": "依頼★さすらいのコックの依頼1",
+                  "url": "http://wiki.mhxg.org/ida/243449.html"
+                },
+                {
+                  "label": "集★7その腕前、噂通りかしら…？",
+                  "url": "http://wiki.mhxg.org/ida/285741.html"
+                }
+              ]
+            },
+            {
+              "title": "他のクエスト発生に必要",
+              "text": "G★2超☆メモ帳～獰猛化盾蟹編～ 【特殊許可】矛砕捕獲依頼G1",
+              "links": [
+                {
+                  "label": "G★2超☆メモ帳～獰猛化盾蟹編～",
+                  "url": "http://wiki.mhxg.org/ida/288280.html"
+                },
+                {
+                  "label": "【特殊許可】矛砕捕獲依頼G1",
+                  "url": "http://wiki.mhxg.org/ida/299140.html"
+                }
+              ]
+            },
+            {
+              "title": "他の依頼発生に必要",
+              "text": "依頼★キャラバンの看板娘の依頼4",
+              "links": [
+                {
+                  "label": "依頼★キャラバンの看板娘の依頼4",
+                  "url": "http://wiki.mhxg.org/ida/306640.html"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "熱帯イチゴはカネの味？",
+          "recipeUrl": "http://wiki.mhxg.org/ida/286181.html",
+          "detailTitle": "G★1熱帯イチゴはカネの味？ | 【MHXX】モンハンダブルクロス攻略レシピ",
+          "icons": [
+            "採集"
+          ],
+          "role": "hunter",
+          "tags": [
+            "normal"
+          ],
+          "observations": []
+        },
+        {
+          "name": "奪われて、追いかけて",
+          "recipeUrl": "http://wiki.mhxg.org/ida/286182.html",
+          "detailTitle": "G★1奪われて、追いかけて | 【MHXX】モンハンダブルクロス攻略レシピ",
+          "icons": [
+            "狩猟",
+            "キー",
+            "フラグ"
+          ],
+          "role": "hunter",
+          "tags": [
+            "key"
+          ],
+          "observations": [
+            {
+              "title": "他のクエスト発生に必要",
+              "text": "G★1毒怪鳥が盗んだものを追って G★1看板娘セレクト：遺群嶺の水獣 G★1罪深きタルの食材探訪 G★2毒怪鳥は元気に走る",
+              "links": [
+                {
+                  "label": "G★1毒怪鳥が盗んだものを追って",
+                  "url": "http://wiki.mhxg.org/ida/286175.html"
+                },
+                {
+                  "label": "G★1看板娘セレクト：遺群嶺の水獣",
+                  "url": "http://wiki.mhxg.org/ida/286176.html"
+                },
+                {
+                  "label": "G★1罪深きタルの食材探訪",
+                  "url": "http://wiki.mhxg.org/ida/286184.html"
+                },
+                {
+                  "label": "G★2毒怪鳥は元気に走る",
+                  "url": "http://wiki.mhxg.org/ida/288284.html"
+                }
+              ]
+            },
+            {
+              "title": "他の依頼発生に必要",
+              "text": "依頼★タルアイルーの依頼 依頼★ネコ嬢の依頼3 依頼★ユクモ村の看板娘の依頼2",
+              "links": [
+                {
+                  "label": "依頼★タルアイルーの依頼",
+                  "url": "http://wiki.mhxg.org/ida/306633.html"
+                },
+                {
+                  "label": "依頼★ネコ嬢の依頼3",
+                  "url": "http://wiki.mhxg.org/ida/306639.html"
+                },
+                {
+                  "label": "依頼★ユクモ村の看板娘の依頼2",
+                  "url": "http://wiki.mhxg.org/ida/306659.html"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "人騒がせないたずら者たち",
+          "recipeUrl": "http://wiki.mhxg.org/ida/285789.html",
+          "detailTitle": "G★1人騒がせないたずら者たち | 【MHXX】モンハンダブルクロス攻略レシピ",
+          "icons": [
+            "狩猟",
+            "フラグ"
+          ],
+          "role": "hunter",
+          "tags": [
+            "normal"
+          ],
+          "observations": [
+            {
+              "title": "他のクエスト発生に必要",
+              "text": "G★2調査委託：獰猛な奇猿狐",
+              "links": [
+                {
+                  "label": "G★2調査委託：獰猛な奇猿狐",
+                  "url": "http://wiki.mhxg.org/ida/288282.html"
+                }
+              ]
+            },
+            {
+              "title": "他の依頼発生に必要",
+              "text": "依頼★筆頭ランサーの依頼2",
+              "links": [
+                {
+                  "label": "依頼★筆頭ランサーの依頼2",
+                  "url": "http://wiki.mhxg.org/ida/306644.html"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "イタズラ猿に制裁を",
+          "recipeUrl": "http://wiki.mhxg.org/ida/286183.html",
+          "detailTitle": "G★1イタズラ猿に制裁を | 【MHXX】モンハンダブルクロス攻略レシピ",
+          "icons": [
+            "狩猟",
+            "フラグ"
+          ],
+          "role": "hunter",
+          "tags": [
+            "normal"
+          ],
+          "observations": [
+            {
+              "title": "他のクエスト発生に必要",
+              "text": "G★2調査委託：獰猛な奇猿狐",
+              "links": [
+                {
+                  "label": "G★2調査委託：獰猛な奇猿狐",
+                  "url": "http://wiki.mhxg.org/ida/288282.html"
+                }
+              ]
+            },
+            {
+              "title": "他の依頼発生に必要",
+              "text": "依頼★筆頭ランサーの依頼2",
+              "links": [
+                {
+                  "label": "依頼★筆頭ランサーの依頼2",
+                  "url": "http://wiki.mhxg.org/ida/306644.html"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "罪深きタルの食材探訪",
+          "recipeUrl": "http://wiki.mhxg.org/ida/286184.html",
+          "detailTitle": "G★1罪深きタルの食材探訪 | 【MHXX】モンハンダブルクロス攻略レシピ",
+          "icons": [
+            "狩猟",
+            "依頼",
+            "武具",
+            "食材",
+            "フラグ"
+          ],
+          "role": "hunter",
+          "tags": [
+            "request"
+          ],
+          "observations": [
+            {
+              "title": "備考",
+              "text": "G★1奪われて、追いかけて クリア後",
+              "links": [
+                {
+                  "label": "G★1奪われて、追いかけて",
+                  "url": "http://wiki.mhxg.org/ida/286182.html"
+                }
+              ]
+            },
+            {
+              "title": "依頼",
+              "text": "[受注] ベルナ村 タルアイルーの依頼 [依頼出現条件] 村★7珍味アルセルタスをもう一度G★1奪われて、追いかけて クリア後 食材 ポッカウォッカ オトモ装備開放 タルネコボディ",
+              "links": [
+                {
+                  "label": "タルアイルーの依頼",
+                  "url": "http://wiki.mhxg.org/ida/306633.html"
+                },
+                {
+                  "label": "村★7珍味アルセルタスをもう一度",
+                  "url": "http://wiki.mhxg.org/ida/285982.html"
+                },
+                {
+                  "label": "G★1奪われて、追いかけて",
+                  "url": "http://wiki.mhxg.org/ida/286182.html"
+                },
+                {
+                  "label": "タルネコボディ",
+                  "url": "http://wiki.mhxg.org/ida/322044.html"
+                }
+              ]
+            },
+            {
+              "title": "他のクエスト発生に必要",
+              "text": "G★2獰猛な蛙は鬼よりも強く 【特殊許可】岩穿捕獲依頼G1",
+              "links": [
+                {
+                  "label": "G★2獰猛な蛙は鬼よりも強く",
+                  "url": "http://wiki.mhxg.org/ida/288283.html"
+                },
+                {
+                  "label": "【特殊許可】岩穿捕獲依頼G1",
+                  "url": "http://wiki.mhxg.org/ida/299144.html"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "嗚呼素晴らしき也、鬼蛙",
+          "recipeUrl": "http://wiki.mhxg.org/ida/286185.html",
+          "detailTitle": "G★1嗚呼素晴らしき也、鬼蛙 | 【MHXX】モンハンダブルクロス攻略レシピ",
+          "icons": [
+            "捕獲",
+            "フラグ"
+          ],
+          "role": "hunter",
+          "tags": [
+            "normal"
+          ],
+          "observations": [
+            {
+              "title": "他のクエスト発生に必要",
+              "text": "G★2獰猛な蛙は鬼よりも強く 【特殊許可】岩穿捕獲依頼G1",
+              "links": [
+                {
+                  "label": "G★2獰猛な蛙は鬼よりも強く",
+                  "url": "http://wiki.mhxg.org/ida/288283.html"
+                },
+                {
+                  "label": "【特殊許可】岩穿捕獲依頼G1",
+                  "url": "http://wiki.mhxg.org/ida/299144.html"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "ムシのできない遭遇",
+          "recipeUrl": "http://wiki.mhxg.org/ida/285790.html",
+          "detailTitle": "G★1ムシのできない遭遇 | 【MHXX】モンハンダブルクロス攻略レシピ",
+          "icons": [
+            "狩猟"
+          ],
+          "role": "hunter",
+          "tags": [
+            "normal"
+          ],
+          "observations": []
+        },
+        {
+          "name": "砂中からのサプライズ",
+          "recipeUrl": "http://wiki.mhxg.org/ida/285791.html",
+          "detailTitle": "G★1砂中からのサプライズ | 【MHXX】モンハンダブルクロス攻略レシピ",
+          "icons": [
+            "狩猟",
+            "キー",
+            "フラグ"
+          ],
+          "role": "hunter",
+          "tags": [
+            "key"
+          ],
+          "observations": [
+            {
+              "title": "他のクエスト発生に必要",
+              "text": "G★2超☆メモ帳～獰猛化盾蟹編～ 【特殊許可】矛砕捕獲依頼G1",
+              "links": [
+                {
+                  "label": "G★2超☆メモ帳～獰猛化盾蟹編～",
+                  "url": "http://wiki.mhxg.org/ida/288280.html"
+                },
+                {
+                  "label": "【特殊許可】矛砕捕獲依頼G1",
+                  "url": "http://wiki.mhxg.org/ida/299140.html"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "森丘の迷惑な怪鳥さん",
+          "recipeUrl": "http://wiki.mhxg.org/ida/285792.html",
+          "detailTitle": "G★1森丘の迷惑な怪鳥さん | 【MHXX】モンハンダブルクロス攻略レシピ",
+          "icons": [
+            "狩猟",
+            "依頼",
+            "食材",
+            "フラグ"
+          ],
+          "role": "hunter",
+          "tags": [
+            "request"
+          ],
+          "observations": [
+            {
+              "title": "依頼",
+              "text": "[受注] ココット村 ドンドルマの守護兵の依頼3 [依頼出現条件] 依頼★ドンドルマの守護兵の依頼2 クリア後集★7その腕前、噂通りかしら…？ クリア後 食材 大ドンドル豆",
+              "links": [
+                {
+                  "label": "ドンドルマの守護兵の依頼3",
+                  "url": "http://wiki.mhxg.org/ida/306647.html"
+                },
+                {
+                  "label": "依頼★ドンドルマの守護兵の依頼2",
+                  "url": "http://wiki.mhxg.org/ida/261122.html"
+                },
+                {
+                  "label": "集★7その腕前、噂通りかしら…？",
+                  "url": "http://wiki.mhxg.org/ida/285741.html"
+                }
+              ]
+            },
+            {
+              "title": "他のクエスト発生に必要",
+              "text": "G★2逆襲の怪鳥",
+              "links": [
+                {
+                  "label": "G★2逆襲の怪鳥",
+                  "url": "http://wiki.mhxg.org/ida/288281.html"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "氷雪に舞う白うさぎ",
+          "recipeUrl": "http://wiki.mhxg.org/ida/285793.html",
+          "detailTitle": "G★1氷雪に舞う白うさぎ | 【MHXX】モンハンダブルクロス攻略レシピ",
+          "icons": [
+            "狩猟",
+            "フラグ"
+          ],
+          "role": "hunter",
+          "tags": [
+            "normal"
+          ],
+          "observations": [
+            {
+              "title": "他のクエスト発生に必要",
+              "text": "【特殊許可】大雪主捕獲依頼G1",
+              "links": [
+                {
+                  "label": "【特殊許可】大雪主捕獲依頼G1",
+                  "url": "http://wiki.mhxg.org/ida/299138.html"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "ドスの威信を賭けた戦い",
+          "recipeUrl": "http://wiki.mhxg.org/ida/285794.html",
+          "detailTitle": "G★1ドスの威信を賭けた戦い | 【MHXX】モンハンダブルクロス攻略レシピ",
+          "icons": [
+            "狩猟",
+            "キー"
+          ],
+          "role": "hunter",
+          "tags": [
+            "key"
+          ],
+          "observations": []
+        },
+        {
+          "name": "川辺のアオアシラ退治",
+          "recipeUrl": "http://wiki.mhxg.org/ida/286186.html",
+          "detailTitle": "G★1川辺のアオアシラ退治 | 【MHXX】モンハンダブルクロス攻略レシピ",
+          "icons": [
+            "狩猟",
+            "依頼",
+            "食材",
+            "フラグ"
+          ],
+          "role": "hunter",
+          "tags": [
+            "request"
+          ],
+          "observations": [
+            {
+              "title": "依頼",
+              "text": "[受注] ユクモ村 漁港の女主人の依頼2 [依頼出現条件] 依頼★漁港の女主人の依頼1 クリア後G★1水獣たちの争い クリア後 食材 カタマリアワビ",
+              "links": [
+                {
+                  "label": "漁港の女主人の依頼2",
+                  "url": "http://wiki.mhxg.org/ida/306661.html"
+                },
+                {
+                  "label": "依頼★漁港の女主人の依頼1",
+                  "url": "http://wiki.mhxg.org/ida/243470.html"
+                },
+                {
+                  "label": "G★1水獣たちの争い",
+                  "url": "http://wiki.mhxg.org/ida/285795.html"
+                }
+              ]
+            },
+            {
+              "title": "他のクエスト発生に必要",
+              "text": "【特殊許可】紅兜捕獲依頼G1",
+              "links": [
+                {
+                  "label": "【特殊許可】紅兜捕獲依頼G1",
+                  "url": "http://wiki.mhxg.org/ida/299136.html"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "水獣たちの争い",
+          "recipeUrl": "http://wiki.mhxg.org/ida/285795.html",
+          "detailTitle": "G★1水獣たちの争い | 【MHXX】モンハンダブルクロス攻略レシピ",
+          "icons": [
+            "狩猟",
+            "キー",
+            "フラグ"
+          ],
+          "role": "hunter",
+          "tags": [
+            "key"
+          ],
+          "observations": [
+            {
+              "title": "他のクエスト発生に必要",
+              "text": "G★2水獣の獰猛化観察記録",
+              "links": [
+                {
+                  "label": "G★2水獣の獰猛化観察記録",
+                  "url": "http://wiki.mhxg.org/ida/288285.html"
+                }
+              ]
+            },
+            {
+              "title": "他の依頼発生に必要",
+              "text": "依頼★漁港の女主人の依頼2",
+              "links": [
+                {
+                  "label": "依頼★漁港の女主人の依頼2",
+                  "url": "http://wiki.mhxg.org/ida/306661.html"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "羽合の衆",
+          "recipeUrl": "http://wiki.mhxg.org/ida/286187.html",
+          "detailTitle": "G★1羽合の衆 | 【MHXX】モンハンダブルクロス攻略レシピ",
+          "icons": [
+            "ニャンター",
+            "フラグ"
+          ],
+          "role": "prowler",
+          "tags": [
+            "normal"
+          ],
+          "observations": [
+            {
+              "title": "他のクエスト発生に必要",
+              "text": "G★1遺跡平原のポイント招きネコ G★1砂漠ゲネポス戦線",
+              "links": [
+                {
+                  "label": "G★1遺跡平原のポイント招きネコ",
+                  "url": "http://wiki.mhxg.org/ida/286188.html"
+                },
+                {
+                  "label": "G★1砂漠ゲネポス戦線",
+                  "url": "http://wiki.mhxg.org/ida/286189.html"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "遺跡平原のポイント招きネコ",
+          "recipeUrl": "http://wiki.mhxg.org/ida/286188.html",
+          "detailTitle": "G★1遺跡平原のポイント招きネコ | 【MHXX】モンハンダブルクロス攻略レシピ",
+          "icons": [
+            "ニャンター"
+          ],
+          "role": "prowler",
+          "tags": [
+            "normal"
+          ],
+          "observations": [
+            {
+              "title": "備考",
+              "text": "G★1羽合の衆 クリア後",
+              "links": [
+                {
+                  "label": "G★1羽合の衆",
+                  "url": "http://wiki.mhxg.org/ida/286187.html"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "砂漠ゲネポス戦線",
+          "recipeUrl": "http://wiki.mhxg.org/ida/286189.html",
+          "detailTitle": "G★1砂漠ゲネポス戦線 | 【MHXX】モンハンダブルクロス攻略レシピ",
+          "icons": [
+            "ニャンター",
+            "フラグ"
+          ],
+          "role": "prowler",
+          "tags": [
+            "normal"
+          ],
+          "observations": [
+            {
+              "title": "備考",
+              "text": "G★1羽合の衆 クリア後",
+              "links": [
+                {
+                  "label": "G★1羽合の衆",
+                  "url": "http://wiki.mhxg.org/ida/286187.html"
+                }
+              ]
+            },
+            {
+              "title": "他のクエスト発生に必要",
+              "text": "G★2原生林コンガ戦線",
+              "links": [
+                {
+                  "label": "G★2原生林コンガ戦線",
+                  "url": "http://wiki.mhxg.org/ida/288286.html"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "previousRequests": {
+    "http://wiki.mhxg.org/ida/243470.html": {
+      "name": "漁港の女主人の依頼1",
+      "fields": {
+        "出現条件": {
+          "text": "依頼★ユクモ村の村長の依頼2 クリア後",
+          "links": [
+            {
+              "label": "依頼★ユクモ村の村長の依頼2",
+              "url": "http://wiki.mhxg.org/ida/243455.html"
+            }
+          ]
+        },
+        "達成条件": {
+          "text": "納品 はじけイワシ x5シンドイワシ x2",
+          "links": [
+            {
+              "label": "はじけイワシ",
+              "url": "http://wiki.mhxg.org/ida/218401.html"
+            },
+            {
+              "label": "シンドイワシ",
+              "url": "http://wiki.mhxg.org/ida/189035.html"
+            }
+          ]
+        }
+      }
+    }
+  },
+  "sourcePolicy": "実機 > MHXX攻略レシピ > 専門Wiki > 企業系Wiki。最初からと明記された場合のみnone。"
+}
