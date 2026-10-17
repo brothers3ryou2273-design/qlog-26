@@ -1,0 +1,876 @@
+{
+  "title": "MHXX QLOG Codex supplementary public-source observations for PR #13",
+  "checkedAt": "2026-10-17",
+  "scope": "evidence aid for PR #12/13, not ready-to-merge quest JSON",
+  "status": "public_sources_inspected; no direct game-client verification; current DLC distribution unverified",
+  "sourceUrls": {
+    "kiranicoJapaneseList": "https://mhxx.kiranico.com/quest?vendor=2",
+    "wikiDbPresetsAndTA": "https://mhxx.wiki-db.com/ta/arena/",
+    "additionalJapaneseChallengeList": "https://x.mh4info.com/quest/?no=8",
+    "prowlerSpecialistWiki": "https://w.atwiki.jp/mhxxnyanter/pages/70.html",
+    "capcomOfficialHistoricalDlcList": "https://www.monsterhunter.com/xx/3ds/sp/dlc/"
+  },
+  "cautions": [
+    "External web evidence is independent from Codex proxy. Codex must cite these sources even if its runtime cannot load the pages.",
+    "18 Kiranico individual detail URLs were found through public search; two remain null. No URL/ID should be guessed.",
+    "A quest listed in a game database is not proof of its present-day download availability or Switch menu availability.",
+    "Kiranico uses the broad label Arena/DL. Additional Japanese source calls the candidates challenge quests. Keep verification of in-game classification explicit.",
+    "Listed weapon presets are NOT TA best times and are NOT S/A/B cutoff times.",
+    "Normal challenge 大連続狩猟1-4 and XXイベント：大連続狩猟１-４ are distinct. Fullwidth digits do not make quest identity.",
+    "Only use verified detail-page IDs to mint stable quest IDs. Do not fabricate URLs. Preserve all 1348 existing IDs and save schema.",
+    "Some independently visible entries have alternative punctuation/width of digits; retain canonical wording after detail audit."
+  ],
+  "verifiedCandidateCounts": {
+    "hunter": 14,
+    "prowler": 6,
+    "total": 20
+  },
+  "candidateQuests": [
+    {
+      "name": "ＸＸイベント：紫毒姫討伐",
+      "role": "hunter",
+      "targets": [
+        "紫毒姫リオレイア"
+      ],
+      "category": "challenge",
+      "listedAs": "DL闘技大会",
+      "kiranicoDetailUrl": "https://mhxx.kiranico.com/quest/3ae8e68",
+      "kiranicoListUrl": "https://mhxx.kiranico.com/quest?vendor=2",
+      "wikiDbListUrl": "https://mhxx.wiki-db.com/ta/arena/",
+      "weaponPresets": [
+        "片手剣",
+        "双剣",
+        "ハンマー",
+        "ガンランス",
+        "ヘビィボウガン"
+      ],
+      "supportTypes": null,
+      "rankFromAdditionalDB": "G★3",
+      "verificationStatus": "source_list_verified; runtime_download_availability_not_verified",
+      "notes": []
+    },
+    {
+      "name": "ＸＸイベント：金雷公討伐",
+      "role": "hunter",
+      "targets": [
+        "金雷公ジンオウガ"
+      ],
+      "category": "challenge",
+      "listedAs": "DL闘技大会",
+      "kiranicoDetailUrl": "https://mhxx.kiranico.com/quest/00757da",
+      "kiranicoListUrl": "https://mhxx.kiranico.com/quest?vendor=2",
+      "wikiDbListUrl": "https://mhxx.wiki-db.com/ta/arena/",
+      "weaponPresets": [
+        "大剣",
+        "双剣",
+        "スラッシュアックス",
+        "操虫棍",
+        "弓"
+      ],
+      "supportTypes": null,
+      "rankFromAdditionalDB": "G★3",
+      "verificationStatus": "source_list_verified; runtime_download_availability_not_verified",
+      "notes": []
+    },
+    {
+      "name": "ＸＸイベント：白疾風討伐",
+      "role": "hunter",
+      "targets": [
+        "白疾風ナルガクルガ"
+      ],
+      "category": "challenge",
+      "listedAs": "DL闘技大会",
+      "kiranicoDetailUrl": "https://mhxx.kiranico.com/quest/86d3d88",
+      "kiranicoListUrl": "https://mhxx.kiranico.com/quest?vendor=2",
+      "wikiDbListUrl": "https://mhxx.wiki-db.com/ta/arena/",
+      "weaponPresets": [
+        "太刀",
+        "片手剣",
+        "チャージアックス",
+        "ランス",
+        "ヘビィボウガン"
+      ],
+      "supportTypes": null,
+      "rankFromAdditionalDB": "G★3",
+      "verificationStatus": "source_list_verified; runtime_download_availability_not_verified",
+      "notes": []
+    },
+    {
+      "name": "ＸＸイベント：黒炎王討伐",
+      "role": "hunter",
+      "targets": [
+        "黒炎王リオレウス"
+      ],
+      "category": "challenge",
+      "listedAs": "DL闘技大会",
+      "kiranicoDetailUrl": "https://mhxx.kiranico.com/quest/d56860e",
+      "kiranicoListUrl": "https://mhxx.kiranico.com/quest?vendor=2",
+      "wikiDbListUrl": "https://mhxx.wiki-db.com/ta/arena/",
+      "weaponPresets": [
+        "太刀",
+        "双剣",
+        "ハンマー",
+        "操虫棍",
+        "ヘビィボウガン"
+      ],
+      "supportTypes": null,
+      "rankFromAdditionalDB": "G★3",
+      "verificationStatus": "source_list_verified; runtime_download_availability_not_verified",
+      "notes": []
+    },
+    {
+      "name": "ＸＸイベント：荒鉤爪討伐",
+      "role": "hunter",
+      "targets": [
+        "荒鉤爪ティガレックス"
+      ],
+      "category": "challenge",
+      "listedAs": "DL闘技大会",
+      "kiranicoDetailUrl": "https://mhxx.kiranico.com/quest/7a353ed",
+      "kiranicoListUrl": "https://mhxx.kiranico.com/quest?vendor=2",
+      "wikiDbListUrl": "https://mhxx.wiki-db.com/ta/arena/",
+      "weaponPresets": [
+        "片手剣",
+        "ハンマー",
+        "スラッシュアックス",
+        "ガンランス",
+        "弓"
+      ],
+      "supportTypes": null,
+      "rankFromAdditionalDB": "G★3",
+      "verificationStatus": "source_list_verified; runtime_download_availability_not_verified",
+      "notes": []
+    },
+    {
+      "name": "ＸＸイベント：銀嶺討伐",
+      "role": "hunter",
+      "targets": [
+        "銀嶺ガムート"
+      ],
+      "category": "challenge",
+      "listedAs": "DL闘技大会",
+      "kiranicoDetailUrl": "https://mhxx.kiranico.com/quest/ae65638",
+      "kiranicoListUrl": "https://mhxx.kiranico.com/quest?vendor=2",
+      "wikiDbListUrl": "https://mhxx.wiki-db.com/ta/arena/",
+      "weaponPresets": [
+        "大剣",
+        "狩猟笛",
+        "チャージアックス",
+        "ガンランス",
+        "ライトボウガン"
+      ],
+      "supportTypes": null,
+      "rankFromAdditionalDB": null,
+      "verificationStatus": "source_list_verified; runtime_download_availability_not_verified",
+      "notes": [
+        "wiki-dbの該当ハンター一覧に見当たらないため、プリセットはKiranico個別ページを参照。"
+      ]
+    },
+    {
+      "name": "ＸＸイベント：大連続狩猟１",
+      "role": "hunter",
+      "targets": [
+        "青電主ライゼクス",
+        "天眼タマミツネ"
+      ],
+      "category": "challenge",
+      "listedAs": "DL闘技大会",
+      "kiranicoDetailUrl": "https://mhxx.kiranico.com/quest/e3aea9a",
+      "kiranicoListUrl": "https://mhxx.kiranico.com/quest?vendor=2",
+      "wikiDbListUrl": "https://mhxx.wiki-db.com/ta/arena/",
+      "weaponPresets": [
+        "大剣",
+        "双剣",
+        "スラッシュアックス",
+        "ガンランス",
+        "ライトボウガン"
+      ],
+      "supportTypes": null,
+      "rankFromAdditionalDB": null,
+      "verificationStatus": "source_list_verified; runtime_download_availability_not_verified",
+      "notes": [
+        "既存の「大連続狩猟1〜4」とは異なるXXイベント。表記正規化だけで同一視しない。"
+      ]
+    },
+    {
+      "name": "ＸＸイベント：大連続狩猟２",
+      "role": "hunter",
+      "targets": [
+        "燼滅刃ディノバルド",
+        "鏖魔ディアブロス",
+        "バルファルク"
+      ],
+      "category": "challenge",
+      "listedAs": "DL闘技大会",
+      "kiranicoDetailUrl": "https://mhxx.kiranico.com/quest/60a9a7e",
+      "kiranicoListUrl": "https://mhxx.kiranico.com/quest?vendor=2",
+      "wikiDbListUrl": "https://mhxx.wiki-db.com/ta/arena/",
+      "weaponPresets": [
+        "太刀",
+        "片手剣",
+        "狩猟笛",
+        "ランス",
+        "弓"
+      ],
+      "supportTypes": null,
+      "rankFromAdditionalDB": null,
+      "verificationStatus": "source_list_verified; runtime_download_availability_not_verified",
+      "notes": [
+        "既存の「大連続狩猟1〜4」とは異なるXXイベント。表記正規化だけで同一視しない。"
+      ]
+    },
+    {
+      "name": "ＸＸイベント：矛砕討伐",
+      "role": "hunter",
+      "targets": [
+        "矛砕ダイミョウザザミ"
+      ],
+      "category": "challenge",
+      "listedAs": "DL闘技大会",
+      "kiranicoDetailUrl": "https://mhxx.kiranico.com/quest/99e0e3a",
+      "kiranicoListUrl": "https://mhxx.kiranico.com/quest?vendor=2",
+      "wikiDbListUrl": "https://mhxx.wiki-db.com/ta/arena/",
+      "weaponPresets": [
+        "片手剣",
+        "双剣",
+        "チャージアックス",
+        "ガンランス",
+        "ヘビィボウガン"
+      ],
+      "supportTypes": null,
+      "rankFromAdditionalDB": "G★3",
+      "verificationStatus": "source_list_verified; runtime_download_availability_not_verified",
+      "notes": []
+    },
+    {
+      "name": "ＸＸイベント：岩穿討伐",
+      "role": "hunter",
+      "targets": [
+        "岩穿テツカブラ"
+      ],
+      "category": "challenge",
+      "listedAs": "DL闘技大会",
+      "kiranicoDetailUrl": "https://mhxx.kiranico.com/quest/5396983",
+      "kiranicoListUrl": "https://mhxx.kiranico.com/quest?vendor=2",
+      "wikiDbListUrl": "https://mhxx.wiki-db.com/ta/arena/",
+      "weaponPresets": [
+        "双剣",
+        "ハンマー",
+        "スラッシュアックス",
+        "操虫棍",
+        "弓"
+      ],
+      "supportTypes": null,
+      "rankFromAdditionalDB": "G★3",
+      "verificationStatus": "source_list_verified; runtime_download_availability_not_verified",
+      "notes": []
+    },
+    {
+      "name": "ＸＸイベント：紅兜討伐",
+      "role": "hunter",
+      "targets": [
+        "紅兜アオアシラ"
+      ],
+      "category": "challenge",
+      "listedAs": "DL闘技大会",
+      "kiranicoDetailUrl": "https://mhxx.kiranico.com/quest/3ae8e98",
+      "kiranicoListUrl": "https://mhxx.kiranico.com/quest?vendor=2",
+      "wikiDbListUrl": "https://mhxx.wiki-db.com/ta/arena/",
+      "weaponPresets": [
+        "大剣",
+        "片手剣",
+        "狩猟笛",
+        "チャージアックス",
+        "ヘビィボウガン"
+      ],
+      "supportTypes": null,
+      "rankFromAdditionalDB": "G★3",
+      "verificationStatus": "source_list_verified; runtime_download_availability_not_verified",
+      "notes": []
+    },
+    {
+      "name": "ＸＸイベント：隻眼討伐",
+      "role": "hunter",
+      "targets": [
+        "隻眼イャンガルルガ"
+      ],
+      "category": "challenge",
+      "listedAs": "DL闘技大会",
+      "kiranicoDetailUrl": "https://mhxx.kiranico.com/quest/007578a",
+      "kiranicoListUrl": "https://mhxx.kiranico.com/quest?vendor=2",
+      "wikiDbListUrl": "https://mhxx.wiki-db.com/ta/arena/",
+      "weaponPresets": [
+        "大剣",
+        "太刀",
+        "ハンマー",
+        "ランス",
+        "ライトボウガン"
+      ],
+      "supportTypes": null,
+      "rankFromAdditionalDB": "G★3",
+      "verificationStatus": "source_list_verified; runtime_download_availability_not_verified",
+      "notes": []
+    },
+    {
+      "name": "ＸＸイベント：大雪主討伐",
+      "role": "hunter",
+      "targets": [
+        "大雪主ウルクスス"
+      ],
+      "category": "challenge",
+      "listedAs": "DL闘技大会",
+      "kiranicoDetailUrl": "https://mhxx.kiranico.com/quest/86d3d98",
+      "kiranicoListUrl": "https://mhxx.kiranico.com/quest?vendor=2",
+      "wikiDbListUrl": "https://mhxx.wiki-db.com/ta/arena/",
+      "weaponPresets": [
+        "太刀",
+        "双剣",
+        "スラッシュアックス",
+        "操虫棍",
+        "弓"
+      ],
+      "supportTypes": null,
+      "rankFromAdditionalDB": "G★3",
+      "verificationStatus": "source_list_verified; runtime_download_availability_not_verified",
+      "notes": []
+    },
+    {
+      "name": "ＸＸイベント：大連続狩猟３",
+      "role": "hunter",
+      "targets": [
+        "朧隠ホロロホルル",
+        "猛り爆ぜるブラキディオス"
+      ],
+      "category": "challenge",
+      "listedAs": "DL闘技大会",
+      "kiranicoDetailUrl": null,
+      "kiranicoListUrl": "https://mhxx.kiranico.com/quest?vendor=2",
+      "wikiDbListUrl": "https://mhxx.wiki-db.com/ta/arena/",
+      "weaponPresets": [
+        "大剣",
+        "ハンマー",
+        "ランス",
+        "ガンランス",
+        "ライトボウガン"
+      ],
+      "supportTypes": null,
+      "rankFromAdditionalDB": null,
+      "verificationStatus": "source_list_verified; runtime_download_availability_not_verified",
+      "notes": [
+        "Kiranicoの一覧で名称と分類を確認。正確な個別URLは未取得なので捏造しない。",
+        "既存の「大連続狩猟1〜4」とは異なるXXイベント。表記正規化だけで同一視しない。"
+      ]
+    },
+    {
+      "name": "ＸＸイベント：火竜討伐",
+      "role": "prowler",
+      "targets": [
+        "リオレウス"
+      ],
+      "category": "challenge",
+      "listedAs": "DLニャンター",
+      "kiranicoDetailUrl": "https://mhxx.kiranico.com/quest/d5e77d0",
+      "kiranicoListUrl": "https://mhxx.kiranico.com/quest?vendor=2",
+      "wikiDbListUrl": "https://mhxx.wiki-db.com/ta/arena/",
+      "weaponPresets": null,
+      "supportTypes": [
+        "カリスマ",
+        "アシスト",
+        "回復",
+        "コレクト",
+        "ビースト"
+      ],
+      "rankFromAdditionalDB": "G★2",
+      "verificationStatus": "source_list_verified; runtime_download_availability_not_verified",
+      "notes": []
+    },
+    {
+      "name": "ＸＸイベント：轟竜討伐",
+      "role": "prowler",
+      "targets": [
+        "ティガレックス"
+      ],
+      "category": "challenge",
+      "listedAs": "DLニャンター",
+      "kiranicoDetailUrl": "https://mhxx.kiranico.com/quest/7ae998e",
+      "kiranicoListUrl": "https://mhxx.kiranico.com/quest?vendor=2",
+      "wikiDbListUrl": "https://mhxx.wiki-db.com/ta/arena/",
+      "weaponPresets": null,
+      "supportTypes": [
+        "カリスマ",
+        "ファイト",
+        "ガード",
+        "アシスト",
+        "ビースト"
+      ],
+      "rankFromAdditionalDB": "G★2",
+      "verificationStatus": "source_list_verified; runtime_download_availability_not_verified",
+      "notes": []
+    },
+    {
+      "name": "ＸＸイベント：迅竜討伐",
+      "role": "prowler",
+      "targets": [
+        "ナルガクルガ"
+      ],
+      "category": "challenge",
+      "listedAs": "DLニャンター",
+      "kiranicoDetailUrl": null,
+      "kiranicoListUrl": "https://mhxx.kiranico.com/quest?vendor=2",
+      "wikiDbListUrl": "https://mhxx.wiki-db.com/ta/arena/",
+      "weaponPresets": null,
+      "supportTypes": [
+        "ファイト",
+        "ガード",
+        "アシスト",
+        "ボマー",
+        "ビースト"
+      ],
+      "rankFromAdditionalDB": "G★2",
+      "verificationStatus": "source_list_verified; runtime_download_availability_not_verified",
+      "notes": [
+        "Kiranicoの一覧で名称と分類を確認。正確な個別URLは未取得なので捏造しない。"
+      ]
+    },
+    {
+      "name": "ＸＸイベント：雷狼竜討伐",
+      "role": "prowler",
+      "targets": [
+        "ジンオウガ"
+      ],
+      "category": "challenge",
+      "listedAs": "DLニャンター",
+      "kiranicoDetailUrl": "https://mhxx.kiranico.com/quest/ae3aa6b",
+      "kiranicoListUrl": "https://mhxx.kiranico.com/quest?vendor=2",
+      "wikiDbListUrl": "https://mhxx.wiki-db.com/ta/arena/",
+      "weaponPresets": null,
+      "supportTypes": [
+        "ファイト",
+        "アシスト",
+        "回復",
+        "ボマー",
+        "ビースト"
+      ],
+      "rankFromAdditionalDB": "G★2",
+      "verificationStatus": "source_list_verified; runtime_download_availability_not_verified",
+      "notes": []
+    },
+    {
+      "name": "ＸＸイベント：砕竜討伐",
+      "role": "prowler",
+      "targets": [
+        "ブラキディオス"
+      ],
+      "category": "challenge",
+      "listedAs": "DLニャンター",
+      "kiranicoDetailUrl": "https://mhxx.kiranico.com/quest/e3977ad",
+      "kiranicoListUrl": "https://mhxx.kiranico.com/quest?vendor=2",
+      "wikiDbListUrl": "https://mhxx.wiki-db.com/ta/arena/",
+      "weaponPresets": null,
+      "supportTypes": [
+        "ファイト",
+        "ガード",
+        "アシスト",
+        "コレクト",
+        "ビースト"
+      ],
+      "rankFromAdditionalDB": "G★2",
+      "verificationStatus": "source_list_verified; runtime_download_availability_not_verified",
+      "notes": []
+    },
+    {
+      "name": "ＸＸイベント：大連続狩猟４",
+      "role": "prowler",
+      "targets": [
+        "ドスマッカォ",
+        "ホロロホルル",
+        "ディノバルド"
+      ],
+      "category": "challenge",
+      "listedAs": "DLニャンター",
+      "kiranicoDetailUrl": "https://mhxx.kiranico.com/quest/60766aa",
+      "kiranicoListUrl": "https://mhxx.kiranico.com/quest?vendor=2",
+      "wikiDbListUrl": "https://mhxx.wiki-db.com/ta/arena/",
+      "weaponPresets": null,
+      "supportTypes": [
+        "カリスマ",
+        "ファイト",
+        "ガード",
+        "回復",
+        "ビースト"
+      ],
+      "rankFromAdditionalDB": null,
+      "verificationStatus": "source_list_verified; runtime_download_availability_not_verified",
+      "notes": [
+        "既存の「大連続狩猟1〜4」とは異なるXXイベント。表記正規化だけで同一視しない。"
+      ]
+    }
+  ],
+  "existingHunterQuestWeaponPresets": [
+    {
+      "category": "arena",
+      "name": "ホロロホルル討伐",
+      "weaponPresets": [
+        "大剣",
+        "片手剣",
+        "ハンマー",
+        "ガンランス",
+        "ヘビィボウガン"
+      ],
+      "sourceUrl": "https://mhxx.wiki-db.com/ta/arena/",
+      "sourceRecordMatch": "name_and_category_required",
+      "notes": []
+    },
+    {
+      "category": "arena",
+      "name": "フルフル討伐",
+      "weaponPresets": [
+        "太刀",
+        "双剣",
+        "スラッシュアックス",
+        "ランス",
+        "ライトボウガン"
+      ],
+      "sourceUrl": "https://mhxx.wiki-db.com/ta/arena/",
+      "sourceRecordMatch": "name_and_category_required",
+      "notes": []
+    },
+    {
+      "category": "arena",
+      "name": "ガララアジャラ討伐",
+      "weaponPresets": [
+        "片手剣",
+        "操虫棍",
+        "スラッシュアックス",
+        "チャージアックス",
+        "弓"
+      ],
+      "sourceUrl": "https://mhxx.wiki-db.com/ta/arena/",
+      "sourceRecordMatch": "name_and_category_required",
+      "notes": []
+    },
+    {
+      "category": "arena",
+      "name": "リオレウス討伐",
+      "weaponPresets": [
+        "片手剣",
+        "双剣",
+        "ハンマー",
+        "ランス",
+        "ヘビィボウガン"
+      ],
+      "sourceUrl": "https://mhxx.wiki-db.com/ta/arena/",
+      "sourceRecordMatch": "name_and_category_required",
+      "notes": []
+    },
+    {
+      "category": "arena",
+      "name": "ケチャワチャ討伐",
+      "weaponPresets": [
+        "太刀",
+        "双剣",
+        "狩猟笛",
+        "操虫棍",
+        "ヘビィボウガン"
+      ],
+      "sourceUrl": "https://mhxx.wiki-db.com/ta/arena/",
+      "sourceRecordMatch": "name_and_category_required",
+      "notes": []
+    },
+    {
+      "category": "arena",
+      "name": "ガノトトス討伐",
+      "weaponPresets": [
+        "大剣",
+        "片手剣",
+        "狩猟笛",
+        "ガンランス",
+        "ライトボウガン"
+      ],
+      "sourceUrl": "https://mhxx.wiki-db.com/ta/arena/",
+      "sourceRecordMatch": "name_and_category_required",
+      "notes": []
+    },
+    {
+      "category": "arena",
+      "name": "ブラキディオス討伐",
+      "weaponPresets": [
+        "大剣",
+        "ハンマー",
+        "チャージアックス",
+        "ガンランス",
+        "弓"
+      ],
+      "sourceUrl": "https://mhxx.wiki-db.com/ta/arena/",
+      "sourceRecordMatch": "name_and_category_required",
+      "notes": []
+    },
+    {
+      "category": "arena",
+      "name": "ベリオロス討伐",
+      "weaponPresets": [
+        "太刀",
+        "操虫棍",
+        "チャージアックス",
+        "ランス",
+        "ライトボウガン"
+      ],
+      "sourceUrl": "https://mhxx.wiki-db.com/ta/arena/",
+      "sourceRecordMatch": "name_and_category_required",
+      "notes": []
+    },
+    {
+      "category": "arena",
+      "name": "イャンガルルガ討伐",
+      "weaponPresets": [
+        "双剣",
+        "ハンマー",
+        "操虫棍",
+        "スラッシュアックス",
+        "弓"
+      ],
+      "sourceUrl": "https://mhxx.wiki-db.com/ta/arena/",
+      "sourceRecordMatch": "name_and_category_required",
+      "notes": []
+    },
+    {
+      "category": "arena",
+      "name": "ウラガンキン討伐",
+      "weaponPresets": [
+        "大剣",
+        "狩猟笛",
+        "スラッシュアックス",
+        "ガンランス",
+        "ヘビィボウガン"
+      ],
+      "sourceUrl": "https://mhxx.wiki-db.com/ta/arena/",
+      "sourceRecordMatch": "name_and_category_required",
+      "notes": []
+    },
+    {
+      "category": "arena",
+      "name": "セルレギオス討伐",
+      "weaponPresets": [
+        "太刀",
+        "狩猟笛",
+        "チャージアックス",
+        "ランス",
+        "弓"
+      ],
+      "sourceUrl": "https://mhxx.wiki-db.com/ta/arena/",
+      "sourceRecordMatch": "name_and_category_required",
+      "notes": []
+    },
+    {
+      "category": "challenge",
+      "name": "タマミツネ討伐",
+      "weaponPresets": [
+        "太刀",
+        "狩猟笛",
+        "チャージアックス",
+        "ランス",
+        "ライトボウガン"
+      ],
+      "sourceUrl": "https://mhxx.wiki-db.com/ta/arena/",
+      "sourceRecordMatch": "name_and_category_required",
+      "notes": []
+    },
+    {
+      "category": "challenge",
+      "name": "ディノバルド討伐",
+      "weaponPresets": [
+        "大剣",
+        "ハンマー",
+        "操虫棍",
+        "スラッシュアックス",
+        "弓"
+      ],
+      "sourceUrl": "https://mhxx.wiki-db.com/ta/arena/",
+      "sourceRecordMatch": "name_and_category_required",
+      "notes": []
+    },
+    {
+      "category": "challenge",
+      "name": "ガムート討伐",
+      "weaponPresets": [
+        "太刀",
+        "狩猟笛",
+        "スラッシュアックス",
+        "ガンランス",
+        "ヘビィボウガン"
+      ],
+      "sourceUrl": "https://mhxx.wiki-db.com/ta/arena/",
+      "sourceRecordMatch": "name_and_category_required",
+      "notes": []
+    },
+    {
+      "category": "challenge",
+      "name": "ライゼクス討伐",
+      "weaponPresets": [
+        "片手剣",
+        "ランス",
+        "チャージアックス",
+        "操虫棍",
+        "弓"
+      ],
+      "sourceUrl": "https://mhxx.wiki-db.com/ta/arena/",
+      "sourceRecordMatch": "name_and_category_required",
+      "notes": []
+    },
+    {
+      "category": "challenge",
+      "name": "ラギアクルス討伐",
+      "weaponPresets": [
+        "太刀",
+        "双剣",
+        "ハンマー",
+        "ガンランス",
+        "ライトボウガン"
+      ],
+      "sourceUrl": "https://mhxx.wiki-db.com/ta/arena/",
+      "sourceRecordMatch": "name_and_category_required",
+      "notes": []
+    },
+    {
+      "category": "challenge",
+      "name": "ジンオウガ討伐",
+      "weaponPresets": [
+        "太刀",
+        "ハンマー",
+        "ランス",
+        "操虫棍",
+        "ライトボウガン"
+      ],
+      "sourceUrl": "https://mhxx.wiki-db.com/ta/arena/",
+      "sourceRecordMatch": "name_and_category_required",
+      "notes": []
+    },
+    {
+      "category": "challenge",
+      "name": "ゴア・マガラ討伐",
+      "weaponPresets": [
+        "片手剣",
+        "ハンマー",
+        "操虫棍",
+        "チャージアックス",
+        "ライトボウガン"
+      ],
+      "sourceUrl": "https://mhxx.wiki-db.com/ta/arena/",
+      "sourceRecordMatch": "name_and_category_required",
+      "notes": []
+    },
+    {
+      "category": "challenge",
+      "name": "ティガレックス討伐",
+      "weaponPresets": [
+        "太刀",
+        "双剣",
+        "狩猟笛",
+        "ガンランス",
+        "弓"
+      ],
+      "sourceUrl": "https://mhxx.wiki-db.com/ta/arena/",
+      "sourceRecordMatch": "name_and_category_required",
+      "notes": []
+    },
+    {
+      "category": "challenge",
+      "name": "リオレウス討伐",
+      "weaponPresets": [
+        "大剣",
+        "狩猟笛",
+        "チャージアックス",
+        "スラッシュアックス",
+        "ヘビィボウガン"
+      ],
+      "sourceUrl": "https://mhxx.wiki-db.com/ta/arena/",
+      "sourceRecordMatch": "name_and_category_required",
+      "notes": []
+    },
+    {
+      "category": "challenge",
+      "name": "ナルガクルガ討伐",
+      "weaponPresets": [
+        "太刀",
+        "片手剣",
+        "ハンマー",
+        "ランス",
+        "弓"
+      ],
+      "sourceUrl": "https://mhxx.wiki-db.com/ta/arena/",
+      "sourceRecordMatch": "name_and_category_required",
+      "notes": []
+    },
+    {
+      "category": "challenge",
+      "name": "大連続狩猟1",
+      "weaponPresets": [
+        "大剣",
+        "ランス",
+        "チャージアックス",
+        "操虫棍",
+        "ライトボウガン"
+      ],
+      "sourceUrl": "https://mhxx.wiki-db.com/ta/arena/",
+      "sourceRecordMatch": "name_and_category_required",
+      "notes": [
+        "wiki-dbの大連続狩猟セクションは既存QLOGの同名チャレンジの狩猟対象と突き合わせてから採用すること。"
+      ]
+    },
+    {
+      "category": "challenge",
+      "name": "大連続狩猟2",
+      "weaponPresets": [
+        "太刀",
+        "片手剣",
+        "狩猟笛",
+        "スラッシュアックス",
+        "弓"
+      ],
+      "sourceUrl": "https://mhxx.wiki-db.com/ta/arena/",
+      "sourceRecordMatch": "name_and_category_required",
+      "notes": [
+        "wiki-dbの大連続狩猟セクションは既存QLOGの同名チャレンジの狩猟対象と突き合わせてから採用すること。"
+      ]
+    },
+    {
+      "category": "challenge",
+      "name": "大連続狩猟3",
+      "weaponPresets": [
+        "大剣",
+        "双剣",
+        "ガンランス",
+        "チャージアックス",
+        "ヘビィボウガン"
+      ],
+      "sourceUrl": "https://mhxx.wiki-db.com/ta/arena/",
+      "sourceRecordMatch": "name_and_category_required",
+      "notes": [
+        "wiki-dbの大連続狩猟セクションは既存QLOGの同名チャレンジの狩猟対象と突き合わせてから採用すること。"
+      ]
+    },
+    {
+      "category": "challenge",
+      "name": "大連続狩猟4",
+      "weaponPresets": [
+        "大剣",
+        "双剣",
+        "狩猟笛",
+        "ガンランス",
+        "ライトボウガン"
+      ],
+      "sourceUrl": "https://mhxx.wiki-db.com/ta/arena/",
+      "sourceRecordMatch": "name_and_category_required",
+      "notes": [
+        "wiki-dbの大連続狩猟セクションは既存QLOGの同名チャレンジの狩猟対象と突き合わせてから採用すること。"
+      ]
+    }
+  ],
+  "notAudited": [
+    "S/A/B thresholds",
+    "original arena prerequisite conditions for 10 quests",
+    "piercing and achievement exact target set / NPC claim steps",
+    "live distribution status",
+    "all per-quest HR and medal drops"
+  ]
+}

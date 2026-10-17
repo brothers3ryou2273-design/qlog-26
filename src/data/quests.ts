@@ -48,6 +48,7 @@ import eventLow from "./event-low.json";
 import eventHigh from "./event-high.json";
 
 import eventG from "./event-g.json";
+import challengeXX from "./challenge-xx.json";
 
 import arena from "./arena.json";
 
@@ -99,8 +100,9 @@ export const quests: Quest[] = [
   ...eventG,
   ...arena,
   ...challenge,
+  ...challengeXX,
 ] as Quest[];
 export const dataStatus = {
   complete: false,
-  note: "村370件・集会所339件・G級230件・特殊許可228件・イベント144件と闘技大会17件・チャレンジ20件を収録。闘技大会・チャレンジの一部条件や追加候補は調査中です。攻略レシピの一覧と個別ページを照合しています。未確認点は個別に表示します。",
+  note: "村370件・集会所339件・G級230件・特殊許可228件・イベント144件と闘技大会17件・チャレンジ39件を収録。追加チャレンジ19件は提供された公開資料と取得可能な補助資料で照合。個別URL未取得の候補1件や出現条件・報酬は調査中です。未確認点は個別に表示します。",
 };

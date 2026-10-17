@@ -1,0 +1,79 @@
+{
+  "checkedAt": "2026-10-17",
+  "sourceUrl": "https://w.atwiki.jp/mhxxnyanter/pages/70.html",
+  "bodySha256": "1bde5b2c4ab719925dbfd37cac4bdfc760659fd0a84d46069898d59049a55774",
+  "entries": [
+    {
+      "name": "ＸＸイベント：火竜討伐",
+      "url": "https://w.atwiki.jp/mhxxnyanter/pages/70.html#id_76e8e70e",
+      "supportTypes": [
+        "カリスマ",
+        "アシスト",
+        "回復",
+        "ボマー",
+        "コレクト"
+      ],
+      "evaluationNotation": "S7:00　A:14:00　B30:00"
+    },
+    {
+      "name": "ＸＸイベント：轟竜討伐",
+      "url": "https://w.atwiki.jp/mhxxnyanter/pages/70.html#id_3b17d3a4",
+      "supportTypes": [
+        "カリスマ",
+        "ファイト",
+        "ガード",
+        "アシスト",
+        "ビースト"
+      ],
+      "evaluationNotation": "S7:00　A:14:00　B30:00"
+    },
+    {
+      "name": "ＸＸイベント：迅竜討伐",
+      "url": "https://w.atwiki.jp/mhxxnyanter/pages/70.html#id_4815b752",
+      "supportTypes": [
+        "ファイト",
+        "ガード",
+        "アシスト",
+        "ボマー",
+        "ビースト"
+      ],
+      "evaluationNotation": "S7:00　A:14:00　B30:00"
+    },
+    {
+      "name": "ＸＸイベント：雷狼竜討伐",
+      "url": "https://w.atwiki.jp/mhxxnyanter/pages/70.html#id_cda6ff39",
+      "supportTypes": [
+        "ファイト",
+        "アシスト",
+        "回復",
+        "ボマー",
+        "ビースト"
+      ],
+      "evaluationNotation": "S7:00　A:14:00　B30:00"
+    },
+    {
+      "name": "ＸＸイベント：砕竜討伐",
+      "url": "https://w.atwiki.jp/mhxxnyanter/pages/70.html#id_70dd4d68",
+      "supportTypes": [
+        "ファイト",
+        "ガード",
+        "アシスト",
+        "コレクト",
+        "ビースト"
+      ],
+      "evaluationNotation": "S7:00　A:14:00　B30:00"
+    },
+    {
+      "name": "ＸＸイベント：大連続狩猟４",
+      "url": "https://w.atwiki.jp/mhxxnyanter/pages/70.html#id_4eb7b3c3",
+      "supportTypes": [
+        "カリスマ",
+        "ファイト",
+        "ガード",
+        "回復",
+        "ビースト"
+      ],
+      "evaluationNotation": "S12:00　A25:00　B40:00"
+    }
+  ]
+}

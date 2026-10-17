@@ -1,0 +1,21 @@
+{
+  "baselineMain": "919817c4cc1f09cd3b920cd8d96aabe807ac5265",
+  "baseline": "../progress-baseline-1348.json",
+  "existingQuestCount": 1348,
+  "newQuestCount": 19,
+  "totalQuestCount": 1367,
+  "changedExistingRecords": 25,
+  "allowedFields": [
+    "arenaInfo.weapons",
+    "arenaInfo.notes",
+    "sources"
+  ],
+  "fieldChangeLedger": "existing-weapon-changes.json",
+  "conditionsChanged": 0,
+  "idsChanged": 0,
+  "unlocksChanged": 0,
+  "saveKey": "qlog.mhxx.progress.v1",
+  "schemaVersion": 1,
+  "sourceAttachment": "qlog_mhxx_pr13_public_evidence_20261017.json",
+  "inGameVerificationPerformed": false
+}

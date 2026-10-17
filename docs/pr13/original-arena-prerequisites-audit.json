@@ -1,0 +1,240 @@
+{
+  "checkedAt": "2026-10-17",
+  "resolvedCount": 0,
+  "entries": [
+    {
+      "questId": "arena-recipe-218340",
+      "name": "ホロロホルル討伐",
+      "sourceUrl": "https://x.mh4info.com/quest/detail/?no=1865",
+      "observedParticipantCondition": "2人以下限定",
+      "sourceNameVariant": "ホロロホルル討伐",
+      "before": {
+        "kind": "unknown",
+        "note": "この闘技大会の出現前提は未確認。攻略レシピ個別には人数・一部のHR以外の記載がなく、補助一覧も取得内容が空でした。"
+      },
+      "after": {
+        "kind": "unknown",
+        "note": "この闘技大会の出現前提は未確認。攻略レシピ個別には人数・一部のHR以外の記載がなく、補助一覧も取得内容が空でした。"
+      },
+      "decision": "出現前提の追加根拠がないためunknownを維持。人数のみの記載を前提なしと解釈しない。"
+    },
+    {
+      "questId": "arena-recipe-238253",
+      "name": "フルフル討伐",
+      "sourceUrl": "https://x.mh4info.com/quest/detail/?no=1866",
+      "observedParticipantCondition": "2人以下限定",
+      "sourceNameVariant": "フルフル討伐",
+      "before": {
+        "kind": "unknown",
+        "note": "この闘技大会の出現前提は未確認。攻略レシピ個別には人数・一部のHR以外の記載がなく、補助一覧も取得内容が空でした。"
+      },
+      "after": {
+        "kind": "unknown",
+        "note": "この闘技大会の出現前提は未確認。攻略レシピ個別には人数・一部のHR以外の記載がなく、補助一覧も取得内容が空でした。"
+      },
+      "decision": "出現前提の追加根拠がないためunknownを維持。人数のみの記載を前提なしと解釈しない。"
+    },
+    {
+      "questId": "arena-recipe-238254",
+      "name": "ガララアジャラ討伐",
+      "sourceUrl": "https://x.mh4info.com/quest/detail/?no=1867",
+      "observedParticipantCondition": "2人以下限定",
+      "sourceNameVariant": "ガララアジャラ討伐",
+      "before": {
+        "kind": "unknown",
+        "note": "この闘技大会の出現前提は未確認。攻略レシピ個別には人数・一部のHR以外の記載がなく、補助一覧も取得内容が空でした。"
+      },
+      "after": {
+        "kind": "unknown",
+        "note": "この闘技大会の出現前提は未確認。攻略レシピ個別には人数・一部のHR以外の記載がなく、補助一覧も取得内容が空でした。"
+      },
+      "decision": "出現前提の追加根拠がないためunknownを維持。人数のみの記載を前提なしと解釈しない。"
+    },
+    {
+      "questId": "arena-recipe-238255",
+      "name": "リオレウス討伐",
+      "sourceUrl": "https://x.mh4info.com/quest/detail/?no=1868",
+      "observedParticipantCondition": "2人以下限定",
+      "sourceNameVariant": "リオレウス討伐",
+      "before": {
+        "kind": "unknown",
+        "note": "この闘技大会の出現前提は未確認。攻略レシピ個別には人数・一部のHR以外の記載がなく、補助一覧も取得内容が空でした。"
+      },
+      "after": {
+        "kind": "unknown",
+        "note": "この闘技大会の出現前提は未確認。攻略レシピ個別には人数・一部のHR以外の記載がなく、補助一覧も取得内容が空でした。"
+      },
+      "decision": "出現前提の追加根拠がないためunknownを維持。人数のみの記載を前提なしと解釈しない。"
+    },
+    {
+      "questId": "arena-recipe-238256",
+      "name": "ケチャワチャ討伐",
+      "sourceUrl": "https://x.mh4info.com/quest/detail/?no=1869",
+      "observedParticipantCondition": "2人以下限定、HR4以上",
+      "sourceNameVariant": "ケチャワチャ討伐",
+      "before": {
+        "kind": "all",
+        "rules": [
+          {
+            "kind": "hr_at_least",
+            "value": 4
+          },
+          {
+            "kind": "unknown",
+            "note": "この闘技大会の出現前提は未確認。攻略レシピ個別には人数・一部のHR以外の記載がなく、補助一覧も取得内容が空でした。"
+          }
+        ]
+      },
+      "after": {
+        "kind": "all",
+        "rules": [
+          {
+            "kind": "hr_at_least",
+            "value": 4
+          },
+          {
+            "kind": "unknown",
+            "note": "この闘技大会の出現前提は未確認。攻略レシピ個別には人数・一部のHR以外の記載がなく、補助一覧も取得内容が空でした。"
+          }
+        ]
+      },
+      "decision": "出現前提の追加根拠がないためunknownを維持。人数のみの記載を前提なしと解釈しない。"
+    },
+    {
+      "questId": "arena-recipe-238257",
+      "name": "ガノトトス討伐",
+      "sourceUrl": "https://x.mh4info.com/quest/detail/?no=1870",
+      "observedParticipantCondition": "2人以下限定、HR4以上",
+      "sourceNameVariant": "ガノトトス討伐",
+      "before": {
+        "kind": "all",
+        "rules": [
+          {
+            "kind": "hr_at_least",
+            "value": 4
+          },
+          {
+            "kind": "unknown",
+            "note": "この闘技大会の出現前提は未確認。攻略レシピ個別には人数・一部のHR以外の記載がなく、補助一覧も取得内容が空でした。"
+          }
+        ]
+      },
+      "after": {
+        "kind": "all",
+        "rules": [
+          {
+            "kind": "hr_at_least",
+            "value": 4
+          },
+          {
+            "kind": "unknown",
+            "note": "この闘技大会の出現前提は未確認。攻略レシピ個別には人数・一部のHR以外の記載がなく、補助一覧も取得内容が空でした。"
+          }
+        ]
+      },
+      "decision": "出現前提の追加根拠がないためunknownを維持。人数のみの記載を前提なしと解釈しない。"
+    },
+    {
+      "questId": "arena-recipe-267307",
+      "name": "ブラキディオス討伐",
+      "sourceUrl": "https://x.mh4info.com/quest/detail/?no=1871",
+      "observedParticipantCondition": "2人以下限定、HR4以上",
+      "sourceNameVariant": "ブラキディオス討伐",
+      "before": {
+        "kind": "all",
+        "rules": [
+          {
+            "kind": "hr_at_least",
+            "value": 4
+          },
+          {
+            "kind": "unknown",
+            "note": "この闘技大会の出現前提は未確認。攻略レシピ個別には人数・一部のHR以外の記載がなく、補助一覧も取得内容が空でした。"
+          }
+        ]
+      },
+      "after": {
+        "kind": "all",
+        "rules": [
+          {
+            "kind": "hr_at_least",
+            "value": 4
+          },
+          {
+            "kind": "unknown",
+            "note": "この闘技大会の出現前提は未確認。攻略レシピ個別には人数・一部のHR以外の記載がなく、補助一覧も取得内容が空でした。"
+          }
+        ]
+      },
+      "decision": "出現前提の追加根拠がないためunknownを維持。人数のみの記載を前提なしと解釈しない。"
+    },
+    {
+      "questId": "arena-recipe-218341",
+      "name": "ドスマッカォ討伐",
+      "sourceUrl": "https://x.mh4info.com/quest/detail/?no=1874",
+      "observedParticipantCondition": "2人以下限定",
+      "sourceNameVariant": "ドスマッカォ討伐",
+      "before": {
+        "kind": "unknown",
+        "note": "この闘技大会の出現前提は未確認。攻略レシピ個別には人数・一部のHR以外の記載がなく、補助一覧も取得内容が空でした。"
+      },
+      "after": {
+        "kind": "unknown",
+        "note": "この闘技大会の出現前提は未確認。攻略レシピ個別には人数・一部のHR以外の記載がなく、補助一覧も取得内容が空でした。"
+      },
+      "decision": "出現前提の追加根拠がないためunknownを維持。人数のみの記載を前提なしと解釈しない。"
+    },
+    {
+      "questId": "arena-recipe-238258",
+      "name": "ゲリョス討伐",
+      "sourceUrl": "https://x.mh4info.com/quest/detail/?no=1875",
+      "observedParticipantCondition": "2人以下限定",
+      "sourceNameVariant": "ゲリョス討伐",
+      "before": {
+        "kind": "unknown",
+        "note": "この闘技大会の出現前提は未確認。攻略レシピ個別には人数・一部のHR以外の記載がなく、補助一覧も取得内容が空でした。"
+      },
+      "after": {
+        "kind": "unknown",
+        "note": "この闘技大会の出現前提は未確認。攻略レシピ個別には人数・一部のHR以外の記載がなく、補助一覧も取得内容が空でした。"
+      },
+      "decision": "出現前提の追加根拠がないためunknownを維持。人数のみの記載を前提なしと解釈しない。"
+    },
+    {
+      "questId": "arena-recipe-238259",
+      "name": "鳥竜種２頭討伐",
+      "sourceUrl": "https://x.mh4info.com/quest/detail/?no=1876",
+      "observedParticipantCondition": "2人以下限定、HR",
+      "sourceNameVariant": "鳥竜種2種討伐",
+      "before": {
+        "kind": "all",
+        "rules": [
+          {
+            "kind": "hr_at_least",
+            "value": 4
+          },
+          {
+            "kind": "unknown",
+            "note": "この闘技大会の出現前提は未確認。攻略レシピ個別には人数・一部のHR以外の記載がなく、補助一覧も取得内容が空でした。"
+          }
+        ]
+      },
+      "after": {
+        "kind": "all",
+        "rules": [
+          {
+            "kind": "hr_at_least",
+            "value": 4
+          },
+          {
+            "kind": "unknown",
+            "note": "この闘技大会の出現前提は未確認。攻略レシピ個別には人数・一部のHR以外の記載がなく、補助一覧も取得内容が空でした。"
+          }
+        ]
+      },
+      "decision": "出現前提の追加根拠がないためunknownを維持。人数のみの記載を前提なしと解釈しない。"
+    }
+  ],
+  "fiveExistingGConnections": "維持。条件変更なし。",
+  "additionalTimes": "補助DBには既存闘技大会の評価や報酬記載もあるが、今回は既存の全フィールドを保持するため武器補完以外の変更を広げず、観測JSONに記録した。追加クエストの評価基準は実際の記載を採用。"
+}

@@ -1,0 +1,2488 @@
+{
+  "checkedAt": "2026-10-17",
+  "attachmentSha256": "6a99bd1300b1cdf7fc5a885e8d3138be715fe7f6a3423d6fb5af85e78b051073",
+  "entries": [
+    {
+      "questId": "arena-recipe-218340",
+      "name": "ホロロホルル討伐",
+      "category": "arena",
+      "role": "hunter",
+      "targets": [
+        "ホロロホルル"
+      ],
+      "evidencePointer": "existingHunterQuestWeaponPresets/0",
+      "sourceUrl": "https://mhxx.wiki-db.com/ta/arena/",
+      "targetCrossCheck": {
+        "method": "単一対象の正式名と既存攻略レシピ観測targetsの完全一致"
+      },
+      "changes": [
+        {
+          "path": [
+            "arenaInfo",
+            "weapons"
+          ],
+          "beforeExists": false,
+          "after": [
+            "大剣",
+            "片手剣",
+            "ハンマー",
+            "ガンランス",
+            "ヘビィボウガン"
+          ]
+        },
+        {
+          "path": [
+            "arenaInfo",
+            "notes"
+          ],
+          "beforeExists": true,
+          "before": [
+            "評価時間は出典の表記をそのまま表示します。境界の等号・フレーム単位は未確認で、秒数への丸めや補完は行っていません。評価・自己ベスト・使用装備は保存しません。",
+            "使用可能な武器種・評価時間は今回確認できた資料では未確認です。"
+          ],
+          "after": [
+            "評価時間は出典の表記をそのまま表示します。境界の等号・フレーム単位は未確認で、秒数への丸めや補完は行っていません。評価・自己ベスト・使用装備は保存しません。",
+            "前回調査では武器種・評価時間が未確認でした。武器プリセットは提供された公開資料で補完しました。評価時間は引き続き未確認です。"
+          ]
+        },
+        {
+          "path": [
+            "sources"
+          ],
+          "beforeExists": true,
+          "before": [
+            {
+              "site": "MHXX攻略レシピ",
+              "url": "http://wiki.mhxg.org/ida/218340.html",
+              "kind": "detail",
+              "checkedAt": "2026-10-16"
+            },
+            {
+              "site": "MHXX攻略レシピ",
+              "url": "http://wiki.mhxg.org/data/2035.html",
+              "kind": "list",
+              "checkedAt": "2026-10-16"
+            },
+            {
+              "site": "MHXX攻略レシピ（クロオビチケットの用途）",
+              "url": "http://wiki.mhxg.org/ida/226813.html",
+              "kind": "reference",
+              "checkedAt": "2026-10-16"
+            }
+          ],
+          "after": [
+            {
+              "site": "MHXX攻略レシピ",
+              "url": "http://wiki.mhxg.org/ida/218340.html",
+              "kind": "detail",
+              "checkedAt": "2026-10-16"
+            },
+            {
+              "site": "MHXX攻略レシピ",
+              "url": "http://wiki.mhxg.org/data/2035.html",
+              "kind": "list",
+              "checkedAt": "2026-10-16"
+            },
+            {
+              "site": "MHXX攻略レシピ（クロオビチケットの用途）",
+              "url": "http://wiki.mhxg.org/ida/226813.html",
+              "kind": "reference",
+              "checkedAt": "2026-10-16"
+            },
+            {
+              "site": "MHXX TA Wiki（提供資料経由・プリセット選択肢）",
+              "url": "https://mhxx.wiki-db.com/ta/arena/",
+              "kind": "reference",
+              "checkedAt": "2026-10-17"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "questId": "arena-recipe-238253",
+      "name": "フルフル討伐",
+      "category": "arena",
+      "role": "hunter",
+      "targets": [
+        "フルフル"
+      ],
+      "evidencePointer": "existingHunterQuestWeaponPresets/1",
+      "sourceUrl": "https://mhxx.wiki-db.com/ta/arena/",
+      "targetCrossCheck": {
+        "method": "単一対象の正式名と既存攻略レシピ観測targetsの完全一致"
+      },
+      "changes": [
+        {
+          "path": [
+            "arenaInfo",
+            "weapons"
+          ],
+          "beforeExists": false,
+          "after": [
+            "太刀",
+            "双剣",
+            "スラッシュアックス",
+            "ランス",
+            "ライトボウガン"
+          ]
+        },
+        {
+          "path": [
+            "arenaInfo",
+            "notes"
+          ],
+          "beforeExists": true,
+          "before": [
+            "評価時間は出典の表記をそのまま表示します。境界の等号・フレーム単位は未確認で、秒数への丸めや補完は行っていません。評価・自己ベスト・使用装備は保存しません。",
+            "使用可能な武器種・評価時間は今回確認できた資料では未確認です。"
+          ],
+          "after": [
+            "評価時間は出典の表記をそのまま表示します。境界の等号・フレーム単位は未確認で、秒数への丸めや補完は行っていません。評価・自己ベスト・使用装備は保存しません。",
+            "前回調査では武器種・評価時間が未確認でした。武器プリセットは提供された公開資料で補完しました。評価時間は引き続き未確認です。"
+          ]
+        },
+        {
+          "path": [
+            "sources"
+          ],
+          "beforeExists": true,
+          "before": [
+            {
+              "site": "MHXX攻略レシピ",
+              "url": "http://wiki.mhxg.org/ida/238253.html",
+              "kind": "detail",
+              "checkedAt": "2026-10-16"
+            },
+            {
+              "site": "MHXX攻略レシピ",
+              "url": "http://wiki.mhxg.org/data/2035.html",
+              "kind": "list",
+              "checkedAt": "2026-10-16"
+            },
+            {
+              "site": "MHXX攻略レシピ（フルフルコインの用途）",
+              "url": "http://wiki.mhxg.org/ida/229905.html",
+              "kind": "reference",
+              "checkedAt": "2026-10-16"
+            },
+            {
+              "site": "MHXX攻略レシピ（クロオビチケットの用途）",
+              "url": "http://wiki.mhxg.org/ida/226813.html",
+              "kind": "reference",
+              "checkedAt": "2026-10-16"
+            }
+          ],
+          "after": [
+            {
+              "site": "MHXX攻略レシピ",
+              "url": "http://wiki.mhxg.org/ida/238253.html",
+              "kind": "detail",
+              "checkedAt": "2026-10-16"
+            },
+            {
+              "site": "MHXX攻略レシピ",
+              "url": "http://wiki.mhxg.org/data/2035.html",
+              "kind": "list",
+              "checkedAt": "2026-10-16"
+            },
+            {
+              "site": "MHXX攻略レシピ（フルフルコインの用途）",
+              "url": "http://wiki.mhxg.org/ida/229905.html",
+              "kind": "reference",
+              "checkedAt": "2026-10-16"
+            },
+            {
+              "site": "MHXX攻略レシピ（クロオビチケットの用途）",
+              "url": "http://wiki.mhxg.org/ida/226813.html",
+              "kind": "reference",
+              "checkedAt": "2026-10-16"
+            },
+            {
+              "site": "MHXX TA Wiki（提供資料経由・プリセット選択肢）",
+              "url": "https://mhxx.wiki-db.com/ta/arena/",
+              "kind": "reference",
+              "checkedAt": "2026-10-17"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "questId": "arena-recipe-238254",
+      "name": "ガララアジャラ討伐",
+      "category": "arena",
+      "role": "hunter",
+      "targets": [
+        "ガララアジャラ"
+      ],
+      "evidencePointer": "existingHunterQuestWeaponPresets/2",
+      "sourceUrl": "https://mhxx.wiki-db.com/ta/arena/",
+      "targetCrossCheck": {
+        "method": "単一対象の正式名と既存攻略レシピ観測targetsの完全一致"
+      },
+      "changes": [
+        {
+          "path": [
+            "arenaInfo",
+            "weapons"
+          ],
+          "beforeExists": false,
+          "after": [
+            "片手剣",
+            "操虫棍",
+            "スラッシュアックス",
+            "チャージアックス",
+            "弓"
+          ]
+        },
+        {
+          "path": [
+            "arenaInfo",
+            "notes"
+          ],
+          "beforeExists": true,
+          "before": [
+            "評価時間は出典の表記をそのまま表示します。境界の等号・フレーム単位は未確認で、秒数への丸めや補完は行っていません。評価・自己ベスト・使用装備は保存しません。",
+            "使用可能な武器種・評価時間は今回確認できた資料では未確認です。"
+          ],
+          "after": [
+            "評価時間は出典の表記をそのまま表示します。境界の等号・フレーム単位は未確認で、秒数への丸めや補完は行っていません。評価・自己ベスト・使用装備は保存しません。",
+            "前回調査では武器種・評価時間が未確認でした。武器プリセットは提供された公開資料で補完しました。評価時間は引き続き未確認です。"
+          ]
+        },
+        {
+          "path": [
+            "sources"
+          ],
+          "beforeExists": true,
+          "before": [
+            {
+              "site": "MHXX攻略レシピ",
+              "url": "http://wiki.mhxg.org/ida/238254.html",
+              "kind": "detail",
+              "checkedAt": "2026-10-16"
+            },
+            {
+              "site": "MHXX攻略レシピ",
+              "url": "http://wiki.mhxg.org/data/2035.html",
+              "kind": "list",
+              "checkedAt": "2026-10-16"
+            },
+            {
+              "site": "MHXX攻略レシピ（ガララコインの用途）",
+              "url": "http://wiki.mhxg.org/ida/229787.html",
+              "kind": "reference",
+              "checkedAt": "2026-10-16"
+            },
+            {
+              "site": "MHXX攻略レシピ（クロオビチケットの用途）",
+              "url": "http://wiki.mhxg.org/ida/226813.html",
+              "kind": "reference",
+              "checkedAt": "2026-10-16"
+            }
+          ],
+          "after": [
+            {
+              "site": "MHXX攻略レシピ",
+              "url": "http://wiki.mhxg.org/ida/238254.html",
+              "kind": "detail",
+              "checkedAt": "2026-10-16"
+            },
+            {
+              "site": "MHXX攻略レシピ",
+              "url": "http://wiki.mhxg.org/data/2035.html",
+              "kind": "list",
+              "checkedAt": "2026-10-16"
+            },
+            {
+              "site": "MHXX攻略レシピ（ガララコインの用途）",
+              "url": "http://wiki.mhxg.org/ida/229787.html",
+              "kind": "reference",
+              "checkedAt": "2026-10-16"
+            },
+            {
+              "site": "MHXX攻略レシピ（クロオビチケットの用途）",
+              "url": "http://wiki.mhxg.org/ida/226813.html",
+              "kind": "reference",
+              "checkedAt": "2026-10-16"
+            },
+            {
+              "site": "MHXX TA Wiki（提供資料経由・プリセット選択肢）",
+              "url": "https://mhxx.wiki-db.com/ta/arena/",
+              "kind": "reference",
+              "checkedAt": "2026-10-17"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "questId": "arena-recipe-238255",
+      "name": "リオレウス討伐",
+      "category": "arena",
+      "role": "hunter",
+      "targets": [
+        "リオレウス"
+      ],
+      "evidencePointer": "existingHunterQuestWeaponPresets/3",
+      "sourceUrl": "https://mhxx.wiki-db.com/ta/arena/",
+      "targetCrossCheck": {
+        "method": "単一対象の正式名と既存攻略レシピ観測targetsの完全一致"
+      },
+      "changes": [
+        {
+          "path": [
+            "arenaInfo",
+            "weapons"
+          ],
+          "beforeExists": false,
+          "after": [
+            "片手剣",
+            "双剣",
+            "ハンマー",
+            "ランス",
+            "ヘビィボウガン"
+          ]
+        },
+        {
+          "path": [
+            "arenaInfo",
+            "notes"
+          ],
+          "beforeExists": true,
+          "before": [
+            "評価時間は出典の表記をそのまま表示します。境界の等号・フレーム単位は未確認で、秒数への丸めや補完は行っていません。評価・自己ベスト・使用装備は保存しません。",
+            "使用可能な武器種・評価時間は今回確認できた資料では未確認です。"
+          ],
+          "after": [
+            "評価時間は出典の表記をそのまま表示します。境界の等号・フレーム単位は未確認で、秒数への丸めや補完は行っていません。評価・自己ベスト・使用装備は保存しません。",
+            "前回調査では武器種・評価時間が未確認でした。武器プリセットは提供された公開資料で補完しました。評価時間は引き続き未確認です。"
+          ]
+        },
+        {
+          "path": [
+            "sources"
+          ],
+          "beforeExists": true,
+          "before": [
+            {
+              "site": "MHXX攻略レシピ",
+              "url": "http://wiki.mhxg.org/ida/238255.html",
+              "kind": "detail",
+              "checkedAt": "2026-10-16"
+            },
+            {
+              "site": "MHXX攻略レシピ",
+              "url": "http://wiki.mhxg.org/data/2035.html",
+              "kind": "list",
+              "checkedAt": "2026-10-16"
+            },
+            {
+              "site": "MHXX攻略レシピ（レウスコインの用途）",
+              "url": "http://wiki.mhxg.org/ida/229932.html",
+              "kind": "reference",
+              "checkedAt": "2026-10-16"
+            },
+            {
+              "site": "MHXX攻略レシピ（クロオビチケットの用途）",
+              "url": "http://wiki.mhxg.org/ida/226813.html",
+              "kind": "reference",
+              "checkedAt": "2026-10-16"
+            }
+          ],
+          "after": [
+            {
+              "site": "MHXX攻略レシピ",
+              "url": "http://wiki.mhxg.org/ida/238255.html",
+              "kind": "detail",
+              "checkedAt": "2026-10-16"
+            },
+            {
+              "site": "MHXX攻略レシピ",
+              "url": "http://wiki.mhxg.org/data/2035.html",
+              "kind": "list",
+              "checkedAt": "2026-10-16"
+            },
+            {
+              "site": "MHXX攻略レシピ（レウスコインの用途）",
+              "url": "http://wiki.mhxg.org/ida/229932.html",
+              "kind": "reference",
+              "checkedAt": "2026-10-16"
+            },
+            {
+              "site": "MHXX攻略レシピ（クロオビチケットの用途）",
+              "url": "http://wiki.mhxg.org/ida/226813.html",
+              "kind": "reference",
+              "checkedAt": "2026-10-16"
+            },
+            {
+              "site": "MHXX TA Wiki（提供資料経由・プリセット選択肢）",
+              "url": "https://mhxx.wiki-db.com/ta/arena/",
+              "kind": "reference",
+              "checkedAt": "2026-10-17"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "questId": "arena-recipe-238256",
+      "name": "ケチャワチャ討伐",
+      "category": "arena",
+      "role": "hunter",
+      "targets": [
+        "ケチャワチャ"
+      ],
+      "evidencePointer": "existingHunterQuestWeaponPresets/4",
+      "sourceUrl": "https://mhxx.wiki-db.com/ta/arena/",
+      "targetCrossCheck": {
+        "method": "単一対象の正式名と既存攻略レシピ観測targetsの完全一致"
+      },
+      "changes": [
+        {
+          "path": [
+            "arenaInfo",
+            "weapons"
+          ],
+          "beforeExists": false,
+          "after": [
+            "太刀",
+            "双剣",
+            "狩猟笛",
+            "操虫棍",
+            "ヘビィボウガン"
+          ]
+        },
+        {
+          "path": [
+            "arenaInfo",
+            "notes"
+          ],
+          "beforeExists": true,
+          "before": [
+            "評価時間は出典の表記をそのまま表示します。境界の等号・フレーム単位は未確認で、秒数への丸めや補完は行っていません。評価・自己ベスト・使用装備は保存しません。",
+            "使用可能な武器種・評価時間は今回確認できた資料では未確認です。"
+          ],
+          "after": [
+            "評価時間は出典の表記をそのまま表示します。境界の等号・フレーム単位は未確認で、秒数への丸めや補完は行っていません。評価・自己ベスト・使用装備は保存しません。",
+            "前回調査では武器種・評価時間が未確認でした。武器プリセットは提供された公開資料で補完しました。評価時間は引き続き未確認です。"
+          ]
+        },
+        {
+          "path": [
+            "sources"
+          ],
+          "beforeExists": true,
+          "before": [
+            {
+              "site": "MHXX攻略レシピ",
+              "url": "http://wiki.mhxg.org/ida/238256.html",
+              "kind": "detail",
+              "checkedAt": "2026-10-16"
+            },
+            {
+              "site": "MHXX攻略レシピ",
+              "url": "http://wiki.mhxg.org/data/2035.html",
+              "kind": "list",
+              "checkedAt": "2026-10-16"
+            },
+            {
+              "site": "MHXX攻略レシピ（ケチャコインの用途）",
+              "url": "http://wiki.mhxg.org/ida/229823.html",
+              "kind": "reference",
+              "checkedAt": "2026-10-16"
+            },
+            {
+              "site": "MHXX攻略レシピ（タツジンチケットの用途）",
+              "url": "http://wiki.mhxg.org/ida/229844.html",
+              "kind": "reference",
+              "checkedAt": "2026-10-16"
+            }
+          ],
+          "after": [
+            {
+              "site": "MHXX攻略レシピ",
+              "url": "http://wiki.mhxg.org/ida/238256.html",
+              "kind": "detail",
+              "checkedAt": "2026-10-16"
+            },
+            {
+              "site": "MHXX攻略レシピ",
+              "url": "http://wiki.mhxg.org/data/2035.html",
+              "kind": "list",
+              "checkedAt": "2026-10-16"
+            },
+            {
+              "site": "MHXX攻略レシピ（ケチャコインの用途）",
+              "url": "http://wiki.mhxg.org/ida/229823.html",
+              "kind": "reference",
+              "checkedAt": "2026-10-16"
+            },
+            {
+              "site": "MHXX攻略レシピ（タツジンチケットの用途）",
+              "url": "http://wiki.mhxg.org/ida/229844.html",
+              "kind": "reference",
+              "checkedAt": "2026-10-16"
+            },
+            {
+              "site": "MHXX TA Wiki（提供資料経由・プリセット選択肢）",
+              "url": "https://mhxx.wiki-db.com/ta/arena/",
+              "kind": "reference",
+              "checkedAt": "2026-10-17"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "questId": "arena-recipe-238257",
+      "name": "ガノトトス討伐",
+      "category": "arena",
+      "role": "hunter",
+      "targets": [
+        "ガノトトス"
+      ],
+      "evidencePointer": "existingHunterQuestWeaponPresets/5",
+      "sourceUrl": "https://mhxx.wiki-db.com/ta/arena/",
+      "targetCrossCheck": {
+        "method": "単一対象の正式名と既存攻略レシピ観測targetsの完全一致"
+      },
+      "changes": [
+        {
+          "path": [
+            "arenaInfo",
+            "weapons"
+          ],
+          "beforeExists": false,
+          "after": [
+            "大剣",
+            "片手剣",
+            "狩猟笛",
+            "ガンランス",
+            "ライトボウガン"
+          ]
+        },
+        {
+          "path": [
+            "arenaInfo",
+            "notes"
+          ],
+          "beforeExists": true,
+          "before": [
+            "評価時間は出典の表記をそのまま表示します。境界の等号・フレーム単位は未確認で、秒数への丸めや補完は行っていません。評価・自己ベスト・使用装備は保存しません。",
+            "使用可能な武器種・評価時間は今回確認できた資料では未確認です。"
+          ],
+          "after": [
+            "評価時間は出典の表記をそのまま表示します。境界の等号・フレーム単位は未確認で、秒数への丸めや補完は行っていません。評価・自己ベスト・使用装備は保存しません。",
+            "前回調査では武器種・評価時間が未確認でした。武器プリセットは提供された公開資料で補完しました。評価時間は引き続き未確認です。"
+          ]
+        },
+        {
+          "path": [
+            "sources"
+          ],
+          "beforeExists": true,
+          "before": [
+            {
+              "site": "MHXX攻略レシピ",
+              "url": "http://wiki.mhxg.org/ida/238257.html",
+              "kind": "detail",
+              "checkedAt": "2026-10-16"
+            },
+            {
+              "site": "MHXX攻略レシピ",
+              "url": "http://wiki.mhxg.org/data/2035.html",
+              "kind": "list",
+              "checkedAt": "2026-10-16"
+            },
+            {
+              "site": "MHXX攻略レシピ（ガノスコインの用途）",
+              "url": "http://wiki.mhxg.org/ida/229786.html",
+              "kind": "reference",
+              "checkedAt": "2026-10-16"
+            },
+            {
+              "site": "MHXX攻略レシピ（タツジンチケットの用途）",
+              "url": "http://wiki.mhxg.org/ida/229844.html",
+              "kind": "reference",
+              "checkedAt": "2026-10-16"
+            }
+          ],
+          "after": [
+            {
+              "site": "MHXX攻略レシピ",
+              "url": "http://wiki.mhxg.org/ida/238257.html",
+              "kind": "detail",
+              "checkedAt": "2026-10-16"
+            },
+            {
+              "site": "MHXX攻略レシピ",
+              "url": "http://wiki.mhxg.org/data/2035.html",
+              "kind": "list",
+              "checkedAt": "2026-10-16"
+            },
+            {
+              "site": "MHXX攻略レシピ（ガノスコインの用途）",
+              "url": "http://wiki.mhxg.org/ida/229786.html",
+              "kind": "reference",
+              "checkedAt": "2026-10-16"
+            },
+            {
+              "site": "MHXX攻略レシピ（タツジンチケットの用途）",
+              "url": "http://wiki.mhxg.org/ida/229844.html",
+              "kind": "reference",
+              "checkedAt": "2026-10-16"
+            },
+            {
+              "site": "MHXX TA Wiki（提供資料経由・プリセット選択肢）",
+              "url": "https://mhxx.wiki-db.com/ta/arena/",
+              "kind": "reference",
+              "checkedAt": "2026-10-17"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "questId": "arena-recipe-267307",
+      "name": "ブラキディオス討伐",
+      "category": "arena",
+      "role": "hunter",
+      "targets": [
+        "ブラキディオス"
+      ],
+      "evidencePointer": "existingHunterQuestWeaponPresets/6",
+      "sourceUrl": "https://mhxx.wiki-db.com/ta/arena/",
+      "targetCrossCheck": {
+        "method": "単一対象の正式名と既存攻略レシピ観測targetsの完全一致"
+      },
+      "changes": [
+        {
+          "path": [
+            "arenaInfo",
+            "weapons"
+          ],
+          "beforeExists": false,
+          "after": [
+            "大剣",
+            "ハンマー",
+            "チャージアックス",
+            "ガンランス",
+            "弓"
+          ]
+        },
+        {
+          "path": [
+            "arenaInfo",
+            "notes"
+          ],
+          "beforeExists": true,
+          "before": [
+            "評価時間は出典の表記をそのまま表示します。境界の等号・フレーム単位は未確認で、秒数への丸めや補完は行っていません。評価・自己ベスト・使用装備は保存しません。",
+            "使用可能な武器種・評価時間は今回確認できた資料では未確認です。"
+          ],
+          "after": [
+            "評価時間は出典の表記をそのまま表示します。境界の等号・フレーム単位は未確認で、秒数への丸めや補完は行っていません。評価・自己ベスト・使用装備は保存しません。",
+            "前回調査では武器種・評価時間が未確認でした。武器プリセットは提供された公開資料で補完しました。評価時間は引き続き未確認です。"
+          ]
+        },
+        {
+          "path": [
+            "sources"
+          ],
+          "beforeExists": true,
+          "before": [
+            {
+              "site": "MHXX攻略レシピ",
+              "url": "http://wiki.mhxg.org/ida/267307.html",
+              "kind": "detail",
+              "checkedAt": "2026-10-16"
+            },
+            {
+              "site": "MHXX攻略レシピ",
+              "url": "http://wiki.mhxg.org/data/2035.html",
+              "kind": "list",
+              "checkedAt": "2026-10-16"
+            },
+            {
+              "site": "MHXX攻略レシピ（ブラキコインの用途）",
+              "url": "http://wiki.mhxg.org/ida/229904.html",
+              "kind": "reference",
+              "checkedAt": "2026-10-16"
+            },
+            {
+              "site": "MHXX攻略レシピ（デンセツチケットの用途）",
+              "url": "http://wiki.mhxg.org/ida/229854.html",
+              "kind": "reference",
+              "checkedAt": "2026-10-16"
+            }
+          ],
+          "after": [
+            {
+              "site": "MHXX攻略レシピ",
+              "url": "http://wiki.mhxg.org/ida/267307.html",
+              "kind": "detail",
+              "checkedAt": "2026-10-16"
+            },
+            {
+              "site": "MHXX攻略レシピ",
+              "url": "http://wiki.mhxg.org/data/2035.html",
+              "kind": "list",
+              "checkedAt": "2026-10-16"
+            },
+            {
+              "site": "MHXX攻略レシピ（ブラキコインの用途）",
+              "url": "http://wiki.mhxg.org/ida/229904.html",
+              "kind": "reference",
+              "checkedAt": "2026-10-16"
+            },
+            {
+              "site": "MHXX攻略レシピ（デンセツチケットの用途）",
+              "url": "http://wiki.mhxg.org/ida/229854.html",
+              "kind": "reference",
+              "checkedAt": "2026-10-16"
+            },
+            {
+              "site": "MHXX TA Wiki（提供資料経由・プリセット選択肢）",
+              "url": "https://mhxx.wiki-db.com/ta/arena/",
+              "kind": "reference",
+              "checkedAt": "2026-10-17"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "questId": "arena-recipe-322498",
+      "name": "ベリオロス討伐",
+      "category": "arena",
+      "role": "hunter",
+      "targets": [
+        "ベリオロス"
+      ],
+      "evidencePointer": "existingHunterQuestWeaponPresets/7",
+      "sourceUrl": "https://mhxx.wiki-db.com/ta/arena/",
+      "targetCrossCheck": {
+        "method": "単一対象の正式名と既存攻略レシピ観測targetsの完全一致"
+      },
+      "changes": [
+        {
+          "path": [
+            "arenaInfo",
+            "weapons"
+          ],
+          "beforeExists": false,
+          "after": [
+            "太刀",
+            "操虫棍",
+            "チャージアックス",
+            "ランス",
+            "ライトボウガン"
+          ]
+        },
+        {
+          "path": [
+            "arenaInfo",
+            "notes"
+          ],
+          "beforeExists": true,
+          "before": [
+            "評価時間は出典の表記をそのまま表示します。境界の等号・フレーム単位は未確認で、秒数への丸めや補完は行っていません。評価・自己ベスト・使用装備は保存しません。",
+            "使用可能な武器種・評価時間は今回確認できた資料では未確認です。"
+          ],
+          "after": [
+            "評価時間は出典の表記をそのまま表示します。境界の等号・フレーム単位は未確認で、秒数への丸めや補完は行っていません。評価・自己ベスト・使用装備は保存しません。",
+            "前回調査では武器種・評価時間が未確認でした。武器プリセットは提供された公開資料で補完しました。評価時間は引き続き未確認です。"
+          ]
+        },
+        {
+          "path": [
+            "sources"
+          ],
+          "beforeExists": true,
+          "before": [
+            {
+              "site": "MHXX攻略レシピ",
+              "url": "http://wiki.mhxg.org/ida/322498.html",
+              "kind": "detail",
+              "checkedAt": "2026-10-16"
+            },
+            {
+              "site": "MHXX攻略レシピ",
+              "url": "http://wiki.mhxg.org/data/2035.html",
+              "kind": "list",
+              "checkedAt": "2026-10-16"
+            },
+            {
+              "site": "MHXX攻略データwiki（追加闘技大会の出現条件）",
+              "url": "https://mhx-wiki.com/?%E7%BE%BD%E9%A3%BE%E3%82%8A%E3%83%BB%E3%83%94%E3%82%A2%E3%82%B9%E3%81%AE%E5%85%A5%E6%89%8B%E6%96%B9%E6%B3%95",
+              "kind": "reference",
+              "checkedAt": "2026-10-16"
+            }
+          ],
+          "after": [
+            {
+              "site": "MHXX攻略レシピ",
+              "url": "http://wiki.mhxg.org/ida/322498.html",
+              "kind": "detail",
+              "checkedAt": "2026-10-16"
+            },
+            {
+              "site": "MHXX攻略レシピ",
+              "url": "http://wiki.mhxg.org/data/2035.html",
+              "kind": "list",
+              "checkedAt": "2026-10-16"
+            },
+            {
+              "site": "MHXX攻略データwiki（追加闘技大会の出現条件）",
+              "url": "https://mhx-wiki.com/?%E7%BE%BD%E9%A3%BE%E3%82%8A%E3%83%BB%E3%83%94%E3%82%A2%E3%82%B9%E3%81%AE%E5%85%A5%E6%89%8B%E6%96%B9%E6%B3%95",
+              "kind": "reference",
+              "checkedAt": "2026-10-16"
+            },
+            {
+              "site": "MHXX TA Wiki（提供資料経由・プリセット選択肢）",
+              "url": "https://mhxx.wiki-db.com/ta/arena/",
+              "kind": "reference",
+              "checkedAt": "2026-10-17"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "questId": "arena-recipe-322499",
+      "name": "イャンガルルガ討伐",
+      "category": "arena",
+      "role": "hunter",
+      "targets": [
+        "イャンガルルガ"
+      ],
+      "evidencePointer": "existingHunterQuestWeaponPresets/8",
+      "sourceUrl": "https://mhxx.wiki-db.com/ta/arena/",
+      "targetCrossCheck": {
+        "method": "単一対象の正式名と既存攻略レシピ観測targetsの完全一致"
+      },
+      "changes": [
+        {
+          "path": [
+            "arenaInfo",
+            "weapons"
+          ],
+          "beforeExists": false,
+          "after": [
+            "双剣",
+            "ハンマー",
+            "操虫棍",
+            "スラッシュアックス",
+            "弓"
+          ]
+        },
+        {
+          "path": [
+            "arenaInfo",
+            "notes"
+          ],
+          "beforeExists": true,
+          "before": [
+            "評価時間は出典の表記をそのまま表示します。境界の等号・フレーム単位は未確認で、秒数への丸めや補完は行っていません。評価・自己ベスト・使用装備は保存しません。",
+            "使用可能な武器種・評価時間は今回確認できた資料では未確認です。"
+          ],
+          "after": [
+            "評価時間は出典の表記をそのまま表示します。境界の等号・フレーム単位は未確認で、秒数への丸めや補完は行っていません。評価・自己ベスト・使用装備は保存しません。",
+            "前回調査では武器種・評価時間が未確認でした。武器プリセットは提供された公開資料で補完しました。評価時間は引き続き未確認です。"
+          ]
+        },
+        {
+          "path": [
+            "sources"
+          ],
+          "beforeExists": true,
+          "before": [
+            {
+              "site": "MHXX攻略レシピ",
+              "url": "http://wiki.mhxg.org/ida/322499.html",
+              "kind": "detail",
+              "checkedAt": "2026-10-16"
+            },
+            {
+              "site": "MHXX攻略レシピ",
+              "url": "http://wiki.mhxg.org/data/2035.html",
+              "kind": "list",
+              "checkedAt": "2026-10-16"
+            },
+            {
+              "site": "MHXX攻略データwiki（追加闘技大会の出現条件）",
+              "url": "https://mhx-wiki.com/?%E7%BE%BD%E9%A3%BE%E3%82%8A%E3%83%BB%E3%83%94%E3%82%A2%E3%82%B9%E3%81%AE%E5%85%A5%E6%89%8B%E6%96%B9%E6%B3%95",
+              "kind": "reference",
+              "checkedAt": "2026-10-16"
+            },
+            {
+              "site": "MHXX攻略レシピ（ガルルガコインの用途）",
+              "url": "http://wiki.mhxg.org/ida/296019.html",
+              "kind": "reference",
+              "checkedAt": "2026-10-16"
+            },
+            {
+              "site": "MHXX攻略レシピ（タツジンチケットGの用途）",
+              "url": "http://wiki.mhxg.org/ida/296038.html",
+              "kind": "reference",
+              "checkedAt": "2026-10-16"
+            }
+          ],
+          "after": [
+            {
+              "site": "MHXX攻略レシピ",
+              "url": "http://wiki.mhxg.org/ida/322499.html",
+              "kind": "detail",
+              "checkedAt": "2026-10-16"
+            },
+            {
+              "site": "MHXX攻略レシピ",
+              "url": "http://wiki.mhxg.org/data/2035.html",
+              "kind": "list",
+              "checkedAt": "2026-10-16"
+            },
+            {
+              "site": "MHXX攻略データwiki（追加闘技大会の出現条件）",
+              "url": "https://mhx-wiki.com/?%E7%BE%BD%E9%A3%BE%E3%82%8A%E3%83%BB%E3%83%94%E3%82%A2%E3%82%B9%E3%81%AE%E5%85%A5%E6%89%8B%E6%96%B9%E6%B3%95",
+              "kind": "reference",
+              "checkedAt": "2026-10-16"
+            },
+            {
+              "site": "MHXX攻略レシピ（ガルルガコインの用途）",
+              "url": "http://wiki.mhxg.org/ida/296019.html",
+              "kind": "reference",
+              "checkedAt": "2026-10-16"
+            },
+            {
+              "site": "MHXX攻略レシピ（タツジンチケットGの用途）",
+              "url": "http://wiki.mhxg.org/ida/296038.html",
+              "kind": "reference",
+              "checkedAt": "2026-10-16"
+            },
+            {
+              "site": "MHXX TA Wiki（提供資料経由・プリセット選択肢）",
+              "url": "https://mhxx.wiki-db.com/ta/arena/",
+              "kind": "reference",
+              "checkedAt": "2026-10-17"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "questId": "arena-recipe-322500",
+      "name": "ウラガンキン討伐",
+      "category": "arena",
+      "role": "hunter",
+      "targets": [
+        "ウラガンキン"
+      ],
+      "evidencePointer": "existingHunterQuestWeaponPresets/9",
+      "sourceUrl": "https://mhxx.wiki-db.com/ta/arena/",
+      "targetCrossCheck": {
+        "method": "単一対象の正式名と既存攻略レシピ観測targetsの完全一致"
+      },
+      "changes": [
+        {
+          "path": [
+            "arenaInfo",
+            "weapons"
+          ],
+          "beforeExists": false,
+          "after": [
+            "大剣",
+            "狩猟笛",
+            "スラッシュアックス",
+            "ガンランス",
+            "ヘビィボウガン"
+          ]
+        },
+        {
+          "path": [
+            "arenaInfo",
+            "notes"
+          ],
+          "beforeExists": true,
+          "before": [
+            "評価時間は出典の表記をそのまま表示します。境界の等号・フレーム単位は未確認で、秒数への丸めや補完は行っていません。評価・自己ベスト・使用装備は保存しません。",
+            "使用可能な武器種・評価時間は今回確認できた資料では未確認です。"
+          ],
+          "after": [
+            "評価時間は出典の表記をそのまま表示します。境界の等号・フレーム単位は未確認で、秒数への丸めや補完は行っていません。評価・自己ベスト・使用装備は保存しません。",
+            "前回調査では武器種・評価時間が未確認でした。武器プリセットは提供された公開資料で補完しました。評価時間は引き続き未確認です。"
+          ]
+        },
+        {
+          "path": [
+            "sources"
+          ],
+          "beforeExists": true,
+          "before": [
+            {
+              "site": "MHXX攻略レシピ",
+              "url": "http://wiki.mhxg.org/ida/322500.html",
+              "kind": "detail",
+              "checkedAt": "2026-10-16"
+            },
+            {
+              "site": "MHXX攻略レシピ",
+              "url": "http://wiki.mhxg.org/data/2035.html",
+              "kind": "list",
+              "checkedAt": "2026-10-16"
+            },
+            {
+              "site": "MHXX攻略データwiki（追加闘技大会の出現条件）",
+              "url": "https://mhx-wiki.com/?%E7%BE%BD%E9%A3%BE%E3%82%8A%E3%83%BB%E3%83%94%E3%82%A2%E3%82%B9%E3%81%AE%E5%85%A5%E6%89%8B%E6%96%B9%E6%B3%95",
+              "kind": "reference",
+              "checkedAt": "2026-10-16"
+            },
+            {
+              "site": "MHXX攻略レシピ（ガンキンコインの用途）",
+              "url": "http://wiki.mhxg.org/ida/296020.html",
+              "kind": "reference",
+              "checkedAt": "2026-10-16"
+            },
+            {
+              "site": "MHXX攻略レシピ（デンセツチケットGの用途）",
+              "url": "http://wiki.mhxg.org/ida/296043.html",
+              "kind": "reference",
+              "checkedAt": "2026-10-16"
+            }
+          ],
+          "after": [
+            {
+              "site": "MHXX攻略レシピ",
+              "url": "http://wiki.mhxg.org/ida/322500.html",
+              "kind": "detail",
+              "checkedAt": "2026-10-16"
+            },
+            {
+              "site": "MHXX攻略レシピ",
+              "url": "http://wiki.mhxg.org/data/2035.html",
+              "kind": "list",
+              "checkedAt": "2026-10-16"
+            },
+            {
+              "site": "MHXX攻略データwiki（追加闘技大会の出現条件）",
+              "url": "https://mhx-wiki.com/?%E7%BE%BD%E9%A3%BE%E3%82%8A%E3%83%BB%E3%83%94%E3%82%A2%E3%82%B9%E3%81%AE%E5%85%A5%E6%89%8B%E6%96%B9%E6%B3%95",
+              "kind": "reference",
+              "checkedAt": "2026-10-16"
+            },
+            {
+              "site": "MHXX攻略レシピ（ガンキンコインの用途）",
+              "url": "http://wiki.mhxg.org/ida/296020.html",
+              "kind": "reference",
+              "checkedAt": "2026-10-16"
+            },
+            {
+              "site": "MHXX攻略レシピ（デンセツチケットGの用途）",
+              "url": "http://wiki.mhxg.org/ida/296043.html",
+              "kind": "reference",
+              "checkedAt": "2026-10-16"
+            },
+            {
+              "site": "MHXX TA Wiki（提供資料経由・プリセット選択肢）",
+              "url": "https://mhxx.wiki-db.com/ta/arena/",
+              "kind": "reference",
+              "checkedAt": "2026-10-17"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "questId": "arena-recipe-322501",
+      "name": "セルレギオス討伐",
+      "category": "arena",
+      "role": "hunter",
+      "targets": [
+        "セルレギオス"
+      ],
+      "evidencePointer": "existingHunterQuestWeaponPresets/10",
+      "sourceUrl": "https://mhxx.wiki-db.com/ta/arena/",
+      "targetCrossCheck": {
+        "method": "単一対象の正式名と既存攻略レシピ観測targetsの完全一致"
+      },
+      "changes": [
+        {
+          "path": [
+            "arenaInfo",
+            "weapons"
+          ],
+          "beforeExists": false,
+          "after": [
+            "太刀",
+            "狩猟笛",
+            "チャージアックス",
+            "ランス",
+            "弓"
+          ]
+        },
+        {
+          "path": [
+            "arenaInfo",
+            "notes"
+          ],
+          "beforeExists": true,
+          "before": [
+            "評価時間は出典の表記をそのまま表示します。境界の等号・フレーム単位は未確認で、秒数への丸めや補完は行っていません。評価・自己ベスト・使用装備は保存しません。",
+            "使用可能な武器種・評価時間は今回確認できた資料では未確認です。"
+          ],
+          "after": [
+            "評価時間は出典の表記をそのまま表示します。境界の等号・フレーム単位は未確認で、秒数への丸めや補完は行っていません。評価・自己ベスト・使用装備は保存しません。",
+            "前回調査では武器種・評価時間が未確認でした。武器プリセットは提供された公開資料で補完しました。評価時間は引き続き未確認です。"
+          ]
+        },
+        {
+          "path": [
+            "sources"
+          ],
+          "beforeExists": true,
+          "before": [
+            {
+              "site": "MHXX攻略レシピ",
+              "url": "http://wiki.mhxg.org/ida/322501.html",
+              "kind": "detail",
+              "checkedAt": "2026-10-16"
+            },
+            {
+              "site": "MHXX攻略レシピ",
+              "url": "http://wiki.mhxg.org/data/2035.html",
+              "kind": "list",
+              "checkedAt": "2026-10-16"
+            },
+            {
+              "site": "MHXX攻略データwiki（追加闘技大会の出現条件）",
+              "url": "https://mhx-wiki.com/?%E7%BE%BD%E9%A3%BE%E3%82%8A%E3%83%BB%E3%83%94%E3%82%A2%E3%82%B9%E3%81%AE%E5%85%A5%E6%89%8B%E6%96%B9%E6%B3%95",
+              "kind": "reference",
+              "checkedAt": "2026-10-16"
+            },
+            {
+              "site": "MHXX攻略レシピ（レギオスコインの用途）",
+              "url": "http://wiki.mhxg.org/ida/296116.html",
+              "kind": "reference",
+              "checkedAt": "2026-10-16"
+            },
+            {
+              "site": "MHXX攻略レシピ（デンセツチケットGの用途）",
+              "url": "http://wiki.mhxg.org/ida/296043.html",
+              "kind": "reference",
+              "checkedAt": "2026-10-16"
+            }
+          ],
+          "after": [
+            {
+              "site": "MHXX攻略レシピ",
+              "url": "http://wiki.mhxg.org/ida/322501.html",
+              "kind": "detail",
+              "checkedAt": "2026-10-16"
+            },
+            {
+              "site": "MHXX攻略レシピ",
+              "url": "http://wiki.mhxg.org/data/2035.html",
+              "kind": "list",
+              "checkedAt": "2026-10-16"
+            },
+            {
+              "site": "MHXX攻略データwiki（追加闘技大会の出現条件）",
+              "url": "https://mhx-wiki.com/?%E7%BE%BD%E9%A3%BE%E3%82%8A%E3%83%BB%E3%83%94%E3%82%A2%E3%82%B9%E3%81%AE%E5%85%A5%E6%89%8B%E6%96%B9%E6%B3%95",
+              "kind": "reference",
+              "checkedAt": "2026-10-16"
+            },
+            {
+              "site": "MHXX攻略レシピ（レギオスコインの用途）",
+              "url": "http://wiki.mhxg.org/ida/296116.html",
+              "kind": "reference",
+              "checkedAt": "2026-10-16"
+            },
+            {
+              "site": "MHXX攻略レシピ（デンセツチケットGの用途）",
+              "url": "http://wiki.mhxg.org/ida/296043.html",
+              "kind": "reference",
+              "checkedAt": "2026-10-16"
+            },
+            {
+              "site": "MHXX TA Wiki（提供資料経由・プリセット選択肢）",
+              "url": "https://mhxx.wiki-db.com/ta/arena/",
+              "kind": "reference",
+              "checkedAt": "2026-10-17"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "questId": "challenge-recipe-267308",
+      "name": "タマミツネ討伐",
+      "category": "challenge",
+      "role": "hunter",
+      "targets": [
+        "タマミツネ"
+      ],
+      "evidencePointer": "existingHunterQuestWeaponPresets/11",
+      "sourceUrl": "https://mhxx.wiki-db.com/ta/arena/",
+      "targetCrossCheck": {
+        "method": "単一対象の正式名と既存攻略レシピ観測targetsの完全一致"
+      },
+      "changes": [
+        {
+          "path": [
+            "arenaInfo",
+            "weapons"
+          ],
+          "beforeExists": false,
+          "after": [
+            "太刀",
+            "狩猟笛",
+            "チャージアックス",
+            "ランス",
+            "ライトボウガン"
+          ]
+        },
+        {
+          "path": [
+            "arenaInfo",
+            "notes"
+          ],
+          "beforeExists": true,
+          "before": [
+            "評価時間は出典の表記をそのまま表示します。境界の等号・フレーム単位は未確認で、秒数への丸めや補完は行っていません。評価・自己ベスト・使用装備は保存しません。",
+            "使用可能な武器種・評価時間は今回確認できた資料では未確認です。"
+          ],
+          "after": [
+            "評価時間は出典の表記をそのまま表示します。境界の等号・フレーム単位は未確認で、秒数への丸めや補完は行っていません。評価・自己ベスト・使用装備は保存しません。",
+            "前回調査では武器種・評価時間が未確認でした。武器プリセットは提供された公開資料で補完しました。評価時間は引き続き未確認です。"
+          ]
+        },
+        {
+          "path": [
+            "sources"
+          ],
+          "beforeExists": true,
+          "before": [
+            {
+              "site": "MHXX攻略レシピ",
+              "url": "http://wiki.mhxg.org/ida/267308.html",
+              "kind": "detail",
+              "checkedAt": "2026-10-16"
+            },
+            {
+              "site": "MHXX攻略レシピ",
+              "url": "http://wiki.mhxg.org/data/2034.html",
+              "kind": "list",
+              "checkedAt": "2026-10-16"
+            }
+          ],
+          "after": [
+            {
+              "site": "MHXX攻略レシピ",
+              "url": "http://wiki.mhxg.org/ida/267308.html",
+              "kind": "detail",
+              "checkedAt": "2026-10-16"
+            },
+            {
+              "site": "MHXX攻略レシピ",
+              "url": "http://wiki.mhxg.org/data/2034.html",
+              "kind": "list",
+              "checkedAt": "2026-10-16"
+            },
+            {
+              "site": "MHXX TA Wiki（提供資料経由・プリセット選択肢）",
+              "url": "https://mhxx.wiki-db.com/ta/arena/",
+              "kind": "reference",
+              "checkedAt": "2026-10-17"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "questId": "challenge-recipe-267309",
+      "name": "ディノバルド討伐",
+      "category": "challenge",
+      "role": "hunter",
+      "targets": [
+        "ディノバルド"
+      ],
+      "evidencePointer": "existingHunterQuestWeaponPresets/12",
+      "sourceUrl": "https://mhxx.wiki-db.com/ta/arena/",
+      "targetCrossCheck": {
+        "method": "単一対象の正式名と既存攻略レシピ観測targetsの完全一致"
+      },
+      "changes": [
+        {
+          "path": [
+            "arenaInfo",
+            "weapons"
+          ],
+          "beforeExists": false,
+          "after": [
+            "大剣",
+            "ハンマー",
+            "操虫棍",
+            "スラッシュアックス",
+            "弓"
+          ]
+        },
+        {
+          "path": [
+            "arenaInfo",
+            "notes"
+          ],
+          "beforeExists": true,
+          "before": [
+            "評価時間は出典の表記をそのまま表示します。境界の等号・フレーム単位は未確認で、秒数への丸めや補完は行っていません。評価・自己ベスト・使用装備は保存しません。",
+            "使用可能な武器種・評価時間は今回確認できた資料では未確認です。"
+          ],
+          "after": [
+            "評価時間は出典の表記をそのまま表示します。境界の等号・フレーム単位は未確認で、秒数への丸めや補完は行っていません。評価・自己ベスト・使用装備は保存しません。",
+            "前回調査では武器種・評価時間が未確認でした。武器プリセットは提供された公開資料で補完しました。評価時間は引き続き未確認です。"
+          ]
+        },
+        {
+          "path": [
+            "sources"
+          ],
+          "beforeExists": true,
+          "before": [
+            {
+              "site": "MHXX攻略レシピ",
+              "url": "http://wiki.mhxg.org/ida/267309.html",
+              "kind": "detail",
+              "checkedAt": "2026-10-16"
+            },
+            {
+              "site": "MHXX攻略レシピ",
+              "url": "http://wiki.mhxg.org/data/2034.html",
+              "kind": "list",
+              "checkedAt": "2026-10-16"
+            }
+          ],
+          "after": [
+            {
+              "site": "MHXX攻略レシピ",
+              "url": "http://wiki.mhxg.org/ida/267309.html",
+              "kind": "detail",
+              "checkedAt": "2026-10-16"
+            },
+            {
+              "site": "MHXX攻略レシピ",
+              "url": "http://wiki.mhxg.org/data/2034.html",
+              "kind": "list",
+              "checkedAt": "2026-10-16"
+            },
+            {
+              "site": "MHXX TA Wiki（提供資料経由・プリセット選択肢）",
+              "url": "https://mhxx.wiki-db.com/ta/arena/",
+              "kind": "reference",
+              "checkedAt": "2026-10-17"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "questId": "challenge-recipe-267310",
+      "name": "ガムート討伐",
+      "category": "challenge",
+      "role": "hunter",
+      "targets": [
+        "ガムート"
+      ],
+      "evidencePointer": "existingHunterQuestWeaponPresets/13",
+      "sourceUrl": "https://mhxx.wiki-db.com/ta/arena/",
+      "targetCrossCheck": {
+        "method": "単一対象の正式名と既存攻略レシピ観測targetsの完全一致"
+      },
+      "changes": [
+        {
+          "path": [
+            "arenaInfo",
+            "weapons"
+          ],
+          "beforeExists": false,
+          "after": [
+            "太刀",
+            "狩猟笛",
+            "スラッシュアックス",
+            "ガンランス",
+            "ヘビィボウガン"
+          ]
+        },
+        {
+          "path": [
+            "arenaInfo",
+            "notes"
+          ],
+          "beforeExists": true,
+          "before": [
+            "評価時間は出典の表記をそのまま表示します。境界の等号・フレーム単位は未確認で、秒数への丸めや補完は行っていません。評価・自己ベスト・使用装備は保存しません。",
+            "使用可能な武器種・評価時間は今回確認できた資料では未確認です。"
+          ],
+          "after": [
+            "評価時間は出典の表記をそのまま表示します。境界の等号・フレーム単位は未確認で、秒数への丸めや補完は行っていません。評価・自己ベスト・使用装備は保存しません。",
+            "前回調査では武器種・評価時間が未確認でした。武器プリセットは提供された公開資料で補完しました。評価時間は引き続き未確認です。"
+          ]
+        },
+        {
+          "path": [
+            "sources"
+          ],
+          "beforeExists": true,
+          "before": [
+            {
+              "site": "MHXX攻略レシピ",
+              "url": "http://wiki.mhxg.org/ida/267310.html",
+              "kind": "detail",
+              "checkedAt": "2026-10-16"
+            },
+            {
+              "site": "MHXX攻略レシピ",
+              "url": "http://wiki.mhxg.org/data/2034.html",
+              "kind": "list",
+              "checkedAt": "2026-10-16"
+            }
+          ],
+          "after": [
+            {
+              "site": "MHXX攻略レシピ",
+              "url": "http://wiki.mhxg.org/ida/267310.html",
+              "kind": "detail",
+              "checkedAt": "2026-10-16"
+            },
+            {
+              "site": "MHXX攻略レシピ",
+              "url": "http://wiki.mhxg.org/data/2034.html",
+              "kind": "list",
+              "checkedAt": "2026-10-16"
+            },
+            {
+              "site": "MHXX TA Wiki（提供資料経由・プリセット選択肢）",
+              "url": "https://mhxx.wiki-db.com/ta/arena/",
+              "kind": "reference",
+              "checkedAt": "2026-10-17"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "questId": "challenge-recipe-267311",
+      "name": "ライゼクス討伐",
+      "category": "challenge",
+      "role": "hunter",
+      "targets": [
+        "ライゼクス"
+      ],
+      "evidencePointer": "existingHunterQuestWeaponPresets/14",
+      "sourceUrl": "https://mhxx.wiki-db.com/ta/arena/",
+      "targetCrossCheck": {
+        "method": "単一対象の正式名と既存攻略レシピ観測targetsの完全一致"
+      },
+      "changes": [
+        {
+          "path": [
+            "arenaInfo",
+            "weapons"
+          ],
+          "beforeExists": false,
+          "after": [
+            "片手剣",
+            "ランス",
+            "チャージアックス",
+            "操虫棍",
+            "弓"
+          ]
+        },
+        {
+          "path": [
+            "arenaInfo",
+            "notes"
+          ],
+          "beforeExists": true,
+          "before": [
+            "評価時間は出典の表記をそのまま表示します。境界の等号・フレーム単位は未確認で、秒数への丸めや補完は行っていません。評価・自己ベスト・使用装備は保存しません。",
+            "使用可能な武器種・評価時間は今回確認できた資料では未確認です。"
+          ],
+          "after": [
+            "評価時間は出典の表記をそのまま表示します。境界の等号・フレーム単位は未確認で、秒数への丸めや補完は行っていません。評価・自己ベスト・使用装備は保存しません。",
+            "前回調査では武器種・評価時間が未確認でした。武器プリセットは提供された公開資料で補完しました。評価時間は引き続き未確認です。"
+          ]
+        },
+        {
+          "path": [
+            "sources"
+          ],
+          "beforeExists": true,
+          "before": [
+            {
+              "site": "MHXX攻略レシピ",
+              "url": "http://wiki.mhxg.org/ida/267311.html",
+              "kind": "detail",
+              "checkedAt": "2026-10-16"
+            },
+            {
+              "site": "MHXX攻略レシピ",
+              "url": "http://wiki.mhxg.org/data/2034.html",
+              "kind": "list",
+              "checkedAt": "2026-10-16"
+            }
+          ],
+          "after": [
+            {
+              "site": "MHXX攻略レシピ",
+              "url": "http://wiki.mhxg.org/ida/267311.html",
+              "kind": "detail",
+              "checkedAt": "2026-10-16"
+            },
+            {
+              "site": "MHXX攻略レシピ",
+              "url": "http://wiki.mhxg.org/data/2034.html",
+              "kind": "list",
+              "checkedAt": "2026-10-16"
+            },
+            {
+              "site": "MHXX TA Wiki（提供資料経由・プリセット選択肢）",
+              "url": "https://mhxx.wiki-db.com/ta/arena/",
+              "kind": "reference",
+              "checkedAt": "2026-10-17"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "questId": "challenge-recipe-268860",
+      "name": "ラギアクルス討伐",
+      "category": "challenge",
+      "role": "hunter",
+      "targets": [
+        "ラギアクルス"
+      ],
+      "evidencePointer": "existingHunterQuestWeaponPresets/15",
+      "sourceUrl": "https://mhxx.wiki-db.com/ta/arena/",
+      "targetCrossCheck": {
+        "method": "単一対象の正式名と既存攻略レシピ観測targetsの完全一致"
+      },
+      "changes": [
+        {
+          "path": [
+            "arenaInfo",
+            "weapons"
+          ],
+          "beforeExists": false,
+          "after": [
+            "太刀",
+            "双剣",
+            "ハンマー",
+            "ガンランス",
+            "ライトボウガン"
+          ]
+        },
+        {
+          "path": [
+            "arenaInfo",
+            "notes"
+          ],
+          "beforeExists": true,
+          "before": [
+            "評価時間は出典の表記をそのまま表示します。境界の等号・フレーム単位は未確認で、秒数への丸めや補完は行っていません。評価・自己ベスト・使用装備は保存しません。",
+            "使用可能な武器種・評価時間は今回確認できた資料では未確認です。"
+          ],
+          "after": [
+            "評価時間は出典の表記をそのまま表示します。境界の等号・フレーム単位は未確認で、秒数への丸めや補完は行っていません。評価・自己ベスト・使用装備は保存しません。",
+            "前回調査では武器種・評価時間が未確認でした。武器プリセットは提供された公開資料で補完しました。評価時間は引き続き未確認です。"
+          ]
+        },
+        {
+          "path": [
+            "sources"
+          ],
+          "beforeExists": true,
+          "before": [
+            {
+              "site": "MHXX攻略レシピ",
+              "url": "http://wiki.mhxg.org/ida/268860.html",
+              "kind": "detail",
+              "checkedAt": "2026-10-16"
+            },
+            {
+              "site": "MHXX攻略レシピ",
+              "url": "http://wiki.mhxg.org/data/2034.html",
+              "kind": "list",
+              "checkedAt": "2026-10-16"
+            }
+          ],
+          "after": [
+            {
+              "site": "MHXX攻略レシピ",
+              "url": "http://wiki.mhxg.org/ida/268860.html",
+              "kind": "detail",
+              "checkedAt": "2026-10-16"
+            },
+            {
+              "site": "MHXX攻略レシピ",
+              "url": "http://wiki.mhxg.org/data/2034.html",
+              "kind": "list",
+              "checkedAt": "2026-10-16"
+            },
+            {
+              "site": "MHXX TA Wiki（提供資料経由・プリセット選択肢）",
+              "url": "https://mhxx.wiki-db.com/ta/arena/",
+              "kind": "reference",
+              "checkedAt": "2026-10-17"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "questId": "challenge-recipe-268861",
+      "name": "ジンオウガ討伐",
+      "category": "challenge",
+      "role": "hunter",
+      "targets": [
+        "ジンオウガ"
+      ],
+      "evidencePointer": "existingHunterQuestWeaponPresets/16",
+      "sourceUrl": "https://mhxx.wiki-db.com/ta/arena/",
+      "targetCrossCheck": {
+        "method": "単一対象の正式名と既存攻略レシピ観測targetsの完全一致"
+      },
+      "changes": [
+        {
+          "path": [
+            "arenaInfo",
+            "weapons"
+          ],
+          "beforeExists": false,
+          "after": [
+            "太刀",
+            "ハンマー",
+            "ランス",
+            "操虫棍",
+            "ライトボウガン"
+          ]
+        },
+        {
+          "path": [
+            "arenaInfo",
+            "notes"
+          ],
+          "beforeExists": true,
+          "before": [
+            "評価時間は出典の表記をそのまま表示します。境界の等号・フレーム単位は未確認で、秒数への丸めや補完は行っていません。評価・自己ベスト・使用装備は保存しません。",
+            "使用可能な武器種・評価時間は今回確認できた資料では未確認です。"
+          ],
+          "after": [
+            "評価時間は出典の表記をそのまま表示します。境界の等号・フレーム単位は未確認で、秒数への丸めや補完は行っていません。評価・自己ベスト・使用装備は保存しません。",
+            "前回調査では武器種・評価時間が未確認でした。武器プリセットは提供された公開資料で補完しました。評価時間は引き続き未確認です。"
+          ]
+        },
+        {
+          "path": [
+            "sources"
+          ],
+          "beforeExists": true,
+          "before": [
+            {
+              "site": "MHXX攻略レシピ",
+              "url": "http://wiki.mhxg.org/ida/268861.html",
+              "kind": "detail",
+              "checkedAt": "2026-10-16"
+            },
+            {
+              "site": "MHXX攻略レシピ",
+              "url": "http://wiki.mhxg.org/data/2034.html",
+              "kind": "list",
+              "checkedAt": "2026-10-16"
+            }
+          ],
+          "after": [
+            {
+              "site": "MHXX攻略レシピ",
+              "url": "http://wiki.mhxg.org/ida/268861.html",
+              "kind": "detail",
+              "checkedAt": "2026-10-16"
+            },
+            {
+              "site": "MHXX攻略レシピ",
+              "url": "http://wiki.mhxg.org/data/2034.html",
+              "kind": "list",
+              "checkedAt": "2026-10-16"
+            },
+            {
+              "site": "MHXX TA Wiki（提供資料経由・プリセット選択肢）",
+              "url": "https://mhxx.wiki-db.com/ta/arena/",
+              "kind": "reference",
+              "checkedAt": "2026-10-17"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "questId": "challenge-recipe-268862",
+      "name": "ゴア・マガラ討伐",
+      "category": "challenge",
+      "role": "hunter",
+      "targets": [
+        "ゴア・マガラ"
+      ],
+      "evidencePointer": "existingHunterQuestWeaponPresets/17",
+      "sourceUrl": "https://mhxx.wiki-db.com/ta/arena/",
+      "targetCrossCheck": {
+        "method": "単一対象の正式名と既存攻略レシピ観測targetsの完全一致"
+      },
+      "changes": [
+        {
+          "path": [
+            "arenaInfo",
+            "weapons"
+          ],
+          "beforeExists": false,
+          "after": [
+            "片手剣",
+            "ハンマー",
+            "操虫棍",
+            "チャージアックス",
+            "ライトボウガン"
+          ]
+        },
+        {
+          "path": [
+            "arenaInfo",
+            "notes"
+          ],
+          "beforeExists": true,
+          "before": [
+            "評価時間は出典の表記をそのまま表示します。境界の等号・フレーム単位は未確認で、秒数への丸めや補完は行っていません。評価・自己ベスト・使用装備は保存しません。",
+            "使用可能な武器種・評価時間は今回確認できた資料では未確認です。"
+          ],
+          "after": [
+            "評価時間は出典の表記をそのまま表示します。境界の等号・フレーム単位は未確認で、秒数への丸めや補完は行っていません。評価・自己ベスト・使用装備は保存しません。",
+            "前回調査では武器種・評価時間が未確認でした。武器プリセットは提供された公開資料で補完しました。評価時間は引き続き未確認です。"
+          ]
+        },
+        {
+          "path": [
+            "sources"
+          ],
+          "beforeExists": true,
+          "before": [
+            {
+              "site": "MHXX攻略レシピ",
+              "url": "http://wiki.mhxg.org/ida/268862.html",
+              "kind": "detail",
+              "checkedAt": "2026-10-16"
+            },
+            {
+              "site": "MHXX攻略レシピ",
+              "url": "http://wiki.mhxg.org/data/2034.html",
+              "kind": "list",
+              "checkedAt": "2026-10-16"
+            }
+          ],
+          "after": [
+            {
+              "site": "MHXX攻略レシピ",
+              "url": "http://wiki.mhxg.org/ida/268862.html",
+              "kind": "detail",
+              "checkedAt": "2026-10-16"
+            },
+            {
+              "site": "MHXX攻略レシピ",
+              "url": "http://wiki.mhxg.org/data/2034.html",
+              "kind": "list",
+              "checkedAt": "2026-10-16"
+            },
+            {
+              "site": "MHXX TA Wiki（提供資料経由・プリセット選択肢）",
+              "url": "https://mhxx.wiki-db.com/ta/arena/",
+              "kind": "reference",
+              "checkedAt": "2026-10-17"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "questId": "challenge-recipe-268863",
+      "name": "ティガレックス討伐",
+      "category": "challenge",
+      "role": "hunter",
+      "targets": [
+        "ティガレックス"
+      ],
+      "evidencePointer": "existingHunterQuestWeaponPresets/18",
+      "sourceUrl": "https://mhxx.wiki-db.com/ta/arena/",
+      "targetCrossCheck": {
+        "method": "単一対象の正式名と既存攻略レシピ観測targetsの完全一致"
+      },
+      "changes": [
+        {
+          "path": [
+            "arenaInfo",
+            "weapons"
+          ],
+          "beforeExists": false,
+          "after": [
+            "太刀",
+            "双剣",
+            "狩猟笛",
+            "ガンランス",
+            "弓"
+          ]
+        },
+        {
+          "path": [
+            "arenaInfo",
+            "notes"
+          ],
+          "beforeExists": true,
+          "before": [
+            "評価時間は出典の表記をそのまま表示します。境界の等号・フレーム単位は未確認で、秒数への丸めや補完は行っていません。評価・自己ベスト・使用装備は保存しません。",
+            "使用可能な武器種・評価時間は今回確認できた資料では未確認です。"
+          ],
+          "after": [
+            "評価時間は出典の表記をそのまま表示します。境界の等号・フレーム単位は未確認で、秒数への丸めや補完は行っていません。評価・自己ベスト・使用装備は保存しません。",
+            "前回調査では武器種・評価時間が未確認でした。武器プリセットは提供された公開資料で補完しました。評価時間は引き続き未確認です。"
+          ]
+        },
+        {
+          "path": [
+            "sources"
+          ],
+          "beforeExists": true,
+          "before": [
+            {
+              "site": "MHXX攻略レシピ",
+              "url": "http://wiki.mhxg.org/ida/268863.html",
+              "kind": "detail",
+              "checkedAt": "2026-10-16"
+            },
+            {
+              "site": "MHXX攻略レシピ",
+              "url": "http://wiki.mhxg.org/data/2034.html",
+              "kind": "list",
+              "checkedAt": "2026-10-16"
+            }
+          ],
+          "after": [
+            {
+              "site": "MHXX攻略レシピ",
+              "url": "http://wiki.mhxg.org/ida/268863.html",
+              "kind": "detail",
+              "checkedAt": "2026-10-16"
+            },
+            {
+              "site": "MHXX攻略レシピ",
+              "url": "http://wiki.mhxg.org/data/2034.html",
+              "kind": "list",
+              "checkedAt": "2026-10-16"
+            },
+            {
+              "site": "MHXX TA Wiki（提供資料経由・プリセット選択肢）",
+              "url": "https://mhxx.wiki-db.com/ta/arena/",
+              "kind": "reference",
+              "checkedAt": "2026-10-17"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "questId": "challenge-recipe-268864",
+      "name": "リオレウス討伐",
+      "category": "challenge",
+      "role": "hunter",
+      "targets": [
+        "リオレウス"
+      ],
+      "evidencePointer": "existingHunterQuestWeaponPresets/19",
+      "sourceUrl": "https://mhxx.wiki-db.com/ta/arena/",
+      "targetCrossCheck": {
+        "method": "単一対象の正式名と既存攻略レシピ観測targetsの完全一致"
+      },
+      "changes": [
+        {
+          "path": [
+            "arenaInfo",
+            "weapons"
+          ],
+          "beforeExists": false,
+          "after": [
+            "大剣",
+            "狩猟笛",
+            "チャージアックス",
+            "スラッシュアックス",
+            "ヘビィボウガン"
+          ]
+        },
+        {
+          "path": [
+            "arenaInfo",
+            "notes"
+          ],
+          "beforeExists": true,
+          "before": [
+            "評価時間は出典の表記をそのまま表示します。境界の等号・フレーム単位は未確認で、秒数への丸めや補完は行っていません。評価・自己ベスト・使用装備は保存しません。",
+            "使用可能な武器種・評価時間は今回確認できた資料では未確認です。"
+          ],
+          "after": [
+            "評価時間は出典の表記をそのまま表示します。境界の等号・フレーム単位は未確認で、秒数への丸めや補完は行っていません。評価・自己ベスト・使用装備は保存しません。",
+            "前回調査では武器種・評価時間が未確認でした。武器プリセットは提供された公開資料で補完しました。評価時間は引き続き未確認です。"
+          ]
+        },
+        {
+          "path": [
+            "sources"
+          ],
+          "beforeExists": true,
+          "before": [
+            {
+              "site": "MHXX攻略レシピ",
+              "url": "http://wiki.mhxg.org/ida/268864.html",
+              "kind": "detail",
+              "checkedAt": "2026-10-16"
+            },
+            {
+              "site": "MHXX攻略レシピ",
+              "url": "http://wiki.mhxg.org/data/2034.html",
+              "kind": "list",
+              "checkedAt": "2026-10-16"
+            }
+          ],
+          "after": [
+            {
+              "site": "MHXX攻略レシピ",
+              "url": "http://wiki.mhxg.org/ida/268864.html",
+              "kind": "detail",
+              "checkedAt": "2026-10-16"
+            },
+            {
+              "site": "MHXX攻略レシピ",
+              "url": "http://wiki.mhxg.org/data/2034.html",
+              "kind": "list",
+              "checkedAt": "2026-10-16"
+            },
+            {
+              "site": "MHXX TA Wiki（提供資料経由・プリセット選択肢）",
+              "url": "https://mhxx.wiki-db.com/ta/arena/",
+              "kind": "reference",
+              "checkedAt": "2026-10-17"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "questId": "challenge-recipe-268865",
+      "name": "ナルガクルガ討伐",
+      "category": "challenge",
+      "role": "hunter",
+      "targets": [
+        "ナルガクルガ"
+      ],
+      "evidencePointer": "existingHunterQuestWeaponPresets/20",
+      "sourceUrl": "https://mhxx.wiki-db.com/ta/arena/",
+      "targetCrossCheck": {
+        "method": "単一対象の正式名と既存攻略レシピ観測targetsの完全一致"
+      },
+      "changes": [
+        {
+          "path": [
+            "arenaInfo",
+            "weapons"
+          ],
+          "beforeExists": false,
+          "after": [
+            "太刀",
+            "片手剣",
+            "ハンマー",
+            "ランス",
+            "弓"
+          ]
+        },
+        {
+          "path": [
+            "arenaInfo",
+            "notes"
+          ],
+          "beforeExists": true,
+          "before": [
+            "評価時間は出典の表記をそのまま表示します。境界の等号・フレーム単位は未確認で、秒数への丸めや補完は行っていません。評価・自己ベスト・使用装備は保存しません。",
+            "使用可能な武器種・評価時間は今回確認できた資料では未確認です。"
+          ],
+          "after": [
+            "評価時間は出典の表記をそのまま表示します。境界の等号・フレーム単位は未確認で、秒数への丸めや補完は行っていません。評価・自己ベスト・使用装備は保存しません。",
+            "前回調査では武器種・評価時間が未確認でした。武器プリセットは提供された公開資料で補完しました。評価時間は引き続き未確認です。"
+          ]
+        },
+        {
+          "path": [
+            "sources"
+          ],
+          "beforeExists": true,
+          "before": [
+            {
+              "site": "MHXX攻略レシピ",
+              "url": "http://wiki.mhxg.org/ida/268865.html",
+              "kind": "detail",
+              "checkedAt": "2026-10-16"
+            },
+            {
+              "site": "MHXX攻略レシピ",
+              "url": "http://wiki.mhxg.org/data/2034.html",
+              "kind": "list",
+              "checkedAt": "2026-10-16"
+            }
+          ],
+          "after": [
+            {
+              "site": "MHXX攻略レシピ",
+              "url": "http://wiki.mhxg.org/ida/268865.html",
+              "kind": "detail",
+              "checkedAt": "2026-10-16"
+            },
+            {
+              "site": "MHXX攻略レシピ",
+              "url": "http://wiki.mhxg.org/data/2034.html",
+              "kind": "list",
+              "checkedAt": "2026-10-16"
+            },
+            {
+              "site": "MHXX TA Wiki（提供資料経由・プリセット選択肢）",
+              "url": "https://mhxx.wiki-db.com/ta/arena/",
+              "kind": "reference",
+              "checkedAt": "2026-10-17"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "questId": "challenge-recipe-278971",
+      "name": "大連続狩猟1",
+      "category": "challenge",
+      "role": "hunter",
+      "targets": [
+        "ティガレックス",
+        "ナルガクルガ",
+        "ジンオウガ"
+      ],
+      "evidencePointer": "existingHunterQuestWeaponPresets/21",
+      "sourceUrl": "https://mhxx.wiki-db.com/ta/arena/",
+      "targetCrossCheck": {
+        "listName": "イベント：大連続狩猟1",
+        "url": "https://x.mh4info.com/quest/detail/?no=1895",
+        "checkedAt": "2026-10-17",
+        "status": "fetched",
+        "fields": {
+          "クエスト名": "イベント：大連続狩猟1",
+          "レベル": "★6",
+          "メインターゲット": "全ての大型モンスターの討伐",
+          "サブターゲット": "なし",
+          "報酬金": "2700z",
+          "主なモンスター": "ティガレックス、ナルガクルガ、ジンオウガ",
+          "目的地": "闘技場",
+          "制限時間": "50分",
+          "失敗条件": "報酬金ゼロ、タイムアップ",
+          "受注・参加条件": "2人以下限定",
+          "クエスト種別": "チャレンジクエスト/大連続",
+          "備考": "Sランク:10分未満、Aランク:20分未満、Bランク:35分未満"
+        },
+        "sha256": "47c1384e9666817a352e715a6bfc7dc956c50f3f3e201cfb9d7355061fc7c91b"
+      },
+      "changes": [
+        {
+          "path": [
+            "arenaInfo",
+            "weapons"
+          ],
+          "beforeExists": false,
+          "after": [
+            "大剣",
+            "ランス",
+            "チャージアックス",
+            "操虫棍",
+            "ライトボウガン"
+          ]
+        },
+        {
+          "path": [
+            "arenaInfo",
+            "notes"
+          ],
+          "beforeExists": true,
+          "before": [
+            "評価時間は出典の表記をそのまま表示します。境界の等号・フレーム単位は未確認で、秒数への丸めや補完は行っていません。評価・自己ベスト・使用装備は保存しません。",
+            "使用可能な武器種・評価時間は今回確認できた資料では未確認です。"
+          ],
+          "after": [
+            "評価時間は出典の表記をそのまま表示します。境界の等号・フレーム単位は未確認で、秒数への丸めや補完は行っていません。評価・自己ベスト・使用装備は保存しません。",
+            "前回調査では武器種・評価時間が未確認でした。武器プリセットは提供された公開資料で補完しました。評価時間は引き続き未確認です。"
+          ]
+        },
+        {
+          "path": [
+            "sources"
+          ],
+          "beforeExists": true,
+          "before": [
+            {
+              "site": "MHXX攻略レシピ",
+              "url": "http://wiki.mhxg.org/ida/278971.html",
+              "kind": "detail",
+              "checkedAt": "2026-10-16"
+            },
+            {
+              "site": "MHXX攻略レシピ",
+              "url": "http://wiki.mhxg.org/data/2034.html",
+              "kind": "list",
+              "checkedAt": "2026-10-16"
+            }
+          ],
+          "after": [
+            {
+              "site": "MHXX攻略レシピ",
+              "url": "http://wiki.mhxg.org/ida/278971.html",
+              "kind": "detail",
+              "checkedAt": "2026-10-16"
+            },
+            {
+              "site": "MHXX攻略レシピ",
+              "url": "http://wiki.mhxg.org/data/2034.html",
+              "kind": "list",
+              "checkedAt": "2026-10-16"
+            },
+            {
+              "site": "MHXX TA Wiki（提供資料経由・プリセット選択肢）",
+              "url": "https://mhxx.wiki-db.com/ta/arena/",
+              "kind": "reference",
+              "checkedAt": "2026-10-17"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "questId": "challenge-recipe-278972",
+      "name": "大連続狩猟2",
+      "category": "challenge",
+      "role": "hunter",
+      "targets": [
+        "ラージャン",
+        "イビルジョー"
+      ],
+      "evidencePointer": "existingHunterQuestWeaponPresets/22",
+      "sourceUrl": "https://mhxx.wiki-db.com/ta/arena/",
+      "targetCrossCheck": {
+        "listName": "イベント：大連続狩猟2",
+        "url": "https://x.mh4info.com/quest/detail/?no=1896",
+        "checkedAt": "2026-10-17",
+        "status": "fetched",
+        "fields": {
+          "クエスト名": "イベント：大連続狩猟2",
+          "レベル": "★7",
+          "メインターゲット": "全ての大型モンスターの狩猟",
+          "サブターゲット": "なし",
+          "報酬金": "2700z",
+          "主なモンスター": "ラージャン、イビルジョー",
+          "目的地": "闘技場",
+          "制限時間": "50分",
+          "失敗条件": "報酬金ゼロ、タイムアップ",
+          "受注・参加条件": "2人以下限定",
+          "クエスト種別": "チャレンジクエスト/大連続",
+          "備考": "Sランク:15分未満、Aランク:25分未満、Bランク:40分未満"
+        },
+        "sha256": "5f3423216b6734b435b6b153df821543f5d81f9dd3aa4ba251eb6e5adfd81bec"
+      },
+      "changes": [
+        {
+          "path": [
+            "arenaInfo",
+            "weapons"
+          ],
+          "beforeExists": false,
+          "after": [
+            "太刀",
+            "片手剣",
+            "狩猟笛",
+            "スラッシュアックス",
+            "弓"
+          ]
+        },
+        {
+          "path": [
+            "arenaInfo",
+            "notes"
+          ],
+          "beforeExists": true,
+          "before": [
+            "評価時間は出典の表記をそのまま表示します。境界の等号・フレーム単位は未確認で、秒数への丸めや補完は行っていません。評価・自己ベスト・使用装備は保存しません。",
+            "使用可能な武器種・評価時間は今回確認できた資料では未確認です。"
+          ],
+          "after": [
+            "評価時間は出典の表記をそのまま表示します。境界の等号・フレーム単位は未確認で、秒数への丸めや補完は行っていません。評価・自己ベスト・使用装備は保存しません。",
+            "前回調査では武器種・評価時間が未確認でした。武器プリセットは提供された公開資料で補完しました。評価時間は引き続き未確認です。"
+          ]
+        },
+        {
+          "path": [
+            "sources"
+          ],
+          "beforeExists": true,
+          "before": [
+            {
+              "site": "MHXX攻略レシピ",
+              "url": "http://wiki.mhxg.org/ida/278972.html",
+              "kind": "detail",
+              "checkedAt": "2026-10-16"
+            },
+            {
+              "site": "MHXX攻略レシピ",
+              "url": "http://wiki.mhxg.org/data/2034.html",
+              "kind": "list",
+              "checkedAt": "2026-10-16"
+            }
+          ],
+          "after": [
+            {
+              "site": "MHXX攻略レシピ",
+              "url": "http://wiki.mhxg.org/ida/278972.html",
+              "kind": "detail",
+              "checkedAt": "2026-10-16"
+            },
+            {
+              "site": "MHXX攻略レシピ",
+              "url": "http://wiki.mhxg.org/data/2034.html",
+              "kind": "list",
+              "checkedAt": "2026-10-16"
+            },
+            {
+              "site": "MHXX TA Wiki（提供資料経由・プリセット選択肢）",
+              "url": "https://mhxx.wiki-db.com/ta/arena/",
+              "kind": "reference",
+              "checkedAt": "2026-10-17"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "questId": "challenge-recipe-278973",
+      "name": "大連続狩猟3",
+      "category": "challenge",
+      "role": "hunter",
+      "targets": [
+        "ガムート",
+        "ライゼクス",
+        "タマミツネ",
+        "ディノバルド"
+      ],
+      "evidencePointer": "existingHunterQuestWeaponPresets/23",
+      "sourceUrl": "https://mhxx.wiki-db.com/ta/arena/",
+      "targetCrossCheck": {
+        "listName": "イベント：大連続狩猟3",
+        "url": "https://x.mh4info.com/quest/detail/?no=1897",
+        "checkedAt": "2026-10-17",
+        "status": "fetched",
+        "fields": {
+          "クエスト名": "イベント：大連続狩猟3",
+          "レベル": "★7",
+          "メインターゲット": "全ての大型モンスターの狩猟",
+          "サブターゲット": "なし",
+          "報酬金": "2700z",
+          "主なモンスター": "ガムート、ライゼクス、タマミツネ、ディノバルド",
+          "目的地": "闘技場",
+          "制限時間": "50分",
+          "失敗条件": "報酬金ゼロ、タイムアップ",
+          "受注・参加条件": "2人以下限定",
+          "クエスト種別": "チャレンジクエスト/大連続",
+          "備考": "Sランク:15分未満、Aランク:25分未満、Bランク:40分未満<br><br>モンスターは全て獰猛化で出現"
+        },
+        "sha256": "2d6d34fe4af4724d134966471eda1fb942fc9826b26cbc00c2d5cd2b3a037afe"
+      },
+      "changes": [
+        {
+          "path": [
+            "arenaInfo",
+            "weapons"
+          ],
+          "beforeExists": false,
+          "after": [
+            "大剣",
+            "双剣",
+            "ガンランス",
+            "チャージアックス",
+            "ヘビィボウガン"
+          ]
+        },
+        {
+          "path": [
+            "arenaInfo",
+            "notes"
+          ],
+          "beforeExists": true,
+          "before": [
+            "評価時間は出典の表記をそのまま表示します。境界の等号・フレーム単位は未確認で、秒数への丸めや補完は行っていません。評価・自己ベスト・使用装備は保存しません。",
+            "使用可能な武器種・評価時間は今回確認できた資料では未確認です。"
+          ],
+          "after": [
+            "評価時間は出典の表記をそのまま表示します。境界の等号・フレーム単位は未確認で、秒数への丸めや補完は行っていません。評価・自己ベスト・使用装備は保存しません。",
+            "前回調査では武器種・評価時間が未確認でした。武器プリセットは提供された公開資料で補完しました。評価時間は引き続き未確認です。"
+          ]
+        },
+        {
+          "path": [
+            "sources"
+          ],
+          "beforeExists": true,
+          "before": [
+            {
+              "site": "MHXX攻略レシピ",
+              "url": "http://wiki.mhxg.org/ida/278973.html",
+              "kind": "detail",
+              "checkedAt": "2026-10-16"
+            },
+            {
+              "site": "MHXX攻略レシピ",
+              "url": "http://wiki.mhxg.org/data/2034.html",
+              "kind": "list",
+              "checkedAt": "2026-10-16"
+            }
+          ],
+          "after": [
+            {
+              "site": "MHXX攻略レシピ",
+              "url": "http://wiki.mhxg.org/ida/278973.html",
+              "kind": "detail",
+              "checkedAt": "2026-10-16"
+            },
+            {
+              "site": "MHXX攻略レシピ",
+              "url": "http://wiki.mhxg.org/data/2034.html",
+              "kind": "list",
+              "checkedAt": "2026-10-16"
+            },
+            {
+              "site": "MHXX TA Wiki（提供資料経由・プリセット選択肢）",
+              "url": "https://mhxx.wiki-db.com/ta/arena/",
+              "kind": "reference",
+              "checkedAt": "2026-10-17"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "questId": "challenge-recipe-278974",
+      "name": "大連続狩猟4",
+      "category": "challenge",
+      "role": "hunter",
+      "targets": [
+        "ガムート",
+        "タマミツネ",
+        "ディノバルド",
+        "ライゼクス"
+      ],
+      "evidencePointer": "existingHunterQuestWeaponPresets/24",
+      "sourceUrl": "https://mhxx.wiki-db.com/ta/arena/",
+      "targetCrossCheck": {
+        "listName": "イベント：大連続狩猟4",
+        "url": "https://x.mh4info.com/quest/detail/?no=1903",
+        "checkedAt": "2026-10-17",
+        "status": "fetched",
+        "fields": {
+          "クエスト名": "イベント：大連続狩猟4",
+          "レベル": "★6",
+          "メインターゲット": "全ての大型モンスターの討伐",
+          "サブターゲット": "なし",
+          "報酬金": "2700z",
+          "主なモンスター": "ガムート、タマミツネ、ディノバルド、ライゼクス",
+          "目的地": "闘技場",
+          "制限時間": "50分",
+          "失敗条件": "報酬金ゼロ、タイムアップ",
+          "受注・参加条件": "2人以下限定",
+          "クエスト種別": "チャレンジクエスト/大連続",
+          "備考": "Sランク:15分未満、Aランク:25分未満、Bランク:40分未満"
+        },
+        "sha256": "202e71f3286de9373bcdf48f99c9dd96c1c23a514b5af5157bc210c7c52cfc82"
+      },
+      "changes": [
+        {
+          "path": [
+            "arenaInfo",
+            "weapons"
+          ],
+          "beforeExists": false,
+          "after": [
+            "大剣",
+            "双剣",
+            "狩猟笛",
+            "ガンランス",
+            "ライトボウガン"
+          ]
+        },
+        {
+          "path": [
+            "arenaInfo",
+            "notes"
+          ],
+          "beforeExists": true,
+          "before": [
+            "評価時間は出典の表記をそのまま表示します。境界の等号・フレーム単位は未確認で、秒数への丸めや補完は行っていません。評価・自己ベスト・使用装備は保存しません。",
+            "使用可能な武器種・評価時間は今回確認できた資料では未確認です。"
+          ],
+          "after": [
+            "評価時間は出典の表記をそのまま表示します。境界の等号・フレーム単位は未確認で、秒数への丸めや補完は行っていません。評価・自己ベスト・使用装備は保存しません。",
+            "前回調査では武器種・評価時間が未確認でした。武器プリセットは提供された公開資料で補完しました。評価時間は引き続き未確認です。"
+          ]
+        },
+        {
+          "path": [
+            "sources"
+          ],
+          "beforeExists": true,
+          "before": [
+            {
+              "site": "MHXX攻略レシピ",
+              "url": "http://wiki.mhxg.org/ida/278974.html",
+              "kind": "detail",
+              "checkedAt": "2026-10-16"
+            },
+            {
+              "site": "MHXX攻略レシピ",
+              "url": "http://wiki.mhxg.org/data/2034.html",
+              "kind": "list",
+              "checkedAt": "2026-10-16"
+            }
+          ],
+          "after": [
+            {
+              "site": "MHXX攻略レシピ",
+              "url": "http://wiki.mhxg.org/ida/278974.html",
+              "kind": "detail",
+              "checkedAt": "2026-10-16"
+            },
+            {
+              "site": "MHXX攻略レシピ",
+              "url": "http://wiki.mhxg.org/data/2034.html",
+              "kind": "list",
+              "checkedAt": "2026-10-16"
+            },
+            {
+              "site": "MHXX TA Wiki（提供資料経由・プリセット選択肢）",
+              "url": "https://mhxx.wiki-db.com/ta/arena/",
+              "kind": "reference",
+              "checkedAt": "2026-10-17"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
