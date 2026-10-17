@@ -25,14 +25,14 @@ test("production shows partial coverage and noindex", async ({ page }) => {
   ).toBeVisible();
   await expect(page.locator(".quest-card")).toHaveCount(45);
   await expect(
-    page.getByText("データ整備中 · 実クエスト1348件収録"),
+    page.getByText("データ整備中 · 実クエスト1368件収録"),
   ).toBeVisible();
   await page.getByRole("button", { name: "G級", exact: true }).click();
   await expect(page.locator(".quest-card")).toHaveCount(32);
   await page.getByRole("button", { name: "闘技大会", exact: true }).click();
   await expect(page.locator(".quest-card")).toHaveCount(17);
   await page.getByRole("button", { name: "チャレンジ", exact: true }).click();
-  await expect(page.locator(".quest-card")).toHaveCount(20);
+  await expect(page.locator(".quest-card")).toHaveCount(40);
   expect(errors).toEqual([]);
 });
 test("checks persist through reload, search filters, and category totals stay separate", async ({
@@ -2385,6 +2385,13 @@ test("arena and challenge retain separate observed rosters, role filters and sav
     const r = JSON.parse(
       await readFile(`docs/${category}-observations.json`, "utf8"),
     ) as { observedCount: number; entries: { name: string; role: string }[] };
+    if (category === "challenge") {
+      const added = JSON.parse(
+        await readFile("src/data/challenge-xx.json", "utf8"),
+      ) as { name: string; role: string }[];
+      r.entries.push(...added);
+      r.observedCount += added.length;
+    }
     await page
       .getByRole("button", {
         name: category === "arena" ? "闘技大会" : "チャレンジ",
@@ -2455,7 +2462,9 @@ test("arena literal evaluation details and G-rank prerequisite jumps preserve un
   await expect(card.locator(".state")).toHaveText("未達成");
   await expect(
     card.getByRole("region", { name: "闘技大会・チャレンジの参考情報" }),
-  ).toContainText("使用可能な武器種：未確認");
+  ).toContainText(
+    "使用可能な武器種：双剣、ハンマー、操虫棍、スラッシュアックス、弓",
+  );
   await card
     .getByRole("button", {
       name: "G級 G★2 / ネルスキュラの生態研究",
@@ -2520,15 +2529,13 @@ test("1311 legacy checks round-trip while identically named arena and challenge 
     }[]
   ).map((q) => q.id);
   await page.goto("./");
-  await page
-    .getByLabel("バックアップファイル")
-    .setInputFiles(
-      backup({
-        schemaVersion: 1,
-        completedQuestIds: [...ids, "future-stage11-id"],
-        hr: 123,
-      }),
-    );
+  await page.getByLabel("バックアップファイル").setInputFiles(
+    backup({
+      schemaVersion: 1,
+      completedQuestIds: [...ids, "future-stage11-id"],
+      hr: 123,
+    }),
+  );
   await page
     .getByRole("checkbox", { name: "現在の進捗をファイルで置き換える" })
     .check();
@@ -2566,4 +2573,161 @@ test("1311 legacy checks round-trip while identically named arena and challenge 
     "hr",
     "schemaVersion",
   ]);
+});
+
+test("public evidence challenge additions preserve 1348 old checks and separate similar names", async ({
+  page,
+}) => {
+  const ids = (
+    JSON.parse(await readFile("docs/progress-baseline-1348.json", "utf8")) as {
+      id: string;
+    }[]
+  ).map((q) => q.id);
+  await page.goto("./");
+  await page.getByLabel("バックアップファイル").setInputFiles(
+    backup({
+      schemaVersion: 1,
+      completedQuestIds: [...ids, "future-pr13-id"],
+      hr: 123,
+    }),
+  );
+  await page
+    .getByRole("checkbox", { name: "現在の進捗をファイルで置き換える" })
+    .check();
+  await page.getByRole("button", { name: "置き換えて復元" }).click();
+  await page.getByRole("button", { name: "チャレンジ", exact: true }).click();
+  await expect(page.getByRole("progressbar")).toHaveAttribute("max", "40");
+  await expect(page.getByRole("progressbar")).toHaveAttribute("value", "20");
+  const search = page.getByRole("searchbox");
+  await search.fill("リオレウス討伐");
+  await expect(page.locator(".quest-card").getByRole("checkbox")).toBeChecked();
+  await search.fill("ＸＸイベント：火竜討伐");
+  let card = page.locator(".quest-card");
+  await expect(card.getByRole("checkbox")).not.toBeChecked();
+  await card.locator(".quest-title").click();
+  await expect(
+    card.getByRole("region", { name: "闘技大会・チャレンジの参考情報" }),
+  ).toContainText("サポート傾向：カリスマ、アシスト、回復、ボマー、コレクト");
+  await expect(card).toContainText(
+    "前回提供資料に誤記があり、個別ページと専門Wikiの再照合で解決",
+  );
+  await card.getByRole("checkbox").check();
+  await search.fill("ＸＸイベント：迅竜討伐");
+  await card.locator(".quest-title").click();
+  await expect(card).toContainText(
+    "ファイト、ガード、アシスト、ボマー、ビースト",
+  );
+  await expect(
+    card.locator('a[href="https://x.mh4info.com/quest/detail/?no=1906"]'),
+  ).toBeVisible();
+  await card.getByRole("checkbox").check();
+  await search.fill("ＸＸイベント：紫毒姫討伐");
+  await card.locator(".quest-title").click();
+  await expect(card).toContainText(
+    "片手剣、双剣、ハンマー、ガンランス、ヘビィボウガン",
+  );
+  await expect(card).toContainText(
+    "Sランク:7分未満、Aランク:14分未満、Bランク:30分未満",
+  );
+  await expect(card.locator(".tag-unlock")).toHaveCount(0);
+  await card.getByRole("checkbox").check();
+  await page.getByRole("checkbox", { name: "未クリアのみ" }).check();
+  await expect(page.locator(".quest-card")).toHaveCount(0);
+  await page.reload();
+  await expect(page.locator(".quest-card")).toHaveCount(0);
+  await page.getByRole("checkbox", { name: "未クリアのみ" }).uncheck();
+  await expect(card.getByRole("checkbox")).toBeChecked();
+  await page
+    .getByRole("combobox", { name: "種別", exact: true })
+    .selectOption("unlock");
+  await expect(page.locator(".quest-card")).toHaveCount(0);
+  await page
+    .getByRole("combobox", { name: "種別", exact: true })
+    .selectOption("");
+  await search.fill("大連続狩猟4");
+  await expect(page.locator(".quest-name")).toHaveText([
+    "大連続狩猟4",
+    "ＸＸイベント：大連続狩猟４",
+  ]);
+  await expect(
+    card
+      .filter({ has: page.getByText("大連続狩猟4", { exact: true }) })
+      .getByRole("checkbox"),
+  ).toBeChecked();
+  await expect(
+    card
+      .filter({
+        has: page.getByText("ＸＸイベント：大連続狩猟４", { exact: true }),
+      })
+      .getByRole("checkbox"),
+  ).not.toBeChecked();
+  await search.fill("ＸＸイベント：大連続狩猟４");
+  await expect(card.getByRole("checkbox")).not.toBeChecked();
+  await card.locator(".quest-title").click();
+  await expect(card).toContainText("S12:00　A25:00　B40:00");
+  expect(
+    await page.evaluate(
+      () => document.documentElement.scrollWidth <= innerWidth,
+    ),
+  ).toBe(true);
+  await search.fill("ＸＸイベント：大連続狩猟３");
+  await expect(card.getByRole("checkbox")).not.toBeChecked();
+  await card.locator(".quest-title").click();
+  await expect(card).toContainText(
+    "朧隠ホロロホルル、猛り爆ぜるブラキディオス",
+  );
+  await expect(card).toContainText(
+    "大剣、ハンマー、ランス、ガンランス、ライトボウガン",
+  );
+  await expect(card).toContainText("評価時間（出典表記）：未確認");
+  await expect(
+    card.locator('a[href="https://mhxx.kiranico.com/quest/d5686ee"]'),
+  ).toBeVisible();
+  await expect(card.locator(".tag-unlock")).toHaveCount(0);
+  await card.getByRole("checkbox").check();
+  await page.reload();
+  await expect(card.getByRole("checkbox")).toBeChecked();
+  await search.fill("大連続狩猟3");
+  await expect(page.locator(".quest-name")).toHaveText([
+    "大連続狩猟3",
+    "ＸＸイベント：大連続狩猟３",
+  ]);
+  await expect(card.getByRole("checkbox")).toHaveCount(2);
+  for (const checkbox of await card.getByRole("checkbox").all())
+    await expect(checkbox).toBeChecked();
+  expect(
+    await page.evaluate(
+      () => document.documentElement.scrollWidth <= innerWidth,
+    ),
+  ).toBe(true);
+  const pending = page.waitForEvent("download");
+  await page.getByRole("button", { name: "JSONを書き出す" }).click();
+  const exported = JSON.parse(
+    await readFile((await (await pending).path())!, "utf8"),
+  );
+  expect(exported).toMatchObject({
+    schemaVersion: 1,
+    hr: 123,
+    dataset: "mhxx",
+  });
+  expect(exported.completedQuestIds).toHaveLength(ids.length + 5);
+  expect(exported.completedQuestIds).toEqual(
+    expect.arrayContaining([
+      ...ids,
+      "future-pr13-id",
+      "challenge-kiranico-d5e77d0",
+      "challenge-mh4info-1906",
+      "challenge-kiranico-3ae8e68",
+      "challenge-kiranico-d5686ee",
+    ]),
+  );
+  expect(Object.keys(exported).sort()).toEqual([
+    "completedQuestIds",
+    "dataset",
+    "hr",
+    "schemaVersion",
+  ]);
+  expect(
+    await page.evaluate(() => localStorage.getItem("qlog.mhxx.demo.v1")),
+  ).toBeNull();
 });

@@ -1,0 +1,1226 @@
+[
+  {
+    "id": "challenge-kiranico-3ae8e68",
+    "name": "ＸＸイベント：紫毒姫討伐",
+    "category": "challenge",
+    "rank": "全ランク",
+    "order": 21,
+    "role": "hunter",
+    "tags": [
+      "normal"
+    ],
+    "condition": {
+      "kind": "unknown",
+      "note": "出現前提・受注HRの詳細は未確認です。ダウンロード済みかどうかを判定する条件ではありません。"
+    },
+    "arenaInfo": {
+      "targets": [
+        "紫毒姫リオレイア"
+      ],
+      "participantLimit": "2人以下限定",
+      "rewardMaterials": [],
+      "notes": [
+        "外部取得資料に基づく日本版MHXXのDL闘技大会／チャレンジです。実機・Switch版メニューでの確認と現在の配信可否は未確認です。",
+        "専用報酬・装備用途は未確認です。解放情報の記録なしは、報酬が存在しないことを意味しません。"
+      ],
+      "weapons": [
+        "片手剣",
+        "双剣",
+        "ハンマー",
+        "ガンランス",
+        "ヘビィボウガン"
+      ],
+      "difficulty": "G★3",
+      "evaluationNotation": "Sランク:7分未満、Aランク:14分未満、Bランク:30分未満"
+    },
+    "unlocks": [],
+    "sources": [
+      {
+        "site": "Kiranico 日本版MHXX（提供資料経由）",
+        "url": "https://mhxx.kiranico.com/quest/3ae8e68",
+        "kind": "detail",
+        "checkedAt": "2026-10-17"
+      },
+      {
+        "site": "Kiranico 日本版MHXX一覧（提供資料経由）",
+        "url": "https://mhxx.kiranico.com/quest?vendor=2",
+        "kind": "list",
+        "checkedAt": "2026-10-17"
+      },
+      {
+        "site": "MHXX TA Wiki プリセット（提供資料経由）",
+        "url": "https://mhxx.wiki-db.com/ta/arena/",
+        "kind": "reference",
+        "checkedAt": "2026-10-17"
+      },
+      {
+        "site": "MHXX攻略データベース（今回取得）",
+        "url": "https://x.mh4info.com/quest/detail/?no=1880",
+        "kind": "detail",
+        "checkedAt": "2026-10-17"
+      }
+    ],
+    "verification": "partial",
+    "verificationNote": "提供された公開資料の名称・分類・対象・個別URLを使用。Kiranico / wiki-dbはこの環境では再取得していません。実機確認は行っていません。前提・HR・報酬は未確認です。"
+  },
+  {
+    "id": "challenge-kiranico-00757da",
+    "name": "ＸＸイベント：金雷公討伐",
+    "category": "challenge",
+    "rank": "全ランク",
+    "order": 22,
+    "role": "hunter",
+    "tags": [
+      "normal"
+    ],
+    "condition": {
+      "kind": "unknown",
+      "note": "出現前提・受注HRの詳細は未確認です。ダウンロード済みかどうかを判定する条件ではありません。"
+    },
+    "arenaInfo": {
+      "targets": [
+        "金雷公ジンオウガ"
+      ],
+      "participantLimit": "2人以下限定",
+      "rewardMaterials": [],
+      "notes": [
+        "外部取得資料に基づく日本版MHXXのDL闘技大会／チャレンジです。実機・Switch版メニューでの確認と現在の配信可否は未確認です。",
+        "専用報酬・装備用途は未確認です。解放情報の記録なしは、報酬が存在しないことを意味しません。"
+      ],
+      "weapons": [
+        "大剣",
+        "双剣",
+        "スラッシュアックス",
+        "操虫棍",
+        "弓"
+      ],
+      "difficulty": "G★3",
+      "evaluationNotation": "Sランク:7分未満、Aランク:14分未満、Bランク:30分未満"
+    },
+    "unlocks": [],
+    "sources": [
+      {
+        "site": "Kiranico 日本版MHXX（提供資料経由）",
+        "url": "https://mhxx.kiranico.com/quest/00757da",
+        "kind": "detail",
+        "checkedAt": "2026-10-17"
+      },
+      {
+        "site": "Kiranico 日本版MHXX一覧（提供資料経由）",
+        "url": "https://mhxx.kiranico.com/quest?vendor=2",
+        "kind": "list",
+        "checkedAt": "2026-10-17"
+      },
+      {
+        "site": "MHXX TA Wiki プリセット（提供資料経由）",
+        "url": "https://mhxx.wiki-db.com/ta/arena/",
+        "kind": "reference",
+        "checkedAt": "2026-10-17"
+      },
+      {
+        "site": "MHXX攻略データベース（今回取得）",
+        "url": "https://x.mh4info.com/quest/detail/?no=1881",
+        "kind": "detail",
+        "checkedAt": "2026-10-17"
+      }
+    ],
+    "verification": "partial",
+    "verificationNote": "提供された公開資料の名称・分類・対象・個別URLを使用。Kiranico / wiki-dbはこの環境では再取得していません。実機確認は行っていません。前提・HR・報酬は未確認です。"
+  },
+  {
+    "id": "challenge-kiranico-86d3d88",
+    "name": "ＸＸイベント：白疾風討伐",
+    "category": "challenge",
+    "rank": "全ランク",
+    "order": 23,
+    "role": "hunter",
+    "tags": [
+      "normal"
+    ],
+    "condition": {
+      "kind": "unknown",
+      "note": "出現前提・受注HRの詳細は未確認です。ダウンロード済みかどうかを判定する条件ではありません。"
+    },
+    "arenaInfo": {
+      "targets": [
+        "白疾風ナルガクルガ"
+      ],
+      "participantLimit": "2人以下限定",
+      "rewardMaterials": [],
+      "notes": [
+        "外部取得資料に基づく日本版MHXXのDL闘技大会／チャレンジです。実機・Switch版メニューでの確認と現在の配信可否は未確認です。",
+        "専用報酬・装備用途は未確認です。解放情報の記録なしは、報酬が存在しないことを意味しません。"
+      ],
+      "weapons": [
+        "太刀",
+        "片手剣",
+        "チャージアックス",
+        "ランス",
+        "ヘビィボウガン"
+      ],
+      "difficulty": "G★3",
+      "evaluationNotation": "Sランク:7分未満、Aランク:14分未満、Bランク:30分未満"
+    },
+    "unlocks": [],
+    "sources": [
+      {
+        "site": "Kiranico 日本版MHXX（提供資料経由）",
+        "url": "https://mhxx.kiranico.com/quest/86d3d88",
+        "kind": "detail",
+        "checkedAt": "2026-10-17"
+      },
+      {
+        "site": "Kiranico 日本版MHXX一覧（提供資料経由）",
+        "url": "https://mhxx.kiranico.com/quest?vendor=2",
+        "kind": "list",
+        "checkedAt": "2026-10-17"
+      },
+      {
+        "site": "MHXX TA Wiki プリセット（提供資料経由）",
+        "url": "https://mhxx.wiki-db.com/ta/arena/",
+        "kind": "reference",
+        "checkedAt": "2026-10-17"
+      },
+      {
+        "site": "MHXX攻略データベース（今回取得）",
+        "url": "https://x.mh4info.com/quest/detail/?no=1882",
+        "kind": "detail",
+        "checkedAt": "2026-10-17"
+      }
+    ],
+    "verification": "partial",
+    "verificationNote": "提供された公開資料の名称・分類・対象・個別URLを使用。Kiranico / wiki-dbはこの環境では再取得していません。実機確認は行っていません。前提・HR・報酬は未確認です。"
+  },
+  {
+    "id": "challenge-kiranico-d56860e",
+    "name": "ＸＸイベント：黒炎王討伐",
+    "category": "challenge",
+    "rank": "全ランク",
+    "order": 24,
+    "role": "hunter",
+    "tags": [
+      "normal"
+    ],
+    "condition": {
+      "kind": "unknown",
+      "note": "出現前提・受注HRの詳細は未確認です。ダウンロード済みかどうかを判定する条件ではありません。"
+    },
+    "arenaInfo": {
+      "targets": [
+        "黒炎王リオレウス"
+      ],
+      "participantLimit": "2人以下限定",
+      "rewardMaterials": [],
+      "notes": [
+        "外部取得資料に基づく日本版MHXXのDL闘技大会／チャレンジです。実機・Switch版メニューでの確認と現在の配信可否は未確認です。",
+        "専用報酬・装備用途は未確認です。解放情報の記録なしは、報酬が存在しないことを意味しません。"
+      ],
+      "weapons": [
+        "太刀",
+        "双剣",
+        "ハンマー",
+        "操虫棍",
+        "ヘビィボウガン"
+      ],
+      "difficulty": "G★3",
+      "evaluationNotation": "Sランク:7分未満、Aランク:14分未満、Bランク:30分未満"
+    },
+    "unlocks": [],
+    "sources": [
+      {
+        "site": "Kiranico 日本版MHXX（提供資料経由）",
+        "url": "https://mhxx.kiranico.com/quest/d56860e",
+        "kind": "detail",
+        "checkedAt": "2026-10-17"
+      },
+      {
+        "site": "Kiranico 日本版MHXX一覧（提供資料経由）",
+        "url": "https://mhxx.kiranico.com/quest?vendor=2",
+        "kind": "list",
+        "checkedAt": "2026-10-17"
+      },
+      {
+        "site": "MHXX TA Wiki プリセット（提供資料経由）",
+        "url": "https://mhxx.wiki-db.com/ta/arena/",
+        "kind": "reference",
+        "checkedAt": "2026-10-17"
+      },
+      {
+        "site": "MHXX攻略データベース（今回取得）",
+        "url": "https://x.mh4info.com/quest/detail/?no=1883",
+        "kind": "detail",
+        "checkedAt": "2026-10-17"
+      }
+    ],
+    "verification": "partial",
+    "verificationNote": "提供された公開資料の名称・分類・対象・個別URLを使用。Kiranico / wiki-dbはこの環境では再取得していません。実機確認は行っていません。前提・HR・報酬は未確認です。"
+  },
+  {
+    "id": "challenge-kiranico-7a353ed",
+    "name": "ＸＸイベント：荒鉤爪討伐",
+    "category": "challenge",
+    "rank": "全ランク",
+    "order": 25,
+    "role": "hunter",
+    "tags": [
+      "normal"
+    ],
+    "condition": {
+      "kind": "unknown",
+      "note": "出現前提・受注HRの詳細は未確認です。ダウンロード済みかどうかを判定する条件ではありません。"
+    },
+    "arenaInfo": {
+      "targets": [
+        "荒鉤爪ティガレックス"
+      ],
+      "participantLimit": "2人以下限定",
+      "rewardMaterials": [],
+      "notes": [
+        "外部取得資料に基づく日本版MHXXのDL闘技大会／チャレンジです。実機・Switch版メニューでの確認と現在の配信可否は未確認です。",
+        "専用報酬・装備用途は未確認です。解放情報の記録なしは、報酬が存在しないことを意味しません。"
+      ],
+      "weapons": [
+        "片手剣",
+        "ハンマー",
+        "スラッシュアックス",
+        "ガンランス",
+        "弓"
+      ],
+      "difficulty": "G★3",
+      "evaluationNotation": "Sランク:7分未満、Aランク:14分未満、Bランク:30分未満"
+    },
+    "unlocks": [],
+    "sources": [
+      {
+        "site": "Kiranico 日本版MHXX（提供資料経由）",
+        "url": "https://mhxx.kiranico.com/quest/7a353ed",
+        "kind": "detail",
+        "checkedAt": "2026-10-17"
+      },
+      {
+        "site": "Kiranico 日本版MHXX一覧（提供資料経由）",
+        "url": "https://mhxx.kiranico.com/quest?vendor=2",
+        "kind": "list",
+        "checkedAt": "2026-10-17"
+      },
+      {
+        "site": "MHXX TA Wiki プリセット（提供資料経由）",
+        "url": "https://mhxx.wiki-db.com/ta/arena/",
+        "kind": "reference",
+        "checkedAt": "2026-10-17"
+      },
+      {
+        "site": "MHXX攻略データベース（今回取得）",
+        "url": "https://x.mh4info.com/quest/detail/?no=1884",
+        "kind": "detail",
+        "checkedAt": "2026-10-17"
+      }
+    ],
+    "verification": "partial",
+    "verificationNote": "提供された公開資料の名称・分類・対象・個別URLを使用。Kiranico / wiki-dbはこの環境では再取得していません。実機確認は行っていません。前提・HR・報酬は未確認です。"
+  },
+  {
+    "id": "challenge-kiranico-ae65638",
+    "name": "ＸＸイベント：銀嶺討伐",
+    "category": "challenge",
+    "rank": "全ランク",
+    "order": 26,
+    "role": "hunter",
+    "tags": [
+      "normal"
+    ],
+    "condition": {
+      "kind": "unknown",
+      "note": "出現前提・受注HRの詳細は未確認です。ダウンロード済みかどうかを判定する条件ではありません。"
+    },
+    "arenaInfo": {
+      "targets": [
+        "銀嶺ガムート"
+      ],
+      "participantLimit": "未確認",
+      "rewardMaterials": [],
+      "notes": [
+        "外部取得資料に基づく日本版MHXXのDL闘技大会／チャレンジです。実機・Switch版メニューでの確認と現在の配信可否は未確認です。",
+        "専用報酬・装備用途は未確認です。解放情報の記録なしは、報酬が存在しないことを意味しません。"
+      ],
+      "weapons": [
+        "大剣",
+        "狩猟笛",
+        "チャージアックス",
+        "ガンランス",
+        "ライトボウガン"
+      ]
+    },
+    "unlocks": [],
+    "sources": [
+      {
+        "site": "Kiranico 日本版MHXX（提供資料経由）",
+        "url": "https://mhxx.kiranico.com/quest/ae65638",
+        "kind": "detail",
+        "checkedAt": "2026-10-17"
+      },
+      {
+        "site": "Kiranico 日本版MHXX一覧（提供資料経由）",
+        "url": "https://mhxx.kiranico.com/quest?vendor=2",
+        "kind": "list",
+        "checkedAt": "2026-10-17"
+      }
+    ],
+    "verification": "partial",
+    "verificationNote": "提供された公開資料の名称・分類・対象・個別URLを使用。Kiranico / wiki-dbはこの環境では再取得していません。実機確認は行っていません。前提・HR・報酬は未確認です。"
+  },
+  {
+    "id": "challenge-kiranico-e3aea9a",
+    "name": "ＸＸイベント：大連続狩猟１",
+    "category": "challenge",
+    "rank": "全ランク",
+    "order": 27,
+    "role": "hunter",
+    "tags": [
+      "normal"
+    ],
+    "condition": {
+      "kind": "unknown",
+      "note": "出現前提・受注HRの詳細は未確認です。ダウンロード済みかどうかを判定する条件ではありません。"
+    },
+    "arenaInfo": {
+      "targets": [
+        "青電主ライゼクス",
+        "天眼タマミツネ"
+      ],
+      "participantLimit": "未確認",
+      "rewardMaterials": [],
+      "notes": [
+        "外部取得資料に基づく日本版MHXXのDL闘技大会／チャレンジです。実機・Switch版メニューでの確認と現在の配信可否は未確認です。",
+        "専用報酬・装備用途は未確認です。解放情報の記録なしは、報酬が存在しないことを意味しません。"
+      ],
+      "weapons": [
+        "大剣",
+        "双剣",
+        "スラッシュアックス",
+        "ガンランス",
+        "ライトボウガン"
+      ]
+    },
+    "unlocks": [],
+    "sources": [
+      {
+        "site": "Kiranico 日本版MHXX（提供資料経由）",
+        "url": "https://mhxx.kiranico.com/quest/e3aea9a",
+        "kind": "detail",
+        "checkedAt": "2026-10-17"
+      },
+      {
+        "site": "Kiranico 日本版MHXX一覧（提供資料経由）",
+        "url": "https://mhxx.kiranico.com/quest?vendor=2",
+        "kind": "list",
+        "checkedAt": "2026-10-17"
+      },
+      {
+        "site": "MHXX TA Wiki プリセット（提供資料経由）",
+        "url": "https://mhxx.wiki-db.com/ta/arena/",
+        "kind": "reference",
+        "checkedAt": "2026-10-17"
+      }
+    ],
+    "verification": "partial",
+    "verificationNote": "提供された公開資料の名称・分類・対象・個別URLを使用。Kiranico / wiki-dbはこの環境では再取得していません。実機確認は行っていません。前提・HR・報酬は未確認です。"
+  },
+  {
+    "id": "challenge-kiranico-60a9a7e",
+    "name": "ＸＸイベント：大連続狩猟２",
+    "category": "challenge",
+    "rank": "全ランク",
+    "order": 28,
+    "role": "hunter",
+    "tags": [
+      "normal"
+    ],
+    "condition": {
+      "kind": "unknown",
+      "note": "出現前提・受注HRの詳細は未確認です。ダウンロード済みかどうかを判定する条件ではありません。"
+    },
+    "arenaInfo": {
+      "targets": [
+        "燼滅刃ディノバルド",
+        "鏖魔ディアブロス",
+        "バルファルク"
+      ],
+      "participantLimit": "未確認",
+      "rewardMaterials": [],
+      "notes": [
+        "外部取得資料に基づく日本版MHXXのDL闘技大会／チャレンジです。実機・Switch版メニューでの確認と現在の配信可否は未確認です。",
+        "専用報酬・装備用途は未確認です。解放情報の記録なしは、報酬が存在しないことを意味しません。"
+      ],
+      "weapons": [
+        "太刀",
+        "片手剣",
+        "狩猟笛",
+        "ランス",
+        "弓"
+      ]
+    },
+    "unlocks": [],
+    "sources": [
+      {
+        "site": "Kiranico 日本版MHXX（提供資料経由）",
+        "url": "https://mhxx.kiranico.com/quest/60a9a7e",
+        "kind": "detail",
+        "checkedAt": "2026-10-17"
+      },
+      {
+        "site": "Kiranico 日本版MHXX一覧（提供資料経由）",
+        "url": "https://mhxx.kiranico.com/quest?vendor=2",
+        "kind": "list",
+        "checkedAt": "2026-10-17"
+      },
+      {
+        "site": "MHXX TA Wiki プリセット（提供資料経由）",
+        "url": "https://mhxx.wiki-db.com/ta/arena/",
+        "kind": "reference",
+        "checkedAt": "2026-10-17"
+      }
+    ],
+    "verification": "partial",
+    "verificationNote": "提供された公開資料の名称・分類・対象・個別URLを使用。Kiranico / wiki-dbはこの環境では再取得していません。実機確認は行っていません。前提・HR・報酬は未確認です。"
+  },
+  {
+    "id": "challenge-kiranico-99e0e3a",
+    "name": "ＸＸイベント：矛砕討伐",
+    "category": "challenge",
+    "rank": "全ランク",
+    "order": 29,
+    "role": "hunter",
+    "tags": [
+      "normal"
+    ],
+    "condition": {
+      "kind": "unknown",
+      "note": "出現前提・受注HRの詳細は未確認です。ダウンロード済みかどうかを判定する条件ではありません。"
+    },
+    "arenaInfo": {
+      "targets": [
+        "矛砕ダイミョウザザミ"
+      ],
+      "participantLimit": "2人以下限定",
+      "rewardMaterials": [],
+      "notes": [
+        "外部取得資料に基づく日本版MHXXのDL闘技大会／チャレンジです。実機・Switch版メニューでの確認と現在の配信可否は未確認です。",
+        "専用報酬・装備用途は未確認です。解放情報の記録なしは、報酬が存在しないことを意味しません。"
+      ],
+      "weapons": [
+        "片手剣",
+        "双剣",
+        "チャージアックス",
+        "ガンランス",
+        "ヘビィボウガン"
+      ],
+      "difficulty": "G★3",
+      "evaluationNotation": "Sランク:7分未満、Aランク:14分未満、Bランク:30分未満"
+    },
+    "unlocks": [],
+    "sources": [
+      {
+        "site": "Kiranico 日本版MHXX（提供資料経由）",
+        "url": "https://mhxx.kiranico.com/quest/99e0e3a",
+        "kind": "detail",
+        "checkedAt": "2026-10-17"
+      },
+      {
+        "site": "Kiranico 日本版MHXX一覧（提供資料経由）",
+        "url": "https://mhxx.kiranico.com/quest?vendor=2",
+        "kind": "list",
+        "checkedAt": "2026-10-17"
+      },
+      {
+        "site": "MHXX TA Wiki プリセット（提供資料経由）",
+        "url": "https://mhxx.wiki-db.com/ta/arena/",
+        "kind": "reference",
+        "checkedAt": "2026-10-17"
+      },
+      {
+        "site": "MHXX攻略データベース（今回取得）",
+        "url": "https://x.mh4info.com/quest/detail/?no=1885",
+        "kind": "detail",
+        "checkedAt": "2026-10-17"
+      }
+    ],
+    "verification": "partial",
+    "verificationNote": "提供された公開資料の名称・分類・対象・個別URLを使用。Kiranico / wiki-dbはこの環境では再取得していません。実機確認は行っていません。前提・HR・報酬は未確認です。"
+  },
+  {
+    "id": "challenge-kiranico-5396983",
+    "name": "ＸＸイベント：岩穿討伐",
+    "category": "challenge",
+    "rank": "全ランク",
+    "order": 30,
+    "role": "hunter",
+    "tags": [
+      "normal"
+    ],
+    "condition": {
+      "kind": "unknown",
+      "note": "出現前提・受注HRの詳細は未確認です。ダウンロード済みかどうかを判定する条件ではありません。"
+    },
+    "arenaInfo": {
+      "targets": [
+        "岩穿テツカブラ"
+      ],
+      "participantLimit": "2人以下限定",
+      "rewardMaterials": [],
+      "notes": [
+        "外部取得資料に基づく日本版MHXXのDL闘技大会／チャレンジです。実機・Switch版メニューでの確認と現在の配信可否は未確認です。",
+        "専用報酬・装備用途は未確認です。解放情報の記録なしは、報酬が存在しないことを意味しません。"
+      ],
+      "weapons": [
+        "双剣",
+        "ハンマー",
+        "スラッシュアックス",
+        "操虫棍",
+        "弓"
+      ],
+      "difficulty": "G★3",
+      "evaluationNotation": "Sランク:7分未満、Aランク:14分未満、Bランク:30分未満"
+    },
+    "unlocks": [],
+    "sources": [
+      {
+        "site": "Kiranico 日本版MHXX（提供資料経由）",
+        "url": "https://mhxx.kiranico.com/quest/5396983",
+        "kind": "detail",
+        "checkedAt": "2026-10-17"
+      },
+      {
+        "site": "Kiranico 日本版MHXX一覧（提供資料経由）",
+        "url": "https://mhxx.kiranico.com/quest?vendor=2",
+        "kind": "list",
+        "checkedAt": "2026-10-17"
+      },
+      {
+        "site": "MHXX TA Wiki プリセット（提供資料経由）",
+        "url": "https://mhxx.wiki-db.com/ta/arena/",
+        "kind": "reference",
+        "checkedAt": "2026-10-17"
+      },
+      {
+        "site": "MHXX攻略データベース（今回取得）",
+        "url": "https://x.mh4info.com/quest/detail/?no=1886",
+        "kind": "detail",
+        "checkedAt": "2026-10-17"
+      }
+    ],
+    "verification": "partial",
+    "verificationNote": "提供された公開資料の名称・分類・対象・個別URLを使用。Kiranico / wiki-dbはこの環境では再取得していません。実機確認は行っていません。前提・HR・報酬は未確認です。"
+  },
+  {
+    "id": "challenge-kiranico-3ae8e98",
+    "name": "ＸＸイベント：紅兜討伐",
+    "category": "challenge",
+    "rank": "全ランク",
+    "order": 31,
+    "role": "hunter",
+    "tags": [
+      "normal"
+    ],
+    "condition": {
+      "kind": "unknown",
+      "note": "出現前提・受注HRの詳細は未確認です。ダウンロード済みかどうかを判定する条件ではありません。"
+    },
+    "arenaInfo": {
+      "targets": [
+        "紅兜アオアシラ"
+      ],
+      "participantLimit": "2人以下限定",
+      "rewardMaterials": [],
+      "notes": [
+        "外部取得資料に基づく日本版MHXXのDL闘技大会／チャレンジです。実機・Switch版メニューでの確認と現在の配信可否は未確認です。",
+        "専用報酬・装備用途は未確認です。解放情報の記録なしは、報酬が存在しないことを意味しません。"
+      ],
+      "weapons": [
+        "大剣",
+        "片手剣",
+        "狩猟笛",
+        "チャージアックス",
+        "ヘビィボウガン"
+      ],
+      "difficulty": "G★3",
+      "evaluationNotation": "Sランク:7分未満、Aランク:14分未満、Bランク:30分未満"
+    },
+    "unlocks": [],
+    "sources": [
+      {
+        "site": "Kiranico 日本版MHXX（提供資料経由）",
+        "url": "https://mhxx.kiranico.com/quest/3ae8e98",
+        "kind": "detail",
+        "checkedAt": "2026-10-17"
+      },
+      {
+        "site": "Kiranico 日本版MHXX一覧（提供資料経由）",
+        "url": "https://mhxx.kiranico.com/quest?vendor=2",
+        "kind": "list",
+        "checkedAt": "2026-10-17"
+      },
+      {
+        "site": "MHXX TA Wiki プリセット（提供資料経由）",
+        "url": "https://mhxx.wiki-db.com/ta/arena/",
+        "kind": "reference",
+        "checkedAt": "2026-10-17"
+      },
+      {
+        "site": "MHXX攻略データベース（今回取得）",
+        "url": "https://x.mh4info.com/quest/detail/?no=1887",
+        "kind": "detail",
+        "checkedAt": "2026-10-17"
+      }
+    ],
+    "verification": "partial",
+    "verificationNote": "提供された公開資料の名称・分類・対象・個別URLを使用。Kiranico / wiki-dbはこの環境では再取得していません。実機確認は行っていません。前提・HR・報酬は未確認です。"
+  },
+  {
+    "id": "challenge-kiranico-007578a",
+    "name": "ＸＸイベント：隻眼討伐",
+    "category": "challenge",
+    "rank": "全ランク",
+    "order": 32,
+    "role": "hunter",
+    "tags": [
+      "normal"
+    ],
+    "condition": {
+      "kind": "unknown",
+      "note": "出現前提・受注HRの詳細は未確認です。ダウンロード済みかどうかを判定する条件ではありません。"
+    },
+    "arenaInfo": {
+      "targets": [
+        "隻眼イャンガルルガ"
+      ],
+      "participantLimit": "2人以下限定",
+      "rewardMaterials": [],
+      "notes": [
+        "外部取得資料に基づく日本版MHXXのDL闘技大会／チャレンジです。実機・Switch版メニューでの確認と現在の配信可否は未確認です。",
+        "専用報酬・装備用途は未確認です。解放情報の記録なしは、報酬が存在しないことを意味しません。"
+      ],
+      "weapons": [
+        "大剣",
+        "太刀",
+        "ハンマー",
+        "ランス",
+        "ライトボウガン"
+      ],
+      "difficulty": "G★3",
+      "evaluationNotation": "Sランク:7分未満、Aランク:14分未満、Bランク:30分未満"
+    },
+    "unlocks": [],
+    "sources": [
+      {
+        "site": "Kiranico 日本版MHXX（提供資料経由）",
+        "url": "https://mhxx.kiranico.com/quest/007578a",
+        "kind": "detail",
+        "checkedAt": "2026-10-17"
+      },
+      {
+        "site": "Kiranico 日本版MHXX一覧（提供資料経由）",
+        "url": "https://mhxx.kiranico.com/quest?vendor=2",
+        "kind": "list",
+        "checkedAt": "2026-10-17"
+      },
+      {
+        "site": "MHXX TA Wiki プリセット（提供資料経由）",
+        "url": "https://mhxx.wiki-db.com/ta/arena/",
+        "kind": "reference",
+        "checkedAt": "2026-10-17"
+      },
+      {
+        "site": "MHXX攻略データベース（今回取得）",
+        "url": "https://x.mh4info.com/quest/detail/?no=1888",
+        "kind": "detail",
+        "checkedAt": "2026-10-17"
+      }
+    ],
+    "verification": "partial",
+    "verificationNote": "提供された公開資料の名称・分類・対象・個別URLを使用。Kiranico / wiki-dbはこの環境では再取得していません。実機確認は行っていません。前提・HR・報酬は未確認です。"
+  },
+  {
+    "id": "challenge-kiranico-86d3d98",
+    "name": "ＸＸイベント：大雪主討伐",
+    "category": "challenge",
+    "rank": "全ランク",
+    "order": 33,
+    "role": "hunter",
+    "tags": [
+      "normal"
+    ],
+    "condition": {
+      "kind": "unknown",
+      "note": "出現前提・受注HRの詳細は未確認です。ダウンロード済みかどうかを判定する条件ではありません。"
+    },
+    "arenaInfo": {
+      "targets": [
+        "大雪主ウルクスス"
+      ],
+      "participantLimit": "2人以下限定",
+      "rewardMaterials": [],
+      "notes": [
+        "外部取得資料に基づく日本版MHXXのDL闘技大会／チャレンジです。実機・Switch版メニューでの確認と現在の配信可否は未確認です。",
+        "専用報酬・装備用途は未確認です。解放情報の記録なしは、報酬が存在しないことを意味しません。"
+      ],
+      "weapons": [
+        "太刀",
+        "双剣",
+        "スラッシュアックス",
+        "操虫棍",
+        "弓"
+      ],
+      "difficulty": "G★3",
+      "evaluationNotation": "Sランク:7分未満、Aランク:14分未満、Bランク:30分未満"
+    },
+    "unlocks": [],
+    "sources": [
+      {
+        "site": "Kiranico 日本版MHXX（提供資料経由）",
+        "url": "https://mhxx.kiranico.com/quest/86d3d98",
+        "kind": "detail",
+        "checkedAt": "2026-10-17"
+      },
+      {
+        "site": "Kiranico 日本版MHXX一覧（提供資料経由）",
+        "url": "https://mhxx.kiranico.com/quest?vendor=2",
+        "kind": "list",
+        "checkedAt": "2026-10-17"
+      },
+      {
+        "site": "MHXX TA Wiki プリセット（提供資料経由）",
+        "url": "https://mhxx.wiki-db.com/ta/arena/",
+        "kind": "reference",
+        "checkedAt": "2026-10-17"
+      },
+      {
+        "site": "MHXX攻略データベース（今回取得）",
+        "url": "https://x.mh4info.com/quest/detail/?no=1889",
+        "kind": "detail",
+        "checkedAt": "2026-10-17"
+      }
+    ],
+    "verification": "partial",
+    "verificationNote": "提供された公開資料の名称・分類・対象・個別URLを使用。Kiranico / wiki-dbはこの環境では再取得していません。実機確認は行っていません。前提・HR・報酬は未確認です。"
+  },
+  {
+    "id": "challenge-kiranico-d5e77d0",
+    "name": "ＸＸイベント：火竜討伐",
+    "category": "challenge",
+    "rank": "全ランク",
+    "order": 34,
+    "role": "prowler",
+    "tags": [
+      "normal"
+    ],
+    "condition": {
+      "kind": "unknown",
+      "note": "出現前提・受注HRの詳細は未確認です。ダウンロード済みかどうかを判定する条件ではありません。"
+    },
+    "arenaInfo": {
+      "targets": [
+        "リオレウス"
+      ],
+      "participantLimit": "2人以下限定",
+      "rewardMaterials": [],
+      "notes": [
+        "外部取得資料に基づく日本版MHXXのDL闘技大会／チャレンジです。実機・Switch版メニューでの確認と現在の配信可否は未確認です。",
+        "専用報酬・装備用途は未確認です。解放情報の記録なしは、報酬が存在しないことを意味しません。",
+        "前回提供資料に誤記があり、個別ページと専門Wikiの再照合で解決しました。サポート傾向はカリスマ、アシスト、回復、ボマー、コレクトです。"
+      ],
+      "difficulty": "G★2",
+      "evaluationNotation": "Sランク:7分未満、Aランク:14分未満、Bランク:30分未満",
+      "supportTypes": [
+        "カリスマ",
+        "アシスト",
+        "回復",
+        "ボマー",
+        "コレクト"
+      ]
+    },
+    "unlocks": [],
+    "sources": [
+      {
+        "site": "Kiranico 日本版MHXX（提供資料経由）",
+        "url": "https://mhxx.kiranico.com/quest/d5e77d0",
+        "kind": "detail",
+        "checkedAt": "2026-10-17"
+      },
+      {
+        "site": "Kiranico 日本版MHXX一覧（提供資料経由）",
+        "url": "https://mhxx.kiranico.com/quest?vendor=2",
+        "kind": "list",
+        "checkedAt": "2026-10-17"
+      },
+      {
+        "site": "MHXX攻略データベース（今回取得）",
+        "url": "https://x.mh4info.com/quest/detail/?no=1904",
+        "kind": "detail",
+        "checkedAt": "2026-10-17"
+      },
+      {
+        "site": "MHXXニャンター専門Wiki（今回取得）",
+        "url": "https://w.atwiki.jp/mhxxnyanter/pages/70.html#id_76e8e70e",
+        "kind": "reference",
+        "checkedAt": "2026-10-17"
+      }
+    ],
+    "verification": "partial",
+    "verificationNote": "提供された公開資料の名称・分類・対象・個別URLを使用。Kiranico / wiki-dbはこの環境では再取得していません。実機確認は行っていません。前提・HR・報酬は未確認です。"
+  },
+  {
+    "id": "challenge-kiranico-7ae998e",
+    "name": "ＸＸイベント：轟竜討伐",
+    "category": "challenge",
+    "rank": "全ランク",
+    "order": 35,
+    "role": "prowler",
+    "tags": [
+      "normal"
+    ],
+    "condition": {
+      "kind": "unknown",
+      "note": "出現前提・受注HRの詳細は未確認です。ダウンロード済みかどうかを判定する条件ではありません。"
+    },
+    "arenaInfo": {
+      "targets": [
+        "ティガレックス"
+      ],
+      "participantLimit": "2人以下限定",
+      "rewardMaterials": [],
+      "notes": [
+        "外部取得資料に基づく日本版MHXXのDL闘技大会／チャレンジです。実機・Switch版メニューでの確認と現在の配信可否は未確認です。",
+        "専用報酬・装備用途は未確認です。解放情報の記録なしは、報酬が存在しないことを意味しません。"
+      ],
+      "supportTypes": [
+        "カリスマ",
+        "ファイト",
+        "ガード",
+        "アシスト",
+        "ビースト"
+      ],
+      "difficulty": "G★2",
+      "evaluationNotation": "Sランク:7分未満、Aランク:14分未満、Bランク:30分未満"
+    },
+    "unlocks": [],
+    "sources": [
+      {
+        "site": "Kiranico 日本版MHXX（提供資料経由）",
+        "url": "https://mhxx.kiranico.com/quest/7ae998e",
+        "kind": "detail",
+        "checkedAt": "2026-10-17"
+      },
+      {
+        "site": "Kiranico 日本版MHXX一覧（提供資料経由）",
+        "url": "https://mhxx.kiranico.com/quest?vendor=2",
+        "kind": "list",
+        "checkedAt": "2026-10-17"
+      },
+      {
+        "site": "MHXX攻略データベース（今回取得）",
+        "url": "https://x.mh4info.com/quest/detail/?no=1905",
+        "kind": "detail",
+        "checkedAt": "2026-10-17"
+      },
+      {
+        "site": "MHXXニャンター専門Wiki（今回取得）",
+        "url": "https://w.atwiki.jp/mhxxnyanter/pages/70.html#id_3b17d3a4",
+        "kind": "reference",
+        "checkedAt": "2026-10-17"
+      }
+    ],
+    "verification": "partial",
+    "verificationNote": "提供された公開資料の名称・分類・対象・個別URLを使用。Kiranico / wiki-dbはこの環境では再取得していません。実機確認は行っていません。前提・HR・報酬は未確認です。"
+  },
+  {
+    "id": "challenge-mh4info-1906",
+    "name": "ＸＸイベント：迅竜討伐",
+    "category": "challenge",
+    "rank": "全ランク",
+    "order": 36,
+    "role": "prowler",
+    "tags": [
+      "normal"
+    ],
+    "condition": {
+      "kind": "unknown",
+      "note": "出現前提・受注HRの詳細は未確認です。ダウンロード済みかどうかを判定する条件ではありません。"
+    },
+    "arenaInfo": {
+      "targets": [
+        "ナルガクルガ"
+      ],
+      "participantLimit": "2人以下限定",
+      "rewardMaterials": [],
+      "notes": [
+        "外部取得資料に基づく日本版MHXXのDL闘技大会／チャレンジです。実機・Switch版メニューでの確認と現在の配信可否は未確認です。",
+        "専用報酬・装備用途は未確認です。解放情報の記録なしは、報酬が存在しないことを意味しません。"
+      ],
+      "supportTypes": [
+        "ファイト",
+        "ガード",
+        "アシスト",
+        "ボマー",
+        "ビースト"
+      ],
+      "difficulty": "G★2",
+      "evaluationNotation": "Sランク:7分未満、Aランク:14分未満、Bランク:30分未満"
+    },
+    "unlocks": [],
+    "sources": [
+      {
+        "site": "MHXX攻略データベース（今回取得）",
+        "url": "https://x.mh4info.com/quest/detail/?no=1906",
+        "kind": "detail",
+        "checkedAt": "2026-10-17"
+      },
+      {
+        "site": "Kiranico 日本版MHXX一覧（提供資料経由）",
+        "url": "https://mhxx.kiranico.com/quest?vendor=2",
+        "kind": "list",
+        "checkedAt": "2026-10-17"
+      },
+      {
+        "site": "MHXXニャンター専門Wiki（今回取得）",
+        "url": "https://w.atwiki.jp/mhxxnyanter/pages/70.html#id_4815b752",
+        "kind": "reference",
+        "checkedAt": "2026-10-17"
+      }
+    ],
+    "verification": "partial",
+    "verificationNote": "提供された公開資料の名称・分類・対象・個別URLを使用。Kiranico / wiki-dbはこの環境では再取得していません。実機確認は行っていません。前提・HR・報酬は未確認です。"
+  },
+  {
+    "id": "challenge-kiranico-ae3aa6b",
+    "name": "ＸＸイベント：雷狼竜討伐",
+    "category": "challenge",
+    "rank": "全ランク",
+    "order": 37,
+    "role": "prowler",
+    "tags": [
+      "normal"
+    ],
+    "condition": {
+      "kind": "unknown",
+      "note": "出現前提・受注HRの詳細は未確認です。ダウンロード済みかどうかを判定する条件ではありません。"
+    },
+    "arenaInfo": {
+      "targets": [
+        "ジンオウガ"
+      ],
+      "participantLimit": "2人以下限定",
+      "rewardMaterials": [],
+      "notes": [
+        "外部取得資料に基づく日本版MHXXのDL闘技大会／チャレンジです。実機・Switch版メニューでの確認と現在の配信可否は未確認です。",
+        "専用報酬・装備用途は未確認です。解放情報の記録なしは、報酬が存在しないことを意味しません。"
+      ],
+      "supportTypes": [
+        "ファイト",
+        "アシスト",
+        "回復",
+        "ボマー",
+        "ビースト"
+      ],
+      "difficulty": "G★2",
+      "evaluationNotation": "Sランク:7分未満、Aランク:14分未満、Bランク:30分未満"
+    },
+    "unlocks": [],
+    "sources": [
+      {
+        "site": "Kiranico 日本版MHXX（提供資料経由）",
+        "url": "https://mhxx.kiranico.com/quest/ae3aa6b",
+        "kind": "detail",
+        "checkedAt": "2026-10-17"
+      },
+      {
+        "site": "Kiranico 日本版MHXX一覧（提供資料経由）",
+        "url": "https://mhxx.kiranico.com/quest?vendor=2",
+        "kind": "list",
+        "checkedAt": "2026-10-17"
+      },
+      {
+        "site": "MHXX攻略データベース（今回取得）",
+        "url": "https://x.mh4info.com/quest/detail/?no=1907",
+        "kind": "detail",
+        "checkedAt": "2026-10-17"
+      },
+      {
+        "site": "MHXXニャンター専門Wiki（今回取得）",
+        "url": "https://w.atwiki.jp/mhxxnyanter/pages/70.html#id_cda6ff39",
+        "kind": "reference",
+        "checkedAt": "2026-10-17"
+      }
+    ],
+    "verification": "partial",
+    "verificationNote": "提供された公開資料の名称・分類・対象・個別URLを使用。Kiranico / wiki-dbはこの環境では再取得していません。実機確認は行っていません。前提・HR・報酬は未確認です。"
+  },
+  {
+    "id": "challenge-kiranico-e3977ad",
+    "name": "ＸＸイベント：砕竜討伐",
+    "category": "challenge",
+    "rank": "全ランク",
+    "order": 38,
+    "role": "prowler",
+    "tags": [
+      "normal"
+    ],
+    "condition": {
+      "kind": "unknown",
+      "note": "出現前提・受注HRの詳細は未確認です。ダウンロード済みかどうかを判定する条件ではありません。"
+    },
+    "arenaInfo": {
+      "targets": [
+        "ブラキディオス"
+      ],
+      "participantLimit": "2人以下限定",
+      "rewardMaterials": [],
+      "notes": [
+        "外部取得資料に基づく日本版MHXXのDL闘技大会／チャレンジです。実機・Switch版メニューでの確認と現在の配信可否は未確認です。",
+        "専用報酬・装備用途は未確認です。解放情報の記録なしは、報酬が存在しないことを意味しません。"
+      ],
+      "supportTypes": [
+        "ファイト",
+        "ガード",
+        "アシスト",
+        "コレクト",
+        "ビースト"
+      ],
+      "difficulty": "G★2",
+      "evaluationNotation": "Sランク:7分未満、Aランク:14分未満、Bランク:30分未満"
+    },
+    "unlocks": [],
+    "sources": [
+      {
+        "site": "Kiranico 日本版MHXX（提供資料経由）",
+        "url": "https://mhxx.kiranico.com/quest/e3977ad",
+        "kind": "detail",
+        "checkedAt": "2026-10-17"
+      },
+      {
+        "site": "Kiranico 日本版MHXX一覧（提供資料経由）",
+        "url": "https://mhxx.kiranico.com/quest?vendor=2",
+        "kind": "list",
+        "checkedAt": "2026-10-17"
+      },
+      {
+        "site": "MHXX攻略データベース（今回取得）",
+        "url": "https://x.mh4info.com/quest/detail/?no=1908",
+        "kind": "detail",
+        "checkedAt": "2026-10-17"
+      },
+      {
+        "site": "MHXXニャンター専門Wiki（今回取得）",
+        "url": "https://w.atwiki.jp/mhxxnyanter/pages/70.html#id_70dd4d68",
+        "kind": "reference",
+        "checkedAt": "2026-10-17"
+      }
+    ],
+    "verification": "partial",
+    "verificationNote": "提供された公開資料の名称・分類・対象・個別URLを使用。Kiranico / wiki-dbはこの環境では再取得していません。実機確認は行っていません。前提・HR・報酬は未確認です。"
+  },
+  {
+    "id": "challenge-kiranico-60766aa",
+    "name": "ＸＸイベント：大連続狩猟４",
+    "category": "challenge",
+    "rank": "全ランク",
+    "order": 39,
+    "role": "prowler",
+    "tags": [
+      "normal"
+    ],
+    "condition": {
+      "kind": "unknown",
+      "note": "出現前提・受注HRの詳細は未確認です。ダウンロード済みかどうかを判定する条件ではありません。"
+    },
+    "arenaInfo": {
+      "targets": [
+        "ドスマッカォ",
+        "ホロロホルル",
+        "ディノバルド"
+      ],
+      "participantLimit": "未確認",
+      "rewardMaterials": [],
+      "notes": [
+        "外部取得資料に基づく日本版MHXXのDL闘技大会／チャレンジです。実機・Switch版メニューでの確認と現在の配信可否は未確認です。",
+        "専用報酬・装備用途は未確認です。解放情報の記録なしは、報酬が存在しないことを意味しません。"
+      ],
+      "supportTypes": [
+        "カリスマ",
+        "ファイト",
+        "ガード",
+        "回復",
+        "ビースト"
+      ],
+      "evaluationNotation": "S12:00　A25:00　B40:00"
+    },
+    "unlocks": [],
+    "sources": [
+      {
+        "site": "Kiranico 日本版MHXX（提供資料経由）",
+        "url": "https://mhxx.kiranico.com/quest/60766aa",
+        "kind": "detail",
+        "checkedAt": "2026-10-17"
+      },
+      {
+        "site": "Kiranico 日本版MHXX一覧（提供資料経由）",
+        "url": "https://mhxx.kiranico.com/quest?vendor=2",
+        "kind": "list",
+        "checkedAt": "2026-10-17"
+      },
+      {
+        "site": "MHXXニャンター専門Wiki（今回取得）",
+        "url": "https://w.atwiki.jp/mhxxnyanter/pages/70.html#id_4eb7b3c3",
+        "kind": "reference",
+        "checkedAt": "2026-10-17"
+      }
+    ],
+    "verification": "partial",
+    "verificationNote": "提供された公開資料の名称・分類・対象・個別URLを使用。Kiranico / wiki-dbはこの環境では再取得していません。実機確認は行っていません。前提・HR・報酬は未確認です。"
+  },
+  {
+    "id": "challenge-kiranico-d5686ee",
+    "name": "ＸＸイベント：大連続狩猟３",
+    "category": "challenge",
+    "rank": "全ランク",
+    "order": 40,
+    "role": "hunter",
+    "tags": [
+      "normal"
+    ],
+    "condition": {
+      "kind": "unknown",
+      "note": "出現前提・受注HRの詳細は未確認です。ダウンロード済みかどうかを判定する条件ではありません。"
+    },
+    "arenaInfo": {
+      "targets": [
+        "朧隠ホロロホルル",
+        "猛り爆ぜるブラキディオス"
+      ],
+      "participantLimit": "未確認",
+      "rewardMaterials": [],
+      "weapons": [
+        "大剣",
+        "ハンマー",
+        "ランス",
+        "ガンランス",
+        "ライトボウガン"
+      ],
+      "notes": [
+        "ユーザー提供のKiranico個別ページ追加確認結果に基づき登録しました。実機・Switch版メニューでの確認と現在の配信可否は未確認です。",
+        "S/A/B評価時間・受注HR・詳細な出現条件・特殊報酬は未確認です。推測で補完していません。"
+      ]
+    },
+    "unlocks": [],
+    "sources": [
+      {
+        "site": "Kiranico 日本版MHXX（ユーザー追加確認資料経由）",
+        "url": "https://mhxx.kiranico.com/quest/d5686ee",
+        "kind": "detail",
+        "checkedAt": "2026-10-17"
+      }
+    ],
+    "verification": "partial",
+    "verificationNote": "名称・対象・分類・プリセット武器・実在個別URLは提供された公開資料の追加確認結果に基づきます。この実行環境ではKiranicoを再取得していません。実機確認ではなく、出現条件・HR・評価・特殊報酬は未確認です。"
+  }
+]

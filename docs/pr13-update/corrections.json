@@ -1,0 +1,115 @@
+{
+  "checkedAt": "2026-10-17",
+  "sourceMode": "user_supplied_public_source_correction",
+  "runtimeKiranicoFetched": false,
+  "inGameVerificationPerformed": false,
+  "newQuest": {
+    "id": "challenge-kiranico-d5686ee",
+    "name": "ＸＸイベント：大連続狩猟３",
+    "category": "challenge",
+    "rank": "全ランク",
+    "order": 40,
+    "role": "hunter",
+    "tags": [
+      "normal"
+    ],
+    "condition": {
+      "kind": "unknown",
+      "note": "出現前提・受注HRの詳細は未確認です。ダウンロード済みかどうかを判定する条件ではありません。"
+    },
+    "arenaInfo": {
+      "targets": [
+        "朧隠ホロロホルル",
+        "猛り爆ぜるブラキディオス"
+      ],
+      "participantLimit": "未確認",
+      "rewardMaterials": [],
+      "weapons": [
+        "大剣",
+        "ハンマー",
+        "ランス",
+        "ガンランス",
+        "ライトボウガン"
+      ],
+      "notes": [
+        "ユーザー提供のKiranico個別ページ追加確認結果に基づき登録しました。実機・Switch版メニューでの確認と現在の配信可否は未確認です。",
+        "S/A/B評価時間・受注HR・詳細な出現条件・特殊報酬は未確認です。推測で補完していません。"
+      ]
+    },
+    "unlocks": [],
+    "sources": [
+      {
+        "site": "Kiranico 日本版MHXX（ユーザー追加確認資料経由）",
+        "url": "https://mhxx.kiranico.com/quest/d5686ee",
+        "kind": "detail",
+        "checkedAt": "2026-10-17"
+      }
+    ],
+    "verification": "partial",
+    "verificationNote": "名称・対象・分類・プリセット武器・実在個別URLは提供された公開資料の追加確認結果に基づきます。この実行環境ではKiranicoを再取得していません。実機確認ではなく、出現条件・HR・評価・特殊報酬は未確認です。"
+  },
+  "fireSupportCorrection": {
+    "questId": "challenge-kiranico-d5e77d0",
+    "sourceUrls": [
+      "https://mhxx.kiranico.com/quest/d5e77d0",
+      "https://w.atwiki.jp/mhxxnyanter/pages/70.html"
+    ],
+    "oldJudgment": "添付資料と専門Wikiが相違し、サポートを保留。",
+    "newJudgment": "前回提供資料に誤記があり、個別ページと専門Wikiの再照合で解決した。",
+    "correctedSupportTypes": [
+      "カリスマ",
+      "アシスト",
+      "回復",
+      "ボマー",
+      "コレクト"
+    ],
+    "previousProvidedSupportTypes": [
+      "カリスマ",
+      "アシスト",
+      "回復",
+      "コレクト",
+      "ビースト"
+    ],
+    "beforeArenaInfo": {
+      "targets": [
+        "リオレウス"
+      ],
+      "participantLimit": "2人以下限定",
+      "rewardMaterials": [],
+      "notes": [
+        "外部取得資料に基づく日本版MHXXのDL闘技大会／チャレンジです。実機・Switch版メニューでの確認と現在の配信可否は未確認です。",
+        "専用報酬・装備用途は未確認です。解放情報の記録なしは、報酬が存在しないことを意味しません。",
+        "サポート傾向は提供資料とニャンター専門Wikiで相違があるため保留。提供資料：カリスマ、アシスト、回復、コレクト、ビースト。専門Wiki：カリスマ、アシスト、回復、ボマー、コレクト。"
+      ],
+      "difficulty": "G★2",
+      "evaluationNotation": "Sランク:7分未満、Aランク:14分未満、Bランク:30分未満"
+    },
+    "afterArenaInfo": {
+      "targets": [
+        "リオレウス"
+      ],
+      "participantLimit": "2人以下限定",
+      "rewardMaterials": [],
+      "notes": [
+        "外部取得資料に基づく日本版MHXXのDL闘技大会／チャレンジです。実機・Switch版メニューでの確認と現在の配信可否は未確認です。",
+        "専用報酬・装備用途は未確認です。解放情報の記録なしは、報酬が存在しないことを意味しません。",
+        "前回提供資料に誤記があり、個別ページと専門Wikiの再照合で解決しました。サポート傾向はカリスマ、アシスト、回復、ボマー、コレクトです。"
+      ],
+      "difficulty": "G★2",
+      "evaluationNotation": "Sランク:7分未満、Aランク:14分未満、Bランク:30分未満",
+      "supportTypes": [
+        "カリスマ",
+        "アシスト",
+        "回復",
+        "ボマー",
+        "コレクト"
+      ]
+    }
+  },
+  "remainingUnknowns": [
+    "新規大連続3のS/A/B評価時間・人数・受注HR・詳細な出現条件・特殊報酬",
+    "他の候補について残る受注HR・出現条件・報酬や評価の未確認事項",
+    "実機・日本版Switchメニュー・現在のダウンロード可否・日本版全件の網羅性"
+  ],
+  "preservation": "旧74監査ファイル・前回提供JSONを変更せず保持。今回の変更は新規1件、火竜arenaInfo.supportTypesの追加と古い保留注記の訂正のみ。既存1348件・監査済み武器補完25件は変更しない。"
+}

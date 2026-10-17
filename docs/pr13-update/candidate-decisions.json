@@ -1,0 +1,628 @@
+{
+  "checkedAt": "2026-10-17",
+  "sourceMode": "user_supplied_external_observations_plus_runtime_supplementary_sources",
+  "entries": [
+    {
+      "name": "ＸＸイベント：紫毒姫討伐",
+      "role": "hunter",
+      "evidencePointer": "candidateQuests/0",
+      "kiranicoDetailUrl": "https://mhxx.kiranico.com/quest/3ae8e68",
+      "alternateDetailUrl": "https://x.mh4info.com/quest/detail/?no=1880",
+      "inGameSwitchClassificationVerified": false,
+      "duplicateExistingIds": [],
+      "rewardResearch": {
+        "status": "unconfirmed",
+        "checkedSources": [
+          "https://x.mh4info.com/quest/detail/?no=1880"
+        ],
+        "notes": "取得した資料に専用コイン・チケットの報酬表や具体的な生産用途を確認できない。添付資料にも報酬情報はない。報酬が存在しないとは判定しない。"
+      },
+      "kiranicoDetailRecheckedInRuntime": false,
+      "decision": "included",
+      "questId": "challenge-kiranico-3ae8e68",
+      "canonicalName": "ＸＸイベント：紫毒姫討伐",
+      "adoptedDetailUrl": "https://mhxx.kiranico.com/quest/3ae8e68",
+      "nameVariants": [
+        "XXイベント:紫毒姫討伐"
+      ],
+      "orderPolicy": "既存20件の後、提供候補の順。ゲーム内・Kiranicoの厳密な掲載順は未確認。",
+      "specialistEvidence": null
+    },
+    {
+      "name": "ＸＸイベント：金雷公討伐",
+      "role": "hunter",
+      "evidencePointer": "candidateQuests/1",
+      "kiranicoDetailUrl": "https://mhxx.kiranico.com/quest/00757da",
+      "alternateDetailUrl": "https://x.mh4info.com/quest/detail/?no=1881",
+      "inGameSwitchClassificationVerified": false,
+      "duplicateExistingIds": [],
+      "rewardResearch": {
+        "status": "unconfirmed",
+        "checkedSources": [
+          "https://x.mh4info.com/quest/detail/?no=1881"
+        ],
+        "notes": "取得した資料に専用コイン・チケットの報酬表や具体的な生産用途を確認できない。添付資料にも報酬情報はない。報酬が存在しないとは判定しない。"
+      },
+      "kiranicoDetailRecheckedInRuntime": false,
+      "decision": "included",
+      "questId": "challenge-kiranico-00757da",
+      "canonicalName": "ＸＸイベント：金雷公討伐",
+      "adoptedDetailUrl": "https://mhxx.kiranico.com/quest/00757da",
+      "nameVariants": [
+        "XXイベント:金雷公討伐"
+      ],
+      "orderPolicy": "既存20件の後、提供候補の順。ゲーム内・Kiranicoの厳密な掲載順は未確認。",
+      "specialistEvidence": null
+    },
+    {
+      "name": "ＸＸイベント：白疾風討伐",
+      "role": "hunter",
+      "evidencePointer": "candidateQuests/2",
+      "kiranicoDetailUrl": "https://mhxx.kiranico.com/quest/86d3d88",
+      "alternateDetailUrl": "https://x.mh4info.com/quest/detail/?no=1882",
+      "inGameSwitchClassificationVerified": false,
+      "duplicateExistingIds": [],
+      "rewardResearch": {
+        "status": "unconfirmed",
+        "checkedSources": [
+          "https://x.mh4info.com/quest/detail/?no=1882"
+        ],
+        "notes": "取得した資料に専用コイン・チケットの報酬表や具体的な生産用途を確認できない。添付資料にも報酬情報はない。報酬が存在しないとは判定しない。"
+      },
+      "kiranicoDetailRecheckedInRuntime": false,
+      "decision": "included",
+      "questId": "challenge-kiranico-86d3d88",
+      "canonicalName": "ＸＸイベント：白疾風討伐",
+      "adoptedDetailUrl": "https://mhxx.kiranico.com/quest/86d3d88",
+      "nameVariants": [
+        "XXイベント：白疾風討伐"
+      ],
+      "orderPolicy": "既存20件の後、提供候補の順。ゲーム内・Kiranicoの厳密な掲載順は未確認。",
+      "specialistEvidence": null
+    },
+    {
+      "name": "ＸＸイベント：黒炎王討伐",
+      "role": "hunter",
+      "evidencePointer": "candidateQuests/3",
+      "kiranicoDetailUrl": "https://mhxx.kiranico.com/quest/d56860e",
+      "alternateDetailUrl": "https://x.mh4info.com/quest/detail/?no=1883",
+      "inGameSwitchClassificationVerified": false,
+      "duplicateExistingIds": [],
+      "rewardResearch": {
+        "status": "unconfirmed",
+        "checkedSources": [
+          "https://x.mh4info.com/quest/detail/?no=1883"
+        ],
+        "notes": "取得した資料に専用コイン・チケットの報酬表や具体的な生産用途を確認できない。添付資料にも報酬情報はない。報酬が存在しないとは判定しない。"
+      },
+      "kiranicoDetailRecheckedInRuntime": false,
+      "decision": "included",
+      "questId": "challenge-kiranico-d56860e",
+      "canonicalName": "ＸＸイベント：黒炎王討伐",
+      "adoptedDetailUrl": "https://mhxx.kiranico.com/quest/d56860e",
+      "nameVariants": [
+        "XXイベント：黒炎王討伐"
+      ],
+      "orderPolicy": "既存20件の後、提供候補の順。ゲーム内・Kiranicoの厳密な掲載順は未確認。",
+      "specialistEvidence": null
+    },
+    {
+      "name": "ＸＸイベント：荒鉤爪討伐",
+      "role": "hunter",
+      "evidencePointer": "candidateQuests/4",
+      "kiranicoDetailUrl": "https://mhxx.kiranico.com/quest/7a353ed",
+      "alternateDetailUrl": "https://x.mh4info.com/quest/detail/?no=1884",
+      "inGameSwitchClassificationVerified": false,
+      "duplicateExistingIds": [],
+      "rewardResearch": {
+        "status": "unconfirmed",
+        "checkedSources": [
+          "https://x.mh4info.com/quest/detail/?no=1884"
+        ],
+        "notes": "取得した資料に専用コイン・チケットの報酬表や具体的な生産用途を確認できない。添付資料にも報酬情報はない。報酬が存在しないとは判定しない。"
+      },
+      "kiranicoDetailRecheckedInRuntime": false,
+      "decision": "included",
+      "questId": "challenge-kiranico-7a353ed",
+      "canonicalName": "ＸＸイベント：荒鉤爪討伐",
+      "adoptedDetailUrl": "https://mhxx.kiranico.com/quest/7a353ed",
+      "nameVariants": [
+        "XXイベント：荒鉤爪討伐"
+      ],
+      "orderPolicy": "既存20件の後、提供候補の順。ゲーム内・Kiranicoの厳密な掲載順は未確認。",
+      "specialistEvidence": null
+    },
+    {
+      "name": "ＸＸイベント：銀嶺討伐",
+      "role": "hunter",
+      "evidencePointer": "candidateQuests/5",
+      "kiranicoDetailUrl": "https://mhxx.kiranico.com/quest/ae65638",
+      "alternateDetailUrl": null,
+      "inGameSwitchClassificationVerified": false,
+      "duplicateExistingIds": [],
+      "rewardResearch": {
+        "status": "unconfirmed",
+        "checkedSources": [],
+        "notes": "取得した資料に専用コイン・チケットの報酬表や具体的な生産用途を確認できない。添付資料にも報酬情報はない。報酬が存在しないとは判定しない。"
+      },
+      "kiranicoDetailRecheckedInRuntime": false,
+      "decision": "included",
+      "questId": "challenge-kiranico-ae65638",
+      "canonicalName": "ＸＸイベント：銀嶺討伐",
+      "adoptedDetailUrl": "https://mhxx.kiranico.com/quest/ae65638",
+      "nameVariants": [],
+      "orderPolicy": "既存20件の後、提供候補の順。ゲーム内・Kiranicoの厳密な掲載順は未確認。",
+      "specialistEvidence": null
+    },
+    {
+      "name": "ＸＸイベント：大連続狩猟１",
+      "role": "hunter",
+      "evidencePointer": "candidateQuests/6",
+      "kiranicoDetailUrl": "https://mhxx.kiranico.com/quest/e3aea9a",
+      "alternateDetailUrl": null,
+      "inGameSwitchClassificationVerified": false,
+      "duplicateExistingIds": [],
+      "rewardResearch": {
+        "status": "unconfirmed",
+        "checkedSources": [],
+        "notes": "取得した資料に専用コイン・チケットの報酬表や具体的な生産用途を確認できない。添付資料にも報酬情報はない。報酬が存在しないとは判定しない。"
+      },
+      "kiranicoDetailRecheckedInRuntime": false,
+      "decision": "included",
+      "questId": "challenge-kiranico-e3aea9a",
+      "canonicalName": "ＸＸイベント：大連続狩猟１",
+      "adoptedDetailUrl": "https://mhxx.kiranico.com/quest/e3aea9a",
+      "nameVariants": [],
+      "orderPolicy": "既存20件の後、提供候補の順。ゲーム内・Kiranicoの厳密な掲載順は未確認。",
+      "specialistEvidence": null
+    },
+    {
+      "name": "ＸＸイベント：大連続狩猟２",
+      "role": "hunter",
+      "evidencePointer": "candidateQuests/7",
+      "kiranicoDetailUrl": "https://mhxx.kiranico.com/quest/60a9a7e",
+      "alternateDetailUrl": null,
+      "inGameSwitchClassificationVerified": false,
+      "duplicateExistingIds": [],
+      "rewardResearch": {
+        "status": "unconfirmed",
+        "checkedSources": [],
+        "notes": "取得した資料に専用コイン・チケットの報酬表や具体的な生産用途を確認できない。添付資料にも報酬情報はない。報酬が存在しないとは判定しない。"
+      },
+      "kiranicoDetailRecheckedInRuntime": false,
+      "decision": "included",
+      "questId": "challenge-kiranico-60a9a7e",
+      "canonicalName": "ＸＸイベント：大連続狩猟２",
+      "adoptedDetailUrl": "https://mhxx.kiranico.com/quest/60a9a7e",
+      "nameVariants": [],
+      "orderPolicy": "既存20件の後、提供候補の順。ゲーム内・Kiranicoの厳密な掲載順は未確認。",
+      "specialistEvidence": null
+    },
+    {
+      "name": "ＸＸイベント：矛砕討伐",
+      "role": "hunter",
+      "evidencePointer": "candidateQuests/8",
+      "kiranicoDetailUrl": "https://mhxx.kiranico.com/quest/99e0e3a",
+      "alternateDetailUrl": "https://x.mh4info.com/quest/detail/?no=1885",
+      "inGameSwitchClassificationVerified": false,
+      "duplicateExistingIds": [],
+      "rewardResearch": {
+        "status": "unconfirmed",
+        "checkedSources": [
+          "https://x.mh4info.com/quest/detail/?no=1885"
+        ],
+        "notes": "取得した資料に専用コイン・チケットの報酬表や具体的な生産用途を確認できない。添付資料にも報酬情報はない。報酬が存在しないとは判定しない。"
+      },
+      "kiranicoDetailRecheckedInRuntime": false,
+      "decision": "included",
+      "questId": "challenge-kiranico-99e0e3a",
+      "canonicalName": "ＸＸイベント：矛砕討伐",
+      "adoptedDetailUrl": "https://mhxx.kiranico.com/quest/99e0e3a",
+      "nameVariants": [
+        "XXイベント：矛砕討伐"
+      ],
+      "orderPolicy": "既存20件の後、提供候補の順。ゲーム内・Kiranicoの厳密な掲載順は未確認。",
+      "specialistEvidence": null
+    },
+    {
+      "name": "ＸＸイベント：岩穿討伐",
+      "role": "hunter",
+      "evidencePointer": "candidateQuests/9",
+      "kiranicoDetailUrl": "https://mhxx.kiranico.com/quest/5396983",
+      "alternateDetailUrl": "https://x.mh4info.com/quest/detail/?no=1886",
+      "inGameSwitchClassificationVerified": false,
+      "duplicateExistingIds": [],
+      "rewardResearch": {
+        "status": "unconfirmed",
+        "checkedSources": [
+          "https://x.mh4info.com/quest/detail/?no=1886"
+        ],
+        "notes": "取得した資料に専用コイン・チケットの報酬表や具体的な生産用途を確認できない。添付資料にも報酬情報はない。報酬が存在しないとは判定しない。"
+      },
+      "kiranicoDetailRecheckedInRuntime": false,
+      "decision": "included",
+      "questId": "challenge-kiranico-5396983",
+      "canonicalName": "ＸＸイベント：岩穿討伐",
+      "adoptedDetailUrl": "https://mhxx.kiranico.com/quest/5396983",
+      "nameVariants": [
+        "XXイベント：岩穿討伐"
+      ],
+      "orderPolicy": "既存20件の後、提供候補の順。ゲーム内・Kiranicoの厳密な掲載順は未確認。",
+      "specialistEvidence": null
+    },
+    {
+      "name": "ＸＸイベント：紅兜討伐",
+      "role": "hunter",
+      "evidencePointer": "candidateQuests/10",
+      "kiranicoDetailUrl": "https://mhxx.kiranico.com/quest/3ae8e98",
+      "alternateDetailUrl": "https://x.mh4info.com/quest/detail/?no=1887",
+      "inGameSwitchClassificationVerified": false,
+      "duplicateExistingIds": [],
+      "rewardResearch": {
+        "status": "unconfirmed",
+        "checkedSources": [
+          "https://x.mh4info.com/quest/detail/?no=1887"
+        ],
+        "notes": "取得した資料に専用コイン・チケットの報酬表や具体的な生産用途を確認できない。添付資料にも報酬情報はない。報酬が存在しないとは判定しない。"
+      },
+      "kiranicoDetailRecheckedInRuntime": false,
+      "decision": "included",
+      "questId": "challenge-kiranico-3ae8e98",
+      "canonicalName": "ＸＸイベント：紅兜討伐",
+      "adoptedDetailUrl": "https://mhxx.kiranico.com/quest/3ae8e98",
+      "nameVariants": [
+        "XXイベント：紅兜討伐"
+      ],
+      "orderPolicy": "既存20件の後、提供候補の順。ゲーム内・Kiranicoの厳密な掲載順は未確認。",
+      "specialistEvidence": null
+    },
+    {
+      "name": "ＸＸイベント：隻眼討伐",
+      "role": "hunter",
+      "evidencePointer": "candidateQuests/11",
+      "kiranicoDetailUrl": "https://mhxx.kiranico.com/quest/007578a",
+      "alternateDetailUrl": "https://x.mh4info.com/quest/detail/?no=1888",
+      "inGameSwitchClassificationVerified": false,
+      "duplicateExistingIds": [],
+      "rewardResearch": {
+        "status": "unconfirmed",
+        "checkedSources": [
+          "https://x.mh4info.com/quest/detail/?no=1888"
+        ],
+        "notes": "取得した資料に専用コイン・チケットの報酬表や具体的な生産用途を確認できない。添付資料にも報酬情報はない。報酬が存在しないとは判定しない。"
+      },
+      "kiranicoDetailRecheckedInRuntime": false,
+      "decision": "included",
+      "questId": "challenge-kiranico-007578a",
+      "canonicalName": "ＸＸイベント：隻眼討伐",
+      "adoptedDetailUrl": "https://mhxx.kiranico.com/quest/007578a",
+      "nameVariants": [
+        "XXイベント：隻眼討伐"
+      ],
+      "orderPolicy": "既存20件の後、提供候補の順。ゲーム内・Kiranicoの厳密な掲載順は未確認。",
+      "specialistEvidence": null
+    },
+    {
+      "name": "ＸＸイベント：大雪主討伐",
+      "role": "hunter",
+      "evidencePointer": "candidateQuests/12",
+      "kiranicoDetailUrl": "https://mhxx.kiranico.com/quest/86d3d98",
+      "alternateDetailUrl": "https://x.mh4info.com/quest/detail/?no=1889",
+      "inGameSwitchClassificationVerified": false,
+      "duplicateExistingIds": [],
+      "rewardResearch": {
+        "status": "unconfirmed",
+        "checkedSources": [
+          "https://x.mh4info.com/quest/detail/?no=1889"
+        ],
+        "notes": "取得した資料に専用コイン・チケットの報酬表や具体的な生産用途を確認できない。添付資料にも報酬情報はない。報酬が存在しないとは判定しない。"
+      },
+      "kiranicoDetailRecheckedInRuntime": false,
+      "decision": "included",
+      "questId": "challenge-kiranico-86d3d98",
+      "canonicalName": "ＸＸイベント：大雪主討伐",
+      "adoptedDetailUrl": "https://mhxx.kiranico.com/quest/86d3d98",
+      "nameVariants": [
+        "XXイベント：大雪主討伐"
+      ],
+      "orderPolicy": "既存20件の後、提供候補の順。ゲーム内・Kiranicoの厳密な掲載順は未確認。",
+      "specialistEvidence": null
+    },
+    {
+      "name": "ＸＸイベント：大連続狩猟３",
+      "role": "hunter",
+      "evidencePointer": "candidateQuests/13",
+      "kiranicoDetailUrl": "https://mhxx.kiranico.com/quest/d5686ee",
+      "alternateDetailUrl": null,
+      "inGameSwitchClassificationVerified": false,
+      "duplicateExistingIds": [],
+      "rewardResearch": {
+        "status": "unconfirmed",
+        "checkedSources": [],
+        "notes": "取得した資料に専用コイン・チケットの報酬表や具体的な生産用途を確認できない。添付資料にも報酬情報はない。報酬が存在しないとは判定しない。"
+      },
+      "kiranicoDetailRecheckedInRuntime": false,
+      "decision": "included",
+      "reason": "ユーザーから実在Kiranico個別URLと固定識別子の追加確認結果を取得。",
+      "questId": "challenge-kiranico-d5686ee",
+      "canonicalName": "ＸＸイベント：大連続狩猟３",
+      "adoptedDetailUrl": "https://mhxx.kiranico.com/quest/d5686ee",
+      "orderPolicy": "既存の順番を維持し、追加確認したクエストを末尾40へ登録。厳密なゲーム内掲載順は未確認。"
+    },
+    {
+      "name": "ＸＸイベント：火竜討伐",
+      "role": "prowler",
+      "evidencePointer": "candidateQuests/14",
+      "kiranicoDetailUrl": "https://mhxx.kiranico.com/quest/d5e77d0",
+      "alternateDetailUrl": "https://x.mh4info.com/quest/detail/?no=1904",
+      "inGameSwitchClassificationVerified": false,
+      "duplicateExistingIds": [],
+      "rewardResearch": {
+        "status": "unconfirmed",
+        "checkedSources": [
+          "https://x.mh4info.com/quest/detail/?no=1904",
+          "https://w.atwiki.jp/mhxxnyanter/pages/70.html#id_76e8e70e"
+        ],
+        "notes": "取得した資料に専用コイン・チケットの報酬表や具体的な生産用途を確認できない。添付資料にも報酬情報はない。報酬が存在しないとは判定しない。"
+      },
+      "kiranicoDetailRecheckedInRuntime": false,
+      "supportDecision": "resolved_previous_attachment_typo",
+      "evaluationComparison": {
+        "adopted": "Sランク:7分未満、Aランク:14分未満、Bランク:30分未満",
+        "specialistNotation": "S7:00　A:14:00　B30:00",
+        "boundaryPolicy": "DBの「未満」を保持。専門Wikiの数値だけから等号を推定しない。"
+      },
+      "decision": "included",
+      "questId": "challenge-kiranico-d5e77d0",
+      "canonicalName": "ＸＸイベント：火竜討伐",
+      "adoptedDetailUrl": "https://mhxx.kiranico.com/quest/d5e77d0",
+      "nameVariants": [
+        "XXイベント：火竜討伐"
+      ],
+      "orderPolicy": "既存20件の後、提供候補の順。ゲーム内・Kiranicoの厳密な掲載順は未確認。",
+      "specialistEvidence": {
+        "name": "ＸＸイベント：火竜討伐",
+        "url": "https://w.atwiki.jp/mhxxnyanter/pages/70.html#id_76e8e70e",
+        "supportTypes": [
+          "カリスマ",
+          "アシスト",
+          "回復",
+          "ボマー",
+          "コレクト"
+        ],
+        "evaluationNotation": "S7:00　A:14:00　B30:00"
+      },
+      "supportCorrection": {
+        "supportTypes": [
+          "カリスマ",
+          "アシスト",
+          "回復",
+          "ボマー",
+          "コレクト"
+        ],
+        "evidence": "corrections.json#/fireSupportCorrection"
+      }
+    },
+    {
+      "name": "ＸＸイベント：轟竜討伐",
+      "role": "prowler",
+      "evidencePointer": "candidateQuests/15",
+      "kiranicoDetailUrl": "https://mhxx.kiranico.com/quest/7ae998e",
+      "alternateDetailUrl": "https://x.mh4info.com/quest/detail/?no=1905",
+      "inGameSwitchClassificationVerified": false,
+      "duplicateExistingIds": [],
+      "rewardResearch": {
+        "status": "unconfirmed",
+        "checkedSources": [
+          "https://x.mh4info.com/quest/detail/?no=1905",
+          "https://w.atwiki.jp/mhxxnyanter/pages/70.html#id_3b17d3a4"
+        ],
+        "notes": "取得した資料に専用コイン・チケットの報酬表や具体的な生産用途を確認できない。添付資料にも報酬情報はない。報酬が存在しないとは判定しない。"
+      },
+      "kiranicoDetailRecheckedInRuntime": false,
+      "supportDecision": "attachment_and_specialist_match",
+      "evaluationComparison": {
+        "adopted": "Sランク:7分未満、Aランク:14分未満、Bランク:30分未満",
+        "specialistNotation": "S7:00　A:14:00　B30:00",
+        "boundaryPolicy": "DBの「未満」を保持。専門Wikiの数値だけから等号を推定しない。"
+      },
+      "decision": "included",
+      "questId": "challenge-kiranico-7ae998e",
+      "canonicalName": "ＸＸイベント：轟竜討伐",
+      "adoptedDetailUrl": "https://mhxx.kiranico.com/quest/7ae998e",
+      "nameVariants": [
+        "XXイベント：轟竜討伐"
+      ],
+      "orderPolicy": "既存20件の後、提供候補の順。ゲーム内・Kiranicoの厳密な掲載順は未確認。",
+      "specialistEvidence": {
+        "name": "ＸＸイベント：轟竜討伐",
+        "url": "https://w.atwiki.jp/mhxxnyanter/pages/70.html#id_3b17d3a4",
+        "supportTypes": [
+          "カリスマ",
+          "ファイト",
+          "ガード",
+          "アシスト",
+          "ビースト"
+        ],
+        "evaluationNotation": "S7:00　A:14:00　B30:00"
+      }
+    },
+    {
+      "name": "ＸＸイベント：迅竜討伐",
+      "role": "prowler",
+      "evidencePointer": "candidateQuests/16",
+      "kiranicoDetailUrl": null,
+      "alternateDetailUrl": "https://x.mh4info.com/quest/detail/?no=1906",
+      "inGameSwitchClassificationVerified": false,
+      "duplicateExistingIds": [],
+      "rewardResearch": {
+        "status": "unconfirmed",
+        "checkedSources": [
+          "https://x.mh4info.com/quest/detail/?no=1906",
+          "https://w.atwiki.jp/mhxxnyanter/pages/70.html#id_4815b752"
+        ],
+        "notes": "取得した資料に専用コイン・チケットの報酬表や具体的な生産用途を確認できない。添付資料にも報酬情報はない。報酬が存在しないとは判定しない。"
+      },
+      "kiranicoDetailRecheckedInRuntime": false,
+      "supportDecision": "attachment_and_specialist_match",
+      "evaluationComparison": {
+        "adopted": "Sランク:7分未満、Aランク:14分未満、Bランク:30分未満",
+        "specialistNotation": "S7:00　A:14:00　B30:00",
+        "boundaryPolicy": "DBの「未満」を保持。専門Wikiの数値だけから等号を推定しない。"
+      },
+      "decision": "included",
+      "questId": "challenge-mh4info-1906",
+      "canonicalName": "ＸＸイベント：迅竜討伐",
+      "adoptedDetailUrl": "https://x.mh4info.com/quest/detail/?no=1906",
+      "nameVariants": [
+        "XXイベント：迅竜討伐"
+      ],
+      "orderPolicy": "既存20件の後、提供候補の順。ゲーム内・Kiranicoの厳密な掲載順は未確認。",
+      "specialistEvidence": {
+        "name": "ＸＸイベント：迅竜討伐",
+        "url": "https://w.atwiki.jp/mhxxnyanter/pages/70.html#id_4815b752",
+        "supportTypes": [
+          "ファイト",
+          "ガード",
+          "アシスト",
+          "ボマー",
+          "ビースト"
+        ],
+        "evaluationNotation": "S7:00　A:14:00　B30:00"
+      }
+    },
+    {
+      "name": "ＸＸイベント：雷狼竜討伐",
+      "role": "prowler",
+      "evidencePointer": "candidateQuests/17",
+      "kiranicoDetailUrl": "https://mhxx.kiranico.com/quest/ae3aa6b",
+      "alternateDetailUrl": "https://x.mh4info.com/quest/detail/?no=1907",
+      "inGameSwitchClassificationVerified": false,
+      "duplicateExistingIds": [],
+      "rewardResearch": {
+        "status": "unconfirmed",
+        "checkedSources": [
+          "https://x.mh4info.com/quest/detail/?no=1907",
+          "https://w.atwiki.jp/mhxxnyanter/pages/70.html#id_cda6ff39"
+        ],
+        "notes": "取得した資料に専用コイン・チケットの報酬表や具体的な生産用途を確認できない。添付資料にも報酬情報はない。報酬が存在しないとは判定しない。"
+      },
+      "kiranicoDetailRecheckedInRuntime": false,
+      "supportDecision": "attachment_and_specialist_match",
+      "evaluationComparison": {
+        "adopted": "Sランク:7分未満、Aランク:14分未満、Bランク:30分未満",
+        "specialistNotation": "S7:00　A:14:00　B30:00",
+        "boundaryPolicy": "DBの「未満」を保持。専門Wikiの数値だけから等号を推定しない。"
+      },
+      "decision": "included",
+      "questId": "challenge-kiranico-ae3aa6b",
+      "canonicalName": "ＸＸイベント：雷狼竜討伐",
+      "adoptedDetailUrl": "https://mhxx.kiranico.com/quest/ae3aa6b",
+      "nameVariants": [
+        "XXイベント：雷狼竜討伐"
+      ],
+      "orderPolicy": "既存20件の後、提供候補の順。ゲーム内・Kiranicoの厳密な掲載順は未確認。",
+      "specialistEvidence": {
+        "name": "ＸＸイベント：雷狼竜討伐",
+        "url": "https://w.atwiki.jp/mhxxnyanter/pages/70.html#id_cda6ff39",
+        "supportTypes": [
+          "ファイト",
+          "アシスト",
+          "回復",
+          "ボマー",
+          "ビースト"
+        ],
+        "evaluationNotation": "S7:00　A:14:00　B30:00"
+      }
+    },
+    {
+      "name": "ＸＸイベント：砕竜討伐",
+      "role": "prowler",
+      "evidencePointer": "candidateQuests/18",
+      "kiranicoDetailUrl": "https://mhxx.kiranico.com/quest/e3977ad",
+      "alternateDetailUrl": "https://x.mh4info.com/quest/detail/?no=1908",
+      "inGameSwitchClassificationVerified": false,
+      "duplicateExistingIds": [],
+      "rewardResearch": {
+        "status": "unconfirmed",
+        "checkedSources": [
+          "https://x.mh4info.com/quest/detail/?no=1908",
+          "https://w.atwiki.jp/mhxxnyanter/pages/70.html#id_70dd4d68"
+        ],
+        "notes": "取得した資料に専用コイン・チケットの報酬表や具体的な生産用途を確認できない。添付資料にも報酬情報はない。報酬が存在しないとは判定しない。"
+      },
+      "kiranicoDetailRecheckedInRuntime": false,
+      "supportDecision": "attachment_and_specialist_match",
+      "evaluationComparison": {
+        "adopted": "Sランク:7分未満、Aランク:14分未満、Bランク:30分未満",
+        "specialistNotation": "S7:00　A:14:00　B30:00",
+        "boundaryPolicy": "DBの「未満」を保持。専門Wikiの数値だけから等号を推定しない。"
+      },
+      "decision": "included",
+      "questId": "challenge-kiranico-e3977ad",
+      "canonicalName": "ＸＸイベント：砕竜討伐",
+      "adoptedDetailUrl": "https://mhxx.kiranico.com/quest/e3977ad",
+      "nameVariants": [
+        "XXイベント：砕竜討伐"
+      ],
+      "orderPolicy": "既存20件の後、提供候補の順。ゲーム内・Kiranicoの厳密な掲載順は未確認。",
+      "specialistEvidence": {
+        "name": "ＸＸイベント：砕竜討伐",
+        "url": "https://w.atwiki.jp/mhxxnyanter/pages/70.html#id_70dd4d68",
+        "supportTypes": [
+          "ファイト",
+          "ガード",
+          "アシスト",
+          "コレクト",
+          "ビースト"
+        ],
+        "evaluationNotation": "S7:00　A:14:00　B30:00"
+      }
+    },
+    {
+      "name": "ＸＸイベント：大連続狩猟４",
+      "role": "prowler",
+      "evidencePointer": "candidateQuests/19",
+      "kiranicoDetailUrl": "https://mhxx.kiranico.com/quest/60766aa",
+      "alternateDetailUrl": null,
+      "inGameSwitchClassificationVerified": false,
+      "duplicateExistingIds": [],
+      "rewardResearch": {
+        "status": "unconfirmed",
+        "checkedSources": [
+          "https://w.atwiki.jp/mhxxnyanter/pages/70.html#id_4eb7b3c3"
+        ],
+        "notes": "取得した資料に専用コイン・チケットの報酬表や具体的な生産用途を確認できない。添付資料にも報酬情報はない。報酬が存在しないとは判定しない。"
+      },
+      "kiranicoDetailRecheckedInRuntime": false,
+      "supportDecision": "attachment_and_specialist_match",
+      "decision": "included",
+      "questId": "challenge-kiranico-60766aa",
+      "canonicalName": "ＸＸイベント：大連続狩猟４",
+      "adoptedDetailUrl": "https://mhxx.kiranico.com/quest/60766aa",
+      "nameVariants": [],
+      "orderPolicy": "既存20件の後、提供候補の順。ゲーム内・Kiranicoの厳密な掲載順は未確認。",
+      "specialistEvidence": {
+        "name": "ＸＸイベント：大連続狩猟４",
+        "url": "https://w.atwiki.jp/mhxxnyanter/pages/70.html#id_4eb7b3c3",
+        "supportTypes": [
+          "カリスマ",
+          "ファイト",
+          "ガード",
+          "回復",
+          "ビースト"
+        ],
+        "evaluationNotation": "S12:00　A25:00　B40:00"
+      }
+    }
+  ],
+  "otherCandidates": "全件網羅の独立証明は未完了。提示20件以外が存在しないとは断定しない。",
+  "previousAudit": "../pr13/candidate-decisions.json",
+  "correctionEvidence": "corrections.json",
+  "summary": {
+    "included": 20,
+    "pending": 0,
+    "excluded": 0
+  },
+  "scopeNote": "提示された20候補の採否。日本版MHXXの全件収録を証明しない。"
+}

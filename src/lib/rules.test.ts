@@ -3,6 +3,7 @@ import { demoQuests } from "../data/demo";
 import { quests } from "../data/quests";
 import { dependents, evaluate, references, validateQuests } from "./rules";
 import type { Quest, Rule, SaveData } from "./types";
+import originalRecords from "../../docs/progress-baseline-1348.json";
 const cleared: Rule = { kind: "quest_cleared", questId: "q1" };
 const unknown: Rule = { kind: "unknown" };
 const save: SaveData = { schemaVersion: 1, completedQuestIds: ["q1"] };
@@ -185,11 +186,14 @@ describe("source URL protocol boundary", () => {
     ]);
     expect(
       quests.every(
-        (q) =>
-          q.sources[0].site === "MHXX攻略レシピ" &&
-          q.sources[0].kind === "detail" &&
-          q.sources[0].checkedAt,
+        (q) => q.sources[0].kind === "detail" && q.sources[0].checkedAt,
       ),
+    ).toBe(true);
+    const originalIds = new Set(originalRecords.map((q) => q.id));
+    expect(
+      quests
+        .filter((q) => originalIds.has(q.id))
+        .every((q) => q.sources[0].site === "MHXX攻略レシピ"),
     ).toBe(true);
   });
 });
