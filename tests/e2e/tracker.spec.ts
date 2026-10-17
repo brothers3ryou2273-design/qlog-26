@@ -25,14 +25,14 @@ test("production shows partial coverage and noindex", async ({ page }) => {
   ).toBeVisible();
   await expect(page.locator(".quest-card")).toHaveCount(45);
   await expect(
-    page.getByText("データ整備中 · 実クエスト1367件収録"),
+    page.getByText("データ整備中 · 実クエスト1368件収録"),
   ).toBeVisible();
   await page.getByRole("button", { name: "G級", exact: true }).click();
   await expect(page.locator(".quest-card")).toHaveCount(32);
   await page.getByRole("button", { name: "闘技大会", exact: true }).click();
   await expect(page.locator(".quest-card")).toHaveCount(17);
   await page.getByRole("button", { name: "チャレンジ", exact: true }).click();
-  await expect(page.locator(".quest-card")).toHaveCount(39);
+  await expect(page.locator(".quest-card")).toHaveCount(40);
   expect(errors).toEqual([]);
 });
 test("checks persist through reload, search filters, and category totals stay separate", async ({
@@ -2596,7 +2596,7 @@ test("public evidence challenge additions preserve 1348 old checks and separate 
     .check();
   await page.getByRole("button", { name: "置き換えて復元" }).click();
   await page.getByRole("button", { name: "チャレンジ", exact: true }).click();
-  await expect(page.getByRole("progressbar")).toHaveAttribute("max", "39");
+  await expect(page.getByRole("progressbar")).toHaveAttribute("max", "40");
   await expect(page.getByRole("progressbar")).toHaveAttribute("value", "20");
   const search = page.getByRole("searchbox");
   await search.fill("リオレウス討伐");
@@ -2607,8 +2607,10 @@ test("public evidence challenge additions preserve 1348 old checks and separate 
   await card.locator(".quest-title").click();
   await expect(
     card.getByRole("region", { name: "闘技大会・チャレンジの参考情報" }),
-  ).toContainText("サポート傾向：未確認");
-  await expect(card).toContainText("相違があるため保留");
+  ).toContainText("サポート傾向：カリスマ、アシスト、回復、ボマー、コレクト");
+  await expect(card).toContainText(
+    "前回提供資料に誤記があり、個別ページと専門Wikiの再照合で解決",
+  );
   await card.getByRole("checkbox").check();
   await search.fill("ＸＸイベント：迅竜討伐");
   await card.locator(".quest-title").click();
@@ -2668,6 +2670,36 @@ test("public evidence challenge additions preserve 1348 old checks and separate 
       () => document.documentElement.scrollWidth <= innerWidth,
     ),
   ).toBe(true);
+  await search.fill("ＸＸイベント：大連続狩猟３");
+  await expect(card.getByRole("checkbox")).not.toBeChecked();
+  await card.locator(".quest-title").click();
+  await expect(card).toContainText(
+    "朧隠ホロロホルル、猛り爆ぜるブラキディオス",
+  );
+  await expect(card).toContainText(
+    "大剣、ハンマー、ランス、ガンランス、ライトボウガン",
+  );
+  await expect(card).toContainText("評価時間（出典表記）：未確認");
+  await expect(
+    card.locator('a[href="https://mhxx.kiranico.com/quest/d5686ee"]'),
+  ).toBeVisible();
+  await expect(card.locator(".tag-unlock")).toHaveCount(0);
+  await card.getByRole("checkbox").check();
+  await page.reload();
+  await expect(card.getByRole("checkbox")).toBeChecked();
+  await search.fill("大連続狩猟3");
+  await expect(page.locator(".quest-name")).toHaveText([
+    "大連続狩猟3",
+    "ＸＸイベント：大連続狩猟３",
+  ]);
+  await expect(card.getByRole("checkbox")).toHaveCount(2);
+  for (const checkbox of await card.getByRole("checkbox").all())
+    await expect(checkbox).toBeChecked();
+  expect(
+    await page.evaluate(
+      () => document.documentElement.scrollWidth <= innerWidth,
+    ),
+  ).toBe(true);
   const pending = page.waitForEvent("download");
   await page.getByRole("button", { name: "JSONを書き出す" }).click();
   const exported = JSON.parse(
@@ -2678,7 +2710,7 @@ test("public evidence challenge additions preserve 1348 old checks and separate 
     hr: 123,
     dataset: "mhxx",
   });
-  expect(exported.completedQuestIds).toHaveLength(ids.length + 4);
+  expect(exported.completedQuestIds).toHaveLength(ids.length + 5);
   expect(exported.completedQuestIds).toEqual(
     expect.arrayContaining([
       ...ids,
@@ -2686,6 +2718,7 @@ test("public evidence challenge additions preserve 1348 old checks and separate 
       "challenge-kiranico-d5e77d0",
       "challenge-mh4info-1906",
       "challenge-kiranico-3ae8e68",
+      "challenge-kiranico-d5686ee",
     ]),
   );
   expect(Object.keys(exported).sort()).toEqual([
