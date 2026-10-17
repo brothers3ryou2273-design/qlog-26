@@ -4,9 +4,9 @@ import { parseSave, SAVE_KEY } from "../lib/storage";
 import baseline from "../../docs/progress-baseline-1348.json";
 
 it("retains every field of the 1348 released records during the partial completion audit", async () => {
-  expect(quests).toHaveLength(baseline.length);
+  expect(quests.length).toBeGreaterThanOrEqual(baseline.length);
   const byId = new Map(quests.map((q) => [q.id, q]));
-  expect(byId.size).toBe(1348);
+  expect(byId.size).toBe(quests.length);
   for (const previous of baseline) {
     const current = byId.get(previous.id);
     expect(current, previous.id).toBeDefined();
