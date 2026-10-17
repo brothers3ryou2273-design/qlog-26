@@ -1,0 +1,108 @@
+{
+  "checkedAt": "2026-10-16",
+  "recipeList": {
+    "url": "http://wiki.mhxg.org/data/2034.html",
+    "bodySha256": "2dde65b32a43769906ffd55c50ae2489db281220af1dca786890e825043befdc",
+    "observedQuestLinks": [
+      {
+        "name": "タマミツネ討伐",
+        "url": "http://wiki.mhxg.org/ida/267308.html"
+      },
+      {
+        "name": "ディノバルド討伐",
+        "url": "http://wiki.mhxg.org/ida/267309.html"
+      },
+      {
+        "name": "ガムート討伐",
+        "url": "http://wiki.mhxg.org/ida/267310.html"
+      },
+      {
+        "name": "ライゼクス討伐",
+        "url": "http://wiki.mhxg.org/ida/267311.html"
+      },
+      {
+        "name": "ラギアクルス討伐",
+        "url": "http://wiki.mhxg.org/ida/268860.html"
+      },
+      {
+        "name": "ジンオウガ討伐",
+        "url": "http://wiki.mhxg.org/ida/268861.html"
+      },
+      {
+        "name": "ゴア・マガラ討伐",
+        "url": "http://wiki.mhxg.org/ida/268862.html"
+      },
+      {
+        "name": "ティガレックス討伐",
+        "url": "http://wiki.mhxg.org/ida/268863.html"
+      },
+      {
+        "name": "リオレウス討伐",
+        "url": "http://wiki.mhxg.org/ida/268864.html"
+      },
+      {
+        "name": "ナルガクルガ討伐",
+        "url": "http://wiki.mhxg.org/ida/268865.html"
+      },
+      {
+        "name": "ラングロトラ討伐",
+        "url": "http://wiki.mhxg.org/ida/268866.html"
+      },
+      {
+        "name": "ロアルドロス討伐",
+        "url": "http://wiki.mhxg.org/ida/268867.html"
+      },
+      {
+        "name": "ウルクスス討伐",
+        "url": "http://wiki.mhxg.org/ida/268868.html"
+      },
+      {
+        "name": "イャンクック討伐",
+        "url": "http://wiki.mhxg.org/ida/268869.html"
+      },
+      {
+        "name": "アオアシラ討伐",
+        "url": "http://wiki.mhxg.org/ida/268870.html"
+      },
+      {
+        "name": "大連続狩猟1",
+        "url": "http://wiki.mhxg.org/ida/278971.html"
+      },
+      {
+        "name": "大連続狩猟2",
+        "url": "http://wiki.mhxg.org/ida/278972.html"
+      },
+      {
+        "name": "大連続狩猟3",
+        "url": "http://wiki.mhxg.org/ida/278973.html"
+      },
+      {
+        "name": "大連続狩猟4",
+        "url": "http://wiki.mhxg.org/ida/278974.html"
+      },
+      {
+        "name": "大連続狩猟5",
+        "url": "http://wiki.mhxg.org/ida/278975.html"
+      }
+    ],
+    "count": 20,
+    "scope": "この取得一覧の掲載数。日本版チャレンジ全件数の確定ではない。"
+  },
+  "additionalSources": [
+    {
+      "url": "https://mhxx.kiranico.com/quest?vendor=2",
+      "status": "proxy_connect_403",
+      "bodyObserved": false,
+      "observedQuests": null
+    },
+    {
+      "url": "https://mhxx.wiki-db.com/ta/arena/",
+      "status": "proxy_connect_403",
+      "bodyObserved": false,
+      "observedQuests": null
+    }
+  ],
+  "inGameVerificationPerformed": false,
+  "currentDownloadAvailability": "unconfirmed",
+  "historicalDeliveryForAdditionalCandidates": "unconfirmed"
+}

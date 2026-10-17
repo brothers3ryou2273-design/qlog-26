@@ -1,0 +1,219 @@
+{
+  "checkedAt": "2026-10-16",
+  "entries": [
+    {
+      "questId": "arena-recipe-218340",
+      "name": "ホロロホルル討伐",
+      "before": {
+        "kind": "unknown",
+        "note": "この闘技大会の出現前提は未確認。攻略レシピ個別には人数・一部のHR以外の記載がなく、補助一覧も取得内容が空でした。"
+      },
+      "after": {
+        "kind": "unknown",
+        "note": "この闘技大会の出現前提は未確認。攻略レシピ個別には人数・一部のHR以外の記載がなく、補助一覧も取得内容が空でした。"
+      },
+      "decision": "unresolved_preserve_existing",
+      "reason": "前提を確定する新しい根拠を取得できていない。記載なしを最初からと扱わない。"
+    },
+    {
+      "questId": "arena-recipe-238253",
+      "name": "フルフル討伐",
+      "before": {
+        "kind": "unknown",
+        "note": "この闘技大会の出現前提は未確認。攻略レシピ個別には人数・一部のHR以外の記載がなく、補助一覧も取得内容が空でした。"
+      },
+      "after": {
+        "kind": "unknown",
+        "note": "この闘技大会の出現前提は未確認。攻略レシピ個別には人数・一部のHR以外の記載がなく、補助一覧も取得内容が空でした。"
+      },
+      "decision": "unresolved_preserve_existing",
+      "reason": "前提を確定する新しい根拠を取得できていない。記載なしを最初からと扱わない。"
+    },
+    {
+      "questId": "arena-recipe-238254",
+      "name": "ガララアジャラ討伐",
+      "before": {
+        "kind": "unknown",
+        "note": "この闘技大会の出現前提は未確認。攻略レシピ個別には人数・一部のHR以外の記載がなく、補助一覧も取得内容が空でした。"
+      },
+      "after": {
+        "kind": "unknown",
+        "note": "この闘技大会の出現前提は未確認。攻略レシピ個別には人数・一部のHR以外の記載がなく、補助一覧も取得内容が空でした。"
+      },
+      "decision": "unresolved_preserve_existing",
+      "reason": "前提を確定する新しい根拠を取得できていない。記載なしを最初からと扱わない。"
+    },
+    {
+      "questId": "arena-recipe-238255",
+      "name": "リオレウス討伐",
+      "before": {
+        "kind": "unknown",
+        "note": "この闘技大会の出現前提は未確認。攻略レシピ個別には人数・一部のHR以外の記載がなく、補助一覧も取得内容が空でした。"
+      },
+      "after": {
+        "kind": "unknown",
+        "note": "この闘技大会の出現前提は未確認。攻略レシピ個別には人数・一部のHR以外の記載がなく、補助一覧も取得内容が空でした。"
+      },
+      "decision": "unresolved_preserve_existing",
+      "reason": "前提を確定する新しい根拠を取得できていない。記載なしを最初からと扱わない。"
+    },
+    {
+      "questId": "arena-recipe-238256",
+      "name": "ケチャワチャ討伐",
+      "before": {
+        "kind": "all",
+        "rules": [
+          {
+            "kind": "hr_at_least",
+            "value": 4
+          },
+          {
+            "kind": "unknown",
+            "note": "この闘技大会の出現前提は未確認。攻略レシピ個別には人数・一部のHR以外の記載がなく、補助一覧も取得内容が空でした。"
+          }
+        ]
+      },
+      "after": {
+        "kind": "all",
+        "rules": [
+          {
+            "kind": "hr_at_least",
+            "value": 4
+          },
+          {
+            "kind": "unknown",
+            "note": "この闘技大会の出現前提は未確認。攻略レシピ個別には人数・一部のHR以外の記載がなく、補助一覧も取得内容が空でした。"
+          }
+        ]
+      },
+      "decision": "unresolved_preserve_existing",
+      "reason": "前提を確定する新しい根拠を取得できていない。記載なしを最初からと扱わない。"
+    },
+    {
+      "questId": "arena-recipe-238257",
+      "name": "ガノトトス討伐",
+      "before": {
+        "kind": "all",
+        "rules": [
+          {
+            "kind": "hr_at_least",
+            "value": 4
+          },
+          {
+            "kind": "unknown",
+            "note": "この闘技大会の出現前提は未確認。攻略レシピ個別には人数・一部のHR以外の記載がなく、補助一覧も取得内容が空でした。"
+          }
+        ]
+      },
+      "after": {
+        "kind": "all",
+        "rules": [
+          {
+            "kind": "hr_at_least",
+            "value": 4
+          },
+          {
+            "kind": "unknown",
+            "note": "この闘技大会の出現前提は未確認。攻略レシピ個別には人数・一部のHR以外の記載がなく、補助一覧も取得内容が空でした。"
+          }
+        ]
+      },
+      "decision": "unresolved_preserve_existing",
+      "reason": "前提を確定する新しい根拠を取得できていない。記載なしを最初からと扱わない。"
+    },
+    {
+      "questId": "arena-recipe-267307",
+      "name": "ブラキディオス討伐",
+      "before": {
+        "kind": "all",
+        "rules": [
+          {
+            "kind": "hr_at_least",
+            "value": 4
+          },
+          {
+            "kind": "unknown",
+            "note": "この闘技大会の出現前提は未確認。攻略レシピ個別には人数・一部のHR以外の記載がなく、補助一覧も取得内容が空でした。"
+          }
+        ]
+      },
+      "after": {
+        "kind": "all",
+        "rules": [
+          {
+            "kind": "hr_at_least",
+            "value": 4
+          },
+          {
+            "kind": "unknown",
+            "note": "この闘技大会の出現前提は未確認。攻略レシピ個別には人数・一部のHR以外の記載がなく、補助一覧も取得内容が空でした。"
+          }
+        ]
+      },
+      "decision": "unresolved_preserve_existing",
+      "reason": "前提を確定する新しい根拠を取得できていない。記載なしを最初からと扱わない。"
+    },
+    {
+      "questId": "arena-recipe-218341",
+      "name": "ドスマッカォ討伐",
+      "before": {
+        "kind": "unknown",
+        "note": "この闘技大会の出現前提は未確認。攻略レシピ個別には人数・一部のHR以外の記載がなく、補助一覧も取得内容が空でした。"
+      },
+      "after": {
+        "kind": "unknown",
+        "note": "この闘技大会の出現前提は未確認。攻略レシピ個別には人数・一部のHR以外の記載がなく、補助一覧も取得内容が空でした。"
+      },
+      "decision": "unresolved_preserve_existing",
+      "reason": "前提を確定する新しい根拠を取得できていない。記載なしを最初からと扱わない。"
+    },
+    {
+      "questId": "arena-recipe-238258",
+      "name": "ゲリョス討伐",
+      "before": {
+        "kind": "unknown",
+        "note": "この闘技大会の出現前提は未確認。攻略レシピ個別には人数・一部のHR以外の記載がなく、補助一覧も取得内容が空でした。"
+      },
+      "after": {
+        "kind": "unknown",
+        "note": "この闘技大会の出現前提は未確認。攻略レシピ個別には人数・一部のHR以外の記載がなく、補助一覧も取得内容が空でした。"
+      },
+      "decision": "unresolved_preserve_existing",
+      "reason": "前提を確定する新しい根拠を取得できていない。記載なしを最初からと扱わない。"
+    },
+    {
+      "questId": "arena-recipe-238259",
+      "name": "鳥竜種２頭討伐",
+      "before": {
+        "kind": "all",
+        "rules": [
+          {
+            "kind": "hr_at_least",
+            "value": 4
+          },
+          {
+            "kind": "unknown",
+            "note": "この闘技大会の出現前提は未確認。攻略レシピ個別には人数・一部のHR以外の記載がなく、補助一覧も取得内容が空でした。"
+          }
+        ]
+      },
+      "after": {
+        "kind": "all",
+        "rules": [
+          {
+            "kind": "hr_at_least",
+            "value": 4
+          },
+          {
+            "kind": "unknown",
+            "note": "この闘技大会の出現前提は未確認。攻略レシピ個別には人数・一部のHR以外の記載がなく、補助一覧も取得内容が空でした。"
+          }
+        ]
+      },
+      "decision": "unresolved_preserve_existing",
+      "reason": "前提を確定する新しい根拠を取得できていない。記載なしを最初からと扱わない。"
+    }
+  ],
+  "existingGConnections": "既存5件の接続を変更せず保持。",
+  "resolvedCount": 0
+}

@@ -1,0 +1,36 @@
+{
+  "checkedAt": "2026-10-16",
+  "status": "awaiting_runtime_network_configuration",
+  "baselineMain": "adf1519",
+  "sources": [
+    {
+      "url": "https://mhxx.kiranico.com/quest?vendor=2",
+      "result": "CONNECT tunnel failed, response 403",
+      "respondingServer": "envoy",
+      "bodyRetrieved": false,
+      "classification": "proxy_denial_before_origin_response"
+    },
+    {
+      "url": "https://mhxx.wiki-db.com/ta/arena/",
+      "result": "CONNECT tunnel failed, response 403",
+      "respondingServer": "envoy",
+      "bodyRetrieved": false,
+      "classification": "proxy_denial_before_origin_response"
+    }
+  ],
+  "configurationDraft": {
+    "saved": true,
+    "addedHosts": ["mhxx.kiranico.com", "mhxx.wiki-db.com"],
+    "requiresPublish": true,
+    "runtimeAccessVerified": false
+  },
+  "decision": "本文を取得していないため、候補の実在性・分類・件数や武器種の観測として使用しない。候補20件の追加・採否確定は未実施。取得可能になった時点で同じブランチから継続する。",
+  "existingData": "1348件の固定ID・全レコードの互換性基準を保存。現時点でアプリ・既存データ・過去監査への変更なし。",
+  "afterUserAuthorizationRetry": {
+    "checkedAt": "2026-10-16",
+    "httpsResult": "Both hosts still return CONNECT 403 from envoy before origin response.",
+    "httpResult": "Both public HTTP fallbacks also return 403.",
+    "authorizationAcknowledged": true,
+    "runtimeAccessVerified": false
+  }
+}
